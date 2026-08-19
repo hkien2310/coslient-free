@@ -1,0 +1,13 @@
+# UNIVERSAL VIDEO ANIMATION PROMPT (NATURAL REAL-TIME FLUIDITY)
+# Tối ưu hóa cho Runway Gen-3, Kling 1.5/2.0, Luma Dream Machine, Hailuo/Minimax, Wan 2.1
+# Tiêu chí: Mượt mà tuyệt đối, chuyển động thời gian thực tự nhiên, không slow-motion, không gượng ép.
+
+================================================================================
+1. MASTER UNIVERSAL ANIMATE PROMPT (CHUYỂN ĐỘNG MƯỢT MÀ, TỰ NHIÊN THỜI GIAN THỰC)
+================================================================================
+Smooth natural motion, real-time speed, seamless fluid movement. The character moves and interacts with the scene with effortless, lifelike grace at a natural, unhurried pace, with smooth realistic footsteps and gentle breathing. The environment flows naturally: soft wind rustling through foliage and grass, living creatures moving smoothly and playfully, delicate ripples on the water, and gentle shifting sunlight. Seamless continuous animation, pristine visual consistency, fluid organic physics, no slow motion, no stutter, no morphing, no warping, no deformation.
+
+================================================================================
+2. PROMPT RÚT GỌN (CHO CÁC CÔNG CỤ CẦN SỰ TINH GỌN HOẶC GIỚI HẠN KÝ TỰ)
+================================================================================
+Smooth natural motion, real-time speed, seamless fluid movement. The character and environment come to life with effortless lifelike grace, natural relaxed pacing, and smooth continuous dynamics. High visual consistency, fluid organic physics, no slow motion, no stutter, no morphing.

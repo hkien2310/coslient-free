@@ -1,0 +1,239 @@
+{
+  "___style_anchor": "Handcrafted stop-motion diorama miniature set photography — tactile physical puppet with textured clay face and woven miniature garments standing in a weathered wooden bistro interior with glowing amber pendant lamps and atmospheric dust motes",
+
+  "visual_mood": {
+    "primary_feeling": "gentle morning tranquility, quiet companionship, and rustic artisanal warmth",
+    "viewer_impression": "an enchanting sense of a cozy European morning in a handcrafted miniature world filled with storybook charm",
+    "narrative_subtext": "an elderly café owner or baker standing peacefully in his quiet bistro before the morning rush, waiting by fresh warm pastries and steaming coffee under glowing amber lights"
+  },
+
+  "medium": {
+    "type": "physical stop-motion diorama set photography with practical miniature lighting and optical depth of field",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated stop-motion puppet with sculpted matte silicone face, hand-rooted wispy synthetic hair, and bespoke miniature tailored textiles",
+    "backdrop_medium": "hand-built physical miniature architectural set with painted plaster walls, miniature bentwood chairs, distressed timber counter, and functioning electrical miniature pendant lights",
+    "render_stylization": "semi-stylized artisanal puppet realism",
+    "line_art_style": "no outlines — 3D volumetric physical shading, organic light falloff, and tactile material depth",
+    "craft_quality": "master artisan stop-motion diorama fabrication and character sculpting",
+    "physical_material": "matte sculpted polymer clay, synthetic fiber flocking, coarse wool knitwear, ribbed corduroy fabric, distressed weathered balsa/hardwood, glass, and painted plaster",
+    "surface_specularity": "predominantly matte fibrous textiles and weathered wood with localized warm specular glows on the glass pendant shades and steaming kettle",
+    "texture_distress_finish": "chipped paint on bistro table and chairs, visible textile weave and frayed apron hem, authentic chalky wall paint texture",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D subsurface scattering sheen",
+      "flat vector illustration",
+      "procedural glossy textures",
+      "photorealistic human skin pores"
+    ]
+  },
+
+  "design_register": "cozy European storybook bistro, rustic artisanal stop-motion diorama",
+
+  "subject": {
+    "type": "elderly male café proprietor puppet in a corduroy apron standing calmly in the center-right of a rustic bistro",
+    "count": 1,
+    "spatial_distribution": "standing full-length in the center-right midground, framed between the foreground table on the left and the wooden counter on the right",
+
+    "face": {
+      "archetype": "stylized elderly European artisan/baker puppet with expressive gentle features",
+      "skin_tone": "warm pale ivory-cream with subtle peachy undertones",
+      "skin_undertone_sss": "soft clay translucency with warm ambient bounce from the amber pendant lamps",
+      "skin_material_feel": "matte sculpted silicone and polymer clay with fine hand-tooled facial planes, zero digital shine",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet with gentle diffuse highlight along the slender nasal bridge",
+      "face_exposure_pct": 75,
+      "facial_occlusion_boundaries": "temples and ears framed by wispy white hair; lower jaw and chin covered by white mustache and beard",
+      "face_paint": "subtle airbrushed warmth around orbital sockets and cheekbones",
+      "face_volume": "tall, elongated facial architecture with high forehead, slender jawline, and prominent vertical nasal bridge",
+      "forehead_and_skin_planes": "subtle sculpted horizontal brow furrows conveying a serene, contemplative demeanor",
+      "face_shape_silhouette": "elongated vertical oval tapering gracefully into a trimmed white beard",
+      "cheek_contour_and_fullness": "lean sculpted cheeks without excess flesh, gently framed by beard lines",
+      "jaw_and_chin_geometry": "narrow rounded chin wrapped in a soft white bristle beard",
+      "head_cranial_shape": "tall vertical oval crowned by a halo of wild wispy white hair",
+      "head_pitch_deg": 2,
+      "interpupillary_spacing_and_eye_span": "proportional stylized spacing (1.1x eye width) with prominent expressive brow ridges",
+      "palpebral_fissure_and_canthal_tilt": "hooded almond-shaped sculpted eyes with gentle neutral canthal tilt and soft, relaxed upper eyelids",
+      "eyes": "dark glossy sculpted pupil beads gazing forward toward the viewer with quiet warmth and serenity",
+      "nose": "prominent elongated slender nose with a straight vertical bridge and a soft rounded tip",
+      "ears": "moderately large stylized cupped ears protruding softly from beneath the wild hair fringe",
+      "lip_geometry_and_philtrum": "upper lip covered by a downward-sweeping white mustache; lower lip subtle and serene",
+      "mouth": "closed tranquil mouth with a subtle pleasant resting expression",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "tall elongated head with wild halo hair on a slender spindly puppet body with thin legs",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet caricature (approximately 4.5 to 5-head ratio)",
+        "head_pct": "22%",
+        "torso_pct": "45%",
+        "legs_pct": "33%",
+        "shoulder_width": "slender and narrow (1.2x head width), relaxed downward slope",
+        "body_type": "slender, spindly elderly puppet frame",
+        "torso_girth_and_frailty": "narrow cylindrical torso clad in cozy wool knitwear and apron",
+        "silhouette_rigidity_and_geometry": "clean vertical rectangle formed by the apron drape anchored by narrow pinstriped legs",
+        "textile_stiffness_and_hang": "heavy textured corduroy apron hanging straight down with a soft creased horizontal fold at the pocket seam",
+        "limb_thickness_archetype": "slender pencil-thin articulated wire-and-silicone limbs",
+        "neck_morphology": "slender neck framed by a neat white collared shirt and dark tie",
+        "neck_length_and_exposure": "short visible neck portion between shirt collar and jawline",
+        "hands_and_fingers": "hands tucked neatly into or behind the large front pockets of the corduroy apron"
+      },
+      "height_ratios": "primary full-body subject standing approximately 60% of the vertical frame height",
+      "silhouette": "upright vertical silhouette with flared hair halo, boxy apron body, and slender straight legs",
+      "pose": {
+        "stance_type": "relaxed standing stance in bistro",
+        "weight_distribution": "balanced 50/50 weight distribution across both straight legs",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -3,
+        "spine_curvature": "straight, dignified, relaxed vertical posture",
+        "left_arm_pose": "left arm bent at elbow with hand resting inside the apron's front pocket",
+        "right_arm_pose": "right arm bent symmetrically at elbow with hand tucked inside the apron pocket",
+        "leg_and_feet_stance": "feet planted parallel with a narrow stance, grounded on the rustic bistro floorboards",
+        "pose_energy": "tranquil, patient, welcoming, grounded stillness"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing directly on flat miniature wooden floorboards",
+        "leg_dangle_dynamics": "grounded feet",
+        "torso_lean_and_posture": "upright standing posture"
+      },
+      "hand_pose_interaction": "both hands resting snugly inside the deep horizontal front pocket of the corduroy apron",
+      "prop_interaction": "standing adjacent to a rustic table with a steaming miniature glass coffee pot, white ceramic cup, and pastry",
+      "prop_asymmetry_load": "balanced standing pose centered within the bistro scene",
+      "weapon_morphology": "none"
+    },
+
+    "hair": {
+      "color": "pure silvery white with subtle cool grey shadow tones and translucent backlit edges",
+      "style": "wild, fluffy, disheveled crown hair radiating outward like an energetic soft white halo, with neat mustache and beard",
+      "ahoge_cowlick": "multiple fine wispy strands standing upright around the entire cranial circumference",
+      "hair_texture_type": "airy synthetic fiber / mohair flocking with fine individual flyaway strands",
+      "hair_sculptural_form": "voluminous airy halo framing the head in an expressive burst of soft white fibers",
+      "volume_density": "high fluffy volume radiating outwards in all directions",
+      "direction": "radial outward and upward flare from crown and temples",
+      "dominant_zone": "entire cranial crown, lateral temples, mustache, and jawline",
+      "updo_containment": "none — free-form wild halo",
+      "accessories": "none"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "none",
+      "outerwear_and_upper": "coarse heather-grey chunky wool knit long-sleeved sweater worn over a white collared dress shirt",
+      "inner_layer_topology": "crisp miniature white pointed shirt collar visible at the neck with a small knotted dark brown necktie",
+      "apron_garment_structure": "warm caramel/terracotta-orange corduroy bib apron featuring wide shoulder straps, a large double-stitched front pocket pouch, and a raw fringed lower hem",
+      "lower_garment_and_drape": "dark charcoal-grey pinstriped tailored wool trousers falling straight to the ankles",
+      "footwear_and_soles": "miniature dark brown leather shoes with flat soles resting on the floorboards",
+      "textile_material_and_gloss": "100% matte tactile fabrics: ribbed corduroy, chunky coarse wool knit, woven cotton shirt, and pinstriped wool with zero sheen",
+      "collar_and_neckline_topology": "neat triangular white collar points framing a small dark tie knot above the grey sweater crewneck",
+      "pocket_and_hem_hardware": "prominent horizontal stitched pocket pouch across the midsection of the orange apron",
+      "jewelry_and_accessories": "none"
+    }
+  },
+
+  "micro_features": [
+    "delicate wispy curly plume of translucent steam rising from the miniature glass kettle on the left table",
+    "tactile wide-ribbed corduroy texture and fringed raw lower hem of the terracotta-orange apron",
+    "individual backlit white fiber filaments radiating outwards in a wild halo around the puppet's crown",
+    "golden bread roll/croissant and tiny white ceramic coffee cup resting on the weathered bistro table",
+    "distressed paint patina on the dark blue wooden table legs and vintage bentwood chairs",
+    "three glowing warm amber-yellow conical pendant lamp shades hanging at staggered heights from black ceiling cords",
+    "floating atmospheric dust motes and flour particles catching the downward beams of tungsten light"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "atmospheric dual-tone palette: warm 2800K golden-amber light from overhead pendant lamps contrasting against cool 6000K slate-blue painted background walls — prohibit uniform muddy sepia wash",
+    "color_grading_intent": "rich storybook European cinematic grading with striking complementary color harmony between warm terracotta/amber and cool slate-teal",
+    "global_saturation_level": "vividly saturated in the warm accents (apron, glowing lamp shades, pastry) balanced by desaturated cool slate-blue walls and neutral grey sweater",
+    "environmental_split_toning": "warm golden-amber light cascading downwards from lamps onto the subject and tables, surrounded by deep cool slate-blue atmospheric shadows",
+    "palette": [
+      { "name": "terracotta orange corduroy", "hsl": "hsl(25, 75%, 48%)" },
+      { "name": "glowing amber yellow", "hsl": "hsl(40, 90%, 55%)" },
+      { "name": "slate blue wall", "hsl": "hsl(205, 30%, 38%)" },
+      { "name": "heather grey wool", "hsl": "hsl(215, 12%, 45%)" },
+      { "name": "weathered oak timber", "hsl": "hsl(35, 45%, 40%)" },
+      { "name": "crisp white collar/hair", "hsl": "hsl(40, 15%, 92%)" }
+    ],
+    "shadow_color": "deep muted slate-navy and warm umber",
+    "highlight_color": "luminous warm golden-yellow",
+    "contrast_profile": "medium-high theatrical contrast created by overhead practical spotlights",
+    "saturation_map": "highest on orange apron and amber lamps, moderate on wood furniture, subdued on blue walls and grey knitwear",
+    "skin_warmth_vs_env_contrast": "high chromatic pop: warm terracotta and golden skin tones stand out sharply against the cool muted slate-blue background",
+    "color_temperature": "warm 2800K practical key lighting with cool 5500K ambient room fill"
+  },
+
+  "lighting": {
+    "drama_level": "cozy, theatrical, practical-driven storybook lighting",
+    "key_light": {
+      "azimuth_deg": 10,
+      "elevation_deg": 65,
+      "quality": "overhead directional warm tungsten pool of light radiating directly downward from the three hanging amber pendant lamps",
+      "color_temp_K": 2800
+    },
+    "fill_light": {
+      "azimuth_deg": -50,
+      "elevation_deg": 25,
+      "ratio": "1:3 soft cool ambient fill bouncing from the blue walls and window on the left",
+      "color_temp_K": 5000
+    },
+    "rim_light": {
+      "azimuth_deg": 170,
+      "elevation_deg": 50,
+      "surfaces": "bright luminous rim light illuminating the outer edges of the wild white halo hair, shoulders, and table edges"
+    },
+    "ambient_bounce": "warm diffuse upward bounce from the light floorboards onto the lower edge of the apron and trousers",
+    "special": "illuminated floating micro-particles / dust motes glistening within the cone of light beneath the pendant lamps"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "balanced environmental interior: left 40% occupied by the cozy bistro table, chairs, and steaming coffee; center-right 35% anchored by the standing puppet proprietor; right 25% featuring the rustic wooden counter and shelves",
+    "layer_stack_z_index": "Layer 0: slate-blue back wall and shelving -> Layer 1: hanging amber pendant lamps and background wooden counter -> Layer 2: standing puppet proprietor -> Layer 3: foreground bistro table with steaming coffee pot and chairs on the left",
+    "framing_crop": "wide environmental full-body shot establishing character and setting",
+    "subject_vertical_fill_pct": 60,
+    "headroom_and_ground_clearance": "25% generous upper headroom showcasing the hanging pendant lamps; 15% ground clearance showing floorboards",
+    "frame_edge_clipping_and_bleed": "left window and chair edges bleed off left frame; right counter bleeds off right frame",
+    "ground_pedestal": "miniature wooden bistro floorboards with soft natural grain",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": -5,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 35,
+    "depth_of_field": {
+      "sharp_zone": "crisp optical focus across the puppet proprietor and the foreground coffee table",
+      "blurred_zone": "gentle progressive optical defocus on the distant background shelves, wall paintings, and far window panes",
+      "blur_strength": "f/2.8 diorama depth of field with natural miniature scale falloff"
+    },
+    "rule_of_thirds": "puppet proprietor positioned along the right vertical third line; table and kettle aligned along the left vertical third line",
+    "grid_and_accent_anchors": {
+      "construction_grid": "vertical rhythm established by the hanging lamp cords, chair legs, and standing figure",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "rustic vintage European café / bakery interior",
+    "key_elements": "painted slate-blue plaster walls, framed wall art, timber shelving with glass jars, distressed wooden counter, large multi-pane window on left",
+    "layer_order": "back wall with pictures -> wooden shelves and counter -> standing puppet and tables",
+    "background_density": "richly detailed yet harmoniously arranged with authentic storybook depth",
+    "background_treatment": "soft cinematic blur preserving identifiable architectural silhouettes"
+  },
+
+  "typography_and_graphic_elements": {
+    "__note": "No overlay typography or logos. Small framed artwork prints on the background wall are miniature and abstract."
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, digital 3D render, Pixar style, Disney style, photorealistic human skin, real human flesh, modern restaurant, cold fluorescent lighting, flat lighting, deformed hands, extra fingers, cartoon 2D drawing",
+
+  "reconstruction_priority": [
+    "tactile stop-motion physical materials (matte clay face, real corduroy apron texture, chunky wool knitwear) — AI often renders generic smooth 3D plastic",
+    "distinctive wild white halo hair structure and gentle facial features — AI frequently turns into messy noise or generic cartoon hair",
+    "striking complementary lighting (warm amber pendant pools vs cool slate-blue background walls) — AI often flattens into a single monochromatic wash",
+    "intricate miniature bistro props (steaming kettle, bentwood chairs, bread roll, wooden counter) — AI frequently simplifies or melts small furniture details"
+  ]
+}

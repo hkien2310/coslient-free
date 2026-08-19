@@ -1,0 +1,19 @@
+# UNIVERSAL IMAGE-TO-VIDEO PROMPT (DÙNG CHO TẤT CẢ ẢNH TRÊN KLING / RUNWAY / LUMA / HAILUO)
+
+Natural real-time 24fps cinematic motion, no slow motion. The colossal creature gently breathes with heavy realistic chest movement, subtle ear twitches, and slow tail sway. The fully clothed robot naturally interacts with subtle mechanical finger articulation and head movement. Fabric of the oversized parka and noragi kimono ripples gently in the crisp morning breeze. Wild grass and flowers sway organically. Smooth steady camera movement following the natural composition. Crisp photographic fidelity, stable geometry, physically grounded realism, zero morphing, zero AI warping, no unnatural sliding.
+
+---
+
+# CÔNG THỨC ANIMATE TÙY BIẾN THEO TỪNG CỠ CẢNH (OPTIONAL TWEAKS):
+
+1. Cảnh Tĩnh / Cận / Tương tác (Medium Companion / Eye-Level):
+"Natural real-time speed, no slow motion. Gentle organic breathing of the colossal creature, subtle blinking and snout sniff. The robot performs smooth, subtle hand gestures and head turns. Wind gently rustling the textured clothing and nearby wildflowers. Subtly drifting handheld camera. Stable anatomy, zero morphing, photorealistic."
+
+2. Cảnh Bước đi / Đồng hành (Tracking / Side-Profile):
+"Natural real-time 24fps lateral tracking camera. The colossal creature walks with heavy grounded footsteps and realistic muscle weight. The clothed robot strides in steady sync beside it. Loose fabric and straps fluttering in the wind. Crisp depth of field, steady motion, zero morphing, no slow motion."
+
+3. Cảnh Đại cảnh / Góc rộng (Wide Vista / Panoramic / Drone):
+"Expansive cinematic slow drone forward push, natural real-time speed, no slow motion. The massive colossal creature turns its head slowly across the vast landscape. Distant clouds and morning mist drifting across mountains. Fabric of the robot's robe fluttering in high-altitude breeze. Photorealistic environmental physics, rock-solid geometry, zero warping."
+
+4. Cảnh Mặt nước / Suối / Đầm phá (Water / Lake / Cenote):
+"Natural real-time water physics, no slow motion. Gentle surface ripples and reflections. The colossal aquatic creature glides smoothly through clear water with natural body propulsion. Robot gently gestures with subtle mechanical finger movements. Crisp sunlight reflections, zero AI distortion, photorealistic."

@@ -1,0 +1,228 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion puppet photography — sculpted polymer clay elderly artisan character in profile with wavy fiber hair and rolled-sleeve workwear reaching toward a richly detailed miniature wooden apothecary cabinet.",
+  "visual_mood": {
+    "primary_feeling": "Focused artisanal dedication, nostalgic curiosity, and quiet craftsman intimacy",
+    "viewer_impression": "An immediate sense of rich miniature world-building, exquisite stop-motion texture, and delicate physical storytelling",
+    "narrative_subtext": "A passionate master toymaker or antique collector carefully browsing through his towering cabinet of handcrafted curiosities and miniature sculptures"
+  },
+  "medium": {
+    "type": "Handcrafted stop-motion puppet macro cinematography with multi-material miniature set construction",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Sculpted matte polymer clay face and articulated arms, synthetic fiber and wool wavy hair, miniature tailored cotton and canvas garments, and precision-carved miniature wooden cabinetry",
+    "backdrop_medium": "Physically fabricated miniature timber workshop set with multi-tiered apothecary shelves, carved drawers, and miniature ceramic pottery",
+    "render_stylization": "Stylized handcrafted artisan stop-motion puppet",
+    "line_art_style": "no outlines — physical 3D volumetric forms captured via macro optical photography",
+    "craft_quality": "Master artisan handcrafted stop-motion production quality",
+    "physical_material": "Matte polymer clay, fine wool fibers, woven cotton fabric, canvas cloth, glazed ceramic clay, and weathered dark oak wood",
+    "surface_specularity": "Predominantly matte fibrous, clay, and dry wood surfaces with subtle specular glints on glass eye beads, ceramic glazes, and metal strap rivets",
+    "texture_distress_finish": "Hand-carved wood grain on shelves and drawer faces, subtle skin wrinkling, and weathered fabric weave",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "glossy 3D CGI plastic skin",
+      "hyperrealistic digital skin pores",
+      "flat vector shapes",
+      "untextured digital meshes",
+      "synthetic neon glows"
+    ]
+  },
+  "design_register": "Artisan workshop stop-motion narrative / miniature craftsman interior cinematography",
+  "subject": {
+    "type": "Stylized elderly craftsman puppet in side profile reaching towards a detailed multi-shelf wooden cabinet",
+    "count": 1,
+    "spatial_distribution": "Character positioned in the left third and center of the frame in profile, with his outstretched right arm bridging across the center to the wooden cabinet occupying the right half",
+    "face": {
+      "archetype": "Stylized elderly artisan / toymaker puppet",
+      "skin_tone": "Warm peachy cream with natural warm clay undertones and soft terracotta shading along the nose and ear",
+      "skin_undertone_sss": "Soft warm subsurface scattering typical of cured matte polymer clay",
+      "skin_material_feel": "Matte sculpted polymer clay with hand-carved age creases, distinct brow ridge, and delicate facial contours",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "Matte velvet with subtle diffuse highlight catching directional light on the forehead and bridge of the nose",
+      "face_exposure_pct": 90,
+      "facial_occlusion_boundaries": "Framed above and behind by voluminous wavy white hair; lower jaw and chin covered by sculpted white beard",
+      "face_paint": "",
+      "face_volume": "Prominent stylized profile with strong arched brow, elongated hooked nose, and lean sculpted jawline",
+      "forehead_and_skin_planes": "Tall, smooth clay forehead with sculpted horizontal brow furrows and arched white eyebrow tuft",
+      "face_shape_silhouette": "Dramatic elongated angular profile tapering from the rounded forehead into the long hooked nose and pointed beard",
+      "cheek_contour_and_fullness": "Slender, slightly sunken cheek planes defined in side-profile view",
+      "jaw_and_chin_geometry": "Underlying jaw structure occluded beneath a pointed, downward-sweeping textured white beard",
+      "head_cranial_shape": "Broad rounded cranial dome covered in dense, wavy white hair locks",
+      "head_pitch_deg": 0,
+      "interpupillary_spacing_and_eye_span": "Single near (right) eye visible in profile",
+      "palpebral_fissure_and_canthal_tilt": "Expressive almond-shaped eye opening with defined upper lid fold and neutral canthal alignment",
+      "eyes": "Dark glossy bead iris with a crisp white specular catchlight, gazing intently at the cabinet contents",
+      "nose": "Prominent elongated aquiline/hooked sculpted nose with smooth curved bridge and defined pointed tip",
+      "ears": "Stylized clay ear with sculpted outer helix and lobe visible on the right side of the head",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "Mouth and philtrum concealed beneath a thick downward-sweeping white mustache that merges into the beard",
+      "mouth": "Closed in concentrated, focused attention beneath mustache",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "Elongated, slender, wiry right arm and hand reaching forward with stylized profile anatomy",
+      "proportions": {
+        "character_proportions_type": "Stylized stop-motion puppet caricature with elongated limbs (~4.5-head proportion)",
+        "head_pct": "35% of visible upper body mass",
+        "torso_pct": "65% of visible upper body mass",
+        "legs_pct": "Occluded below waistline",
+        "shoulder_width": "Slender 1.2x head width — lean artisan puppet armature",
+        "body_type": "Slender, lean elderly craftsman frame",
+        "torso_girth_and_frailty": "Lean, slightly hunched torso in tailored textured workwear",
+        "silhouette_rigidity_and_geometry": "Dynamic reaching posture creating a strong horizontal line from shoulder to outstretched fingertip",
+        "textile_stiffness_and_hang": "Structured woven canvas and cotton workwear fitting neatly with natural sleeve creasing",
+        "limb_thickness_archetype": "Slender elongated wire-armature arm with sculpted muscle and tendon definition",
+        "neck_morphology": "Slender neck emerging from folded shirt collar",
+        "neck_length_and_exposure": "Partially visible behind beard and collar",
+        "hands_and_fingers": "Articulated matte clay right hand with slender, aging fingers and delicate knuckle creases reaching with index finger"
+      },
+      "height_ratios": "Single primary subject in frame",
+      "silhouette": "Strong profile silhouette on the left with horizontal reaching arm extending into the dense vertical cabinet on the right",
+      "pose": {
+        "stance_type": "Standing in profile, reaching toward shelves",
+        "weight_distribution": "Weight balanced and leaning slightly forward toward the cabinet",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -5,
+        "spine_curvature": "Gentle forward curve of an artisan reaching attentively into a workspace",
+        "left_arm_pose": "Left arm lowered and partially occluded behind torso",
+        "right_arm_pose": "Right arm extended horizontally forward at chest level with elbow slightly bent and forearm reaching towards a shelf",
+        "leg_and_feet_stance": "Occluded below lower frame boundary",
+        "pose_energy": "Active, deliberate, poised reaching gesture with tactile precision"
+      },
+      "seating_and_elevation": {
+        "surface_type": "Standing on workshop floor",
+        "leg_dangle_dynamics": "Not visible in frame",
+        "torso_lean_and_posture": "Leaning forward at approx 10° angle toward the right cabinet"
+      },
+      "hand_pose_interaction": "Right hand open with delicate curled fingers and index finger gently poised to touch a miniature object on the shelf",
+      "prop_interaction": "Direct interaction with the miniature wooden cabinet shelves and tiny crafted artifacts",
+      "prop_asymmetry_load": "Visual bridge formed by the outstretched arm connecting character to the complex cabinet",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "Ivory white and silver blend with soft warm grey undertones",
+      "style": "Voluminous, wavy, windswept mop of textured curls swept backward from forehead and temples down to the nape, with bushy arched eyebrows and pointed beard",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "Fine wool felt and synthetic fibers sculpted into wavy dimensional locks with delicate surface flyaways",
+      "hair_sculptural_form": "Fluffy, sculptural waves billowing backward from the face in dynamic textured layers",
+      "volume_density": "High volume with tactile strand and lock separation",
+      "direction": "Swept backward and upward from the forehead, beard flowing straight downward",
+      "dominant_zone": "Crown, temples, nape, and lower chin",
+      "updo_containment": "None — loose textured wavy style",
+      "accessories": ""
+    },
+    "outfit": {
+      "upper_garment_and_material": "Long-sleeve collared work shirt in textured charcoal/slate-grey woven fabric with rolled-up sleeves past the forearm",
+      "overalls_and_suspender_straps": "Heavy textured terracotta-orange canvas work trousers/overalls with wide shoulder suspenders fastened by metallic rivet buttons at the waistband",
+      "collar_and_neckline_structure": "Crisp, folded shirt collar snug against the neck",
+      "sleeve_cuff_and_roll": "Pushed-up fabric folds bunched around the mid-forearm revealing bare clay arm anatomy",
+      "cabinet_and_prop_structure": "Miniature weathered dark oak wood apothecary cabinet with carved drawers, brass pull handles, and open shelves displaying miniature ceramic pottery, figurines, and tiny curios"
+    }
+  },
+  "micro_features": [
+    "Sculpted anatomical tendon and forearm muscle ridges on the outstretched reaching arm.",
+    "Individual wavy hair locks and fine flyaway fiber filaments catching the ambient rim light around the head.",
+    "Miniature ceramic vase with speckled crackle glaze and tiny sculpted figurines arranged on the wooden shelf.",
+    "Intricate hand-carved drawer panels with tiny brass pull knobs on the miniature apothecary unit.",
+    "Crisp circular metallic rivet button securing the terracotta suspender strap to the trousers.",
+    "Pinpoint white specular glint in the dark eye bead gazing intently at the shelf contents."
+  ],
+  "color_grading": {
+    "overall_color_cast": "Warm 4000K tungsten workshop ambient wash with rich golden-amber highlights and deep chocolate-brown shadows",
+    "color_grading_intent": "Warm nostalgic cinematic European stop-motion palette emphasizing tactile earthy tones, rich wood, and terracotta warmth",
+    "global_saturation_level": "Natural balanced saturation with vivid accent on the terracotta overalls and muted neutral wood tones",
+    "environmental_split_toning": "Warm amber directional key light on the character and shelves contrasting with muted slate-blue background shadows",
+    "palette": [
+      { "name": "Terracotta Overall", "hsl": "hsl(18, 56%, 48%)" },
+      { "name": "Charcoal Slate Shirt", "hsl": "hsl(210, 12%, 35%)" },
+      { "name": "Aged Oak Wood", "hsl": "hsl(25, 30%, 20%)" },
+      { "name": "Ivory Fiber Hair", "hsl": "hsl(40, 20%, 88%)" },
+      { "name": "Warm Clay Skin", "hsl": "hsl(28, 42%, 70%)" },
+      { "name": "Speckled Ceramic", "hsl": "hsl(35, 30%, 75%)" }
+    ],
+    "shadow_color": "Deep warm chocolate umber in cabinet recesses and background folds",
+    "highlight_color": "Soft warm ivory-gold skimming across hair waves, forearm, and shelf edges",
+    "contrast_profile": "Rich cinematic contrast with creamy highlight roll-off and deep, detailed shadow gradients",
+    "saturation_map": "High saturation in the terracotta overalls; warm muted tones in skin, hair, and wooden cabinetry",
+    "skin_warmth_vs_env_contrast": "Warm peachy clay arm and profile sharply defined against the dark wooden cabinet background",
+    "color_temperature": "Warm 4000K directional key with 3200K warm ambient fill"
+  },
+  "lighting": {
+    "drama_level": "Intimate, focused, dimensional craftsman workshop lighting",
+    "key_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 30,
+      "quality": "Directional key light from upper-right illuminating the face, outstretched arm, hand, and cabinet shelf faces",
+      "color_temp_K": 4000
+    },
+    "fill_light": {
+      "azimuth_deg": -60,
+      "elevation_deg": 10,
+      "ratio": "1:3 soft fill keeping fabric folds and hair recesses well-defined"
+    },
+    "rim_light": {
+      "azimuth_deg": -135,
+      "elevation_deg": 35,
+      "surfaces": "Delicate rim light outlining the wavy white hair and back of the slate shirt"
+    },
+    "ambient_bounce": "Warm reflection from wooden shelves illuminating the underside of the forearm and hand",
+    "special": "Pinpoint specular reflections in the dark glass eye bead and tiny metallic drawer hardware"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "Dual-zone composition: left 45% anchored by the character in profile; right 55% filled by the towering miniature wooden apothecary cabinet",
+    "layer_stack_z_index": "Layer 0: Dark blurred workshop background on far left -> Layer 1: Character torso and head -> Layer 2: Outstretched forearm and hand -> Layer 3: Foreground wooden cabinet shelves and miniature artifacts on right",
+    "framing_crop": "Medium profile shot cropped at the waist and mid-torso",
+    "subject_vertical_fill_pct": 82,
+    "headroom_and_ground_clearance": "Approx 8% headroom above white hair; lower frame clips below waistline",
+    "frame_edge_clipping_and_bleed": "Left elbow bleeds past left edge; right cabinet structure bleeds beyond top, right, and bottom edges",
+    "ground_pedestal": "Implied floor just below lower frame boundary",
+    "camera_azimuth_deg": 90,
+    "subject_facing_azimuth_deg": 90,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 65,
+    "depth_of_field": {
+      "sharp_zone": "Tack-sharp plane on the character's facial profile, hair, outstretched arm, hand, and the front vertical shelf edge",
+      "blurred_zone": "Soft optical falloff to the background room on the far left and deep cabinet interiors",
+      "blur_strength": "Macro optical depth of field blur (approx f/2.8)"
+    },
+    "rule_of_thirds": "Character's head and eye align along the left third vertical axis; outstretched hand and active shelf align along the right third vertical axis",
+    "grid_and_accent_anchors": {
+      "construction_grid": "Strong horizontal motion line created by the reaching arm connecting the vertical left character to the vertical right cabinet",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "Artisan craftsman workshop, toymaker atelier, or miniature curio study",
+    "key_elements": "Massive multi-compartment dark wood apothecary cabinet with carved drawers, cubbies, miniature ceramics, figurines, and a soft out-of-focus background on the far left",
+    "layer_order": "Far background room on left -> character in midground -> towering cabinet structure on right",
+    "background_density": "High detail density on the right cabinet structure; clean soft blur on the left background",
+    "background_treatment": "Dimensional physical set with soft directional lighting and optical depth of field falloff"
+  },
+  "typography_and_graphic_elements": {
+    "primary_headline": {
+      "text_content": "",
+      "typeface_morphology": "",
+      "spatial_zone_and_span": "",
+      "color_field_continuity": "",
+      "z_index_occlusion": ""
+    },
+    "secondary_metadata_text": {
+      "text_content": "",
+      "spatial_anchoring": ""
+    },
+    "graphic_badges_and_decals": []
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, glossy plastic skin, smooth flat digital vector, photorealistic human skin, young person, bright modern room, deformed hands, extra fingers, outer decorative border, ornate frame, picture frame",
+  "reconstruction_priority": [
+    "Sculpted clay facial profile with hooked nose and expressive eye — AI often rounds out the face or creates generic cartoon facial anatomy.",
+    "Elongated muscular/tendinous forearm and reaching hand anatomy — AI tends to make arms too short or mangle miniature fingers.",
+    "Intricate miniature wooden cabinet with carved drawers and miniature pottery — AI often turns complex shelving into a blurry generic brown wall.",
+    "Wavy wool-felt hair sculpture with tactile fiber texture — AI tends to smooth hair into polygon ribbons."
+  ]
+}

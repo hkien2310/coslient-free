@@ -1,0 +1,231 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — sculpted polymer clay facial planes, textured tweed wool costuming, a miniature needle-felted sheep, and a vintage illuminated tube radio in a rustic stone cottage interior with warm intimate cinematic lighting",
+  "visual_mood": {
+    "primary_feeling": "cozy nostalgic warmth, intimate companionship, and quiet domestic contentment",
+    "viewer_impression": "an immediate sense of tender folk storytelling, tactile artisan stop-motion craft, and soothing hearthside peace",
+    "narrative_subtext": "an elderly craftsman sharing a quiet cup of morning tea with his tiny felted pet sheep by the warm glow of an antique radio"
+  },
+  "medium": {
+    "type": "handcrafted stop-motion puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical artisan materials — sculpted matte polymer clay face and hands, fine synthetic fiber hair, woven wool tweed jacket, and needle-felted wool fleece",
+    "backdrop_medium": "physical miniature diorama set with real timber shelving, textured whitewashed stone masonry, and functional incandescent micro-lighting",
+    "render_stylization": "semi-stylized physical stop-motion diorama with realistic lighting and physical surface textures",
+    "line_art_style": "no outlines — organic physical lighting, tactile material shading, and soft ambient occlusion",
+    "craft_quality": "master artisan stop-motion puppet fabrication and macro studio cinematography",
+    "physical_material": "matte polymer clay, synthetic mohair, woven wool tweed, cotton knit, corduroy, needle-felted sheep wool, glazed ceramic, and aged pine wood",
+    "surface_specularity": "matte velvet clay skin, fibrous low-specular textiles, and high-gloss glaze on the orange ceramic teapot",
+    "texture_distress_finish": "delicate sculpted age lines on clay, yarn fuzz on tweed, fibrous wool roving, and gently aged timber radio casing",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "subsurface hyperrealistic human skin pore noise",
+      "digital 3D rendering artifice",
+      "flat vector fills",
+      "artificial neon lighting"
+    ]
+  },
+  "design_register": "cottagecore stop-motion folk narrative, traditional artisanal miniature drama",
+  "subject": {
+    "type": "elderly artisan puppet character seated at a table having tea with a miniature companion sheep",
+    "count": 1,
+    "spatial_distribution": "elderly man puppet occupies the right half of the canvas (X=50-95%, Y=10-100%); companion sheep puppet and vintage radio positioned on the left table surface (X=10-50%, Y=40-90%)",
+    "face": {
+      "archetype": "stylized elderly artisan puppet with sculpted character facial planes",
+      "skin_tone": "pale warm peach bisque clay",
+      "skin_undertone_sss": "subtle warm amber subsurface scattering through clay edges",
+      "skin_material_feel": "matte sculpted polymer clay with delicate handcrafted surface smoothing and hand-carved age creases",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 100,
+      "facial_occlusion_boundaries": "unoccluded; framing white wispy hair tufts at crown and temples",
+      "face_paint": "subtle warm blush glazed onto the cheekbones and nose tip",
+      "face_volume": "slender angular facial planes with gentle sculpted laugh lines, prominent forward-extending nose, and elongated stylized jaw",
+      "forehead_and_skin_planes": "three distinct horizontal age creases hand-carved across a smooth matte clay forehead",
+      "face_shape_silhouette": "elongated stylized oval with narrow tapered chin and delicate sculpted jawline",
+      "cheek_contour_and_fullness": "slender flat cheek planes with subtle carved nasolabial grooves without toddler puffiness",
+      "jaw_and_chin_geometry": "gentle rounded chin and slender jawline sloping upward toward the ear",
+      "head_cranial_shape": "tall vertical cranial dome crowned with wispy white spiky fiber hair",
+      "head_pitch_deg": 8,
+      "interpupillary_spacing_and_eye_span": "standard proportionate eye spacing",
+      "palpebral_fissure_and_canthal_tilt": "hooded warm almond eyes with sculpted clay upper eyelids and gentle +4° positive canthal tilt",
+      "eyes": "small glossy dark glass bead eyes with delicate white catchlight reflections, looking downward with gentle warmth",
+      "nose": "prominent stylized elongated bulbous aquiline nose projecting forward with a rounded drooped tip",
+      "ears": "large stylized rounded ears with prominent sculpted outer helix and deep concha cavity",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "slender unsmiling-to-gentle smiling lips with long philtrum and calm contented expression",
+      "mouth": "closed sculpted lips with subtle upward curl at the corners forming a benevolent serene smile",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "stylized prominent nose, large ears, and expressive sculpted hands relative to slender torso",
+      "proportions": {
+        "character_proportions_type": "slender stylized stop-motion puppet proportions (approx 5.5-head scale)",
+        "head_pct": "22%",
+        "torso_pct": "40%",
+        "legs_pct": "38%",
+        "shoulder_width": "narrow 1.1x head width — slender artisan torso",
+        "body_type": "slender frail elderly artisan build",
+        "torso_girth_and_frailty": "slender cylindrical torso wrapped in layered woolen knitwear",
+        "silhouette_rigidity_and_geometry": "soft organic seated posture with natural fabric drape",
+        "textile_stiffness_and_hang": "heavy textured tweed hanging naturally over sculpted internal wire armature",
+        "limb_thickness_archetype": "slender articulated puppet armature with sculpted clay hands",
+        "neck_morphology": "slender cylindrical neck emerging from knit collar",
+        "neck_length_and_exposure": "partially visible neck with gentle horizontal age line",
+        "hands_and_fingers": "sculpted matte clay four-finger hands with articulated knuckles, delicate fingernail impressions, and visible wrist joint seam"
+      },
+      "height_ratios": "elderly man puppet towers approx 4x higher than the companion felted sheep on the table",
+      "silhouette": "seated triangular figure on the right leaning inward toward the tabletop still-life on the left",
+      "pose": {
+        "stance_type": "comfortably seated at a rustic dining table",
+        "weight_distribution": "fully seated with weight supported by wooden cottage chair",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -5,
+        "spine_curvature": "gentle forward slouch in cozy relaxed seated posture",
+        "left_arm_pose": "left forearm resting on table, holding a miniature ceramic teacup and saucer",
+        "right_arm_pose": "right hand grasping the arched top handle of the warm orange teapot",
+        "leg_and_feet_stance": "seated with corduroy-clad legs under the table",
+        "pose_energy": "intimate, peaceful, and contemplative"
+      },
+      "seating_and_elevation": {
+        "surface_type": "vintage wooden spindle-back dining chair",
+        "leg_dangle_dynamics": "legs bent at knees resting beneath the draped tabletop",
+        "torso_lean_and_posture": "leaning slightly forward over the table in cozy contentment"
+      },
+      "hand_pose_interaction": "right hand holding the elevated orange teapot handle; left hand cradling the steaming tea saucer and cup",
+      "prop_interaction": "holding teapot and teacup in active teatime interaction",
+      "prop_asymmetry_load": "balanced dual-hand table interaction",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "chalk white with subtle silver-grey shadow tones",
+      "style": "wispy spiky fiber tufts radiating organically from crown and temples",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "fine wispy synthetic/mohair fibers with natural flyaway frizz",
+      "hair_sculptural_form": "compact spiky vertical fiber tufts hugging the cranium with soft airy edges",
+      "volume_density": "moderate wispy density allowing subtle glimpses of the clay scalp",
+      "direction": "upward and backward radiating flow",
+      "dominant_zone": "crown and occipital ridge",
+      "updo_containment": "loose uncontained wisps",
+      "accessories": ""
+    },
+    "outfit": {
+      "headwear_or_eyewear": "none; exposed white wispy fiber hair",
+      "outerwear_and_upper": "heavy charcoal-grey tweed wool single-breasted jacket with notched lapels and flecked yarn texture",
+      "inner_layer_topology": "ribbed brown wool knit crewneck sweater worn underneath jacket",
+      "textile_material_and_gloss": "100% matte woven tweed wool, chunky knitted yarn, and coarse corduroy trousers",
+      "lower_garment_and_drape": "brown ribbed corduroy trousers draped in soft folds over seated legs",
+      "waist_and_belt_hardware": "concealed beneath sweater and jacket hem",
+      "footwear_and_soles": "obscured beneath table edge",
+      "jewelry_and_accessories": "none"
+    }
+  },
+  "secondary_subject": {
+    "type": "miniature needle-felted companion sheep puppet and tabletop vintage radio",
+    "color_morph": "creamy white wool fleece with pink clay snout on sheep; dark walnut wood casing on radio with glowing amber bulb",
+    "count_density": "1 sheep puppet and 1 tabletop tube radio",
+    "size_relative_to_primary": "sheep is approximately 1/4 the height of the seated elderly character",
+    "spatial_distribution": "stationed on the left side of the table surface (X=15-50%, Y=45-85%)",
+    "facing_azimuth_deg": 60,
+    "pose_description": "sheep stands alertly on the table looking up toward the old man; radio sits squarely in the background",
+    "priority_level": "co-primary storytelling focal point"
+  },
+  "micro_features": [
+    "Delicate translucent steam wisps billowing upward from the freshly poured teacup in front of the old man",
+    "Warm glowing filament lamp inside the circular tuning dial of the vintage wooden radio",
+    "Articulated joint seam visible at the old man's wrist connecting clay hand to armature sleeve",
+    "Fringed plaid woolen tablecloth with textured thread weave draped across the round wooden table",
+    "Individually needle-felted wool curls covering the body of the tiny companion sheep puppet",
+    "Glossy liquid surface with amber tea reflections inside the miniature ceramic teacups",
+    "Two tiny crafted sheep figurines resting on a recessed wooden alcove shelf in the stone wall behind the radio"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm-neutral 4800K cozy cottage interior wash with glowing amber accents",
+    "color_grading_intent": "warm analog stop-motion cinematography with rich tactile earth tones, charcoal greys, and vibrant ochre-orange highlights",
+    "global_saturation_level": "balanced natural saturation with selective pop on the terracotta teapot and radio dial",
+    "environmental_split_toning": "warm amber/orange foreground focal points (teapot, radio light) vs neutral earthy grey stone wall and charcoal tweed jacket",
+    "palette": [
+      { "name": "warm_ochre_orange", "hsl": "hsl(35, 95%, 52%)" },
+      { "name": "charcoal_tweed_grey", "hsl": "hsl(210, 10%, 35%)" },
+      { "name": "ivory_wool_felt", "hsl": "hsl(45, 30%, 88%)" },
+      { "name": "rustic_stone_cream", "hsl": "hsl(40, 20%, 75%)" },
+      { "name": "walnut_wood_brown", "hsl": "hsl(28, 45%, 28%)" }
+    ],
+    "shadow_color": "warm deep umber in cottage corners and fabric folds",
+    "highlight_color": "diffused golden-white key light on character's forehead, hair, and teapot curve",
+    "contrast_profile": "medium contrast with rich texture separation and soft luminous shadow rolloff",
+    "saturation_map": "vibrant saturation on the orange kettle and radio bulb; neutral muted saturation on clothing and stone background",
+    "skin_warmth_vs_env_contrast": "pale peachy clay skin tone stands out distinctly against the neutral grey stone wall",
+    "color_temperature": "4800K warm interior studio lighting"
+  },
+  "lighting": {
+    "drama_level": "warm, intimate, and gentle character lighting",
+    "key_light": {
+      "azimuth_deg": 315,
+      "elevation_deg": 35,
+      "quality": "soft diffused directional key light sculpting facial planes, hair tufts, and tweed texture",
+      "color_temp_K": 4800
+    },
+    "fill_light": {
+      "azimuth_deg": 135,
+      "elevation_deg": 25,
+      "ratio": "1:2.5 soft warm fill preserving texture depth in shadows",
+      "color_temp_K": 3500
+    },
+    "rim_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 40,
+      "surfaces": "top crest of spiky white hair, right shoulder contour, and rim of teapot lid"
+    },
+    "ambient_bounce": "warm amber reflection from the tablecloth and wooden tabletop",
+    "special": "diegetic warm tungsten glow from the vintage radio indicator lamp illuminating the side of the sheep puppet"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "two-shot conversational layout: left foreground/midground holds the sheep, radio, and teapot; right canvas holds the seated elderly protagonist",
+    "layer_stack_z_index": "Layer 0: Whitewashed stone wall and recessed shelf -> Layer 1: Wooden tube radio and cottage chair -> Layer 2: Seated elderly character and companion sheep -> Layer 3: Teapot, teacups, and plaid tablecloth",
+    "framing_crop": "intimate medium close-up (waist-up) framing",
+    "subject_vertical_fill_pct": 85,
+    "headroom_and_ground_clearance": "10% upper headroom above character hair; bottom frame cuts off at character waist and table edge",
+    "frame_edge_clipping_and_bleed": "right shoulder of the old man bleeds off right edge; table and cloth bleed off bottom edge",
+    "ground_pedestal": "round wooden dining table draped in plaid linen acting as the staging platform",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 310,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "elderly man's face, hands, teacup, teapot, and companion sheep (X=15-90%, Y=20-95%)",
+      "blurred_zone": "recessed wall shelf and distant stone masonry background",
+      "blur_strength": "f/2.8 shallow macro depth of field"
+    },
+    "rule_of_thirds": "old man's face aligned along the upper-right third intersection; teapot and sheep positioned along the lower-left third grid",
+    "grid_and_accent_anchors": {
+      "construction_grid": "balanced counterweight composition connecting the old man's head on the right with the teapot and sheep on the left",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "traditional stone cottage interior with rustic wooden furniture and recessed alcove shelf",
+    "key_elements": "whitewashed stone masonry, timber shelving with miniature figurines, framed clock frame in top right",
+    "layer_order": "tabletop foreground -> character and sheep -> wooden chair and radio -> stone wall and alcove",
+    "background_density": "moderately detailed rustic interior with soft focus separation",
+    "background_treatment": "shallow depth of field creating creamy optical bokeh on stone textures"
+  },
+  "typography_and_graphic_elements": {
+    "__note": "Image contains no typographic text, watermarks, or graphic decals except diegetic numbers on radio dial."
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI skin, hyperrealistic human pores, plastic doll sheen, cartoon illustration, aggressive harsh shadows, cold fluorescent lighting, modern digital devices",
+  "reconstruction_priority": [
+    "Puppet face craftsmanship — AI often replaces sculpted clay planes with either generic cartoon dolls or overly wrinkled CGI human skin",
+    "Tactile tweed and wool textures — AI frequently blurs fabric weaves into smooth flat digital paint",
+    "Steaming teacup and teapot interaction — AI struggles with physically coherent steam and proper hand grips on miniature handles",
+    "Vintage radio and glowing bulb detail — AI tends to hallucinate generic plastic boomboxes instead of authentic timber tube radios with illuminated filaments"
+  ]
+}

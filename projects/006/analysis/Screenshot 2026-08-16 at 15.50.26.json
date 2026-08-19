@@ -1,0 +1,152 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion miniature physical set photography — nocturnal European street corner diorama with aged plaster facade, glowing wrought-iron streetlamp, miniature armchair on cobblestone sidewalk, and warm lit windows against deep twilight blue",
+
+  "visual_mood": {
+    "primary_feeling": "nocturnal poetry, cozy solitude, and nostalgic urban stillness",
+    "viewer_impression": "an enchanting, richly detailed miniature city corner at night, imbued with warmth, quiet mystery, and narrative charm",
+    "narrative_subtext": "a peaceful street corner in an old European town after dark, where an inviting armchair sits under a warm streetlamp beside a closed wooden doorway"
+  },
+
+  "medium": {
+    "type": "handcrafted stop-motion miniature physical set photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physically constructed architectural miniature diorama with weathered plaster, carved wood, miniature wrought iron, and real functioning micro-lights",
+    "backdrop_medium": "layered physical miniature city buildings with softly defocused warm windows under a deep twilight blue sky cyclorama",
+    "render_stylization": "semi-stylized European storybook diorama realism with rich tactile physical craftsmanship",
+    "line_art_style": "no outlines — 3D volumetric architectural relief, cast shadows, and practical miniature illumination",
+    "craft_quality": "master artisan stop-motion architectural model fabrication",
+    "physical_material": "carved plaster, miniature timber wood, wire and sheet metal wrought iron, cast resin cobblestones, terracotta clay pots, miniature woven upholstery velvet, glass window panes",
+    "surface_specularity": "matte textured plaster walls, satin painted wooden doors, gloss glass window panes, and satin cast iron streetlamp with direct warm specular sheen",
+    "texture_distress_finish": "peeling stucco revealing stone masonry, weathered chipped paint on door frames, aged cobblestones with dirt wash, distressed paper street notices",
+    "weathering_intensity_0to10": 5,
+    "forbidden_surfaces": [
+      "smooth digital CGI surfaces",
+      "procedural video game textures",
+      "flat vector planes",
+      "glowing magical neon outlines",
+      "clean pristine modern concrete"
+    ]
+  },
+
+  "design_register": "storybook European nocturnal stop-motion diorama with cozy atmospheric lighting",
+
+  "subject": {
+    "type": "miniature architectural street corner environment at night",
+    "count": 1,
+    "spatial_distribution": "weathered building corner fills right two-thirds of frame; streetlamp stands at left-center; cobblestone street in foreground",
+
+    "environment_anatomy": {
+      "biome_setting": "quaint historic European city street corner at night",
+      "weather_and_precipitation_physics": "clear, calm nocturnal atmosphere with soft ambient haze",
+      "terrain_and_ground_surface": "carved stone curb dividing a flagstone sidewalk from a textured cobblestone roadway in the foreground",
+      "vegetation_density_and_species": "potted dried autumn flowering bush in a terracotta urn beside the corner wall, leafy green potted bush next to the armchair, hanging planter on upper balcony",
+      "architectural_structures": "two-story aged plaster and stone masonry building corner featuring stone quoins, arched upper windows with wooden shutters, carved wooden double entry door with brass doorknobs, decorative upper wrought-iron balcony, and framed vintage street posters",
+      "street_furniture_and_props": "ornate black curved gooseneck wrought-iron street lamp post with glowing downlight shade; miniature retro channeled orange velvet armchair on sidewalk with a pair of tiny shoes nearby; round cut wood log slices leaning against stone foundation",
+      "lighting_time_of_day": "late twilight / nighttime with practical street and interior window illumination",
+      "horizon_placement": "low-angle urban perspective, ground plane occupying lower 15%, building rising vertically beyond top frame edge",
+      "scale_cues": "miniature scale indicated by subtle physical texture relief, small streetlamp bulb filament, fine wood grain on the miniature armchair, and paper notices"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "ornate miniature wrought-iron streetlamp and solitary orange velvet armchair",
+    "color_morph": "matte black wrought iron with warm glowing bulb; vibrant terracotta/burnt orange upholstered armchair",
+    "count_density": "one streetlamp and one armchair anchored on sidewalk",
+    "size_relative_to_primary": "streetlamp spans 75% vertical frame height; armchair occupies lower right sidewalk corner (approx 15% frame width)",
+    "spatial_distribution": "streetlamp stands at left third; armchair rests to the right of the wooden door",
+    "facing_azimuth_deg": 0,
+    "pose_description": "streetlamp firmly planted in stone sidewalk casting downward warm cone of light; armchair angled toward the street",
+    "priority_level": "key focal storytelling objects"
+  },
+
+  "micro_features": [
+    "working miniature incandescent light bulb inside the gooseneck streetlamp casting a defined golden light pool onto the textured wall",
+    "glowing warm amber illumination radiating from the multi-pane glass windows on the upper and lower floors",
+    "intricate peeling plaster and exposed stone brickwork at the corner quoins and foundation base",
+    "tiny weathered paper notices and posters with illegible micro-script pasted onto the building corner",
+    "distinct channeled ribbed upholstery on the miniature orange velvet armchair with wooden frame legs",
+    "a pair of tiny discarded miniature shoes resting on the cobblestones near the base of the armchair"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "dramatic complementary split tone: deep 8000K midnight slate-blue exterior vs warm 2800K golden tungsten illumination",
+    "color_grading_intent": "rich cinematic stop-motion nocturnal grade with high color contrast between blue shadows and golden-amber practical lights",
+    "global_saturation_level": "controlled high-contrast grading with saturated amber light pools and deep desaturated indigo-slate shadows",
+    "environmental_split_toning": "cool indigo/navy twilight background and street shadows vs warm honey-gold illumination on building walls and windows",
+    "palette": [
+      { "name": "Twilight Slate Blue", "hsl": "hsl(215, 38%, 24%)" },
+      { "name": "Tungsten Golden Amber", "hsl": "hsl(40, 95%, 58%)" },
+      { "name": "Aged Stucco Cream", "hsl": "hsl(38, 28%, 68%)" },
+      { "name": "Burnt Orange Velvet", "hsl": "hsl(18, 72%, 48%)" },
+      { "name": "Wrought Iron Black", "hsl": "hsl(0, 0%, 14%)" },
+      { "name": "Cobblestone Grey", "hsl": "hsl(30, 10%, 45%)" }
+    ],
+    "shadow_color": "deep indigo-slate and charcoal umber",
+    "highlight_color": "intense golden amber and warm cream glow",
+    "contrast_profile": "high cinematic chiaroscuro contrast with glowing light sources and velvety dark shadows",
+    "saturation_map": "highest saturation in the lit window panes, streetlamp light pool, and orange armchair; muted slate tones across exterior night sky",
+    "skin_warmth_vs_env_contrast": "intense thermal contrast between cold twilight background and inviting warm building interior/light pool",
+    "color_temperature": "dual-temperature split: 2800K warm practicals vs 8000K cool nocturnal ambient"
+  },
+
+  "lighting": {
+    "drama_level": "theatrical, atmospheric, and cozy nocturnal chiaroscuro",
+    "key_light": {
+      "azimuth_deg": -20,
+      "elevation_deg": 50,
+      "quality": "practical downlight from the miniature streetlamp casting a soft-edged radial cone of golden light across the plaster wall and sidewalk",
+      "color_temp_K": 2800
+    },
+    "fill_light": {
+      "azimuth_deg": 60,
+      "elevation_deg": 25,
+      "quality": "warm interior light spilling out through the multi-pane window frames and door crevices",
+      "color_temp_K": 3000
+    },
+    "rim_light": {
+      "azimuth_deg": -120,
+      "elevation_deg": 30,
+      "surfaces": "cool twilight blue ambient rim light outlining the upper balcony railings, roofline, and distant buildings"
+    },
+    "ambient_bounce": "warm golden reflection bouncing from the sidewalk and wall back into the foundation shadows",
+    "special": "interior illuminated window panes with visible translucent glass panels and interior warm diffusion"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "full-bleed architectural vista; main building corner occupies right 65%, street opening on left 35%, ground sidewalk along lower 15%",
+    "layer_stack_z_index": "Layer 0: Deep blue twilight sky and distant blurred city buildings -> Layer 1: Foreground street corner building facade, windows, and door -> Layer 2: Sidewalk, streetlamp, armchair, planters, and cobblestones",
+    "framing_crop": "medium architectural landscape shot capturing ground level up to the second-story balcony",
+    "subject_vertical_fill_pct": 85,
+    "headroom_and_ground_clearance": "building extends beyond top frame edge; street curb and cobblestones anchor the bottom baseline",
+    "frame_edge_clipping_and_bleed": "left side opens into the distant street; right side bleeds into the adjacent building facade",
+    "ground_pedestal": "curved stone curb and paved cobblestone street",
+    "camera_azimuth_deg": -15,
+    "subject_facing_azimuth_deg": 0,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "streetlamp, armchair, building corner, wooden door, potted plants, and sidewalk stones",
+      "blurred_zone": "distant background buildings on the left and upper sky",
+      "blur_strength": "moderate diorama f/4.0 depth of field with creamy background separation"
+    },
+    "rule_of_thirds": "streetlamp aligns vertically along the left third line; wooden entrance door aligns along the center-right; armchair anchors the lower right intersection"
+  },
+
+  "background": {
+    "setting": "nocturnal European urban alleyway / square",
+    "key_elements": "silhouette of distant classical apartment buildings with softly glowing amber windows against deep blue night air",
+    "layer_order": "distant blurred buildings -> midground street corner architecture -> foreground sidewalk and props",
+    "background_density": "moderately dense atmospheric urban depth",
+    "background_treatment": "softly defocused deep blue cityscape with charming scattered window lights"
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI, 3D video game render, Unreal Engine asset, digital illustration, modern cars, neon signs, asphalt road, modern concrete skyscrapers, daytime sunlight, flat lighting, oversaturated cartoon style",
+
+  "reconstruction_priority": [
+    "practical lighting physics — AI often paints glowing CGI bloom or flat illumination instead of the realistic physical light falloff from the miniature streetlamp and window panes",
+    "tactile diorama craftsmanship — AI frequently replaces weathered plaster, stone quoins, and carved wood with smooth sterile digital planes",
+    "complementary color grading — AI tends to homogenize the palette into a single muddy blue or brown rather than maintaining the rich contrast between 2800K amber and 8000K twilight slate",
+    "detailed miniature props — AI often distorts the structure of the miniature armchair, streetlamp curvature, or cobblestone pattern"
+  ]
+}

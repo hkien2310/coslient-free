@@ -1,0 +1,283 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet animation — sculpted matte clay characters, needle-felted wool fleece, miniature tweed tailoring, miniature stone street diorama with glowing lantern, and shallow macro photography.",
+
+  "visual_mood": {
+    "primary_feeling": "Warm affectionate companionship, cozy sunset peace, and folk diorama charm",
+    "viewer_impression": "A heartwarming, tactile interaction between an elderly stop-motion shepherd and his beloved companion sheep on a cobblestone village alley at sunset",
+    "narrative_subtext": "The elderly shepherd resting in the evening street, smiling with fond affection as he pats the head of his loyal lead sheep beside a warm glowing wall lantern"
+  },
+
+  "medium": {
+    "type": "Stop-motion puppet animation macro photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Hand-sculpted matte polymer clay heads and hands, needle-felted curly wool fleece body, tailored miniature wool tweed blazer jacket, brown wool trousers, and wire armature limbs",
+    "backdrop_medium": "Hand-laid miniature cobblestone pavement, stacked miniature stone masonry wall with mortar, distressed miniature timber door, miniature glass-paned copper lantern with warm interior glow",
+    "render_stylization": "semi-stylized character stop-motion puppet craft",
+    "line_art_style": "no outlines — 100% volumetric physical materials and natural light falloff",
+    "craft_quality": "master artisan stop-motion diorama fabrication",
+    "physical_material": "matte polymer clay, curly needle-felted wool, woven miniature tweed, brushed wool twill trousers, miniature wood, wrought metal and glass lantern, cast stone cobblestones",
+    "surface_specularity": "matte fibrous and porous clay textures with localized glass transmission and warm specular glow on the lantern pane",
+    "texture_distress_finish": "fine tweed weave texture, tactile cobblestone contours, weathered masonry crevices, natural wool fleece loop structure",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "raytraced glossy digital skin",
+      "photorealistic human pores",
+      "procedural digital hair shaders"
+    ]
+  },
+
+  "design_register": "whimsical European folk stop-motion animation",
+
+  "subject": {
+    "type": "elderly stylized stop-motion shepherd puppet interacting with a miniature sheep puppet",
+    "count": 2,
+    "spatial_distribution": "shepherd standing right of center, leaning forward slightly; sheep standing in front-left of shepherd facing right",
+
+    "face": {
+      "archetype": "elderly stylized European shepherd puppet",
+      "skin_tone": "pale warm peachy beige matte clay",
+      "skin_undertone_sss": "subtle warm neutral clay undertone",
+      "skin_material_feel": "matte sculpted polymer clay with smooth planar transitions and soft handcrafted feel",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 80,
+      "facial_occlusion_boundaries": "grey-green tweed flat cap covering top cranium; left hand resting atop head adjusting cap; white wool beard framing lower cheeks and jaw",
+      "face_paint": "none",
+      "face_volume": "elongated whimsical profile with prominent rounded bulbous hooked nose and gentle smiling cheek contour",
+      "forehead_and_skin_planes": "smooth unwrinkled matte clay forehead",
+      "face_shape_silhouette": "stylized elongated profile with convex curved nose and soft rounded chin under beard",
+      "cheek_contour_and_fullness": "slender cheek plane curving into a warm gentle smile",
+      "jaw_and_chin_geometry": "tapered jaw surrounded by white wool beard tufts",
+      "head_cranial_shape": "compact oval cranium under fitted tweed cap",
+      "head_pitch_deg": 10,
+      "interpupillary_spacing_and_eye_span": "visible side profile showing left eye",
+      "palpebral_fissure_and_canthal_tilt": "small rounded black bead eye set under soft clay brow",
+      "eyes": "minimalist dark bead eye gazing downward affectionately toward the sheep",
+      "nose": "large stylized hooked bulbous nose with smooth rounded tip projecting forward",
+      "ears": "stylized C-shaped peach clay ear visible on the left side",
+      "lip_geometry_and_philtrum": "smiling curved mouth crease carved cleanly into clay, framed by white beard",
+      "mouth": "warm open-crease smile displaying gentle affectionate expression",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "slender spindly puppet proportions with oversized sculpted nose and expressive hand gesture",
+      "proportions": {
+        "character_proportions_type": "spindly wire-armature puppet (approx 5.5-head ratio with elongated limbs)",
+        "head_pct": "18%",
+        "torso_pct": "38%",
+        "legs_pct": "44%",
+        "shoulder_width": "narrow 1.2x head width",
+        "body_type": "slender elderly puppet frame",
+        "torso_girth_and_frailty": "slender torso leaning forward gently in relaxed posture",
+        "silhouette_rigidity_and_geometry": "cozy curved contrapposto pose leaning towards the sheep",
+        "textile_stiffness_and_hang": "tailored tweed blazer draping naturally over wire torso with visible button and pocket flap details",
+        "limb_thickness_archetype": "slender wire limbs inside tailored miniature garments",
+        "neck_morphology": "slender neck emerging from collar",
+        "neck_length_and_exposure": "moderately exposed neck surrounded by white beard fringe",
+        "hands_and_fingers": "sculpted matte peach clay hands with delicate fingers: right hand resting gently on the sheep's woolly head, left hand resting on top of his tweed cap"
+      },
+      "height_ratios": "shepherd stands approx 3.2x taller than the standing companion sheep",
+      "silhouette": "asymmetric leaning posture with right hand extended to pet sheep, left hand raised to cap, and vertical walking crook",
+      "pose": {
+        "stance_type": "relaxed contrapposto stance leaning forward",
+        "weight_distribution": "65% weight on grounded right leg, left leg slightly bent at knee",
+        "hip_axis_tilt_deg": 10,
+        "shoulder_axis_tilt_deg": -15,
+        "spine_curvature": "gentle forward curve leaning down towards companion animal",
+        "left_arm_pose": "left arm raised with elbow bent outward, hand resting atop the flat cap in a pensive affectionate gesture",
+        "right_arm_pose": "right arm extended downward at a 45-degree angle, hand resting on the sheep's crown",
+        "leg_and_feet_stance": "feet planted on uneven cobblestones: right foot straight, left foot angled slightly outward",
+        "pose_energy": "warm, peaceful, relaxed bonding moment"
+      },
+      "seating_and_elevation": {
+        "surface_type": "hand-carved cobblestone street surface",
+        "leg_dangle_dynamics": "none — standing on cobblestones",
+        "torso_lean_and_posture": "gentle forward lean towards left foreground"
+      },
+      "hand_pose_interaction": "right hand gently cupping the crown of the sheep's head; left hand adjusting cap; wooden shepherd crook held alongside right hip",
+      "prop_interaction": "slender rustic wooden shepherd's crook with curved top resting vertically against his leg on the ground",
+      "prop_asymmetry_load": "none"
+    },
+
+    "hair": {
+      "color": "pure white and soft light grey wool fiber",
+      "style": "wispy tufts emerging around temples, neck, and transitioning into a fluffy white beard",
+      "hair_texture_type": "soft unspun needle-felted wool fiber fuzz",
+      "hair_sculptural_form": "organic wisps framing the lower face and collar",
+      "volume_density": "moderate wispy density",
+      "direction": "trailing naturally downwards",
+      "dominant_zone": "beard and sideburn fringes"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "textured charcoal/grey-green woven wool flat tweed newsboy cap with rounded crown",
+      "outerwear_and_upper": "tailored miniature salt-and-pepper grey wool tweed jacket with notch lapel, small round horn button, and front pocket flaps",
+      "inner_layer_topology": "dark charcoal shirt and collar visible beneath jacket front",
+      "textile_material_and_gloss": "dense tactile wool tweed fabric with visible variegated weave threads and matte finish",
+      "waist_and_belt_hardware": "simple dark waistband beneath jacket hem",
+      "lower_garment_and_drape": "straight-cut dark brown/charcoal woven wool trousers falling over boot tops",
+      "footwear_and_soles": "sculpted matte brown clay boots with stitched seams and dark flat soles",
+      "handheld_props": "hand-carved natural wooden shepherd's crook cane with hooked handle grounded on the cobblestones"
+    },
+
+    "creature_anatomy": {
+      "species_and_morphology": "stylized domestic sheep puppet with compact rounded barrel fleece, smooth droplet dark charcoal clay head, two horizontal drooping teardrop ears, and four slender black stick legs",
+      "pelt_feather_scale_texture": "dense curly loop-pile needle-felted off-white wool fleece with tangible fiber fuzz",
+      "distinguishing_color_patches": "warm creamy off-white fleece torso contrasting against matte dark charcoal head and legs",
+      "limb_and_claw_structure": "four slender cylindrical black stick legs standing firmly on cobblestones",
+      "facial_features_and_horns": "smooth droplet-shaped black clay snout, two white bead eyes with dark pupils looking attentively, drooping ears",
+      "tail_and_motion_state": "stationary standing pose beside the shepherd with head turned toward the viewer/right",
+      "size_scale_reference": "standing at roughly knee-to-mid-thigh height relative to the shepherd"
+    }
+  },
+
+  "multi_subject_breakdown": {
+    "__use_when": "subject.count >= 2 only. One block per subject. Fields must be fully independent per character.",
+    "subject_A": {
+      "label": "Elderly Shepherd Puppet",
+      "height_relative": "taller 3.2x height relative to companion sheep",
+      "build_and_proportions": "slender tall elderly puppet with spindly limbs, tailored tweed jacket, and sculpted clay head",
+      "limb_thickness_and_legs": "slender wire armature inside dark brown wool trousers",
+      "facial_skin_vs_beard": "smooth peachy clay face with prominent hooked nose, smiling mouth, and soft white wool beard",
+      "headwear_structure": "grey tweed flat cap fitted over head",
+      "head_facing_azimuth_deg": -70,
+      "body_facing_azimuth_deg": -45,
+      "gaze_target": "looking down fondly at the companion sheep",
+      "face_summary": "warm smiling elderly profile with stylized hooked nose and white beard",
+      "hair_summary": "wispy white wool fibers framing temples and beard",
+      "outfit_summary": "grey salt-and-pepper tweed blazer, dark trousers, brown clay boots, wooden crook",
+      "pose_summary": "leaning forward with right hand on sheep's head, left hand on cap"
+    },
+    "subject_B": {
+      "label": "Companion Sheep Puppet",
+      "height_relative": "shorter 0.31x height — compact quadruped scale",
+      "build_and_proportions": "compact rounded barrel-shaped wool body on four slender stick legs",
+      "limb_thickness_and_legs": "four slender black stick legs planted on cobblestones",
+      "facial_skin_vs_beard": "matte dark charcoal clay head with white disc bead eyes and drooping ears",
+      "headwear_structure": "none",
+      "head_facing_azimuth_deg": 30,
+      "body_facing_azimuth_deg": 0,
+      "gaze_target": "looking attentively forward-right",
+      "face_summary": "smooth black clay snout with alert bead eyes",
+      "hair_summary": "dense curly off-white needle-felted wool fleece",
+      "outfit_summary": "none — natural wool fleece",
+      "pose_summary": "standing calmly beside the shepherd while being gently petted"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "background flock of sheep in the village street",
+    "color_morph": "warm off-white fleece blobs with dark head silhouettes",
+    "count_density": "approx 4-5 blurred sheep walking down the alley",
+    "size_relative_to_primary": "0.3x to 0.5x apparent size due to depth",
+    "spatial_distribution": "scattered along the cobblestone street in the left midground",
+    "facing_azimuth_deg": -135,
+    "pose_description": "wandering down the street away into the warm sunset backdrop",
+    "priority_level": "environmental background depth anchors"
+  },
+
+  "micro_features": [
+    "Warm glowing amber light emanating from the glass-paned wall lantern mounted to the stone wall on the right",
+    "Individual loop-pile curly wool knots visible on the companion sheep's fleece under directional side-light",
+    "Hand-sculpted cobblestone road texture with irregular rounded stones and dusty clay crevices",
+    "Textured tweed weave on the shepherd's blazer showing herringbone wool fibers and horn button",
+    "A rustic vertical plank wooden doorway with iron latch details set into the stone facade on the far right",
+    "Golden-orange sunset sky gradient glowing in the narrow alley gap between village buildings",
+    "Soft optical bokeh rendering the background sheep and distant village cottages into dreamy pastel shapes"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm golden-sunset 3800K atmospheric wash with rich 2400K incandescent lantern amber and cool stone shadow contrasts",
+    "color_grading_intent": "cozy golden-hour cinematic stop-motion color grade with rich warm highlights and gentle earthy tones",
+    "global_saturation_level": "rich and warm (+15% on warm tones), balanced by desaturated neutral stone walls and cobblestones",
+    "environmental_split_toning": "cool slate-grey and olive-brown shadows vs luminous golden-amber and sunset-orange highlights",
+    "palette": [
+      { "name": "Warm Lantern Amber", "hsl": "hsl(36, 95%, 58%)" },
+      { "name": "Sunset Sky Gold", "hsl": "hsl(30, 85%, 68%)" },
+      { "name": "Weathered Stone Grey", "hsl": "hsl(210, 8%, 58%)" },
+      { "name": "Charcoal Tweed Grey", "hsl": "hsl(200, 10%, 35%)" },
+      { "name": "Cream Wool Fleece", "hsl": "hsl(45, 35%, 88%)" }
+    ],
+    "shadow_color": "soft muted charcoal and deep slate-umber",
+    "highlight_color": "radiant golden-orange and warm amber",
+    "contrast_profile": "medium-high sunset contrast with dramatic warm side illumination from the lantern and low sun",
+    "saturation_map": "highest saturation in lantern glow, sunset sky, and sheep fleece highlights; low saturation in stone masonry",
+    "skin_warmth_vs_env_contrast": "warm peach clay face illuminated by warm lantern light contrasts against the cool textured stone wall behind him",
+    "color_temperature": "warm 3800K overall with 2400K point-source lantern illumination"
+  },
+
+  "lighting": {
+    "drama_level": "dramatic warm sunset chiaroscuro with practical lantern accent",
+    "key_light": {
+      "azimuth_deg": -120,
+      "elevation_deg": 15,
+      "quality": "low-angle golden sunset backlight / rim light streaming down the alley",
+      "color_temp_K": 3200
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 30,
+      "ratio": "2:1 warm ambient fill"
+    },
+    "rim_light": {
+      "azimuth_deg": -135,
+      "elevation_deg": 20,
+      "surfaces": "golden rim highlights on shepherd's hat, shoulders, white beard, and sheep fleece"
+    },
+    "ambient_bounce": "warm cobblestone reflection illuminating lower clothing and legs",
+    "special": "practical wall-mounted glass lantern on right casting localized intense radial warm gold light on stone wall and shepherd's left side"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "lower 30% cobblestone ground; central-right 50% shepherd, companion sheep, stone wall, and lantern; left 40% open cobblestone alley receding towards sunset sky",
+    "layer_stack_z_index": "Layer 0: Sunset sky between buildings -> Layer 1: Out-of-focus background cottages and distant sheep -> Layer 2: Cobblestone street leading line -> Layer 3: Companion sheep and shepherd -> Layer 4: Right stone building wall and glowing lantern",
+    "framing_crop": "medium shot framing the shepherd from head to feet alongside his sheep",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "10% upper headroom above the shepherd's hand and cap; 15% ground clearance below cobblestones",
+    "frame_edge_clipping_and_bleed": "right building facade and wooden door crop off at the right frame edge; bottom cobblestones bleed out of frame",
+    "ground_pedestal": "continuous textured cobblestone street",
+    "camera_azimuth_deg": -20,
+    "subject_facing_azimuth_deg": -70,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "plane containing the shepherd, the companion sheep, the wall lantern, and the right stone masonry",
+      "blurred_zone": "left background alley, distant sheep, and distant buildings",
+      "blur_strength": "pronounced macro optical blur (shallow depth of field)"
+    },
+    "rule_of_thirds": "shepherd positioned along the right vertical third; companion sheep positioned near lower-center intersection; lantern positioned at upper-right third intersection",
+    "grid_and_accent_anchors": {
+      "construction_grid": "none",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "none",
+      "right_top_panel": "none",
+      "right_bottom_panel": "none"
+    }
+  },
+
+  "background": {
+    "setting": "quaint European stone village alleyway at sunset",
+    "key_elements": "rustic stone cottages, narrow cobblestone street, potted plants along building foundations, glowing sunset horizon",
+    "layer_order": "foreground stone wall and lantern -> shepherd and sheep -> cobblestone lane -> background village cottages -> sunset sky",
+    "background_density": "moderately dense architectural diorama environment",
+    "background_treatment": "creamy atmospheric bokeh with warm sunset glow"
+  },
+
+  "typography_and_graphic_elements": {},
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, realistic human photograph, CGI 3D digital model, glossy plastic skin, modern lighting, fluorescent lights, asphalt road, modern clothing, digital video game artifacts",
+
+  "reconstruction_priority": [
+    "Warm lantern illumination and golden sunset dual-lighting — AI frequently flattens lighting into uniform ambient or misses the localized lantern glow",
+    "Tactile miniature tweed jacket and curly wool fleece textures — AI tends to hallucinate smooth synthetic fabrics or procedural noise",
+    "Sculpted matte clay facial features with warm gentle smile — AI often distorts stylized puppet faces into distorted photorealistic human wrinkles",
+    "Organic cobblestone diorama street with physical macro depth of field — AI frequently draws flat repeating tile textures"
+  ]
+}

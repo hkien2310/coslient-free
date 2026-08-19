@@ -1,0 +1,225 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion puppet photography — sculpted matte polymer clay head and hands, wool-felt and wire armature hair, macro lens with shallow depth of field and warm ambient interior bokeh",
+
+  "visual_mood": {
+    "primary_feeling": "quiet nostalgia, tender curiosity, and contemplative stillness",
+    "viewer_impression": "an intimate, poignant glimpse into an elderly artisan searching through cherished miniature keepsakes and memory fragments",
+    "narrative_subtext": "an elderly scholar or craftsman carefully sifting through aged paper clippings and photographs preserved inside an antique wooden chest"
+  },
+
+  "medium": {
+    "type": "handcrafted stop-motion puppet animation photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical handcrafted puppet with sculpted matte clay flesh, wool-fiber hair, and tailored miniature knitted wool garments",
+    "backdrop_medium": "physically constructed miniature room interior with soft out-of-focus ambient lighting",
+    "render_stylization": "semi-stylized puppet caricature with ultra-tactile physical craftsmanship",
+    "line_art_style": "no outlines — 3D volumetric physical shading and real-world optical lighting only",
+    "craft_quality": "master artisan stop-motion miniature fabrication",
+    "physical_material": "matte polymer clay, needle-felted wool fiber, twisted wire armature, real woven wool knitwear, aged timber wood, miniature paper scraps",
+    "surface_specularity": "predominantly matte and satin surfaces with crisp specular glints on thick black acrylic glasses frames and tiny atmospheric dust motes",
+    "texture_distress_finish": "aged weathered wood box with distressed edges, fine clay skin folds, crinkled vintage paper edges",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth digital CGI skin",
+      "plastic toy sheen",
+      "procedural 3D noise",
+      "vector flat shading",
+      "glowing magical outlines"
+    ]
+  },
+
+  "design_register": "cozy nostalgic European stop-motion character study with intimate tactile craft aesthetic",
+
+  "subject": {
+    "type": "stylized elderly male puppet scholar rummaging inside an open wooden chest",
+    "count": 1,
+    "spatial_distribution": "centered in midground, upper torso leaning forward over an antique wooden chest anchored in lower frame",
+
+    "face": {
+      "archetype": "stylized elderly male artisan puppet caricature",
+      "skin_tone": "warm ivory with soft sepia and amber shading in recessed wrinkles",
+      "skin_undertone_sss": "subtle warm peach clay translucency with soft shaded folds around eye sockets and smile lines",
+      "skin_material_feel": "matte sculpted polymer clay with delicate handcrafted micro-creases and tactile skin fold textures",
+      "skin_grime_level_0to10": 2,
+      "skin_moisture_finish": "matte velvet with gentle diffuse highlight roll-off",
+      "face_exposure_pct": 85,
+      "facial_occlusion_boundaries": "upper nose bridge and eye sockets partially framed by thick black rectangular eyeglass rims; mouth and chin covered by full grey wool mustache and beard",
+      "face_paint": "subtle airbrushed sepia tone around eyelids, nostrils, and cheek hollows",
+      "face_volume": "slender stylized caricature structure with narrow cheeks, prominent downward-angled nasal bridge, and sculpted concentric under-eye creases",
+      "forehead_and_skin_planes": "sculpted horizontal forehead folds and vertical brow furrowing under combed wire-bristle eyebrows",
+      "face_shape_silhouette": "elongated tapered oval narrowing into a textured rounded chin beard",
+      "cheek_contour_and_fullness": "lean sculpted cheek planes tapering gently down to the jawline",
+      "jaw_and_chin_geometry": "softly rounded jawline concealed beneath a dense textured beard",
+      "head_cranial_shape": "broad cranial dome with wispy silver-grey wool curls",
+      "head_pitch_deg": 18,
+      "interpupillary_spacing_and_eye_span": "proportional 1.0x eye-width spacing set within deep sculpted orbital sockets",
+      "palpebral_fissure_and_canthal_tilt": "hooded stylized oval eyelids with neutral tilt, upper lids resting low over the irises in a focused downward gaze",
+      "eyes": "stylized spherical puppet eyes with glossy white sclera, dark brown-black pupils gazing downward into the open wooden box",
+      "nose": "elongated smooth bulbous teardrop nose extending downward between the lenses of his spectacles",
+      "ears": "partially occluded beneath fluffy silver-grey sideburns and curly hair",
+      "lip_geometry_and_philtrum": "partially concealed beneath a dense grey fiber mustache, neutral contemplative mouth posture",
+      "mouth": "closed neutral expression, hidden beneath the downward-curving mustache hairs",
+      "markings": "delicate sculpted crow's feet and concentric curved creases around orbital rims",
+      "markings_geometry": "fine curved concentric grooves around lower eyelids and across the forehead"
+    },
+
+    "body": {
+      "exaggeration_locus": "oversized expressive head and thick black spectacles contrasted with slender sculpted clay hands",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet proportion (approx 4.5-head ratio with enlarged expressive head and delicate hands)",
+        "head_pct": "35%",
+        "torso_pct": "65%",
+        "legs_pct": "occluded below frame",
+        "shoulder_width": "narrow 1.3x head width under heavy wool clothing",
+        "body_type": "slender elderly puppet torso draped in warm layers",
+        "torso_girth_and_frailty": "slender frame slightly hunched forward over the open box",
+        "silhouette_rigidity_and_geometry": "soft rounded upper torso leaning forward with bent elbows",
+        "textile_stiffness_and_hang": "heavy ribbed wool knit sleeve bunching naturally at the elbow and forearm with genuine tactile drape",
+        "limb_thickness_archetype": "slender wire-armature arms inside knitted wool sleeves",
+        "neck_morphology": "short neck nestled inside layered shirt collar and cardigan",
+        "neck_length_and_exposure": "mostly concealed beneath beard and collared layers",
+        "hands_and_fingers": "sculpted polymer clay hands with slender articulated fingers, visible knuckle wrinkles, delicate fingernails, right fingers actively sifting through papers"
+      },
+      "height_ratios": "single subject framed from chest upward",
+      "silhouette": "compact triangular upper-body silhouette formed by head, bowed shoulders, and hands resting over the wooden chest",
+      "pose": {
+        "stance_type": "seated upper-body forward lean",
+        "weight_distribution": "forward weight leaning over the tabletop and miniature chest",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -5,
+        "spine_curvature": "gentle forward hunch focusing attention toward the hands and box",
+        "left_arm_pose": "left arm bent forward with sculpted clay fingers gently gripping the right rim of the wooden box",
+        "right_arm_pose": "right arm extending forward with fingers actively delving and sorting through the paper contents",
+        "leg_and_feet_stance": "occluded outside lower frame",
+        "pose_energy": "absorbed, delicate, careful manual search"
+      },
+      "seating_and_elevation": {
+        "surface_type": "interior workspace table",
+        "leg_dangle_dynamics": "lower body not visible",
+        "torso_lean_and_posture": "delicately hunched forward at approximately 20 degrees over the keepsake box"
+      },
+      "hand_pose_interaction": "right hand fingers curled in gentle search motion amid paper fragments; left hand thumb and fingers stabilizing the wooden box rim",
+      "prop_interaction": "direct tactile contact with miniature paper clippings and aged wooden box"
+    },
+
+    "hair": {
+      "color": "silvery white and heather grey mix",
+      "style": "fluffy disheveled curly hair around temples, crown, and nape",
+      "hair_texture_type": "crimped needle-felted wool fleece and wispy thread fibers with realistic micro-fuzz",
+      "hair_sculptural_form": "soft cloud-like curly tufts hugging the sides and top of the head with subtle stray filaments catching the light",
+      "volume_density": "moderate fluffy volume with airy fiber edges",
+      "direction": "outward radial wave and soft curly curls",
+      "dominant_zone": "temples, sideburns, and crown perimeter"
+    },
+
+    "outfit": {
+      "eyewear_structure": "oversized thick black square/rectangular spectacles with glossy acetate finish, thick bridge, and defined frame rims",
+      "outerwear_and_knitwear": "heather grey marl chunky rib-knit wool cardigan/sweater with visible knitted ribbing along the sleeve cuff",
+      "inner_shirt_layer": "vintage off-white crinkled cotton/linen collared undershirt with turned-down collar visible beneath jacket",
+      "outer_coat_layer": "dark warm-grey felted wool overcoat draped across the shoulders",
+      "textile_material_and_gloss": "100% matte natural woven wool yarns and rustic crinkled linen fabric with zero synthetic shine",
+      "cuff_and_sleeve_topology": "ribbed sweater sleeve pulled slightly back on the right forearm revealing the sculpted clay wrist and tendons"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "antique weathered miniature wooden memory box filled with aged paper fragments and sepia photographs",
+    "color_morph": "dark walnut and weathered brown timber with brass latch hardware and sepia/terracotta paper tones",
+    "count_density": "single rectangular wooden chest spanning lower foreground",
+    "size_relative_to_primary": "occupies lower 30% of canvas width and 25% of lower frame height",
+    "spatial_distribution": "anchored in lower center-foreground",
+    "facing_azimuth_deg": 0,
+    "pose_description": "resting open on table surface, lid swung back, exposing layered paper clippings",
+    "priority_level": "critical focal storytelling prop"
+  },
+
+  "micro_features": [
+    "delicate sculpted skin folds and age lines around the clay knuckles and wrists",
+    "glossy circular highlights reflecting on the thick black rectangular eyeglass frames",
+    "stray silver-white fiber filaments floating around the wool beard and mustache",
+    "aged, torn, and crinkled paper edges with faint vintage handwriting and printed markings inside the wooden chest",
+    "tiny out-of-focus luminous dust motes suspended in the air catching the warm backlight",
+    "weathered chipped wood grain and rustic metallic latch on the miniature storage chest"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm nostalgic 3400K incandescent amber interior glow balanced with neutral grey textiles",
+    "color_grading_intent": "rich vintage European stop-motion palette with warm golden chiaroscuro and earthy neutrals",
+    "global_saturation_level": "moderately muted natural palette with vibrant amber bokeh accents",
+    "environmental_split_toning": "warm golden-amber background illumination vs neutral grey-brown tactile foreground textiles",
+    "palette": [
+      { "name": "Heather Grey Wool", "hsl": "hsl(210, 8%, 55%)" },
+      { "name": "Warm Clay Ivory", "hsl": "hsl(32, 35%, 72%)" },
+      { "name": "Obsidian Gloss Black", "hsl": "hsl(0, 0%, 12%)" },
+      { "name": "Antique Walnut Wood", "hsl": "hsl(28, 42%, 26%)" },
+      { "name": "Golden Amber Glow", "hsl": "hsl(38, 88%, 58%)" },
+      { "name": "Aged Parchment Sepia", "hsl": "hsl(35, 45%, 68%)" }
+    ],
+    "shadow_color": "deep warm umber and charcoal grey",
+    "highlight_color": "warm soft amber and gentle cream",
+    "contrast_profile": "medium-high cinematic contrast with rich shadow depth and glowing midtone highlights",
+    "saturation_map": "highest saturation in warm amber background bokeh and terracotta paper scraps; desaturated greys and ivories on puppet",
+    "skin_warmth_vs_env_contrast": "harmonious warm integration between clay skin tones and amber ambient illumination",
+    "color_temperature": "warm 3400K interior tungsten"
+  },
+
+  "lighting": {
+    "drama_level": "intimate, focused, and tenderly atmospheric",
+    "key_light": {
+      "azimuth_deg": -30,
+      "elevation_deg": 35,
+      "quality": "soft directional key light illuminating the forehead, nose, and top of the hands",
+      "color_temp_K": 3600
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 20,
+      "ratio": "1:3 soft ambient fill opening up shadow detail beneath the chin and glasses"
+    },
+    "rim_light": {
+      "azimuth_deg": 140,
+      "elevation_deg": 25,
+      "surfaces": "soft golden rim light catching the crown of curly white hair and shoulders"
+    },
+    "ambient_bounce": "warm diffuse reflection bouncing upward from the light-colored paper fragments in the chest",
+    "special": "soft circular bokeh orb in background right representing an out-of-focus warm incandescent lamp"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "full-bleed single cinematic frame; subject occupies central and upper-left zone; box anchors lower-center",
+    "layer_stack_z_index": "Layer 0: Out-of-focus warm room background -> Layer 1: Puppet torso and head -> Layer 2: Black glasses, hands, and open wooden chest in sharp focal plane",
+    "framing_crop": "medium close-up shot framed from upper chest to crown of head",
+    "subject_vertical_fill_pct": 82,
+    "headroom_and_ground_clearance": "minimal headroom at top frame edge; bottom framed precisely at the lower edge of the wooden box",
+    "frame_edge_clipping_and_bleed": "crown of hair near top frame edge; shoulders bleed past left and right borders; lower wooden chest cut at bottom edge",
+    "ground_pedestal": "interior table surface supporting the antique chest",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 0,
+    "camera_elevation_deg": -5,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "hands, wooden box, paper contents, nose bridge, glasses, eyes, and mustache",
+      "blurred_zone": "background interior walls, furniture, and rear room lighting",
+      "blur_strength": "creamy shallow f/2.2 macro depth of field"
+    },
+    "rule_of_thirds": "eyes align along the upper third horizontal line; the open chest and hands align along the lower third"
+  },
+
+  "background": {
+    "setting": "cozy antique artisan workshop or study interior at evening",
+    "key_elements": "softly blurred warm timber shelves, framed pictures on the wall, and glowing amber table lamp",
+    "layer_order": "distant blurred wall -> mid-distance warm lamp orb -> puppet character and box",
+    "background_density": "sparse out-of-focus background with atmospheric bokeh",
+    "background_treatment": "defocused soft warm shapes providing rich depth and warmth"
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI, 3D render, smooth plastic skin, digital illustration, anime, cartoon drawing, sharp vector art, shiny plastic toy, extra fingers, malformed hands, smiling mouth, open mouth, cheerful expression, fluorescent modern lighting, flat white background",
+
+  "reconstruction_priority": [
+    "tactile stop-motion craft materials — AI often homogenizes clay, wool fibers, and knitwear into generic glossy CGI plastic",
+    "facial anatomy with thick black rectangular glasses and elongated nose — AI often misaligns the spectacle frames or draws incorrect eye gaze",
+    "hand interaction with vintage paper fragments inside the wooden box — AI frequently generates fused fingers or chaotic paper mush",
+    "macro shallow depth of field and authentic fiber fuzz — AI tends to over-sharpen background noise and remove natural stop-motion texture"
+  ]
+}

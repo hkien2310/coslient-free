@@ -1,0 +1,229 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion puppet photography — sculpted polymer clay elderly female character with expressive smile wrinkles, fibrous silver-grey bob, and knitted wool garments leaning beside a rustic miniature wooden window.",
+  "visual_mood": {
+    "primary_feeling": "Warm affectionate nostalgia, quiet morning wonder, and cozy domestic contentment",
+    "viewer_impression": "An immediate sense of gentle storytelling warmth, delicate miniature craftsmanship, and heartfelt emotional intimacy",
+    "narrative_subtext": "A sweet grandmotherly artisan puppet pauses beside her sunlit cottage window, smiling affectionately while holding a steaming miniature cup of tea"
+  },
+  "medium": {
+    "type": "Handcrafted stop-motion puppet macro cinematography with multi-material physical set construction",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Sculpted matte polymer clay face and slender neck, fine synthetic fiber and wool hair, miniature hand-knitted wool textiles, and handmade glazed miniature ceramicware",
+    "backdrop_medium": "Physically constructed miniature timber cottage window set with distressed wood paint and weathered plaster wall",
+    "render_stylization": "Stylized handcrafted stop-motion puppet",
+    "line_art_style": "no outlines — pure physical volumetric form with macro photographic depth of field",
+    "craft_quality": "Master artisan handcrafted stop-motion production quality",
+    "physical_material": "Matte polymer clay, wool yarn, boucle knit, synthetic hair fibers, glazed ceramic, and weathered natural timber",
+    "surface_specularity": "Predominantly matte clay and fibrous surfaces with delicate specular catchlights in glass eye beads and glazed ceramic teacup rim",
+    "texture_distress_finish": "Chipped paint on timber window frames, aged wall plaster, and hand-sculpted skin creases",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "glossy 3D CGI plastic skin",
+      "hyperrealistic digital skin pores",
+      "flat digital vector art",
+      "synthetic neon glows",
+      "monomaterial digital smooth shading"
+    ]
+  },
+  "design_register": "Cozy cottagecore stop-motion character narrative / intimate miniature cinematography",
+  "subject": {
+    "type": "Stylized elderly female artisan puppet smiling affectionately out a rustic wooden window while holding a miniature teacup",
+    "count": 1,
+    "spatial_distribution": "Character positioned in the right two-thirds of frame, leaning forward to the left towards the weathered window frame occupying the left third",
+    "face": {
+      "archetype": "Stylized elderly grandmother / matriarch puppet",
+      "skin_tone": "Warm peachy cream with delicate rosy undertones across cheeks and nose tip",
+      "skin_undertone_sss": "Soft warm subsurface scattering typical of cured matte polymer clay",
+      "skin_material_feel": "Matte sculpted clay with delicate hand-carved smile creases, crow's feet, and natural skin texture",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "Natural matte velvet with subtle diffuse sheen catching window daylight on forehead and bridge of nose",
+      "face_exposure_pct": 95,
+      "facial_occlusion_boundaries": "Surrounded on top and sides by a voluminous silver-grey textured bob hairstyle",
+      "face_paint": "",
+      "face_volume": "Expressive stylized face with prominent cheekbones, sculpted nasolabial smile folds, and slender tapered chin",
+      "forehead_and_skin_planes": "Arched expressive brow planes with delicate horizontal age creases and raised eyebrows",
+      "face_shape_silhouette": "Heart-to-oval silhouette with slender jawline and delicate chin, framed by rounded hair volume",
+      "cheek_contour_and_fullness": "Prominent smiling apple cheeks defined by natural curved smile furrows",
+      "jaw_and_chin_geometry": "Delicate, slightly pointed chin with clean jawline transitioning into a slender neck",
+      "head_cranial_shape": "Broad rounded cranial shape supporting a voluminous textured bob",
+      "head_pitch_deg": -5,
+      "interpupillary_spacing_and_eye_span": "Balanced 1.1x eye-width spacing with wide, open, expressive apertures",
+      "palpebral_fissure_and_canthal_tilt": "Wide almond-shaped stylized eye openings with positive +5° canthal tilt and visible lower lid smile creases",
+      "eyes": "Luminous baby-blue glass bead irises with distinct white key-light reflections, gazing upward and outward to the left",
+      "nose": "Prominent sculpted clay nose with rounded tip and gentle bridge slope",
+      "ears": "Stylized clay ear on subject's left side partially tucked behind hair locks",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "Gently parted smiling lips with delicate rosy-clay tint, short philtrum, and upturned mouth corners",
+      "mouth": "Parted in an affectionate, gentle smile of pleasant surprise and quiet wonder",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "Slender elongated frail neck and delicate sculpted hands holding a miniature teacup beneath an expressive stylized head",
+      "proportions": {
+        "character_proportions_type": "Stylized stop-motion puppet caricature with elongated neck (~1.2x head height)",
+        "head_pct": "45% of visible upper body mass",
+        "torso_pct": "55% of visible upper body mass",
+        "legs_pct": "Occluded below window sill",
+        "shoulder_width": "Slender 1.1x head width — delicate miniature puppet armature",
+        "body_type": "Slender, frail, cozy elderly figure",
+        "torso_girth_and_frailty": "Lean, slender torso draped in cozy textured knitwear",
+        "silhouette_rigidity_and_geometry": "Gentle forward diagonal lean with soft organic textile curves",
+        "textile_stiffness_and_hang": "Soft pliable knitted wool cardigan conforming naturally over shoulders and elbows",
+        "limb_thickness_archetype": "Slender delicate wire-armature arms ending in articulated clay hands",
+        "neck_morphology": "Slender elongated clay neck with sculpted anatomical tendon ridges supporting the head",
+        "neck_length_and_exposure": "Visibly elongated neck rising approx 1.2x head height above the textured orange knit collar",
+        "hands_and_fingers": "Articulated matte clay hands with slender, aging fingers and delicate knuckle creases cupping the cup"
+      },
+      "height_ratios": "Single primary subject in frame",
+      "silhouette": "Dynamic diagonal silhouette leaning from right shoulder forward to lower-left window sill and teacup",
+      "pose": {
+        "stance_type": "Seated or standing, leaning forward against a window sill",
+        "weight_distribution": "Upper body weight supported on elbows and forearms resting against the horizontal wooden sill",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -15,
+        "spine_curvature": "Smooth forward S-curve leaning towards the window aperture",
+        "left_arm_pose": "Left arm extended forward with forearm and orange-cuffed sleeve resting horizontally on the sill",
+        "right_arm_pose": "Right hand raised to gently support the far side of the miniature teacup",
+        "leg_and_feet_stance": "Occluded outside lower frame",
+        "pose_energy": "Warm, peaceful, affectionate stillness with gentle forward curiosity"
+      },
+      "seating_and_elevation": {
+        "surface_type": "Rustic wooden window sill / cottage table ledge",
+        "leg_dangle_dynamics": "Not visible in frame",
+        "torso_lean_and_posture": "Leaning forward at approx 25° angle toward the left window frame"
+      },
+      "hand_pose_interaction": "Both hands delicately cupping the sides of the miniature speckled ceramic teacup at chest level",
+      "prop_interaction": "Miniature ceramic teacup held steady in mid-air above the sill, emitting faint wisps of steam",
+      "prop_asymmetry_load": "Visual focal point created by the hands and teacup at the lower center-left",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "Ash-grey and silver blend with soft warm taupe lowlights",
+      "style": "Short, voluminous, wind-tousled bob parted on the right and sweeping across the forehead in soft textured waves",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "Fine wool felt and synthetic fibers with soft matte fuzz and distinct lock separation",
+      "hair_sculptural_form": "Fluffy, cloud-like bob silhouette curving gently around ears and nape with delicate loose flyaways",
+      "volume_density": "High volume with airy, multi-layered strand distribution",
+      "direction": "Sweeping naturally across the forehead and flaring softly backwards around the sides",
+      "dominant_zone": "Crown, temples, and back of head",
+      "updo_containment": "None — loose textured short bob",
+      "accessories": ""
+    },
+    "outfit": {
+      "outerwear_and_upper": "Coarse-gauge knitted wool cardigan in dusty slate blue/grey with textured loop-stitch pattern",
+      "collar_and_trim_texture": "Rounded Peter Pan collar in rich terracotta-orange textured bouclé/nubby wool knit framing the base of the neck",
+      "cuff_and_sleeve_structure": "Matching terracotta-orange rolled knit cuff on the right forearm resting against the wooden ledge",
+      "innerwear_layering": "Subtle warm-toned underlayer visible beneath collar line",
+      "handheld_prop_details": "Miniature handmade ceramic teacup with speckled brown-and-cream stone glaze, delicate flared rim, and subtle translucent rising steam wisps",
+      "architectural_environment_elements": "Distressed dark timber window frame with vertical mullion bars and chipped paint; adjacent cream plaster wall with vintage floral parchment decal"
+    }
+  },
+  "micro_features": [
+    "Delicate wisps of translucent rising steam curling into the air above the speckled ceramic teacup.",
+    "Finely sculpted crow's feet and expressive smiling creases radiating from the corners of the blue glass eyes.",
+    "Individual flyaway fiber strands in the ash-grey bob catching the diffused daylight from the window.",
+    "Nubby bouclé texture of the terracotta-orange knit collar contrasting with the slate blue knitted sleeve.",
+    "Distressed wood grain and chipped white-and-brown paint texture on the vertical timber window mullion.",
+    "Articulated clay fingertips with subtle sculpted cuticle and knuckle lines gently wrapping around the teacup."
+  ],
+  "color_grading": {
+    "overall_color_cast": "Warm-neutral 4200K interior morning daylight mix with soft golden window wash and cozy shadow roll-off",
+    "color_grading_intent": "Warm, heartwarming, nostalgic European stop-motion palette with natural organic textiles and earthy pigments",
+    "global_saturation_level": "Balanced natural saturation with rich accents on terracotta orange and baby-blue eyes",
+    "environmental_split_toning": "Crisp soft daylight on the left face and hands contrasting with warm dark umber and chocolate shadows on the right",
+    "palette": [
+      { "name": "Slate Blue Knit", "hsl": "hsl(215, 18%, 52%)" },
+      { "name": "Terracotta Boucle", "hsl": "hsl(18, 55%, 52%)" },
+      { "name": "Warm Clay Peach", "hsl": "hsl(26, 45%, 72%)" },
+      { "name": "Silver Ash Hair", "hsl": "hsl(40, 5%, 68%)" },
+      { "name": "Distressed Timber", "hsl": "hsl(28, 32%, 24%)" },
+      { "name": "Cornflower Glass Eye", "hsl": "hsl(205, 50%, 48%)" }
+    ],
+    "shadow_color": "Deep warm chocolate umber in the background and sleeve folds",
+    "highlight_color": "Soft diffused ivory-gold window light skimming the cheek, nose, forehead, and hair fibers",
+    "contrast_profile": "Soft cinematic contrast with smooth highlight roll-off and deep, warm, non-crushed shadows",
+    "saturation_map": "High saturation in terracotta collar and blue irises; neutral muted tones in hair, sweater, and wooden window",
+    "skin_warmth_vs_env_contrast": "Luminous peachy clay skin distinctly lifted against the deep dark cottage interior",
+    "color_temperature": "Natural daylight 4500K key from window with 3200K warm interior fill"
+  },
+  "lighting": {
+    "drama_level": "Soft, naturalistic, emotionally warm window portrait lighting",
+    "key_light": {
+      "azimuth_deg": -60,
+      "elevation_deg": 15,
+      "quality": "Soft diffused natural window key light illuminating the front-left profile, face, teacup, and hands",
+      "color_temp_K": 4500
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 0,
+      "ratio": "1:4 subtle warm ambient fill maintaining sculptural depth along the right cheek and hair"
+    },
+    "rim_light": {
+      "azimuth_deg": -110,
+      "elevation_deg": 25,
+      "surfaces": "Gentle halo rim-light highlighting the wispy outer fibers of the silver-grey hair bob"
+    },
+    "ambient_bounce": "Warm reflection from the wooden window sill onto the lower chin and teacup base",
+    "special": "Pinpoint circular catchlights in the blue glass irises and subtle translucent backlighting through the steam"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "Dual-zone composition: left 30% occupied by the rustic window frame and plaster wall, right 70% occupied by the puppet character leaning forward",
+    "layer_stack_z_index": "Layer 0: Dark blurred cottage interior background -> Layer 1: Character torso and head -> Layer 2: Slender neck, collar, and hands holding teacup -> Layer 3: Foreground wooden window frame on left",
+    "framing_crop": "Medium close-up portrait cropped at mid-torso and window sill",
+    "subject_vertical_fill_pct": 86,
+    "headroom_and_ground_clearance": "Approx 8% headroom above top of hair; lower frame bounded by the wooden sill and forearm",
+    "frame_edge_clipping_and_bleed": "Left window frame bleeds past left edge; right shoulder bleeds beyond right frame boundary",
+    "ground_pedestal": "Rustic dark wooden window sill running horizontally along the lower third",
+    "camera_azimuth_deg": 25,
+    "subject_facing_azimuth_deg": -45,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 75,
+    "depth_of_field": {
+      "sharp_zone": "Tack-sharp on the character's smiling face, blue eyes, hair texture, hands, and steaming teacup",
+      "blurred_zone": "Gentle softness on the extreme foreground window frame edge and complete deep blur across the dark background",
+      "blur_strength": "Heavy macro optical depth of field blur (approx f/2.2)"
+    },
+    "rule_of_thirds": "Character's expressive face and blue eyes align with the upper-right third intersection; teacup and hands sit near the lower-center intersection",
+    "grid_and_accent_anchors": {
+      "construction_grid": "Strong diagonal vector from character's eyes looking up and left towards the vertical window pane line",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "Cozy miniature rustic cottage interior by a wooden window",
+    "key_elements": "Dark timber window frame with vertical mullion, plaster wall patch with faded floral pattern, and deep warm shadow space",
+    "layer_order": "Window frame in left foreground -> character in midground -> deep shadowy interior in background",
+    "background_density": "Sparse and dark behind character, providing maximum contrast and visual separation",
+    "background_treatment": "Atmospheric soft optical falloff with warm umber shadows"
+  },
+  "typography_and_graphic_elements": {
+    "primary_headline": {
+      "text_content": "",
+      "typeface_morphology": "",
+      "spatial_zone_and_span": "",
+      "color_field_continuity": "",
+      "z_index_occlusion": ""
+    },
+    "secondary_metadata_text": {
+      "text_content": "",
+      "spatial_anchoring": ""
+    },
+    "graphic_badges_and_decals": []
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, glossy plastic skin, smooth flat digital vector, photorealistic human skin, young person, harsh neon light, deformed hands, extra fingers, outer decorative border, ornate frame, picture frame",
+  "reconstruction_priority": [
+    "Sculpted polymer clay facial wrinkles and warm smiling expression — AI tends to smooth the face into a glossy cartoon doll or add grotesque excessive wrinkles.",
+    "Slender elongated clay neck and delicate hand anatomy — AI often shortens the neck into a standard human proportion or deforms the miniature fingers.",
+    "Tactile contrast between coarse slate-blue knit and bouclé terracotta collar — AI tends to blend textures into generic flat cloth.",
+    "Miniature speckled ceramic cup with delicate steam wisps — AI often merges the cup into the hand or renders thick opaque smoke."
+  ]
+}

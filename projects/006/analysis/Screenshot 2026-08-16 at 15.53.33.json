@@ -1,0 +1,201 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet miniature cinematography — tactile sculpted clay caricature of an elderly woman with silver yarn hair holding sculpted sunflowers beside a rustic village flower cart in warm sunlit ambiance.",
+  "visual_mood": {
+    "primary_feeling": "heartwarming joy, rustic storybook warmth, and gentle artisanal charm",
+    "viewer_impression": "an instant sense of comforting pastoral delight and tactile physical stop-motion miniature artistry",
+    "narrative_subtext": "a cheerful village elder admiring a freshly gathered bouquet of sunflowers outside a sun-dappled cobblestone flower shop"
+  },
+  "medium": {
+    "type": "stop-motion puppet animation still photography with handcrafted physical miniatures",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated armature puppet with sculpted matte clay head, painted expressive features, textured fiber hair, and tailored micro-textile clothing",
+    "backdrop_medium": "handcrafted miniature European village street set with plaster stone walls, weathered blue timber doors, and physical flower cart",
+    "render_stylization": "stylized artisanal storybook puppet caricature realism",
+    "line_art_style": "no outlines — 3D volumetric physical shading, tactile surface micro-textures, and natural optical depth-of-field",
+    "craft_quality": "master-level studio stop-motion puppet fabrication and miniature set dressing",
+    "physical_material": "matte polymer clay, silver-white wool fiber yarn, woven cotton linen, knit wool yarn, balsa wood, and miniature wire flower sculptures",
+    "surface_specularity": "matte clay skin with soft rosy blush, fibrous non-reflective knitwear, and satin-painted weathered wood",
+    "texture_distress_finish": "aged artisanal distressing with distressed blue paint on doors/cart, micro-floral fabric weave, and chipped stone plaster",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "glossy 3D CGI plastic skin",
+      "flat digital vector art",
+      "shiny synthetic fabrics",
+      "procedural CGI particle hair"
+    ]
+  },
+  "design_register": "storybook European village folk animation, heartwarming stop-motion comedy-drama, and pastoral cottagecore aesthetic",
+  "subject": {
+    "type": "stylized handcrafted elderly female puppet holding a bouquet of miniature sunflowers outside a rustic flower shop",
+    "count": 1,
+    "spatial_distribution": "standing in the right third of the frame, facing left toward the blue flower cart and shop entrance",
+    "face": {
+      "archetype": "stylized European folk elderly female puppet caricature with distinctive friendly features",
+      "skin_tone": "pale warm peachy bisque with gentle rosy flush on the apples of the cheeks",
+      "skin_undertone_sss": "warm peachy-rosy undertones on cheek mounds, non-translucent matte clay finish",
+      "skin_material_feel": "smooth sculpted matte polymer clay with soft continuous curves and velvety texture",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "matte velvet with subtle rosy cheek glow",
+      "face_exposure_pct": 95,
+      "facial_occlusion_boundaries": "partially framed by neatly swept white hair strands along temples and forehead",
+      "face_paint": "delicate painted brown arched eyebrows, subtle dark eyeliner contours, and warm pink-rosy cheek blush",
+      "face_volume": "stylized caricature bone structure with a prominent gently curved forward-projecting nose and rounded smiling cheeks",
+      "forehead_and_skin_planes": "smooth uncreased matte clay forehead sloping into a soft bridge",
+      "face_shape_silhouette": "tapered oval profile with prominent rounded nose and soft cheerful chin",
+      "cheek_contour_and_fullness": "prominent rounded smiling apple cheeks raised warmly with joyful expression",
+      "jaw_and_chin_geometry": "softly rounded compact chin with gentle curved jawline",
+      "head_cranial_shape": "compact rounded cranium supporting a neatly gathered rear silver hair bun",
+      "head_pitch_deg": 6,
+      "interpupillary_spacing_and_eye_span": "stylized wide-set expressive ocular placement",
+      "palpebral_fissure_and_canthal_tilt": "round-to-almond expressive open eyes with positive outer corner lift",
+      "eyes": "dark glossy painted bead eyes with bright white specular pinpoint catchlights gazing warmly at the sunflowers",
+      "nose": "prominent stylized caricature nose with smooth bridge and rounded downward-hooked bulbous tip",
+      "ears": "single stylized sculpted clay ear visible on near right side with rounded lobe",
+      "lip_geometry_and_philtrum": "wide upturned closed-lip smiling mouth forming a joyful curved crescent crease",
+      "mouth": "broad cheerful closed smile with defined upward corners conveying warm delight"
+    },
+    "body": {
+      "exaggeration_locus": "stylized caricature head with large expressive nose atop a compact, gently stooped elderly frame holding floral bouquet",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet proportions (approx 5.0-head ratio with slender limbs)",
+        "head_pct": "24%",
+        "torso_pct": "38%",
+        "legs_pct": "38%",
+        "shoulder_width": "narrow 1.1x head width with soft rounded elderly posture",
+        "body_type": "compact slender elderly puppet build with gentle posture hunch",
+        "torso_girth_and_frailty": "slender frame draped in an oversized smock dress and textured knit cardigan",
+        "silhouette_rigidity_and_geometry": "standing A-line triangular silhouette tapering from hem up to shoulders",
+        "textile_stiffness_and_hang": "heavy woven cotton smock falling in straight vertical pleats with soft textured drape",
+        "limb_thickness_archetype": "slender articulated wire-armature arms with delicate sculpted clay hands",
+        "neck_morphology": "slender cylindrical neck emerging from high smock neckline",
+        "neck_length_and_exposure": "partially concealed behind high gathered collar and side hair",
+        "hands_and_fingers": "sculpted miniature clay hands with posable fingers clasped securely around floral stems"
+      },
+      "height_ratios": "single primary subject occupying 82% of vertical frame height on right side",
+      "silhouette": "standing bell-shaped silhouette with arms bent upward holding flower bouquet",
+      "pose": {
+        "stance_type": "standing upright with a gentle forward lean of affectionate attention toward the flowers",
+        "weight_distribution": "grounded evenly on both feet beneath floor-length smock",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 4,
+        "spine_curvature": "gentle sweet elderly forward posture curve",
+        "left_arm_pose": "left arm bent at elbow with forearm raised across chest supporting the flower stems",
+        "right_arm_pose": "right hand cupping the stems alongside the left hand at chest level",
+        "leg_and_feet_stance": "standing stationary facing toward the left flower cart",
+        "pose_energy": "warm, gentle, joyful affection and sensory delight"
+      },
+      "seating_and_elevation": {
+        "surface_type": "cobblestone street pavement outside flower shop",
+        "leg_dangle_dynamics": "fully grounded on pavement beneath skirt",
+        "torso_lean_and_posture": "gentle forward posture toward the held bouquet"
+      },
+      "hand_pose_interaction": "both hands gently holding the bunch of green sunflower stems at mid-chest height",
+      "prop_interaction": "holding a detailed miniature bouquet of vibrant yellow-orange sunflowers with brown centers and green leaves"
+    },
+    "hair": {
+      "color": "pure silver-white and soft grey fiber blend with dimensional combed sheen",
+      "style": "classic elderly updo with fine combed strands drawn back into a textured spherical bun at the rear crown",
+      "hair_texture_type": "fine combed wool/silk yarn fibers arranged in distinct linear grooves with delicate surface wisps",
+      "hair_sculptural_form": "neatly grooved cranial shell converging into a round textured chignon bun with loose looping tendrils",
+      "volume_density": "moderate density with smooth sculptural contour and tactile fibrous texture",
+      "direction": "swept back from forehead and temples toward the rear bun",
+      "dominant_zone": "rear crown chignon",
+      "updo_containment": "compact coiled bun at back of head with delicate stray loops"
+    },
+    "outfit": {
+      "headwear_or_eyewear": "none, neatly styled silver hair updo",
+      "outerwear_and_upper": "heathered slate-navy chunky knit cardigan with ribbed cuffs and open front",
+      "textile_material_and_gloss": "matte textured purl-knit wool yarn with tactile surface loops and zero specular sheen",
+      "inner_layer_topology": "vintage tan-beige smock dress featuring high gathered collar and all-over micro terracotta floral print",
+      "waist_and_belt_hardware": "loose unbelted smock silhouette falling cleanly to lower hem",
+      "lower_garment_and_drape": "full-length pleated tan floral smock skirt draping to ground level in crisp vertical folds",
+      "footwear_and_soles": "grounded on cobblestone street, occluded beneath hem",
+      "jewelry_and_accessories": "fine gold beaded bracelet on left wrist; miniature handheld bouquet of sculpted sunflowers"
+    },
+    "micro_features": [
+      "delicate sculpted petal ridges and textured brown seed centers on each individual sunflower blossom",
+      "intricate micro-floral terracotta and olive sprig pattern printed across the beige cotton smock dress",
+      "tactile purl-knit yarn loops and fuzzy fibers on the navy blue cardigan sleeves",
+      "miniature weathered wooden flower cart with painted blue distressed panels and spoked wooden wheels",
+      "terracotta pots and wooden window boxes filled with blooming peach-orange roses and tiny green succulent rosettes",
+      "distressed stone plaster and decorative carved lintel over the rustic blue paneled shop door",
+      "sunlit airborne micro-dust motes drifting gently through the warm village air"
+    ],
+    "color_grading": {
+      "overall_color_cast": "warm 5000K golden Mediterranean sunlight with rich ochre, warm terracotta, and contrasting rustic blue",
+      "color_grading_intent": "warm storybook analog film grade with cheerful saturated yellows and warm earthy terracotta balances",
+      "global_saturation_level": "vibrant yet natural palette highlighting the golden sunflowers and peach roses against weathered earth tones",
+      "environmental_split_toning": "cool distressed slate-blue door and cart contrasting with warm golden sunflowers, peach roses, and sunlit beige stone",
+      "palette": [
+        { "name": "Sunflower Golden Yellow", "hsl": "hsl(40, 90%, 52%)" },
+        { "name": "Terracotta Peach Rose", "hsl": "hsl(18, 70%, 55%)" },
+        { "name": "Distressed French Blue", "hsl": "hsl(205, 45%, 38%)" },
+        { "name": "Warm Sandstone Stucco", "hsl": "hsl(35, 32%, 75%)" },
+        { "name": "Navy Slate Knit", "hsl": "hsl(215, 35%, 28%)" },
+        { "name": "Silver Grey Hair", "hsl": "hsl(40, 10%, 82%)" }
+      ],
+      "shadow_color": "warm umber with soft earthy ambient fill",
+      "highlight_color": "warm golden cream on white hair, sunflower petals, and sunlit stone lintel",
+      "contrast_profile": "medium contrast with luminous highlights and open, detailed shadows",
+      "saturation_map": "highest on sunflowers and rose cart; balanced on smock dress; subdued on stone wall background",
+      "skin_warmth_vs_env_contrast": "peachy warm clay face harmonizes with golden sunflowers and stands out against soft neutral background",
+      "color_temperature": "5000K"
+    },
+    "lighting": {
+      "drama_level": "bright, cheerful, natural outdoor sunlight",
+      "key_light": {
+        "azimuth_deg": -30,
+        "elevation_deg": 45,
+        "quality": "soft direct natural sunlight illuminating the puppet's face, sunflowers, and the front of the flower cart",
+        "color_temp_K": 5200
+      },
+      "fill_light": {
+        "azimuth_deg": 60,
+        "elevation_deg": 20,
+        "ratio": "1:2 soft warm ambient fill reflected from cobblestones and stone walls"
+      },
+      "rim_light": {
+        "azimuth_deg": 135,
+        "elevation_deg": 30,
+        "surfaces": "delicate golden rim highlight along silver hair bun, top of cardigan shoulder, and upper sunflower petal edges"
+      },
+      "ambient_bounce": "warm terracotta bounce from flower boxes and ground into low-angle shadow zones",
+      "special": "subtle floating sunlit dust particles sparkling in the air"
+    },
+    "composition": {
+      "aspect_ratio": "16:9 widescreen landscape",
+      "canvas_zoning": "rustic shop facade and flower cart fill left 55%; puppet holding sunflowers occupies right 45%",
+      "layer_stack_z_index": "Layer 0: Soft-focus background village alley and archway -> Layer 1: Rustic stone shop facade and blue door -> Layer 2: Wooden flower cart with potted roses and succulents -> Layer 3: Elderly female puppet holding sunflower bouquet",
+      "framing_crop": "medium shot capturing the figure from lower skirt hem to hair bun",
+      "subject_vertical_fill_pct": 82,
+      "headroom_and_ground_clearance": "8% headroom above silver hair bun; lower frame cut off just above street ground level",
+      "frame_edge_clipping_and_bleed": "left shop window and potted plants extend off left frame; rear hair bun approaches right frame edge",
+      "ground_pedestal": "cobblestone street pavement outside the flower shop",
+      "camera_azimuth_deg": 0,
+      "subject_facing_azimuth_deg": -65,
+      "camera_elevation_deg": 0,
+      "focal_length_mm": 50,
+      "depth_of_field": {
+        "sharp_zone": "puppet face, silver hair, sunflowers, navy cardigan, and foreground rose cart",
+        "blurred_zone": "background village street archway and distant doorway",
+        "blur_strength": "f/3.2 shallow macro depth of field creating smooth background separation"
+      },
+      "rule_of_thirds": "puppet eyes and sunflowers align along upper-right intersection; flower cart aligns along lower-left third"
+    },
+    "background": {
+      "setting": "quaint European cobblestone village street outside an artisanal florist shop",
+      "key_elements": "distressed blue shop door, carved stone portal, background street archway, potted terracotta plants",
+      "layer_order": "distant blurred street -> shop facade -> flower cart -> foreground puppet figure",
+      "background_density": "richly dressed with architectural details yet cleanly separated via optical depth of field",
+      "background_treatment": "soft optical blur softening stone textures into warm atmospheric depth"
+    },
+    "typography_and_graphic_elements": {},
+    "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, smooth digital vector art, sad expression, crying, angry face, missing fingers, extra sunflowers, modern asphalt road, skyscrapers, neon lights",
+    "reconstruction_priority": [
+      "tactile stop-motion puppet craftsmanship — AI often defaults to smooth 3D CGI cartoon render",
+      "sculpted clay elderly caricature facial geometry with distinctive curved nose and cheerful expression — AI often draws generic pretty young faces",
+      "miniature sculpted sunflower petals and textured seed centers — AI often renders flat yellow disks",
+      "distressed blue wooden flower cart with potted miniature roses — AI often simplifies or omits detailed cart props"
+    ]
+  }
+}

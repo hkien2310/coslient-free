@@ -1,0 +1,222 @@
+{
+  "___style_anchor": "Handcrafted stop-motion diorama miniature puppet photography — sculpted elderly musician puppet in ribbed orange knit sweater playing a brass saxophone on a windswept sand ridge high above a vast sea of dense cotton-wool clouds under an azure blue sky.",
+  "visual_mood": {
+    "primary_feeling": "exuberant poetic freedom, joyous solitude, and surreal soaring melody",
+    "viewer_impression": "an exhilarating sense of altitude, boundless open sky, and music echoing across clouds",
+    "narrative_subtext": "a whimsical elderly puppet musician stands alone at the edge of the world, playing his golden saxophone into the sky as his extraordinarily long orange scarf billows on the alpine wind"
+  },
+  "medium": {
+    "type": "handcrafted stop-motion diorama miniature puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical miniature puppet craft with clay head, wire armature, knitted wool garments, metal brass saxophone, and tactile cotton-batting cloud miniatures",
+    "backdrop_medium": "painted gradient sky backdrop with soft atmospheric haze and physical cotton cloud clusters",
+    "render_stylization": "semi-stylized whimsical puppet diorama with surreal physical scale",
+    "line_art_style": "no outlines — volumetric physical 3D miniatures and natural directional sun lighting",
+    "craft_quality": "master artisan handcrafted stop-motion production",
+    "physical_material": "matte polymer clay, spun orange wool yarn, cotton batting, raw brass metal, textured cast plaster/wood ridge",
+    "surface_specularity": "matte wool and cotton textures contrasting with satin-sheen polished brass saxophone and subtle glint on wire glasses",
+    "texture_distress_finish": "tarnished vintage patina on brass saxophone, chunky knit stitch loops on sweater and scarf, fluffy fiber clumps on cotton clouds, striated dry ground texture",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "flat 2D vector sky",
+      "smooth procedural CGI cloud volume",
+      "glossy plastic skin",
+      "unnatural digital glow"
+    ]
+  },
+  "design_register": "surreal whimsical folk stop-motion miniature diorama",
+  "subject": {
+    "type": "elderly miniature puppet musician playing a saxophone in high wind on an elevated cloud-top ridge",
+    "count": 1,
+    "spatial_distribution": "musician puppet positioned at right-center (X=55% to X=85%, Y=15% to Y=90%), saxophone extending forward toward lower-left, trailing scarf streaming out to upper-right (X=75% to X=100%, Y=15% to Y=30%), cloud sea spanning left and foreground (X=0% to X=65%, Y=40% to Y=100%)",
+    "face": {
+      "archetype": "elderly stylized male musician puppet in 90° right profile",
+      "skin_tone": "warm peachy cream clay",
+      "skin_undertone_sss": "subtle warm peach SSS",
+      "skin_material_feel": "matte sculpted polymer clay with delicate age lines around eyes and cheek",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 60,
+      "facial_occlusion_boundaries": "saxophone mouthpiece inserted into lips; round spectacles on nose; thick knitted scarf collar bundled around neck and chin",
+      "face_volume": "slender angular caricature profile with pointed nose and gentle brow",
+      "forehead_and_skin_planes": "smooth matte clay forehead swept by wind",
+      "face_shape_silhouette": "tapered profile nestled into high cowl scarf",
+      "cheek_contour_and_fullness": "taut cheek puffing slightly into saxophone embouchure",
+      "jaw_and_chin_geometry": "concealed beneath trimmed white wool beard and bulky orange knit scarf collar",
+      "head_cranial_shape": "compact oval cranium with hair blowing horizontally backward",
+      "head_pitch_deg": 0,
+      "interpupillary_spacing_and_eye_span": "single eye visible in strict profile",
+      "palpebral_fissure_and_canthal_tilt": "focused almond eye behind spectacle frame",
+      "eyes": "dark bead eye looking intently along the instrument line",
+      "nose": "prominent slender nose supporting wire-frame spectacles",
+      "ears": "small sculpted ear nestled between hair and glasses temple",
+      "lip_geometry_and_philtrum": "lips wrapped securely around black saxophone mouthpiece",
+      "mouth": "tight focused embouchure blowing into the instrument"
+    },
+    "body": {
+      "exaggeration_locus": "extraordinarily long trailing orange scarf streaming horizontally across the sky, contrasting with compact puppet body",
+      "proportions": {
+        "character_proportions_type": "stylized puppet caricature (approx 4.5-head ratio)",
+        "head_pct": "22%",
+        "torso_pct": "43%",
+        "legs_pct": "35%",
+        "shoulder_width": "narrow 1.2x head width draped in bulky orange knit sweater",
+        "body_type": "slender elderly puppet musician braced against the wind",
+        "torso_girth_and_frailty": "compact wire armature bulked by thick ribbed sweater",
+        "silhouette_rigidity_and_geometry": "dynamic upright stance leaning slightly back to balance the forward-reaching saxophone",
+        "textile_stiffness_and_hang": "heavy knit scarf caught in strong horizontal laminar wind flow, extending straight out to the right",
+        "limb_thickness_archetype": "slender wire limbs inside textured knitwear, articulated clay hands grasping brass keys",
+        "neck_morphology": "fully bundled inside multiple thick loops of orange knitted wool scarf",
+        "neck_length_and_exposure": "0% exposed neck, wrapped in thick ribbed cowl",
+        "hands_and_fingers": "delicate sculpted clay hands positioned with left hand on upper saxophone keys and right hand supporting lower body"
+      },
+      "silhouette": "dynamic S-curve musician standing on sand ledge with long horizontal scarf banner and curved saxophone",
+      "pose": {
+        "stance_type": "wind-braced musical performance stance",
+        "weight_distribution": "60% planted on front right foot, 40% on back left foot for stability on sandy slope",
+        "hip_axis_tilt_deg": -5,
+        "shoulder_axis_tilt_deg": 5,
+        "spine_curvature": "slight counter-balancing backward lean against the weight of the horn and wind pressure",
+        "left_arm_pose": "left elbow bent upward, clay fingers curved over upper saxophone tone holes",
+        "right_arm_pose": "right arm positioned lower along the horn body, fingers resting on valve cluster",
+        "leg_and_feet_stance": "feet spaced shoulder-width apart, planted firmly on the striated sandy ridge",
+        "pose_energy": "spirited joyful musical expression in open nature"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing atop natural windblown sand ridge ledge",
+        "leg_dangle_dynamics": "standing firmly grounded",
+        "torso_lean_and_posture": "upright dynamic wind-braced stance"
+      },
+      "hand_pose_interaction": "both hands actively fingering the keys of the brass saxophone",
+      "prop_interaction": "mouthpiece engaged at lips, brass bell pointed downward-forward at a 45-degree angle"
+    },
+    "hair": {
+      "color": "bright snowy white wool",
+      "style": "short fuzzy crop blown straight backward in motion blur by strong horizontal wind",
+      "hair_texture_type": "soft needle-felted wool fibers with wispy trailing motion blur at the back",
+      "hair_sculptural_form": "aerodynamic windblown wedge shape streaming off the back of the head",
+      "volume_density": "medium volume tuft",
+      "direction": "100% horizontal rightward flow matching the scarf",
+      "dominant_zone": "crown and occiput"
+    },
+    "outfit": {
+      "headwear_or_eyewear": "thin wire-rim round spectacles perched on nose bridge",
+      "outerwear_and_upper": "vibrant marigold-orange hand-knitted crewneck sweater with vertical ribbed stitch texture and fringed hem",
+      "trailing_neckwear": "massive long bright orange knitted scarf wrapped thickly around neck and streaming horizontally 50cm out of frame to the right in high wind",
+      "textile_material_and_gloss": "100% matte spun wool yarn with heavy tactile purl stitches, completely non-reflective",
+      "lower_garment_and_drape": "heather grey/beige fine-ribbed knit trousers tapering down to ankles",
+      "footwear_and_soles": "pale sand-colored suede miniature lace-up boots with flat soles standing on ridge",
+      "instrument_and_hardware": "detailed miniature brass saxophone with curved neck, intricate keywork, bell flare, and warm metallic sheen"
+    }
+  },
+  "secondary_subject": {
+    "type": "vast physical cotton-batting miniature cloud sea spreading beneath the musician",
+    "color_morph": "pure cotton white with soft warm cream highlights and periwinkle-grey shadow pockets",
+    "count_density": "multi-layered rolling cloud bank",
+    "size_relative_to_primary": "massive landscape scale filling lower half of frame",
+    "spatial_distribution": "spreading across left midground and foreground (X=0% to X=70%, Y=40% to Y=100%)",
+    "facing_azimuth_deg": 0,
+    "pose_description": "billowing fluffy tufts creating the illusion of high alpine altitude",
+    "priority_level": "major environmental focal element"
+  },
+  "micro_features": [
+    "billowing tufts of raw white cotton batting forming soft cloud peaks and wisps across the foreground valley",
+    "delicate cast shadows beneath the musician's beige boots on the striated sandy ground surface",
+    "intricate miniature brass key rods, cups, and levers soldered onto the saxophone tube",
+    "individual knitted stitch loops visible along the billowing edge of the long orange scarf",
+    "motion blur softly softening the trailing edges of the white hair and windward scarf tip",
+    "fine horizontal stratus cloud layers painted on the pale azure blue background sky"
+  ],
+  "color_grading": {
+    "overall_color_cast": "crisp high-altitude 5600K daylight — prohibit gloomy green or sepia muddiness",
+    "color_grading_intent": "bright uplifting high-key outdoor palette dominated by vibrant warm orange against serene sky blue and pure white clouds",
+    "global_saturation_level": "high punchy saturation on orange sweater and scarf (+25%), vivid cerulean blue sky, clean neutral white clouds",
+    "environmental_split_toning": "cool cerulean blue sky and white cotton clouds vs fiery marigold-orange knitwear and golden brass",
+    "palette": [
+      {
+        "name": "Vibrant Marigold Orange",
+        "hsl": "hsl(22, 95%, 53%)"
+      },
+      {
+        "name": "Alpine Sky Blue",
+        "hsl": "hsl(205, 75%, 58%)"
+      },
+      {
+        "name": "Cotton Cloud White",
+        "hsl": "hsl(40, 20%, 96%)"
+      },
+      {
+        "name": "Polished Brass Gold",
+        "hsl": "hsl(42, 65%, 55%)"
+      },
+      {
+        "name": "Heather Grey Knit",
+        "hsl": "hsl(40, 8%, 60%)"
+      },
+      {
+        "name": "Sandy Ridge Dune",
+        "hsl": "hsl(35, 25%, 72%)"
+      }
+    ],
+    "shadow_color": "soft periwinkle-slate in cloud crevices and warm amber-brown in sweater folds",
+    "highlight_color": "brilliant clean sunlight white on cloud crests and crisp brass specular reflections",
+    "contrast_profile": "medium-high outdoor sunlight contrast with bright open sky and deep tactile shadows",
+    "saturation_map": "peak saturation on orange scarf and sweater; high on sky blue; low on grey pants and sand",
+    "skin_warmth_vs_env_contrast": "warm orange clothing and peachy clay stand out in stark dramatic complementary contrast against the cool blue sky",
+    "color_temperature": "5600K bright clear midday sun"
+  },
+  "lighting": {
+    "drama_level": "bright theatrical outdoor sunlight with clear directional shadows",
+    "key_light": {
+      "azimuth_deg": -50,
+      "elevation_deg": 40,
+      "quality": "hard direct sunlight simulator",
+      "color_temp_K": 5600
+    },
+    "fill_light": {
+      "azimuth_deg": 60,
+      "elevation_deg": 30,
+      "ratio": "1:3 soft sky bounce from blue atmosphere"
+    },
+    "rim_light": {
+      "azimuth_deg": 120,
+      "elevation_deg": 45,
+      "surfaces": "sharp sunlight rim catching top edge of orange scarf, shoulders, hair, and saxophone curve"
+    },
+    "ambient_bounce": "warm ground bounce from pale sand ridge onto boots and lower legs"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "sky and wind stream fill upper 60%; musician stands on right third; billowing cloud sea fills lower-left 40%; sand ridge cuts bottom right 20%",
+    "layer_stack_z_index": "Layer 0: Gradient blue sky background -> Layer 1: Foreground and midground cotton cloud sea -> Layer 2: Elevated sandy ridge -> Layer 3: Musician puppet, brass saxophone, and billowing orange scarf",
+    "framing_crop": "wide environmental diorama shot",
+    "subject_vertical_fill_pct": 65,
+    "headroom_and_ground_clearance": "15% sky headroom above head; 10% ground clearance below boots to frame bottom",
+    "frame_edge_clipping_and_bleed": "orange scarf streams off the right edge; clouds bleed off left and bottom edges",
+    "ground_pedestal": "dry pale sandy/woody ridge sloping upward from left to right",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 270,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "musician puppet, saxophone, scarf, and edge of sand ridge",
+      "blurred_zone": "distant cotton cloud layers and far sky",
+      "blur_strength": "moderate diorama depth of field with soft fluffy cloud edges"
+    },
+    "rule_of_thirds": "musician body aligns with right vertical third; horizontal wind stream of scarf aligns with upper third line; saxophone points toward lower-left intersection"
+  },
+  "background": {
+    "setting": "surreal high-altitude alpine dreamscape above a sea of clouds",
+    "key_elements": "billowing fluffy cotton-wool cloud mounds, distant horizontal wispy clouds, solid clear blue sky",
+    "layer_order": "sky -> far clouds -> near clouds -> ground ridge",
+    "background_density": "open airy expansive atmosphere",
+    "background_treatment": "surreal physical diorama craftsmanship simulating sky and clouds with tactile fibers"
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic skin, glossy CGI render, flat 2D digital drawing, vector art, cartoon, real human skin, dark gloomy weather, rain, stormy dark clouds, deformed hands, broken saxophone, limp scarf, missing scarf, oversaturated neon magenta",
+  "reconstruction_priority": [
+    "dynamic horizontal wind-blown aerodynamics of the extraordinarily long orange scarf and hair — AI often collapses the scarf into a limp drooping rag or removes it entirely",
+    "authentic miniature stop-motion materials (cotton-batting cloud miniatures, knitted wool yarn, crafted brass saxophone) — AI frequently replaces them with smooth CGI volumetric clouds and plastic textures",
+    "precise two-handed grip and mouth embouchure playing the miniature brass saxophone — AI tends to mangle finger placements or float the instrument in mid-air",
+    "striking complementary color harmony between vivid marigold orange, azure blue sky, and pure white clouds — AI easily loses color purity or introduces muddy brown tints"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet macro portrait photography — tactile articulated silicone and clay character with hand-rooted bristly white hair, round wire-rimmed spectacles, ribbed olive knitwear, and shallow optical depth of field",
+
+  "visual_mood": {
+    "primary_feeling": "intimate warmth, nostalgic recollection, and gentle animated wonder",
+    "viewer_impression": "an immediate emotional connection with a wise, endearing handcrafted character sharing a precious memory",
+    "narrative_subtext": "the elderly artisan gesturing softly as he opens an antique keepsake valise filled with faded photographs and handwritten letters from a bygone era"
+  },
+
+  "medium": {
+    "type": "physical stop-motion puppet close-up macro cinematography with genuine optical lens characteristics",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated puppet armature with sculpted matte clay/silicone head, hand-laid synthetic fiber beard and hair, miniature wireframe glasses, and knitted wool collar",
+    "backdrop_medium": "hand-built miniature interior with warm wood panels and blurred vintage wallpaper",
+    "render_stylization": "semi-stylized artisanal puppet realism",
+    "line_art_style": "no outlines — 3D volumetric physical shading, tactile surface micro-textures, and optical focus falloff",
+    "craft_quality": "master artisan stop-motion character design and miniature prop fabrication",
+    "physical_material": "matte sculpted silicone/polymer clay, synthetic hair fibers, black metal wire, ribbed wool yarn, tweed fabric, and aged miniature paper",
+    "surface_specularity": "predominantly matte fibrous surfaces and satin skin with subtle specular gleams on the circular spectacle frames, glass lenses, and eye pupils",
+    "texture_distress_finish": "aged weathered paper edges inside suitcase, delicate facial sculpting creases, and organic fiber fuzz",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D subsurface scattering sheen",
+      "flat vector illustration",
+      "procedural glossy shaders",
+      "photorealistic human skin pores"
+    ]
+  },
+
+  "design_register": "intimate European stop-motion character study, warm nostalgic storytelling",
+
+  "subject": {
+    "type": "elderly male puppet scholar/artisan with round spectacles and prominent nose gesturing beside an open vintage trunk",
+    "count": 1,
+    "spatial_distribution": "occupying the central and right two-thirds of the frame in an intimate close-up",
+
+    "face": {
+      "archetype": "stylized elderly puppet intellectual with expressive caricatured features",
+      "skin_tone": "warm pale beige with delicate peachy and light terracotta undertones on the nose and cheeks",
+      "skin_undertone_sss": "subtle clay warmth with soft diffuse light transmission along the nasal ridge and ear cartilage",
+      "skin_material_feel": "matte sculpted polymer clay and smooth silicone with fine tactile tool impressions, zero digital sheen",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet with subtle satin highlights on the rounded tip of the nose and lower lip",
+      "face_exposure_pct": 80,
+      "facial_occlusion_boundaries": "upper eye region framed by heavy black circular spectacles; lower chin and jaw enclosed by full white mustache and beard",
+      "face_paint": "delicate warm blush on ear lobes and nose tip; subtle brown accentuation in forehead creases",
+      "face_volume": "elongated, sculpturally defined face with pronounced cranial forehead, lean cheek planes, and prominent nasal bridge",
+      "forehead_and_skin_planes": "prominent sculpted horizontal forehead furrows and arched supraorbital ridges conveying thoughtful wisdom",
+      "face_shape_silhouette": "elongated vertical silhouette with wide prominent cupped ears and a strong central vertical axis defined by the long nose",
+      "cheek_contour_and_fullness": "slender sculpted cheeks without excessive flesh, tapering gently toward the beard line",
+      "jaw_and_chin_geometry": "tapered jawline completely framed and cushioned by a neatly trimmed bristle beard",
+      "head_cranial_shape": "tall vertical oval with rounded dome, crown cropped slightly at the top frame border",
+      "head_pitch_deg": 5,
+      "interpupillary_spacing_and_eye_span": "narrow-to-standard spacing (approx 1.0x eye width) perfectly framed within the dual circular lens apertures",
+      "palpebral_fissure_and_canthal_tilt": "hooded stylized almond-shaped eyes with subtle downward outer tilt (-3°), conveying warmth, wisdom, and gentle age",
+      "eyes": "warm amber-brown sculpted iris beads with glossy wet-look pupil catchlights peering softly through clear spectacle lenses",
+      "nose": "very prominent elongated curved nose with a slender vertical bridge, flared nostrils, and a bulbous pinkish rounded tip",
+      "ears": "large, highly prominent stylized C-shaped cupped ears projecting laterally outward on both sides, featuring detailed inner concha folds and soft pinkish translucency",
+      "lip_geometry_and_philtrum": "upper lip completely concealed beneath the dense downward-combed white mustache; lower lip small, rounded, and subtly visible above chin beard",
+      "mouth": "partially occluded closed mouth with a gentle, serene resting expression",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "magnified head with oversized cupped ears, long curved nose, and thick circular glasses",
+      "proportions": {
+        "character_proportions_type": "expressive stop-motion puppet portrait (head-dominant macro framing)",
+        "head_pct": "75%",
+        "torso_pct": "25%",
+        "legs_pct": "0% (below frame)",
+        "shoulder_width": "narrow puppet shoulders draped in ribbed knitwear and tweed",
+        "body_type": "slender puppet frame with layered miniature garments",
+        "torso_girth_and_frailty": "compact, delicate upper torso",
+        "silhouette_rigidity_and_geometry": "organic rounded head and collar silhouette contrasted against the rectangular angled open suitcase on the left",
+        "textile_stiffness_and_hang": "chunky miniature ribbed knit fabric hugging the puppet neck, textured woolen coat on shoulders",
+        "limb_thickness_archetype": "slender articulated puppet arm with delicate silicone hand",
+        "neck_morphology": "medium slender neck encased in a snug ribbed turtleneck collar",
+        "neck_length_and_exposure": "fully covered by olive ribbed wool collar",
+        "hands_and_fingers": "sculpted silicone left hand with soft rounded fingers raised mid-frame in a soft waving/explaining gesture"
+      },
+      "height_ratios": "single subject in close-up filling majority of frame",
+      "silhouette": "dynamic asymmetrical composition: open rectangular suitcase lid on left, large puppet head with protruding ears and raised hand on right",
+      "pose": {
+        "stance_type": "close-up seated/standing expressive gesture",
+        "weight_distribution": "slight lean toward the left toward the open keepsake case",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 8,
+        "spine_curvature": "gentle forward tilt toward viewer and memory box",
+        "left_arm_pose": "left arm raised at chest height, hand held upright with fingers loosely bent in an expressive explaining gesture",
+        "right_arm_pose": "right arm relaxed downward out of lower frame edge",
+        "leg_and_feet_stance": "lower body out of frame",
+        "pose_energy": "gentle, communicative, emotionally resonant"
+      },
+      "seating_and_elevation": {
+        "surface_type": "seated beside a tabletop holding an open antique valise",
+        "leg_dangle_dynamics": "out of frame",
+        "torso_lean_and_posture": "intimate forward lean toward camera"
+      },
+      "hand_pose_interaction": "left hand held mid-air in front of chest with relaxed curled fingers, gesturing toward the memory trunk",
+      "prop_interaction": "interacting with an open weathered vintage suitcase filled with aged documents and monochrome photographs on the left",
+      "prop_asymmetry_load": "prop anchors the left third while character fills the center-right",
+      "weapon_morphology": "none"
+    },
+
+    "hair": {
+      "color": "silvery off-white with subtle cool grey shadow tones and translucent individual fiber highlights",
+      "style": "short disheveled brushed-back crown hair with prominent bushy eyebrows and a full white mustache and beard",
+      "ahoge_cowlick": "fine individual stray hair fibers standing delicately along the cranial crown",
+      "hair_texture_type": "fine bristly synthetic fiber / mohair strands hand-rooted into puppet scalp",
+      "hair_sculptural_form": "soft organic halo of individual fine white filaments standing upright and sweeping back over ears",
+      "volume_density": "sparse to moderate wispy volume revealing sculpted scalp contours beneath",
+      "direction": "upward and swept back from forehead, mustache combed downward over mouth, beard hugging jawline",
+      "dominant_zone": "crown, temples, eyebrows, and lower facial perimeter",
+      "updo_containment": "none",
+      "accessories": "thick circular black wireframe spectacles resting on the nose bridge"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "distinctive circular matte-black wire-rimmed spectacles with a curved bridge resting high on the nasal bone",
+      "outerwear_and_upper": "dark charcoal and navy flecked woolen tweed coat with a soft textured collar",
+      "inner_knitwear_layer": "earthy olive-khaki / moss-green ribbed knit wool turtleneck sweater fitting snugly around the neck",
+      "textile_material_and_gloss": "100% matte natural miniature textiles: coarse ribbed wool yarn, brushed tweed wool, and aged paper with zero synthetic gloss",
+      "collar_and_neckline_topology": "high folded ribbed turtleneck collar emerging cleanly from beneath the open lapel of the tweed coat",
+      "cuff_and_sleeve_structure": "tweed sleeve visible at bottom left where forearm extends upward",
+      "keepsake_box_prop": "open antique brown leather/wood valise on the left featuring worn brass corners, interior compartment containing yellowed handwritten letters and black-and-white family photographs",
+      "jewelry_and_accessories": "none"
+    }
+  },
+
+  "micro_features": [
+    "tactile circular black wire rims of the glasses casting subtle shadows across the upper eye sockets",
+    "fine individual hand-rooted white fiber strands forming a soft backlit fringe along the crown of the head",
+    "delicate sculpted forehead wrinkles and concentric crow's feet carved into the silicone skin around the eyes",
+    "realistic ribbed knit stitch pattern on the olive turtleneck sweater collar",
+    "yellowed vintage photographs and aged postage-style documents visible inside the open suitcase lid",
+    "soft pinkish subsurface light glow along the thin outer rims of the large stylized cupped ears",
+    "smooth rounded silicone finger joints on the raised left hand capturing soft directional light"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm intimate 3000K tungsten interior warmth with earthy olive, sepia parchment, and deep charcoal notes — prohibit cool digital cyan drift",
+    "color_grading_intent": "nostalgic European stop-motion cinematic grading with gentle highlight roll-off and rich tactile midtones",
+    "global_saturation_level": "controlled, earthy palette with saturated olive-green sweater and warm beige skin balanced against desaturated charcoal tweed and aged paper",
+    "environmental_split_toning": "warm golden-amber key highlights on face and glasses contrasting with deep warm umber background shadows",
+    "palette": [
+      { "name": "warm parchment beige", "hsl": "hsl(32, 40%, 80%)" },
+      { "name": "moss olive green", "hsl": "hsl(75, 30%, 35%)" },
+      { "name": "charcoal tweed", "hsl": "hsl(215, 12%, 28%)" },
+      { "name": "antique sepia leather", "hsl": "hsl(25, 55%, 38%)" },
+      { "name": "silvery white hair", "hsl": "hsl(40, 10%, 88%)" },
+      { "name": "matte black wire", "hsl": "hsl(0, 0%, 15%)" }
+    ],
+    "shadow_color": "deep warm umber-sepia",
+    "highlight_color": "soft warm ivory-amber",
+    "contrast_profile": "medium contrast with smooth tonal transitions and soft highlight rolloff",
+    "saturation_map": "highest on olive knit collar and ear flush, medium on clay skin, low on tweed and background",
+    "skin_warmth_vs_env_contrast": "intimate warmth in the puppet face gently separating from the darker, warmer domestic background",
+    "color_temperature": "warm 3000K indoor cinematic lighting"
+  },
+
+  "lighting": {
+    "drama_level": "intimate, tender, character-focused portrait lighting",
+    "key_light": {
+      "azimuth_deg": 35,
+      "elevation_deg": 30,
+      "quality": "soft diffused warm key light illuminating the right side of the forehead, nose bridge, glasses rim, and cheek",
+      "color_temp_K": 3000
+    },
+    "fill_light": {
+      "azimuth_deg": -45,
+      "elevation_deg": 15,
+      "ratio": "1:2.5 gentle fill maintaining clear definition in the left ear and inside the open suitcase",
+      "color_temp_K": 3100
+    },
+    "rim_light": {
+      "azimuth_deg": 150,
+      "elevation_deg": 40,
+      "surfaces": "delicate backlight catching the fine white fibers of the hair crown, mustache tips, and outer ear ridge"
+    },
+    "ambient_bounce": "warm ambient bounce from the wooden tabletop and suitcase interior filling the neck and chin crevices",
+    "special": "soft amber out-of-focus background glow suggesting a warm domestic lamp"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "asymmetrical macro portrait: left 30% occupied by the open antique suitcase with vintage documents, right 70% dominated by the expressive puppet head and gesturing hand",
+    "layer_stack_z_index": "Layer 0: soft warm out-of-focus room background -> Layer 1: open vintage suitcase on left -> Layer 2: puppet head, glasses, and torso -> Layer 3: raised gesturing left hand in immediate near-midground",
+    "framing_crop": "tight macro portrait framed from lower neck to just below cranial apex",
+    "subject_vertical_fill_pct": 85,
+    "headroom_and_ground_clearance": "5% minimal headroom above the hair fringe at top edge; chest cropped at bottom edge",
+    "frame_edge_clipping_and_bleed": "left ear and suitcase edge bleed off left frame; right ear extends near right frame boundary",
+    "ground_pedestal": "unseen tabletop supporting the antique suitcase",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": -10,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "pin-sharp focus on the circular spectacle frames, eyes, elongated nose bridge, and mustache",
+      "blurred_zone": "soft focus falloff on the raised foreground hand and creamy smooth blur across background wall",
+      "blur_strength": "f/2.0 shallow macro depth of field with rich cinematic falloff"
+    },
+    "rule_of_thirds": "right eye and spectacle frame positioned directly at the upper right intersection point; nose forms central vertical anchor",
+    "grid_and_accent_anchors": {
+      "construction_grid": "strong dynamic tension between the rectangular vertical line of the suitcase lid and the rounded organic curves of the puppet head",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "warm, intimate vintage living room or study",
+    "key_elements": "softly blurred wooden walls, warm vintage lamp glow, textured curtains",
+    "layer_order": "deep blurred room -> midground suitcase lid -> foreground puppet",
+    "background_density": "sparse and unobtrusive, serving solely as a warm atmospheric canvas",
+    "background_treatment": "creamy macro bokeh and soft optical lens defocus"
+  },
+
+  "typography_and_graphic_elements": {
+    "__note": "No overlay typography or logos. Physical in-world vintage documents in suitcase have weathered illegible miniature cursive script and monochrome portrait prints."
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, 3D digital render, Pixar style, Disney style, real human skin pores, photorealistic human skin, young person, modern spectacles, neon lights, cold blue tint, deformed hands, extra fingers, cartoon drawing, 2D illustration",
+
+  "reconstruction_priority": [
+    "tactile stop-motion physical textures (matte clay skin, real fiber hair, chunky wool knitwear) — AI frequently replaces with smooth CGI plastic",
+    "exact facial morphology (oversized circular black glasses, prominent elongated nose, wide cupped ears) — AI tends to normalize into standard human proportions",
+    "precise macro depth-of-field falloff (sharp eyes/glasses with gently blurred raised hand and background) — AI often renders uniform flat sharpness across all planes",
+    "warm 3000K nostalgic interior lighting and vintage suitcase contents — AI frequently generates generic modern clutter"
+  ]
+}

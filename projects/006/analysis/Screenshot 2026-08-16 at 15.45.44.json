@@ -1,0 +1,160 @@
+{
+  "___style_anchor": "Handcrafted stop-motion diorama landscape miniature — physical clump-foliage trees, static fiber grass terrain, miniature sheep flock, rustic twig fences, and tilt-shift macro lens photography.",
+
+  "visual_mood": {
+    "primary_feeling": "Pastoral rural serenity, sunny meadow warmth, and folk diorama nostalgia",
+    "viewer_impression": "A sprawling, master-crafted miniature countryside hillside bathed in golden afternoon sunlight with an expansive flock of tiny sheep grazing and journeying along farm paths",
+    "narrative_subtext": "A peaceful pastoral day in a handcrafted rolling countryside as a miniature shepherd herds his vast flock across sunny pastures"
+  },
+
+  "medium": {
+    "type": "Stop-motion diorama landscape miniature photography with tilt-shift macro depth of field",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Hand-crafted architectural model trees with dense foam clump foliage and twisted bark trunks, electrostatic fiber grass mats, hand-tied miniature wooden stick fences, and hundreds of sculpted miniature sheep",
+    "backdrop_medium": "Sculpted foam terrain contoured into rolling green hills, flock-covered distant tree canopies, and soft atmospheric outdoor studio lighting",
+    "render_stylization": "semi-stylized physical diorama craft",
+    "line_art_style": "no outlines — 100% volumetric physical materials and natural light falloff",
+    "craft_quality": "master artisan model railway / stop-motion diorama fabrication",
+    "physical_material": "foam clump foliage, twisted wire and plaster tree trunks, static grass flocking, dry twig fences, cast plaster rocks, weathered cloth banner",
+    "surface_specularity": "matte organic textures — fibrous grass, dry foliage, porous rock, chalky dry soil, zero specular shine",
+    "texture_distress_finish": "natural handcrafted terrain textures, fine foliage stippling, weathered timber, frayed cloth edges",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "procedural digital grass blades",
+      "CGI glossy foliage",
+      "raytraced photorealistic digital forest",
+      "smooth plastic terrain"
+    ]
+  },
+
+  "design_register": "pastoral stop-motion diorama landscape",
+
+  "subject": {
+    "type": "vast rolling countryside diorama landscape with a large flock of miniature sheep",
+    "count": 1,
+    "spatial_distribution": "expansive hillside spanning the entire frame with a prominent large oak-like miniature tree in center-midground, a fenced dirt path winding from lower-left to right-background, and sheep distributed across grassy slopes and pathways"
+  },
+
+  "environment_anatomy": {
+    "biome_setting": "temperate pastoral countryside with rolling green hills, lush deciduous trees, pasture enclosures, and dirt lanes",
+    "weather_and_precipitation_physics": "clear sunny afternoon with crisp directional sunlight and sharp leafy cast shadows",
+    "terrain_and_ground_surface": "multi-tiered undulating hills covered in dense lime-and-olive static grass flocking, embedded grey fieldstone boulders, and a packed earthen dirt trail",
+    "vegetation_density_and_species": "dense handcrafted deciduous canopy trees with textured clump-foliage leaves, thick twisted bark trunks, low rounded bushes, and tall grassy pastures",
+    "architectural_structures": "rustic post-and-rail twig stick fencing dividing the pastures and lining the path; an orange-terracotta weathered cloth banner hanging from the foreground right tree trunk",
+    "lighting_time_of_day": "warm late afternoon golden hour with directional sun from upper-left casting distinct shadows to the right",
+    "horizon_placement": "high horizon near top 10% of frame, showing layered green hills fading into soft out-of-focus background",
+    "scale_cues": "tiny miniature sheep (approx 5mm-10mm apparent size) and tiny miniature shepherd figure beside fences give massive perceived scale to the diorama"
+  },
+
+  "secondary_subject": {
+    "type": "flock of hundreds of tiny miniature sheep and a lone miniature shepherd",
+    "color_morph": "warm creamy-white bodies with dark charcoal heads",
+    "count_density": "over 100 visible miniature sheep dots forming dense trailing lines along the path and scattered across the open hillside",
+    "size_relative_to_primary": "microscopic scale relative to the massive miniature trees (approx 1:50 tree height)",
+    "spatial_distribution": "herded in a winding S-curve stream from the upper-right valley toward the foreground pathway, with smaller clusters grazing on the upper-left green knoll",
+    "facing_azimuth_deg": 135,
+    "pose_description": "grazing, walking in single file, and resting along the grassy paddock",
+    "priority_level": "critical scale and narrative focus"
+  },
+
+  "micro_features": [
+    "Fine texture of spongy green clump-foliage on the central canopy tree showing individual flock clusters",
+    "Twisted gnarled bark texture sculpted on the main tree trunk with visible wood grain lines",
+    "Miniature hand-tied wooden rail fence constructed from tiny natural twigs and branch posts",
+    "Scattered grey plaster rocks and boulders embedded in the static grass turf",
+    "A weathered vertical terracotta-orange cloth banner suspended from the tree branch on the far right",
+    "Tiny handcrafted shepherd figure standing near the fence post on the lower-left trail",
+    "Distinct tilt-shift optical blur creating a razor-thin focus band across the center meadow while blurring foreground and background"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm golden-olive 5200K pastoral sunlight wash with rich leafy green saturation",
+    "color_grading_intent": "warm nostalgic pastoral cinema palette with vibrant natural greens and warm earthy dirt tones",
+    "global_saturation_level": "naturally rich and vibrant (+10% on foliage and grass) with warm golden highlights",
+    "environmental_split_toning": "deep olive-forest green shadows vs warm golden-yellow sunlight highlights on grass tips and canopy crowns",
+    "palette": [
+      { "name": "Lush Meadow Olive Green", "hsl": "hsl(85, 45%, 42%)" },
+      { "name": "Sunlit Canopy Lime", "hsl": "hsl(75, 55%, 55%)" },
+      { "name": "Warm Golden Sunlight", "hsl": "hsl(48, 80%, 75%)" },
+      { "name": "Earth Dirt Path Ochre", "hsl": "hsl(35, 40%, 60%)" },
+      { "name": "Terracotta Cloth Banner", "hsl": "hsl(18, 65%, 50%)" }
+    ],
+    "shadow_color": "rich deep forest green and cool mossy umber",
+    "highlight_color": "warm golden-amber and bright pale sunlight",
+    "contrast_profile": "medium-high sunny contrast with crisp leafy shadow patterns on the turf",
+    "saturation_map": "highest saturation in sunny grass slopes and orange cloth banner; low saturation in dry grey stones and dirt path",
+    "skin_warmth_vs_env_contrast": "warm terracotta banner on right provides a strong chromatic accent against the sea of green foliage",
+    "color_temperature": "warm 5200K direct sunlight with 6000K soft sky ambient in shadows"
+  },
+
+  "lighting": {
+    "drama_level": "bright naturalistic sunny afternoon with rich directional contrast",
+    "key_light": {
+      "azimuth_deg": -60,
+      "elevation_deg": 45,
+      "quality": "hard direct directional sunlight producing crisp cast shadows",
+      "color_temp_K": 5000
+    },
+    "fill_light": {
+      "azimuth_deg": 120,
+      "elevation_deg": 30,
+      "ratio": "4:1 soft green-tinted sky fill"
+    },
+    "rim_light": {
+      "azimuth_deg": -135,
+      "elevation_deg": 60,
+      "surfaces": "sunlit top edges of tree canopies and sheep fleece highlights"
+    },
+    "ambient_bounce": "warm green ground bounce illuminating the underside of tree foliage and fence posts",
+    "special": "dappled light filtering through the tree branches onto the lower grass slopes"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "lower 25% foreground fence, rocks, and lower path; central 50% sunlit main hillside, central majestic tree, and sheep trail; upper 25% rolling background pastures, distant tree lines, and hill crest",
+    "layer_stack_z_index": "Layer 0: Out-of-focus background rolling hills -> Layer 1: Winding sheep stream in midground valley -> Layer 2: Central hill with large tree and sheep clusters -> Layer 3: Lower fence line and shepherd -> Layer 4: Foreground right overhanging tree branch and orange banner",
+    "framing_crop": "wide panoramic high-angle miniature landscape shot",
+    "subject_vertical_fill_pct": 100,
+    "headroom_and_ground_clearance": "full frame filled with diorama landscape terrain; minimal sky visible at top edge",
+    "frame_edge_clipping_and_bleed": "terrain extends beyond all four frame boundaries; foreground right tree frame crops off at top and right",
+    "ground_pedestal": "continuous sculpted multi-level hillside terrain",
+    "camera_azimuth_deg": 15,
+    "subject_facing_azimuth_deg": 0,
+    "camera_elevation_deg": 25,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "diagonal midground band covering the central tree, the grazing sheep on the knoll, and the middle sheep trail",
+      "blurred_zone": "extreme foreground lower edge and distant upper-right hills",
+      "blur_strength": "pronounced tilt-shift macro diorama blur (shallow optical depth of field)"
+    },
+    "rule_of_thirds": "central majestic tree placed near upper-center third intersection; winding sheep trail leads the eye through the lower and right thirds",
+    "grid_and_accent_anchors": {
+      "construction_grid": "none",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "none",
+      "right_top_panel": "none",
+      "right_bottom_panel": "none"
+    }
+  },
+
+  "background": {
+    "setting": "handcrafted pastoral European countryside miniature diorama",
+    "key_elements": "distant soft green undulating hills, clustered tree canopies, gentle farmland contours, out-of-focus valley",
+    "layer_order": "foreground trees and fence -> midground meadow knoll -> background hills",
+    "background_density": "moderately high natural vegetation and terrain density",
+    "background_treatment": "soft optical tilt-shift atmospheric bokeh"
+  },
+
+  "typography_and_graphic_elements": {},
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, procedural 3D CGI grass, glossy digital video game render, real life photography with human artifacts, modern asphalt roads, modern powerlines, skyscrapers, cars, neon saturation",
+
+  "reconstruction_priority": [
+    "Physical diorama clump-foliage and static grass turf — AI tends to hallucinate individual photorealistic CGI grass blades and generic procedural leaves",
+    "Tilt-shift miniature optical depth of field — AI often makes the entire image uniformly sharp or adds fake digital blur artifacts",
+    "Stream of hundreds of tiny handcrafted miniature sheep — AI often lumps small animals into blurry unrecognizable noise or draws full-sized realistic sheep",
+    "Warm sunny pastoral lighting and crisp dappled cast shadows — AI frequently washes out the directional afternoon sun into flat overcast ambient"
+  ]
+}

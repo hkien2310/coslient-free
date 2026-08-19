@@ -1,0 +1,263 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion puppet photography — two sculpted polymer clay characters with textured curly wool hair and felt coats, wrapped in a single shared chunky knit scarf while laughing nose-to-nose in an autumn diorama.",
+  "visual_mood": {
+    "primary_feeling": "Heartwarming romantic joy, intimate tenderness, and playful autumn nostalgia",
+    "viewer_impression": "An immediate surge of delight, warmth, and affection conveyed through exquisite tactile stop-motion craft",
+    "narrative_subtext": "Two devoted companion puppets sharing a moment of pure spontaneous laughter on a brisk autumn stroll, wrapped together in a single cozy scarf"
+  },
+  "medium": {
+    "type": "Handcrafted stop-motion puppet macro photography with multi-material miniature set construction",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Sculpted matte polymer clay faces, natural curly sheep-wool / felted fiber hair, miniature hand-knitted rib wool textiles, and tailored wool felt coats",
+    "backdrop_medium": "Physically constructed miniature diorama background with dried botanical textures and felted autumn foliage",
+    "render_stylization": "Stylized handcrafted artisan stop-motion puppets",
+    "line_art_style": "no outlines — physical 3D volumetric forms captured through shallow depth of field macro cinematography",
+    "craft_quality": "Master artisan handcrafted stop-motion production quality",
+    "physical_material": "Matte polymer clay, curly sheep wool yarn, hand-knitted chunky wool, tailored wool felt, and wireframe metal",
+    "surface_specularity": "Predominantly matte clay and fibrous yarn surfaces with subtle specular glints on the wire spectacle frames and teeth ridges",
+    "texture_distress_finish": "Organic tactile yarn fuzz, felted wool texture, and smooth hand-sculpted clay planes",
+    "weathering_intensity_0to10": 1,
+    "forbidden_surfaces": [
+      "glossy 3D CGI plastic skin",
+      "hyperrealistic digital skin pores",
+      "flat digital vector fills",
+      "smooth CGI hair shaders",
+      "synthetic neon glows"
+    ]
+  },
+  "design_register": "Heartwarming romantic stop-motion narrative / cozy autumn couple portrait",
+  "subject": {
+    "type": "Two stylized artisan puppet companions sharing an intimate joyful moment wrapped in a single shared scarf",
+    "count": 2,
+    "spatial_distribution": "Subject A on the left and Subject B on the right, leaning towards each other with heads touching at center frame",
+    "face": {
+      "archetype": "Stylized stop-motion couple / companions",
+      "skin_tone": "Warm peachy ivory with natural rosy undertones and soft terracotta shading on cheeks and nose",
+      "skin_undertone_sss": "Soft warm subsurface scattering typical of cured matte polymer clay",
+      "skin_material_feel": "Smooth matte sculpted polymer clay with delicate carved smile creases and laughter lines",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "Matte velvet finish catching soft diffused ambient light across cheekbones and noses",
+      "face_exposure_pct": 85,
+      "facial_occlusion_boundaries": "Lower chins and necks completely enveloped by the thick loops of the shared chunky knit scarf",
+      "face_paint": "",
+      "face_volume": "Expressive stylized caricatures with prominent sculpted teardrop noses, high smiling cheekbones, and wide laughing mouths",
+      "forehead_and_skin_planes": "Smooth clay foreheads partially framed by curly wool bangs, with subtle brow arches raised in laughter",
+      "face_shape_silhouette": "Two complementary oval-to-triangular profile silhouettes leaning inward toward the central contact point",
+      "cheek_contour_and_fullness": "Prominent raised smiling apple cheeks creased with pure joyous laughter",
+      "jaw_and_chin_geometry": "Underlying jaws occluded beneath the bulky loops of the shared knit scarf",
+      "head_cranial_shape": "Rounded cranial domes covered in dense, voluminous curly wool hair",
+      "head_pitch_deg": 5,
+      "interpupillary_spacing_and_eye_span": "Balanced stylized eye spacing with eyes closed in crescent-shaped laughter arcs",
+      "palpebral_fissure_and_canthal_tilt": "Narrow curved closed smiling eye slits with upturned joyful outer corners",
+      "eyes": "Closed in joyous laughter; narrow crescent-shaped clay indentations with dark lash lines",
+      "nose": "Two prominent sculpted clay noses with rounded tips touching gently in mid-air",
+      "ears": "Delicate stylized clay ear visible on the outer left side of Subject A",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "Wide laughing mouth openings with sculpted lips revealing neat rows of white clay teeth",
+      "mouth": "Wide open in spontaneous, hearty laughter showing interior oral cavity and upper teeth line",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "Stylized expressive heads, prominent touching noses, and voluminous curly hair above a cozy bundle of winter knitwear",
+      "proportions": {
+        "character_proportions_type": "Stylized stop-motion puppet caricature (~3.5-head proportion)",
+        "head_pct": "55% of visible frame height",
+        "torso_pct": "45% of visible frame height",
+        "legs_pct": "Occluded below lower frame boundary",
+        "shoulder_width": "Narrow 1.0x head width per character — delicate intimate puppet armatures",
+        "body_type": "Slender puppet figures bundled in cozy winter woolens",
+        "torso_girth_and_frailty": "Compact torsos bundled together beneath thick woolen outerwear and scarf",
+        "silhouette_rigidity_and_geometry": "Two leaning curved silhouettes converging into a unified central mass",
+        "textile_stiffness_and_hang": "Heavy textured chunky rib-knit scarf wrapping tightly and naturally around both necks",
+        "limb_thickness_archetype": "Slender puppet limbs hidden inside tailored wool felt coat sleeves",
+        "neck_morphology": "Necks fully occluded by the voluminous shared scarf",
+        "neck_length_and_exposure": "Zero neck skin visible; 100% covered by chunky scarf loops",
+        "hands_and_fingers": "Occluded below the frame or resting beneath the scarf"
+      },
+      "height_ratios": "Equal scale, leaning symmetrically inward towards the central axis",
+      "silhouette": "Two converging curved profiles touching at the center noses, anchored below by a broad textured scarf band",
+      "pose": {
+        "stance_type": "Standing close, leaning heads together in intimate affectionate contact",
+        "weight_distribution": "Both leaning inward toward each other with mutual physical support",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 10,
+        "spine_curvature": "Complementary inward C-curves leaning toward the center",
+        "left_arm_pose": "Subject A's shoulder angled forward in dark coat",
+        "right_arm_pose": "Subject B's shoulder angled forward in heather coat",
+        "leg_and_feet_stance": "Occluded below frame",
+        "pose_energy": "Warm, spontaneous, exuberant joy and tender emotional closeness"
+      },
+      "seating_and_elevation": {
+        "surface_type": "Standing together on miniature outdoor diorama set",
+        "leg_dangle_dynamics": "Not visible in frame",
+        "torso_lean_and_posture": "Both torsos leaning inward at approx 15° angles"
+      },
+      "hand_pose_interaction": "Implied holding hands or embracing beneath the low frame crop",
+      "prop_interaction": "Mutual interaction with the shared continuous knitted wool scarf",
+      "prop_asymmetry_load": "Perfect dual symmetry balanced by the central knot and crossed scarf ends",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "Subject A: Rich chestnut brown; Subject B: Warm sandy beige / taupe",
+      "style": "Voluminous, dense curly sheep-wool mop of ringlets and tight corkscrew curls framing faces and craniums",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "Natural curly wool fleece and needle-felted fiber curls with high tactile spring and surface fuzz",
+      "hair_sculptural_form": "Thick cloud-like halo of tight curls framing the head, temples, and forehead fringe",
+      "volume_density": "Extremely high, bouncy, volumetric curl density",
+      "direction": "Radiating naturally outward in multi-directional springy curls",
+      "dominant_zone": "Entire cranium, crown, temples, and nape",
+      "updo_containment": "None — natural loose curly mops",
+      "accessories": "Subject A wears thin wireframe rectangular aviator spectacles perched over nose bridge"
+    },
+    "outfit": {
+      "shared_scarf_construction_and_knit": "Chunky-gauge rib-knit wool scarf in warm caramel/chestnut brown, wrapped continuously around both necks and crossed over in front",
+      "subject_a_outerwear": "Dark charcoal-indigo wool felt tailored winter coat with structured shoulder seam",
+      "subject_b_outerwear": "Heathered taupe/grey woven wool felt coat with natural fiber fuzz",
+      "subject_a_eyewear": "Thin dark metal wireframe rectangular aviator-style spectacles with double nose bridge",
+      "textile_material_and_gloss": "100% matte non-specular natural wool textiles with visible knit loops, yarn ply, and fiber fuzz",
+      "diorama_environment_foliage": "Miniature autumn trees and bushes crafted from dried moss, textured sponge, and needle-felted ochre foliage"
+    }
+  },
+  "multi_subject_breakdown": {
+    "__use_when": "subject.count >= 2 only. One block per subject. Fields must be fully independent per character.",
+    "subject_A": {
+      "label": "Male puppet on left with glasses and dark coat",
+      "height_relative": "Equal height / leaning in from the left",
+      "build_and_proportions": "Slender puppet frame with stylized elongated head and prominent nose",
+      "limb_thickness_and_legs": "Slender armature in dark coat sleeve",
+      "facial_skin_vs_beard": "Clean smooth peachy-ivory clay skin with zero facial hair",
+      "headwear_structure": "Thin dark wireframe rectangular spectacles resting across nose bridge",
+      "head_facing_azimuth_deg": 75,
+      "body_facing_azimuth_deg": 45,
+      "gaze_target": "Partner's face (eyes closed in laughter)",
+      "face_summary": "Matte clay face with closed smiling crescent eyes, prominent teardrop nose, open laughing mouth showing white teeth",
+      "hair_summary": "Dense voluminous mop of chestnut-brown curly wool fleece ringlets",
+      "outfit_summary": "Dark indigo-charcoal wool felt coat wrapped in the shared caramel knit scarf",
+      "pose_summary": "Leaning head and torso to the right, touching noses with partner in joyous laughter"
+    },
+    "subject_B": {
+      "label": "Companion puppet on right in heather-grey coat",
+      "height_relative": "Equal height / leaning in from the right",
+      "build_and_proportions": "Slender puppet frame with stylized delicate facial profile",
+      "limb_thickness_and_legs": "Slender armature in heather-grey coat sleeve",
+      "facial_skin_vs_beard": "Smooth peachy-cream clay skin with subtle rosy cheek blush and delicate freckles",
+      "headwear_structure": "None — loose curly hair halo",
+      "head_facing_azimuth_deg": -75,
+      "body_facing_azimuth_deg": -45,
+      "gaze_target": "Partner's face (eyes closed in laughter)",
+      "face_summary": "Matte clay face with closed smiling crescent eyes, upturned sculpted nose, wide laughing mouth with teeth",
+      "hair_summary": "Voluminous halo of sandy-beige / taupe curly sheep-wool ringlets",
+      "outfit_summary": "Heather-taupe/grey wool felt coat wrapped in the shared caramel knit scarf",
+      "pose_summary": "Leaning head and torso to the left, touching noses with partner in joyous laughter"
+    }
+  },
+  "micro_features": [
+    "Tactile chunky rib-knit stitch loops in the shared caramel-brown wool scarf with fine fiber fuzz.",
+    "Dense springy corkscrew wool ringlets in both the chestnut and sandy-beige hair sculptures.",
+    "Thin dark wireframe spectacles resting securely on the sculpted nose bridge of the left puppet.",
+    "Individual sculpted white teeth ridges visible inside both open laughing clay mouths.",
+    "Delicate physical contact point where the tips of the two stylized clay noses touch.",
+    "Soft golden circular bokeh disks created by the out-of-focus autumn foliage in the background."
+  ],
+  "color_grading": {
+    "overall_color_cast": "Warm 4200K golden autumn afternoon light with rich amber highlights and cozy earthy shadows",
+    "color_grading_intent": "Warm, nostalgic, heartwarming European stop-motion palette with natural organic wool tones and soft golden warmth",
+    "global_saturation_level": "Warm and balanced with rich brown, caramel, and ochre textile tones",
+    "environmental_split_toning": "Warm golden amber key light on the faces and scarf against soft muted taupe-ochre background bokeh",
+    "palette": [
+      { "name": "Caramel Knit Scarf", "hsl": "hsl(28, 48%, 38%)" },
+      { "name": "Sandy Beige Hair", "hsl": "hsl(35, 25%, 68%)" },
+      { "name": "Chestnut Brown Hair", "hsl": "hsl(25, 35%, 35%)" },
+      { "name": "Warm Clay Peach", "hsl": "hsl(28, 45%, 75%)" },
+      { "name": "Charcoal Wool Coat", "hsl": "hsl(215, 10%, 25%)" },
+      { "name": "Heather Taupe Coat", "hsl": "hsl(30, 8%, 45%)" },
+      { "name": "Autumn Foliage Ochre", "hsl": "hsl(32, 40%, 48%)" }
+    ],
+    "shadow_color": "Deep warm chocolate umber in the scarf knit recesses and coat folds",
+    "highlight_color": "Soft diffused golden cream light skimming across curly hair fibers and clay cheekbones",
+    "contrast_profile": "Soft cinematic contrast with smooth highlight roll-off and lifted, warm, detailed shadows",
+    "saturation_map": "High saturation in the caramel scarf; natural warm skin tones; desaturated soft background",
+    "skin_warmth_vs_env_contrast": "Luminous peachy clay faces pop warmly against the muted autumn backdrop",
+    "color_temperature": "Warm 4200K natural autumn key light with 3400K ambient warmth"
+  },
+  "lighting": {
+    "drama_level": "Soft, romantic, emotionally radiant outdoor afternoon lighting",
+    "key_light": {
+      "azimuth_deg": 0,
+      "elevation_deg": 30,
+      "quality": "Soft diffused frontal-top key light illuminating both smiling faces, hair curls, and the front of the scarf evenly",
+      "color_temp_K": 4200
+    },
+    "fill_light": {
+      "azimuth_deg": 0,
+      "elevation_deg": -10,
+      "ratio": "1:2 soft ambient bounce from the scarf illuminating the undersides of the noses and chins"
+    },
+    "rim_light": {
+      "azimuth_deg": 180,
+      "elevation_deg": 40,
+      "surfaces": "Gentle golden back-light catching the outer curly hair fibers of both heads"
+    },
+    "ambient_bounce": "Warm reflection from the caramel wool scarf filling the shadow crevices between the two faces",
+    "special": "Subtle specular glint along the dark wireframe spectacle bridge and white teeth ridges"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "Symmetrical dual-subject composition centered on the intimate point of contact between the two laughing faces",
+    "layer_stack_z_index": "Layer 0: Deeply blurred miniature autumn diorama background -> Layer 1: Character coats and bodies -> Layer 2: Curly hair and smiling faces -> Layer 3: Spectacles and shared chunky knit scarf in front",
+    "framing_crop": "Tight close-up dual portrait cropped at mid-chest and top of hair",
+    "subject_vertical_fill_pct": 88,
+    "headroom_and_ground_clearance": "Minimal headroom (approx 5% canvas height above hair curls); lower frame clips across mid-chest",
+    "frame_edge_clipping_and_bleed": "Subject A's left shoulder and hair bleed past left edge; Subject B's right shoulder and hair bleed past right edge",
+    "ground_pedestal": "Implied ground surface below lower frame boundary",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 0,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "Tack-sharp on both polymer clay faces, glasses, curly hair strands, and front scarf knit loops",
+      "blurred_zone": "Rapid falloff into deep creamy bokeh across the background autumn foliage",
+      "blur_strength": "Heavy macro optical depth of field blur (approx f/2.0)"
+    },
+    "rule_of_thirds": "The touching noses and laughing mouths sit precisely on the vertical centerline; eyes align along the upper third horizontal line",
+    "grid_and_accent_anchors": {
+      "construction_grid": "Harmonious triangular compositional geometry created by the two converging heads resting on the broad horizontal scarf base",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "Miniature outdoor autumn park, forest path, or countryside garden",
+    "key_elements": "Dried miniature botanical trees, textured sponge bushes, and needle-felted golden-brown autumn foliage",
+    "layer_order": "Immediate soft falloff behind character shoulders into warm creamy autumn bokeh",
+    "background_density": "Moderate organic texture softened into abstract warm circular bokeh orbs",
+    "background_treatment": "Atmospheric optical lens blur with warm caramel and ochre bokeh disks"
+  },
+  "typography_and_graphic_elements": {
+    "primary_headline": {
+      "text_content": "",
+      "typeface_morphology": "",
+      "spatial_zone_and_span": "",
+      "color_field_continuity": "",
+      "z_index_occlusion": ""
+    },
+    "secondary_metadata_text": {
+      "text_content": "",
+      "spatial_anchoring": ""
+    },
+    "graphic_badges_and_decals": []
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, glossy plastic skin, smooth flat digital vector, photorealistic human skin, young person, bright neon lighting, sad expression, deformed faces, extra limbs, separated scarves, outer decorative border, ornate frame, picture frame",
+  "reconstruction_priority": [
+    "Intimate nose-to-nose contact and shared continuous knit scarf — AI tends to separate the characters onto different planes or render two separate disconnected scarves.",
+    "Curly textured sheep-wool hair ringlets — AI often flattens curly fiber textures into smooth digital hair.",
+    "Expressive stylized smiling facial expressions with crescent closed eyes and open laughing mouths — AI tends to draw open staring cartoon eyes or photorealistic teeth.",
+    "Tactile contrast between chunky rib-knit wool and smooth matte clay faces — AI often blurs material boundaries into uniform plastic."
+  ]
+}

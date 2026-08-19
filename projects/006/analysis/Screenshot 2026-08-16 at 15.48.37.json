@@ -1,0 +1,147 @@
+{
+  "___style_anchor": "Handcrafted stop-motion diorama streetscape photography — physical miniature architectural brick buildings, cobblestone roadway, and glowing warm practical miniature lanterns under cool twilight ambiance",
+
+  "visual_mood": {
+    "primary_feeling": "cozy nostalgic serenity and atmospheric storybook tranquility",
+    "viewer_impression": "an enchanting, tactile sense of peering into a living miniature European old town at twilight with warm inviting window glows",
+    "narrative_subtext": "a quiet dusk settling over a handcrafted cobblestone square as shop lights and streetlamps flicker on across the town"
+  },
+
+  "medium": {
+    "type": "physical handcrafted stop-motion miniature set photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "hand-sculpted clay brickwork, miniature plaster facades, balsa wood carpentry, and wired micro-bulb practical lighting",
+    "backdrop_medium": "multi-layered miniature architectural silhouette models with atmospheric set haze",
+    "render_stylization": "semi-stylized stop-motion realism",
+    "line_art_style": "no outlines — tactile physical miniature construction and authentic optical shadows",
+    "craft_quality": "master artisan stop-motion diorama set design",
+    "physical_material": "sculpted textured plaster, miniature ceramic roof tiles, weathered basswood, cast resin ironwork, and sculpted clay cobblestones",
+    "surface_specularity": "matte brick and plaster with subtle damp sheen on the rounded cobblestones and glowing glass lantern lenses",
+    "texture_distress_finish": "aged weathered patina, realistic brick efflorescence, chimney soot stains, and worn pavement mortar",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "procedural video-game textures",
+      "flat digital 2D illustration",
+      "clean sterile architectural CAD renders"
+    ]
+  },
+
+  "design_register": "cozy European folk architectural miniature and cinematic stop-motion animation",
+
+  "subject": {
+    "type": "miniature handcrafted European town square featuring an asymmetric brick townhouse, vintage street lamps, and cobblestone street",
+    "count": 1,
+    "spatial_distribution": "central townhouse occupies the center-midground, framed by side buildings on left and right, with cobblestone plaza in foreground"
+  },
+
+  "environment_anatomy": {
+    "biome_setting": "historic Old World European town square / alleyway at dusk",
+    "weather_and_precipitation_physics": "calm overcast dusk with subtle atmospheric evening mist and dry-to-damp cobblestones",
+    "terrain_and_ground_surface": "sculpted miniature cobblestone street paved with rounded irregular grey stone setts, weathered sand mortar joints, and gentle camber",
+    "vegetation_density_and_species": "sparse seasonal touches including small terracotta potted shrubs at the left doorway and autumn orange foliage clinging to the right wall",
+    "architectural_structures": "central multi-story beige-brick building with two wings: a left wing with pitched slate roof, dormer window, and arched multi-pane windows; a right wing featuring a decorative Dutch/Flemish curved gable with round attic oculus, large central arched grid window, and paneled timber double entrance door; flanked by a textured plaster oriel building on the left and a neoclassical stucco building on the right",
+    "lighting_time_of_day": "blue hour dusk / twilight with glowing 2700K incandescent practical window and lantern lights",
+    "horizon_placement": "low-to-middle horizon occluded by continuous urban townhouse facades; skyline at upper 20% mark",
+    "scale_cues": "miniature wrought iron streetlamp with hanging round analog clock, small vintage bicycle parked on the right, stacked wooden crates, miniature wall notices, and delicate rooftop wire antennas"
+  },
+
+  "micro_features": [
+    "delicate rooftop iron television aerials and wire antennas silhouetted against the dark evening sky",
+    "individually sculpted and tinted miniature bricks with realistic irregular mortar lines and weathered water stains",
+    "warm glowing incandescent light radiating through multi-pane arched window grids with visible interior curtain silhouettes",
+    "vintage ornate black wrought iron lamppost on the right suspending a round white clock face beside a glowing glass lantern",
+    "miniature double-panel wooden front door with tiny brass door knobs and a lit transom sconce above",
+    "textured irregular cobblestone ground catching warm yellow light reflections from the streetlamps and lower windows",
+    "miniature bicycle with thin spoked wheels propped beside the right building corner"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "atmospheric blue-hour split toning with cool 6200K twilight slate-blue sky balanced against cozy 2600K amber incandescent interior glows",
+    "color_grading_intent": "warm and moody stop-motion cinema palette emphasizing warmth, comfort, and tactile craftsmanship",
+    "global_saturation_level": "balanced natural saturation with rich golden-amber accents popping against muted slate and stone greys",
+    "environmental_split_toning": "cool slate-grey and deep indigo in exterior shadows vs rich luminous amber-gold radiating from every window and lantern",
+    "palette": [
+      { "name": "Incandescent Window Amber", "hsl": "hsl(38, 95%, 58%)" },
+      { "name": "Weathered Brick Buff", "hsl": "hsl(34, 38%, 56%)" },
+      { "name": "Twilight Slate Blue", "hsl": "hsl(215, 25%, 32%)" },
+      { "name": "Slate Tile Charcoal", "hsl": "hsl(220, 18%, 24%)" },
+      { "name": "Cobblestone Neutral Grey", "hsl": "hsl(40, 10%, 48%)" }
+    ],
+    "shadow_color": "deep charcoal navy and cool shadowed stone",
+    "highlight_color": "warm glowing golden-amber with soft diffusion bloom",
+    "contrast_profile": "medium-high local contrast with rich warm luminous highlights against deep twilight shadows",
+    "saturation_map": "vividly saturated around window panes and glowing lanterns; subdued earthy tones on stone facades and pavement",
+    "skin_warmth_vs_env_contrast": "warm interior light sources create strong complementary contrast against the cool blue exterior twilight",
+    "color_temperature": "dual-temperature split (6200K exterior dusk / 2600K interior warm glow)"
+  },
+
+  "lighting": {
+    "drama_level": "enchanting atmospheric dusk lighting with high practical contrast",
+    "key_light": {
+      "azimuth_deg": 0,
+      "elevation_deg": 70,
+      "quality": "soft diffused cool twilight ambient sky fill",
+      "color_temp_K": 6500
+    },
+    "fill_light": {
+      "azimuth_deg": 180,
+      "elevation_deg": 15,
+      "ratio": "1:4 warm ambient bounce spilling from ground-level lanterns and windows across the cobblestones"
+    },
+    "rim_light": {
+      "azimuth_deg": 0,
+      "elevation_deg": 45,
+      "surfaces": "subtle cool rim highlight along roof gables, chimney rims, and upper roof tiles"
+    },
+    "ambient_bounce": "warm amber glow reflecting softly off the foreground cobblestones and entryway facade",
+    "special": "internal practical LED/micro-bulb illumination behind translucent frosted window panes and inside glass streetlamp enclosures"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "lower 30% cobblestone street leading inward, central 55% detailed townhouse facades and street furniture, upper 15% roof gables, chimneys, and twilight skyline",
+    "layer_stack_z_index": "Layer 0: Dark twilight sky and distant silhouetted rooftops -> Layer 1: Central brick townhouse and side architectural wings -> Layer 2: Street lamps, clock post, bicycle, and entrance steps -> Layer 3: Foreground cobblestone pavement",
+    "framing_crop": "wide architectural street view with natural proscenium framing from flanking buildings",
+    "subject_vertical_fill_pct": 80,
+    "headroom_and_ground_clearance": "approximately 15% clearance above roof gables showing antennas and chimneys; 30% foreground street clearance",
+    "frame_edge_clipping_and_bleed": "left and right buildings crop naturally at frame borders to establish a continuous street corridor",
+    "ground_pedestal": "wide curved cobblestone square",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 180,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "deep focus across the central townhouse facade, entrance door, and flanking streetlamps",
+      "blurred_zone": "gentle optical falloff in extreme foreground corners and distant background rooftop silhouettes",
+      "blur_strength": "moderate depth of field characteristic of a medium format stop-motion camera rig"
+    },
+    "rule_of_thirds": "central entrance door and ornate gable aligned along the right vertical third line; left facade windows along left third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "strong vertical architectural rhythms created by window columns and streetlamp posts balanced by horizontal street paving",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "dense historic European town skyline receding into evening mist",
+    "key_elements": "slate roof ridges, chimney pots, television antennas, dormer windows, and distant warm window squares",
+    "layer_order": "foreground cobblestone -> midground townhouse square -> background urban rooftops and twilight sky",
+    "background_density": "richly layered architectural depth",
+    "background_treatment": "soft atmospheric haze softening distant building silhouettes"
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, modern asphalt road, cars, modern neon signs, futuristic elements, digital 3D video game render, unreal engine gloss, flat 2D cartoon, daytime sunlight, harsh shadows, bright fluorescent white light",
+
+  "reconstruction_priority": [
+    "physical stop-motion miniature craft texture — AI typically renders sterile digital 3D models or painterly illustrations instead of tangible plaster, brick, and wood",
+    "dual-color atmospheric lighting balance — AI often collapses the subtle twilight blue sky and warm glowing window incandescent light into an uncalibrated monochrome cast",
+    "precise miniature architectural details like wire rooftop antennas, window mullions, and individual cobblestone setts — AI frequently turns fine lines into blurry noise",
+    "ground-level cobblestone texture and perspective leading into the central entrance — AI often fails to render realistic miniature surface relief"
+  ]
+}

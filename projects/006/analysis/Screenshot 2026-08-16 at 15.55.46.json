@@ -1,0 +1,222 @@
+{
+  "___style_anchor": "Handcrafted stop-motion diorama miniature puppet photography — sculpted elderly clockmaker puppet with wild frizzy white wool hair and wire glasses leaning over complex antique brass clockwork gears and mechanisms, holding an orange spray can in a dark workshop setting.",
+  "visual_mood": {
+    "primary_feeling": "intense artisanal focus, mechanical ingenuity, and nostalgic horological fascination",
+    "viewer_impression": "an enthralling peek into a master horologist's miniature steampunk workshop filled with ticking brass gears and precision maintenance",
+    "narrative_subtext": "an elderly puppet horologist carefully spraying lubricant onto the delicate escapement gears of an antique clockwork machine"
+  },
+  "medium": {
+    "type": "handcrafted stop-motion diorama miniature puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical miniature puppet craft with sculpted clay head/hands, needle-felted frizzy wool hair, textured knit clothing, miniature leather apron, and real machined brass clockwork gears",
+    "backdrop_medium": "dense dark workshop diorama filled with layered out-of-focus brass cogs, wooden clock housings, and mechanical escapements",
+    "render_stylization": "semi-stylized puppet caricature surrounded by highly intricate realistic miniature machinery",
+    "line_art_style": "no outlines — tactile 3D physical materials with dramatic directional spotlighting",
+    "craft_quality": "master artisan stop-motion diorama production",
+    "physical_material": "matte polymer clay, needle-felted wool, knit yarn, leather straps, machined brass gears, tarnished steel, tin spray canister",
+    "surface_specularity": "matte clay skin and wool hair contrasting with polished metallic brass highlights, dull oiled patina on machinery, and satin finish on spray can",
+    "texture_distress_finish": "tarnished antique brass patina, aged metal pitting, workshop oil grime, fine wood grain distress, and tactile wool fiber fuzz",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "flat 2D vector art",
+      "airbrushed digital skin",
+      "clean sterile modern plastic"
+    ]
+  },
+  "design_register": "steampunk horology artisan miniature diorama aesthetic",
+  "subject": {
+    "type": "elderly miniature clockmaker puppet working on intricate brass clockwork mechanisms with a spray can",
+    "count": 1,
+    "spatial_distribution": "puppet clockmaker positioned in right-center (X=48% to X=95%, Y=15% to Y=95%), leaning forward over central brass machinery (X=20% to X=55%, Y=20% to Y=90%), antique clock tower assembly on far left (X=0% to X=25%, Y=0% to Y=90%)",
+    "face": {
+      "archetype": "elderly stylized male horologist puppet in 3/4 right profile",
+      "skin_tone": "warm peachy beige clay",
+      "skin_undertone_sss": "subtle warm peach SSS in clay",
+      "skin_material_feel": "matte polymer clay with deeply sculpted expressive forehead furrows and crow's feet",
+      "skin_grime_level_0to10": 2,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 65,
+      "facial_occlusion_boundaries": "small wire-rim spectacles resting on bridge of nose; thick bushy white beard covering chin and lower jaw",
+      "face_volume": "expressive elderly caricature with prominent drooping nose, large rounded ears, and intense downward gaze",
+      "forehead_and_skin_planes": "matte clay forehead carved with three distinct horizontal concentration creases and furrowed brow",
+      "face_shape_silhouette": "slender oval tapering into voluminous bushy white beard",
+      "cheek_contour_and_fullness": "slender clay cheek planes framed by white beard",
+      "jaw_and_chin_geometry": "concealed beneath thick textured white wool beard",
+      "head_cranial_shape": "compact cranium topped with an explosive halo of frizzy white wool",
+      "head_pitch_deg": 30,
+      "interpupillary_spacing_and_eye_span": "narrow focused spacing framed inside wire spectacles",
+      "palpebral_fissure_and_canthal_tilt": "wide-open focused almond eyes with slight downward gaze",
+      "eyes": "dark expressive pupils staring intently at the miniature gear assembly below",
+      "nose": "large hooked caricature nose with rounded drooping tip",
+      "ears": "large prominent stylized ear with defined outer helix protruding visibly on near right side",
+      "lip_geometry_and_philtrum": "subtle mouth hidden beneath drooping white mustache",
+      "mouth": "parted focused expression under mustache"
+    },
+    "body": {
+      "exaggeration_locus": "oversized expressive head with wild hair and long delicate clay hands leaning deeply over mechanical clockwork",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet caricature (approx 4.5-head ratio)",
+        "head_pct": "28%",
+        "torso_pct": "42%",
+        "legs_pct": "30% (tucked behind workbench)",
+        "shoulder_width": "moderate 1.3x head width",
+        "body_type": "hunched artisan frame leaning forward over work table",
+        "torso_girth_and_frailty": "slender puppet armature draped in dark knitwear with leather harness",
+        "silhouette_rigidity_and_geometry": "deeply bent forward diagonal posture (approx 45-degree torso angle)",
+        "textile_stiffness_and_hang": "heavy dark charcoal knitted sweater bunching at elbows and shoulders",
+        "limb_thickness_archetype": "slender wire armature with delicate sculpted clay forearms and fingers",
+        "neck_morphology": "craned forward into the workspace",
+        "neck_length_and_exposure": "concealed by high collar and thick beard",
+        "hands_and_fingers": "sculpted clay hands with visible tendons, articulated knuckles, and slender fingers gripping the spray can and manipulating tiny gears"
+      },
+      "silhouette": "deeply diagonal hunched craftsman reaching hands toward complex mechanical gear train",
+      "pose": {
+        "stance_type": "hunched precision workbench posture",
+        "weight_distribution": "leaning heavily forward onto left hand resting on the brass machinery platform",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 15,
+        "spine_curvature": "deep forward C-curve hunch of micro-mechanical repair",
+        "left_arm_pose": "left arm extended down toward table, delicate clay fingers adjusting a tiny brass escapement cog",
+        "right_arm_pose": "right elbow bent at waist level, hand holding an orange cylindrical aerosol spray can vertically with index finger poised above white nozzle",
+        "leg_and_feet_stance": "kneeling/seated behind workbench, lower legs out of frame",
+        "pose_energy": "high-tension micro-mechanical concentration"
+      },
+      "seating_and_elevation": {
+        "surface_type": "kneeling or perched behind horizontal wooden clockmaker workbench",
+        "leg_dangle_dynamics": "lower torso obscured behind workbench plane",
+        "torso_lean_and_posture": "extreme 45-degree forward lean over machinery"
+      },
+      "hand_pose_interaction": "right hand clasping orange aerosol can; left hand performing delicate micro-adjustment on brass gears",
+      "prop_interaction": "spray can nozzle aimed directly toward the central clockwork gear assembly"
+    },
+    "hair": {
+      "color": "silvery white and frosted grey wool fibers",
+      "style": "wild chaotic frizzy electrified halo standing straight up and outward from crown and temples",
+      "hair_texture_type": "crimped needle-felted wool fibers with wispy individual static-frizz strands",
+      "hair_sculptural_form": "explosive fluffy cloud of white fibers radiating in all directions",
+      "volume_density": "high volume wild untamed halo",
+      "direction": "upward and radial burst from cranium",
+      "dominant_zone": "crown, parietal ridges, and occiput"
+    },
+    "outfit": {
+      "headwear_or_eyewear": "small round wire-rim spectacles resting low on nose bridge",
+      "outerwear_and_upper": "dark charcoal-grey hand-knitted long-sleeved wool sweater with ribbed texture",
+      "harness_and_apron": "dark brown leather workshop apron with slender cross-body harness straps over shoulders",
+      "textile_material_and_gloss": "100% matte coarse knitted wool yarn and distressed matte brown leather",
+      "sleeve_drape_and_cuffs": "thick ribbed sleeves pushed up along forearms, bunching around elbows",
+      "workshop_tools": "miniature orange aerosol spray can with white plastic actuator cap, metallic crimped rim, and weathered label text"
+    }
+  },
+  "secondary_subject": {
+    "type": "intricate brass clockwork mechanism and antique grandfather clock housing",
+    "color_morph": "tarnished golden brass, weathered dark oak timber, and oxidized steel",
+    "count_density": "multi-gear mechanical escapement assembly",
+    "size_relative_to_primary": "large machine assembly spanning left two-thirds of workbench",
+    "spatial_distribution": "spanning left-foreground and midground (X=0% to X=60%, Y=0% to Y=90%)",
+    "facing_azimuth_deg": 45,
+    "pose_description": "precision clockwork mechanism with toothed spur gears, worm gears, escapement wheels, and cylindrical oil reservoir",
+    "priority_level": "major co-equal mechanical focal element"
+  },
+  "micro_features": [
+    "intricate toothed brass spur gear with four circular cutout spokes centered in front of the clockmaker",
+    "antique wooden grandfather clock housing on far left with circular cream clock dial and roman numerals at the top",
+    "small cylindrical brass pressure vessel / oil canister with dome lid and threaded knob in the left foreground",
+    "tiny white plastic spray actuator nozzle on top of the orange cylindrical maintenance can",
+    "delicate sculpted fingernails and skin creases on the clockmaker's left hand adjusting the gear tooth",
+    "complex layered clockwork cogs, brass rods, worm drives, and brackets blurred in the dark workshop background"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm moody 3800K workshop tungsten glow — prohibit sterile cold blue",
+    "color_grading_intent": "dramatic low-key steampunk artisan grade with rich golden brass highlights, dark charcoal wool, and vibrant orange spray can accent",
+    "global_saturation_level": "moody selective saturation (vivid orange canister and rich amber brass, muted dark workshop surrounds)",
+    "environmental_split_toning": "deep shadowy charcoal-black background vs warm amber-gold directional spotlighting on brass gears and puppet face",
+    "palette": [
+      {
+        "name": "Antique Brass Gold",
+        "hsl": "hsl(43, 65%, 48%)"
+      },
+      {
+        "name": "Aerosol Can Orange",
+        "hsl": "hsl(20, 85%, 52%)"
+      },
+      {
+        "name": "Charcoal Knit Grey",
+        "hsl": "hsl(210, 10%, 22%)"
+      },
+      {
+        "name": "Warm Clay Flesh",
+        "hsl": "hsl(25, 42%, 72%)"
+      },
+      {
+        "name": "Workshop Shadow Black",
+        "hsl": "hsl(0, 0%, 10%)"
+      },
+      {
+        "name": "Tarnished Bronze Patina",
+        "hsl": "hsl(32, 40%, 30%)"
+      }
+    ],
+    "shadow_color": "deep velvety charcoal and warm espresso brown in deep gear recesses",
+    "highlight_color": "sharp metallic gold specular glints on polished gear teeth and warm highlight on clay brow",
+    "contrast_profile": "high dramatic chiaroscuro contrast between focused spotlight and deep workshop shadows",
+    "saturation_map": "highest saturation on orange spray can; rich golden saturation on brass; desaturated dark sweater and background",
+    "skin_warmth_vs_env_contrast": "warm illuminated face and hands stand out boldly against deep dark background shadows",
+    "color_temperature": "3800K warm interior spotlight with dark ambient fall-off"
+  },
+  "lighting": {
+    "drama_level": "high dramatic chiaroscuro workshop spotlighting",
+    "key_light": {
+      "azimuth_deg": -35,
+      "elevation_deg": 50,
+      "quality": "focused directional spotlight",
+      "color_temp_K": 3600
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 20,
+      "ratio": "1:4 deep shadow contrast preserving dramatic mood"
+    },
+    "rim_light": {
+      "azimuth_deg": 140,
+      "elevation_deg": 60,
+      "surfaces": "bright rim catching the tips of wild white hair fibers, right ear curve, and gear crowns"
+    },
+    "ambient_bounce": "warm metallic amber bounce from brass gears into the clockmaker's chin and hands"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "left 30% framed by vertical antique clock column; center 35% filled with active brass gearwork; right 45% anchored by leaning clockmaker puppet",
+    "layer_stack_z_index": "Layer 0: Deep dark workshop background with blurred gears -> Layer 1: Clockmaker puppet, main clockwork gear train, and spray can -> Layer 2: Foreground brass canister and striped table edge",
+    "framing_crop": "medium close-up workbench action shot",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "10% headroom above wild hair tips to frame top; 10% foreground clearance below workbench ledge",
+    "frame_edge_clipping_and_bleed": "back of sweater bleeds off right edge; clock cabinet cropped on left border",
+    "ground_pedestal": "striped dark wooden workbench / brass assembly base",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": -45,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "clockmaker face, wire spectacles, hands, spray can, and central brass toothed gear",
+      "blurred_zone": "deep background clockwork, rear wall tools, and far left clock details",
+      "blur_strength": "f/2.8 shallow macro depth of field with creamy circular background bokeh on metal parts"
+    },
+    "rule_of_thirds": "clockmaker face aligns with upper-right intersection; primary brass gear aligns with lower-center-left third line; spray can bridges the two"
+  },
+  "background": {
+    "setting": "dense antique horologist workshop / clockmaker's laboratory",
+    "key_elements": "tall wooden clock tower, hanging gears, complex mechanical escapements, brass levers, dark timber beams",
+    "layer_order": "workbench -> primary machinery -> clockmaker -> deep background clockwork"
+    ,
+    "background_density": "very dense with mechanical clutter, rendered moody and soft by optical blur",
+    "background_treatment": "dark atmospheric bokeh with warm metallic specular glints"
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic skin, glossy CGI render, flat 2D digital drawing, vector art, cartoon, real human skin, modern plastic electronic tools, computer screens, digital clocks, bright flat sterile lighting, deformed fingers, extra limbs, oversaturated neon lighting",
+  "reconstruction_priority": [
+    "intricate physical stop-motion tactile textures (sculpted matte clay face, frizzy needle-felted wool hair, genuine knitted yarn, machined brass metal) — AI often converts stop-motion puppets into generic glossy CGI characters",
+    "complex authentic brass clockwork gear geometry and teeth with vintage metal patina — AI frequently creates melted, distorted, or impossible non-functioning gear shapes",
+    "precise two-handed workshop interaction (right hand holding spray can with finger on trigger, left hand delicately adjusting gear tooth) — AI tends to hallucinate fused fingers or inverted spray can angles",
+    "dramatic chiaroscuro low-key lighting with sharp metallic specular highlights on brass teeth against deep shadow — AI often flattens the lighting into uniform ambient illumination"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — close-up profile portrait of a stylized clay artisan puppet with wispy white fiber hair, pinning hand-woven textiles to a clothesline with miniature wooden pegs in a rustic stone courtyard with cinematic macro depth of field",
+  "visual_mood": {
+    "primary_feeling": "gentle everyday satisfaction, domestic warmth, and rustic artisanal simplicity",
+    "viewer_impression": "an immediate sense of tactile intimacy, meticulous stop-motion craft fabrication, and heartwarming domestic stillness",
+    "narrative_subtext": "an artisan puppet carefully hanging his freshly dyed and woven woolen cloths to dry in the fresh morning air of a stone-walled courtyard"
+  },
+  "medium": {
+    "type": "handcrafted stop-motion puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical artisan craft materials — sculpted matte polymer clay face and articulated hands, fine wispy mohair fiber hair, woven wool tweed sleeve, and textured raw linen/felt textiles",
+    "backdrop_medium": "physical miniature diorama set with real carved stone block masonry, miniature working wooden clothes pegs, natural twisted twine, and an illuminated miniature wall lantern",
+    "render_stylization": "semi-stylized physical stop-motion diorama with photorealistic macro lighting and authentic material physics",
+    "line_art_style": "no outlines — natural light falloff, tactile fiber textures, and authentic physical depth shading",
+    "craft_quality": "master artisan puppet fabrication and precise macro studio cinematography",
+    "physical_material": "matte polymer clay, synthetic mohair, coarse tweed wool, woven linen, natural twine, birch wood pegs, and miniature metal springs",
+    "surface_specularity": "100% matte clay skin, fibrous low-specular textiles, and subtle satin sheen on the glass pupil and miniature metal spring coil",
+    "texture_distress_finish": "hand-carved age creases on clay face, frayed raw edges on hanging linen cloth, coarse wool tweed weave, and weathered stone blocks",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "hyperrealistic digital skin pores",
+      "digital 3D polygonal wireframe",
+      "vector flat fills",
+      "synthetic neon glow"
+    ]
+  },
+  "design_register": "cottagecore stop-motion folk narrative, traditional artisanal tactile miniature",
+  "subject": {
+    "type": "close-up profile portrait of an elderly artisan puppet hanging laundry on a clothesline",
+    "count": 1,
+    "spatial_distribution": "character's head and torso occupy the right half of the canvas (X=50-95%, Y=15-100%); raised arms extend diagonally toward the hanging fabrics in the upper-left canvas (X=15-50%, Y=0-90%)",
+    "face": {
+      "archetype": "stylized elderly artisan puppet with expressive character planes in profile",
+      "skin_tone": "pale warm peach bisque clay",
+      "skin_undertone_sss": "subtle warm amber subsurface scattering through the thin edges of the sculpted ear and nose",
+      "skin_material_feel": "matte sculpted polymer clay with delicate handcrafted micro-texture and finely carved age wrinkles around eye, forehead, and cheek",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 100,
+      "facial_occlusion_boundaries": "unoccluded left 3/4 profile view",
+      "face_paint": "subtle warm terracotta blush brushed across the nose bridge and cheekbone",
+      "face_volume": "pronounced stylized aquiline profile with large bulbous nose, deep sculpted nasolabial folds, and prominent rounded ear",
+      "forehead_and_skin_planes": "three distinct curved horizontal age lines carved across the rounded matte clay forehead",
+      "face_shape_silhouette": "distinctive caricature profile featuring convex curved forehead, projecting aquiline nose, and delicate tucked chin",
+      "cheek_contour_and_fullness": "slender textured cheek with carved crow's feet wrinkles radiating from outer eye corner",
+      "jaw_and_chin_geometry": "soft rounded chin fringed by a sculpted white fiber beard along the jawline",
+      "head_cranial_shape": "balding cranial dome with prominent parietal curvature crowned by wispy white fiber hair",
+      "head_pitch_deg": -10,
+      "interpupillary_spacing_and_eye_span": "single near-side eye visible in strict profile perspective",
+      "palpebral_fissure_and_canthal_tilt": "sculpted open almond eye with delicate upper and lower clay eyelids and fine radiating crow's feet with neutral 0° tilt",
+      "eyes": "glossy dark glass bead eye with a bright white pinpoint catchlight reflection gazing upward toward the clothespin",
+      "nose": "large stylized bulbous aquiline nose curving outward and downward with a rounded tip and defined nostril fold",
+      "ears": "large stylized rounded C-shaped ear with deep sculpted concha cavity and prominent lobule projecting from the head",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "slender closed lips with subtle upward curl at corner beneath a soft white fiber mustache",
+      "mouth": "closed mouth forming a gentle, contented smile of satisfaction",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "stylized prominent nose, large ear, and expressive articulated clay hands relative to slender torso",
+      "proportions": {
+        "character_proportions_type": "slender stylized stop-motion puppet proportions (approx 5.5-head scale)",
+        "head_pct": "25%",
+        "torso_pct": "40%",
+        "legs_pct": "35%",
+        "shoulder_width": "narrow 1.1x head width — slender artisan torso",
+        "body_type": "slender elderly artisan build",
+        "torso_girth_and_frailty": "slender cylindrical torso leaning upward and forward",
+        "silhouette_rigidity_and_geometry": "dynamic diagonal reaching posture with arms extended upward toward the clothesline",
+        "textile_stiffness_and_hang": "heavy textured tweed sleeve draped in natural folds over internal wire armature",
+        "limb_thickness_archetype": "slender articulated puppet armature with ball-jointed wrist socket and sculpted clay hands",
+        "neck_morphology": "slender cylindrical clay neck with carved horizontal throat crease",
+        "neck_length_and_exposure": "visible cylindrical neck connecting head to tweed collar",
+        "hands_and_fingers": "sculpted matte clay four-finger hands with articulated knuckles, delicate fingernail indentations, and visible wrist joint cup"
+      },
+      "height_ratios": "character's head and hands occupy 80% of vertical frame height in close-up macro framing",
+      "silhouette": "dynamic diagonal upward reach from lower-right to upper-left clothesline",
+      "pose": {
+        "stance_type": "standing with arms raised upward hanging laundry",
+        "weight_distribution": "forward-leaning upward reach",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -15,
+        "spine_curvature": "gentle backward and upward curve following the eye line toward the clothesline",
+        "left_arm_pose": "left forearm raised upward with fingers actively pinching a miniature wooden clothespin",
+        "right_arm_pose": "right hand raised holding the upper edge of the cream-colored fabric onto the rope line",
+        "leg_and_feet_stance": "standing grounded below frame",
+        "pose_energy": "gentle, focused, and purposeful domestic action"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing in outdoor courtyard",
+        "leg_dangle_dynamics": "grounded standing posture",
+        "torso_lean_and_posture": "reaching upward toward the elevated clothesline"
+      },
+      "hand_pose_interaction": "left index finger and thumb pinching the wooden clothespin onto the twisted rope line; right hand securing the top hem of the cloth",
+      "prop_interaction": "active physical manipulation of miniature spring-loaded wooden clothespins and textile cloths",
+      "prop_asymmetry_load": "dual-hand overhead coordination",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "chalk white with subtle silver-grey shadow tones",
+      "style": "wispy uncontained mohair fiber tufts standing vertically from the crown and clustering around the nape, with short stubbly white beard and mustache",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "fine wispy flyaway synthetic mohair fibers",
+      "hair_sculptural_form": "airy cloud-like wisps standing upward from the balding clay crown with organic flyaway frizz",
+      "volume_density": "sparse wispy crown with denser volume around the occipital nape and jaw",
+      "direction": "radiating upward and backward from scalp",
+      "dominant_zone": "crown, nape, and jawline",
+      "updo_containment": "loose uncontained wisps",
+      "accessories": ""
+    },
+    "outfit": {
+      "headwear_or_eyewear": "none; exposed balding clay cranium with wispy white fiber hair",
+      "outerwear_and_upper": "heavy charcoal-brown textured woolen tweed long-sleeve garment with coarse diagonal weave and speckled yarn texture",
+      "textile_material_and_gloss": "100% matte woven tweed wool, raw frayed linen cloth, and dense felted wool fabric",
+      "collar_and_neckline_topology": "simple crewneck opening framing the slender clay neck",
+      "lower_garment_and_drape": "obscured below frame edge",
+      "waist_and_belt_hardware": "positioned below bottom frame border",
+      "footwear_and_soles": "out of frame",
+      "jewelry_and_accessories": "none"
+    }
+  },
+  "secondary_subject": {
+    "type": "clothesline with hung hand-dyed fabric cloths and miniature wooden clothespins",
+    "color_morph": "rich burnt-orange/terracotta felted cloth on left, raw off-white/cream textured linen cloth in center, natural birch wood clothespins, and twisted jute twine",
+    "count_density": "1 clothesline, 3+ wooden pegs, and 2 foreground hanging textiles with background cloths",
+    "size_relative_to_primary": "hanging cloths occupy the left 35% of the frame",
+    "spatial_distribution": "stretches horizontally across the upper third of the canvas (X=0-40%, Y=0-95%)",
+    "facing_azimuth_deg": 90,
+    "pose_description": "fabrics hang vertically with natural gravity folds and raw frayed edges",
+    "priority_level": "co-primary storytelling and textural anchor"
+  },
+  "micro_features": [
+    "Delicate raw frayed yarn fibers along the vertical torn edge of the cream-colored hanging cloth",
+    "Miniature coiled metal wire spring visible inside the slot of the miniature wooden clothespin",
+    "Visible articulated ball-and-socket wrist joint connecting the sculpted clay hand to the arm armature",
+    "Individual fine white mohair fiber strands catching golden rim-light above the balding clay scalp",
+    "Finely etched wrinkle lines radiating from the corner of the character's eye and across the forehead",
+    "Warm amber illumination glowing through the frosted panes of the miniature lantern in the background",
+    "Rough, porous stone block textures with weathered mortar lines in the background courtyard wall"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm-neutral 4900K soft courtyard daylight with rich amber and terracotta accents",
+    "color_grading_intent": "warm artisanal stop-motion cinematography with tactile earth tones, vibrant terracotta orange, and neutral slate stone greys",
+    "global_saturation_level": "balanced natural saturation (+0% boost) highlighting natural textile dyes and warm clay tones",
+    "environmental_split_toning": "warm terracotta-orange and golden-amber highlights vs neutral cool-grey stone wall and charcoal tweed sleeve",
+    "palette": [
+      { "name": "terracotta_burnt_orange", "hsl": "hsl(28, 85%, 45%)" },
+      { "name": "natural_linen_cream", "hsl": "hsl(42, 35%, 85%)" },
+      { "name": "charcoal_tweed_brown", "hsl": "hsl(24, 18%, 32%)" },
+      { "name": "peach_bisque_clay", "hsl": "hsl(25, 45%, 75%)" },
+      { "name": "courtyard_stone_grey", "hsl": "hsl(210, 10%, 55%)" }
+    ],
+    "shadow_color": "soft warm charcoal in fabric folds and background masonry crevices",
+    "highlight_color": "diffused natural daylight catching the character's forehead, nose bridge, and the cream fabric weave",
+    "contrast_profile": "medium contrast with clear edge separation and soft luminous shadow rolloff",
+    "saturation_map": "vibrant saturation on the terracotta orange cloth and background lantern; gentle natural saturation on the clay skin; neutral muted saturation on the stone background",
+    "skin_warmth_vs_env_contrast": "warm peach clay skin tone stands out distinctly against the neutral grey stone masonry",
+    "color_temperature": "4900K natural outdoor daylight"
+  },
+  "lighting": {
+    "drama_level": "warm, natural, and gentle macro character lighting",
+    "key_light": {
+      "azimuth_deg": 315,
+      "elevation_deg": 35,
+      "quality": "soft diffused daylight from the upper-left illuminating the character's profile, raised hands, and hanging fabrics",
+      "color_temp_K": 4900
+    },
+    "fill_light": {
+      "azimuth_deg": 135,
+      "elevation_deg": 20,
+      "ratio": "1:2.5 soft ambient fill preserving depth and texture in profile shadows",
+      "color_temp_K": 3600
+    },
+    "rim_light": {
+      "azimuth_deg": 30,
+      "elevation_deg": 40,
+      "surfaces": "top curve of wispy white hair, back of the clay neck, and upper contour of the tweed sleeve"
+    },
+    "ambient_bounce": "diffuse reflection from the light-colored hanging cloth and courtyard ground",
+    "special": "soft warm incandescent glow from the background wall-mounted lantern creating depth layering"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "two-part dynamic close-up layout: left side holds the hanging fabrics and clothesline; right side holds the character's profile and raised arms reaching across the frame",
+    "layer_stack_z_index": "Layer 0: Stone masonry wall, teal doorway, and glowing lantern -> Layer 1: Background clotheslines with hanging swatches -> Layer 2: Standing artisan puppet -> Layer 3: Foreground clothesline, clothespins, and hanging textiles",
+    "framing_crop": "close-up (chest-up) profile portrait with macro focal depth",
+    "subject_vertical_fill_pct": 88,
+    "headroom_and_ground_clearance": "8% upper headroom above wispy hair; bottom frame crops at character's mid-chest",
+    "frame_edge_clipping_and_bleed": "hanging orange cloth bleeds off left edge; character's back and shoulders bleed off bottom-right edge",
+    "ground_pedestal": "stone courtyard floor (below frame)",
+    "camera_azimuth_deg": 70,
+    "subject_facing_azimuth_deg": 290,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 65,
+    "depth_of_field": {
+      "sharp_zone": "artisan's face, hands, clothespins, and foreground hanging fabrics (X=10-85%, Y=10-90%)",
+      "blurred_zone": "background stone wall, lantern, and distant hung textiles",
+      "blur_strength": "f/2.4 shallow macro depth of field"
+    },
+    "rule_of_thirds": "character's eye aligned with the upper-right third grid intersection; clothespin and hand action positioned near upper-left third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "strong diagonal thrust from lower-right body up toward upper-left clothesline, creating dynamic visual flow",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "rustic stone cottage courtyard and alleyway",
+    "key_elements": "carved stone block walls, miniature wall-mounted glowing lantern, muted teal/blue wooden door, background clotheslines with hanging fabrics",
+    "layer_order": "foreground hanging textiles -> hands and pegs -> character profile -> background clothesline -> stone wall and lantern",
+    "background_density": "moderately detailed stone architecture rendered with soft cinematic blur",
+    "background_treatment": "shallow depth of field producing soft optical bokeh on stone textures and glowing lantern"
+  },
+  "typography_and_graphic_elements": {
+    "__note": "Image contains no typographic text, watermarks, or graphic decals."
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, modern plastic clothespins, hyperrealistic digital human skin, cartoon illustration, flat lighting, digital distortion",
+  "reconstruction_priority": [
+    "Puppet craniofacial profile craft — AI often distorts handcrafted clay planes into either smooth digital CGI or grotesque elderly caricatures",
+    "Miniature wooden clothespin mechanics — AI frequently fails to render functional miniature spring pegs, turning them into solid wooden wedges or floating artifacts",
+    "Tactile raw fabric weave and fray — AI typically smooths textile surfaces instead of capturing raw linen weave and frayed fiber edges",
+    "Macro optical depth of field — AI struggles to maintain sharp focus on both the profile face and the raised hands while smoothly blurring the background stone courtyard"
+  ]
+}

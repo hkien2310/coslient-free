@@ -1,0 +1,212 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion puppet photography — two-shot of elderly scholar puppets reading an open vintage book on a park bench, sculpted matte polymer clay faces, real wool tweed and corduroy garments, shallow depth of field with golden ambient bokeh",
+
+  "visual_mood": {
+    "primary_feeling": "tender companionship, intellectual wonder, and timeless warmth",
+    "viewer_impression": "an affectionate and cozy scene of two elderly handcrafted puppets sharing a quiet moment of discovery over an antique storybook",
+    "narrative_subtext": "two lifelong scholar companions sitting together on a park bench in late afternoon, completely engrossed in an illustrated manuscript"
+  },
+
+  "medium": {
+    "type": "handcrafted stop-motion puppet animation photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "two physically fabricated puppets with sculpted matte polymer clay heads and hands, real needle-felted wool hair, and tailored miniature wool and corduroy textiles",
+    "backdrop_medium": "physically constructed miniature park environment with soft out-of-focus golden bokeh orbs and wrought iron lamppost",
+    "render_stylization": "semi-stylized puppet caricature with ultra-tactile physical craftsmanship",
+    "line_art_style": "no outlines — 3D physical form, subtle surface relief, and soft directional cinematic lighting",
+    "craft_quality": "master artisan stop-motion miniature fabrication",
+    "physical_material": "sculpted polymer clay, needle-felted wool fleece, twisted wire armature, real woven tweed wool, fine-wale corduroy, aged leatherette book binding, cast iron miniature bench hardware",
+    "surface_specularity": "predominantly matte and satin finishes with gentle specular glints on glass spectacle frames and pupil beads",
+    "texture_distress_finish": "aged crinkled paper book pages, weathered wooden bench slats, rich wool weave and knit textures",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth digital CGI skin",
+      "plastic toy sheen",
+      "digital 2D vector art",
+      "procedural video game shaders",
+      "hyperrealistic photogrammetry human pores"
+    ]
+  },
+
+  "design_register": "heartwarming nostalgic European stop-motion character vignette with literary charm",
+
+  "subject": {
+    "type": "two elderly scholar puppets sitting side-by-side reading an open vintage book together",
+    "count": 2,
+    "spatial_distribution": "Subject A (female scholar puppet with curly white hair) on left midground; Subject B (male scholar puppet with beard and cap) on right midground holding the open book between them",
+
+    "body": {
+      "exaggeration_locus": "stylized expressive caricature heads with distinctive spectacles and prominent stylized noses",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet proportions (4.5-head ratio with expressive heads and delicate clay hands)",
+        "head_pct": "35%",
+        "torso_pct": "65%",
+        "legs_pct": "occluded below bench line",
+        "shoulder_width": "Subject A has compact narrow shoulders; Subject B has broader tweed-clad shoulders",
+        "body_type": "slender elderly puppet torsos seated comfortably side-by-side",
+        "torso_girth_and_frailty": "soft natural posture draped in layered autumn clothing",
+        "silhouette_rigidity_and_geometry": "cozy curved silhouettes leaning toward the shared central book",
+        "textile_stiffness_and_hang": "authentic heavy drape of tailored miniature tweed jacket and rust corduroy coat",
+        "limb_thickness_archetype": "slender puppet arms within tailored fabric sleeves",
+        "neck_morphology": "short puppet necks nestled into high collars and scarves",
+        "neck_length_and_exposure": "concealed beneath collars, scarves, and beards",
+        "hands_and_fingers": "sculpted polymer clay hands with delicate articulated fingers holding and resting upon the book"
+      },
+      "height_ratios": "Subject B is approximately 1.15x taller than Subject A when seated",
+      "silhouette": "interlocked dual-figure silhouette leaning inward toward the open book at center",
+      "pose": {
+        "stance_type": "seated side-by-side on outdoor wooden bench",
+        "weight_distribution": "both figures seated with weight resting on the bench, leaning slightly toward each other",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -8,
+        "spine_curvature": "gentle forward and inward curvature creating an intimate shared focal circle",
+        "left_arm_pose": "Subject A's left arm resting on lap; Subject B's left arm raised holding the outer left edge of the open book",
+        "right_arm_pose": "Subject A's right arm resting beside the book; Subject B's right hand supporting the lower right page of the book",
+        "leg_and_feet_stance": "occluded below the wooden bench seat",
+        "pose_energy": "absorbed, quiet, affectionate, shared contemplation"
+      },
+      "seating_and_elevation": {
+        "surface_type": "weathered wooden park bench with dark cast iron armrests",
+        "leg_dangle_dynamics": "lower legs extend downward behind lower frame edge",
+        "torso_lean_and_posture": "both figures inclined inward toward the open volume at center"
+      },
+      "hand_pose_interaction": "Subject B's hands cradle and support the open book covers; Subject A's hands rest gently beside the pages",
+      "prop_interaction": "direct dual engagement with the miniature open antique book"
+    }
+  },
+
+  "multi_subject_breakdown": {
+    "__use_when": "subject.count >= 2 only. One block per subject. Fields must be fully independent per character.",
+    "subject_A": {
+      "label": "Elderly female scholar puppet (left)",
+      "height_relative": "shorter 0.85x height relative to companion",
+      "build_and_proportions": "delicate compact build with fluffy rounded white hair and large round glasses",
+      "limb_thickness_and_legs": "slender arms in rust-orange corduroy sleeves",
+      "facial_skin_vs_beard": "smooth pale ivory clay skin with gentle sculpted smile lines, no facial hair",
+      "headwear_structure": "bare head framed by a voluminous crown of curly white wool fibers",
+      "head_facing_azimuth_deg": 25,
+      "body_facing_azimuth_deg": 15,
+      "gaze_target": "gazing down and right toward the open book with affectionate, smiling eyes",
+      "face_summary": "stylized whimsical face with large round black wire-rim glasses, prominent smooth peach spherical button nose, delicate smiling mouth with upturned corners, and sculpted brow lines",
+      "hair_summary": "fluffy cloud-like halo of curly white and silver needle-felted wool curls surrounding the head",
+      "outfit_summary": "warm terracotta/rust-orange fine-wale corduroy long-sleeved coat over a ribbed cream knit undershirt with turn-down collar",
+      "pose_summary": "seated on left side of bench, leaning right shoulder inward, resting right hand on knee and smiling warmly at the book"
+    },
+    "subject_B": {
+      "label": "Elderly male scholar puppet (right)",
+      "height_relative": "taller 1.15x height relative to companion",
+      "build_and_proportions": "slender scholarly build with broad tweed jacket shoulders and textured beard",
+      "limb_thickness_and_legs": "slender arms encased in heavy houndstooth tweed jacket sleeves",
+      "facial_skin_vs_beard": "furrowed ivory clay brow contrasted with thick silver-grey wire and wool curled beard and mustache",
+      "headwear_structure": "miniature brown-and-black houndstooth tweed wool flat cap / beret with small top stalk",
+      "head_facing_azimuth_deg": -20,
+      "body_facing_azimuth_deg": -10,
+      "gaze_target": "looking down intently through his glasses at the pages of the open book",
+      "face_summary": "scholarly caricature with dark rectangular glasses, elongated bulbous peach teardrop nose, sculpted forehead furrows, and full textured silver-grey beard",
+      "hair_summary": "silver-grey curly sideburns and dense crimped beard fibers extending around jaw and throat",
+      "outfit_summary": "brown textured herringbone/tweed wool blazer jacket with notched lapels, dark slate-blue waistcoat/vest, white collared shirt, and matching tweed flat cap",
+      "pose_summary": "seated on right side of bench, holding open antique leather-bound book in both hands with concentrated study posture"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "open miniature antique leather-bound book",
+    "color_morph": "aged sepia parchment pages with embossed brown leatherette cover",
+    "count_density": "single open book held at center-midground",
+    "size_relative_to_primary": "spans approximately 30% horizontal width between the two characters",
+    "spatial_distribution": "positioned at lower-center between Subject A and Subject B",
+    "facing_azimuth_deg": 0,
+    "pose_description": "held open with pages fanned out toward the characters' gaze",
+    "priority_level": "central narrative focal object"
+  },
+
+  "micro_features": [
+    "intricate round black wire-rim glasses resting on Subject A's large smooth button nose",
+    "distinct brown-and-black houndstooth wool pattern and tiny top stem on Subject B's miniature flat cap",
+    "stray silver-white fiber filaments floating around Subject A's curly hair and Subject B's crimped beard",
+    "aged, crinkled miniature paper pages with faint printed illustration plates and sepia text in the open book",
+    "rich fine-wale ribbed texture on Subject A's terracotta corduroy coat sleeve",
+    "large circular amber bokeh light orbs in the blurred background suggesting distant park lanterns"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm nostalgic 3600K late afternoon golden grade with rich autumnal earthy tones",
+    "color_grading_intent": "warm, tender, painterly European stop-motion palette with creamy bokeh highlights and deep warm shadows",
+    "global_saturation_level": "moderately rich natural saturation highlighting rust terracotta, brown tweed, and warm ivory clay",
+    "environmental_split_toning": "soft neutral-grey misty park background vs rich warm terracotta, brown, and golden-amber foreground figures",
+    "palette": [
+      { "name": "Terracotta Rust Corduroy", "hsl": "hsl(20, 68%, 45%)" },
+      { "name": "Tweed Hazel Brown", "hsl": "hsl(28, 30%, 36%)" },
+      { "name": "Slate Navy Vest", "hsl": "hsl(215, 32%, 35%)" },
+      { "name": "Warm Peach Clay", "hsl": "hsl(25, 55%, 75%)" },
+      { "name": "Wool Fleece White", "hsl": "hsl(40, 20%, 90%)" },
+      { "name": "Golden Amber Bokeh", "hsl": "hsl(38, 90%, 55%)" }
+    ],
+    "shadow_color": "warm deep brown and charcoal umber",
+    "highlight_color": "warm soft cream and golden amber",
+    "contrast_profile": "medium cinematic contrast with soft, creamy highlight roll-off and rich tactile shadows",
+    "saturation_map": "highest saturation in terracotta coat and amber background bokeh; balanced neutral tones in tweed and wool hair",
+    "skin_warmth_vs_env_contrast": "warm, gentle figures standing out beautifully against a soft misty park backdrop",
+    "color_temperature": "warm 3600K late afternoon golden light"
+  },
+
+  "lighting": {
+    "drama_level": "gentle, cozy, and warmly illuminating",
+    "key_light": {
+      "azimuth_deg": -35,
+      "elevation_deg": 30,
+      "quality": "soft diffused golden key light illuminating the faces, spectacles, and open pages of the book",
+      "color_temp_K": 3600
+    },
+    "fill_light": {
+      "azimuth_deg": 40,
+      "elevation_deg": 20,
+      "ratio": "1:2 soft ambient fill opening up the shadowed sides of coats and under-chin contours"
+    },
+    "rim_light": {
+      "azimuth_deg": 160,
+      "elevation_deg": 25,
+      "surfaces": "delicate golden rim light catching the curly white hair of Subject A and the tweed cap and shoulder of Subject B"
+    },
+    "ambient_bounce": "warm reflection bouncing from the pale open pages of the book upward into the puppet faces",
+    "special": "prominent out-of-focus circular golden-amber bokeh discs in background"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "two-shot character composition; Subject A fills left-center, Subject B fills right-center, shared book at lower-center, ornate lamppost on far left",
+    "layer_stack_z_index": "Layer 0: Misty park background with amber bokeh -> Layer 1: Left wrought iron lamppost -> Layer 2: Wooden park bench and two puppet scholars -> Layer 3: Open antique book in sharp focus",
+    "framing_crop": "medium two-shot framed from mid-torso to tops of heads and hats",
+    "subject_vertical_fill_pct": 78,
+    "headroom_and_ground_clearance": "comfortable headroom above crowns; bottom framed below bench seat and book",
+    "frame_edge_clipping_and_bleed": "lamppost on left edge; Subject B's right shoulder extends near right frame margin",
+    "ground_pedestal": "weathered wooden park bench",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 10,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 70,
+    "depth_of_field": {
+      "sharp_zone": "both puppet faces, glasses, hair, hands, open book pages, and front bench slats",
+      "blurred_zone": "distant park background trees, lights, and distant lamppost top",
+      "blur_strength": "creamy shallow f/2.5 depth of field with pronounced circular bokeh"
+    },
+    "rule_of_thirds": "Subject A's face aligns along the left-third vertical line; Subject B's face aligns along the right-third; open book sits at the lower-center intersection"
+  },
+
+  "background": {
+    "setting": "miniature autumn park or public square at dusk",
+    "key_elements": "ornate black iron streetlamp post on left, soft misty trees, and glowing golden-amber circular bokeh lights",
+    "layer_order": "distant blurred park lights -> midground lamppost -> foreground bench and reading figures",
+    "background_density": "moderately sparse with atmospheric depth and creamy bokeh",
+    "background_treatment": "soft painterly defocus with glowing amber light orbs"
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI, 3D digital render, smooth plastic doll skin, real live human photography, digital illustration, anime, cartoon, glossy toy finish, missing fingers, malformed hands, angry expression, modern electronic devices, smartphone, flat lighting",
+
+  "reconstruction_priority": [
+    "tactile stop-motion craft materials — AI often homogenizes clay, wool fibers, corduroy, and tweed into generic digital CGI plastic",
+    "independent dual-character facial features — AI frequently blends the two puppet faces or mirrors their spectacles and hair",
+    "hand-held miniature open book interaction — AI often creates warped garbled hands or a fused book block",
+    "warm creamy depth of field with golden background bokeh — AI tends to oversharpen background elements and destroy the atmospheric stop-motion lighting"
+  ]
+}

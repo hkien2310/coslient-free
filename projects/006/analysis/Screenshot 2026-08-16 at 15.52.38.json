@@ -1,0 +1,201 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet miniature cinematography — tactile sculpted polymer clay face with needle-felted textured wool hair and woven textile garments in a weathered interior with natural window lighting.",
+  "visual_mood": {
+    "primary_feeling": "quiet domestic nostalgia, intimate melancholic serenity, and artisanal warmth",
+    "viewer_impression": "an immediate sense of tender folk storytelling and physical miniature craftsmanship with tangible, tactile materials",
+    "narrative_subtext": "a solitary musician lost in quiet melodic reflection beside a weathered window on a peaceful overcast afternoon"
+  },
+  "medium": {
+    "type": "stop-motion puppet animation still photography with handcrafted physical miniatures",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted ball-jointed armature puppet with sculpted matte clay head, painted features, and tailored micro-textiles",
+    "backdrop_medium": "physical miniature wooden window set with textured peeling paint and soft optical depth-of-field blur",
+    "render_stylization": "stylized handcrafted miniature puppet realism",
+    "line_art_style": "no outlines — physical 3D lighting, surface textures, and real optical depth-of-field",
+    "craft_quality": "master artisan stop-motion studio puppet fabrication",
+    "physical_material": "matte polymer clay, needle-felted wool yarn, woven wool knitwear, patterned cotton, and miniature carved balsa wood",
+    "surface_specularity": "matte fibrous wool and satin-matte clay with soft, non-reflective light absorption across all surfaces",
+    "texture_distress_finish": "aged vintage distressing with fine textile weave fuzz, weathered wood grain, and peeling window paint",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "glossy plastic CGI skin",
+      "smooth digital vector gradients",
+      "subsurface scattering CGI wax",
+      "photorealistic human skin pores"
+    ]
+  },
+  "design_register": "artisanal European stop-motion puppet drama and cozy melancholic indie folk aesthetic",
+  "subject": {
+    "type": "stylized handcrafted female puppet musician seated in an armchair playing a miniature acoustic guitar",
+    "count": 1,
+    "spatial_distribution": "seated in left-to-center midground, occupying approximately 65% of the frame width, oriented toward the right window",
+    "face": {
+      "archetype": "stylized artisanal female puppet caricature with delicate European folk facial structure",
+      "skin_tone": "pale warm bisque ivory with subtle soft shadow gradations",
+      "skin_undertone_sss": "neutral bone-bisque with subtle warm taupe shading, non-translucent matte clay finish",
+      "skin_material_feel": "smooth unglazed polymer clay with velvety matte texture and clean sculptural planes",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 95,
+      "facial_occlusion_boundaries": "partially framed by textured curly wool bangs along temples and forehead edge",
+      "face_paint": "subtle painted dark brown arched eyebrows and delicate dark eyeliner contours",
+      "face_volume": "slender stylized facial profile with clean cheek planes, gentle jaw taper, and prominent artistic bone structure",
+      "forehead_and_skin_planes": "smooth unwrinkled matte clay forehead with gentle sloping plane toward the brow",
+      "face_shape_silhouette": "delicate tapered oval with slender defined jawline and narrow chin",
+      "cheek_contour_and_fullness": "flat slender cheek planes with subtle soft concavity toward the jaw, devoid of fleshy cheek puffiness",
+      "jaw_and_chin_geometry": "softly rounded compact chin with delicate upward sweeping jawline",
+      "head_cranial_shape": "compact rounded cranium supporting an oversized voluminous wool bun",
+      "head_pitch_deg": 8,
+      "interpupillary_spacing_and_eye_span": "stylized proportioned eye spacing with large expressive ocular sockets",
+      "palpebral_fissure_and_canthal_tilt": "hooded stylized almond-shaped eyes with subtle downward gaze and delicate upper eyelid ledge",
+      "eyes": "stylized painted dark brown-black irises gazing downward at guitar strings with subtle painted white highlight flecks",
+      "nose": "slender straight bridge tapering into a distinct, delicate sculpted nose tip",
+      "ears": "partially occluded beneath side hair tufts, stylized miniature clay earlobes",
+      "lip_geometry_and_philtrum": "compact subtle closed lips with delicate warm rose-tinted lower lip forming a gentle unparted serene expression",
+      "mouth": "closed neutral-to-gentle smile with crisp sculpted contour and soft painted tint"
+    },
+    "body": {
+      "exaggeration_locus": "slender elongated neck supporting a stylized sculpted head atop a compact torso with articulated wire-armature hands",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet proportions (approx 5.5-head ratio with delicate limbs)",
+        "head_pct": "22%",
+        "torso_pct": "38%",
+        "legs_pct": "40%",
+        "shoulder_width": "narrow 1.1x head width, delicate sloping shoulders",
+        "body_type": "slender miniature armature puppet build with petite upper frame",
+        "torso_girth_and_frailty": "slender delicate torso draped in chunky knit wool garments",
+        "silhouette_rigidity_and_geometry": "relaxed seated S-curve leaning slightly forward over the guitar body",
+        "textile_stiffness_and_hang": "heavy textured wool knit draped naturally over shoulders and lap with realistic miniature gravity creases",
+        "limb_thickness_archetype": "slender articulated wire-armature arms ending in delicate multi-jointed fingers",
+        "neck_morphology": "graceful elongated cylindrical neck connecting smoothly to collarbone area",
+        "neck_length_and_exposure": "visibly elongated neck rising 1.2x chin height above the dark collar",
+        "hands_and_fingers": "slender sculpted miniature puppet hands with individual posable fingers fretting on neck and plucking strings"
+      },
+      "height_ratios": "single seated subject occupying 75% of vertical frame height within armchair",
+      "silhouette": "compact triangular seated silhouette tapering from wide voluminous skirt base up to high hair bun",
+      "pose": {
+        "stance_type": "seated acoustic performance pose in high-backed armchair",
+        "weight_distribution": "100% seated weight settled into upholstered chair cushion",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 8,
+        "spine_curvature": "gentle forward slouch with head tilted downward in musical concentration",
+        "left_arm_pose": "left arm extended along guitar neck with fingers fretting strings on upper fretboard",
+        "right_arm_pose": "right elbow bent resting atop lower bout of guitar with fingers positioned over soundhole",
+        "leg_and_feet_stance": "legs seated together draped fully under voluminous patterned skirt",
+        "pose_energy": "tranquil, focused, intimate musical flow"
+      },
+      "seating_and_elevation": {
+        "surface_type": "antique French rococo style wooden armchair with tufted padded fabric seat and backrest",
+        "leg_dangle_dynamics": "lower limbs fully grounded and concealed beneath draped heavy patterned skirt",
+        "torso_lean_and_posture": "gentle forward angle leaning into the acoustic instrument"
+      },
+      "hand_pose_interaction": "left hand delicately clamping wooden fretboard; right hand arched over rosette plucking strings",
+      "prop_interaction": "holding a detailed miniature acoustic parlor guitar resting against upper chest and lap"
+    },
+    "hair": {
+      "color": "heathered charcoal grey and ash-brown blend with subtle salt-and-pepper fiber highlights",
+      "style": "high textured Gibson girl / messy artist top bun with curly face-framing tendrils",
+      "hair_texture_type": "dense fibrous crimped needle-felted wool yarn with tangible frizz and surface texture",
+      "hair_sculptural_form": "voluminous spherical top bun anchored at crown with sculpted wavy side masses framing the jaw",
+      "volume_density": "thick textured fibrous mass with realistic micro-fiber stray hairs",
+      "direction": "gathered upward from temples and nape into a high coiled crown bun",
+      "dominant_zone": "top crown and parietal ridges",
+      "updo_containment": "textured loosely gathered bun bound at the crown with visible curly loops"
+    },
+    "outfit": {
+      "headwear_or_eyewear": "none, natural gathered hair bun",
+      "outerwear_and_upper": "rust-terracotta chunky wool cardigan with open notch collar, textured knit ridges, and rolled cuffs",
+      "textile_material_and_gloss": "matte coarse-spun wool yarn with prominent textural bouclé weave and zero sheen",
+      "inner_layer_topology": "dark charcoal-navy long-sleeve blouse with micro white floral/polka-dot print visible at neck and wrists",
+      "waist_and_belt_hardware": "concealed beneath lower cardigan hem and overlapping skirt folds",
+      "lower_garment_and_drape": "heavy dark navy-grey patterned maxi skirt with dense white micro-fleck print cascading in deep folds across knees",
+      "footwear_and_soles": "occluded beneath floor-length skirt drape",
+      "jewelry_and_accessories": "miniature handcrafted acoustic guitar featuring natural blonde spruce soundboard, dark wood sides, slotted headstock, and taut strings"
+    },
+    "micro_features": [
+      "individual micro-fiber frizz loops protruding from the needle-felted wool hair bun",
+      "fine painted brown eyebrow brushstrokes on matte porcelain bisque forehead",
+      "delicate separate string lines running along the balsa-wood guitar fretboard to headstock tuning pegs",
+      "intricate tufted button depressions and textured beige brocade upholstery on the armchair backrest",
+      "weathered wood grain and chipped off-white enamel paint on the background vertical window frame",
+      "carved miniature dark wooden sparrow/bird figurine perched on the window ledge behind the guitar",
+      "fine micro-print dotted star pattern across the heavy draped navy skirt textile"
+    ],
+    "color_grading": {
+      "overall_color_cast": "warm nostalgic 4800K overcast daylight with earthy terracotta and muted slate accents",
+      "color_grading_intent": "warm analog stop-motion cinematography with rich tactile earth tones and soft atmospheric desaturation",
+      "global_saturation_level": "moderately muted natural palette with selective warmth on terracotta knitwear and wooden instrument",
+      "environmental_split_toning": "cool diffuse pale-green and grey exterior window light contrasting with warm terracotta, beige, and natural spruce wood tones in foreground",
+      "palette": [
+        { "name": "Terracotta Rust", "hsl": "hsl(18, 55%, 42%)" },
+        { "name": "Bisque Clay", "hsl": "hsl(32, 38%, 78%)" },
+        { "name": "Slate Navy", "hsl": "hsl(215, 22%, 35%)" },
+        { "name": "Antique Cream", "hsl": "hsl(40, 25%, 82%)" },
+        { "name": "Aged Walnut Wood", "hsl": "hsl(28, 32%, 30%)" },
+        { "name": "Diffuse Meadow Green", "hsl": "hsl(85, 18%, 52%)" }
+      ],
+      "shadow_color": "deep charcoal brown with soft neutral falloff",
+      "highlight_color": "soft diffuse warm ivory on window frame, guitar top, and face planes",
+      "contrast_profile": "medium-soft cinematic contrast with smooth rolloff in highlights and open shadows",
+      "saturation_map": "highest on rust cardigan and guitar body, muted on background window and skin tones",
+      "skin_warmth_vs_env_contrast": "pale neutral bisque face softly separated from warm brown hair and cool grey-green window backdrop",
+      "color_temperature": "4800K"
+    },
+    "lighting": {
+      "drama_level": "soft, intimate, realistic natural window light",
+      "key_light": {
+        "azimuth_deg": 60,
+        "elevation_deg": 15,
+        "quality": "broad diffused soft daylight entering through large window pane on right",
+        "color_temp_K": 5200
+      },
+      "fill_light": {
+        "azimuth_deg": -45,
+        "elevation_deg": 10,
+        "ratio": "1:3 soft ambient bounce from interior room wall"
+      },
+      "rim_light": {
+        "azimuth_deg": 80,
+        "elevation_deg": 20,
+        "surfaces": "delicate edge highlight on hair bun crown, right sleeve, and upper guitar rim"
+      },
+      "ambient_bounce": "warm subtle brown bounce from wooden chair frame and room floor",
+      "special": "soft diffused bokeh highlights visible through window glass"
+    },
+    "composition": {
+      "aspect_ratio": "16:9 widescreen landscape",
+      "canvas_zoning": "subject placed on left-and-center thirds facing toward right open window zone",
+      "layer_stack_z_index": "Layer 0: Out-of-focus garden foliage bokeh -> Layer 1: Weathered window frame and carved bird figurine on sill -> Layer 2: Ornate wooden armchair and drapery -> Layer 3: Seated puppet musician holding acoustic guitar",
+      "framing_crop": "medium shot capturing puppet from upper thighs to top of hair bun seated in chair",
+      "subject_vertical_fill_pct": 82,
+      "headroom_and_ground_clearance": "minimal 8% headroom above high hair bun; lower frame cut off below chair seat cushion level",
+      "frame_edge_clipping_and_bleed": "left armchair crest extends near left frame boundary; window frame lines extend off top and right edges",
+      "ground_pedestal": "antique wooden armchair legs resting on unseen interior floor",
+      "camera_azimuth_deg": 20,
+      "subject_facing_azimuth_deg": 70,
+      "camera_elevation_deg": 0,
+      "focal_length_mm": 50,
+      "depth_of_field": {
+        "sharp_zone": "puppet face, hands, guitar, rust cardigan, and armchair upholstery",
+        "blurred_zone": "background window mullions, bird figurine on sill, and distant outdoor greenery",
+        "blur_strength": "f/2.8 shallow macro depth of field with creamy circular bokeh"
+      },
+      "rule_of_thirds": "puppet head aligns near upper-left intersection; guitar body aligns on lower-center intersection; window mullion aligns with right-third line"
+    },
+    "background": {
+      "setting": "vintage rustic interior room beside an aged multi-pane wooden window",
+      "key_elements": "peeling painted vertical window frame, carved wooden bird figurine on window sill, soft-focus green foliage outside, draped curtain on far left",
+      "layer_order": "draped curtain (far left foreground) -> armchair (midground) -> window sill with bird (deep midground) -> foliage bokeh (background)",
+      "background_density": "sparse, uncluttered, atmospheric negative space",
+      "background_treatment": "optical macro blur creating soft tonal gradations of cream, weathered wood, and muted moss green"
+    },
+    "typography_and_graphic_elements": {},
+    "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, smooth digital shading, vector illustration, glossy shiny skin, cartoon anime eyes, baby fat cheeks, smiling mouth, open mouth, missing fingers, extra guitar strings, modern metal furniture, high saturation neon colors",
+    "reconstruction_priority": [
+      "tactile physical puppet medium — AI often reverts to generic smooth 3D CGI or human live-action",
+      "needle-felted wool yarn hair texture and frizz — AI frequently renders smooth digital hair strands",
+      "articulated miniature guitar and correct hand-fret interaction — AI often scrambles strings and finger placement",
+      "vintage ornate armchair tufting and weathering — AI may simplify into generic modern furniture"
+    ]
+  }
+}

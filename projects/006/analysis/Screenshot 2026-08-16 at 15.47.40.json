@@ -1,0 +1,241 @@
+{
+  "___style_anchor": "Stop-motion puppet animation macro cinematography — physical silicone and polymer clay sculpture with real wool textiles and weathered wood diorama set",
+
+  "visual_mood": {
+    "primary_feeling": "warm whimsical nostalgia and tender artisanal devotion",
+    "viewer_impression": "an immediate tactile sense of handmade storytelling, gentle curiosity, and quiet warmth",
+    "narrative_subtext": "an elderly miniature craftsman fondly inspecting a freshly knitted pom-pom beanie in his rustic wooden workshop"
+  },
+
+  "medium": {
+    "type": "physical handcrafted stop-motion puppet miniature photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "hand-sculpted tactile polymer clay and silicone puppet armature with authentic wool knit garments",
+    "backdrop_medium": "physical miniature timber shelf set with authentic wood grain and fiber textures",
+    "render_stylization": "semi-stylized stop-motion caricature",
+    "line_art_style": "no outlines — pure 3D volumetric physical shading and optical depth",
+    "craft_quality": "master artisan studio stop-motion fabrication",
+    "physical_material": "sculpted silicone, mohair fiber, chunky knitted wool yarn, and aged rough-sawn pine timber",
+    "surface_specularity": "matte porous skin with subtle satin specular highlights on the nose bridge and moist eye gloss",
+    "texture_distress_finish": "aged weathered wood grain and tactile yarn fuzz",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital vector gradients",
+      "airbrushed digital skin",
+      "flat 2D cel shading"
+    ]
+  },
+
+  "design_register": "cozy artisan folk diorama and cinematic stop-motion animation",
+
+  "subject": {
+    "type": "elderly caricatured miniature craftsman puppet with prominent bulbous nose and large ears",
+    "count": 1,
+    "spatial_distribution": "positioned on the right third of the frame, leaning forward across the wooden shelf towards the center",
+
+    "face": {
+      "archetype": "whimsical stylized elderly folk artisan puppet",
+      "skin_tone": "warm peachy terracotta with gentle rosy mottling",
+      "skin_undertone_sss": "soft warm fleshy subsurface scattering within sculpted silicone cheeks and ear cartilage",
+      "skin_material_feel": "tactile micro-porous sculpted clay skin with etched wrinkles, crow's feet, and skin folds",
+      "skin_grime_level_0to10": 2,
+      "skin_moisture_finish": "matte velvet with subtle satin sheen on nasal tip and glossy wet eyes",
+      "face_exposure_pct": 85,
+      "facial_occlusion_boundaries": "upper forehead covered by the visor brim of the tweed flat cap",
+      "face_paint": "",
+      "face_volume": "stylized caricature with deeply furrowed facial planes, prominent forward-protruding smooth nose, and high cheek folds",
+      "forehead_and_skin_planes": "deep horizontal sculpted age creases etched into the clay brow above wide expressive eyes",
+      "face_shape_silhouette": "caricatured elongated profile dominated by an oversized curved nose and protruding chin",
+      "cheek_contour_and_fullness": "weathered slender cheeks carved with prominent smile lines and deep nasolabial creases",
+      "jaw_and_chin_geometry": "rounded forward-jutting chin with a defined sub-labial cleft",
+      "head_cranial_shape": "rounded head capped with an oversized textured newsboy cap",
+      "head_pitch_deg": 10,
+      "interpupillary_spacing_and_eye_span": "wide-set expressive eye placement enhancing the whimsical puppet aesthetic",
+      "palpebral_fissure_and_canthal_tilt": "wide round almond aperture with heavy defined upper lid fold and neutral canthal tilt",
+      "eyes": "glossy dark pupil with rich dark iris, realistic off-white sclera, and a focused gentle gaze directed at the orange beanie",
+      "nose": "greatly exaggerated elongated bulbous caricatured nose with a smooth rounded tip and downward curving profile",
+      "ears": "large elongated stylized elfin ear protruding horizontally backwards with detailed sculpted cartilage folds and translucent rim lighting",
+      "lip_geometry_and_philtrum": "wide gentle crescent smile, subtly parted lips revealing a shadowed oral cavity, framed by deep laugh creases",
+      "mouth": "expressive upturned mouth corners in a quiet contented smile",
+      "markings": "fine etched crow's feet, laugh creases, and subtle tonal stippling around the cheeks and nose",
+      "markings_geometry": "radiating micro-creases around eye orbits and vertical furrows along the cheek planes",
+      "organic_face_overgrowth": ""
+    },
+
+    "body": {
+      "exaggeration_locus": "oversized caricatured head, elongated bulbous nose, and large expressive knobby-jointed hands",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion caricature (approximately 4-head proportion)",
+        "head_pct": "35%",
+        "torso_pct": "40%",
+        "legs_pct": "25%",
+        "shoulder_width": "narrow 1.1x head width — compact puppet torso",
+        "body_type": "slender elderly puppet frame hunched comfortably forward",
+        "torso_girth_and_frailty": "slender torso draped in a thick chunky knitted wool pullover",
+        "silhouette_rigidity_and_geometry": "curved organic hunch with soft knit textile contour",
+        "textile_stiffness_and_hang": "thick heavy knit wool holding rounded sculptural folds along the sleeve and back",
+        "limb_thickness_archetype": "slender articulated armature covered by chunky yarn sleeves ending in elongated wrinkled hands",
+        "neck_morphology": "short neck nestled within the thick ribbed collar of the sweater",
+        "neck_length_and_exposure": "concealed beneath sweater collar and low jawline",
+        "hands_and_fingers": "hyper-detailed aged clay hand with elongated spindly fingers, pronounced knuckle joints, and translucent fingernails"
+      },
+      "height_ratios": "single subject filling 80% of frame height on right side",
+      "silhouette": "hunched silhouette leaning from right to left with outstretched right arm",
+      "pose": {
+        "stance_type": "forward-leaning reaching posture behind a workbench shelf",
+        "weight_distribution": "weight pitched forward onto the right arm reach",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -15,
+        "spine_curvature": "gentle forward thoracic C-curve leaning toward the miniature beanies",
+        "left_arm_pose": "tucked low and back behind the wooden shelf",
+        "right_arm_pose": "extended forward horizontally from shoulder with bent elbow, wrist flexed, fingertips gently caressing the orange beanie",
+        "leg_and_feet_stance": "lower body occluded below shelf line",
+        "pose_energy": "gentle, focused, affectionate craftsmanship"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing or leaning behind a waist-high rustic wooden workbench shelf",
+        "leg_dangle_dynamics": "not visible — occluded by lower shelf structure",
+        "torso_lean_and_posture": "hunched forward at approximately 35 degrees towards the display shelf"
+      },
+      "hand_pose_interaction": "right hand with spread fingers delicately resting index and middle fingertips on the crown of the orange knit beanie",
+      "prop_interaction": "delicate tactile contact with the orange pom-pom beanie resting on a turned wood pedestal",
+      "prop_asymmetry_load": "unilateral reach with the right arm",
+      "weapon_morphology": ""
+    },
+
+    "hair": {
+      "color": "silvery frost-white with translucent sheen",
+      "style": "wispy tufted sideburns and nape fringe flaring softly from beneath the flat cap",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "fine natural mohair fiber with authentic soft frizz and stray filaments",
+      "hair_sculptural_form": "soft cloud-like tufts curling behind the large ear and along the temple",
+      "volume_density": "moderate airy volume framing the side of the head",
+      "direction": "flowing backward and downward around the ear",
+      "dominant_zone": "temple and retroauricular region",
+      "updo_containment": "uncontained natural fringe",
+      "accessories": ""
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "charcoal-brown Donegal flecked tweed newsboy flat cap with structured rounded crown and curved front peak brim",
+      "outerwear_and_upper": "chunky marled navy-charcoal and heathered grey wool knit crewneck sweater with thick ribbed stitch texture",
+      "textile_material_and_gloss": "dense coarse woolen yarn with visible multi-ply plies, matte fibrous texture, and fuzzy yarn halos",
+      "collar_and_neckline_topology": "thick round ribbed knit collar resting snug against the base of the neck",
+      "sleeve_structure_and_cuffs": "wide ribbed knitted cuffs bunching naturally around the puppet's wrist joint",
+      "waist_and_belt_hardware": "occluded below wooden shelf plank",
+      "lower_garment_and_drape": "occluded below shelf level",
+      "footwear_and_soles": "occluded below shelf level",
+      "jewelry_and_accessories": "none"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "row of miniature hand-knitted beanies displayed on turned wooden pedestal blocks along the rustic shelf",
+    "color_morph": "burnt orange/rust with top pom-pom (midground focus), unbleached oatmeal cream (shallow midground), cool heather grey (foreground left bokeh)",
+    "count_density": "3 distinct beanies prominently visible on the shelf tier, with additional blurred forms receding in background",
+    "size_relative_to_primary": "each beanie is approximately 0.4x the size of the craftsman's head",
+    "spatial_distribution": "arranged linearly from foreground left (grey) to mid-left (cream) to center-right (orange, beneath character's hand)",
+    "facing_azimuth_deg": 180,
+    "pose_description": "resting upright on flat turned light-wood circular display blocks",
+    "priority_level": "focal interaction anchor"
+  },
+
+  "micro_features": [
+    "delicate individual yarn loops and ribbing stitches visible on the burnt-orange beanie and its fluffy yarn pom-pom",
+    "fine carved skin pores and translucent micro-wrinkles etched across the aged puppet hand and elongated fingers",
+    "fuzzy mohair fibers catching soft rim lighting around the temple and ear edge",
+    "rough longitudinal wood grain, cracks, and weathered saw marks across the solid timber shelf edge",
+    "flecked multi-color nep yarns woven into the tweed fabric of the newsboy flat cap",
+    "shallow depth-of-field circle bokeh rendering the foreground grey beanie into a soft woolly orb"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm cozy 3800K interior workshop illumination with warm amber wood tones and soft neutral shadows",
+    "color_grading_intent": "warm analog stop-motion cinematography with rich tactile earth tones and soft shadow rolloff",
+    "global_saturation_level": "natural balanced saturation (+5% on warm rust orange, muted slate on sweater, rich wood ochres)",
+    "environmental_split_toning": "warm golden-amber highlights on skin and orange beanie vs muted cool-slate tones in the wool sweater shadows",
+    "palette": [
+      { "name": "Burnt Orange Yarn", "hsl": "hsl(28, 82%, 48%)" },
+      { "name": "Warm Terracotta Skin", "hsl": "hsl(24, 52%, 68%)" },
+      { "name": "Heather Charcoal Wool", "hsl": "hsl(215, 20%, 30%)" },
+      { "name": "Oatmeal Cream Knit", "hsl": "hsl(38, 35%, 78%)" },
+      { "name": "Weathered Timber Ochre", "hsl": "hsl(32, 38%, 42%)" }
+    ],
+    "shadow_color": "deep warm umber and muted charcoal",
+    "highlight_color": "soft warm cream with gentle specular highlights",
+    "contrast_profile": "medium-soft cinematic contrast with rich midtone clarity",
+    "saturation_map": "highest on center orange beanie and peachy puppet skin; muted on background timber and grey knitwear",
+    "skin_warmth_vs_env_contrast": "warm peach silicone skin stands out clearly against the deep muted charcoal sweater and rustic brown background",
+    "color_temperature": "warm 3800K"
+  },
+
+  "lighting": {
+    "drama_level": "soft, intimate, atmospheric workshop lighting",
+    "key_light": {
+      "azimuth_deg": 315,
+      "elevation_deg": 40,
+      "quality": "soft diffused directional light source illuminating the face, hand, and top of the orange beanie",
+      "color_temp_K": 4000
+    },
+    "fill_light": {
+      "azimuth_deg": 90,
+      "elevation_deg": 10,
+      "ratio": "1:3 soft ambient bounce from surrounding wooden walls"
+    },
+    "rim_light": {
+      "azimuth_deg": 135,
+      "elevation_deg": 30,
+      "surfaces": "delicate edge glow along the white mohair wisps and the contour of the large ear"
+    },
+    "ambient_bounce": "warm diffuse bounce off the rustic timber surfaces",
+    "special": "soft macro catchlight reflected in the glossy pupil of the puppet eye"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "horizontal division: upper 25% upper shelf and dark workshop background, middle 50% puppet character and beanies, lower 25% main shelf plank",
+    "layer_stack_z_index": "Layer 0: Dark rustic workshop interior and upper shelf -> Layer 1: Puppet torso, head, and orange beanie -> Layer 2: Cream beanie on midground shelf -> Layer 3: Out-of-focus grey beanie in foreground left",
+    "framing_crop": "cinematic macro medium close-up focused on character and center prop",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "minimal headroom above cap crown (approx 8%), lower body cropped below shelf edge",
+    "frame_edge_clipping_and_bleed": "puppet right shoulder bleeds off right frame edge; foreground grey beanie cropped at bottom-left corner",
+    "ground_pedestal": "solid weathered wood shelf supporting display pedestals",
+    "camera_azimuth_deg": 15,
+    "subject_facing_azimuth_deg": 285,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "plane spanning the puppet's eye, bulbous nose, reaching right hand, and the orange knit beanie",
+      "blurred_zone": "extreme foreground left (grey beanie) and deep background workshop shelving",
+      "blur_strength": "f/2.0 equivalent shallow macro blur with creamy smooth bokeh"
+    },
+    "rule_of_thirds": "puppet eye and nose aligned with upper-right intersection; orange beanie aligned near center vertical axis",
+    "grid_and_accent_anchors": {
+      "construction_grid": "horizontal leading line along the shelf edge guiding the viewer's eye from foreground beanies to the character's hand and face",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "rustic handcraft workshop interior with multi-tiered raw wood shelving",
+    "key_elements": "vertical weathered wood paneling, upper wooden shelf planks with blurred textile items, soft shadow pools",
+    "layer_order": "front shelf -> puppet artisan -> rear vertical timber wall and upper storage shelf",
+    "background_density": "cozy, moderately filled artisan interior",
+    "background_treatment": "soft optical defocus retaining wood grain texture and warm shadow depth"
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI, 3D digital render, smooth plastic skin, airbrushed digital art, vector illustration, cel shading, shiny plastic doll, human child face, realistic biological human skin, deformed hands, extra fingers, missing fingers, modern bright fluorescent lighting, harsh digital flash",
+
+  "reconstruction_priority": [
+    "tactile stop-motion material authenticity — AI typically defaults to smooth plastic CGI or generic digital painting instead of porous clay and fuzzy yarn",
+    "caricatured facial anatomy with oversized smooth bulbous nose and large translucent ear — AI tends to normalize into standard human proportions or distorted monster features",
+    "intricate chunky wool knit stitches and physical yarn ribbing on beanies and sweater — AI often renders flat painted patterns instead of true 3D woven yarn geometry",
+    "shallow macro depth-of-field with precise focal plane on the reaching hand and orange beanie — AI frequently renders flat overall focus across all planes"
+  ]
+}

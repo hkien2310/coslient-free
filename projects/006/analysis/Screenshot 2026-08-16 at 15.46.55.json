@@ -1,0 +1,231 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — stylized clay artisan puppet in a tweed flat cap operating a miniature wooden weaving loom with fine thread warp, accompanied by a small needle-felted sheep in a cozy workshop setting",
+  "visual_mood": {
+    "primary_feeling": "focused artisanal quietude, traditional craftsmanship, and nostalgic workshop warmth",
+    "viewer_impression": "an immediate sense of rhythmic tactile labor, meticulous miniature woodworking and textile fabrication, and serene folk storytelling",
+    "narrative_subtext": "an elderly weaver meticulously crafting textiles on his wooden handloom while his tiny woolly companion watches the threads take form"
+  },
+  "medium": {
+    "type": "handcrafted stop-motion puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical artisan materials — sculpted matte polymer clay face and hands, woven wool tweed flat cap, knitted vest, fine linen warp threads, and carved natural timber",
+    "backdrop_medium": "miniature diorama workshop set with muted slate-blue painted walls, raw wool roving bundles, and miniature wooden cabinetry",
+    "render_stylization": "semi-stylized physical stop-motion diorama with photorealistic natural workshop illumination",
+    "line_art_style": "no outlines — natural light falloff, authentic material textures, and soft physical ambient occlusion",
+    "craft_quality": "master artisan miniature fabrication and precise macro studio cinematography",
+    "physical_material": "matte polymer clay, synthetic mohair, woven tweed wool, chunky knit yarn, natural pine wood, linen threads, and needle-felted raw wool",
+    "surface_specularity": "predominantly matte fibrous textiles and dry unvarnished timber with soft satin thread sheen on the orange yarn spool",
+    "texture_distress_finish": "natural wood grain and micro-splinters on loom rails, woven yarn tweed weave, and individually strung taught warp fibers",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D polygonal wireframe",
+      "vector flat colors",
+      "hyperrealistic digital skin pores",
+      "glowing magical particle effects"
+    ]
+  },
+  "design_register": "cottagecore traditional artisan craft, British textile heritage stop-motion animation",
+  "subject": {
+    "type": "elderly artisan weaver puppet operating a miniature wooden textile loom",
+    "count": 1,
+    "spatial_distribution": "artisan puppet stands in the left-to-center midground (X=20-65%, Y=10-70%) leaning over the wooden loom that spans across the lower half of the frame (X=0-100%, Y=45-100%); companion sheep rests at right midground (X=80-98%, Y=55-90%)",
+    "face": {
+      "archetype": "stylized elderly artisan puppet with expressive character planes",
+      "skin_tone": "pale warm peach bisque clay",
+      "skin_undertone_sss": "subtle warm amber subsurface scattering along clay edges",
+      "skin_material_feel": "matte sculpted polymer clay with smooth hand-finished planes and delicate carved facial creases",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 90,
+      "facial_occlusion_boundaries": "upper forehead shaded beneath the brim of a textured tweed flat cap",
+      "face_paint": "subtle warm rosiness blushed across the prominent nose and cheeks",
+      "face_volume": "slender elongated facial structure with prominent bulbous aquiline nose, large rounded ears, and gentle sculpted cheekbones",
+      "forehead_and_skin_planes": "smooth matte clay forehead sloping gently beneath the cap brim",
+      "face_shape_silhouette": "elongated tapered oval with soft rounded chin and delicate jawline",
+      "cheek_contour_and_fullness": "slender flat cheek planes with subtle carved nasolabial grooves",
+      "jaw_and_chin_geometry": "soft rounded chin fringed by a short white sculpted fiber beard",
+      "head_cranial_shape": "tall cranial dome crowned and framed by a brown wool tweed flat cap",
+      "head_pitch_deg": 14,
+      "interpupillary_spacing_and_eye_span": "standard proportionate eye spacing",
+      "palpebral_fissure_and_canthal_tilt": "hooded almond eyes with sculpted clay lids gazing down at the warp threads with gentle +3° canthal tilt",
+      "eyes": "small glossy dark glass bead eyes with pinpoint white highlights looking downward in deep focus",
+      "nose": "large stylized bulbous aquiline nose projecting forward with a smooth rounded drooping tip",
+      "ears": "large stylized rounded ears with sculpted internal helix and deep concha cavity projecting outward",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "slender mouth contour beneath a soft white fiber mustache",
+      "mouth": "gentle neutral closed mouth conveying quiet contemplation and concentration",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "stylized prominent nose, large expressive ears, and articulated clay hands relative to slender torso",
+      "proportions": {
+        "character_proportions_type": "slender stylized stop-motion puppet proportions (approx 5.5-head scale)",
+        "head_pct": "22%",
+        "torso_pct": "42%",
+        "legs_pct": "36%",
+        "shoulder_width": "narrow 1.1x head width — slender artisan torso",
+        "body_type": "slender elderly craftsman build",
+        "torso_girth_and_frailty": "slender cylindrical torso leaning forward in focused posture",
+        "silhouette_rigidity_and_geometry": "organic leaning stance framed by the geometric horizontal lines of the wooden loom",
+        "textile_stiffness_and_hang": "heavy textured knit vest draped over internal armature",
+        "limb_thickness_archetype": "slender articulated puppet armature with sculpted clay hands",
+        "neck_morphology": "slender cylindrical neck emerging from collared shirt",
+        "neck_length_and_exposure": "short collar exposure surrounded by white fiber sideburns",
+        "hands_and_fingers": "sculpted matte clay four-finger hands with articulated knuckles firmly gripping the wooden loom beater bar"
+      },
+      "height_ratios": "artisan puppet stands approximately 3.5x taller than the companion sheep puppet on the right",
+      "silhouette": "focused artisan leaning over a horizontal mechanical loom frame with angled arms",
+      "pose": {
+        "stance_type": "standing leaning forward over a wooden weaving loom",
+        "weight_distribution": "forward-leaning posture with hands supporting upper body on the loom beater",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -3,
+        "spine_curvature": "gentle forward curve in concentrated working posture",
+        "left_arm_pose": "left arm angled forward with hand gripping the wooden beater bar rail",
+        "right_arm_pose": "right arm angled forward with hand gripping the top rail of the loom reed",
+        "leg_and_feet_stance": "standing behind the loom structure (lower body occluded by machinery)",
+        "pose_energy": "focused, rhythmic, and dedicated artisan labor"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing behind workbench/loom frame",
+        "leg_dangle_dynamics": "grounded standing posture behind loom frame",
+        "torso_lean_and_posture": "leaning forward over the horizontal warp thread bed"
+      },
+      "hand_pose_interaction": "both sculpted clay hands resting firmly on the top wooden reed bar of the manual loom",
+      "prop_interaction": "direct physical operation of the miniature wooden loom and suspended warp strings",
+      "prop_asymmetry_load": "symmetrical dual-hand grip on the horizontal wooden beater bar",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "chalk white",
+      "style": "wispy white side hair tufts and short cropped beard/mustache beneath flat cap",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "fine wispy synthetic/mohair fibers",
+      "hair_sculptural_form": "soft fibrous tufts extending along temples, sideburns, and jawline",
+      "volume_density": "moderate wispy density",
+      "direction": "downward and outward along facial contours",
+      "dominant_zone": "sideburns, mustache, and chin beard",
+      "updo_containment": "enclosed beneath flat cap crown",
+      "accessories": ""
+    },
+    "outfit": {
+      "headwear_or_eyewear": "brown-and-grey herringbone tweed wool flat cap (newsboy cap) with detailed textured fabric weave and stitched brim",
+      "outerwear_and_upper": "chunky hand-knitted brown wool sweater vest worn over a slate-blue long-sleeve collared shirt",
+      "textile_material_and_gloss": "100% matte woven tweed wool, coarse ribbed knit yarn, and textured cotton shirt",
+      "collar_and_neckline_topology": "neat slate-blue shirt collar framed by the ribbed V-neck of the brown knitted vest",
+      "lower_garment_and_drape": "obscured behind the timber frame of the loom",
+      "waist_and_belt_hardware": "positioned behind loom machinery",
+      "footwear_and_soles": "grounded behind loom base, out of frame",
+      "jewelry_and_accessories": "none"
+    }
+  },
+  "secondary_subject": {
+    "type": "miniature wooden handloom with warp threads, thread spool, and companion sheep",
+    "color_morph": "warm natural pine wood loom, bright golden-orange thread on spool, crisp white linen warp threads, and creamy white wool on sheep",
+    "count_density": "1 wooden loom mechanism, 1 thread spool, and 1 companion sheep puppet",
+    "size_relative_to_primary": "loom occupies 50% of the canvas; sheep is approximately 1/3 the height of the artisan",
+    "spatial_distribution": "loom spans foreground-midground; orange spool mounted at right; sheep sits at extreme right foreground",
+    "facing_azimuth_deg": 315,
+    "pose_description": "sheep looks up attentively at the loom; loom threads stretch taught in linear perspective toward the viewer",
+    "priority_level": "co-primary environmental and narrative anchor"
+  },
+  "micro_features": [
+    "Dozens of individually strung, taught white warp threads stretching in tight parallel lines across the wooden loom reed",
+    "Large wooden bobbin spool wound with vibrant golden-amber yarn mounted on the right loom upright",
+    "Suspended vertical twine cords and small wooden pulleys connecting the loom heddles above the frame",
+    "Subtle wood grain texture, joints, and peg dowels on the handcrafted miniature timber loom frame",
+    "Curly needle-felted fleece texture on the tiny companion sheep watching from the right",
+    "Soft-focus bundles of raw unspun wool roving piled on background workshop benches",
+    "Delicate tactile knit ribs on the brown wool vest and houndstooth pattern on the flat cap"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm-neutral 5000K workshop daylight with soft rustic earth tones",
+    "color_grading_intent": "warm artisanal stop-motion cinematography with balanced earth tones, muted slate blues, and vibrant amber yarn highlights",
+    "global_saturation_level": "natural balanced saturation (+0% boost) highlighting organic wood, wool, and yarn",
+    "environmental_split_toning": "cool muted slate-blue background wall vs warm pine timber, brown tweed, and bright amber-orange thread spool in foreground",
+    "palette": [
+      { "name": "golden_amber_yarn", "hsl": "hsl(36, 95%, 52%)" },
+      { "name": "natural_pine_wood", "hsl": "hsl(30, 42%, 48%)" },
+      { "name": "slate_blue_wall", "hsl": "hsl(212, 22%, 45%)" },
+      { "name": "tweed_brown", "hsl": "hsl(28, 30%, 36%)" },
+      { "name": "ivory_warp_thread", "hsl": "hsl(40, 25%, 90%)" }
+    ],
+    "shadow_color": "soft warm charcoal in timber crevices and workshop background",
+    "highlight_color": "clean diffused daylight catching the taught white threads and top of the wooden loom",
+    "contrast_profile": "medium contrast with clean thread separation and soft luminous shadow detail",
+    "saturation_map": "vibrant saturation on the orange thread spool; rich earthy saturation on the wooden loom; muted desaturated tones on background wall",
+    "skin_warmth_vs_env_contrast": "pale clay skin and white beard stand out cleanly against the muted slate-blue background",
+    "color_temperature": "5000K natural studio workshop daylight"
+  },
+  "lighting": {
+    "drama_level": "warm, gentle, and focused artisan workshop lighting",
+    "key_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 30,
+      "quality": "soft diffused window daylight from the upper-right illuminating the warp threads, spool, and character's face",
+      "color_temp_K": 5000
+    },
+    "fill_light": {
+      "azimuth_deg": 270,
+      "elevation_deg": 35,
+      "ratio": "1:2.5 soft ambient fill softening shadows on the character's left side",
+      "color_temp_K": 3800
+    },
+    "rim_light": {
+      "azimuth_deg": 30,
+      "elevation_deg": 45,
+      "surfaces": "top curve of the tweed flat cap, left shoulder of vest, and wooden beater bar"
+    },
+    "ambient_bounce": "warm diffuse reflection from the raw timber surfaces and wool piles",
+    "special": "delicate edge glints along each individual taught white thread strand across the loom bed"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "foreground dynamic linear perspective of loom threads leading from bottom-center toward midground artisan and loom machinery; right side anchored by amber yarn spool and sheep",
+    "layer_stack_z_index": "Layer 0: Slate-blue workshop wall and shelving -> Layer 1: Piles of wool roving -> Layer 2: Standing artisan weaver puppet -> Layer 3: Wooden loom frame, orange spool, and companion sheep -> Layer 4: Foreground horizontal warp threads",
+    "framing_crop": "medium working shot (waist-up) capturing both character and machinery",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "12% upper headroom above flat cap; bottom frame filled with leading loom threads",
+    "frame_edge_clipping_and_bleed": "wooden loom frame bleeds off left and bottom edges; yarn spool and shelf bleed off right edge",
+    "ground_pedestal": "miniature wooden floor loom structure serving as the central staging architecture",
+    "camera_azimuth_deg": 15,
+    "subject_facing_azimuth_deg": 330,
+    "camera_elevation_deg": 10,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "artisan's face, hands, wooden reed bar, and thread spool (X=15-85%, Y=20-85%)",
+      "blurred_zone": "extreme foreground warp threads and soft background workshop shelves/wool piles",
+      "blur_strength": "f/2.8 shallow macro depth of field"
+    },
+    "rule_of_thirds": "weaver's head and hands positioned at the upper-left third; vibrant orange thread spool positioned at the upper-right third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "strong horizontal and diagonal leading lines from loom rails and warp threads drawing the eye directly to the weaver's hands",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "traditional artisan wool-spinning and weaving workshop",
+    "key_elements": "muted blue workshop wall, wooden tool pegs, hanging brackets, mounds of raw wool roving, wooden wall cubby shelf, and soft window frame on right",
+    "layer_order": "foreground warp threads -> wooden loom and spool -> weaver puppet -> wool piles -> blue wall and tools",
+    "background_density": "moderately rich in craft details with soft optical background blur",
+    "background_treatment": "shallow depth of field creating smooth bokeh on background workshop elements"
+  },
+  "typography_and_graphic_elements": {
+    "__note": "Image contains no typographic text, watermarks, or graphic decals."
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, modern factory machines, hyperrealistic human pores, cartoon illustration, bright neon lighting, digital distortion",
+  "reconstruction_priority": [
+    "Loom warp threads and wooden machinery — AI typically collapses fine thread arrays into blurry solid planes or chaotic messy wire webs",
+    "Puppet face and flat cap craft — AI tends to hallucinate either generic cartoon characters or overly photorealistic human skin instead of textured clay and tweed",
+    "Tactile yarn and wool textures — AI often fails to render distinct fiber qualities between raw wool roving, spun yarn, and woven fabric",
+    "Hand grip on wooden beater — AI frequently generates mangled fingers or detached floating hands rather than articulated clay fingers gripping the wood"
+  ]
+}

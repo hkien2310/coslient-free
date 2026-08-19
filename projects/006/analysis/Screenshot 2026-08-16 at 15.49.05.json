@@ -1,0 +1,199 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — tactile physical miniature diorama with sculpted matte polymer clay puppet heads, wispy mohair fiber hair and beards, bespoke miniature woven wool and knitwear garments, and shallow depth of field macro cinematography on a miniature cobblestone street set",
+
+  "visual_mood": {
+    "primary_feeling": "heartwarming neighborhood camaraderie, animated conversation, and nostalgic European folk charm",
+    "viewer_impression": "an intimate, lively exchange between two expressive elderly puppet characters meeting in an old cobblestone alleyway",
+    "narrative_subtext": "two lifelong friends animatedly bumping into each other on a quiet European lane, sharing joyful news or an amusing story in the soft late-afternoon daylight"
+  },
+
+  "medium": {
+    "type": "physical stop-motion puppet photography with handcrafted miniature street set and practical optical lens",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "two handcrafted articulated stop-motion puppets featuring matte sculpted polymer clay faces, hand-applied white mohair fiber hair and curled beards, and tailored miniature woolen textiles",
+    "backdrop_medium": "physical miniature European alleyway set with miniature cobblestone pavers, weathered brick/stone facade walls, and miniature iron lampposts softly blurred in depth",
+    "render_stylization": "semi-stylized puppet realism with exaggerated expressive facial caricature",
+    "line_art_style": "no outlines — pure physical volumetric form, organic tactile shadow gradients, and optical depth-of-field blur",
+    "craft_quality": "master artisan stop-motion studio puppet fabrication and miniature set construction",
+    "physical_material": "matte polymer clay, synthetic mohair fibers, coarse tweed wool, ribbed knit fabric, and textured stone plaster",
+    "surface_specularity": "predominantly matte fibrous textiles and satin clay skin with subtle natural specularity on glass pupil beads",
+    "texture_distress_finish": "authentic tactile fiber fuzz, fine clay hand-tooling texture, woven textile grain, and gentle atmospheric softening",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D subsurface scattering sheen",
+      "flat vector fills",
+      "procedural clean metal",
+      "photorealistic human skin pores"
+    ]
+  },
+
+  "design_register": "expressive European artisanal stop-motion folk animation, classic handcrafted puppet cinematography",
+
+  "subject": {
+    "type": "two elderly male puppet figures engaged in face-to-face conversation in an outdoor alley",
+    "count": 2,
+    "spatial_distribution": "two-shot profile confrontation: left puppet in left third facing right; right puppet in right third facing left",
+
+    "primary_left_figure": {
+      "archetype": "expressive elderly scholar/storyteller puppet with wavy white hair and warm smile",
+      "face": {
+        "skin_tone": "warm pale ivory with subtle beige clay undertones",
+        "skin_undertone_sss": "soft natural clay translucency with gentle warmth across cheeks and nose",
+        "skin_material_feel": "matte sculpted polymer clay with delicate tactile sculpting tool marks",
+        "skin_grime_level_0to10": 0,
+        "skin_moisture_finish": "matte velvet with soft satin highlight along nasal ridge",
+        "face_exposure_pct": 95,
+        "facial_occlusion_boundaries": "lower jaw and neck framed by voluminous curly white beard; temples framed by wavy white hair",
+        "face_shape_silhouette": "elongated slender cranial profile with prominent arched forehead, slender cheek planes, and high cheekbones",
+        "forehead_and_skin_planes": "sculpted expressive brow ridges and subtle horizontal laugh creases",
+        "head_pitch_deg": 5,
+        "eyes": "wide-open sculpted oval eyes with glossy dark beads gazing enthusiastically at the companion, framed by expressive arched sculpted eyebrows",
+        "nose": "prominent elongated curved nose with a slender bridge and rounded bulbous tip",
+        "ears": "large stylized C-shaped sculpted ears visible below flowing hair locks",
+        "mouth": "parted in an animated open-mouthed smile showing joy and active speech",
+        "facial_hair": "voluminous curly white-silver beard and mustache made of dense tactile mohair fibers, fully covering chin and jawline"
+      },
+      "hair": {
+        "color": "silvery-white with subtle creamy grey undertones",
+        "style": "thick, wavy, layered locks gathered in a natural swept-back mane around ears and crown",
+        "hair_texture_type": "fine synthetic mohair fiber with authentic wavy volume and tactile frizz"
+      },
+      "outfit": {
+        "outerwear": "tailored caramel-tan / ochre-brown wool blazer jacket with structured lapels",
+        "inner_knitwear": "dark chocolate-brown ribbed turtleneck knit sweater",
+        "textile_material": "100% matte woven miniature woolens and ribbed cotton-wool knit"
+      }
+    },
+
+    "primary_right_figure": {
+      "archetype": "quaint elderly artisan / townsperson puppet wearing a ribbed knit cap",
+      "face": {
+        "skin_tone": "warm natural ivory-beige matte polymer clay",
+        "skin_undertone_sss": "subtle clay warmth with soft shadow gradations around eye sockets",
+        "skin_material_feel": "matte sculpted polymer clay with smooth tactile finish",
+        "skin_grime_level_0to10": 0,
+        "skin_moisture_finish": "matte velvet",
+        "face_exposure_pct": 80,
+        "facial_occlusion_boundaries": "upper skull enclosed in snug ribbed knit beanie cap; lower face enveloped in curly white beard",
+        "face_shape_silhouette": "slender angular profile with delicate nose bridge and firm chin beneath beard",
+        "head_pitch_deg": -5,
+        "eyes": "inquisitive sculpted oval eyes with dark glossy pupil beads gazing back intently at his friend",
+        "nose": "pointed, slightly hooked nose with well-defined nostrils",
+        "mouth": "gently parted lips framed by thick curly white mustache and beard",
+        "facial_hair": "dense textured curly white beard and mustache with tangible fiber loops hugging jawline"
+      },
+      "hair": {
+        "headwear": "heather taupe-brown ribbed knit beanie/toque with a pointed gathered top apex",
+        "visible_hair": "curly silver-white sideburns and nape locks spilling out from beneath the cap rim"
+      },
+      "outfit": {
+        "outerwear": "heavy charcoal-grey textured tweed overcoat with subtle melange fleck weave",
+        "textile_material": "coarse miniature woven tweed wool with authentic tactile surface texture"
+      }
+    }
+  },
+
+  "micro_features": [
+    "Delicate individual fiber curls and frizzy loops in both puppets' white mohair beards and hair",
+    "Tailored miniature lapel seams and ribbed turtleneck knit gauge proportionally scaled to puppet height",
+    "Hand-sculpted clay eye contours with glossy dark bead pupils capturing tiny point-light reflections",
+    "Softly blurred cobblestone street ground plane with realistic textured paver joints",
+    "Atmospheric depth blur rendering the background European brick facades into a creamy painterly backdrop",
+    "Subtle tonal contrast between the warm caramel blazer of the left puppet and the cool charcoal tweed of the right"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm nostalgic 3600K overcast daylight with earthy ochre, caramel, warm charcoal, and soft parchment tones",
+    "color_grading_intent": "harmonious, cozy European stop-motion palette with organic warmth and filmic shadow roll-off",
+    "global_saturation_level": "moderate natural saturation with rich caramel-tan jacket accent against neutral tweed and stone alley",
+    "environmental_split_toning": "soft neutral-warm stone alley shadows balanced with creamy golden daylight highlights on faces and hair",
+    "palette": [
+      { "name": "caramel tan", "hsl": "hsl(32, 55%, 48%)" },
+      { "name": "chocolate brown", "hsl": "hsl(25, 45%, 25%)" },
+      { "name": "charcoal tweed", "hsl": "hsl(210, 8%, 32%)" },
+      { "name": "parchment clay", "hsl": "hsl(35, 35%, 80%)" },
+      { "name": "silvery white", "hsl": "hsl(40, 15%, 92%)" },
+      { "name": "cobblestone slate", "hsl": "hsl(30, 10%, 45%)" }
+    ],
+    "shadow_color": "deep warm umber-charcoal",
+    "highlight_color": "soft warm cream-ivory",
+    "contrast_profile": "medium cinematic contrast with smooth gradations across clay facial planes",
+    "saturation_map": "highest on left puppet's caramel jacket, neutral on beards and right puppet's coat, muted on stone background",
+    "skin_warmth_vs_env_contrast": "gentle warmth of clay skin and hair standing out clearly against the muted neutral alley",
+    "color_temperature": "warm natural 3600K-4000K daylight"
+  },
+
+  "lighting": {
+    "drama_level": "subtle, naturalistic cinematic conversational lighting",
+    "key_light": {
+      "azimuth_deg": 30,
+      "elevation_deg": 35,
+      "quality": "soft diffused directional daylight illuminating both puppets' faces and hair textures",
+      "color_temp_K": 3800
+    },
+    "fill_light": {
+      "azimuth_deg": -30,
+      "elevation_deg": 20,
+      "ratio": "1:2 soft ambient fill maintaining sculptural depth along cheeks and necklines"
+    },
+    "rim_light": {
+      "azimuth_deg": 180,
+      "elevation_deg": 40,
+      "surfaces": "gentle rim glow accentuating the wavy white hair fibers and the crown of the ribbed beanie cap"
+    },
+    "ambient_bounce": "warm ground reflection from cobblestone pavers softening under-chin shadows",
+    "special": "subtle optical catchlights in both puppets' glossy bead pupils"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "two-shot dialogue profile framing: left puppet occupies the left 40% of the frame; right puppet occupies the right 35%; central 25% gap frames the vanishing line of the cobblestone street",
+    "layer_stack_z_index": "Layer 0: blurred distant town buildings -> Layer 1: cobblestone street perspective -> Layer 2: two foreground conversing puppet figures in sharp focal plane",
+    "framing_crop": "medium close-up two-shot framed from mid-chest to head level",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "12% headroom above hair/cap; lower bodies framed just below chest line",
+    "frame_edge_clipping_and_bleed": "left puppet's back/shoulder bleeds off left canvas; right puppet's back bleeds off right canvas",
+    "ground_pedestal": "miniature cobblestone street with perspective converging in the blurred background",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 85,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "razor-sharp focus on both puppets' faces, beards, knit cap, and coat collars",
+      "blurred_zone": "progressive optical falloff across the background street and architecture",
+      "blur_strength": "f/2.4 macro optical blur creating smooth bokeh background"
+    },
+    "rule_of_thirds": "left puppet's eye line on upper-left third; right puppet's eye line on upper-right third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "bilateral balanced dialogue staging",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "historic European village alleyway with miniature cobblestones and classic stone architecture",
+    "key_elements": "receding cobblestone street, soft building facades, vintage lamppost silhouettes in deep defocus",
+    "layer_order": "distant sky/rooftops -> mid-distance street walls -> foreground subjects",
+    "background_density": "moderate architectural detail softened by shallow depth of field",
+    "background_treatment": "cinematic macro defocus creating creamy atmosphere"
+  },
+
+  "typography_and_graphic_elements": {
+    "__note": "No text, typography, logos, or graphic overlays present in the image."
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, digital 3D render, Pixar style, Disney style, photorealistic human skin, modern clothes, sneakers, neon colors, harsh flash lighting, distorted fingers",
+
+  "reconstruction_priority": [
+    "tactile stop-motion puppet materials (matte polymer clay heads, authentic mohair fiber beards and hair, genuine woven tweed and ribbed knitwear) — AI often replaces with generic smooth CGI or photorealistic human skin",
+    "expressive caricatured profile dialogue dynamic with large sculpted curved noses and animated eye expressions — AI tends to normalize into standard realistic portraits",
+    "two-shot profile composition with balanced negative space along the central cobblestone perspective — AI often merges characters or centers a single figure",
+    "subtle, warm naturalistic overcast lighting with creamy optical bokeh in the miniature background — AI often introduces harsh digital HDR or artificial glows"
+  ]
+}

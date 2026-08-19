@@ -1,0 +1,229 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion puppet photography — sculpted polymer clay character with textured fiber beard and vintage linen tailoring in a macro shallow depth of field workshop setting.",
+  "visual_mood": {
+    "primary_feeling": "Warm contemplative curiosity, quiet wisdom, and nostalgic tactile stillness",
+    "viewer_impression": "An immediate sense of exquisite artisanal craftsmanship, gentle storytelling, and intimate miniature realism",
+    "narrative_subtext": "An elderly scholar or master artisan paused in his quiet workshop, studying a handheld brass compass with patient reverence"
+  },
+  "medium": {
+    "type": "Handcrafted stop-motion puppet macro photography with physical multi-material construction",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Sculpted matte polymer clay face, needle-felted and synthetic fiber hair, tailored miniature woven textiles, and fabricated miniature brass metalwork",
+    "backdrop_medium": "Physically constructed miniature workshop interior set with soft optical bokeh blur",
+    "render_stylization": "Stylized handcrafted artisan puppet",
+    "line_art_style": "no outlines — pure physical 3D volumetric form and optical macro photography",
+    "craft_quality": "Master artisan handcrafted stop-motion production quality",
+    "physical_material": "Matte polymer clay, fine wool fibers, woven linen fabric, copper wire, and machined brass",
+    "surface_specularity": "Predominantly matte fibrous and clay surfaces with delicate specular reflections on glass spectacle lenses, glossy eye beads, and polished brass compass edges",
+    "texture_distress_finish": "Subtle artisanal patina with natural textile fraying, carved skin wrinkles, and lightly weathered brass",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "glossy 3D CGI plastic skin",
+      "hyperrealistic digital human skin pores",
+      "flat vector graphics",
+      "untextured digital polygons",
+      "synthetic neon glows"
+    ]
+  },
+  "design_register": "Intimate stop-motion cinematic character portrait / artisan workshop narrative",
+  "subject": {
+    "type": "Elderly stylized artisan scholar puppet character examining an open miniature brass compass",
+    "count": 1,
+    "spatial_distribution": "Primary figure centered-left in frame, head and torso filling the left-to-center zone with outstretched left hand reaching into the lower-right foreground",
+    "face": {
+      "archetype": "Stylized elderly intellectual / craftsman puppet",
+      "skin_tone": "Warm peachy cream with delicate rosy-terracotta shading around nasal folds and eye sockets",
+      "skin_undertone_sss": "Soft warm subsurface translucency characteristic of premium cured polymer clay",
+      "skin_material_feel": "Matte sculpted polymer clay with finely engraved concentric forehead creases, crow's feet, and subtle micro-texturing",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "Matte velvet finish with soft diffuse highlight along the bald cranial crown",
+      "face_exposure_pct": 95,
+      "facial_occlusion_boundaries": "Upper orbital zone framed by round dark spectacles; lower jaw and mouth completely enveloped by dense mustache and beard",
+      "face_paint": "",
+      "face_volume": "Elongated expressive craniofacial structure with tall bald cranium, slender hollow cheeks, and stylized elongated nose",
+      "forehead_and_skin_planes": "Prominent dome-like bald forehead etched with fine horizontal age lines and crowned by arched bushy white eyebrows",
+      "face_shape_silhouette": "Elongated oval tapering downward, anchored by rounded cranium and wide downward-sweeping facial features",
+      "cheek_contour_and_fullness": "Slender, concave aged cheek planes framed cleanly by grey sideburn fiber locks",
+      "jaw_and_chin_geometry": "Underlying jaw structure occluded beneath a voluminous, rounded, tactile curly white beard",
+      "head_cranial_shape": "Broad rounded cranial dome with prominent lateral temple expansions where white hair flares out horizontally",
+      "head_pitch_deg": 25,
+      "interpupillary_spacing_and_eye_span": "Balanced 1.1x eye-width spacing behind round lenses",
+      "palpebral_fissure_and_canthal_tilt": "Wide almond-to-round stylized eye apertures with subtle -3° neutral-downward canthal slant reflecting thoughtful age",
+      "eyes": "Deep warm amber-brown glass bead irises with pinpoint white key-light glints, directed downward toward the hand",
+      "nose": "Prominent elongated teardrop nose with sculpted clay bridge and rounded bulbous tip",
+      "ears": "Stylized clay ear on subject's right with well-defined outer helix and fleshy lobe, positioned behind temple hair",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "Mouth and philtrum fully nestled beneath a dense downward-combed silver-white mustache",
+      "mouth": "Relaxed closed mouth concealed beneath mustache hairs",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "Stylized oversized head and elongated expressive nose resting on a delicate puppet torso",
+      "proportions": {
+        "character_proportions_type": "Stylized stop-motion puppet caricature (approx. 3.5-head proportion)",
+        "head_pct": "40% of visible upper body mass",
+        "torso_pct": "60% of visible upper body mass",
+        "legs_pct": "Occluded below lower frame boundary",
+        "shoulder_width": "Narrow 1.1x head width — miniature artisanal puppet armature",
+        "body_type": "Slender elderly artisan frame",
+        "torso_girth_and_frailty": "Compact, slightly hunched torso draped in tailored structured linen garments",
+        "silhouette_rigidity_and_geometry": "Organic curved posture leaning forward with natural fabric folds",
+        "textile_stiffness_and_hang": "Structured woven canvas-linen coat hanging naturally over shoulders with crisp tailored collar seams",
+        "limb_thickness_archetype": "Delicate slender wire-armature limbs beneath tailored fabric sleeves",
+        "neck_morphology": "Short neck occluded by high collar, orange bow tie, and overflowing beard",
+        "neck_length_and_exposure": "Zero neck skin exposed; fully covered by high shirt collar and bow tie",
+        "hands_and_fingers": "Sculpted clay left hand with slender, articulated aging fingers gently cupping open palm beneath the compass"
+      },
+      "height_ratios": "Single primary subject filling frame",
+      "silhouette": "Compact curved triangular profile sloping from top of bald head down to outstretched forearm and compass",
+      "pose": {
+        "stance_type": "Seated or leaning forward in intimate contemplation",
+        "weight_distribution": "Upper body weight shifted forward toward the left elbow and outstretched hand",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -8,
+        "spine_curvature": "Gentle forward C-curve hunch of an elder leaning in to inspect an intricate artifact",
+        "left_arm_pose": "Left arm raised from elbow, forearm extending horizontally into the right midground with upturned palm supporting the compass",
+        "right_arm_pose": "Right arm lowered at side, shoulder visible in warm linen coat",
+        "leg_and_feet_stance": "Occluded outside lower frame",
+        "pose_energy": "Quiet, poised, delicate stillness with focused observational concentration"
+      },
+      "seating_and_elevation": {
+        "surface_type": "Artisan workshop table / workbench (implied by low angle and forward lean)",
+        "leg_dangle_dynamics": "Not visible in frame",
+        "torso_lean_and_posture": "Hunched forward at approx 20° angle toward the handheld object"
+      },
+      "hand_pose_interaction": "Left hand held flat with slightly curled fingertips, serving as a gentle pedestal for the antique brass compass",
+      "prop_interaction": "Open brass compass resting squarely on the palm of the left hand at chest/midground level",
+      "prop_asymmetry_load": "Visual balance anchored by the bright metallic compass on the lower-right against the large head on upper-left",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "Silver-white blend with subtle warm grey undertones",
+      "style": "Balding crown with wide, billowy lateral temple tufts flaring horizontally outwards, thick arched white eyebrows, and dense full beard",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "Fine wispy wool and synthetic fiber strands with delicate flyaways and frizzy volume",
+      "hair_sculptural_form": "Fluffy cloud-like side clusters projecting sideways from the temples; bushy arched eyebrows sitting atop brow ridges",
+      "volume_density": "High volume on lateral temple fringes and lower jaw; zero hair on smooth cranial dome",
+      "direction": "Flaring horizontally outward from temples, beard flowing straight downward",
+      "dominant_zone": "Temples, cheeks, and chin",
+      "updo_containment": "None — loose wild artisan fringe",
+      "accessories": ""
+    },
+    "outfit": {
+      "headwear_or_eyewear": "Circular round wire-rim spectacles with thin dark tortoiseshell frames, slender nose bridge, and clear round optical lenses",
+      "outerwear_and_upper": "Single-breasted vintage artisan blazer jacket in textured neutral beige/taupe linen weave with notched lapels and natural shoulder creases",
+      "innerwear_collar_and_layering": "High-collared cream/off-white woven cotton dress shirt buttoned at throat",
+      "neckwear_and_accent": "Petite terracotta-orange bow tie neatly knotted beneath the beard at the collar junction",
+      "sleeve_and_cuff_structure": "Tailored jacket sleeve tapering down the left forearm to reveal a fine textured light beige inner cuff",
+      "handheld_prop_details": "Miniature precision-fabricated antique brass pocket compass with open hinged lid showing inner circular dial, compass rose markings, and dark directional needle"
+    }
+  },
+  "micro_features": [
+    "Delicate stray white hair fibers projecting outward and catching translucent edge illumination around temple tufts.",
+    "Precisely sculpted horizontal furrow lines and forehead ridges across the matte polymer clay skull.",
+    "Pinpoint circular key-light specular glint centered in the dark glass irises behind the round spectacle lenses.",
+    "Tactile textural weave of the oatmeal-toned linen suit jacket showing individual crisscrossed thread fibers.",
+    "Miniature hinged circular brass lid of the open pocket compass showing machined metallic bevels and subtle patina.",
+    "Smooth clay texture on the upturned palm with sculpted finger joints cradling the base of the compass."
+  ],
+  "color_grading": {
+    "overall_color_cast": "Warm 3800K nostalgic interior workshop wash with golden amber highlights and rich neutral shadows",
+    "color_grading_intent": "Warm, cozy, cinematic European stop-motion palette emphasizing tactile earth tones and soft golden warmth",
+    "global_saturation_level": "Moderately warm and natural (+5% on warm ambers and terracotta, muted neutral greys and beiges)",
+    "environmental_split_toning": "Warm golden amber light on clay skin and brass metalwork against cool slate-brown diffuse background bokeh",
+    "palette": [
+      { "name": "Clay Peach Skin", "hsl": "hsl(28, 48%, 72%)" },
+      { "name": "Oatmeal Linen", "hsl": "hsl(36, 24%, 68%)" },
+      { "name": "Terracotta Bowtie", "hsl": "hsl(14, 58%, 52%)" },
+      { "name": "Antique Patina Brass", "hsl": "hsl(42, 45%, 50%)" },
+      { "name": "Silver Fiber Beard", "hsl": "hsl(0, 0%, 82%)" },
+      { "name": "Deep Workshop Walnut", "hsl": "hsl(30, 25%, 22%)" }
+    ],
+    "shadow_color": "Deep warm charcoal walnut with soft neutral density",
+    "highlight_color": "Soft golden cream amber glinting on spectacles, forehead dome, and brass rim",
+    "contrast_profile": "Soft cinematic contrast with creamy highlight roll-off and lifted, detailed shadows",
+    "saturation_map": "Highest on the terracotta bow tie and golden brass compass; muted on linen suit and background",
+    "skin_warmth_vs_env_contrast": "Warm luminous clay facial skin sharply separated from dark desaturated background bokeh",
+    "color_temperature": "Warm tungsten 3800K key light with 3200K ambient warmth"
+  },
+  "lighting": {
+    "drama_level": "Intimate, gentle, focused low-key artisan workshop lighting",
+    "key_light": {
+      "azimuth_deg": -35,
+      "elevation_deg": 32,
+      "quality": "Soft diffused key light creating gentle dimensional shading across forehead wrinkles, nose, and spectacles",
+      "color_temp_K": 3800
+    },
+    "fill_light": {
+      "azimuth_deg": 40,
+      "elevation_deg": 10,
+      "ratio": "1:3 soft ambient fill preventing harsh shadow clipping in beard and neck"
+    },
+    "rim_light": {
+      "azimuth_deg": -140,
+      "elevation_deg": 45,
+      "surfaces": "Delicate hair-light catching the outer fibers of the white hair tufts and edge of bald cranial dome"
+    },
+    "ambient_bounce": "Warm golden bounce from workshop desk surface illuminating the underside of chin and outstretched palm",
+    "special": "Pinpoint specular reflections in circular spectacle lenses, glass pupils, and reflective metallic compass face"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "Full-bleed cinematic composition with primary character anchored in the left two-thirds and prop interaction extended into the right third",
+    "layer_stack_z_index": "Layer 0: Deeply blurred workshop interior background -> Layer 1: Character head, torso, and coat -> Layer 2: Spectacles and outstretched left hand -> Layer 3: Open brass pocket compass",
+    "framing_crop": "Medium close-up portrait cropped at chest and lower torso",
+    "subject_vertical_fill_pct": 82,
+    "headroom_and_ground_clearance": "Minimal headroom (approx 6% canvas height above bald cranium); lower frame clips across mid-chest",
+    "frame_edge_clipping_and_bleed": "Left elbow and back coat shoulder bleed past left canvas edge; right fingertips reach toward right edge",
+    "ground_pedestal": "Implied workshop workbench just beneath the lower frame boundary",
+    "camera_azimuth_deg": 15,
+    "subject_facing_azimuth_deg": 30,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "Tack-sharp focal plane precisely on the character's eyes, spectacle rims, nose, and open compass",
+      "blurred_zone": "Rapid falloff to soft blur on the back of coat collar, with deep creamy optical bokeh across the background",
+      "blur_strength": "Heavy macro optical background blur (approx f/2.0)"
+    },
+    "rule_of_thirds": "Character's spectacles and eyes align across the upper-left intersection; compass dial anchors near the lower-right third line",
+    "grid_and_accent_anchors": {
+      "construction_grid": "Diagonal compositional vector flowing from upper-left head down along gaze line to lower-right compass",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "Artisan horology workshop, miniature library, or antique laboratory",
+    "key_elements": "Soft circular bokeh orbs, out-of-focus wooden shelving, antique brass instruments, and warm neutral backdrop panels",
+    "layer_order": "Immediate soft atmospheric falloff behind character shoulders into deep diffuse warm bokeh",
+    "background_density": "Sparse and clean due to heavy optical defocus, keeping total visual focus on character and compass",
+    "background_treatment": "Atmospheric optical lens blur with warm sepia and slate-brown bokeh disks"
+  },
+  "typography_and_graphic_elements": {
+    "primary_headline": {
+      "text_content": "",
+      "typeface_morphology": "",
+      "spatial_zone_and_span": "",
+      "color_field_continuity": "",
+      "z_index_occlusion": ""
+    },
+    "secondary_metadata_text": {
+      "text_content": "",
+      "spatial_anchoring": ""
+    },
+    "graphic_badges_and_decals": []
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, glossy plastic skin, smooth flat digital vector, photorealistic human skin, young person, bright neon lighting, deformed compass, extra fingers, outer decorative border, ornate frame, picture frame",
+  "reconstruction_priority": [
+    "Tactile polymer clay skin texture with hand-etched wrinkles — AI models frequently hallucinate either hyper-smooth digital CGI plastic or real human porous skin instead of matte crafted clay.",
+    "Frizzy wool-felt hair and beard fiber volume — AI typically collapses physical stop-motion fiber grooms into uniform polygon hair cards.",
+    "Shallow macro depth of field on facial plane — AI often renders both the character and background with uniform edge sharpness.",
+    "Articulated clay hand holding the miniature brass compass — AI tends to fuse fingers into the metallic casing or distort circular geometry."
+  ]
+}

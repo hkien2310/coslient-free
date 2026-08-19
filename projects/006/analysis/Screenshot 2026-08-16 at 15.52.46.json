@@ -1,0 +1,147 @@
+{
+  "___style_anchor": "Handcrafted stop-motion diorama miniature cinematography — tactile thatch-roofed architectural model surrounded by textured felted autumn foliage and sculpted bark trees in soft natural daylight.",
+  "visual_mood": {
+    "primary_feeling": "cozy fairytale tranquility, whimsical autumn warmth, and pastoral storybook nostalgia",
+    "viewer_impression": "an enchanting physical miniature world inviting warmth, quiet solitude, and whimsical woodland exploration",
+    "narrative_subtext": "a warm hearth fireside glowing inside a secluded forest cottage as autumn leaves drift past a parked camper van"
+  },
+  "medium": {
+    "type": "stop-motion animation miniature set photography with handcrafted physical diorama elements",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted architectural miniature made of dried straw thatch, sculpted plaster clay, painted wood trim, and miniature brickwork",
+    "backdrop_medium": "physical miniature forest set with textured fibrous tree canopies, sculpted plaster tree trunks, and soft depth-of-field background",
+    "render_stylization": "stylized artisanal storybook miniature diorama",
+    "line_art_style": "no outlines — 3D physical materials, tactile textural micro-reliefs, and natural optical depth-of-field",
+    "craft_quality": "master-level physical stop-motion model fabrication and set construction",
+    "physical_material": "plaster stucco, dried fiber thatch, painted balsa wood, dried lichen, flocked sponge foliage, wire-and-clay armature",
+    "surface_specularity": "predominantly matte porous plaster and fibrous straw with low-sheen satin painted wood accents",
+    "texture_distress_finish": "hand-sculpted organic weathering with cracked stucco, mossy stone bases, and uneven timber joints",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "glossy 3D CGI plastic",
+      "procedural digital noise textures",
+      "flat vector shapes",
+      "clean modern machine-milled materials"
+    ]
+  },
+  "design_register": "storybook cottagecore, handcrafted European stop-motion fairytale, and autumnal pastoral diorama",
+  "subject": {
+    "type": "handcrafted miniature rustic storybook cottage with thatched roof, chimney smoke, and blue timber door",
+    "count": 1,
+    "spatial_distribution": "centered in the midground framed symmetrically by massive autumnal forest trees on left and right",
+    "object_anatomy": {
+      "object_class_and_category": "architectural miniature rustic cottage dwelling",
+      "form_geometry_3d": "two-story pitched-roof cottage with steep front gable dormer, vertical rectangular main volume, and offset brick chimney stack",
+      "material_and_surface_breakdown": "layered dried straw thatch roof with wooden battens, textured sandy cream plaster facade, navy-painted wooden door and window frames, and red terracotta brick chimney",
+      "finish_and_engraving_treatment": "hand-painted distressed navy trim, weathered plaster texture, and dark wash in mortar joints",
+      "functional_usage_state": "inhabited cozy autumn dwelling with active wispy cotton smoke rising from the chimney and a miniature circular wreath on the door",
+      "branding_and_label_design": "unbranded artisanal miniature",
+      "scale_reference": "tabletop stop-motion scale (approx 1:12 scale relative to the parked miniature vintage van)"
+    }
+  },
+  "environment_anatomy": {
+    "biome_setting": "dense temperate autumn woodland clearing with cobblestone pathway and ancient broadleaf trees",
+    "weather_and_precipitation_physics": "crisp calm autumn afternoon with individual yellow leaves floating mid-air on gentle breezes",
+    "terrain_and_ground_surface": "textured dirt and cobblestone ground scattered with miniature fallen yellow leaves, moss patches, and small pebbles",
+    "vegetation_density_and_species": "towering sculpted trees with thick russet-orange flocked foliage, base floral shrubs with white and red micro-blossoms, and wild ground moss",
+    "architectural_structures": "central storybook thatched cottage with front stone doorstep and miniature window planters",
+    "lighting_time_of_day": "soft diffused mid-afternoon autumn daylight",
+    "horizon_placement": "low-to-mid perspective grounding the cottage in central third with towering vertical tree framing",
+    "scale_cues": "miniature vintage camper van parked on right driveway, tiny flower clusters, and roof thatch fiber scale"
+  },
+  "secondary_subject": {
+    "type": "vintage miniature camper van / microbus with luggage packed on roof rack",
+    "color_morph": "two-tone faded navy blue lower body and off-white upper roof cab",
+    "count_density": "1 visible complete vehicle on right driveway; second partial white van on far right crop",
+    "size_relative_to_primary": "approx 0.35x cottage height",
+    "spatial_distribution": "parked directly to the right of the cottage along the forest lane",
+    "facing_azimuth_deg": 180,
+    "pose_description": "stationary parked position facing forward toward the camera",
+    "priority_level": "secondary narrative anchor"
+  },
+  "micro_features": [
+    "individual vertical fiber bundles of combed dried straw comprising the steep thatched roof",
+    "faint semi-translucent wisps of cotton wool smoke rising from the red brick chimney top",
+    "delicate circular miniature twig-and-berry wreath hanging on the front blue paneled door",
+    "small rectangular wooden flower boxes under upper and lower windows filled with green moss and blooms",
+    "deeply fissured vertical bark striations on the massive flanking tree trunks made of sculpted plaster",
+    "individual miniature golden-yellow leaf flakes suspended mid-air between canopy and cottage",
+    "tiny painted headlamps and roof-top luggage bundle on the blue camper van"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm 4500K golden-autumn atmosphere with rich russet orange and contrasting deep navy blue",
+    "color_grading_intent": "warm nostalgic storybook cinema grade with rich earthen tones and harmonious complementary color contrast",
+    "global_saturation_level": "richly saturated warm autumnal tones in foliage balanced by neutral grey bark and warm cream stucco",
+    "environmental_split_toning": "warm burnt-orange and terracotta foliage canopy contrasting with cool slate-navy door/window trims and neutral stone pathway",
+    "palette": [
+      { "name": "Russet Autumn Foliage", "hsl": "hsl(28, 75%, 45%)" },
+      { "name": "Golden Straw Thatch", "hsl": "hsl(42, 45%, 68%)" },
+      { "name": "Warm Cream Stucco", "hsl": "hsl(38, 30%, 82%)" },
+      { "name": "Faded Prussian Blue", "hsl": "hsl(215, 45%, 32%)" },
+      { "name": "Weathered Bark Grey", "hsl": "hsl(30, 8%, 55%)" },
+      { "name": "Terracotta Chimney Brick", "hsl": "hsl(14, 52%, 46%)" }
+    ],
+    "shadow_color": "deep umber-charcoal with soft warm earthy undertones",
+    "highlight_color": "diffused golden cream on roof thatch crests and upper tree canopies",
+    "contrast_profile": "medium contrast with rich texture preservation in shadows and soft highlight retention",
+    "saturation_map": "highest in autumn leaf crowns and blue door trim, neutral across pathway and tree trunks",
+    "skin_warmth_vs_env_contrast": "non-humanoid scene; architectural warmth harmonizes with surrounding woodland canopy",
+    "color_temperature": "4500K"
+  },
+  "lighting": {
+    "drama_level": "soft, diffused, storybook cinematic daylight",
+    "key_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 50,
+      "quality": "broad overhead diffused skylight with gentle directional highlights on roof slope and right tree",
+      "color_temp_K": 4800
+    },
+    "fill_light": {
+      "azimuth_deg": -45,
+      "elevation_deg": 30,
+      "ratio": "1:2 soft ground-bounce fill across cottage facade"
+    },
+    "rim_light": {
+      "azimuth_deg": 0,
+      "elevation_deg": 70,
+      "surfaces": "gentle golden glint across top edge of thatched roof ridge and upper foliage canopy"
+    },
+    "ambient_bounce": "warm golden-brown ambient reflection from ground leaf litter into shaded facade alcoves",
+    "special": "soft optical falloff in foreground pathway and background woodland depth"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "cottage placed centrally occupying middle third; massive vertical tree trunks anchor left and right thirds",
+    "layer_stack_z_index": "Layer 0: Soft-focus background forest trunks -> Layer 1: Russet foliage canopy and chimney smoke -> Layer 2: Handcrafted cottage, parked camper van, and base garden shrubs -> Layer 3: Flanking massive foreground tree trunks and drifting leaf particles -> Layer 4: Soft-focus foreground cobblestone pathway",
+    "framing_crop": "wide diorama establishing shot capturing entire cottage, roadway, and flanking woodland canopy",
+    "subject_vertical_fill_pct": 65,
+    "headroom_and_ground_clearance": "20% upper canopy headroom above chimney; 15% foreground ground clearance in front of cottage",
+    "frame_edge_clipping_and_bleed": "tree canopies extend beyond top, left, and right frame edges; roadway leads off lower frame edge",
+    "ground_pedestal": "pebble-strewn cobblestone and dirt lane",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 0,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 45,
+    "depth_of_field": {
+      "sharp_zone": "cottage facade, front door, window boxes, and parked camper van",
+      "blurred_zone": "immediate foreground ground dirt and distant deep-forest backdrop",
+      "blur_strength": "f/4.0 balanced diorama depth of field with subtle foreground and background roll-off"
+    },
+    "rule_of_thirds": "chimney and main gable align along central vertical axis; front door aligns at lower horizontal third"
+  },
+  "background": {
+    "setting": "deep autumnal forest clearing with tall ancient trees and muted woodland backdrop",
+    "key_elements": "dense vertical tree trunks, textured orange-brown canopies, soft grey-green deep woodland foliage",
+    "layer_order": "distant blurred forest -> midground tree trunks -> central clearing with cottage -> foreground trees",
+    "background_density": "dense, immersive natural woodland framing",
+    "background_treatment": "tactile physical model elements with atmospheric depth softening"
+  },
+  "typography_and_graphic_elements": {},
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, smooth digital vector art, modern asphalt road, modern skyscraper, neon lights, human figures, oversized giant leaves, messy digital noise",
+  "reconstruction_priority": [
+    "tactile physical diorama craft — AI frequently turns miniature sets into smooth video-game 3D CGI",
+    "dried straw thatch roof texture and linear combed fibers — AI often renders uniform flat shingles",
+    "flocked textured autumn foliage and deeply grooved bark — AI often creates blurry mushy foliage blobs",
+    "miniature scale proportion between cottage, camper van, and chimney smoke — AI often miscalculates vehicle scale"
+  ]
+}

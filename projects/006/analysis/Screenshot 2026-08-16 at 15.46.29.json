@@ -1,0 +1,167 @@
+{
+  "___style_anchor": "Handcrafted tactile miniature diorama landscape photography — sculpted needle-felted sheep, miniature slate-roof stone cottages, and a steaming earthenware teapot on a sunlit grassy hillside with soft tilt-shift depth of field",
+  "visual_mood": {
+    "primary_feeling": "pastoral serenity, quiet rustic stillness, and nostalgic morning warmth",
+    "viewer_impression": "an immediate sense of peaceful countryside stillness, artisan miniature scale, and comforting tactile craftsmanship",
+    "narrative_subtext": "an idyllic morning in a miniature upland village where sheep graze quietly on rolling grassy slopes while hot tea steams in the crisp valley air"
+  },
+  "medium": {
+    "type": "handcrafted tactile miniature diorama photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical miniature craft materials — needle-felted wool fleece, sculpted matte polymer clay, glazed ceramic earthenware, and carved natural stone",
+    "backdrop_medium": "miniature diorama landscape with sculpted plaster-and-stone cottages and atmospheric physical smoke mist",
+    "render_stylization": "semi-stylized physical diorama with photorealistic natural daylight and authentic material physics",
+    "line_art_style": "no outlines — natural physical lighting, soft ambient occlusion, and tactile surface shading",
+    "craft_quality": "master artisan miniature set construction and macro studio cinematography",
+    "physical_material": "crimped sheep wool, sculpted matte clay, glazed ceramic, slate stone tiles, textured turf, and woven cotton",
+    "surface_specularity": "predominantly matte fibrous textures with soft satin glaze specularity on the terracotta teapot",
+    "texture_distress_finish": "weathered natural slate shingles, aged stone cottage masonry, organic woolen frizz, and rising translucent steam",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth high-gloss plastic",
+      "CGI polygon rendering",
+      "digital vector artifice",
+      "neon emissive glow",
+      "flat procedural noise"
+    ]
+  },
+  "design_register": "pastoral cottagecore miniature diorama, British Yorkshire Dales folk landscape",
+  "subject": {
+    "type": "pastoral highland hillside with grazing woolly sheep and a steaming foreground teapot",
+    "count": 1,
+    "spatial_distribution": "steaming teapot anchored on a rock in the extreme lower-left foreground; a herd of 12+ fluffy sheep distributed across the midground grassy slope; stone village terraced across the right mid-to-background",
+    "creature_anatomy": {
+      "species_and_morphology": "miniature Scottish Blackface and Swaledale domestic sheep with rounded spherical woolly bodies, slender black cylindrical legs, and black-and-white patterned heads",
+      "pelt_feather_scale_texture": "dense crimped off-white sheep wool fleece with natural fibrous clumping, soft micro-frizz, and tactile woolen density",
+      "distinguishing_color_patches": "creamy ivory woolen bodies contrasting with matte jet-black faces, white muzzle blazes, and black hooves",
+      "limb_and_claw_structure": "four slender matte-black cylindrical legs per animal, planted at natural grazing angles into the grass",
+      "facial_features_and_horns": "smooth matte-black sculpted clay heads with distinct white forehead and muzzle patches, small drooping black ears, hornless or subtle smooth curved horn buds",
+      "tail_and_motion_state": "stationary and slow grazing postures, heads lowered to the turf or turned gently toward the camera lens",
+      "size_scale_reference": "miniature sheep measuring approximately one-third the physical height of the foreground ceramic teapot"
+    },
+    "object_anatomy": {
+      "object_class_and_category": "traditional round earthenware tea kettle / teapot",
+      "form_geometry_3d": "bulbous spherical ceramic body with an arched loop handle, a fitted domed lid with a round knob finial, and a short upward-angled pouring spout",
+      "material_and_surface_breakdown": "warm ochre-terracotta glazed ceramic with smooth satin sheen, resting on a beige-and-brown checkered linen tea cloth atop a rough grey granite boulder",
+      "finish_and_engraving_treatment": "smooth unadorned earthy glaze with soft diffused daylight highlights",
+      "functional_usage_state": "actively piping hot, emitting delicate wisps of translucent white steam into the cool morning air",
+      "branding_and_label_design": "artisanal unbranded rustic pottery",
+      "scale_reference": "occupies approximately 12% of vertical frame height in the foreground lower-left corner"
+    }
+  },
+  "environment_anatomy": {
+    "biome_setting": "rolling pastoral highland hillside overlooking a terraced stone cottage village in a misty ravine",
+    "weather_and_precipitation_physics": "cool, calm morning with soft atmospheric fog settling in the valley and visible hot steam rising from the kettle",
+    "terrain_and_ground_surface": "sloping terrain covered in dense textured golden-green and straw-colored meadow grass interspersed with grey granite boulders",
+    "vegetation_density_and_species": "uniform low-cropped highland meadow grass and fine felted turf with subtle dry moss patches",
+    "architectural_structures": "a cascading row of traditional British stone cottages with pitched slate-tiled roofs, stone chimney stacks with chimney pots, wooden-framed multi-pane windows, and dry stone boundary walls",
+    "lighting_time_of_day": "early morning golden hour with soft diffused sunlight filtering through misty ambient haze",
+    "horizon_placement": "high horizon line at upper 15% of canvas showing pale hazy morning sky and distant rolling ridges",
+    "scale_cues": "dramatic tilt-shift perspective where foreground teapot scale contrasts with the miniature cascading village cottages"
+  },
+  "secondary_subject": {
+    "type": "miniature stone village with terraced cottages and stone chimney stacks",
+    "color_morph": "weathered slate grey roofs, oatmeal stone walls, and pale cyan-blue painted window frames and wooden doors",
+    "count_density": "a dense cluster of over 15 connected stone cottages descending along the valley slope",
+    "size_relative_to_primary": "progressively diminishing in scale from midground to distant background",
+    "spatial_distribution": "stretches diagonally from mid-right to upper-center background",
+    "facing_azimuth_deg": 225,
+    "pose_description": "static terraced architectural alignment stepping down the natural slope",
+    "priority_level": "midground and background environmental anchor"
+  },
+  "micro_features": [
+    "Delicate translucent steam wisps curling upward from the teapot lid and spout in the cool morning air",
+    "Fringed woven checkered tea cloth with soft fabric drape over the rough surface of the granite boulder",
+    "Individual tufts of crimped wool fibers catching subtle golden rim-lighting along the backs of the grazing sheep",
+    "Detailed clay chimney pots atop the slate roof ridges of the descending stone cottages",
+    "Soft atmospheric valley mist pooling in the ravine between the foreground grassy slope and distant hamlet",
+    "Dry stone field boundary walls meandering across the background hillsides",
+    "Tiny recessed multi-pane sash windows with subtle cool sky reflections on the cottage facades"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm-neutral 5200K soft golden morning wash with cool atmospheric valley haze",
+    "color_grading_intent": "warm pastoral British film palette with gentle contrast, earthy ochres, soft muted greens, and slate greys",
+    "global_saturation_level": "natural muted cinema grade (+0% boost) preserving earthy authenticity",
+    "environmental_split_toning": "warm golden-straw grass and amber teapot in foreground vs cool slate-grey stone and pale cyan mist in the valley",
+    "palette": [
+      { "name": "terracotta_amber", "hsl": "hsl(32, 70%, 50%)" },
+      { "name": "golden_straw_grass", "hsl": "hsl(48, 38%, 62%)" },
+      { "name": "ivory_fleece", "hsl": "hsl(42, 35%, 88%)" },
+      { "name": "slate_stone_grey", "hsl": "hsl(215, 12%, 48%)" },
+      { "name": "misty_valley_sky", "hsl": "hsl(50, 20%, 82%)" }
+    ],
+    "shadow_color": "soft muted charcoal with warm earthy brown undertones",
+    "highlight_color": "diffused golden-amber sunlight on grass crests and sheep wool",
+    "contrast_profile": "medium-low cinematic contrast with lifted shadow values and soft highlight rolloff",
+    "saturation_map": "highest saturation on the warm terracotta teapot; moderate natural saturation on the grass; desaturated atmospheric haze in the distance",
+    "skin_warmth_vs_env_contrast": "not applicable",
+    "color_temperature": "5200K balanced morning sunlight"
+  },
+  "lighting": {
+    "drama_level": "gentle, harmonious natural morning daylight",
+    "key_light": {
+      "azimuth_deg": 120,
+      "elevation_deg": 25,
+      "quality": "soft diffused morning sunlight casting long, gentle shadows across the grassy slope",
+      "color_temp_K": 4800
+    },
+    "fill_light": {
+      "azimuth_deg": 300,
+      "elevation_deg": 45,
+      "ratio": "1:3 soft ambient fill from the open misty morning sky"
+    },
+    "rim_light": {
+      "azimuth_deg": 110,
+      "elevation_deg": 20,
+      "surfaces": "top curve of the teapot lid and handle, upper contours of sheep wool fleece, and grass blade tips"
+    },
+    "ambient_bounce": "warm diffuse ground bounce from the golden-green meadow turf",
+    "special": "backlit translucent steam rising from the teapot forming luminous organic vapor wisps"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "dynamic diagonal hillside layout: foreground anchor at lower-left, sweeping diagonal meadow with sheep leading to midground terraced village and hazy background ridges",
+    "layer_stack_z_index": "Layer 0: Pale misty morning sky -> Layer 1: Distant hillside cottages -> Layer 2: Valley mist and terraced stone village -> Layer 3: Grassy slope with grazing sheep -> Layer 4: Foreground boulder, checkered cloth, and steaming teapot",
+    "framing_crop": "wide environmental landscape shot with macro tilt-shift staging",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "15% upper sky headroom; 5% lower ground clearance below foreground rock",
+    "frame_edge_clipping_and_bleed": "foreground boulder bleeds off the bottom-left edge; pastoral hills extend beyond left, right, and top borders",
+    "ground_pedestal": "weathered granite boulder acting as a natural rustic plinth for the tea cloth and kettle",
+    "camera_azimuth_deg": 35,
+    "subject_facing_azimuth_deg": 180,
+    "camera_elevation_deg": 15,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "foreground rock and lower-midground grazing sheep (X=10-65%, Y=40-95%)",
+      "blurred_zone": "upper-right background cottages and distant hazy hillsides",
+      "blur_strength": "subtle f/4.0 tilt-shift miniature depth rolloff"
+    },
+    "rule_of_thirds": "teapot positioned near the lower-left third intersection; terraced cottages align along the upper-right third axis",
+    "grid_and_accent_anchors": {
+      "construction_grid": "diagonal golden ratio composition sweeping from bottom-left teapot through midground sheep to upper-right cottages",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "rolling English or Scottish highland moors and a traditional stone cottage village",
+    "key_elements": "terraced stone houses, slate roofs, chimney stacks, dry stone walls, and distant grassy ridges in soft morning fog",
+    "layer_order": "foreground boulder -> hillside meadow with sheep -> stone cottage street -> valley mist -> distant highland ridge -> pale sky",
+    "background_density": "moderately dense architectural and topographic features fading softly into atmospheric haze",
+    "background_treatment": "soft atmospheric haze with gentle optical depth-of-field falloff"
+  },
+  "typography_and_graphic_elements": {
+    "__note": "Image contains no typographic text, watermarks, or graphic decals."
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, human figures, people, modern vehicles, asphalt roads, power lines, plastic toys, glossy CGI 3D render, cartoon, saturated neon colors, harsh flash lighting, futuristic technology",
+  "reconstruction_priority": [
+    "Sheep fleece tactile texture — AI typically renders sheep as smooth blurry blobs or uniform plastic spheres instead of fibrous crimped wool tufts",
+    "Steaming teapot on rock integration — AI often floats objects awkwardly or generates fake glowing steam instead of delicate translucent physical vapor",
+    "Miniature stone cottage architecture — AI tends to hallucinate generic modern buildings instead of authentic slate-roof Yorkshire/Cotswold terraced stone cottages with chimneys",
+    "Atmospheric valley mist depth — AI frequently flattens the background or creates opaque white fog walls without natural spatial separation"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet diorama photography — tactile claymation puppet postman in tweed flat cap and overcoat holding a wax-sealed letter in a snowy miniature European village street.",
+  "visual_mood": {
+    "primary_feeling": "joyful warmth, heartwarming nostalgia, and whimsical winter wonder",
+    "viewer_impression": "an instant feeling of delight and festive cheer, watching a friendly village postman deliver a precious letter amidst swirling snowflakes",
+    "narrative_subtext": "an enthusiastic elderly mail carrier joyfully presents an important sealed letter on a snowy winter morning in an alpine town"
+  },
+  "medium": {
+    "type": "physical miniature stop-motion puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical handcrafted puppet with matte polymer clay facial sculpt, sculpted fibrous beard texture, tailored wool tweed garments, and leather accessories",
+    "backdrop_medium": "handcrafted architectural diorama set featuring cobblestone street, timber-framed stone cottages, and warm miniature streetlamps",
+    "render_stylization": "stylized handcrafted diorama",
+    "line_art_style": "no outlines — tactile 3D volumetric physical shading, fine textural relief, and optical macro depth",
+    "craft_quality": "master artisan stop-motion diorama fabrication",
+    "physical_material": "matte polymer clay, woven wool tweed, coarse knitted mittens, genuine leather strap, kraft paper envelope, and cast wax seal",
+    "surface_specularity": "predominantly matte fibrous textiles and matte clay skin; semi-gloss sheen on the orange-red wax seal and leather bag strap",
+    "texture_distress_finish": "heavily snow-dusted tweed fabric, tactile slub yarn weave, hand-molded clay beard texture, and natural paper fiber grain",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "hyperrealistic digital skin pores",
+      "glossy 3D animation sheen",
+      "flat vector fills",
+      "digital particle overlays"
+    ]
+  },
+  "design_register": "whimsical European folk stop-motion miniature diorama",
+  "subject": {
+    "type": "elderly village mail carrier puppet presenting a wax-sealed envelope",
+    "count": 1,
+    "spatial_distribution": "centered in midground facing the camera directly",
+    "face": {
+      "archetype": "stylized elderly postman puppet character",
+      "skin_tone": "warm peachy cream with healthy rosy cheek undertones",
+      "skin_undertone_sss": "subtle warm peach clay undertone with soft diffuse scatter",
+      "skin_material_feel": "matte sculpted polymer clay with smooth hand-tooled facial planes and lively character modeling",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet with delicate dusting of snow crystals",
+      "face_exposure_pct": 85,
+      "facial_occlusion_boundaries": "upper forehead covered by tweed flat cap; lower cheeks, chin, and jawline framed by a sculpted white beard",
+      "face_paint": "subtle rosy flush on cheek apples and nose tip from the winter cold",
+      "face_volume": "elongated vertical sculptural planes with prominent aquiline nose, wide smiling cheeks, and expressive sculpted smile lines",
+      "forehead_and_skin_planes": "smooth sculpted forehead visible beneath cap brim with gentle raised brow arches",
+      "face_shape_silhouette": "elongated oval with prominent stylized ears and textured pointed beard framing",
+      "cheek_contour_and_fullness": "plump raised cheek apples engaging with the wide joyful smile",
+      "jaw_and_chin_geometry": "tapered jaw surrounded by sculpted white beard fringe with pointed downward tufts",
+      "head_cranial_shape": "rounded cranium fitted snugly beneath a textured flat cap",
+      "head_pitch_deg": -2,
+      "interpupillary_spacing_and_eye_span": "proportional standard puppet eye spacing with wide engaging gaze",
+      "palpebral_fissure_and_canthal_tilt": "wide-open rounded almond eyes with crinkled smiling outer corners and raised upper eyelids",
+      "eyes": "glossy dark bead-like irises with crisp white catchlights looking straight forward at the viewer with infectious warmth",
+      "nose": "prominently long stylized aquiline nose with smooth straight bridge and softly rounded downward-pointing tip",
+      "ears": "large stylized horizontally flaring ears with sculpted rims protruding symmetrically beneath the flat cap",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "wide open smiling mouth revealing upper row of clean sculpted white puppet teeth",
+      "mouth": "broad joyful open-mouthed grin radiating enthusiasm and good news",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "elongated stylized nose, large expressive ears, pointed sculpted beard, and oversized wool-gloved hands holding the letter",
+      "proportions": {
+        "character_proportions_type": "stylized 4.5-head stop-motion puppet caricature",
+        "head_pct": "24%",
+        "torso_pct": "42%",
+        "legs_pct": "34%",
+        "shoulder_width": "1.35x head width",
+        "body_type": "slender elderly mailman frame bundled warmly in layered winter woolens",
+        "torso_girth_and_frailty": "slender torso draped in a thick tweed overcoat and inner wool vest",
+        "silhouette_rigidity_and_geometry": "upright triangular stance framed by shoulders, diagonal leather strap, and horizontally held letter",
+        "textile_stiffness_and_hang": "heavy textured wool tweed overcoat with structured shoulders and dense snow accumulation on fabric crown",
+        "limb_thickness_archetype": "slender articulated puppet armature arms ending in chunky knitted winter mittens",
+        "neck_morphology": "short neck enclosed snugly inside a high stand-up coat collar",
+        "neck_length_and_exposure": "neck fully concealed within collar and beard fringe",
+        "hands_and_fingers": "chunky knitted heather-grey wool mittens with articulated thumbs gripping both sides of the envelope"
+      },
+      "height_ratios": "character occupies 70% of vertical frame height in medium portrait framing",
+      "silhouette": "charming vertical humanoid silhouette crowned by flat cap with flared ears and central horizontal letter prop",
+      "pose": {
+        "stance_type": "upright frontal standing pose presenting mail to the recipient",
+        "weight_distribution": "balanced 50/50 stance centered in the cobblestone street",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 2,
+        "spine_curvature": "straight upright posture with energetic slight forward lean",
+        "left_arm_pose": "left forearm raised with knitted mitten gripping the left edge of the envelope",
+        "right_arm_pose": "right forearm raised with knitted mitten gripping the right edge of the envelope",
+        "leg_and_feet_stance": "standing in snow-covered street; lower legs occluded below waist",
+        "pose_energy": "enthusiastic, cheerful, and welcoming"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing directly on snow-covered cobblestone village path",
+        "leg_dangle_dynamics": "lower body out of frame below waist",
+        "torso_lean_and_posture": "straight upright posture with joyful presentation gesture"
+      },
+      "hand_pose_interaction": "both hands in coarse knitted wool mittens holding the rectangular envelope firmly on its left and right margins, displaying the wax seal prominently toward the camera",
+      "prop_interaction": "holding and proudly presenting a rustic paper mail envelope sealed with orange-red wax",
+      "prop_asymmetry_load": "symmetrical two-handed horizontal grip at mid-chest level",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "silvery white and light ash grey",
+      "style": "sculpted textured beard and mustache framing jawline in spiky pointed fringe",
+      "ahoge_cowlick": "head hair concealed under cap; beard terminates in multiple sharp sculpted downward points",
+      "hair_texture_type": "stylized carved clay texture with fine combed grooved lines",
+      "hair_sculptural_form": "neatly sculpted beard and mustache ring encircling the mouth and jaw with pointed stylized tips",
+      "volume_density": "dense structured clay volume",
+      "direction": "flowing downward and outward along jawline perimeter",
+      "dominant_zone": "jawline, chin, and upper lip",
+      "updo_containment": "scalp hair fully tucked beneath flat cap",
+      "accessories": ""
+    },
+    "outfit": {
+      "headwear_or_eyewear": "charcoal-navy textured tweed newsboy / flat cap with structured brim and heavy dusting of white snow crystals on top",
+      "outerwear_and_upper": "heavy charcoal-blue melange wool tweed overcoat with stand-up collar, tailored lapels, and visible dark buttons",
+      "textile_material_and_gloss": "dense tactile wool tweed with visible slub yarn weave, coarse heather-grey knitted mittens, and natural vegetable-tanned leather",
+      "vest_and_inner_layers": "oatmeal-tan tweed buttoned waistcoat visible at chest placket beneath open coat",
+      "mailbag_and_straps": "rich tan leather messenger mailbag strap running diagonally from right shoulder to left hip, supporting a leather mail satchel at the hip",
+      "gloves_and_handwear": "chunky knitted heather-grey/brown wool winter mittens with ribbed cuffs holding the letter",
+      "lower_garment_and_drape": "occluded below waistline",
+      "footwear_and_soles": "out of frame",
+      "jewelry_and_accessories": "brass buckle/rivet hardware on the leather mailbag strap"
+    },
+    "silhouette_clipping_and_slicing": {
+      "is_silhouette_container": false,
+      "slice_orientation": "none",
+      "internal_slices_sequence": []
+    }
+  },
+  "secondary_subject": {
+    "type": "wax-sealed mail envelope",
+    "color_morph": "warm kraft/cream paper with bright reddish-orange circular wax seal stamp",
+    "count_density": "1 prominent handheld postal envelope",
+    "size_relative_to_primary": "handheld letter scale (approx. 15cm x 10cm miniature prop)",
+    "spatial_distribution": "centered directly at mid-chest level between the two mittens",
+    "facing_azimuth_deg": 0,
+    "pose_description": "held horizontally flat facing the viewer with sealed flap and wax emblem clearly visible",
+    "priority_level": "critical narrative focal prop"
+  },
+  "micro_features": [
+    "crystalline snow powder gathered thickly on the crown of the tweed flat cap and coat shoulders",
+    "embossed circular relief symbol stamped into the glossy orange-red wax seal on the envelope flap",
+    "faint delicate cursive handwritten text lines and postal markings on the paper envelope face",
+    "individual knitted yarn loops and heathered color flecks on the grey wool mittens",
+    "large stylized snowflakes floating in atmospheric suspension with varied optical defocus sizes",
+    "warm glowing incandescent lanterns along the snowy European village street casting golden pools of light",
+    "carved combed texture grooves in the white clay beard framing the wide cheerful smile"
+  ],
+  "color_grading": {
+    "overall_color_cast": "cool 5900K wintry overcast slate ambience balanced with warm 2600K glowing amber streetlamps and cheerful rosy accents",
+    "color_grading_intent": "warm and charming European holiday folk stop-motion grading with rich textural contrast",
+    "global_saturation_level": "balanced natural palette with vivid pops of orange-red on the wax seal and golden lantern glows",
+    "environmental_split_toning": "cool slate-blue and snowy white background street vs warm amber cottage window lights and warm clay face",
+    "palette": [
+      { "name": "Charcoal Heather Tweed", "hsl": "hsl(215, 25%, 26%)" },
+      { "name": "Kraft Paper Tan", "hsl": "hsl(35, 38%, 68%)" },
+      { "name": "Wax Seal Vermilion", "hsl": "hsl(18, 88%, 52%)" },
+      { "name": "Lantern Glow Amber", "hsl": "hsl(42, 95%, 56%)" },
+      { "name": "Warm Clay Peach", "hsl": "hsl(28, 42%, 78%)" },
+      { "name": "Wintry Cobalt Snow", "hsl": "hsl(214, 22%, 84%)" }
+    ],
+    "shadow_color": "deep charcoal navy and cool umber in coat folds and alley shadows",
+    "highlight_color": "bright golden-amber reflections in window glass and clean cool white on snow-capped surfaces",
+    "contrast_profile": "medium-high dynamic range with crisp foreground subject clarity and soft atmospheric background roll-off",
+    "saturation_map": "highest in wax seal and glowing lantern orbs; moderate across face and leather; desaturated across snowy buildings",
+    "skin_warmth_vs_env_contrast": "cheerful warm peachy clay face contrasts strikingly with the cool wintry streetscape",
+    "color_temperature": "dual-temperature split (5900K outdoor snow cool vs 2600K interior/lamp amber warmth)"
+  },
+  "lighting": {
+    "drama_level": "bright, cheerful, and atmospheric winter daylight illumination",
+    "key_light": {
+      "azimuth_deg": 15,
+      "elevation_deg": 30,
+      "quality": "soft diffused cool daylight illuminating the face, cap brim, and letter frontally",
+      "color_temp_K": 5600
+    },
+    "fill_light": {
+      "azimuth_deg": -30,
+      "elevation_deg": 15,
+      "ratio": "1:2 gentle ambient fill across coat fabric and mittens"
+    },
+    "rim_light": {
+      "azimuth_deg": 170,
+      "elevation_deg": 40,
+      "surfaces": "delicate edge highlight rimming the cap crown, ears, and shoulder seams"
+    },
+    "ambient_bounce": "cool white diffuse bounce from the snow-covered cobblestone street onto the coat and leather bag",
+    "special": "warm glowing streetlamps and cottage window lanterns creating multiple golden bokeh circles lining both sides of the street"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "central 45% postman character presenting letter; left and right 27.5% flanking snow-covered cottage facades and glowing lanterns; upper 25% winter sky and falling snowflakes",
+    "layer_stack_z_index": "Layer 0: Vanishing point perspective of snowy village street -> Layer 1: Timber-framed cottages and glowing lanterns on both flanks -> Layer 2: Midground falling snow particles -> Layer 3: Postman puppet character -> Layer 4: Wax-sealed envelope held in foreground mittens",
+    "framing_crop": "medium portrait shot framed symmetrically down the center of the village street",
+    "subject_vertical_fill_pct": 70,
+    "headroom_and_ground_clearance": "15% upper headroom between cap crown and top frame edge; bust framed to lower waist",
+    "frame_edge_clipping_and_bleed": "cottage eaves and streetlamp posts bleed off left and right canvas edges; leather satchel partially clipped at bottom-right",
+    "ground_pedestal": "snow-covered cobblestone street receding toward vanishing point behind subject",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 0,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "postman face, flat cap, tweed coat, mittens, and wax-sealed letter",
+      "blurred_zone": "background cobblestone street, timber buildings, and distant lanterns",
+      "blur_strength": "moderate shallow depth of field (approx. f/2.8 on macro format) with soft circular light bokeh"
+    },
+    "rule_of_thirds": "subject's face positioned at upper-center third; wax-sealed letter anchored at central intersection; glowing streetlamps aligned with flanking vertical thirds",
+    "grid_and_accent_anchors": {
+      "construction_grid": "strong central vertical symmetry reinforced by two receding perspective lines of cottage facades toward center background",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "quaint European alpine village street lined with traditional timber-framed stone cottages during a snowfall",
+    "key_elements": "receding cobblestone street blanketed in snow, glowing amber cottage windows, cast-iron streetlamp posts, gabled slate roofs with heavy snow drifts, swirling snowflakes",
+    "layer_order": "postman with letter -> falling snowflakes -> streetlamp posts and stone cottage facades -> receding snowy street perspective",
+    "background_density": "richly layered architectural diorama detailing with warm welcoming light pockets",
+    "background_treatment": "soft atmospheric defocus creating gentle bokeh discs from warm window lights and streetlamps"
+  },
+  "typography_and_graphic_elements": {
+    "__note": "Diegetic postal markings on the handheld envelope only.",
+    "primary_headline": {
+      "text_content": "",
+      "typeface_morphology": "",
+      "spatial_zone_and_span": "",
+      "color_field_continuity": "",
+      "z_index_occlusion": ""
+    },
+    "secondary_metadata_text": {
+      "text_content": "faint handwritten cursive postal script markings on envelope face",
+      "spatial_anchoring": "inscribed across the upper and middle quadrant of the kraft paper envelope above the wax seal"
+    },
+    "graphic_badges_and_decals": [
+      "circular orange-red wax seal stamped with an embossed stylized crest emblem centered on envelope flap"
+    ]
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI plastic skin, glossy 3D render sheen, digital cartoon, photorealistic human skin pores, smooth digital art, deformed mittens, modern postal van, asphalt road, neon lights, oversaturated colors",
+  "reconstruction_priority": [
+    "tactile stop-motion clay facial sculpture with broad joyful smile, prominent aquiline nose, and stylized pointed beard — AI often turns joyful expression into distorted or generic CGI teeth",
+    "handcrafted tweed flat cap and melange wool overcoat with fine crystalline snow dusting — AI tends to melt snow into blurry white paint strokes",
+    "detailed kraft paper envelope with stamped orange-red wax seal held in knitted mittens — AI frequently malforms wax seal geometry or mangles mitten thumbs",
+    "atmospheric European village street with warm incandescent lantern bokeh contrasting with cool falling snow — AI risks flattening the depth perspective"
+  ]
+}

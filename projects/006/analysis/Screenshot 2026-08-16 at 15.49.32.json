@@ -1,0 +1,235 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — tactile physical miniature diorama with sculpted matte polymer clay elderly female puppet, fine rooted mohair fiber hair tied with ribbon, hand-knitted wool sweater vest over woven linen shirt, and macro cinematography on a weathered wooden bakery/general store counter",
+
+  "visual_mood": {
+    "primary_feeling": "grandmotherly tenderness, rustic artisanal warmth, quiet delight, and domestic nostalgia",
+    "viewer_impression": "an intimate, heartwarming moment of an elderly shopkeeper or grandmother lovingly wrapping or inspecting a small brown paper bag on a rustic wooden counter",
+    "narrative_subtext": "an elderly artisan baker or shopkeeper puppet smiling warmly as she carefully handles a freshly packed parcel of baked goods for a beloved customer"
+  },
+
+  "medium": {
+    "type": "physical stop-motion puppet photography with handcrafted miniature interior shop set and practical macro lens",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated stop-motion puppet with matte sculpted polymer clay skin, hand-rooted fine silver fiber hair, and bespoke miniature knitted/woven garments",
+    "backdrop_medium": "physical miniature general store/bakery interior featuring weathered timber countertops, rustic wooden shelving with ceramic jars, and soft optical defocus",
+    "render_stylization": "semi-stylized puppet realism with gentle folk caricature",
+    "line_art_style": "no outlines — pure physical 3D form, soft clay sculpting contours, and optical depth-of-field blur",
+    "craft_quality": "master artisan stop-motion studio puppet fabrication and miniature set construction",
+    "physical_material": "matte polymer clay, synthetic mohair fibers, crinkled kraft paper, chunky knitted yarn, woven linen, and aged pine wood",
+    "surface_specularity": "predominantly matte fibrous textiles, dry paper, and satin clay skin with subtle sheen on tiny ceramic stud earring",
+    "texture_distress_finish": "authentic clay skin tooling texture, delicate knitwear loop gauge, crinkled paper creasing, and distressed weathered wood grain",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D subsurface scattering sheen",
+      "flat vector fills",
+      "procedural clean surfaces",
+      "photorealistic human skin pores"
+    ]
+  },
+
+  "design_register": "rustic European folk bakery diorama, cozy stop-motion artisanal character study",
+
+  "subject": {
+    "type": "elderly female puppet leaning forward over a rustic wooden shop counter",
+    "count": 1,
+    "spatial_distribution": "seated/leaning in midground slightly left of center, interacting with a small paper bag placed on the counter",
+
+    "face": {
+      "archetype": "gentle caricatured elderly grandmother puppet with affectionate smiling demeanor",
+      "skin_tone": "warm pale porcelain-beige with soft peach clay undertones",
+      "skin_undertone_sss": "subtle clay translucency with warm natural blush along the cheekbones and nose",
+      "skin_material_feel": "matte sculpted polymer clay with delicate sculpted laugh lines and forehead wrinkles",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "matte velvet with soft satin highlight on nasal tip and forehead",
+      "face_exposure_pct": 90,
+      "facial_occlusion_boundaries": "upper cranial dome framed by parted silver hair and fabric ribbon; neck framed by shirt collar",
+      "face_paint": "delicate airbrushed rosy warmth on cheeks and subtle warm grey contouring in facial creases",
+      "face_volume": "elongated slender facial structure with prominent high cheekbones and delicate chin",
+      "forehead_and_skin_planes": "sculpted gentle horizontal brow creases and radial crows-feet expressing genuine joyful age",
+      "face_shape_silhouette": "tapered oval-triangular silhouette tapering gracefully to a soft rounded chin",
+      "cheek_contour_and_fullness": "slender sculpted cheeks with prominent zygomatic smile lines lifting the corners of the mouth",
+      "jaw_and_chin_geometry": "delicate narrow jawline with soft chin tucked forward in an affectionate lean",
+      "head_cranial_shape": "rounded cranial dome crowned with neatly styled swept-back silver hair",
+      "head_pitch_deg": 25,
+      "interpupillary_spacing_and_eye_span": "proportional stylized spacing with deep sculpted orbital sockets",
+      "palpebral_fissure_and_canthal_tilt": "crinkled almond-shaped smiling eyes with downward gaze directed at the paper bag",
+      "eyes": "dark glossy pupil beads set deep beneath soft sculpted eyelids, filled with warmth and focus",
+      "nose": "prominent elongated curved nose with a slender bridge, delicate nostrils, and rounded tip",
+      "ears": "sculpted C-shaped ear with a tiny circular stud earring on the visible left lobe",
+      "lip_geometry_and_philtrum": "thin sculpted lips curved into an affectionate open-mouthed smile showing dark oral cavity",
+      "mouth": "warm open-mouthed smile expressing loving attentiveness and contentment",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "slender elongated neck and delicate articulated puppet arms leaning over an oversized rustic wooden countertop",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet (approximately 5-head ratio)",
+        "head_pct": "30%",
+        "torso_pct": "40%",
+        "legs_pct": "30% (occluded behind counter)",
+        "shoulder_width": "narrow and delicate (approx 1.2x head width)",
+        "body_type": "slender elderly woman puppet with gentle stoop",
+        "torso_girth_and_frailty": "frail slender puppet armature padded by cozy knitted wool vest",
+        "silhouette_rigidity_and_geometry": "graceful forward diagonal lean toward the center-right table plane",
+        "textile_stiffness_and_hang": "soft textured knitwear conforming naturally over puppet shoulders and chest",
+        "limb_thickness_archetype": "slender articulated clay/wire arms with delicate hands",
+        "neck_morphology": "elongated slender neck with subtle sculpted sternocleidomastoid lines",
+        "neck_length_and_exposure": "moderately exposed, emerging gracefully from blue shirt collar",
+        "hands_and_fingers": "sculpted matte clay hands with slender articulated fingers resting gently on counter and paper bag"
+      },
+      "height_ratios": "primary subject occupying upper-left two-thirds of the vertical frame",
+      "silhouette": "dynamic diagonal upper-body silhouette anchored by the horizontal wooden counter edge",
+      "pose": {
+        "stance_type": "leaning forward over wooden shop counter",
+        "weight_distribution": "supported by right forearm resting on counter and left hand delicately touching paper bag",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 12,
+        "spine_curvature": "gentle forward thoracic curve leaning toward the small package",
+        "left_arm_pose": "left forearm angled forward, fingertips delicately folding or steadying the top of the paper bag",
+        "right_arm_pose": "right arm resting flat along the weathered counter surface with relaxed open fingers",
+        "leg_and_feet_stance": "occluded behind solid wooden counter",
+        "pose_energy": "gentle, focused, loving attentiveness"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing/leaning behind rustic wooden shop counter",
+        "leg_dangle_dynamics": "occluded",
+        "torso_lean_and_posture": "forward lean of approximately 25 degrees"
+      },
+      "hand_pose_interaction": "delicate tactile interaction with the miniature crinkled kraft paper bag",
+      "prop_interaction": "handling paper bag amidst background jars and foreground bakery display items",
+      "prop_asymmetry_load": "left hand elevated at bag top, right hand resting flat on counter",
+      "weapon_morphology": "none"
+    },
+
+    "hair": {
+      "color": "silvery-white with delicate off-white and soft grey fiber highlights",
+      "style": "center-parted and swept back into a soft gathered bun/chignon secured with a rustic ochre-peach fabric ribbon bow",
+      "ahoge_cowlick": "fine wispy flyaway strands at the crown and temples",
+      "hair_texture_type": "fine synthetic mohair fiber with authentic soft tactile fuzz",
+      "hair_sculptural_form": "soft contoured volumes framing the forehead and ears, pulled back smoothly",
+      "volume_density": "moderate natural density with fine airy edges",
+      "direction": "swept backward from forehead toward crown",
+      "dominant_zone": "cranial dome and occipital bun",
+      "updo_containment": "tied with a miniature frayed ochre-peach woven fabric bow",
+      "accessories": "fabric hair ribbon and tiny ear stud"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "miniature ochre-peach textile hair bow tied at the crown; tiny circular ear stud",
+      "outerwear_and_upper": "cozy sleeveless oatmeal/beige knitted wool sweater vest with intricate loop-stitch pattern and ribbed armholes",
+      "inner_shirt_layer": "dusty slate-blue woven cotton/linen collared shirt with rolled-up cuffs at mid-forearm",
+      "textile_material_and_gloss": "100% matte natural fibers — chunky wool yarn, wrinkled linen, and raw kraft paper with zero specular gloss",
+      "collar_and_neckline_topology": "neat turned-down shirt collar framed by the low V-neck/scoop of the knitted vest",
+      "cuff_and_sleeve_structure": "three-quarter sleeves with neat folded cuffs resting above slender clay forearms",
+      "tabletop_props_and_curios": "crinkled miniature kraft paper bag standing centrally on counter; rustic wicker basket with woven fibers on left; plate of golden miniature baked bread rolls on right",
+      "jewelry_and_accessories": "subtle silver-toned stud earring"
+    }
+  },
+
+  "micro_features": [
+    "Delicate sculpted crow's feet and smile furrows around the grandmother's eyes expressing genuine warmth",
+    "Individual yarn stitch loops clearly defined in the hand-knitted oatmeal sweater vest",
+    "Crinkled fibrous texture and sharp fold creases on the miniature brown kraft paper bag",
+    "Weathered, cracked, and chipped paint patina on the aged wooden counter edge",
+    "Softly blurred background shelving showing silhouettes of miniature ceramic pots and glass jars",
+    "Tiny golden baked bread rolls resting on a plate at the far right edge of the counter"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm rustic 3400K natural interior daylight with rich oatmeal, slate blue, honey wood, and warm clay tones",
+    "color_grading_intent": "wholesome, comforting stop-motion palette with organic warmth and gentle shadow gradation",
+    "global_saturation_level": "moderate natural saturation with harmonious slate-blue and ochre-peach accents against warm wood and cream knitwear",
+    "environmental_split_toning": "soft warm umber background shadows balanced with soft creamy daylight highlights on face and counter",
+    "palette": [
+      { "name": "oatmeal knit beige", "hsl": "hsl(35, 30%, 75%)" },
+      { "name": "slate blue linen", "hsl": "hsl(205, 30%, 42%)" },
+      { "name": "ochre peach ribbon", "hsl": "hsl(28, 65%, 62%)" },
+      { "name": "weathered timber grey-brown", "hsl": "hsl(25, 20%, 40%)" },
+      { "name": "kraft paper tan", "hsl": "hsl(35, 45%, 65%)" },
+      { "name": "porcelain clay cream", "hsl": "hsl(35, 35%, 85%)" }
+    ],
+    "shadow_color": "deep warm umber and muted grey-brown",
+    "highlight_color": "soft warm cream-gold",
+    "contrast_profile": "medium-soft cinematic contrast preserving delicate fabric textures and skin subtleties",
+    "saturation_map": "highest on hair ribbon and blue shirt, balanced on clay skin and knit vest, muted on wooden background",
+    "skin_warmth_vs_env_contrast": "luminous warm clay skin and white hair separating cleanly from the muted shop interior",
+    "color_temperature": "warm natural 3400K interior lighting"
+  },
+
+  "lighting": {
+    "drama_level": "warm, gentle, comforting artisanal scene lighting",
+    "key_light": {
+      "azimuth_deg": -45,
+      "elevation_deg": 35,
+      "quality": "soft diffused directional daylight from upper-left window illuminating the face, hair crown, and paper bag",
+      "color_temp_K": 3500
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 15,
+      "ratio": "1:3 soft fill maintaining gentle sculptural depth in cheek hollows and collar folds"
+    },
+    "rim_light": {
+      "azimuth_deg": 160,
+      "elevation_deg": 40,
+      "surfaces": "delicate backlight catching the wispy silver hair fibers and the top curve of the hair ribbon"
+    },
+    "ambient_bounce": "warm diffuse upward bounce from the light wooden counter onto the chin and hands",
+    "special": "soft specular catchlights in glossy pupil beads"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "lower 25% weathered wooden counter spanning full width; middle 55% puppet subject leaning rightward; upper 20% soft blurred shop shelves",
+    "layer_stack_z_index": "Layer 0: blurred bakery shelf backdrop -> Layer 1: elderly woman puppet -> Layer 2: wooden counter with basket, paper bag, and bread plate in crisp focus",
+    "framing_crop": "medium shot framed from waist/counter level up",
+    "subject_vertical_fill_pct": 70,
+    "headroom_and_ground_clearance": "12% headroom above hair ribbon; lower body occluded below waist by counter",
+    "frame_edge_clipping_and_bleed": "counter and bakery items span across both lateral edges; subject's back cropped slightly on left",
+    "ground_pedestal": "heavy weathered timber counter with distressed wooden texture",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 45,
+    "camera_elevation_deg": -5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "crisp focus on puppet's smiling face, knitted sweater vest, hands, and the kraft paper bag",
+      "blurred_zone": "soft progressive optical blur across the background shop shelves and jars",
+      "blur_strength": "f/2.8 optical depth of field with smooth creamy background bokeh"
+    },
+    "rule_of_thirds": "subject's face and eyes aligned near the upper-left third; paper bag placed near lower-center third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "horizontal framing division anchored by the straight line of the wooden counter",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "rustic artisanal bakery or village pantry interior",
+    "key_elements": "wooden shelving units, ceramic storage jars, glass bottles, warm neutral wall tones in soft focus",
+    "layer_order": "distant blurred shop wall -> intermediate pantry shelves -> foreground counter with props and subject",
+    "background_density": "moderate density with cozy domestic atmosphere",
+    "background_treatment": "cinematic macro defocus creating a soft, warm ambiance"
+  },
+
+  "typography_and_graphic_elements": {
+    "__note": "No text, typography, logos, or graphic badges present in the image."
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, digital 3D render, Pixar style, Disney style, photorealistic human skin, young girl, modern plastic packaging, neon lighting, deformed hands",
+
+  "reconstruction_priority": [
+    "tactile stop-motion puppet materials (matte polymer clay skin with delicate hand-sculpted smile lines, real knitted wool vest texture, fine mohair hair) — AI often renders generic 3D CGI or smooth plastic",
+    "gentle caricatured grandmotherly expression with elongated neck, smiling almond eyes, and curved nose — AI tends to normalize into standard anime or photorealistic human face",
+    "intricate miniature props (crinkled kraft paper bag, rustic wooden counter with chipped paint, miniature bread plate) — AI often hallucinates modern plastic items",
+    "warm, wholesome 3400K natural interior lighting with soft cinematic bokeh — AI often introduces harsh digital HDR or oversaturated artificial colors"
+  ]
+}

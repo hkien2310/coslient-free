@@ -1,0 +1,203 @@
+# PROJECT 003 — 100 PROMPTS ANIMATE VIDEO (IMAGE-TO-VIDEO / I2V)
+# Tối ưu hóa cho Kling AI, Luma Dream Machine, Runway Gen-3, Hailuo / MiniMax, Sora, Pika
+# Công thức: Camera Movement + Stop-Motion Puppet Micro-Movement + Environmental Lighting Motion
+
+1. Cinematic slow macro push-in camera, tactile stop-motion puppet micro-movement, little bucket knight standing at the base of giant stone cliff, looking up as its matte iron bucket helmet tilts upward slowly, coarse brown tunic fluttering in misty mountain breeze, soft atmospheric daylight, stop-motion feel, no morphing
+
+2. Macro tracking shot panning right slowly, little bucket knight's hand-stitched leather boots taking a deliberate step forward on mossy pebbles, coarse linen tunic rustling gently, soft natural daylight shifting across organic textures, 24fps stop-motion diorama motion
+
+3. Slow cinematic macro dolly shot, little bucket knight walking steadily past the ancient terracotta dragon fossil embedded in plaster stone, matte bucket helmet reflecting soft ambient light, lichen and moss textures, organic tactile stop-motion animation
+
+4. Eye-level slow camera tilt up, little bucket knight standing before the giant stone staircase, small gauntleted hands clutching its tunic hem then slowly relaxing, helmet tilting up toward the massive steps, subtle natural wind haze, stop-motion puppet feel
+
+5. Cinematic slow tracking shot, little bucket knight carefully balancing and walking across the rustic wooden plank bridge, coarse brown tunic and leather belt fluttering in wind, fog drifting slowly through canyon gap below, smooth macro motion
+
+6. High-speed macro freeze frame with subtle motion, broken wooden plank snapping, little bucket knight falling mid-air with tunic billowing upward, tiny leather boots kicking gently, soft background haze shifting, dramatic stop-motion action
+
+7. Slow cinematic push-in focus, little bucket knight sitting up gently after landing on soft green moss, small leather pouch resting beside it, helmet shaking off dust with a subtle micro-head-turn, soft warm sunlight filtering through, peaceful animation
+
+8. Heroic macro pan up, little bucket knight standing up proudly on the mossy rock, small gauntlets dusting off its brown burlap tunic, then reaching up to fix the leather chin strap of its bucket helmet, natural morning sunlight, confident stop-motion posture
+
+9. Close-up macro shot, camera zooming in slowly, little bucket knight planting a small dry wooden twig into green moss to mark its path, hand-stitched leather boots shifting on stone, soft morning light filtering through leaves, organic tactile motion
+
+10. Cinematic slow lateral tracking pan, little bucket knight walking past massive weathered driftwood golem statues, tunic fluttering, small authentic dent on bucket helmet catching warm afternoon sun reflection, atmospheric diorama animation
+
+11. Slow macro water refraction pan, little bucket knight wading across crystal-clear shallow pebble stream, water ripples glinting over submerged rusted brass clockwork gears, coarse brown tunic hem soaking wet, organic water physics stop-motion
+
+12. Dramatic macro dolly zoom, little bucket knight stepping along narrow ledge beside huge antique copper compass dial embedded in cliff, wind rustling coarse woven tunic, soft atmospheric haze drifting slowly past, cinematic camera motion
+
+13. Dynamic eye-level tracking shot, little bucket knight jumping courageously across floating stone fragments suspended over thick cloud haze, tunic billowing dramatically, golden hour sunlight shifting, smooth 24fps stop-motion flight momentum
+
+14. Macro rain camera pan, little bucket knight standing steadfast under gentle rain, glistening water droplets running down matte iron bucket helmet and coarse linen tunic, overcast ambient light, hyper-realistic water droplets micro-animation
+
+15. Intimate slow camera zoom in, little bucket knight sitting quietly on high rock ledge overlooking clouds, boot resting on mossy stone with green moss specks, bare cloth hand adjusting pouch, peaceful warm sunlight filtering through cloud haze
+
+16. Low-angle dynamic action tracking, little bucket knight mid-leap over deep canyon gap between monoliths, bucket helmet reflecting brilliant sun flare, tunic billowed wide, stop-motion animation freeze frame with subtle camera move
+
+17. Inspiring slow pan up, little bucket knight taking final step onto mountain summit beside tiny green plant sprout, helmet looking toward rising sun, golden morning light shifting across stone, courageous stop-motion composition
+
+18. Triumphant macro camera tilt up, little bucket knight raising small wooden twig high in gauntlet atop mountain peak, tunic and belt fluttering in strong peak winds, golden sun rays breaking through mountain clouds, epic cinematic motion
+
+19. Wide cinematic macro pan, little bucket knight standing proudly on summit ledge, using gauntlet to brush dust off tunic sleeve, bucket helmet visor slot looking out over distant mountain horizon, warm natural sunlight shifting
+
+20. Cinematic wide tracking shot from behind, little bucket knight standing atop high stone cliff edge, two small gauntlets adjusting bucket helmet, soft twilight rolling clouds drifting across horizon, serene stop-motion finale
+
+21. Slow camera push-in, little bucket knight standing before giant antique brass hourglass, pale sand trickling down inside glass tube like a tiny waterfall, tunic fluttering in soft morning breeze, tactile diorama animation
+
+22. Eye-level macro tracking shot, little bucket knight walking carefully along unrolled giant paper scroll map bridge over foggy canyon, boots treading on hand-drawn map lines, helmet tilted down, warm natural sunlight shifting
+
+23. Close-up macro pan, little bucket knight placing small riveted leather gauntlet on cool metal of giant tarnished brass steam whistle in mossy rocks, bucket helmet reflecting soft ambient light, subtle breathing movement
+
+24. Slow shadow-tracking shot, little bucket knight walking past massive carved slate sundial, sundial shadow stretching long across mossy stone, crisp afternoon sunlight shifting, tactile diorama motion
+
+25. Cozy macro camera zoom in, little bucket knight sheltering under canopy of giant dry brown oak leaf, water droplets dripping from leaf edges in light mist shower, warm cozy ambient daylighting micro-animation
+
+26. Low-angle slow tilt up, little bucket knight climbing up thick braided hemp rope ladder hanging from driftwood wall, boots stepping on knots, bucket helmet looking upward, warm sunbeams shifting across wood textures
+
+27. Cinematic macro pan, little bucket knight walking under surreal stone archway shaped like giant stone hands reaching upward, tunic fluttering, atmospheric fog drifting slowly through arch, dramatic scale animation
+
+28. Extreme macro focus pull, little bucket knight leaning over giant glistening dewdrop on moss, bucket helmet reflection stretching on curved water surface, soft morning sunlight shifting, organic water refraction motion
+
+29. Atmospheric camera tracking pan, little bucket knight walking through field of giant drifting dandelion clock seeds floating like parachutes, golden hour sunlight filtering through floating fluff, magical stop-motion feel
+
+30. Inspiring wide cinematic pan, little bucket knight standing atop cliff next to blooming mountain wildflower, gauntlet resting on belt, looking out toward chain of floating stone islands, soft warm sunset light shifting
+
+31. Macro close-up pan, little bucket knight placing small leather gauntlet over carved glyph of giant cracked terracotta shield in moss, bucket helmet looking down attentively, soft morning sunlight shifting
+
+32. Eye-level slow tracking pan, little bucket knight carefully walking across narrow suspension bridge of giant interlocking ornate brass keys over misty abyss, tunic fluttering, tiny boots stepping firmly, smooth motion
+
+33. Cozy macro camera pan inside, little bucket knight sitting inside hollow weathered driftwood trunk, warm sunbeam shining through knot hole, leather pouch resting on knees, peaceful campfire-like lighting motion
+
+34. Slow macro tilt down, little bucket knight stepping over glass face of giant antique pocket watch in sand, internal golden gears static, bucket helmet catching soft sky reflection, tactile diorama move
+
+35. Macro dolly shot, little bucket knight walking through forest of giant unglazed terracotta mushrooms with green moss caps, helmet tilted up, coarse tunic rustling, soft diffused morning light shifting
+
+36. Dynamic action macro tracking, little bucket knight balancing on curved edge of giant brass clock pendulum swinging slowly over white fog sea, tunic blowing in wind, dramatic stop-motion momentum
+
+37. Storytelling macro pan, little bucket knight resting near sunny rock shelf, brown tunic unbuttoned slightly at collar drying in sun, helmet resting on stone nearby, peaceful morning sunlight filtering through
+
+38. Slow tracking shot, little bucket knight walking along archway woven from thick frayed hemp rigging rope, small boots stepping over cordage texture, bucket helmet looking toward sunlit valley, organic motion
+
+39. Close-up macro tilt up, little bucket knight using gauntlets to tie torn linen ribbon flag around small stone cairn on cliff ledge, bucket helmet, warm afternoon sun rays shifting, heroic stop-motion move
+
+40. High-angle cinematic orbit pan, looking down at little bucket knight standing atop highest rock pinnacle, arms spread wide, tunic billowing, surrounding floating cloud peaks stretching to horizon under twilight
+
+41. Macro dolly zoom, little bucket knight standing beside giant brass sea telescope half-embedded in mossy stone, looking into eyepiece toward distant floating islands, coarse linen tunic, soft morning light move
+
+42. Eye-level camera pan, little bucket knight stepping across arched bridge of giant overlapping terracotta roof tiles over misty canyon, boots stepping over glazed texture, soft stop-motion daylighting
+
+43. Low-angle slow tilt up, little bucket knight walking along stone path under row of giant silent tarnished brass bells suspended from rustic wooden beams, bucket helmet tilted up in awe, vertical scale animation
+
+44. Close-up macro pan, little bucket knight placing gauntlet against spiraling ridges of giant clay ammonite fossil shell in rock, coarse tunic texture, soft warm sunlight filtering through, organic motion
+
+45. Dynamic macro push-in, little bucket knight stepping off stone ledge onto floating clay leaf island drifting over white cloud fog, bucket helmet, brown tunic fluttering, golden hour sunlight shifting
+
+46. Quirky macro pan, little bucket knight sitting relaxed atop giant vintage wooden clothes-peg clipped onto rope bridge strand, boots dangling lazily, bucket helmet looking at sun, peaceful stop-motion feel
+
+47. Macro tracking pan, little bucket knight walking past row of giant antique brass typewriter key stamps embedded in moss, boots stepping on raised letter 'A', coarse tunic, soft natural light motion
+
+48. Low-angle camera pan, little bucket knight standing under high stone archway where giant wooden wind chimes sway gently in mountain breeze, bucket helmet reflecting ambient light, atmospheric haze move
+
+49. Intimate macro camera zoom, little bucket knight kneeling on green moss, curiously observing tiny red garden snail crawling past on twig, bucket helmet tilted down, warm morning sunlight shifting
+
+50. Grand panoramic sunset pan, little bucket knight standing on highest mountain peak silhouette against breathtaking golden orange sunset sky, gauntlet raised in farewell to valley below, epic finale motion
+
+51. Macro tracking pan, little bucket knight balancing while stepping across giant weathered wooden thread spools floating over morning mist, colorful threads trailing into clouds, stop-motion puppet motion
+
+52. Close-up macro pan, little bucket knight examining giant ancient brass astrolabe instrument in stone wall, touching engraved star rings with gauntlet, soft morning daylight shifting across brass
+
+53. Eye-level slow tracking, little bucket knight walking along edge of giant wooden measuring ruler acting as bridge between cliffs, boots stepping over carved inch marks, tunic fluttering in wind
+
+54. Cozy storytelling macro pan, little bucket knight sitting inside spout opening of ancient terracotta teapot in mossy rocks, watching soft rain outside, bucket helmet, warm peaceful lighting motion
+
+55. Surreal macro camera pan, little bucket knight wading through quiet drift of giant natural bird feathers on mossy stone floor, soft white barbs brushing against burlap tunic, serene daylighting move
+
+56. Inspiring low-angle pan, little bucket knight standing triumphantly atop giant tarnished brass sewing thimble embedded in rock pinnacle like altar, bucket helmet catching sun flare, tunic billowing
+
+57. Slow tracking shot, little bucket knight walking between two giant weathered wooden knight chess piece sculptures standing like guards at stone pass, bucket helmet tilted up, soft haze animation
+
+58. Close-up macro focus pull, little bucket knight leaning near giant clear amber pebble on green moss, seeing tiny dry leaf preserved inside golden resin, warm sunlight filtering through resin
+
+59. Dynamic action tracking, little bucket knight clinging onto silk stem of giant floating milkweed seed parachute gliding over cloud sea, brown tunic waving, boots dangling, golden hour momentum
+
+60. Cinematic macro pan, little bucket knight standing under grove of giant rustic paper pinwheels spinning slowly in mountain breeze, bucket helmet reflecting dappled sunlight, inspiring diorama move
+
+61. Slow macro pan down, little bucket knight stepping carefully over open brass lid of giant antique pocket compass half-sunk in gravel, boots treading near swinging needle, natural morning daylight
+
+62. Eye-level tracking pan, little bucket knight walking across narrow suspension bridge forged from giant interlocking rusted brass safety pins over misty ravine, burlap tunic fluttering, smooth motion
+
+63. Low-angle tilt up, little bucket knight standing in awe at base of giant carved wooden spinning top monument standing balance-poised on stone altar, bucket helmet tilted up, atmospheric haze move
+
+64. Storytelling macro pan inside, little bucket knight sitting relaxed in round entrance hole of giant terracotta birdhouse on mossy cliff wall, leather pouch beside it, morning sunbeam filtering in
+
+65. Surreal macro tracking shot, little bucket knight wading through shallow stream filled with giant floating dried lotus seed pods on clear water, bucket helmet reflecting water ripples, tunic wet at hem
+
+66. Close-up macro pan, little bucket knight resting riveted gauntlet against cool metal prong of giant weathered copper tuning fork in stone, bucket helmet reflecting soft ambient light, organic depth
+
+67. Slow camera pan, little bucket knight walking across bridge formed by giant antique brass wax seal stamps with carved heraldic crests on mossy rocks, boots stepping firmly, brown tunic fluttering
+
+68. Intimate storytelling pan, little bucket knight sitting on tip of giant weathered wooden peg jutting over cloud-filled valley, boots dangling, bucket helmet looking toward sunrise, peaceful mood
+
+69. Slow macro dolly shot, little bucket knight standing at edge of mountain tarn watching tiny floating canoes crafted from curled natural birch bark drift quietly across water, soft morning daylight
+
+70. Majestic finale macro pan, little bucket knight standing atop floating stone monolith peak, bucket helmet facing vast glowing horizon, brown tunic and belt blowing in peak winds, golden hour motion
+
+71. Macro tracking shot, little bucket knight stepping carefully between open brass blades of giant vintage tailor scissors resting like gateway on stone floor, boots stepping firmly, morning light move
+
+72. Storytelling macro pan, little bucket knight leaning near spout of giant terracotta oil lamp in moss, touching tiny dry wild twig resting on spout, brown linen tunic, peaceful daylighting motion
+
+73. Eye-level slow tracking, little bucket knight walking across floating bridge of giant overlapping dried lotus leaves over misty stream, boots stepping over cracked leaf veins, stop-motion feel
+
+74. Slow macro tilt down, little bucket knight stepping onto massive carved slate domino stone resting like bridge step over ravine, white pips under feet, bucket helmet, burlap tunic, morning sun
+
+75. Cozy macro zoom in, little bucket knight sitting comfortably inside giant textured terracotta acorn cap lined with green moss, leather pouch on knees, warm sunbeam filtering through foliage
+
+76. Close-up macro pan, little bucket knight resting riveted gauntlet against giant weathered copper bell clapper on mossy rock pedestal, bucket helmet, soft morning sunlight, tactile diorama depth
+
+77. Slow tracking shot, little bucket knight walking across suspended bridge woven from thick natural reed strands, boots stepping over rustic weave textures, helmet looking toward sunlit pass
+
+78. Intimate storytelling macro pan, little bucket knight kneeling quietly on mossy stone, observing tiny bright red ladybug crawling along dried twig, bucket helmet tilted down, warm sun shifting
+
+79. Heroic low-angle pan, little bucket knight standing proudly atop giant carved wooden seal stamp resting on stone altar, brown tunic fluttering in wind, bucket helmet catching golden sun flare
+
+80. Breathtaking wide twilight pan, little bucket knight standing at edge of high stone cliff silhouette, holding small wooden twig marker like staff, vast orange twilight sky stretching to infinity
+
+81. Macro camera pan, little bucket knight stepping beneath curved brass legs of giant vintage draftsman calipers standing like colossal geometric archway over stone path, boots stepping firmly
+
+82. Storytelling macro pan, little bucket knight leaning over rim of giant unglazed terracotta mortar, inspecting tiny dried wildflower petals gathered inside, brown tunic, soft morning daylighting
+
+83. Eye-level tracking pan, little bucket knight walking across suspended bridge of giant weathered wooden domino blocks linked end to end over misty gap, boots treading on carved brass pips
+
+84. Surreal macro tracking pan, little bucket knight wading through shallow pebble stream filled with floating weathered pinecone scales on clear water, bucket helmet reflecting sky ripples, tunic wet
+
+85. Cozy macro camera pan, little bucket knight sitting inside hollow of giant cracked terracotta bell half-sunken in mossy earth, leather pouch on lap, soft warm sunbeam shining through fissure
+
+86. Close-up macro pan, little bucket knight placing gauntlet against raised brass pins of giant antique music box cylinder embedded in stone, bucket helmet reflecting ambient light, diorama move
+
+87. Slow camera tilt down, little bucket knight stepping over brass barrel of giant antique pocket monocular lens in river gravel and moss, glass lens catching warm afternoon sun rays, tunic fluttering
+
+88. Intimate storytelling pan, little bucket knight sitting relaxed on edge of giant sun-bleached driftwood shingle jutting over cloud ocean, boots dangling, bucket helmet looking toward sunrise
+
+89. Poetic macro tracking pan, little bucket knight standing at high stone pass watching tiny folded white paper origami cranes drifting silently past in mountain breeze, coarse linen tunic moving
+
+90. Inspiring finale macro tilt up, little bucket knight standing atop highest rock peak beside planted twig flag, silhouette illuminated by spectacular golden sun rays breaking through storm clouds
+
+91. Macro camera pan, little bucket knight stepping carefully through eye of giant tarnished brass sewing needle embedded in stone altar like gate, colorful hemp thread trailing into misty clouds
+
+92. Eye-level slow tracking, little bucket knight walking across narrow footbridge crafted from giant carved wooden weaving shuttles spanning canyon, boots treading over smooth wood grain texture
+
+93. Storytelling macro pan, little bucket knight standing near shallow stone basin filled with giant clear glass marbles, water trickling over them reflecting dappled sunlight, bucket helmet, brown tunic
+
+94. Slow camera pan, little bucket knight stepping over antique brass barrel of giant portable field microscope half-buried in moss, glass lens catching warm afternoon sun rays, bucket helmet move
+
+95. Cozy storytelling macro pan, little bucket knight sitting relaxed inside dome of inverted terracotta lamp shade on mossy rocks, watching soft rain outside, bucket helmet, warm sunbeam through crack
+
+96. Surreal macro tracking shot, little bucket knight wading through clear shallow stream filled with floating dried acorn shells drifting like tiny boats, brown tunic wet at hem, water ripples glinting
+
+97. Inspiring slow tracking, little bucket knight walking along top of giant antique brass spirit level on stone, glass bubble tube glowing with clear water under crisp morning sun, boots stepping
+
+98. Close-up macro pan, little bucket knight placing gauntlet against giant carved terracotta hand sculpture resting on moss, holding single real green plant sprout, soft morning daylighting move
+
+99. Dynamic action tracking, little bucket knight clinging onto hemp tail of giant floating birch bark kite gliding over cloud sea, brown tunic waving in wind, boots dangling, golden hour sunlight
+
+100. Masterpiece finale panoramic orbit pan, little bucket knight standing atop highest pinnacle of sky mountain, raising tiny gauntlet in quiet triumph, looking out across sea of 100 floating stone islands in golden dawn sunlight, tunic and belt fluttering, cinematic stop-motion masterpiece

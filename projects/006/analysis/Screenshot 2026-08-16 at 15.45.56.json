@@ -1,0 +1,239 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet animation — tactile miniature knitwear and tweed tailoring, sculpted matte clay head, wire armature slender limbs, physical stone stairs, and shallow macro photography.",
+
+  "visual_mood": {
+    "primary_feeling": "Poetic pastoral journey, quiet elderly resilience, and gentle folk tale stillness",
+    "viewer_impression": "An intimate, handcrafted side-profile portrait of an elderly stop-motion shepherd carefully walking down rustic stone stairs with two walking sticks accompanied by his small sheep",
+    "narrative_subtext": "A humble, enduring shepherd making his steady descent down a weathered village mountain staircase, faithfully followed by his miniature flock"
+  },
+
+  "medium": {
+    "type": "Stop-motion puppet animation macro photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Hand-sculpted matte polymer clay head, hands, and boots, miniature tailored green wool tweed jacket, ribbed knit leggings over thin wire armature, and wispy wool fiber beard",
+    "backdrop_medium": "Sculpted plaster and stone miniature steps, miniature plastered stone cottage wall with weathered wooden window, and soft muted distant valley background",
+    "render_stylization": "stylized character stop-motion puppet craft",
+    "line_art_style": "no outlines — natural physical 3D lighting, surface texture, and depth shadows",
+    "craft_quality": "master artisan stop-motion puppet fabrication",
+    "physical_material": "matte polymer clay, miniature woven tweed, ribbed wool yarn, twisted twine backpack basket, dried straw bundle, hand-carved miniature wood sticks, cast plaster stone",
+    "surface_specularity": "matte fibrous and dry clay finishes with zero glossy specular reflection",
+    "texture_distress_finish": "fine tweed weave texture, knitted yarn ribs, rough stone chiseling, weathered timber",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "glossy raytraced skin",
+      "3D digital human pores",
+      "photorealistic human flesh",
+      "stretched digital textures"
+    ]
+  },
+
+  "design_register": "whimsical European folk stop-motion animation",
+
+  "subject": {
+    "type": "elderly stylized stop-motion shepherd puppet walking down stone stairs",
+    "count": 1,
+    "spatial_distribution": "occupying the central and right-center frame in strict left profile walking pose",
+
+    "face": {
+      "archetype": "elderly stylized European shepherd puppet",
+      "skin_tone": "pale warm peachy beige matte clay",
+      "skin_undertone_sss": "subtle warm neutral clay undertone",
+      "skin_material_feel": "matte sculpted polymer clay with smooth hand-finished planes and subtle tool contours",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 85,
+      "facial_occlusion_boundaries": "flat tweed cap covering top crown of head; wispy white wool beard framing jawline and chin",
+      "face_paint": "none",
+      "face_volume": "slender elongated profile with prominent hooked bulbous nose and gentle recessed cheek plane",
+      "forehead_and_skin_planes": "smooth unwrinkled matte clay forehead sloping gently beneath cap brim",
+      "face_shape_silhouette": "elongated profile silhouette dominated by a downward-curving stylized nose and prominent stylized ear",
+      "cheek_contour_and_fullness": "flat slender cheek planes with zero baby fat puffiness",
+      "jaw_and_chin_geometry": "tapered gentle jawline largely enveloped by soft white wool beard tuft",
+      "head_cranial_shape": "compact oval cranium fitted snugly under tweed cap",
+      "head_pitch_deg": 15,
+      "interpupillary_spacing_and_eye_span": "profile view showing single near-side eye",
+      "palpebral_fissure_and_canthal_tilt": "small rounded dark bead eye resting beneath sculpted brow ridge",
+      "eyes": "minimalist black dot bead eye with subtle white surround, gazing downward with focused serenity",
+      "nose": "stylized elongated downward-hooked nose with rounded bulbous tip extending visibly in front of face profile",
+      "ears": "single prominent stylized C-shaped clay ear on visible left side with defined inner cup",
+      "lip_geometry_and_philtrum": "compact mouth line hidden beneath soft white mustache and beard fringe",
+      "mouth": "neutral calm closed mouth framed by soft facial hair",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "slender elongated wire-armature limbs and hunched spindly torso supporting sculpted head",
+      "proportions": {
+        "character_proportions_type": "spindly wire-armature stop-motion puppet (approx 5-head ratio with elongated legs and slender neck)",
+        "head_pct": "20%",
+        "torso_pct": "35%",
+        "legs_pct": "45%",
+        "shoulder_width": "narrow 1.1x head width — slender frail elderly posture",
+        "body_type": "spindly stick-thin elderly puppet frame with wire armature",
+        "torso_girth_and_frailty": "slender cylindrical torso hunched forward in walking motion",
+        "silhouette_rigidity_and_geometry": "angular zig-zag kinetic silhouette created by bent walking legs and leaning torso",
+        "textile_stiffness_and_hang": "tailored miniature wool tweed jacket holding structured drape over wire torso",
+        "limb_thickness_archetype": "slender elongated limbs beneath textured knitwear",
+        "neck_morphology": "slender thin armature neck emerging from jacket collar",
+        "neck_length_and_exposure": "moderately exposed slender neck angled forward at 45 degrees",
+        "hands_and_fingers": "sculpted matte peach clay hands with stylized curled fingers gripping wooden sticks"
+      },
+      "height_ratios": "shepherd stands approx 4x taller than the accompanying miniature sheep",
+      "silhouette": "dynamic downward-stepping profile with twin walking sticks and backpack basket",
+      "pose": {
+        "stance_type": "downward walking contrapposto step",
+        "weight_distribution": "70% body weight planted on right foot resting on the lower stone step, left leg trailing in mid-stride on upper step",
+        "hip_axis_tilt_deg": 12,
+        "shoulder_axis_tilt_deg": -8,
+        "spine_curvature": "gentle forward S-curve hunch of an elderly wanderer carrying a pack",
+        "left_arm_pose": "left arm extended forward holding secondary wooden stick for balance",
+        "right_arm_pose": "right arm bent holding main vertical wooden walking stick grounded on stone step",
+        "leg_and_feet_stance": "wide stepping stride: right knee bent stepping down, left foot grounded on rear stair riser",
+        "pose_energy": "deliberate, steady, focused walking cadence"
+      },
+      "seating_and_elevation": {
+        "surface_type": "uneven hand-carved stone steps and staircase landing",
+        "leg_dangle_dynamics": "none — active standing and walking locomotion",
+        "torso_lean_and_posture": "hunched forward approx 20 degrees over walking sticks"
+      },
+      "hand_pose_interaction": "both clay hands grasping vertical wooden walking staffs at waist-to-chest height",
+      "prop_interaction": "two natural wood twigs acting as walking canes touching the stone step surface",
+      "prop_asymmetry_load": "woven backpack pannier with rolled bedding and dried straw cylinder mounted on upper back"
+    },
+
+    "hair": {
+      "color": "soft pure white and pale grey wool fleece",
+      "style": "wispy tufts of wool protruding from beneath cap around temples, nape, and blending into beard",
+      "hair_texture_type": "fluffy unspun raw wool fiber fuzz",
+      "hair_sculptural_form": "organic soft fibrous tufts attached directly to clay head armature",
+      "volume_density": "moderate wispy density framing the jaw and back of neck",
+      "direction": "trailing slightly backward and downward",
+      "dominant_zone": "jawline beard and nape fringe"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "textured grey-green woven wool flat tweed cap with soft rounded crown and short front visor brim",
+      "outerwear_and_upper": "tailored miniature grey-green salt-and-pepper tweed buttoned blazer jacket with lapels and notched collar",
+      "textile_material_and_gloss": "rough tactile miniature wool tweed fabric with visible variegated weave threads and zero sheen",
+      "backpack_and_gear": "cylindrical woven rope/twine pannier backpack carrying a rolled tan blanket roll on top and a dense bright orange-ochre straw/thatch cylinder below",
+      "lower_garment_and_drape": "olive-green ribbed knit wool leggings/trousers fitted tightly over slender wire legs with rolled-up ribbed cuffs at the ankles",
+      "footwear_and_soles": "sculpted matte brown clay work boots with stitched seam details and thick flat soles",
+      "handheld_props": "two slender natural wooden walking sticks/staffs with bark texture held in hands and planted on stone"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "small flock of accompanying needle-felted sheep",
+    "color_morph": "warm creamy-white loop fleece with light tan clay heads",
+    "count_density": "5 visible sheep: 2 leading ahead down the lower steps on the left, 3 following closely behind on the right steps",
+    "size_relative_to_primary": "0.25x height of the shepherd puppet",
+    "spatial_distribution": "flanking the shepherd along the stone staircase from left-foreground to right-midground",
+    "facing_azimuth_deg": -90,
+    "pose_description": "walking in profile down the stone steps alongside the shepherd",
+    "priority_level": "primary companion storytelling elements"
+  },
+
+  "micro_features": [
+    "Individual knitted rib rows visible on the shepherd's green wool leg warmers/trousers",
+    "Detailed tweed fabric herringbone/speckled weave texture on the jacket and flat cap",
+    "Sculpted rolled rim and button details on the brown leather-like puppet shoes",
+    "Frayed natural fiber texture on the woven backpack basket and orange straw bundle",
+    "Hand-carved miniature wooden stick grains with natural branch knots on the twin walking canes",
+    "Chiseled rough edges and clay mortar on the tiered limestone steps",
+    "Soft atmospheric depth blur showing a distant hillside village facade and misty valley"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "muted earthy neutral 5500K overcast palette with rich olive-green and warm straw accents",
+    "color_grading_intent": "warm artisan cinema stop-motion grade with gentle desaturated pastel tones and organic earthy textures",
+    "global_saturation_level": "subtly desaturated (-10%) overall, allowing the orange backpack straw and green jacket to stand out naturally",
+    "environmental_split_toning": "cool slate-grey and soft misty blue background shadows vs warm sand, stone, and straw foreground highlights",
+    "palette": [
+      { "name": "Muted Sage Tweed Green", "hsl": "hsl(140, 18%, 38%)" },
+      { "name": "Warm Straw Ochre", "hsl": "hsl(32, 80%, 52%)" },
+      { "name": "Weathered Stone Beige", "hsl": "hsl(40, 20%, 75%)" },
+      { "name": "Cream Wool Fleece", "hsl": "hsl(45, 30%, 88%)" },
+      { "name": "Leather Boot Brown", "hsl": "hsl(25, 35%, 40%)" }
+    ],
+    "shadow_color": "soft muted umber and neutral slate grey",
+    "highlight_color": "pale warm ivory and soft diffuse skylight",
+    "contrast_profile": "medium-soft natural daylight contrast with smooth gradient roll-off on stone and fabric",
+    "saturation_map": "highest saturation on orange straw bundle; moderate saturation on green jacket and knit pants; low saturation on stone and distant background",
+    "skin_warmth_vs_env_contrast": "warm peach clay face stands out crisply against the neutral out-of-focus background wall and cap",
+    "color_temperature": "neutral daylight 5500K with warm earthy materials"
+  },
+
+  "lighting": {
+    "drama_level": "gentle soft diffuse daylight with clear volumetric form definition",
+    "key_light": {
+      "azimuth_deg": -30,
+      "elevation_deg": 50,
+      "quality": "soft diffuse overhead daylight casting soft shadows under jacket and chin",
+      "color_temp_K": 5600
+    },
+    "fill_light": {
+      "azimuth_deg": 60,
+      "elevation_deg": 20,
+      "ratio": "2:1 gentle bounce from stone staircase"
+    },
+    "rim_light": {
+      "azimuth_deg": -150,
+      "elevation_deg": 30,
+      "surfaces": "subtle highlight rim on cap crown, shoulder, and backpack roll"
+    },
+    "ambient_bounce": "warm sand-colored ground reflection softening under-carriage shadows",
+    "special": "none"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "lower 40% stone steps, lower sheep, and boots; central 45% shepherd figure and walking sticks; upper 15% head, cap, and background cottage facade",
+    "layer_stack_z_index": "Layer 0: Distant misty valley and sky -> Layer 1: Blurred stone building facade with window -> Layer 2: Following sheep on upper stairs -> Layer 3: Main shepherd figure and walking sticks -> Layer 4: Leading sheep on lower left foreground steps",
+    "framing_crop": "medium full-body profile shot of the shepherd navigating the staircase",
+    "subject_vertical_fill_pct": 70,
+    "headroom_and_ground_clearance": "15% upper headroom above cap; 15% lower ground clearance below lowest stone step",
+    "frame_edge_clipping_and_bleed": "leading sheep bleeds slightly near bottom-left corner; background cottage cropped at top-right",
+    "ground_pedestal": "stepped multi-level hand-carved stone stairway platform",
+    "camera_azimuth_deg": -80,
+    "subject_facing_azimuth_deg": -90,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 70,
+    "depth_of_field": {
+      "sharp_zone": "plane containing the shepherd figure, his walking sticks, and the central stone landing",
+      "blurred_zone": "distant background hillside, soft clouds, and background cottage window",
+      "blur_strength": "creamy macro optical depth of field (approx f/2.8 on full frame)"
+    },
+    "rule_of_thirds": "shepherd's torso and walking sticks aligned along center-right vertical third; downward staircase creates a strong diagonal leading line from upper-right to lower-left",
+    "grid_and_accent_anchors": {
+      "construction_grid": "none",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "none",
+      "right_top_panel": "none",
+      "right_bottom_panel": "none"
+    }
+  },
+
+  "background": {
+    "setting": "quaint hillside stone village staircase overlooking a misty valley",
+    "key_elements": "rustic plaster and stone cottage facade, small weathered timber window frame, distant muted mountains and sky",
+    "layer_order": "foreground stone steps -> shepherd and sheep -> stone building facade -> misty distant horizon",
+    "background_density": "moderate architectural background with clean negative space on the left",
+    "background_treatment": "smooth out-of-focus bokeh rendering the background soft and dreamlike"
+  },
+
+  "typography_and_graphic_elements": {},
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, realistic human photograph, CGI 3D digital model, glossy plastic skin, modern clothing, sneakers, nylon backpack, digital rendering artifacts, smiling grin, open mouth",
+
+  "reconstruction_priority": [
+    "Handcrafted stop-motion puppet materials — AI often replaces real wool knitwear and tweed fabric with generic digital textures",
+    "Sculpted matte clay facial profile with hooked nose — AI tends to hallucinate realistic elderly human wrinkles or generic cartoon faces",
+    "Slender wire-armature puppet proportions with ribbed knit leggings — AI frequently thickens limbs into realistic human anatomy",
+    "Tactile macro depth of field on miniature stone steps — AI often fails to render physical miniature scale and optical lens blur"
+  ]
+}

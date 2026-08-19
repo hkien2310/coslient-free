@@ -1,0 +1,225 @@
+{
+  "___style_anchor": "Handcrafted tactile stop-motion puppet photography — extreme close-up of sculpted polymer clay elderly artisan puppet polishing round spectacles with frayed orange cotton rags, macro cinematography with shallow depth of field",
+
+  "visual_mood": {
+    "primary_feeling": "intense concentration, meticulous craftsman focus, and scholarly eccentricity",
+    "viewer_impression": "an absorbing, hyper-tactile character moment highlighting the intricate handcraft of an elderly artisan cleaning his spectacles",
+    "narrative_subtext": "a watchmaker or scholar pausing in his work to meticulously wipe dust from his round wire-rimmed lenses using torn scraps of cloth"
+  },
+
+  "medium": {
+    "type": "handcrafted stop-motion puppet animation close-up photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical handcrafted puppet with intricately sculpted wrinkled polymer clay skin, stiff bristle eyebrows, and textured woven cotton garments",
+    "backdrop_medium": "physically constructed miniature workshop setting with soft out-of-focus background bokeh",
+    "render_stylization": "semi-stylized puppet caricature with realistic micro-textures and physical material fidelity",
+    "line_art_style": "no outlines — 3D physical surface relief and direct optical key lighting",
+    "craft_quality": "master artisan stop-motion miniature fabrication",
+    "physical_material": "sculpted polymer clay, stiff nylon/wire bristle fibers, real woven chambray cotton, frayed dyed muslin cloth rags, metal wire eyeglass frames with glass lenses",
+    "surface_specularity": "matte clay skin with subtle satin pore sheen, reflective glass lenses, matte textured cotton rags, satin leather suspenders",
+    "texture_distress_finish": "intricate sculpted age furrows, painted freckles, frayed cloth edges, micro-fiber forearm hair",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth digital CGI skin",
+      "plastic toy gloss",
+      "vector outlines",
+      "procedural digital noise",
+      "hyperrealistic human pore photogrammetry"
+    ]
+  },
+
+  "design_register": "intimate tactile European stop-motion character study with intense psychological focus",
+
+  "subject": {
+    "type": "stylized elderly male artisan puppet polishing his wire-rim spectacles with two orange cloth rags",
+    "count": 1,
+    "spatial_distribution": "strictly centered close-up composition, face dominating upper half, hands and spectacles occupying lower foreground",
+
+    "face": {
+      "archetype": "stylized elderly scholar / watchmaker puppet caricature",
+      "skin_tone": "warm peach-tan clay tone with subtle amber undertones and faint brown age speckles",
+      "skin_undertone_sss": "soft warm translucent subsurface scatter visible along the nose bridge and ear rims",
+      "skin_material_feel": "matte sculpted polymer clay with physical micro-creases, sculpted forehead furrows, and painted age spots",
+      "skin_grime_level_0to10": 2,
+      "skin_moisture_finish": "natural satin with soft diffuse highlight spread across forehead ridges",
+      "face_exposure_pct": 90,
+      "facial_occlusion_boundaries": "lower nose tip and upper lip partially masked by the hands, cleaning cloths, and spectacle bridge",
+      "face_paint": "delicate airbrushed shading in the orbital sockets, forehead grooves, and pinkish tint on nose tip",
+      "face_volume": "elongated vertical cranial architecture with high furrowed forehead, deep orbital cavities, and prominent straight nose",
+      "forehead_and_skin_planes": "heavily furrowed forehead with concentric horizontal ridges and vertical glabella creases",
+      "face_shape_silhouette": "tall vertical oblong tapering into a trimmed grey beard",
+      "cheek_contour_and_fullness": "lean sculpted cheek hollows framing the central nasal column",
+      "jaw_and_chin_geometry": "rounded jawline softened by dense grey beard fibers",
+      "head_cranial_shape": "broad, high balding cranial dome with side hair tufts",
+      "head_pitch_deg": 12,
+      "interpupillary_spacing_and_eye_span": "standard 1.0x eye-width spacing, wide-set spherical puppet eyes under heavy brow arches",
+      "palpebral_fissure_and_canthal_tilt": "wide, fully opened circular palpebral fissures with neutral canthal tilt conveying intense, wide-eyed scrutiny",
+      "eyes": "large expressive spherical puppet eyes with glossy white sclera, dark brown iris rims, and black dilated pupils staring intently forward/downward",
+      "nose": "elongated, straight, slender cylindrical nose with subtle peach-freckled tip extending between the eyeglass lenses",
+      "ears": "partially visible at periphery, framed by wisps of grey hair and spectacle temples",
+      "lip_geometry_and_philtrum": "occluded behind the raised hands and spectacle frame",
+      "mouth": "occluded by cleaning rags and fingers",
+      "markings": "intricate sculpted crow's feet, radiating under-eye wrinkles, and fine age stippling",
+      "markings_geometry": "concentric curved grooves across the brow and around orbital margins"
+    },
+
+    "body": {
+      "exaggeration_locus": "intensely expressive wide eyes, heavy linear wire eyebrows, and detailed articulated puppet hands in foreground",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet close-up portrait (expressive head-and-hands focus)",
+        "head_pct": "60%",
+        "torso_pct": "40%",
+        "legs_pct": "occluded outside frame",
+        "shoulder_width": "broad shoulders hunched forward into the workspace",
+        "body_type": "elderly artisan leaning closely over his workbench",
+        "torso_girth_and_frailty": "slender torso encased in work shirt and leather suspenders",
+        "silhouette_rigidity_and_geometry": "symmetrical, focused triangular composition formed by the head and raised elbows",
+        "textile_stiffness_and_hang": "woven blue cotton fabric with natural collar folds and leather suspender straps",
+        "limb_thickness_archetype": "slender forearms with delicate painted skin and fine hair fibers",
+        "neck_morphology": "short neck nestled in open collar and beard",
+        "neck_length_and_exposure": "mostly concealed beneath beard and raised hands",
+        "hands_and_fingers": "two articulated sculpted polymer clay hands with wrinkled knuckles, realistic fingernails, and delicate finger pads pinching the cleaning cloths"
+      },
+      "height_ratios": "single subject in extreme close-up framing",
+      "silhouette": "compact dome-shaped upper-body silhouette dominated by the high forehead and raised hands",
+      "pose": {
+        "stance_type": "seated close-up inspection posture",
+        "weight_distribution": "forward leaning with elbows anchored on table surface just out of frame",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 0,
+        "spine_curvature": "hunched forward in deep visual inspection",
+        "left_arm_pose": "left forearm raised with hand pinching the left lens of the spectacles using an orange cloth",
+        "right_arm_pose": "right forearm raised with hand pinching the right lens using an orange cloth",
+        "leg_and_feet_stance": "occluded outside lower frame",
+        "pose_energy": "meticulous, steady, hyper-focused manual dexterity"
+      },
+      "seating_and_elevation": {
+        "surface_type": "artisan workbench surface",
+        "leg_dangle_dynamics": "lower body not visible",
+        "torso_lean_and_posture": "hunched forward directly toward the camera plane"
+      },
+      "hand_pose_interaction": "both hands simultaneously gripping and rubbing the circular lenses of the spectacles with pinched thumbs and forefingers",
+      "prop_interaction": "direct dual-handed manipulation of thin metal spectacles and textured fabric rags"
+    },
+
+    "hair": {
+      "color": "silvery white and light grey",
+      "style": "balding crown with wispy combed-back white hair along the temples and sides",
+      "hair_texture_type": "fine silky spun fibers and needle-felted fleece catching the light",
+      "hair_sculptural_form": "soft wispy halo of white hair radiating from the sides of the bald cranium",
+      "volume_density": "thin and airy along the temples, sparse across crown",
+      "direction": "brushed back and outward from temples",
+      "dominant_zone": "parietal sides, temples, and nape"
+    },
+
+    "outfit": {
+      "eyewear_in_hand": "thin dark metal wire-rimmed round spectacles held in hands, with transparent miniature glass lenses and wire bridge",
+      "cleaning_cloth_props": "two small ragged, torn pieces of warm terracotta-orange woven cotton gauze/muslin with frayed raw edges",
+      "work_shirt_structure": "muted blue-grey chambray woven cotton long-sleeved shirt with visible cross-weave texture and turn-down collar",
+      "suspenders_and_straps": "dark brown leather suspender straps passing over the shoulders",
+      "textile_material_and_gloss": "matte natural cotton fibers, coarse raw woven cloth rags, and matte leather with zero synthetic sheen",
+      "forearm_details": "fine micro-fiber hair applied to the sculpted forearms and dorsal hand surfaces"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "round metal spectacles and frayed terracotta cleaning rags being polished",
+    "color_morph": "dark gunmetal wire frame, clear glass lenses, and vibrant terracotta/ochre textile rags",
+    "count_density": "pair of glasses and two cloth scraps held at center frame",
+    "size_relative_to_primary": "occupies central 40% of lower horizontal span",
+    "spatial_distribution": "centered directly beneath the character's eyes at lower-mid frame",
+    "facing_azimuth_deg": 0,
+    "pose_description": "held horizontally by both hands during delicate wiping action",
+    "priority_level": "critical narrative action focal point"
+  },
+
+  "micro_features": [
+    "distinct stiff horizontal white-grey combed bristle fibers forming prominent linear eyebrows",
+    "intricate sculpted forehead furrows and vertical glabella creases with soft shadow depth",
+    "fine micro-fiber hair strands rooted along the sculpted forearms and back of the hands",
+    "raw, frayed, torn edges and visible woven grid texture on the orange terracotta cleaning cloths",
+    "specular glints and realistic transparency reflections on the circular glass spectacle lenses",
+    "sculpted fingernails with delicate cuticle definition and realistic age stippling on the fingers"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm neutral 4000K artisan workshop lighting with saturated terracotta textile accents",
+    "color_grading_intent": "warm, organic, tactile stop-motion film grade with rich midtone contrast and creamy roll-off",
+    "global_saturation_level": "controlled natural saturation with vivid warm orange cloth accents and muted blue-grey clothing",
+    "environmental_split_toning": "neutral warm grey/umber background vs rich terracotta-orange foreground accents and peach clay skin",
+    "palette": [
+      { "name": "Terracotta Cloth", "hsl": "hsl(18, 62%, 52%)" },
+      { "name": "Aged Peach Clay", "hsl": "hsl(28, 42%, 68%)" },
+      { "name": "Chambray Work Shirt", "hsl": "hsl(215, 18%, 46%)" },
+      { "name": "Gunmetal Wire Frame", "hsl": "hsl(0, 0%, 20%)" },
+      { "name": "Silver-White Bristle", "hsl": "hsl(0, 0%, 92%)" },
+      { "name": "Warm Umber Shadow", "hsl": "hsl(30, 25%, 22%)" }
+    ],
+    "shadow_color": "warm deep brown and charcoal umber",
+    "highlight_color": "soft warm cream with gentle specular highlights on brow and lenses",
+    "contrast_profile": "crisp medium-high contrast accentuating sculpted skin topography and facial depth",
+    "saturation_map": "high saturation in orange rags; moderate natural saturation in skin; low saturation in shirt and background",
+    "skin_warmth_vs_env_contrast": "warm tactile subject standing out against a neutral muted out-of-focus background",
+    "color_temperature": "neutral-warm 4000K"
+  },
+
+  "lighting": {
+    "drama_level": "focused, direct, and sculpturally revealing",
+    "key_light": {
+      "azimuth_deg": 0,
+      "elevation_deg": 40,
+      "quality": "soft direct key light from slightly above, carving deep shadows under brow furrows and nose",
+      "color_temp_K": 4200
+    },
+    "fill_light": {
+      "azimuth_deg": 0,
+      "elevation_deg": -10,
+      "ratio": "1:2.5 soft upward ambient fill softening the under-chin and hand shadows"
+    },
+    "rim_light": {
+      "azimuth_deg": 180,
+      "elevation_deg": 30,
+      "surfaces": "subtle edge rim light accentuating the wispy white hair around the balding crown"
+    },
+    "ambient_bounce": "warm diffuse bounce reflected off the orange cloth scraps onto the lower nose and palms",
+    "special": "crisp pin-point specular glints on the spherical pupils and reflective lens rims"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "symmetrical tight portrait composition; head fills upper 60%, hands and spectacles fill lower 40%",
+    "layer_stack_z_index": "Layer 0: Defocused warm workshop background -> Layer 1: Puppet torso and head -> Layer 2: Raised forearms, hands, spectacles, and orange cloths in immediate foreground",
+    "framing_crop": "tight close-up / macro portrait framed from lower chest to crown of head",
+    "subject_vertical_fill_pct": 92,
+    "headroom_and_ground_clearance": "minimal headroom at top border; bottom edge cropped tightly at the wrists/table line",
+    "frame_edge_clipping_and_bleed": "crown of head near top frame; elbows and forearms bleed past left and right borders",
+    "ground_pedestal": "workbench edge just at bottom frame margin",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 0,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 100,
+    "depth_of_field": {
+      "sharp_zone": "forehead wrinkles, bristle eyebrows, wide eyes, nose bridge, hands, spectacles, and orange cloths",
+      "blurred_zone": "distant workshop walls, rear shelving, and shoulders",
+      "blur_strength": "shallow macro f/2.8 depth of field"
+    },
+    "rule_of_thirds": "eyes align along the upper third line; spectacles and hands align along the lower third line"
+  },
+
+  "background": {
+    "setting": "miniature artisan workshop interior",
+    "key_elements": "softly blurred warm timber tones, workbench tools, and neutral out-of-focus background walls",
+    "layer_order": "distant blurred workshop -> puppet figure in crisp focus",
+    "background_density": "sparse out-of-focus background creating clean character isolation",
+    "background_treatment": "creamy neutral bokeh creating high separation for the sculpted puppet"
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI, 3D digital render, smooth plastic doll skin, hyperrealistic photo of real human, digital illustration, anime, cartoon, glossy toy finish, missing fingers, malformed hands, smiling, cheerful, modern spectacles, futuristic tech, plain white background",
+
+  "reconstruction_priority": [
+    "tactile stop-motion puppet materials — AI frequently renders hyperrealistic human pores or smooth CGI plastic instead of sculpted polymer clay and bristle fibers",
+    "dual-hand spectacle polishing gesture — AI often fuses the cloth rags into the hands or garbles the wire eyeglass frame geometry",
+    "expressive facial sculpting with prominent horizontal bristle eyebrows and wide spherical eyes — AI tends to soften or distort the distinctive stop-motion caricature features",
+    "macro shallow depth of field with fine forearm micro-hair and frayed fabric textures — AI often blurs or over-smoothes fine craft details"
+  ]
+}

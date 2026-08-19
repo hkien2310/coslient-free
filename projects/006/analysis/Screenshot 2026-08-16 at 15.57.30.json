@@ -1,0 +1,248 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet diorama photography — tactile sculpted polymer clay face and knitted textiles on physical miniature pottery workshop set with shallow depth of field and soft winter snow bokeh.",
+  "visual_mood": {
+    "primary_feeling": "cozy rustic warmth, quiet contentment, and gentle artisanal tranquility",
+    "viewer_impression": "an immediate sense of comforting warmth and nostalgia, contrasting an indoor hearthside moment with a snowy village exterior",
+    "narrative_subtext": "an elderly craftsman takes a peaceful pause from pottery work to savor a hot steaming drink while snow falls softly outside his open shopfront"
+  },
+  "medium": {
+    "type": "physical miniature stop-motion puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical handcrafted puppet with matte polymer clay facial sculpt, fine fiber hair tufts, and knitted wool garments",
+    "backdrop_medium": "handcrafted architectural miniature set with timber framing, snow dusting, and physical lantern lighting",
+    "render_stylization": "stylized handcrafted diorama",
+    "line_art_style": "no outlines — tactile 3D volumetric physical shading and macro optical depth",
+    "craft_quality": "master artisan stop-motion diorama fabrication",
+    "physical_material": "matte polymer clay, knitted wool yarn, coarse burlap apron, weathered balsa/pine wood, glazed earthenware ceramic pottery",
+    "surface_specularity": "predominantly matte fibrous textiles and matte clay skin with subtle low-sheen satin glaze on select ceramic pots",
+    "texture_distress_finish": "aged weathered wood grain on workbench, subtle clay sculpting impressions, coarse knitted yarn weave, fine snow powder dusting",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "hyperrealistic digital skin pores",
+      "glossy 3D animation sheen",
+      "flat vector fills",
+      "digital bloom/glow artifacts"
+    ]
+  },
+  "design_register": "cozy European folk stop-motion miniature diorama",
+  "subject": {
+    "type": "elderly artisan potter puppet holding a steaming mug behind a workshop table",
+    "count": 1,
+    "spatial_distribution": "centered in midground directly behind the wooden workbench",
+    "face": {
+      "archetype": "stylized elderly artisan puppet character",
+      "skin_tone": "warm pale beige-cream",
+      "skin_undertone_sss": "subtle warm peach clay undertone with soft diffuse scatter",
+      "skin_material_feel": "matte sculpted polymer clay with smooth hand-tooled planes and gentle character lines",
+      "skin_grime_level_0to10": 2,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 100,
+      "facial_occlusion_boundaries": "none — full face clearly visible",
+      "face_paint": "subtle painted grey stubble texture around jawline and upper lip",
+      "face_volume": "elongated vertical sculptural planes with high gentle cheekbones, slender jaw, and prominent aquiline features",
+      "forehead_and_skin_planes": "sculpted subtle horizontal forehead furrows and gentle crow's feet carved directly into the clay",
+      "face_shape_silhouette": "elongated oval with narrow tapered chin and prominent cheek structure",
+      "cheek_contour_and_fullness": "slender sculpted cheek planes with gentle mature hollows below cheekbones",
+      "jaw_and_chin_geometry": "tapered narrow rounded chin with sculpted grey stubble fringe",
+      "head_cranial_shape": "vertical oblong cranium crowned with an upright tuft of spiky hair",
+      "head_pitch_deg": 2,
+      "interpupillary_spacing_and_eye_span": "proportional standard set puppet eyes",
+      "palpebral_fissure_and_canthal_tilt": "arched upper eyelids with warm crinkled corners reflecting a gentle smiling expression",
+      "eyes": "dark glossy bead-like puppet irises with warm amber-hazel tone and crisp catchlights gazing warmly forward",
+      "nose": "prominently elongated hook/aquiline nose with smooth sculpted bridge and downward-curving bulbous tip",
+      "ears": "large stylized horizontally protruding ears with sculpted antihelix and lobe rims flanking the head symmetrically",
+      "beak_snout_curvature": "",
+      "lip_geometry_and_philtrum": "slender sculpted smiling mouth with upturned corners and subtly defined philtrum",
+      "mouth": "closed gentle warm smile with delicate carved lip line",
+      "markings": "",
+      "markings_geometry": "",
+      "organic_face_overgrowth": ""
+    },
+    "body": {
+      "exaggeration_locus": "elongated stylized facial features, prominent ears, and oversized chunky knitted textures on a compact puppet frame",
+      "proportions": {
+        "character_proportions_type": "stylized 4.5-head stop-motion puppet caricature",
+        "head_pct": "22%",
+        "torso_pct": "40%",
+        "legs_pct": "38%",
+        "shoulder_width": "1.3x head width",
+        "body_type": "slender artisan frame draped in cozy layered knitwear and apron",
+        "torso_girth_and_frailty": "slender cylindrical puppet torso beneath structured heavy garments",
+        "silhouette_rigidity_and_geometry": "softly rounded shoulder drape transitioning to straight vertical apron line",
+        "textile_stiffness_and_hang": "heavy ribbed wool knit conforming to arm contours with stiff structured canvas apron",
+        "limb_thickness_archetype": "slender articulated puppet armature arms with delicate sculpted clay/resin hands",
+        "neck_morphology": "short neck enclosed within high ribbed sweater collar",
+        "neck_length_and_exposure": "neck concealed beneath dark sweater neckline",
+        "hands_and_fingers": "sculpted five-fingered clay puppet hands with articulated joints gripping mug handle"
+      },
+      "height_ratios": "subject occupies 65% of vertical frame height behind the foreground counter",
+      "silhouette": "compact humanoid upper torso framed by spiky crown hair and horizontal table baseline",
+      "pose": {
+        "stance_type": "standing upright behind a rustic wooden pottery bench",
+        "weight_distribution": "balanced central stance leaning slightly forward over counter",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -3,
+        "spine_curvature": "relaxed upright posture with gentle forward engagement toward the viewer",
+        "left_arm_pose": "left forearm bent at elbow, wrist resting low above tabletop near cookies",
+        "right_arm_pose": "right forearm raised holding steaming mug at chest level",
+        "leg_and_feet_stance": "occluded behind solid wooden workbench",
+        "pose_energy": "relaxed, welcoming, and serene"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing behind rustic wooden craft workbench",
+        "leg_dangle_dynamics": "lower body fully occluded by counter surface",
+        "torso_lean_and_posture": "gentle forward tilt toward the steaming beverage"
+      },
+      "hand_pose_interaction": "right hand fingers curled firmly through the D-shaped handle of a ceramic mug; left hand hovering in an open relaxed gesture above the counter",
+      "prop_interaction": "holding a warm ceramic mug with wisps of visible hot steam rising vertically into the cool air",
+      "prop_asymmetry_load": "moderate upward load in right hand holding the filled mug",
+      "weapon_morphology": ""
+    },
+    "hair": {
+      "color": "pure white with subtle silver-grey base tones",
+      "style": "windswept spiky tufts standing vertically and flaring outward like a wild fluffy crown",
+      "ahoge_cowlick": "prominent central vertical wisp rising from crown",
+      "hair_texture_type": "fine fibrous wool/fur strands with tactile frayed tips",
+      "hair_sculptural_form": "fluffy textured fibrous cloud radiating upward and laterally from the scalp",
+      "volume_density": "airy and voluminous fibrous density",
+      "direction": "upward and outward in a fan-like dispersion",
+      "dominant_zone": "top crown and upper temporal lobes",
+      "updo_containment": "loose unconstrained fibers",
+      "accessories": ""
+    },
+    "outfit": {
+      "headwear_or_eyewear": "none — bare head displaying fibrous white hair",
+      "outerwear_and_upper": "coarse navy-heather ribbed wool knitted crewneck sweater with thick ribbed collar",
+      "textile_material_and_gloss": "matte fibrous heavy wool yarn with prominent knit stitch definition and coarse woven burlap/canvas apron",
+      "waist_and_belt_hardware": "earthy brown craftsman apron secured around neck and torso",
+      "chest_accent_band": "bold horizontal knitted chest stripe in rust-orange bordered by thin black lines on the apron upper bib",
+      "lower_garment_and_drape": "brown rustic apron drape extending downward behind tabletop",
+      "footwear_and_soles": "occluded behind workbench",
+      "jewelry_and_accessories": "classic round wristwatch with white dial and dark strap on left wrist"
+    },
+    "silhouette_clipping_and_slicing": {
+      "is_silhouette_container": false,
+      "slice_orientation": "none",
+      "internal_slices_sequence": []
+    }
+  },
+  "secondary_subject": {
+    "type": "miniature pottery items and tea ware on wooden counter",
+    "color_morph": "earthy clay terracotta, speckled stoneware grey, and matte brown",
+    "count_density": "dense cluster of 12+ ceramic pieces, jars, teapots, cups, and a wooden tray with golden-baked miniature biscuits",
+    "size_relative_to_primary": "tabletop craft scale (5cm to 15cm miniature relative objects)",
+    "spatial_distribution": "spanning the entire lower horizontal foreground band across the wooden workbench",
+    "facing_azimuth_deg": 0,
+    "pose_description": "resting stably on wooden surface",
+    "priority_level": "high contextual foreground anchors"
+  },
+  "micro_features": [
+    "translucent wisps of hot steam rising smoothly from the cup of tea/coffee",
+    "tactile hand-thrown pottery ridges and unglazed clay textures on miniature pots",
+    "individual stitch loops clearly visible on the navy knitted sweater arms and collar",
+    "fine falling snow particles suspended mid-air in front of the workshop and street",
+    "warm glowing lantern post illuminating the snow on timber facade in right background",
+    "weathered cracks and circular saw marks on the solid timber workbench surface",
+    "golden brown crumbly texture on the miniature baked pastries in the wooden tray"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm amber-tungsten interior split with cool 6200K wintry slate-blue outdoor ambience",
+    "color_grading_intent": "warm nostalgic European folk stop-motion palette with high tactile warmth and cool exterior contrast",
+    "global_saturation_level": "balanced organic natural saturation (+5% warm tones, neutral muted background greens/slates)",
+    "environmental_split_toning": "cozy 2700K golden amber interior glow vs 6500K crisp cool snowy slate exterior street",
+    "palette": [
+      { "name": "Deep Heather Navy", "hsl": "hsl(215, 38%, 28%)" },
+      { "name": "Warm Terracotta Ochre", "hsl": "hsl(28, 55%, 42%)" },
+      { "name": "Glazed Clay Brown", "hsl": "hsl(32, 35%, 30%)" },
+      { "name": "Weathered Timber Tan", "hsl": "hsl(35, 28%, 55%)" },
+      { "name": "Golden Lantern Amber", "hsl": "hsl(42, 90%, 55%)" },
+      { "name": "Wintry Slate Snow", "hsl": "hsl(210, 18%, 88%)" }
+    ],
+    "shadow_color": "deep umber and cool slate shadow tones",
+    "highlight_color": "warm amber rim light on clay skin and golden lantern specular reflections",
+    "contrast_profile": "medium-high dynamic range with soft roll-off in highlights and deep rich wood shadows",
+    "saturation_map": "highest in warm lantern glows and orange chest stripe; moderate on skin and pottery; desaturated in snowy background",
+    "skin_warmth_vs_env_contrast": "warm peachy-beige clay skin stands out crisply against the desaturated cool snowy street behind",
+    "color_temperature": "dual-temperature split (2800K foreground/interior warmth vs 6200K background snow cool)"
+  },
+  "lighting": {
+    "drama_level": "intimate and atmospheric environmental illumination",
+    "key_light": {
+      "azimuth_deg": 35,
+      "elevation_deg": 25,
+      "quality": "soft diffused warm interior workshop key light wrapping the face and sweater",
+      "color_temp_K": 3200
+    },
+    "fill_light": {
+      "azimuth_deg": -40,
+      "elevation_deg": 15,
+      "ratio": "1:2 soft ambient fill from pottery shelves"
+    },
+    "rim_light": {
+      "azimuth_deg": 150,
+      "elevation_deg": 30,
+      "surfaces": "delicate edge light catching the spiky white hair fibers, right shoulder, and ear contours"
+    },
+    "ambient_bounce": "warm reflections bouncing off the raw timber workbench onto the clay apron and hands",
+    "special": "point-source amber glows from streetlamp in right midground and interior shop windows across the street"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "lower 25% horizontal workbench with pottery; central 50% artisan character; upper/background 25% timber eaves and snowy village vista",
+    "layer_stack_z_index": "Layer 0: Out-of-focus snowy alpine village street and glowing lanterns -> Layer 1: Workshop doorframe and hanging pottery mugs -> Layer 2: Artisan puppet holding mug -> Layer 3: Foreground workbench with clay vessels, pastries, and rising steam",
+    "framing_crop": "medium shot framed by the rustic timber archway of the pottery shop",
+    "subject_vertical_fill_pct": 65,
+    "headroom_and_ground_clearance": "15% upper headroom above hair tufts to top shelf; lower body anchored below table baseline",
+    "frame_edge_clipping_and_bleed": "wooden shelves and pottery jars bleed off left and right canvas edges; workbench fills bottom frame edge",
+    "ground_pedestal": "solid horizontal weathered timber workbench serving as foreground staging pedestal",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 5,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "artisan face, knitted sweater, steaming mug, and front edge of workbench pottery",
+      "blurred_zone": "distant alpine buildings, background snow, and out-of-focus street lanterns",
+      "blur_strength": "moderate shallow depth of field (approx. f/2.8 on macro format) with soft circular bokeh"
+    },
+    "rule_of_thirds": "character's face aligned near upper vertical centerline; steaming cup anchored at lower-third intersection; lantern positioned at right vertical third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "horizontal table plane at Y=75% balanced by vertical lantern post at X=82%",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+  "background": {
+    "setting": "rustic open-front pottery atelier looking out onto a snow-dusted European village street",
+    "key_elements": "timber rafters with hanging clay mugs, wooden shelves with pottery jars, cobblestone street covered in snow, gabled alpine houses, glowing post lantern, falling snowflakes",
+    "layer_order": "foreground workshop bench -> artisan subject -> timber doorframe -> snowy cobblestone street -> distant snow-covered chalets",
+    "background_density": "richly detailed with architectural miniature craftsmanship and soft winter atmospheric depth",
+    "background_treatment": "soft cinematic defocus producing gentle circular bokeh on distant illuminated windows and streetlights"
+  },
+  "typography_and_graphic_elements": {
+    "__note": "No text or graphic typography present in this scene.",
+    "primary_headline": {
+      "text_content": "",
+      "typeface_morphology": "",
+      "spatial_zone_and_span": "",
+      "color_field_continuity": "",
+      "z_index_occlusion": ""
+    },
+    "secondary_metadata_text": {
+      "text_content": "",
+      "spatial_anchoring": ""
+    },
+    "graphic_badges_and_decals": []
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI plastic skin, glossy 3D render sheen, digital cartoon, photorealistic human skin pores, smooth digital art, neon lighting, oversaturated colors, symmetrical robotic mannequin pose, modern appliances, plastic containers",
+  "reconstruction_priority": [
+    "tactile stop-motion polymer clay facial sculpt and spiky fibrous hair — AI often defaults to smooth generic 3D CGI or real human skin",
+    "coarse knitted wool sweater texture and ribbed stitches — AI tends to blur fabric into flat painted textures",
+    "miniature pottery workbench clutter with rustic handcrafted ceramic vessels — AI risks hallucinating modern glass or uniform shapes",
+    "delicate rising steam wisps and suspended snowflake particles — AI frequently renders steam as solid smoke or omits it entirely"
+  ]
+}

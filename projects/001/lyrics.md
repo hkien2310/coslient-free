@@ -1,0 +1,102 @@
+# PROJECT 001: CLEAN ENGLISH LYRICS — "PAPER CREASES"
+*Thư mục: `projects/001/lyrics.md` | Ngày cập nhật: 05/08/2026*
+
+---
+
+## 1. PURE CLEAN LYRICS (FULL VERSION — ZERO TAGS)
+
+```text
+One flat sheet...
+Pressed upon the pine.
+
+I smoothed my corners down today,
+Like I always do when strangers pass.
+Fits inside the iron tray,
+Clear and plain like window glass.
+
+They like the edges clean and straight,
+A paper crane with quiet wings.
+The more I bend to hold their weight,
+The less my quiet iron sings.
+
+A debt accrued behind the ribs,
+Each quiet yes, each borrowed line.
+The third sharp crease begins to twist,
+A sweeping step of gold design!
+
+Better be rejected for the shape I hold,
+Than loved for a mask of paper fold!
+Let the flat grey skin unweave,
+Spinning free against the breeze!
+
+Underneath the tear lies a leaf of gold,
+A textured stride they cannot hold.
+You were never born to lie down flat,
+Unfold... pirouette... stand right where you at!
+
+My shadow stretches wide and tall,
+Across the porcelain studio floor.
+A sudden leap against the wall,
+I am not a sheet inside a drawer.
+
+Why be a crane in a rigid row?
+Standing tight in a grid of grey?
+A crooked spin, a sudden show,
+Is the only mark I leave today.
+
+Don't shrink your shoulders for their box,
+Don't trim your edges for their room.
+The gold leaf thread begins to knock:
+Truth was never meant for doom!
+
+Better be rejected for the shape I hold,
+Than loved for a mask of paper fold!
+Let the flat grey skin unweave,
+Spinning free against the breeze!
+
+Underneath the tear lies a leaf of gold,
+A textured stride they cannot hold.
+You were never born to lie down flat,
+Unfold... pirouette... stand right where you at!
+
+Judgment comes... it always will.
+No matter how flat you press your chest.
+So why wear out your quiet skin,
+Just to pass an empty test?
+When the price of breath...
+Is stepping out to dance instead?
+
+Better be rejected for the shape I hold,
+Than loved for a mask of paper fold!
+Let the flat grey skin unweave,
+Spinning free against the breeze!
+
+Underneath the tear lies a leaf of gold,
+A textured stride they cannot hold.
+You were never born to lie down flat,
+Unfold... pirouette... stand right where you at!
+
+Drop the crease...
+Take your step...
+You were never built to lie down flat.
+```
+
+---
+
+## 2. PURE CLEAN LYRICS (60-SECOND SHORT VERSION — ZERO TAGS)
+
+```text
+One flat sheet...
+Pressed upon the pine.
+
+The third sharp crease begins to twist,
+A sweeping step of gold design!
+
+Better be rejected for the shape I hold,
+Than loved for a mask of paper fold!
+Underneath the tear lies a leaf of gold,
+Unfold... pirouette... stand right where you at!
+
+You were never born to lie down flat...
+Drop the crease...
+```

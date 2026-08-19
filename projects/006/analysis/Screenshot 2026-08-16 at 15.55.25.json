@@ -1,0 +1,263 @@
+{
+  "___style_anchor": "Handcrafted stop-motion miniature diorama puppet photography — sculpted polymer clay elderly artisan in textured knitwear and tweed cap sitting on a miniature workbench, delicately painting a giant fluffy bumblebee with a fine artist brush against soft lush botanical bokeh.",
+  "visual_mood": {
+    "primary_feeling": "gentle surreal wonder, tender care, and whimsical craftsmanship",
+    "viewer_impression": "an enchanting moment of scale inversion and intimate harmony between human craft and macro nature",
+    "narrative_subtext": "a tiny artisan puppet tenderly grooming and applying golden paint to the face of a gentle giant bumblebee in a sunlit garden"
+  },
+  "medium": {
+    "type": "handcrafted stop-motion diorama miniature puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical miniature puppet craft with clay head, knit fabric garments, synthetic/felt fiber bumblebee fur, and real mossy wood substrate",
+    "backdrop_medium": "shallow-depth-of-field natural garden foliage with soft creamy green bokeh",
+    "render_stylization": "whimsical semi-stylized puppet miniature with surreal macro proportions",
+    "line_art_style": "no outlines — organic physical 3D volumes and soft natural macro lighting",
+    "craft_quality": "master artisan stop-motion diorama production",
+    "physical_material": "matte polymer clay, knitted yarn, tweed fabric, felt, synthetic insect fuzz, balsa wood, real dried moss and stone",
+    "surface_specularity": "matte textile and fur surfaces with glossy compound insect eyes and polished black antennae",
+    "texture_distress_finish": "weathered distressed wood grain on miniature stool, soft yarn fuzz, delicate wool fibers, natural moss texture",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "shiny digital shaders",
+      "vector flat colors",
+      "AI plastic sheen"
+    ]
+  },
+  "design_register": "whimsical surreal cottagecore miniature diorama aesthetic",
+  "subject": {
+    "type": "miniature elderly artisan puppet seated on a small wooden bench painting the face of a giant furry bumblebee",
+    "count": 2,
+    "spatial_distribution": "miniature artisan on left (X=10% to X=40%, Y=20% to Y=90%), giant bumblebee facing him on right (X=45% to X=95%, Y=15% to Y=90%)",
+    "face": {
+      "archetype": "elderly Caucasian artisan puppet in side profile",
+      "skin_tone": "warm peachy cream",
+      "skin_undertone_sss": "subtle warm pink SSS in sculpted clay",
+      "skin_material_feel": "matte polymer clay with sculpted facial creases, defined nose bridge, and smooth aged profile",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 50,
+      "facial_occlusion_boundaries": "tweed flat cap brim low over forehead; white wool beard covering jawline and neck",
+      "face_volume": "gentle delicate elderly profile with pronounced straight nose and soft brow",
+      "forehead_and_skin_planes": "smooth unwrinkled clay brow shaded under cap brim",
+      "face_shape_silhouette": "compact weathered profile transitioning into rounded white beard",
+      "cheek_contour_and_fullness": "slender cheek visible above beard line",
+      "jaw_and_chin_geometry": "concealed beneath neatly trimmed rounded white wool beard",
+      "head_cranial_shape": "compact rounded head covered by tweed cap",
+      "head_pitch_deg": 5,
+      "interpupillary_spacing_and_eye_span": "single visible eye in 90° profile view",
+      "palpebral_fissure_and_canthal_tilt": "narrow focused almond eye looking forward",
+      "eyes": "tiny dark bead pupil with focused affectionate gaze",
+      "nose": "straight classic bridge with rounded tip",
+      "ears": "sculpted ear visible behind hair tuft under cap edge",
+      "lip_geometry_and_philtrum": "tucked beneath white mustache with calm serene expression",
+      "mouth": "closed gentle mouth mostly occluded by mustache"
+    },
+    "body": {
+      "exaggeration_locus": "miniature human scale juxtaposed against giant insect scale",
+      "proportions": {
+        "character_proportions_type": "miniature doll caricature (approx 4-head ratio)",
+        "head_pct": "25%",
+        "torso_pct": "40%",
+        "legs_pct": "35%",
+        "shoulder_width": "narrow 1.1x head width",
+        "body_type": "delicate seated miniature elder",
+        "torso_girth_and_frailty": "compact torso clad in layered knitwear",
+        "silhouette_rigidity_and_geometry": "seated L-shaped profile on wooden workbench",
+        "textile_stiffness_and_hang": "soft cozy drape of miniature knitted wool vest and trousers",
+        "limb_thickness_archetype": "slender wire armature with delicate articulated clay hands and booted feet",
+        "neck_morphology": "short neck enveloped by collar and beard",
+        "neck_length_and_exposure": "concealed by shirt collar and beard",
+        "hands_and_fingers": "slender clay fingers delicately pinching the thin wooden paintbrush handle"
+      },
+      "silhouette": "compact seated L-profile puppet reaching paintbrush toward fuzzy spherical insect mass",
+      "pose": {
+        "stance_type": "seated profile posture on wooden bench",
+        "weight_distribution": "100% seated on rustic wooden bench with legs dangling forward",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 0,
+        "spine_curvature": "upright attentive posture with slight forward inclination",
+        "left_arm_pose": "left hand resting lightly near lap/bench",
+        "right_arm_pose": "right arm extended horizontally holding the paintbrush horizontally toward the bee's face",
+        "leg_and_feet_stance": "both legs bent at 90 degrees at knees over the bench edge, feet in brown leather boots resting near ground",
+        "pose_energy": "calm precision and tender focus"
+      },
+      "seating_and_elevation": {
+        "surface_type": "rustic miniature wooden carpentry stool/bench",
+        "leg_dangle_dynamics": "lower legs dangling vertically over the bench front",
+        "torso_lean_and_posture": "upright focused seated posture"
+      },
+      "hand_pose_interaction": "right hand holding paintbrush with precision grip between thumb and fingertips",
+      "prop_interaction": "paintbrush bristle tip coated in vibrant yellow-orange pigment making light contact with the bumblebee's face/mandibles"
+    },
+    "hair": {
+      "color": "pure white wool fleece",
+      "style": "soft white fringe emerging from beneath the tweed cap above ears and nape",
+      "hair_texture_type": "soft needle-felted wool fleece fibers",
+      "hair_sculptural_form": "compact fibrous tufts framing the back of head and jawline",
+      "volume_density": "medium volume neat beard and hair",
+      "direction": "downward and back beneath cap",
+      "dominant_zone": "lower jaw, chin, and occipital fringe"
+    },
+    "outfit": {
+      "headwear_or_eyewear": "herringbone-textured beige/tan tweed flat cap with stitched brim and rounded crown",
+      "outerwear_and_upper": "dusty slate-blue hand-knitted ribbed sleeveless vest over a cream long-sleeved textured knit sweater",
+      "textile_material_and_gloss": "100% matte spun natural wool and tweed fabrics with tactile yarn loops and herringbone weave",
+      "waist_and_belt_hardware": "hidden beneath sweater hem",
+      "lower_garment_and_drape": "brown felted wool trousers with relaxed fit rolled slightly above ankles",
+      "footwear_and_soles": "dark brown distressed leather miniature lace-up boots with thick rubber soles and ribbed beige knit socks peeking out",
+      "tools_and_accessories": "long natural wooden artist paintbrush with silver metal ferrule and flat bristle loaded with orange paint"
+    },
+    "creature_anatomy": {
+      "species_and_morphology": "giant fuzzy bumblebee (Bombus) with oversized dense furry thorax and abdomen, large oval compound eyes, and jointed black legs",
+      "pelt_feather_scale_texture": "ultra-dense fluffy bright golden-orange synthetic/plush fur across dorsal thorax and abdomen, contrasting with dense jet-black fur on head and lower flanks",
+      "distinguishing_color_patches": "vibrant marigold/amber-orange fuzzy coat spanning thorax and upper abdomen; velvety black furry face and underside",
+      "limb_and_claw_structure": "multi-segmented black spindly insect legs covered in fine bristly black hairs, standing firmly on mossy ground",
+      "facial_features_and_horns": "large smooth glossy jet-black oval compound eye reflecting ambient light, two segmented black antennae arching upward from forehead, and small black mouthparts receiving paint",
+      "tail_and_motion_state": "translucent delicate veined insect wings folded back over abdomen, stationary attentive stance facing the painter",
+      "size_scale_reference": "surreal macro scale: the bee's head and thorax match the seated height of the artisan puppet (~1:1 height equivalence in frame)"
+    }
+  },
+  "multi_subject_breakdown": {
+    "subject_A": {
+      "label": "Miniature Artisan Painter Puppet",
+      "height_relative": "compact seated miniature humanoid puppet (~15cm scale)",
+      "build_and_proportions": "slender delicate elder doll in tweed flat cap and blue knit vest",
+      "limb_thickness_and_legs": "thin wire armature with dangling booted legs",
+      "facial_skin_vs_beard": "smooth pale peach clay face with neat white wool beard",
+      "headwear_structure": "tan tweed flat cap pulled low over brow",
+      "head_facing_azimuth_deg": 90,
+      "body_facing_azimuth_deg": 90,
+      "gaze_target": "bumblebee face and antennae",
+      "face_summary": "gentle elderly profile in clay",
+      "hair_summary": "white wool beard and nape fringe",
+      "outfit_summary": "tweed cap, blue knit vest over cream sweater, brown felt pants, leather boots",
+      "pose_summary": "seated on wooden bench extending paintbrush horizontally to the right"
+    },
+    "subject_B": {
+      "label": "Giant Fluffy Bumblebee",
+      "height_relative": "giant insect scale, equal in seated height to the artisan (~15cm tall creature)",
+      "build_and_proportions": "massive rounded fuzzy thorax and abdomen with thick segmented black legs",
+      "limb_thickness_and_legs": "bristly black jointed chitinous limbs",
+      "facial_skin_vs_beard": "dense black fur face with large glossy black compound eye",
+      "headwear_structure": "none (pair of segmented black antennae)",
+      "head_facing_azimuth_deg": 270,
+      "body_facing_azimuth_deg": 270,
+      "gaze_target": "artisan painter and approaching paintbrush",
+      "face_summary": "fuzzy black insect head with large glossy compound eye",
+      "hair_summary": "dense golden-orange fur mantle on thorax and velvety black facial fluff",
+      "outfit_summary": "natural insect anatomy with folded translucent wings",
+      "pose_summary": "standing firmly on mossy stone surface facing the painter"
+    }
+  },
+  "secondary_subject": {
+    "type": "rustic miniature wooden craft workbench on far left with tiny paint pots, bottles, and a potted plant",
+    "color_morph": "weathered brown wood with small blue ceramic knob on drawer",
+    "count_density": "1 miniature workstation",
+    "size_relative_to_primary": "miniature stool scale matching artisan puppet",
+    "spatial_distribution": "anchored on far left foreground (X=0% to X=20%, Y=55% to Y=85%)",
+    "facing_azimuth_deg": 90,
+    "pose_description": "sturdy miniature four-legged bench supporting the painter",
+    "priority_level": "environmental supporting prop"
+  },
+  "micro_features": [
+    "tiny blue ceramic drawer knob on the weathered miniature wooden workbench beneath the artisan",
+    "vibrant blob of wet orange acrylic paint on the white bristles of the miniature paintbrush",
+    "glossy specular highlight curved across the smooth black compound eye of the giant bumblebee",
+    "fine individual orange synthetic fur fibers catching soft backlighting along the bee's fuzzy dorsal hump",
+    "patches of real green velvet moss and dried lichen clinging to the textured wooden/stone tabletop surface",
+    "tiny eyelets and laces detailed on the artisan's miniature brown leather boots"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm earthy 4500K garden daylight — prohibit harsh fluorescent or cold magenta tints",
+    "color_grading_intent": "rich organic fairy-tale diorama grade with vibrant orange and lush garden greens against earthy browns",
+    "global_saturation_level": "vibrant organic saturation (+15% on bee's orange fur and paint tip, muted natural earth tones on clothing)",
+    "environmental_split_toning": "soft desaturated olive-green background bokeh vs rich golden-amber and slate-blue foreground subjects",
+    "palette": [
+      {
+        "name": "Bumblebee Marigold",
+        "hsl": "hsl(35, 95%, 52%)"
+      },
+      {
+        "name": "Velvet Insect Black",
+        "hsl": "hsl(0, 0%, 12%)"
+      },
+      {
+        "name": "Slate Blue Vest",
+        "hsl": "hsl(205, 25%, 45%)"
+      },
+      {
+        "name": "Tweed Tan",
+        "hsl": "hsl(38, 25%, 65%)"
+      },
+      {
+        "name": "Foliage Green Bokeh",
+        "hsl": "hsl(95, 30%, 35%)"
+      },
+      {
+        "name": "Weathered Timber Brown",
+        "hsl": "hsl(28, 35%, 38%)"
+      }
+    ],
+    "shadow_color": "deep rich chocolate brown in wood grain and soft black under insect belly",
+    "highlight_color": "warm golden specular on bee fur rim and crisp white reflection on eye",
+    "contrast_profile": "medium contrast with soft roll-off in highlights and rich velvety shadows",
+    "saturation_map": "peak saturation on bumblebee thorax and brush tip; medium saturation on vest; low-to-medium on background greens",
+    "skin_warmth_vs_env_contrast": "warm peach clay flesh and vibrant orange bee fur pop vividly against muted green foliage",
+    "color_temperature": "4500K warm diffused natural daylight"
+  },
+  "lighting": {
+    "drama_level": "soft whimsical natural daylight with gentle directional warmth",
+    "key_light": {
+      "azimuth_deg": -45,
+      "elevation_deg": 35,
+      "quality": "diffused softbox / window light",
+      "color_temp_K": 4800
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 25,
+      "ratio": "1:2 soft natural fill preserving deep fur textures"
+    },
+    "rim_light": {
+      "azimuth_deg": 135,
+      "elevation_deg": 55,
+      "surfaces": "golden rim highlight along top curve of bee's orange fur and tweed cap crown"
+    },
+    "ambient_bounce": "gentle green and earthy bounce from mossy foreground shelf"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "left 40% occupied by seated artisan and workbench; right 55% occupied by giant bumblebee; ground plane along bottom 20%; lush green bokeh across top 80%",
+    "layer_stack_z_index": "Layer 0: Out-of-focus garden foliage -> Layer 1: Giant bumblebee and seated artisan puppet -> Layer 2: Extended paintbrush bridging the central gap",
+    "framing_crop": "medium close-up profile shot",
+    "subject_vertical_fill_pct": 70,
+    "headroom_and_ground_clearance": "15% soft green headroom above cap and bee back; 15% ground clearance below bench and boots",
+    "frame_edge_clipping_and_bleed": "artisan's bench cropped on left edge; bee's rear legs and wings bleed slightly beyond right edge",
+    "ground_pedestal": "moss-covered rustic wooden plank / flagstone ledge",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 90,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "artisan profile, paintbrush, bee head, compound eye, and front thorax fur",
+      "blurred_zone": "background garden leaves and distant foliage",
+      "blur_strength": "f/2.0 shallow macro depth of field with large smooth circular bokeh discs"
+    },
+    "rule_of_thirds": "artisan puppet aligns with left vertical third line; bumblebee's head and eye align with center-right third line; paintbrush spans center point"
+  },
+  "background": {
+    "setting": "enchanted garden / natural sunlit foliage setting",
+    "key_elements": "large soft blurred green leaves, out-of-focus stems, and warm natural dappled light",
+    "layer_order": "ground shelf -> subjects -> deep foliage bokeh",
+    "background_density": "clean minimalist green bokeh backdrop",
+    "background_treatment": "heavily diffused macro botanical blur"
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic skin, glossy CGI render, flat 2D digital drawing, vector art, cartoon drawing, real biological human skin, deformed hands, extra fingers, scary insect teeth, grotesque insect mouthparts, oversaturated neon colors, harsh flash glare",
+  "reconstruction_priority": [
+    "tactile scale juxtaposition between tiny handcrafted puppet and giant fluffy bumblebee — AI frequently normalizes scales to standard insect size or renders the bee as a tiny speck",
+    "delicate horizontal paintbrush contact connecting the artisan's hand to the bee's face — AI often breaks the brush shaft or misaligns the hand grip",
+    "dense tactile synthetic fur texture of the bumblebee and knitted wool loops of the puppet's clothing — AI tends to melt fibers into smooth airbrushed CGI gradients",
+    "shallow macro depth of field with razor-sharp plane of focus on the interaction and creamy foliage bokeh — AI often sharpens background leaves indiscriminately"
+  ]
+}

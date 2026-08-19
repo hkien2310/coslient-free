@@ -1,0 +1,222 @@
+{
+  "___style_anchor": "Handcrafted stop-motion diorama miniature puppet photography — sculpted matte polymer clay head and hands with fine tactile wrinkles, needle-felted white wool frizzy hair, hand-knitted miniature wool textiles, and balsa wood architectural birdhouse miniatures under soft warm indoor workshop lighting.",
+  "visual_mood": {
+    "primary_feeling": "warm contemplative craftsmanship and gentle domestic nostalgia",
+    "viewer_impression": "an intimate sense of peaceful devotion to miniature architectural handicraft alongside living nature",
+    "narrative_subtext": "an elderly master craftsman intently drafting architectural blueprints for whimsical miniature birdhouses as real and miniature birds observe peacefully"
+  },
+  "medium": {
+    "type": "handcrafted stop-motion diorama miniature puppet photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "physical miniature puppet craft — sculpted matte polymer clay skin with carved wrinkle crevices, needle-felted wool fiber hair, and bespoke miniature knitted yarn clothing",
+    "backdrop_medium": "shallow-depth-of-field workshop diorama with weathered wooden shelves, storage boxes, and soft studio window light",
+    "render_stylization": "semi-stylized puppet caricature with realistic physical materials and macro photographic optics",
+    "line_art_style": "no outlines — organic physical 3D volumetric surfaces and real macro optical shadows",
+    "craft_quality": "master artisan handcrafted stop-motion production quality",
+    "physical_material": "matte polymer clay, needle-felted wool, miniature spun yarn knitwear, balsa wood, cardstock drafting paper, graphite pencil",
+    "surface_specularity": "predominantly matte fibrous textiles and dry clay surfaces with subtle satin sheen on dark spectacle frames and pencil lacquer",
+    "texture_distress_finish": "fine organic clay tool marks, yarn fuzz, paper grain, and distressed weathered wood stain on miniature buildings",
+    "weathering_intensity_0to10": 2,
+    "forbidden_surfaces": [
+      "high-gloss CGI plastic",
+      "airbrushed digital skin",
+      "procedural 3D noise",
+      "vector graphics",
+      "flat 2D illustration"
+    ]
+  },
+  "design_register": "cozy artisan folk miniature diorama stop-motion aesthetic",
+  "subject": {
+    "type": "elderly miniature artisan architect puppet drafting at a wooden workbench surrounded by miniature birdhouses and small birds",
+    "count": 1,
+    "spatial_distribution": "primary puppet centered in midground (X=45% to X=85%, Y=10% to Y=90%), drafting desk in foreground, birdhouses flanking left and right",
+    "face": {
+      "archetype": "stylized elderly male artisan puppet",
+      "skin_tone": "warm pale peachy cream",
+      "skin_undertone_sss": "subtle warm peach subsurface translucency in matte clay",
+      "skin_material_feel": "matte sculpted polymer clay with delicate carved forehead wrinkles and fine eyelid creases",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 70,
+      "facial_occlusion_boundaries": "thick circular black-rimmed glasses covering eye sockets; dense bushy white wool beard covering lower jaw, chin, and neck",
+      "face_volume": "elongated caricature structure with prominent drooping nose, slender sculpted brow planes, and gentle aged facial structure",
+      "forehead_and_skin_planes": "matte clay forehead etched with three parallel horizontal carved wrinkle grooves",
+      "face_shape_silhouette": "narrow elongated oval tapering downward into dense triangular white wool beard",
+      "cheek_contour_and_fullness": "slender flat cheek planes framed by dense wool beard",
+      "jaw_and_chin_geometry": "fully concealed beneath voluminous sculpted white wool beard",
+      "head_cranial_shape": "compact oval cranium enveloped in a cloud of fuzzy white wool fibers",
+      "head_pitch_deg": 25,
+      "interpupillary_spacing_and_eye_span": "standard proportion framed inside round spectacle lenses",
+      "palpebral_fissure_and_canthal_tilt": "hooded downward-looking almond eyes with neutral canthal tilt visible behind glass lenses",
+      "eyes": "dark brown irises looking downward in focused concentration through clear optical spectacle lenses",
+      "nose": "elongated caricature nose with straight bridge and gently rounded drooping tip descending over upper mustache",
+      "ears": "prominent stylized ears with curved cartilage protruding outward from beneath hair on near right side",
+      "lip_geometry_and_philtrum": "philtrum and lips largely concealed beneath thick drooping white wool mustache",
+      "mouth": "neutral focused unsmiling expression mostly covered by white mustache and beard"
+    },
+    "body": {
+      "exaggeration_locus": "oversized expressive head and large delicate sculpted clay hands on a hunched seated torso",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet caricature (approximately 4.5-head ratio)",
+        "head_pct": "30%",
+        "torso_pct": "45%",
+        "legs_pct": "25% (seated below table line)",
+        "shoulder_width": "moderate 1.4x head width draped in bulky knit sweater",
+        "body_type": "hunched elderly artisan frame clad in chunky knitwear",
+        "torso_girth_and_frailty": "slender puppet armature bulked out by thick textured wool knitwear",
+        "silhouette_rigidity_and_geometry": "rounded hunched triangular silhouette leaning forward over workspace",
+        "textile_stiffness_and_hang": "soft chunky ribbed yarn drape over shoulders and forearms",
+        "limb_thickness_archetype": "slender wire armature enclosed in thick knitted sleeves ending in delicate articulated clay hands",
+        "neck_morphology": "short forward-inclined neck hidden within collar and beard",
+        "neck_length_and_exposure": "completely concealed by thick beard and sweater collar",
+        "hands_and_fingers": "sculpted clay hands with visible knuckle joints, textured skin folds, and slender fingers gripping pencil and steadying blueprint"
+      },
+      "silhouette": "compact seated hunched artisan triangle leaning over flat architectural drafting paper",
+      "pose": {
+        "stance_type": "seated hunched forward drafting posture",
+        "weight_distribution": "leaning forward with weight supported by forearms resting on drafting desk",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 5,
+        "spine_curvature": "gentle forward C-curve hunch of focused craftwork",
+        "left_arm_pose": "left forearm extended across drafting table with open relaxed clay fingers resting lightly near blueprint lines",
+        "right_arm_pose": "right elbow bent forward, right hand grasping an orange drafting pencil with graphite tip contacting paper",
+        "leg_and_feet_stance": "seated behind workbench, lower body occluded by tabletop",
+        "pose_energy": "quiet meditative artisanal concentration"
+      },
+      "seating_and_elevation": {
+        "surface_type": "seated on wooden studio chair behind flat drafting desk",
+        "leg_dangle_dynamics": "lower limbs tucked under desk out of frame",
+        "torso_lean_and_posture": "hunched forward attentively over paper"
+      },
+      "hand_pose_interaction": "right hand holding orange hexagonal pencil between thumb and index finger; left hand splayed open on paper surface",
+      "prop_interaction": "pencil tip actively drawing fine architectural blueprint line on paper sheet"
+    },
+    "hair": {
+      "color": "silvery white and light grey wool fibers with soft tonal variation",
+      "style": "frizzy wild cloud of untamed wool hair standing vertically around crown and temples",
+      "hair_texture_type": "dense crimped needle-felted wool fibers with wispy halo fuzz",
+      "hair_sculptural_form": "voluminous crown cluster of frizzy wool strands radiating outwards",
+      "volume_density": "high-volume airy wool halo",
+      "direction": "upward and outward radial fluff from crown",
+      "dominant_zone": "crown, temples, and upper parietal zone"
+    },
+    "outfit": {
+      "headwear_or_eyewear": "thick circular black-rimmed round spectacles with thin wire temples resting on nose bridge and looping behind prominent ears",
+      "outerwear_and_upper": "chunky hand-knitted navy and slate-blue melange wool cardigan sweater with heavy ribbed stitch pattern",
+      "inner_layer_topology": "collared light beige/grey inner shirt visible at throat opening with narrow dark olive necktie",
+      "textile_material_and_gloss": "100% matte spun wool yarn with visible individual purl and knit loops, zero sheen",
+      "sleeve_drape_and_cuffs": "thick chunky ribbed cuffs pulled up slightly along clay forearms with soft folds at elbows",
+      "drafting_accessories": "long orange-lacquered wooden pencil with sharpened natural wood taper and fine graphite core"
+    }
+  },
+  "secondary_subject": {
+    "type": "two miniature companion songbirds (one orange-breasted robin perched atop the tall birdhouse chimney on the left, one smaller pale blue/grey bird on the adjacent small birdhouse)",
+    "color_morph": "orange breast, slate-grey back and wings, white-grey head cap with dark beak",
+    "count_density": "2 distinct miniature birds",
+    "size_relative_to_primary": "miniature scale: robin is approximately 0.15x head height of the craftsman puppet",
+    "spatial_distribution": "one bird atop central tall birdhouse roof at left-midground; second bird perched on small cottage birdhouse on far left",
+    "facing_azimuth_deg": 45,
+    "pose_description": "alert upright perching stance with smooth plumage and tiny black bead eyes observing the workshop",
+    "priority_level": "secondary focal accent"
+  },
+  "micro_features": [
+    "delicate hand-drawn graphite floorplans and elevation sketches across the cream cardstock drafting sheet",
+    "miniature multi-story wooden birdhouse on left with tiny shingled roof, arched attic window, timber-framed stucco walls, and small twig railings",
+    "shorter rustic birdhouse on far right with thatch/bark roof shingles, circular entry hole, and textured balsa wood siding",
+    "tiny potted bonsai tree with green lichen foliage nestled beside the miniature houses on the left workbench",
+    "faint carved skin creases across knuckles and tendons of the artisan's sculpted clay hands",
+    "individual fuzzy wool strands catching soft rim backlight along the crown of the artisan's white hair"
+  ],
+  "color_grading": {
+    "overall_color_cast": "warm cozy 4200K interior ambient wash — prohibit cold blue hospital cast",
+    "color_grading_intent": "warm artisan European stop-motion cinematic palette with rich wood tones, navy wool, and soft cream paper",
+    "global_saturation_level": "balanced naturalistic saturation (+5% warm earth tones and navy, vibrant orange accent on pencil and robin breast)",
+    "environmental_split_toning": "cool slate-grey ambient shadows in background workshop vs warm golden-amber directional desk illumination on foreground subjects",
+    "palette": [
+      {
+        "name": "Slate Navy Wool",
+        "hsl": "hsl(215, 30%, 35%)"
+      },
+      {
+        "name": "Warm Balsa Wood",
+        "hsl": "hsl(35, 45%, 65%)"
+      },
+      {
+        "name": "Robin Orange",
+        "hsl": "hsl(22, 85%, 55%)"
+      },
+      {
+        "name": "Drafting Paper Cream",
+        "hsl": "hsl(40, 35%, 88%)"
+      },
+      {
+        "name": "Clay Flesh",
+        "hsl": "hsl(25, 40%, 75%)"
+      },
+      {
+        "name": "Workshop Background Slate",
+        "hsl": "hsl(205, 15%, 40%)"
+      }
+    ],
+    "shadow_color": "deep warm brown-slate in crevices and under desk",
+    "highlight_color": "soft warm off-white specular on paper and clay brow",
+    "contrast_profile": "medium-high cinematic contrast with rich shadow depth and crisp focal highlights",
+    "saturation_map": "highest saturation on orange robin breast and pencil; moderate saturation on blue sweater; desaturated background",
+    "skin_warmth_vs_env_contrast": "warm peach clay flesh stands out crisply against deep muted slate-blue background",
+    "color_temperature": "4200K warm interior tungsten mixed with 5500K soft window fill"
+  },
+  "lighting": {
+    "drama_level": "gentle narrative drama with focused artisanal work light",
+    "key_light": {
+      "azimuth_deg": -35,
+      "elevation_deg": 45,
+      "quality": "soft diffused directional desk lamp",
+      "color_temp_K": 3800
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 30,
+      "ratio": "1:3 soft ambient shadow fill"
+    },
+    "rim_light": {
+      "azimuth_deg": 160,
+      "elevation_deg": 50,
+      "surfaces": "halo glow on white wool hair fibers, shoulder contours, and top edge of birdhouse roofs"
+    },
+    "ambient_bounce": "warm timber bounce from wooden workbench surface into chin and underarms"
+  },
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "workbench horizontal plane occupies bottom 25%; artisan puppet occupies right-center 55%; birdhouse structures anchor left 35% and far right 15%",
+    "layer_stack_z_index": "Layer 0: Out-of-focus workshop background with shelves and window -> Layer 1: Miniature birdhouses and artisan puppet torso -> Layer 2: Drafting blueprint, pencil, and hands in foreground",
+    "framing_crop": "medium close-up workbench view",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "15% headroom above hair crown to top frame; 10% foreground clearance below drafting paper edge",
+    "frame_edge_clipping_and_bleed": "shoulders extend to right edge; birdhouse on right cropped slightly at frame border",
+    "ground_pedestal": "rustic dark wooden workbench surface",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": -20,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "artisan face, glasses, hands, pencil, blueprint, and foreground miniature birdhouses",
+      "blurred_zone": "workshop shelves, background storage boxes, and rear window architecture",
+      "blur_strength": "f/2.8 shallow macro depth of field with creamy circular background bokeh"
+    },
+    "rule_of_thirds": "artisan puppet's head and glasses align with upper-right intersection; primary tall birdhouse aligns with left third line"
+  },
+  "background": {
+    "setting": "cozy artisan woodworking workshop / diorama studio",
+    "key_elements": "wooden cubbies, rustic storage bins, hanging craft tools, blurred multi-pane window letting in soft daylight",
+    "layer_order": "workbench -> artisan & birdhouses -> studio backdrop",
+    "background_density": "moderately dense with artisan props, softened by heavy optical blur",
+    "background_treatment": "atmospheric soft-focus warm blue-grey workshop interior"
+  },
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic skin, glossy CGI render, flat 2D digital drawing, cartoon vector, anime illustration, photorealistic real human flesh, deformed hands, missing fingers, extra limbs, modern digital technology, computer screens, plastic toys, oversaturated neon lighting",
+  "reconstruction_priority": [
+    "tactile stop-motion material authenticity (polymer clay skin, genuine knit yarn loops, real needle-felted wool hair) — AI often replaces handcrafted tactile textures with generic smooth CGI plastic",
+    "miniature architectural craftsmanship of birdhouses with balsa wood, twig railings, and thatch — AI frequently simplifies detailed miniature buildings into blurry indistinct boxes",
+    "exact hand-pencil interaction drafting fine lines on blueprint paper — AI often garbles hand gripping mechanics and pencil orientation",
+    "scale relationship between puppet craftsman, miniature birdhouses, and tiny lifelike songbirds — AI tends to hallucinate inconsistent scale or merge bird anatomy into wood"
+  ]
+}

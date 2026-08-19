@@ -1,0 +1,237 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — tactile physical miniature diorama with sculpted matte polymer clay elderly male puppet wearing wire-rim spectacles, holding a miniature ceramic tea mug on a weathered wooden balcony overlooking a twilight city with glowing window bokeh",
+
+  "visual_mood": {
+    "primary_feeling": "pensive serenity, quiet twilight contemplation, gentle urban solitude, and peaceful evening warmth",
+    "viewer_impression": "an intimate, poetic scene of an elderly scholar or thinker enjoying a hot drink on a high balcony while gazing across a dusky European city",
+    "narrative_subtext": "an elderly gentleman pausing at dusk to breathe in the cool evening air, sipping warm tea as the city lights flicker on below him"
+  },
+
+  "medium": {
+    "type": "physical stop-motion puppet photography with handcrafted miniature architectural set and practical cinematic macro lens",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated stop-motion puppet with matte sculpted polymer clay skin, tousled fine white synthetic fiber hair, miniature wireframe spectacles, and bespoke tailored miniature woolen coat",
+    "backdrop_medium": "physical miniature European city diorama at twilight with stacked stone building facades, warm illuminated incandescent window points, and atmospheric dusk haze",
+    "render_stylization": "semi-stylized puppet realism with poetic folk caricature",
+    "line_art_style": "no outlines — pure physical volumetric form, organic light-shadow falloff, and shallow depth-of-field optical blur",
+    "craft_quality": "master artisan stop-motion studio puppet fabrication and miniature set construction",
+    "physical_material": "matte polymer clay, synthetic mohair fibers, miniature metal wire spectacles, glazed miniature ceramic cup, weathered balsa/pine timber, and woven wool",
+    "surface_specularity": "predominantly matte fibrous textiles and satin clay skin with subtle specular highlights on glazed ceramic mug and metal spectacle frames",
+    "texture_distress_finish": "authentic tactile hair frizz, miniature coat fabric weave, aged wooden grain with fine fissures, and soft atmospheric blur",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D subsurface scattering sheen",
+      "flat vector fills",
+      "procedural clean textures",
+      "photorealistic human skin pores"
+    ]
+  },
+
+  "design_register": "poetic European stop-motion diorama, quiet evening character study",
+
+  "subject": {
+    "type": "elderly male puppet standing on a wooden balcony holding a ceramic mug",
+    "count": 1,
+    "spatial_distribution": "positioned in the right third of the frame in profile, gazing outward toward the left across the open twilight cityscape",
+
+    "face": {
+      "archetype": "contemplative elderly scholar / thinker puppet with delicate stylized features",
+      "skin_tone": "warm pale beige with subtle natural clay undertones",
+      "skin_undertone_sss": "soft clay translucency with subtle warmth along nasal bridge and cheek",
+      "skin_material_feel": "matte sculpted polymer clay with smooth satin texture and subtle hand-sculpted planes",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "matte velvet with delicate soft highlights along nasal bridge",
+      "face_exposure_pct": 95,
+      "facial_occlusion_boundaries": "temples and ears framed by tousled white hair; bridge of nose bridged by wire-rim spectacles",
+      "face_paint": "subtle airbrushed warmth on nose and soft warm-grey shading under jawline",
+      "face_volume": "elongated slender cranial structure with delicate jawline and prominent high forehead",
+      "forehead_and_skin_planes": "smooth sculpted forehead planes conveying serene, thoughtful composure",
+      "face_shape_silhouette": "slender profile with prominent pointed curved nose, delicate chin, and neat beard",
+      "cheek_contour_and_fullness": "lean sculpted cheek planes without excessive puffiness",
+      "jaw_and_chin_geometry": "slender jawline tapering to a neat rounded chin covered by trimmed white beard",
+      "head_cranial_shape": "rounded cranial dome crowned by thick, tousled white hair",
+      "head_pitch_deg": 8,
+      "interpupillary_spacing_and_eye_span": "profile perspective showing left eye socket framed by round spectacle lens",
+      "palpebral_fissure_and_canthal_tilt": "gentle almond-shaped eye gazing serenely outward toward the horizon",
+      "eyes": "dark glossy pupil bead set behind miniature circular wire spectacle lens",
+      "nose": "prominent elongated curved beak-like nose with slender bridge and rounded tip",
+      "ears": "large stylized sculpted C-shaped ear positioned naturally beneath hair tufts",
+      "lip_geometry_and_philtrum": "thin sculpted pale lips closed in a calm, thoughtful resting expression",
+      "mouth": "closed tranquil mouth expressing peaceful contemplation",
+      "facial_hair": "neatly trimmed white-silver goatee beard and mustache made of fine textured fibers",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "slender elongated neck and delicate articulated puppet arms leaning on a miniature wooden balustrade",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet (approximately 5-head ratio)",
+        "head_pct": "28%",
+        "torso_pct": "42%",
+        "legs_pct": "30% (occluded below balcony railing)",
+        "shoulder_width": "narrow and upright (approx 1.3x head width)",
+        "body_type": "slender elderly gentleman puppet",
+        "torso_girth_and_frailty": "slender puppet frame dressed in structured wool overcoat",
+        "silhouette_rigidity_and_geometry": "clean vertical profile anchored on the right by the vertical architectural frame",
+        "textile_stiffness_and_hang": "tailored miniature wool coat draping cleanly over puppet shoulders",
+        "limb_thickness_archetype": "slender articulated puppet arms",
+        "neck_morphology": "elongated slender neck rising gracefully from cream shirt collar",
+        "neck_length_and_exposure": "moderately exposed, emphasizing the slender puppet anatomy",
+        "hands_and_fingers": "sculpted matte clay hands holding the ceramic cup with two hands"
+      },
+      "height_ratios": "primary subject occupying vertical right third from chest level upward",
+      "silhouette": "distinctive profile silhouette against the soft twilight city backdrop",
+      "pose": {
+        "stance_type": "standing at wooden balcony railing in side profile",
+        "weight_distribution": "balanced upright stance leaning gently against railing",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 0,
+        "spine_curvature": "straight, dignified posture with head tilted slightly upward",
+        "left_arm_pose": "left forearm bent at elbow, hand grasping front side of ceramic mug",
+        "right_arm_pose": "right hand supporting the opposite side of the mug near chest height",
+        "leg_and_feet_stance": "occluded behind solid wooden balcony railing",
+        "pose_energy": "tranquil, contemplative, peaceful stillness"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing on elevated upper-floor balcony",
+        "leg_dangle_dynamics": "occluded",
+        "torso_lean_and_posture": "upright with slight forward inclination toward railing"
+      },
+      "hand_pose_interaction": "holding a miniature ceramic mug with both hands as if savoring warmth",
+      "prop_interaction": "ceramic cup, wooden railing, balcony pots and glass jars on shelf",
+      "prop_asymmetry_load": "balanced two-handed cup hold at chest height",
+      "weapon_morphology": "none"
+    },
+
+    "hair": {
+      "color": "pure white with subtle silver-grey fiber strands",
+      "style": "thick, tousled, wind-blown crop with natural airy volume and soft spikes",
+      "ahoge_cowlick": "airy wisps standing slightly raised at the crown",
+      "hair_texture_type": "fine synthetic mohair fiber with authentic soft tactile frizz",
+      "hair_sculptural_form": "voluminous airy crown tapering neatly around the nape and ears",
+      "volume_density": "high fluffy density with light, wispy outer halo",
+      "direction": "windswept slightly backward and upward",
+      "dominant_zone": "cranial crown and parietal zones",
+      "updo_containment": "uncontained free-flowing short style",
+      "accessories": "round wireframe metal spectacles"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "delicate miniature circular wire-rim spectacles resting on nose bridge",
+      "outerwear_and_upper": "tailored charcoal-navy wool blazer/coat with textured fabric weave and tiny button detail on cuff",
+      "inner_shirt_layer": "cream woven linen shirt collar peeking out above coat neckline",
+      "textile_material_and_gloss": "100% matte coarse miniature woven wool and textured cotton linen",
+      "collar_and_neckline_topology": "clean notch lapel collar framing the high cream shirt collar",
+      "cuff_and_sleeve_structure": "structured wool sleeves with miniature cuff buttons around clay wrists",
+      "tabletop_props_and_curios": "miniature ceramic coffee/tea cup with tiny handle; orange wool blanket, small glass apothecary bottles and jars resting on balcony ledge on right",
+      "jewelry_and_accessories": "metal wire spectacles"
+    }
+  },
+
+  "micro_features": [
+    "Delicate circular wire spectacles accurately scaled to puppet face geometry",
+    "Individual wispy hair fibers catching the soft twilight rim-light in an airy halo",
+    "Miniature ceramic glaze finish and tiny loop handle on the coffee mug held between clay hands",
+    "Aged, weathered timber texture on the balcony railing with individual vertical balusters and carved joints",
+    "Warm glowing square window apertures scattered across the out-of-focus background city",
+    "Cozy orange blanket and miniature apothecary glass jars nestled on the right balcony shelf",
+    "Subtle wrought-iron decorative bracket extending from the weathered exterior building wall"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "dusk twilight slate-blue 6000K atmospheric ambiance paired with warm 2600K glowing incandescent windows and warm clay skin tones",
+    "color_grading_intent": "classic cinematic twilight split-toning — cool poetic exterior vs warm cozy human elements",
+    "global_saturation_level": "moderately rich in warm window accents and orange blanket, contrasted with muted slate-blue evening sky and charcoal coat",
+    "environmental_split_toning": "cool dusky slate-navy shadows across distant rooftops balanced with warm amber-gold window lights and warm clay face highlights",
+    "palette": [
+      { "name": "twilight slate blue", "hsl": "hsl(215, 25%, 35%)" },
+      { "name": "warm window amber", "hsl": "hsl(38, 90%, 55%)" },
+      { "name": "charcoal navy coat", "hsl": "hsl(220, 20%, 25%)" },
+      { "name": "burnt orange blanket", "hsl": "hsl(20, 80%, 48%)" },
+      { "name": "weathered timber grey", "hsl": "hsl(30, 15%, 45%)" },
+      { "name": "porcelain clay beige", "hsl": "hsl(35, 30%, 82%)" }
+    ],
+    "shadow_color": "deep cool slate-indigo and muted charcoal",
+    "highlight_color": "warm glowing amber-gold and soft twilight sky ambient",
+    "contrast_profile": "medium-high cinematic contrast with luminous window highlights against rich dusk shadows",
+    "saturation_map": "high on incandescent window squares and orange blanket, low on background stone city, balanced on puppet",
+    "skin_warmth_vs_env_contrast": "warm illuminated clay face stands out crisply against the cool deep-blue evening sky",
+    "color_temperature": "cool ambient 6000K balanced with 2600K warm interior accent points"
+  },
+
+  "lighting": {
+    "drama_level": "moody, atmospheric, poetic twilight lighting",
+    "key_light": {
+      "azimuth_deg": -60,
+      "elevation_deg": 25,
+      "quality": "soft diffuse twilight skylight illuminating the front of the face and cup",
+      "color_temp_K": 5500
+    },
+    "fill_light": {
+      "azimuth_deg": 60,
+      "elevation_deg": 20,
+      "ratio": "1:2 soft warm fill from interior doorway behind subject"
+    },
+    "rim_light": {
+      "azimuth_deg": -150,
+      "elevation_deg": 35,
+      "surfaces": "delicate cool edge glow along the tousled white hair strands and top of the wooden railing"
+    },
+    "ambient_bounce": "cool dusk atmospheric fill softly illuminating deep shadows",
+    "special": "scattered point-source practical incandescent lights in distant building windows casting soft circular bokeh"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "asymmetric rule-of-thirds staging: left 60% open dusky cityscape with glowing window lights; right 40% vertical balcony and pensive elderly puppet figure",
+    "layer_stack_z_index": "Layer 0: twilight sky and distant city skyline -> Layer 1: midground stone apartments with glowing windows -> Layer 2: wooden balcony architecture -> Layer 3: elderly puppet figure with ceramic mug in sharp focus",
+    "framing_crop": "medium horizontal shot framed from mid-torso to head",
+    "subject_vertical_fill_pct": 70,
+    "headroom_and_ground_clearance": "15% headroom above hair; lower body framed below balcony balustrade",
+    "frame_edge_clipping_and_bleed": "building wall and window frame bleed off right canvas; open city expands infinitely to the left",
+    "ground_pedestal": "handcrafted timber balcony railing with carved vertical supports",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": -80,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "crisp focus on puppet's profile, hair, spectacles, ceramic mug, and wooden railing",
+      "blurred_zone": "creamy progressive optical falloff across distant city buildings and glowing windows",
+      "blur_strength": "f/2.4 cinematic macro optical blur creating soft background bokeh discs"
+    },
+    "rule_of_thirds": "puppet's head and eye line aligned along the right vertical third; looking across open left two-thirds",
+    "grid_and_accent_anchors": {
+      "construction_grid": "asymmetric balance of positive mass on right vs negative atmospheric space on left",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "historic European city skyline at dusk viewed from a high balcony",
+    "key_elements": "silhouette of stone buildings, glowing amber window squares, misty twilight sky, wrought-iron decorative details",
+    "layer_order": "distant dusk sky -> mid-distance urban apartment facades with glowing windows -> foreground balcony and subject",
+    "background_density": "moderate density softened by atmospheric haze and optical blur",
+    "background_treatment": "cinematic macro defocus with warm circular light bokeh"
+  },
+
+  "typography_and_graphic_elements": {
+    "__note": "No text, typography, logos, or graphic overlays present in the image."
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, digital 3D render, Pixar style, Disney style, photorealistic human skin, modern skyscraper, neon futuristic city, bright harsh daylight, distorted hands",
+
+  "reconstruction_priority": [
+    "tactile stop-motion puppet materials (matte polymer clay skin, fine mohair white hair, authentic wire spectacles, tailored wool coat) — AI often replaces with generic 3D CGI or human skin",
+    "poetic side-profile composition looking out over negative space across a twilight city — AI tends to center the figure or turn them facing the camera",
+    "intricate miniature set details (weathered carved wood balcony railing, orange blanket, glass jars, ceramic mug) — AI often hallucinates modern metal or plastic furniture",
+    "delicate dual-temperature lighting (cool dusk slate-blue exterior vs warm 2600K interior window points with genuine optical bokeh) — AI often flattens the lighting into generic single-tone daylight"
+  ]
+}

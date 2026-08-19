@@ -1,0 +1,243 @@
+{
+  "___style_anchor": "Stop-motion puppet animation macro cinematography — sculpted silicone and polymer clay elderly puppet with tactile wool tweed tailoring reflected in an antique vanity mirror diorama",
+
+  "visual_mood": {
+    "primary_feeling": "quiet introspective dignity, poignant vulnerability, and contemplative craftsmanship",
+    "viewer_impression": "an intimate, cinematic glimpse into an elderly handcrafted figure thoughtfully grooming himself in front of an antique mirror",
+    "narrative_subtext": "an elderly gentleman puppet adjusting his tweed coat lapels with aged hands while gazing quietly at his own reflection"
+  },
+
+  "medium": {
+    "type": "physical handcrafted stop-motion puppet miniature photography",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "hand-sculpted silicone and clay puppet head with etched skin micro-folds, mohair hair fibers, and miniature tailored woven tweed suit",
+    "backdrop_medium": "physical miniature room interior with a real carved wooden mirror frame and glass reflection",
+    "render_stylization": "semi-stylized stop-motion caricature",
+    "line_art_style": "no outlines — tactile physical sculpture with natural optical light falloff and depth",
+    "craft_quality": "master artisan studio stop-motion character fabrication",
+    "physical_material": "sculpted polymer clay/silicone, curly white mohair yarn, coarse textured woven woolen fabric, and carved dark wood mirror frame",
+    "surface_specularity": "matte clay skin with soft satin sheen on the bald cranium and nose bridge, with authentic glass specular reflections in the mirror",
+    "texture_distress_finish": "heavily etched character age creases, textured yarn weave, and antique distressed wood patina",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital airbrushing",
+      "flat 2D vector fills",
+      "hyper-glossy porcelain"
+    ]
+  },
+
+  "design_register": "intimate stop-motion character drama and artisanal folk cinematography",
+
+  "subject": {
+    "type": "elderly caricatured gentleman puppet with bald cranium, curly white hair, oversized hooked bulbous nose, and tailored brown tweed coat",
+    "count": 1,
+    "spatial_distribution": "character occupies the left-to-center midground in profile (X=10% to 55%), facing the mirror situated on the right (X=55% to 95%)",
+
+    "face": {
+      "archetype": "stylized elderly gentleman / scholar folk puppet caricature",
+      "skin_tone": "warm aged peachy cream with warm umber shading in the creases",
+      "skin_undertone_sss": "subtle fleshy subsurface scattering around the translucent ear rim, eyelids, and nose",
+      "skin_material_feel": "tactile micro-porous sculpted clay skin with intricately etched wrinkles, folds, and neck creases",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "natural matte velvet with soft satin highlight along the upper cranial curve and nose bridge",
+      "face_exposure_pct": 100,
+      "facial_occlusion_boundaries": "none — full side profile clearly visible",
+      "face_paint": "",
+      "face_volume": "stylized caricature featuring a smooth domed bald cranium, bushy textured eyebrows, prominent elongated curved nose, and deeply creased jowls",
+      "forehead_and_skin_planes": "smooth rounded bald cranium on top transitioning into deep horizontal and diagonal sculpted creases across the lower temples and cheeks",
+      "face_shape_silhouette": "caricatured side profile dominated by the prominent forward-arching bulbous nose and delicate receded chin",
+      "cheek_contour_and_fullness": "slender weathered cheeks etched with dense vertical age creases and defined skin folds",
+      "jaw_and_chin_geometry": "small rounded chin tucked below thin pressed lips and an elongated neck",
+      "head_cranial_shape": "smooth elongated bald cranium dome with voluminous curly hair tufts around the sides and occiput",
+      "head_pitch_deg": 0,
+      "interpupillary_spacing_and_eye_span": "single eye visible in strict 3/4 profile, well-set below heavy sculpted brow",
+      "palpebral_fissure_and_canthal_tilt": "hooded almond eye with defined upper eyelid fold and neutral-to-subtle downward canthal tilt",
+      "eyes": "dark glossy pupil with warm brown iris, sculpted eyelid margins, and a focused contemplative gaze fixed on the mirror",
+      "nose": "greatly exaggerated elongated smooth bulbous hooked nose curving gracefully downward past the upper lip line",
+      "ears": "large sculpted ear in side profile with prominent outer helix, antihelix, and deep concha, showing soft translucency",
+      "lip_geometry_and_philtrum": "thin pressed lips set in a quiet, neutral-to-somber contemplative line beneath the heavy nose",
+      "mouth": "closed mouth with subtle downward curve at the corner and delicate chin crease",
+      "markings": "intricate pattern of carved skin creases, neck folds, and crow's feet giving an authentic elderly handmade appearance",
+      "markings_geometry": "dense parallel and cross-hatched micro-wrinkles along the lower jaw, neck column, and periorbital zone",
+      "organic_face_overgrowth": ""
+    },
+
+    "body": {
+      "exaggeration_locus": "oversized caricatured head, elongated smooth nose, and expressive wrinkled clay hands adjusting coat lapels",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion caricature (approximately 4.5-head ratio)",
+        "head_pct": "35%",
+        "torso_pct": "40%",
+        "legs_pct": "25%",
+        "shoulder_width": "narrow 1.1x head width — slender elderly puppet torso",
+        "body_type": "slender, slightly frail gentleman puppet frame",
+        "torso_girth_and_frailty": "slender torso dressed in a structured tailored tweed suit jacket",
+        "silhouette_rigidity_and_geometry": "upright tailored silhouette with bent elbows raised to chest height",
+        "textile_stiffness_and_hang": "stiff coarse woolen tweed holding crisp geometric collar folds and shoulder seams",
+        "limb_thickness_archetype": "slender articulated armature within fitted tweed sleeves ending in detailed wrinkled hands",
+        "neck_morphology": "elongated slender wrinkled neck with visible muscular and skin striations",
+        "neck_length_and_exposure": "visibly exposed neck column extending above the high shirt collar",
+        "hands_and_fingers": "sculpted elderly clay hands with defined knuckle joints, dorsal tendons, wrinkled skin folds, and neat pale fingernails"
+      },
+      "height_ratios": "single primary subject occupying 80% vertical frame height in medium close-up",
+      "silhouette": "profile bust silhouette with raised forearms adjusting collar lapels facing the vertical mirror",
+      "pose": {
+        "stance_type": "standing upright in profile before a vanity mirror",
+        "weight_distribution": "balanced upright posture with slight forward attention toward the reflection",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 0,
+        "spine_curvature": "gentle upright thoracic posture with relaxed shoulders",
+        "left_arm_pose": "raised to chest height, left hand grasping the left jacket lapel",
+        "right_arm_pose": "raised to chest height with bent elbow, right hand curled and adjusting the right collar",
+        "leg_and_feet_stance": "lower body cropped below mid-torso",
+        "pose_energy": "meticulous, quiet, contemplative self-adjustment"
+      },
+      "seating_and_elevation": {
+        "surface_type": "standing on room floor in front of an upright vanity mirror",
+        "leg_dangle_dynamics": "not applicable — cropped above waist",
+        "torso_lean_and_posture": "straight upright profile posture"
+      },
+      "hand_pose_interaction": "both hands raised symmetrically to upper chest level, gently holding and adjusting the jacket lapels near the collar",
+      "prop_interaction": "direct tactile manipulation of the tailored tweed jacket collar and lapels",
+      "prop_asymmetry_load": "balanced bilateral hand action",
+      "weapon_morphology": ""
+    },
+
+    "hair": {
+      "color": "silvery frost-white with subtle grey lowlights",
+      "style": "receding bald crown with voluminous, curly, frizzy cloud of hair clustered at the temples, sides, and occiput",
+      "ahoge_cowlick": "",
+      "hair_texture_type": "curly crimped mohair and wool fibers with natural frizz and springy volume",
+      "hair_sculptural_form": "soft cloud-like curly tufts billowing outward from the sides of the head",
+      "volume_density": "high voluminous fluffiness around the temporal and occipital lobes",
+      "direction": "radiating outward and curling softly back toward the nape",
+      "dominant_zone": "parietal and occipital perimeter encircling the smooth bald cranium",
+      "updo_containment": "unconstrained natural curly mane",
+      "accessories": ""
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "none — bald cranium exposed",
+      "outerwear_and_upper": "tailored warm rust-brown / terracotta coarse woven wool tweed suit jacket with classic notched lapels and single visible circular tortoiseshell button",
+      "textile_material_and_gloss": "heavy textured woolen cloth with visible rough weave grid, fibrous yarn nap, and zero specular gloss",
+      "collar_and_neckline_topology": "structured notched jacket lapels folded neatly over a high grey-taupe collared inner shirt and dark necktie/cravat",
+      "inner_layer_topology": "fitted light greyish-beige long-sleeve undergarment shirt visible at the cuffs and collar base",
+      "sleeve_structure_and_cuffs": "tapered jacket sleeves with cuffs ending above the wrists, revealing the inner shirt cuffs",
+      "waist_and_belt_hardware": "single brown button fastened at the mid-torso",
+      "lower_garment_and_drape": "cropped below jacket waistline",
+      "footwear_and_soles": "cropped out of frame",
+      "jewelry_and_accessories": "none"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "vintage ornate carved wood vanity mirror with soft blurred reflection of the character",
+    "color_morph": "dark walnut / antique bronze frame with silvered glass reflection",
+    "count_density": "1 large vertical mirror",
+    "size_relative_to_primary": "spans approximately 0.7x frame height on the right side",
+    "spatial_distribution": "positioned along the right half of the canvas (X=55% to 95%)",
+    "facing_azimuth_deg": 180,
+    "pose_description": "standing upright, reflecting a soft-focus duplicate of the character adjusting his collar",
+    "priority_level": "narrative counterpart"
+  },
+
+  "micro_features": [
+    "coarse tactile grid weave and fiber nap visible on the terracotta wool tweed suit jacket",
+    "bushy sculpted dark grey eyebrows with individual carved hair grooves above the eye",
+    "intricate curly loops and flyaway fibers of the white mohair hair catchlight",
+    "fine anatomical skin creases, tendon cords, and pale trimmed fingernails on both raised hands",
+    "delicate out-of-focus reflection in the vintage mirror showing the puppet's blurred face and jacket",
+    "carved rococo scrollwork crest and scalloped molding on the antique dark wooden mirror frame"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm nostalgic 3600K interior palette with rich terracotta, warm parchment skin tones, and deep charcoal shadows",
+    "color_grading_intent": "warm, contemplative European art-house stop-motion cinema grading with rich midtone saturation",
+    "global_saturation_level": "moderately rich saturation on the terracotta jacket and warm skin; muted neutral background",
+    "environmental_split_toning": "warm amber-terracotta foreground subject vs muted cool charcoal-olive background tones",
+    "palette": [
+      { "name": "Terracotta Wool", "hsl": "hsl(22, 58%, 45%)" },
+      { "name": "Warm Clay Flesh", "hsl": "hsl(28, 48%, 68%)" },
+      { "name": "Silvery White Hair", "hsl": "hsl(40, 15%, 85%)" },
+      { "name": "Antique Walnut Mirror", "hsl": "hsl(25, 28%, 25%)" },
+      { "name": "Muted Slate Background", "hsl": "hsl(205, 15%, 32%)" }
+    ],
+    "shadow_color": "deep warm umber and dark charcoal",
+    "highlight_color": "soft warm cream with gentle specular accents",
+    "contrast_profile": "medium-soft cinematic contrast preserving delicate shadow detail in the jacket weave and hair volume",
+    "saturation_map": "highest on the terracotta wool jacket; natural warmth on facial clay; muted in background interior",
+    "skin_warmth_vs_env_contrast": "warm peachy skin and rich brown coat pop clearly against the muted cool-toned slate background",
+    "color_temperature": "warm 3600K"
+  },
+
+  "lighting": {
+    "drama_level": "intimate, focused portrait lighting with soft theatrical keying",
+    "key_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 30,
+      "quality": "soft diffused directional light illuminating the profile face, nose curve, and raised hands from the direction of the mirror",
+      "color_temp_K": 3800
+    },
+    "fill_light": {
+      "azimuth_deg": 270,
+      "elevation_deg": 10,
+      "ratio": "1:3 gentle ambient fill maintaining soft shadow detail on the back of the neck and coat",
+      "color_temp_K": 3400
+    },
+    "rim_light": {
+      "azimuth_deg": 315,
+      "elevation_deg": 45,
+      "surfaces": "delicate edge glow illuminating the fuzzy curly white hair halo around the back and top of the head"
+    },
+    "ambient_bounce": "warm diffuse bounce from surrounding wooden furniture and walls",
+    "special": "soft catchlight in the puppet's eye and realistic soft reflection inside the mirror pane"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "left half (X=0% to 55%) occupied by the sharp primary subject; right half (X=55% to 100%) occupied by the antique mirror and soft-focus reflection",
+    "layer_stack_z_index": "Layer 0: Muted dark interior wall background -> Layer 1: Antique mirror frame and reflection -> Layer 2: Puppet character profile and raised hands in sharp focus",
+    "framing_crop": "cinematic medium close-up profile portrait",
+    "subject_vertical_fill_pct": 82,
+    "headroom_and_ground_clearance": "minimal 8% headroom above the curly hair; lower body cropped below mid-chest",
+    "frame_edge_clipping_and_bleed": "back of coat and left elbow graze left frame boundary; top of mirror frame bleeds beyond upper-right corner",
+    "ground_pedestal": "unseen room floor",
+    "camera_azimuth_deg": 80,
+    "subject_facing_azimuth_deg": 90,
+    "camera_elevation_deg": 0,
+    "focal_length_mm": 85,
+    "depth_of_field": {
+      "sharp_zone": "extremely sharp plane across the puppet's profile face, bulbous nose, curly hair, hands, and jacket lapels",
+      "blurred_zone": "mirror frame, interior reflection, and deep background wall",
+      "blur_strength": "f/2.2 shallow macro portrait depth of field with creamy background defocus"
+    },
+    "rule_of_thirds": "puppet eye and nose aligned along the left-to-center third vertical line; mirror frame aligned with right third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "strong horizontal gaze and hand motion leading across from left subject to right mirror reflection",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "cozy antique dressing room / tailor's quarters interior",
+    "key_elements": "ornate carved wood vanity mirror, soft shadowed wall, warm ambient room lamps out of focus",
+    "layer_order": "foreground subject -> midground mirror -> background shadowed wall",
+    "background_density": "sparse, clean, focused interior background",
+    "background_treatment": "smooth optical defocus isolating the character's intricate tactile textures"
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, CGI, 3D computer animation, shiny plastic skin, airbrushed digital art, flat 2D cartoon, biological real human face, baby fat cheeks, deformed hands, extra fingers, modern clothing, fluorescent lighting",
+
+  "reconstruction_priority": [
+    "tactile stop-motion material quality — porous clay skin, etched age creases, frizzy mohair wool, and coarse tweed weave — AI tends to render generic smooth digital skin",
+    "caricatured facial profile with smooth bald dome, bushy eyebrows, and oversized graceful hooked nose — AI often normalizes into generic old human proportions",
+    "shallow depth-of-field mirror reflection interplay — AI frequently renders the reflection equally sharp or ignores the optical plane difference",
+    "articulated clay hands with expressive wrinkles and fingernails adjusting coat lapels — AI often distorts hands into fused or mutated shapes"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet miniature cinematography — tactile sculpted polymer clay profile with textured curly fiber hair and wool knitwear playing an antique carved miniature upright piano in warm ambient hearthlight.",
+  "visual_mood": {
+    "primary_feeling": "intimate musical serenity, peaceful poetic contemplation, and warm nostalgic craftsmanship",
+    "viewer_impression": "an enchanting emotional moment of quiet artistic absorption captured in physical stop-motion miniature detail",
+    "narrative_subtext": "a solitary puppet pianist with eyes gently closed immersed in a heartfelt private melody beside a glowing fireside"
+  },
+  "medium": {
+    "type": "stop-motion puppet animation still photography with handcrafted physical miniatures",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated puppet with sculpted matte clay head, painted delicate facial features, and tailored micro-textiles",
+    "backdrop_medium": "handcrafted miniature rustic interior set with an arched stone fireplace and warm atmospheric depth-of-field blur",
+    "render_stylization": "stylized artisanal stop-motion puppet realism",
+    "line_art_style": "no outlines — 3D volumetric physical shading, tactile surface fuzz, and authentic optical depth-of-field",
+    "craft_quality": "master-level studio stop-motion puppet fabrication and miniature set dressing",
+    "physical_material": "matte polymer clay, sculpted fibrous wool yarn, woven wool knitwear, brushed cotton, and aged carved walnut wood",
+    "surface_specularity": "matte clay skin and fibrous wool garments with low-sheen satin highlights on polished wooden piano surfaces",
+    "texture_distress_finish": "handcrafted vintage patina with micro-fiber textile fuzz, yellowed piano key patina, and carved wood relief weathering",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "glossy 3D CGI plastic skin",
+      "flat digital cel-shading",
+      "procedural CGI hair grooms",
+      "modern synthetic shiny fabrics"
+    ]
+  },
+  "design_register": "artisanal European stop-motion animation, nostalgic period musical drama, and cozy miniature cottage aesthetic",
+  "subject": {
+    "type": "stylized handcrafted female puppet pianist seated in profile playing an antique miniature upright piano",
+    "count": 1,
+    "spatial_distribution": "positioned in the right-to-center midground in strict left-facing profile, facing the miniature upright piano on the left",
+    "face": {
+      "archetype": "stylized European folk female puppet caricature with elegant delicate profile",
+      "skin_tone": "pale warm ivory bisque with smooth porcelain-like tonal transitions",
+      "skin_undertone_sss": "subtle neutral cream with soft warm shadow grading, non-translucent matte clay finish",
+      "skin_material_feel": "smooth sculpted matte polymer clay with clean continuous facial planes and velvet finish",
+      "skin_grime_level_0to10": 0,
+      "skin_moisture_finish": "matte velvet",
+      "face_exposure_pct": 100,
+      "facial_occlusion_boundaries": "unoccluded profile view framed by wavy hair ridges along brow and temple",
+      "face_paint": "delicate painted dark brown arched eyebrow and soft curved closed eyelid lines",
+      "face_volume": "graceful stylized profile with gentle forehead slope, slender bridge, refined jawline, and serene cheek plane",
+      "forehead_and_skin_planes": "smooth uncreased clay forehead sloping gently into brow ridge",
+      "face_shape_silhouette": "slender elegant crescent profile with delicate tapered jaw and compact rounded chin",
+      "cheek_contour_and_fullness": "flat slender cheek planes with zero fleshy puffiness, conveying refined tranquility",
+      "jaw_and_chin_geometry": "softly rounded compact chin transitioning into an elongated slender jawline",
+      "head_cranial_shape": "compact rounded cranium supporting an elaborate textured wavy fiber hair updo",
+      "head_pitch_deg": 12,
+      "interpupillary_spacing_and_eye_span": "single eye visible in profile, stylized elongated almond socket",
+      "palpebral_fissure_and_canthal_tilt": "closed peaceful eyes with downward curved lash line and +5° positive tilt at outer corner",
+      "eyes": "closed eyelids with delicate painted dark brown lash contours conveying quiet musical bliss",
+      "nose": "slender sculpted straight nose bridge with a defined, delicate upturned tip",
+      "ears": "partially occluded beneath coiled side hair curls, delicate sculpted clay lobe",
+      "lip_geometry_and_philtrum": "compact sculpted closed lips forming a gentle serene unsmiling-to-soft-smile line with short philtrum",
+      "mouth": "closed tranquil mouth with subtle upward corner lift of quiet artistic contentment"
+    },
+    "body": {
+      "exaggeration_locus": "slender elongated neck and delicate articulated hands positioned over piano keys",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet proportions (approx 5.5-head ratio with slender limbs)",
+        "head_pct": "22%",
+        "torso_pct": "38%",
+        "legs_pct": "40%",
+        "shoulder_width": "narrow 1.0x head width, delicate sloping posture",
+        "body_type": "slender petite armature puppet build",
+        "torso_girth_and_frailty": "slender cylindrical torso draped in a fitted wool knit jacket",
+        "silhouette_rigidity_and_geometry": "graceful forward-leaning posture focused entirely on the piano keyboard",
+        "textile_stiffness_and_hang": "tailored heathered wool knit holding structured form around torso and arms with realistic micro-creases at elbows",
+        "limb_thickness_archetype": "slender wire-armature arms ending in delicate articulated clay fingers",
+        "neck_morphology": "exceptionally graceful elongated cylindrical neck rising from high collar",
+        "neck_length_and_exposure": "prominently exposed slender neck extending 1.4x chin height above high neckline",
+        "hands_and_fingers": "delicately sculpted miniature clay hands with articulated fingers pressing down on wooden piano keys"
+      },
+      "height_ratios": "single seated subject occupying 75% of vertical frame height in right half",
+      "silhouette": "curved S-shape silhouette leaning from right toward the upright piano on left",
+      "pose": {
+        "stance_type": "seated classical pianist performance posture",
+        "weight_distribution": "100% seated weight resting on piano stool",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": 5,
+        "spine_curvature": "gentle forward curve with head bowed slightly in musical absorption",
+        "left_arm_pose": "left forearm extended horizontally forward with fingers resting on upper piano keys",
+        "right_arm_pose": "right forearm extended forward with fingers pressing lower register keys",
+        "leg_and_feet_stance": "seated facing forward toward piano with lap draped in rust fabric",
+        "pose_energy": "tranquil, deeply focused, expressive musical immersion"
+      },
+      "seating_and_elevation": {
+        "surface_type": "piano stool / bench positioned before the instrument",
+        "leg_dangle_dynamics": "lower limbs grounded beneath seat cushion",
+        "torso_lean_and_posture": "gentle forward posture leaning toward the keyboard"
+      },
+      "hand_pose_interaction": "both hands arched in proper pianist technique with fingertips depressing individual ivory keys",
+      "prop_interaction": "direct physical contact with keyboard of antique carved upright piano"
+    },
+    "hair": {
+      "color": "heathered light caramel-brown and ash-taupe with dimensional strand highlights",
+      "style": "elaborate sculpted wavy artist updo with deep finger-wave ridges and a voluminous top bun",
+      "hair_texture_type": "sculpted textured wool yarn / fibrous clay with prominent tactile 3D ridges and fine fuzz",
+      "hair_sculptural_form": "deep parallel wavy crests sweeping back from forehead into a high coiled bun with loose curly loops",
+      "volume_density": "voluminous sculptural hair mass with tangible physical texture and stray micro-fibers",
+      "direction": "swept diagonally upward and backward from temples to crown",
+      "dominant_zone": "upper crown and rear occipital bun",
+      "updo_containment": "textured coiled chignon held securely at crown with delicate wispy loops"
+    },
+    "outfit": {
+      "headwear_or_eyewear": "none, elaborate wavy textured hair updo",
+      "outerwear_and_upper": "heathered slate-blue wool knit jacket/cardigan with high funnel neckline, small dark front buttons, and fine surface fuzz",
+      "textile_material_and_gloss": "matte bouclé wool knit with dense micro-fibers and zero specular sheen",
+      "collar_and_neckline_topology": "fitted high stand-up mandarin collar hugging the base of the elongated neck",
+      "waist_and_belt_hardware": "buttoned jacket waist resting neatly over skirt waistband with small dark button accents",
+      "lower_garment_and_drape": "warm rust-brown / terracotta gathered wool skirt draped across lap in soft horizontal folds",
+      "footwear_and_soles": "occluded beneath lower frame edge",
+      "jewelry_and_accessories": "miniature antique wooden upright piano featuring relief carvings, wooden sheet music holder, and detailed ivory/ebony keys"
+    },
+    "micro_features": [
+      "delicate tactile wool fiber fuzz along the contours of the slate-blue knit jacket",
+      "deeply sculpted 3D finger waves in the caramel hair leading to a coiled textured bun",
+      "intricate antique relief carvings and wooden soundboard mechanism details on the upright piano",
+      "individual yellowed antique piano keys with visible separation lines and depressed key actions",
+      "tiny dark spherical buttons lining the lower front placket of the knit jacket",
+      "soft out-of-focus amber light orbs from the glowing background hearth fire",
+      "fine micro-particle dust motes catching the warm light in the atmospheric background air"
+    ],
+    "color_grading": {
+      "overall_color_cast": "warm 4200K nostalgic interior light with rich caramel wood, slate blue, and terracotta accents",
+      "color_grading_intent": "warm analog stop-motion cinematography with rich tactile texture rendering and warm fireside glow",
+      "global_saturation_level": "moderately muted natural palette with balanced warmth between terracotta skirt and cool slate-blue jacket",
+      "environmental_split_toning": "cool neutral key light on puppet profile and piano keys contrasting with warm amber background hearth bokeh and rich wooden piano tones",
+      "palette": [
+        { "name": "Slate Heather Blue", "hsl": "hsl(210, 20%, 45%)" },
+        { "name": "Bisque Porcelain", "hsl": "hsl(35, 40%, 82%)" },
+        { "name": "Caramel Hair", "hsl": "hsl(32, 35%, 52%)" },
+        { "name": "Terracotta Rust", "hsl": "hsl(18, 60%, 40%)" },
+        { "name": "Aged Piano Wood", "hsl": "hsl(28, 25%, 38%)" },
+        { "name": "Hearth Fire Amber", "hsl": "hsl(35, 80%, 55%)" }
+      ],
+      "shadow_color": "deep warm umber-brown with open soft shadow details",
+      "highlight_color": "soft warm cream on facial profile, fingertips, and piano keys",
+      "contrast_profile": "medium-soft cinematic contrast with smooth highlight rolloff and gentle shadow depth",
+      "saturation_map": "highest in rust skirt and warm background hearth glow; subdued in slate jacket and clay skin",
+      "skin_warmth_vs_env_contrast": "pale neutral bisque face stands out crisply against the warm blurred interior background",
+      "color_temperature": "4200K"
+    },
+    "lighting": {
+      "drama_level": "intimate, cozy, cinematic split lighting with warm background backlight",
+      "key_light": {
+        "azimuth_deg": -45,
+        "elevation_deg": 25,
+        "quality": "soft diffused directional light illuminating the piano keys, puppet hands, and facial profile",
+        "color_temp_K": 4800
+      },
+      "fill_light": {
+        "azimuth_deg": 90,
+        "elevation_deg": 15,
+        "ratio": "1:2.5 soft room ambient fill across hair and back of jacket"
+      },
+      "rim_light": {
+        "azimuth_deg": 160,
+        "elevation_deg": 20,
+        "surfaces": "delicate golden halo rim light along hair bun curls, back of neck, and shoulder line from the hearth glow"
+      },
+      "ambient_bounce": "warm golden-amber bounce from the fireplace into the background room volume",
+      "special": "soft bokeh circles and floating golden dust motes in the background air"
+    },
+    "composition": {
+      "aspect_ratio": "16:9 widescreen landscape",
+      "canvas_zoning": "upright piano occupies left 45% of frame; puppet occupies right 55% of frame in left-facing profile",
+      "layer_stack_z_index": "Layer 0: Out-of-focus background fireplace and glowing hearth -> Layer 1: Handcrafted antique upright piano and stool -> Layer 2: Seated puppet pianist with hands on keyboard",
+      "framing_crop": "medium close-up profile shot from waist to high hair bun",
+      "subject_vertical_fill_pct": 84,
+      "headroom_and_ground_clearance": "tight 6% headroom above hair bun; lower frame cut off below rust skirt lap level",
+      "frame_edge_clipping_and_bleed": "left edge of piano extends beyond left frame; back of hair bun approaches right frame margin",
+      "ground_pedestal": "unseen wooden studio set floor",
+      "camera_azimuth_deg": 90,
+      "subject_facing_azimuth_deg": -90,
+      "camera_elevation_deg": 0,
+      "focal_length_mm": 55,
+      "depth_of_field": {
+        "sharp_zone": "puppet profile, hair waves, slate knit jacket, hands, and piano keyboard",
+        "blurred_zone": "rear piano upper casing and background arched fireplace",
+        "blur_strength": "f/2.8 shallow macro depth of field with creamy circular background bokeh"
+      },
+      "rule_of_thirds": "puppet facial profile aligns along upper-right vertical third; piano keys align along lower horizontal third"
+    },
+    "background": {
+      "setting": "rustic cozy miniature interior with an arched brick/stone fireplace hearth in the background",
+      "key_elements": "glowing warm fireplace arch, soft ambient room shadows, floating dust particles",
+      "layer_order": "blurred fireplace -> piano casing -> puppet figure in foreground midground",
+      "background_density": "moderate, warm, atmospheric negative space providing depth",
+      "background_treatment": "optical macro blur rendering background warm, soft, and painterly"
+    },
+    "typography_and_graphic_elements": {},
+    "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, 3D CGI plastic render, shiny skin, digital cel shading, open screaming mouth, distorted extra fingers, modern electric keyboard, neon lighting",
+    "reconstruction_priority": [
+      "tactile physical stop-motion puppet craftsmanship — AI often defaults to generic 3D digital animation",
+      "deep sculptural hair waves and textured fiber bun — AI frequently simplifies into flat digital strands",
+      "articulated miniature clay hands playing individual piano keys — AI often scrambles finger counts and key alignment",
+      "antique carved wooden piano relief details and worn ivory patina — AI tends to draw modern sterile pianos"
+    ]
+  }
+}

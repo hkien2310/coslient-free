@@ -1,0 +1,237 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — tactile physical miniature diorama with sculpted polymer clay and silicone puppet, authentic woven wool herringbone textiles, miniature brass clockwork props, and shallow depth of field cinematic macro lighting",
+
+  "visual_mood": {
+    "primary_feeling": "quiet artisan nostalgia, intimate wonder, and patient craftsmanship",
+    "viewer_impression": "an immediate sense of warm vintage warmth and meticulous handmade artisanal storytelling",
+    "narrative_subtext": "an elderly horologist or master tinkerer lovingly inspecting an array of intricate mechanical automata, music boxes, and handcrafted miniature curios in his cluttered workshop"
+  },
+
+  "medium": {
+    "type": "physical stop-motion puppet photography with handcrafted miniature set and practical optical lens",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated stop-motion puppet with matte silicone/polymer clay skin, hand-rooted wispy synthetic fiber hair, and bespoke miniature woven tweed garments",
+    "backdrop_medium": "physical miniature workshop interior with weathered timber shelves, antique brass clockwork gear clusters, and optical bokeh highlights",
+    "render_stylization": "semi-stylized puppet realism",
+    "line_art_style": "no outlines — pure physical volumetric form, organic tactile shadow gradients, and optical depth blur",
+    "craft_quality": "master artisan stop-motion studio puppet fabrication and miniature set construction",
+    "physical_material": "matte sculpted silicone, tweed wool herringbone fabric, coarse linen workbench cloth, miniature brass gears, and stained balsa/hardwood boxes",
+    "surface_specularity": "predominantly matte fibrous textiles and satin clay skin with localized specular reflections on polished brass gears and glass lantern lenses",
+    "texture_distress_finish": "authentic tactile patina, fine fabric weave texture, gentle wood grain wear, and subtle metallic tarnish",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D subsurface scattering sheen",
+      "flat vector fills",
+      "procedural clean metal",
+      "photorealistic human skin pores"
+    ]
+  },
+
+  "design_register": "cozy antique horologist workshop, European artisanal stop-motion folk aesthetic",
+
+  "subject": {
+    "type": "elderly male artisan puppet leaning over a workshop counter filled with miniature clockwork mechanisms",
+    "count": 1,
+    "spatial_distribution": "centered in midground behind horizontal foreground display table, leaning slightly toward the right",
+
+    "face": {
+      "archetype": "stylized elderly artisan puppet with exaggerated caricatured facial architecture",
+      "skin_tone": "warm pale beige with subtle peachy undertones",
+      "skin_undertone_sss": "soft natural clay translucency with subtle warmth around cheekbones and nose",
+      "skin_material_feel": "matte sculpted polymer clay and smooth silicone with fine tactile finish, zero digital gloss",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet with soft satin highlight on nasal ridge",
+      "face_exposure_pct": 90,
+      "facial_occlusion_boundaries": "upper cranial dome covered by tweed flat cap; lower jaw subtly framed by yellow ascot",
+      "face_paint": "subtle airbrushed peach blush on cheeks and gentle warm brown contouring in eye sockets",
+      "face_volume": "elongated slender cranial structure with gently recessed temples and delicate jawline",
+      "forehead_and_skin_planes": "subtle sculpted horizontal brow creases indicating gentle concentration without harsh geriatric furrows",
+      "face_shape_silhouette": "tapered inverted triangular contour with wide cheekbone line tapering to a narrow rounded chin",
+      "cheek_contour_and_fullness": "lean sculpted cheek planes without fleshy puffiness, gently sunken below zygomatic arches",
+      "jaw_and_chin_geometry": "narrow rounded jawline with delicate small chin tucked slightly downward",
+      "head_cranial_shape": "broad cranial dome crowned with a fitted tweed cap",
+      "head_pitch_deg": 18,
+      "interpupillary_spacing_and_eye_span": "proportional stylized spacing (1.1x eye width) with prominent orbital sockets",
+      "palpebral_fissure_and_canthal_tilt": "wide-open sculpted almond eyes with neutral canthal tilt, heavy curved upper eyelids, and gentle lower lid pouching",
+      "eyes": "glossy dark amber-brown painted pupil-iris beads gazing downward at the foreground clockwork automata with gentle fascination",
+      "nose": "prominent elongated forward-projecting curved beak-like nose with slender bridge and rounded bulbous tip",
+      "ears": "moderately large stylized cupped ears with soft cartilage convolutions, partially occluded by hair and cap brim",
+      "lip_geometry_and_philtrum": "thin sculpted pale lips set in a gentle, warm closed-mouth half-smile with defined philtrum groove",
+      "mouth": "closed tranquil smile expressing quiet delight and concentrated focus",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "oversized expressive head and elongated curved nose atop a hunched, slender puppet torso",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet caricature (approximately 4.5-head ratio)",
+        "head_pct": "30%",
+        "torso_pct": "40%",
+        "legs_pct": "30% (occluded beneath table)",
+        "shoulder_width": "moderately narrow (1.3x head width), hunched forward over workbench",
+        "body_type": "slender elderly artisan with slightly stooped posture",
+        "torso_girth_and_frailty": "compact slender torso padded by layered miniature knitwear and woolen coat",
+        "silhouette_rigidity_and_geometry": "soft rounded triangular drape forming a stable compositional pyramid behind the desk",
+        "textile_stiffness_and_hang": "heavy textured wool tweed draping in soft natural folds over miniature puppet armature",
+        "limb_thickness_archetype": "slender articulated puppet arms with flexible joints",
+        "neck_morphology": "short slender neck mostly concealed by wrapped ascot and high jacket collar",
+        "neck_length_and_exposure": "low neck exposure, nestled within mustard fabric wrap",
+        "hands_and_fingers": "sculpted silicone puppet hands resting on tabletop, fingers curled gently around work tools"
+      },
+      "height_ratios": "single primary subject occupying central midground",
+      "silhouette": "compact triangular upper-body silhouette seated behind dense horizontal line of miniature clockwork objects",
+      "pose": {
+        "stance_type": "seated workshop posture, leaning forward over workbench",
+        "weight_distribution": "weight supported by forearms resting on table surface",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -5,
+        "spine_curvature": "gentle forward kyphotic thoracic curve leaning toward foreground curios",
+        "left_arm_pose": "left forearm angled inward along tabletop edge, hand poised near wooden curiosity box",
+        "right_arm_pose": "right elbow resting on work table, forearm angled forward toward center mechanism",
+        "leg_and_feet_stance": "seated behind wooden table, legs completely occluded by foreground furniture",
+        "pose_energy": "absorbed, calm, concentrated contemplation"
+      },
+      "seating_and_elevation": {
+        "surface_type": "seated behind elevated workbench draped in coarse natural woven cloth",
+        "leg_dangle_dynamics": "occluded behind solid furniture",
+        "torso_lean_and_posture": "hunched forward approximately 20 degrees toward tabletop exhibits"
+      },
+      "hand_pose_interaction": "both hands resting gently on workbench among tiny metal tools, gears, and figurines",
+      "prop_interaction": "observing multiple miniature open wooden music boxes, brass lanterns, and miniature clockwork dolls",
+      "prop_asymmetry_load": "balanced forward lean with arms framing the central tabletop spread",
+      "weapon_morphology": "none"
+    },
+
+    "hair": {
+      "color": "silvery pure white with subtle off-white and soft grey undertones",
+      "style": "wispy disheveled side tufts protruding softly from beneath flat cap brim around temples and ears",
+      "ahoge_cowlick": "none",
+      "hair_texture_type": "fine synthetic fiber fuzz / mohair flocking with soft tactile wisps",
+      "hair_sculptural_form": "soft cloud-like side clusters framing the temples and nape, gently flared outwards",
+      "volume_density": "moderate wispy density, fine airy strands",
+      "direction": "outward and slightly backward around ears",
+      "dominant_zone": "temporal and lateral parietal zones beneath cap",
+      "updo_containment": "uncontained short fringe peeking out from under cap",
+      "accessories": "none"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "textured charcoal-grey and cream flecked tweed flat cap with a gathered puffed crown and a small front visor",
+      "outerwear_and_upper": "heavy charcoal-and-heather-grey woven tweed blazer jacket with visible miniature herringbone weave and notch lapel",
+      "inner_knitwear_layer": "dark charcoal ribbed wool knit cardigan/vest visible at collar opening",
+      "neckwear_and_scarf": "warm ochre-mustard crumpled cotton neckerchief/ascot loosely knotted at the throat",
+      "textile_material_and_gloss": "100% matte coarse miniature woven woolens, herringbone tweeds, and wrinkled cotton with zero specular gloss",
+      "collar_and_neckline_topology": "layered collar system: high yellow ascot inside dark knit cardigan under heavy tweed jacket lapel",
+      "cuff_and_sleeve_structure": "long tweed jacket sleeves gathered in natural creased folds around forearms resting on table",
+      "tabletop_props_and_curios": "array of handcrafted brass clockwork automata, open carved wooden caskets with velvet lining, miniature grandfather clocks, tiny brass lanterns, and handcrafted folk dolls with yarn hair",
+      "jewelry_and_accessories": "none on subject's body"
+    }
+  },
+
+  "micro_features": [
+    "tactile herringbone weave texture on the charcoal woolen flat cap and jacket fabric",
+    "delicate warm pinkish flush on the prominent bulbous tip of the sculpted puppet nose",
+    "glossy amber reflection highlights in the pupils of the sculpted glass-like eyes",
+    "intricate brass gears, escapement wheels, and winding keys visible inside the open wooden tabletop chest",
+    "miniature needle-felted doll in yellow yarn hat and blue coat positioned at the far left edge of the workbench",
+    "soft golden bokeh circular light orbs floating in the shallow depth of field background",
+    "coarse unbleached linen/canvas fabric runner texture lining the top of the workbench"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm nostalgic 3200K tungsten workshop glow with deep amber, honey wood, and muted charcoal tones — prohibit cold blue/magenta cast",
+    "color_grading_intent": "rich vintage filmic stop-motion palette with warm golden highlights and deep earthy shadows",
+    "global_saturation_level": "moderately rich in warm accents (ochre yellow ascot, polished brass, honey timber) balanced against neutral charcoal tweed and creamy beige skin",
+    "environmental_split_toning": "golden-amber warm highlights across subjects face and brass props contrasting with soft dark umber/charcoal background shadows",
+    "palette": [
+      { "name": "warm amber gold", "hsl": "hsl(38, 85%, 55%)" },
+      { "name": "mustard ochre", "hsl": "hsl(42, 75%, 48%)" },
+      { "name": "charcoal tweed grey", "hsl": "hsl(215, 10%, 32%)" },
+      { "name": "weathered oak brown", "hsl": "hsl(28, 40%, 35%)" },
+      { "name": "pale porcelain cream", "hsl": "hsl(34, 45%, 82%)" },
+      { "name": "antique brass", "hsl": "hsl(45, 50%, 45%)" }
+    ],
+    "shadow_color": "deep warm umber-charcoal",
+    "highlight_color": "soft warm cream-gold",
+    "contrast_profile": "medium-high cinematic contrast with rich velvety shadows and soft luminous midtones",
+    "saturation_map": "highest on yellow ascot and brass gears, medium on puppet skin, desaturated on grey tweed coat",
+    "skin_warmth_vs_env_contrast": "gentle harmonious integration of warm clay skin tones within warm antique interior ambiance",
+    "color_temperature": "warm 3200K indoor tungsten lighting"
+  },
+
+  "lighting": {
+    "drama_level": "cozy, intimate, atmospheric artisanal illumination",
+    "key_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 35,
+      "quality": "soft diffused warm incandescent key light illuminating the right side of the face, nose bridge, and tabletop items",
+      "color_temp_K": 3200
+    },
+    "fill_light": {
+      "azimuth_deg": -40,
+      "elevation_deg": 20,
+      "ratio": "1:3 soft ambient fill preserving gentle sculptural shadows on the left cheek and under the cap brim"
+    },
+    "rim_light": {
+      "azimuth_deg": 160,
+      "elevation_deg": 45,
+      "surfaces": "delicate edge glow highlighting the wispy white hair fibers around the cap and shoulders"
+    },
+    "ambient_bounce": "warm diffuse bounce reflecting upward from the light beige workbench cloth onto the chin and hands",
+    "special": "scattered background practical fairy lights creating large soft circular bokeh orbs across the blurred workshop shelves"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "horizontal three-tier staging: lower 30% horizontal workbench packed with brass clockwork and miniature curios, middle 50% artisan puppet subject, upper 20% warm blurred workshop rafters with bokeh lights",
+    "layer_stack_z_index": "Layer 0: blurred antique clockwork shop background -> Layer 1: seated elderly artisan puppet -> Layer 2: horizontal workbench surface with wooden boxes, clockwork automata, brass lanterns, and miniature figurines in crisp foreground",
+    "framing_crop": "medium-close horizontal shot framed from chest level up behind workbench",
+    "subject_vertical_fill_pct": 65,
+    "headroom_and_ground_clearance": "15% upper headroom above cap brim; lower body occluded below mid-torso by table surface",
+    "frame_edge_clipping_and_bleed": "tweed coat shoulders span across midground; workbench items bleed off left and right canvas borders",
+    "ground_pedestal": "flat wooden workbench covered with coarse woven beige runner",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 15,
+    "camera_elevation_deg": -5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "crisp focus on puppet's face, tweed cap, and central tabletop clockwork curios",
+      "blurred_zone": "creamy progressive optical blur across deep background shelves and clocks",
+      "blur_strength": "f/2.8 optical depth of field with creamy circular bokeh"
+    },
+    "rule_of_thirds": "subject's face and eyes aligned along upper horizontal third line; center-right vertical third intersection",
+    "grid_and_accent_anchors": {
+      "construction_grid": "horizontal framing division anchored by the straight line of the workshop counter",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "cozy cluttered horology and curiosity artisan workshop",
+    "key_elements": "antique grandfather clock dials, wooden shelving, brass tools, hanging pendulums, warm string lights",
+    "layer_order": "distant blurred timber walls -> intermediate shelf racks with round clocks and gears -> foreground workbench",
+    "background_density": "dense and atmospheric yet heavily softened by optical bokeh",
+    "background_treatment": "soft cinematic defocus with warm glowing bokeh discs"
+  },
+
+  "typography_and_graphic_elements": {
+    "__note": "No text, typography, logos, or graphic badges present in the image."
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, digital 3D render, Pixar style, Disney style, photorealistic human skin, wrinkles on child, anime eyes, modern plastic toys, bright neon lighting, cold fluorescent light, glossy surfaces, deformed hands, extra fingers",
+
+  "reconstruction_priority": [
+    "tactile stop-motion puppet materials (matte clay skin, real woven tweed wool, mohair hair) — AI often replaces with generic smooth 3D CGI plastic",
+    "distinctive elongated curved puppet nose and gentle almond eyes — AI tends to normalize into standard human or round cartoon features",
+    "intricate miniature handcrafted clockwork props on workbench — AI frequently turns miniature mechanical brass pieces into illegible melted metallic noise",
+    "rich 3200K warm tungsten interior atmosphere with genuine optical bokeh — AI often introduces harsh modern digital lighting or cold HDR oversaturation"
+  ]
+}

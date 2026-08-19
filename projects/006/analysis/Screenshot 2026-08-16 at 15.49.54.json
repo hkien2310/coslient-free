@@ -1,0 +1,241 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet photography — tactile physical miniature diorama with sculpted matte polymer clay elderly male puppet in wire spectacles and tweed flat cap, sitting hunched on rustic wooden porch steps covered with miniature autumn leaves",
+
+  "visual_mood": {
+    "primary_feeling": "melancholic autumn nostalgia, patient waiting, quiet introspection, and rustic bittersweet warmth",
+    "viewer_impression": "a touching, vulnerable moment of an elderly puppet seated alone on his cottage porch steps on a crisp autumn afternoon, lost in distant memories",
+    "narrative_subtext": "an elderly gentleman wrapped in a woolen lap blanket resting on the wooden porch of his countryside home, watching the dry autumn leaves gently fall"
+  },
+
+  "medium": {
+    "type": "physical stop-motion puppet photography with handcrafted miniature outdoor architectural set and macro optical lens",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "handcrafted articulated stop-motion puppet featuring matte sculpted polymer clay skin, fine white mohair fiber hair and goatee, miniature wire spectacles, tailored wool tweed jacket, and miniature leather lace-up boots",
+    "backdrop_medium": "physical miniature rustic cottage porch featuring weathered timber floorboards, a turned wooden porch column, exposed miniature red brick masonry with chipped plaster, and miniature dried autumn leaves",
+    "render_stylization": "semi-stylized puppet realism with expressive folk caricature and slender Wes Anderson-style proportions",
+    "line_art_style": "no outlines — pure physical 3D form, organic tactile shadow gradients, and optical depth-of-field blur",
+    "craft_quality": "master artisan stop-motion studio puppet fabrication and miniature architectural set construction",
+    "physical_material": "matte polymer clay, synthetic mohair fibers, miniature woven tweed wool, coarse burlap cloth, miniature carved leather, weathered pine wood, and miniature dried foliage",
+    "surface_specularity": "predominantly matte fibrous textiles, dry weathered wood, and satin clay skin with subtle metallic glint on wire spectacle frames",
+    "texture_distress_finish": "authentic tactile fabric weave, fine clay tooling marks, chipped plaster over brick, weathered wood grain, and crinkled autumn leaf veins",
+    "weathering_intensity_0to10": 4,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "digital 3D subsurface scattering sheen",
+      "flat vector fills",
+      "procedural clean textures",
+      "photorealistic human skin pores"
+    ]
+  },
+
+  "design_register": "melancholic autumn countryside diorama, European artisanal stop-motion folk aesthetic",
+
+  "subject": {
+    "type": "elderly male puppet sitting hunched on rustic wooden porch steps with drawn-up knees",
+    "count": 1,
+    "spatial_distribution": "seated in midground slightly left of center, occupying the vertical center from head to boots",
+
+    "face": {
+      "archetype": "expressive melancholic elderly scholar / grandfather puppet with exaggerated caricatured facial architecture",
+      "skin_tone": "warm pale beige with subtle peachy clay undertones",
+      "skin_undertone_sss": "soft natural clay translucency with gentle warm blush on cheekbones and prominent nose",
+      "skin_material_feel": "matte sculpted polymer clay with delicate sculpted forehead creases and pensive eye wrinkles",
+      "skin_grime_level_0to10": 1,
+      "skin_moisture_finish": "matte velvet with soft satin highlight along the nasal bridge and forehead plane",
+      "face_exposure_pct": 85,
+      "facial_occlusion_boundaries": "upper cranial dome covered by tweed flat cap; bridge of nose framed by round wire spectacles; chin accented with neat white goatee",
+      "face_paint": "subtle airbrushed rosy warmth on the bulbous nasal tip and soft warm grey contouring in orbital sockets",
+      "face_volume": "elongated slender cranial structure with prominent arched brows and narrow tapered jawline",
+      "forehead_and_skin_planes": "sculpted expressive brow furrows sloping downward toward the temples, conveying deep pensive sadness",
+      "face_shape_silhouette": "tapered inverted-triangular profile with prominent hooked nose and narrow pointed beard",
+      "cheek_contour_and_fullness": "lean sculpted cheek planes with subtle sagging laugh lines sloping toward the jaw",
+      "jaw_and_chin_geometry": "narrow delicate jawline ending in a pointed chin with trimmed white beard",
+      "head_cranial_shape": "broad cranial dome crowned by a fitted brown tweed flat cap",
+      "head_pitch_deg": 10,
+      "interpupillary_spacing_and_eye_span": "proportional stylized spacing with prominent deep-set orbital sockets",
+      "palpebral_fissure_and_canthal_tilt": "drooping almond-shaped eyes with downward canthal tilt expressing gentle melancholy",
+      "eyes": "dark glossy pupil beads set deep behind round wireframe spectacle lenses gazing downward-forward in quiet reflection",
+      "nose": "prominent elongated curved beak-like nose with slender bridge and rounded bulbous tip",
+      "ears": "large stylized C-shaped sculpted ears visible below cap brim",
+      "lip_geometry_and_philtrum": "thin sculpted pale lips downturned in a quiet, thoughtful pout/frown",
+      "mouth": "closed pensive mouth conveying gentle sorrow, patience, or nostalgia",
+      "facial_hair": "neatly trimmed pointed white goatee on the chin and wispy white sideburns curling out from under the cap",
+      "markings": "none",
+      "markings_geometry": "none",
+      "organic_face_overgrowth": "none"
+    },
+
+    "body": {
+      "exaggeration_locus": "elongated slender stick-like limbs and oversized expressive head hunched into a compact sitting posture",
+      "proportions": {
+        "character_proportions_type": "stylized stop-motion puppet caricature with elongated limbs (approximately 5-head ratio)",
+        "head_pct": "26%",
+        "torso_pct": "34%",
+        "legs_pct": "40%",
+        "shoulder_width": "narrow and hunched forward (approx 1.2x head width)",
+        "body_type": "slender elderly puppet with frail elongated limbs",
+        "torso_girth_and_frailty": "compact slender torso hunched forward over drawn-up knees",
+        "silhouette_rigidity_and_geometry": "triangular compact silhouette seated on step with vertical leg lines descending to boots",
+        "textile_stiffness_and_hang": "heavy textured wool coat and coarse burlap lap blanket draping naturally over knees",
+        "limb_thickness_archetype": "very slender stick-like legs in textured brown ribbed knit stockings",
+        "neck_morphology": "short slender neck tucked slightly into raised jacket collar",
+        "neck_length_and_exposure": "low neck exposure, nestled within shirt collar",
+        "hands_and_fingers": "sculpted matte clay hands with slender articulated fingers crossed resting on knees"
+      },
+      "height_ratios": "primary subject occupying roughly 70% of the vertical frame seated on steps",
+      "silhouette": "distinctive seated hunched silhouette on the wooden porch step against the warm cottage wall",
+      "pose": {
+        "stance_type": "seated on porch step with knees drawn up and forearms resting across lap/knees",
+        "weight_distribution": "centered on porch step with feet planted on lower ground plane",
+        "hip_axis_tilt_deg": 0,
+        "shoulder_axis_tilt_deg": -5,
+        "spine_curvature": "pronounced kyphotic forward thoracic curve hunched in deep thought",
+        "left_arm_pose": "left forearm crossed over right forearm across the lap blanket on knees",
+        "right_arm_pose": "right elbow resting on right knee, hand clasping left forearm/wrist",
+        "leg_and_feet_stance": "long slender legs bent at sharp knee angle, extending down to miniature brown lace-up leather boots planted in fallen autumn leaves",
+        "pose_energy": "absorbed, melancholic, patient, still"
+      },
+      "seating_and_elevation": {
+        "surface_type": "seated on the elevated top step of a weathered timber cottage porch",
+        "leg_dangle_dynamics": "long slender legs descending down to lower porch deck / leaf-covered ground",
+        "torso_lean_and_posture": "hunched forward approximately 30 degrees over knees"
+      },
+      "hand_pose_interaction": "hands clasped together resting quietly across the draped coarse lap blanket",
+      "prop_interaction": "porch steps, carved column, miniature fallen leaves, and window sill with dried herbs",
+      "prop_asymmetry_load": "balanced forward hunched posture",
+      "weapon_morphology": "none"
+    },
+
+    "hair": {
+      "color": "silvery-white with subtle grey undertones",
+      "style": "wispy curled side tufts and nape locks peeking out from beneath the brown tweed flat cap",
+      "ahoge_cowlick": "fine wispy strands at the temple and behind ears",
+      "hair_texture_type": "fine synthetic mohair fiber with authentic soft tactile fuzz",
+      "hair_sculptural_form": "soft airy clusters curling outward from the cap brim",
+      "volume_density": "moderate wispy density",
+      "direction": "downward and outward around the ears",
+      "dominant_zone": "temporal and occipital zones beneath cap",
+      "updo_containment": "enclosed beneath flat cap with protruding sideburns",
+      "accessories": "brown tweed flat cap and round wire spectacles"
+    },
+
+    "outfit": {
+      "headwear_or_eyewear": "textured brown heather tweed flat cap with small visor; miniature round wireframe spectacles",
+      "outerwear_and_upper": "tailored charcoal-black woven wool blazer jacket with structured lapels and sleeve buttons",
+      "inner_shirt_layer": "rustic oatmeal-linen collared shirt with visible miniature buttons",
+      "bottoms_and_blanket": "coarse brown-and-tan woven burlap/wool lap blanket draped over lap and knees; ribbed brown stocking trousers",
+      "footwear": "miniature hand-sculpted brown leather lace-up boots with stitched seams and tiny eyelets",
+      "textile_material_and_gloss": "100% matte coarse natural textiles — tweed wool, burlap weave, ribbed knit, and weathered leather with zero gloss",
+      "collar_and_neckline_topology": "layered collar: open linen shirt collar beneath structured charcoal blazer lapel",
+      "cuff_and_sleeve_structure": "long fitted wool sleeves gathered in creases around forearms resting on knees",
+      "tabletop_props_and_curios": "miniature dried brown and orange autumn leaves, seed pods, and pine cones scattered across wooden steps; small potted dried plant on window sill",
+      "jewelry_and_accessories": "metal wire spectacles"
+    }
+  },
+
+  "micro_features": [
+    "Delicate circular wire spectacles resting securely on the bridge of the oversized clay nose",
+    "Individual miniature dried autumn leaves, curly stems, and seed pods scattered across the weathered timber porch step",
+    "Exposed miniature red brick wall with authentic crumbling lime plaster and rough mortar joints on the left",
+    "Fluted, weathered wooden porch column with cracked wood grain and distressed brown paint",
+    "Intricate miniature brown leather boots with tiny stitched eyelets and sculpted laces resting on the lower step",
+    "Tactile tweed weave texture on the newsboy flat cap and coarse burlap fiber loops on the lap blanket",
+    "Softly blurred autumn background foliage with warm amber, ochre, and golden-brown bokeh"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "warm nostalgic 3200K autumn afternoon daylight with rich earthy ochre, rust orange, weathered brown, charcoal, and warm clay tones",
+    "color_grading_intent": "rich vintage filmic stop-motion palette with organic autumn warmth and deep velvety shadows",
+    "global_saturation_level": "moderate natural saturation with warm rusty-orange leaf accents against neutral charcoal wool, weathered grey timber, and exposed red brick",
+    "environmental_split_toning": "deep warm umber-charcoal shadows balanced with creamy golden-hour sunlight highlights on face, cap, and porch steps",
+    "palette": [
+      { "name": "autumn rust orange", "hsl": "hsl(22, 75%, 45%)" },
+      { "name": "tweed cap brown", "hsl": "hsl(28, 40%, 35%)" },
+      { "name": "burlap blanket tan", "hsl": "hsl(32, 45%, 52%)" },
+      { "name": "charcoal wool jacket", "hsl": "hsl(215, 10%, 25%)" },
+      { "name": "brick red terracotta", "hsl": "hsl(12, 50%, 42%)" },
+      { "name": "weathered timber grey", "hsl": "hsl(30, 15%, 40%)" },
+      { "name": "porcelain clay beige", "hsl": "hsl(35, 35%, 82%)" }
+    ],
+    "shadow_color": "deep warm umber and muted dark charcoal",
+    "highlight_color": "soft warm cream-gold",
+    "contrast_profile": "medium-high cinematic contrast with rich shadow depth and gentle highlight roll-off",
+    "saturation_map": "highest on fallen autumn leaves and brick wall, balanced on puppet clothing, muted on wooden porch",
+    "skin_warmth_vs_env_contrast": "luminous warm clay skin and white beard standing out clearly against the weathered cottage backdrop",
+    "color_temperature": "warm natural 3200K-3500K autumn daylight"
+  },
+
+  "lighting": {
+    "drama_level": "atmospheric, melancholic, naturalistic late-afternoon autumn lighting",
+    "key_light": {
+      "azimuth_deg": 40,
+      "elevation_deg": 30,
+      "quality": "soft directional golden-hour daylight from upper-right illuminating the front of the cap, nose, and hands",
+      "color_temp_K": 3400
+    },
+    "fill_light": {
+      "azimuth_deg": -45,
+      "elevation_deg": 15,
+      "ratio": "1:3 soft ambient fill maintaining rich sculptural shadow contours along the left side and beneath the porch roof",
+      "color_temp_K": 4000
+    },
+    "rim_light": {
+      "azimuth_deg": 160,
+      "elevation_deg": 45,
+      "surfaces": "delicate edge glow highlighting the wool fibers on the shoulder and the contour of the tweed cap"
+    },
+    "ambient_bounce": "warm diffuse bounce from the leaf-covered wooden steps softly illuminating the lower jaw and boots",
+    "special": "subtle optical catchlights in the glossy bead pupils behind spectacle lenses"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen",
+    "canvas_zoning": "asymmetric rule-of-thirds staging: left 50% occupied by cottage wall, window, and seated elderly puppet; right 50% framed by wooden porch column and soft blurred autumn trees",
+    "layer_stack_z_index": "Layer 0: blurred autumn foliage backdrop -> Layer 1: rustic cottage exterior with brick wall and window -> Layer 2: wooden porch post and steps -> Layer 3: seated elderly puppet figure and foreground fallen leaves in razor-sharp focus",
+    "framing_crop": "medium shot framed from ground/boot level to just above head/cap",
+    "subject_vertical_fill_pct": 75,
+    "headroom_and_ground_clearance": "12% headroom above flat cap; lower porch step and boots clearly anchored in lower 15%",
+    "frame_edge_clipping_and_bleed": "cottage wall and window bleed off left canvas; autumn trees extend beyond right canvas",
+    "ground_pedestal": "weathered timber porch steps covered with scattered miniature autumn leaves",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 35,
+    "camera_elevation_deg": -5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "crisp focus on puppet's face, spectacles, tweed cap, jacket, boots, and the foreground porch step with autumn leaves",
+      "blurred_zone": "smooth progressive optical blur across deep background autumn trees",
+      "blur_strength": "f/2.8 macro optical depth of field with creamy circular bokeh"
+    },
+    "rule_of_thirds": "subject's face and cap aligned near upper-left third intersection; boots aligned on lower-center third line",
+    "grid_and_accent_anchors": {
+      "construction_grid": "vertical rhythm established by the wooden porch column on right and vertical cottage wall on left",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "",
+      "right_top_panel": "",
+      "right_bottom_panel": ""
+    }
+  },
+
+  "background": {
+    "setting": "rustic countryside cottage porch and garden on an autumn afternoon",
+    "key_elements": "weathered timber porch steps, turned wooden column, exposed red brick masonry, window sill with dried herbs, blurred golden autumn trees",
+    "layer_order": "distant autumn trees -> cottage exterior wall -> porch steps with subject in sharp focus",
+    "background_density": "high architectural and natural texture softened by shallow depth of field",
+    "background_treatment": "cinematic macro defocus with warm amber bokeh"
+  },
+
+  "typography_and_graphic_elements": {
+    "__note": "No text, typography, logos, or graphic badges present in the image."
+  },
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, smooth CGI plastic, digital 3D render, Pixar style, Disney style, photorealistic human skin, modern clothes, sneakers, summer green grass, bright harsh flash, deformed feet",
+
+  "reconstruction_priority": [
+    "tactile stop-motion puppet materials (matte polymer clay skin, fine mohair hair and goatee, real wire spectacles, authentic woven tweed cap, miniature leather lace-up boots) — AI often replaces with generic 3D CGI or human skin",
+    "melancholic hunched sitting posture with drawn-up knees and crossed arms on porch step — AI tends to make characters stand or sit upright smiling",
+    "rich miniature diorama textures (miniature dried autumn leaves, weathered timber porch steps, exposed red brick with chipped plaster, turned wooden column) — AI often hallucinates flat procedural textures",
+    "warm 3200K autumnal golden-hour lighting with creamy bokeh in the blurred background — AI often introduces harsh digital HDR or oversaturated artificial hues"
+  ]
+}

@@ -1,0 +1,36 @@
+# Media files
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.wma
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.svg
+*.ico
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Misc
+*.log
+Thumbs.db

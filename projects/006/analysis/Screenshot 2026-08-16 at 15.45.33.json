@@ -1,0 +1,159 @@
+{
+  "___style_anchor": "Handcrafted stop-motion puppet miniature diorama — needle-felted wool fleece, sculpted matte clay heads, physical stone masonry architectural miniature, and shallow depth of field macro photography.",
+
+  "visual_mood": {
+    "primary_feeling": "Quiet nocturnal folk charm and peaceful village stillness",
+    "viewer_impression": "A cozy, tactile stop-motion world illuminated by gentle warm amber interior window lanterns amidst a twilight stone village",
+    "narrative_subtext": "A small flock of handcrafted sheep wandering freely along the stone terraces of a rustic hillside village at dusk"
+  },
+
+  "medium": {
+    "type": "Stop-motion miniature diorama photography with physical puppet figures",
+    "composite_structure": "single_medium_integrated",
+    "subject_medium": "Physical handcrafted puppet figures with needle-felted curly wool bodies, smooth sculpted clay heads and ears, and wire-core black legs",
+    "backdrop_medium": "Hand-sculpted textured plaster, miniature stacked fieldstone walls, aged wood lintels, and warm miniature incandescent light bulbs",
+    "render_stylization": "semi-stylized folk puppet animation",
+    "line_art_style": "no outlines — physical 3D lighting and shadow volumetric rendering only",
+    "craft_quality": "master artisan stop-motion miniature fabrication",
+    "physical_material": "raw curly wool fibers, matte modeling clay, sculpted plaster stone, distressed miniature timber",
+    "surface_specularity": "predominantly matte fibrous and porous clay with zero glossy specular highlights",
+    "texture_distress_finish": "fine organic wool frizz, tactile stone masonry texture, weathered wood grain, subtle lens softness",
+    "weathering_intensity_0to10": 3,
+    "forbidden_surfaces": [
+      "smooth CGI plastic",
+      "raytraced glossy skin",
+      "procedural digital noise",
+      "photorealistic real sheep fur"
+    ]
+  },
+
+  "design_register": "cozy rustic stop-motion fantasy diorama",
+
+  "subject": {
+    "type": "two primary stylized miniature sheep puppet figures",
+    "count": 2,
+    "spatial_distribution": "standing side by side on a flat foreground stone path slightly right of center",
+
+    "creature_anatomy": {
+      "species_and_morphology": "stylized domestic sheep with compact barrel-shaped fleece torso, smooth cylindrical-droplet dark grey clay head, two horizontal drooping teardrop ears, and four slender black stick legs",
+      "pelt_feather_scale_texture": "dense curly loop-pile needle-felted off-white wool fleece with tangible fiber fuzz",
+      "distinguishing_color_patches": "solid warm off-white cream body fleece contrasting against uniform matte dark charcoal-black head, ears, and legs",
+      "limb_and_claw_structure": "four slender cylindrical wire-core matte black legs ending in tiny flat circular feet planted firmly on ground",
+      "facial_features_and_horns": "smooth droplet-shaped black clay snout, two white disc bead eyes with tiny central black dot pupils set high on the forehead, no horns, drooping horizontal ears",
+      "tail_and_motion_state": "stationary standing pose facing three-quarter front-right towards camera",
+      "size_scale_reference": "miniature puppet scale roughly 5-7cm tall relative to foreground stone building"
+    }
+  },
+
+  "secondary_subject": {
+    "type": "background flock of identical styled miniature sheep",
+    "color_morph": "warm off-white wool fleece with dark clay heads",
+    "count_density": "5 additional visible sheep scattered across midground paths, rooftops, and behind wooden gate",
+    "size_relative_to_primary": "0.3x to 0.7x apparent size due to perspective depth and distance",
+    "spatial_distribution": "one on top of the stone tower roof, one behind wooden picket gate on right, two in lower-left path, one in midground terrace",
+    "facing_azimuth_deg": 45,
+    "pose_description": "perched or grazing calmly across the stepped stone village terraces",
+    "priority_level": "secondary environmental depth anchors"
+  },
+
+  "micro_features": [
+    "Individual curly wool fiber loops visible on the foreground sheep's fleece under directional light",
+    "Hand-laid miniature stone masonry joints with rough clay mortar on the two-story building facade",
+    "A small suspended lantern glowing warm orange at 2700K mounted beside the wooden entrance gate",
+    "Multiple glowing square window apertures emitting diffuse warm yellow light throughout the hillside background",
+    "A miniature bundle of sticks/hay drying on the rooftop beside the chimney tower",
+    "Distressed vertical wooden plank gate with rustic uneven timber grain and crossbeam bracing",
+    "Soft blue-grey twilight atmospheric falloff across the distant hillside buildings"
+  ],
+
+  "color_grading": {
+    "overall_color_cast": "twilight slate-blue 6500K atmospheric cool wash with localized warm 2400K incandescent amber pools",
+    "color_grading_intent": "classic warm-cool theatrical stop-motion color grade with muted naturalistic tones",
+    "global_saturation_level": "moderately desaturated (-15%) slate-grey stone environment contrasted with saturated amber interior lights",
+    "environmental_split_toning": "cool dusky periwinkle-slate shadows and background mist vs warm glowing gold interior window highlights",
+    "palette": [
+      { "name": "Dusk Slate Blue", "hsl": "hsl(215, 25%, 65%)" },
+      { "name": "Warm Window Amber", "hsl": "hsl(40, 95%, 60%)" },
+      { "name": "Stone Masonry Grey", "hsl": "hsl(210, 10%, 55%)" },
+      { "name": "Cream Wool Fleece", "hsl": "hsl(45, 30%, 88%)" },
+      { "name": "Matte Charcoal Black", "hsl": "hsl(0, 0%, 15%)" }
+    ],
+    "shadow_color": "deep cool slate navy and soft charcoal",
+    "highlight_color": "warm glowing golden-yellow and pale soft sky ambient",
+    "contrast_profile": "medium-soft cinematic contrast with preserved shadow details and soft highlight roll-off",
+    "saturation_map": "high saturation concentrated in window lanterns, low saturation across stone buildings and evening sky",
+    "skin_warmth_vs_env_contrast": "dark neutral matte clay heads anchored against soft grey stone and warm lantern glow",
+    "color_temperature": "cool ambient 6500K balanced with 2400K point-source illumination"
+  },
+
+  "lighting": {
+    "drama_level": "moderately dramatic moody dusk atmosphere with practical interior lighting",
+    "key_light": {
+      "azimuth_deg": -45,
+      "elevation_deg": 35,
+      "quality": "soft diffuse twilight ambient",
+      "color_temp_K": 6200
+    },
+    "fill_light": {
+      "azimuth_deg": 45,
+      "elevation_deg": 15,
+      "ratio": "3:1 soft shadow fill"
+    },
+    "rim_light": {
+      "azimuth_deg": 180,
+      "elevation_deg": 20,
+      "surfaces": "subtle edge separation along sheep fleeces and rooftop stones"
+    },
+    "ambient_bounce": "diffuse soft grey-blue skylight bouncing off stone ground plane",
+    "special": "internal incandescent practical lighting in windows and wall lantern casting localized radial warm falloff"
+  },
+
+  "composition": {
+    "aspect_ratio": "16:9 widescreen landscape",
+    "canvas_zoning": "foreground stone pathway and primary sheep in lower 35%; midground stone architecture occupying middle 40%; distant hillside village and twilight sky in upper 25%",
+    "layer_stack_z_index": "Layer 0: Dusk sky and distant mountain ridge -> Layer 1: Multi-tiered hillside stone village with glowing windows -> Layer 2: Main stone tower house and wooden gate on right -> Layer 3: Foreground stone ledge and primary sheep pair",
+    "framing_crop": "wide establishing diorama shot with medium-close placement of primary subjects",
+    "subject_vertical_fill_pct": 22,
+    "headroom_and_ground_clearance": "generous upper headroom (approx 65% frame height) showing vertical scale of stone village; 12% lower ground clearance",
+    "frame_edge_clipping_and_bleed": "foreground stone ledge bleeds across bottom edge; right building structure extends beyond right canvas frame",
+    "ground_pedestal": "textured dusty grey stone platform with small pebbles and clay dust",
+    "camera_azimuth_deg": 0,
+    "subject_facing_azimuth_deg": 25,
+    "camera_elevation_deg": 5,
+    "focal_length_mm": 50,
+    "depth_of_field": {
+      "sharp_zone": "plane containing the two foreground sheep and the front facade of the stone tower house",
+      "blurred_zone": "distant background hillside buildings and sky",
+      "blur_strength": "moderate f/2.8 macro optical blur"
+    },
+    "rule_of_thirds": "primary sheep pair placed near the lower-center intersection; tall stone tower aligned along the right vertical third",
+    "grid_and_accent_anchors": {
+      "construction_grid": "none",
+      "quadrant_accent_cards": []
+    },
+    "graphic_sheet_layout": {
+      "left_panel": "none",
+      "right_top_panel": "none",
+      "right_bottom_panel": "none"
+    }
+  },
+
+  "background": {
+    "setting": "quaint miniature European stone village cascading down a rugged hillside at dusk",
+    "key_elements": "dense clustered stone cottages, small glowing square windows, terracotta tile and stone slab roofs, chimney spires, soft mountainous backdrop",
+    "layer_order": "foreground pathway -> midground stone buildings -> background tiered village -> sky",
+    "background_density": "high structural density with intricate multi-level architectural layering",
+    "background_treatment": "soft optical out-of-focus atmospheric blur with warm glowing window points"
+  },
+
+  "typography_and_graphic_elements": {},
+
+  "negative_prompt": "watermark, text signature, logo in corner, artist name, copyright notice, blurry, low resolution, bad anatomy, photorealistic fur, glossy CGI render, 3D digital video game asset, smooth plastic texture, human faces, modern electronics, bright daylight, neon colors",
+
+  "reconstruction_priority": [
+    "Needle-felted loop wool texture on sheep — AI often renders smooth fluffy fur or synthetic digital fuzz instead of dense looped wool fibers",
+    "Physical stacked-stone diorama masonry — AI tends to hallucinate smooth procedural brick textures rather than hand-sculpted miniature stones",
+    "Matte clay droplet sheep heads with bead eyes — AI frequently distorts stylized puppet facial geometry into realistic sheep anatomy",
+    "Balanced dusk lighting with warm interior window glow — AI often overexposes the background or turns twilight into harsh midday sun"
+  ]
+}
