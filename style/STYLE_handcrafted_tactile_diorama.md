@@ -1,15 +1,15 @@
 # SỔ TAY ĐỊNH CHUẨN NGHỆ THUẬT: CINEMATIC HANDCRAFTED ANIMATION WORLD
 *Coslient Master Art Direction & Visual Style Specification*
 
-**Style ID:** `handcrafted_tactile_diorama` (hoặc `cinematic_handcrafted_animation`)  
-**Bản chất:** Thế Giới Hoạt Hình Thủ Công Điện Ảnh (Cinematic 35mm Physical Animation World) & Tạo Hình Nhân Vật Hoạt Họa Cách Điệu Nghệ Thuật  
-**Phiên bản:** v16.0 Master Art Direction Bible (Chuẩn hóa toàn diện: Định chuẩn Nhân vật Trẻ & Người Già Thanh Mảnh Quý Phái, Ma trận Chất liệu Vải dệt tự nhiên, Quy luật Ánh sáng và Ranh giới Cấm kỵ)  
+**Style ID:** `handcrafted_tactile_diorama`  
+**Phiên bản:** v17.0 — Refactored Art Direction Bible (DNA Core + Infinite Variation)  
+**Nguyên tắc thiết kế:** Style phải tạo được hàng trăm video, hàng nghìn ảnh mà không bao giờ lặp.
 
 ---
 
-## 🌟 I. TRIẾT LÝ & ĐỊNH VỊ NGHỆ THUẬT (ARTISTIC PHILOSOPHY)
+## I. TRIẾT LÝ & ĐỊNH VỊ NGHỆ THUẬT
 
-Phong cách này được xây dựng trên sự giao thoa độc bản giữa **Kỹ nghệ Chế tác Thủ công Xúc giác (Tactile Artisanship)** và **Ngôn ngữ Điện ảnh 35mm Giàu Cảm xúc (Cinematic 35mm Storytelling)**:
+Giao thoa giữa **Kỹ nghệ Chế tác Thủ công Xúc giác** và **Ngôn ngữ Điện ảnh Phim nhựa Giàu Cảm xúc**.
 
 ```
                             [ CINEMATIC HANDCRAFTED WORLD ]
@@ -22,165 +22,120 @@ Phong cách này được xây dựng trên sự giao thoa độc bản giữa *
 - Tuyệt đối KHÔNG chụp bàn        - Mắt to có hồn, sống mũi thon    - CẤM bánh răng đồng & CGI
 ```
 
-1. **Nguyên lý Thế Giới Sống Thu Nhỏ (Living Miniature World):**
-   - Thế giới là một không gian sống động thực thụ được dựng từ các vật liệu thủ công vật lý: tường vôi trát loang lổ, xà gỗ phong sương, đường lát đá cuội, lá rụng mùa thu, khói ống khói bằng bông xốp mềm.
-   - **Góc nhìn máy quay (Perspective Law):** Máy quay điện ảnh 35mm luôn được đặt **ngay bên trong thế giới đó**, tạo cảm giác không gian bao la, có chiều sâu hút mắt. Tuyệt đối không đứng từ ngoài nhìn vào mép bàn hay phông dựng studio.
-2. **Tinh thần Cảm xúc (Emotional Tone):**
-   - Mang đậm tính **Hoài niệm êm đềm (Nostalgia), Bình yên (Serenity) và Gắn kết nhân văn (Human Intimacy)** — lấy cảm hứng từ các tác phẩm hoạt hình tĩnh vật kinh điển của Châu Âu (*The Little Prince*, *Coraline*, *Amélie*).
+1. **Thế Giới Sống Thu Nhỏ (Living Miniature World):** Mọi bề mặt trong thế giới được dựng từ vật liệu tự nhiên hữu cơ — có dấu hiệu thời gian, phong hóa, tuổi tác. Không bê tông trơn nhẵn, không kính cường lực, không nhựa công nghiệp. Máy quay luôn ở **bên trong** thế giới đó, tạo chiều sâu hút mắt. Tuyệt đối không đứng ngoài nhìn vào mép bàn hay phông studio.
+2. **Aesthetic Phim Nhựa (Film Stock Aesthetic):** Hình ảnh mang chất điện ảnh phim nhựa — grain nhẹ, depth of field tự nhiên, màu film stock ấm. Focal length linh hoạt theo cỡ cảnh (wide cho đại cảnh, 50mm cho trung cảnh, 85mm cho chân dung, macro cho đặc tả).
+3. **Tinh thần Cảm xúc:** Hoài niệm êm đềm, bình yên, gắn kết nhân văn — lấy tinh thần (không phải bối cảnh địa lý) từ *The Little Prince*, *Coraline*, *Amélie*. Bối cảnh có thể thuộc bất kỳ nền văn hóa thủ công nào trên thế giới.
 
 ---
 
-## 🧬 II. TIÊN ĐỀ TẠO HÌNH NHÂN VẬT (CHARACTER ANATOMY & SCULPTING LAWS)
+## II. TIÊN ĐỀ TẠO HÌNH NHÂN VẬT (CHARACTER DNA)
 
-$$\text{Character DNA} = \text{Smooth Matte Peach Skin} + \text{Soft Organic Contours} + \text{Sculpted Fiber-Strand Hair} + \text{Tailored Natural Textiles}$$
+$$\text{Character DNA} = \text{Smooth Matte Peach Skin} + \text{Soft Organic Contours} + \text{Sculpted Fiber-Strand Hair} + \text{Natural Textiles}$$
 
-```
-                                [ CHARACTER TOPOLOGY ]
-                                          │
-       ┌────────────────────────┬─────────┴─────────┬────────────────────────┐
-       ▼                        ▼                   ▼                        ▼
-[FACIAL TOPOLOGY]        [SKIN MATERIALITY]  [HAIR ARCHITECTURE]      [ELDERLY SPECIFICATION]
-- Nét cong mềm mại tự nhiên- Da mịn lì tông đào ấm- Tóc khối uốn lượn mềm   - Dáng cao ráo, thanh mảnh
-- Sống mũi thẳng thanh tú- Má ửng hồng mộc mạc - Có thớ sợi tơ tinh xảo - Gương mặt thon gọn quý phái
-- Cằm thon gọn, cổ vừa vặn- CẤM lỗ chân lông thật- CẤM tóc vặn thừng to   - Nếp nhăn nụ cười điêu khắc
-- CẤM mặt đa giác đẽo gỗ - CẤM da lông nỉ/da gỗ - CẤM tóc nhựa bệt CGI  - CẤM người lùn / đầu to tròn
-```
+### 1. Khuôn Mặt & Tỷ Lệ:
+* **Đường nét hữu cơ mềm mại:** Khuôn mặt uốn lượn tự nhiên, cằm thon gọn. Tuyệt đối không mặt phẳng đa giác sắc nhọn (*no low-poly, no sharp faceted planes*).
+* **Tỷ lệ thanh mảnh cân đối:** Thân hình mảnh mai, cổ thon dài vừa vặn. Không cổ dài ngoẵng (*no overly elongated neck*), không tỉ lệ đầu to Chibi.
+* **Sống mũi:** Thẳng, thon gọn, cong nhẹ ở chóp tạo nét duyên hoạt họa.
 
-### 1. Cấu Trúc Khuôn Mặt & Tỷ Lệ (Facial Geometry & Proportions):
-* **Đường nét hữu cơ mềm mại (Soft Organic Contours):** Khuôn mặt uốn lượn tự nhiên, cằm thon gọn thanh tú. Tuyệt đối không dùng các mặt phẳng đa giác góc cạnh sắc nhọn (*no low-poly, no sharp faceted planes*).
-* **Tỷ lệ thanh mảnh cân đối (Slender Proportions):** Thân hình mảnh mai, cổ thon dài tự nhiên vừa vặn. Tuyệt đối không kéo cổ dài ngoẵng như hươu cao cổ (*no overly elongated neck*) và không dùng tỉ lệ đầu to chân tay cụt ngủn kiểu Chibi.
-* **Sống mũi:** Sống mũi thẳng, thon gọn, có độ cong nhẹ ở chóp mũi tạo nét duyên hoạt họa.
+### 2. Da Mặt:
+* **Tông & Bề mặt:** Hồng đào / nâu sáng ấm (*warm peachy-tan*), mịn lì không bóng (*smooth soft-matte*), má và chóp mũi phớt hồng (*subtle rosy blush*).
+* **Ranh giới:** Da sạch sẽ láng mịn. Không xơ len/lông nỉ lem mặt (*no felt fuzz on skin*), không vân gỗ (*no wood grain*), không lỗ chân lông tả thực (*no human skin pores*).
 
-### 2. Chất Cảm Da Mặt (Skin Materiality & Complexion):
-* **Tông màu & Bề mặt:** Da có màu **hồng đào / nâu sáng ấm áp tự nhiên (*warm peachy-tan skin tone*)**, bề mặt mịn lì không bóng (*smooth soft-matte finish*), hai gò má và chóp mũi phớt hồng nhẹ nhàng (*subtle rosy blush*).
-* **Ranh giới vật liệu:** Da mặt phải sạch sẽ, láng mịn. Tuyệt đối không để xơ len/lông nỉ lem lên mặt (*zero felt fuzz on skin*), không có vân gỗ đẽo gọt nứt nẻ (*no wood grain on face*), và không có lỗ chân lông tả thực của người thật (*no human skin pores*).
+### 3. Tóc:
+* **Tóc có cấu trúc khối kết hợp thớ sợi tinh xảo (*Sculpted Hair with Fine Fiber Strands*):** Tóc tạo hình lọn/búi/sóng bồng bềnh, bề mặt hiển thị rõ các thớ sợi tơ mềm mại. Kiểu tóc tự do (búi, xoăn, tết, bob, pixie, dài buông có cấu trúc...).
+* **Cấm:** Tóc vặn thừng thô (*no thick rope hair*), tóc cước tua tủa (*no messy wire hair*), tóc nhựa trơn CGI (*no 3D plastic hair*).
 
-### 3. Cấu Trúc Điêu Khắc Tóc (Hair Architecture):
-* **Nguyên lý Tóc Khối có Thớ Sợi (*Sculpted Hair with Fiber Strands*):** Tóc được tạo hình thành các lọn uốn bồng bềnh có cấu trúc rõ ràng (như búi tóc xoắn của nữ, tóc uốn sóng lãng tử của nam), bề mặt hiển thị rõ các **thớ sợi tơ len/vải mộc mềm mại và tinh xảo**.
-* **Ranh giới cấm kỵ:** Cấm tóc vặn thừng to thô như sợi dây thừng/mì tôm (*no thick rope hair*), cấm tóc cước tua tủa như lông nhím (*no messy wire hair*), cấm khối tóc đúc nhựa trơn tuột kiểu CGI (*no 3D plastic hair*).
+### 4. Mắt:
+* Mắt to tròn biểu cảm, mí mắt điêu khắc tinh tế, **đốm bắt sáng lấp lánh (*soft catchlights*)**. Không mắt chấm đen vô hồn (*no blank button eyes*).
 
-### 4. Đôi Mắt & Biểu Cảm Có Hồn (Expressive Optics):
-* Mắt to tròn biểu cảm, có mí mắt điêu khắc tinh tế và **đốm bắt sáng lấp lánh (*soft catchlights/glint*)**, toát lên vẻ ấm áp, say mê khi chơi nhạc hoặc bình yên khi thưởng trà. Tuyệt đối không dùng mắt chấm đen vô hồn như cúc áo (*no blank button eyes*).
-
-### 5. Tiên Đề Định Chuẩn Nhân Vật Người Già & Lão Thành (Elderly Character Law):
-* **Dáng vóc & Thần thái:** Bắt buộc giữ **dáng người cao ráo, thanh mảnh (*tall refined posture / slender graceful frame*)**, phong thái điềm tĩnh, quý phái của nghệ nhân hoặc học giả.
-* **Gương mặt người già:** Đường nét khuôn mặt thon gọn (*refined slender facial contours*), sống mũi thẳng thanh tú, gò má thanh thoát, có các **rãnh nhăn nụ cười được điêu khắc tinh tế (*gentle sculpted smile lines*)**.
-* **Tóc & Râu bạc:** Tóc bạc hoặc râu bạc uốn lượn có khối mềm mại kết hợp thớ sợi tơ (*sculpted wavy silver hair / beard with fine fiber strands*), búi tóc bạc cài nơ vải của cụ bà.
-* **CẤM TUYỆT ĐỐI KHUÔN MẪU PIXAR / NGƯỜI LÙN CHUBBY:**
-  - Cấm đầu to tròn ủng, cấm má phính bánh bao, cấm người lùn tịt béo tròn, cấm mũi cà chua to tròn dạng búp bê gnome (`no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no chubby cheeks`).
+### 5. Nhân Vật Người Già (Elderly Character Law):
+* **Dáng vóc:** Bắt buộc **cao ráo, thanh mảnh (*tall refined posture / slender graceful frame*)**, phong thái điềm tĩnh quý phái.
+* **Gương mặt:** Đường nét thon gọn (*refined slender facial contours*), sống mũi thẳng, gò má thanh thoát, **rãnh nhăn nụ cười điêu khắc (*gentle sculpted smile lines*)**.
+* **Tóc/Râu bạc:** Uốn lượn mềm + thớ sợi tơ (*sculpted wavy silver hair with fine fiber strands*).
+* **CẤM:** Đầu to tròn, má phính, người lùn béo, mũi cà chua (`no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose`).
 
 ---
 
-## 🧵 III. MA TRẬN CHẤT LIỆU & VẢI DỆT XÚC GIÁC (TACTILE TEXTILE & COSTUME SYSTEM)
+## III. NGUYÊN TẮC TRANG PHỤC & VẬT LIỆU
 
-```
-                                [ TACTILE TEXTILE MATRIX ]
-                                             │
-      ┌────────────────────────┬─────────────┴─────────────┬────────────────────────┐
-      ▼                        ▼                           ▼                        ▼
-[DÒNG VẢI MỘC (LINEN/COTTON)] [DÒNG DẠ & LEN ĐAN TAY]    [DÒNG NHUNG & CHẦN BÔNG]  [DÒNG CANVAS, DENIM & DA]
-- Vải lanh rustic linen thô  - Dạ Tweed xương cá cúc sừng- Nhung tăm Corduroy gân  - Vải bạt Heavy Canvas
-- Đũi mộc nhăn tự nhiên      - Áo len vặn thừng dày cộm  - Áo chần bông quả trám   - Raw Denim & Chambray
-- Tạp dề làm bếp thêu tay    - Khăn dạ kẻ Tartan Plaid   - Yếm nhung mềm mại       - Bốt da thuộc khâu tay
-```
+### 1. Nguyên tắc vải:
+Mọi trang phục dùng **vải/da tự nhiên có texture nhìn thấy bằng mắt** — sợi, nếp nhăn, gân, vết may, đường dệt. Ví dụ (không giới hạn): linen, tweed, cable-knit, corduroy, canvas, denim, da thuộc, lụa thô, vải bông thêu tay, vải thổ cẩm, cotton nỉ, flannel, muslin, burlap, chambray, velvet, satin mộc...
 
-### 1. Phân Loại 8 Dòng Vải Dệt Tiêu Biểu:
-1. **Vải Lanh & Đũi Mộc (Rustic Linen / Flax):** Thớ vải thô, có nếp nhăn tự nhiên, thoáng đãng — may váy suông dài, áo sơ mi cổ bẻ thô, tạp dề làm bếp.
-2. **Dạ Tweed Xương Cá & Dạ Nỉ (Herringbone Tweed / Boiled Wool):** Bề mặt đanh dày, vân dệt xương cá sang trọng — may áo khoác măng tô lữ khách, áo vest cổ điển cúc sừng, mũ flat cap.
-3. **Áo Len Dệt Kim Vặn Thừng (Chunky Cable-Knit Yarn):** Các múi vặn thừng to bản, thớ len nổi khối ấm áp — may áo len chui đầu, áo cardigan cài cúc gỗ to.
-4. **Nhung Tăm / Nhung Gân (Corduroy):** Gân nhung sọc dọc bắt sáng mềm mại — may quần ống đứng xắn gấu, áo gile thợ mộc, áo khoác vintage màu rêu/nâu đất.
-5. **Vải Bông Chần Quả Trám (Diamond-Quilted Linen/Cotton):** Đường may chần quả trám êm ái — may áo khoác lửng mùa đông, gile chần bông giữ ấm.
-6. **Vải Bạt Canvas & Vải Bố (Heavy Canvas & Burlap):** Độ bền thô ráp mộc mạc — may áo khoác thợ may chore coat, tạp dề túi hộp đựng đồ nghề, túi đeo chéo lữ khách.
-7. **Denim Mộc & Vải Chambray (Raw Denim & Blue Chambray):** Sắc xanh chàm mộc phai màu tự nhiên — may áo sơ mi thợ thủ công, quần yếm làm vườn dungarees.
-8. **Da Thuộc & Da Lộn Mộc (Hand-stitched Raw Leather & Suede):** Da bò sáp màu nâu cánh gián — may giày bốt cổ lửng, quai túi xách vintage, thắt lưng khâu chỉ thô.
+Cho phép trang phục đương đại nếu giữ chất artisanal (áo hoodie len dệt tay, giày da bốt, quần chinos vải bông). Cấm nhựa synthetic bóng loáng, sneakers neon, đồ thể thao polyester.
 
-### 2. Chi Tiết Phụ Kiện Thủ Công (Artisanal Accents):
-* **Cúc áo:** Ưu tiên tuyệt đối **Cúc gỗ to bản (*oversized wooden buttons*)**, cúc sừng tự nhiên hoặc cúc chốt gỗ (*wooden toggle buttons*).
-* **Đạo cụ sống (Diegetic Props):** Đàn guitar gỗ mộc, violin gỗ thông phong sương, harmonica kim loại mờ, ấm gốm đất nung, sách bọc da cổ, đèn bão đồng.
-* **CẤM TUYỆT ĐỐI BÁNH RĂNG & CƠ KHÍ:** Tuyệt đối không gắn bánh răng đồng, đồng hồ lộ cơ hay chi tiết viễn tưởng steampunk lên trang phục và bối cảnh.
+### 2. Nguyên tắc phụ kiện & đạo cụ:
+Phụ kiện và đạo cụ phải làm từ **vật liệu hữu cơ/thủ công** — gỗ, gốm, da, sừng, vải, kim loại cũ mờ. Không nhựa công nghiệp, không kim loại bóng loáng mới, không đồ điện tử hiện đại.
+
+### 3. Luật nhất quán trang phục trong khung hình:
+Mọi nhân vật trong cùng 1 khung hình phải nhất quán mùa vụ & thời tiết (cùng mùa đông hoặc cùng mùa hè). Trong cùng 1 video, trang phục thuộc cùng 1 hệ sinh thái thời tiết.
+
+### 4. CẤM TUYỆT ĐỐI BÁNH RĂNG & CƠ KHÍ:
+Không bánh răng đồng, đồng hồ lộ cơ, chi tiết steampunk trên trang phục và bối cảnh.
 
 ---
 
-## 💡 IV. ĐỊNH LUẬT ÁNH SÁNG & BẢNG MÀU ĐIỆN ẢNH (LIGHTING & COLOR LAWS)
+## IV. NGUYÊN TẮC ÁNH SÁNG & MÀU SẮC
 
-### 1. Bảng Màu Hữu Cơ Ấm Áp (Warm Organic Chromatic Palette):
-* **Màu Môi Trường & Kiến Trúc:** Nâu gỗ sồi phong sương (*weathered timber*), trắng vôi loang lổ (*stucco white*), xám đá cuội (*slate pebble*).
-* **Màu Trang Phục & Điểm Nhấn:** Cam đất nung (*terracotta/burnt orange*), vàng mù tạt (*warm mustard*), xanh chàm mộc (*faded indigo*), xanh rêu phong (*sage/moss green*), trắng ngà vải lanh (*oatmeal linen*).
-* **Quy luật Triệt tiêu Ám Xanh (Blue Cast Elimination):** Tuyệt đối không để sắc xanh lạnh chiếm lĩnh khung hình; luôn lấy sắc ấm của gỗ, đất và ánh sáng vàng làm linh hồn chủ đạo.
+### 1. Palette Earth Tone:
+Mọi sắc độ tìm thấy trong tự nhiên: đất, đá, gỗ, lá, vỏ cây, gia vị, khoáng vật. Ưu tiên sắc ấm và trầm. Cho phép accent rực rỡ khi bối cảnh đòi hỏi (hoa nở, gia vị phương Đông, gốm men ngọc, vải nhuộm indigo đậm). **Cấm ám xanh bệt** — sắc xanh lạnh không được chiếm lĩnh toàn bộ khung hình.
 
-### 2. Kỹ Thuật Chiếu Sáng Điện Ảnh (Cinematic Lighting Direction):
-* **Nguồn Sáng Vàng Nội Tại (2400K – 2700K):** Ánh sáng ấm áp phát ra từ cửa sổ, đèn bàn, đèn bão hoặc ngọn lửa lò sưởi, phủ một lớp hào quang mật ong (*amber glow*) lên chủ thể.
-* **Luồng Nắng Xiên & Bụi Không Khí (Volumetric Sunbeams & Dust Motes):** Tia nắng sớm/chiều tà xiên qua khung cửa sổ gỗ (*god rays*), làm bừng sáng các hạt bụi lơ lửng trong không gian (*floating dust motes*), tạo độ sâu và cảm giác "không gian đang thở".
-
----
-
-## 📐 V. ĐỊNH LUẬT QUANG HỌC, CỠ CẢNH & BỐ CỤC (CINEMATOGRAPHY LAWS)
-
-```
-                                [ CINEMATIC CAMERA SYSTEM ]
-                                             │
-      ┌──────────────────────────────┬───────┴──────────────┬──────────────────────────────┐
-      ▼                              ▼                      ▼                              ▼
- [5 CỠ CẢNH ĐIỆN ẢNH]      [GÓC MÁY CẢM XÚC]      [BỐ CỤC NGHỆ THUẬT]      [HIỆU ỨNG KHÍ QUYỂN]
- - Extreme Wide (Đại cảnh) - Eye-level (Ngang mắt) - Frame-within-a-frame   - Vệt mưa chảy trên kính
- - Full-Body (Toàn thân)   - Low-angle (Góc thấp)  - Leading lines          - Bông khói ống khói
- - Medium (Trung cảnh)     - High-angle (Góc cao)  - Rule of thirds         - Lá phong bay trong gió
- - Close-up (Cận cảnh)     - OTS (Góc qua vai)     - Deep depth layering    - Bụi nắng lơ lửng
- - Macro (Đặc tả chi tiết) - Profile Rim-lit       - Foreground blur bokeh  - Mặt nước phản chiếu ấm
-```
-
-1. **Phổ Cỡ Cảnh (Shot Scale Variety):**
-   * Phải linh hoạt luân chuyển giữa đại cảnh thiên nhiên bao la, trung cảnh kể chuyện (gian bếp, bàn trà, xưởng mộc) và cận cảnh đặc tả xúc giác (bấm phím đàn, kéo vĩ violin, khâu cúc áo).
-2. **Nghệ Thuật Bố Cục (Framing Aesthetics):**
-   * Tận dụng tối đa **Khung lồng khung (*Frame-within-a-frame*)** qua các ô cửa sổ gỗ, cửa tàu hỏa hay vòm cây mùa thu.
-   * Tạo **Chiều sâu đa tầng (Deep Depth Layering)**: Tiền cảnh mờ nhẹ $\rightarrow$ Trung cảnh nét căng $\rightarrow$ Hậu cảnh bokeh ánh sáng lung linh.
+### 2. Ánh sáng:
+* Ánh sáng luôn có **nguồn vật lý diegetic** (cửa sổ, đèn dầu, lửa lò sưởi, mặt trời, mặt trăng, nến).
+* **Tông ấm chiếm ưu thế** nhưng KHÔNG khóa vào 1 nhiệt độ màu. Cho phép mọi thời điểm trong ngày và mọi thời tiết: nắng chiều vàng amber, sáng sớm sương mờ cool-warm, trưa overcast mềm, đêm trăng xanh bạc, mưa phùn xám ấm.
+* Mọi khung hình có ít nhất 1 **particle hữu cơ trôi nổi** để tạo chiều sâu không khí (bụi nắng, hơi nước, tuyết, phấn hoa, cánh hoa, tàn lửa, sương, khói bếp...).
 
 ---
 
-## 🚫 VI. ĐẠI SỐ PHỦ ĐỊNH & RANH GIỚI CẤM KỴ (STRICT PROHIBITION GRAMMAR)
+## V. NGUYÊN TẮC QUANG HỌC & BỐ CỤC
 
-$$\text{Prohibited} = \{ \text{round chubby face, oversized round head, dwarf, gnome, short stout body, bulbous nose, brass gears, clockwork, steampunk, metal cogs, modern streetwear, low-poly, oil painting, 2D anime, photorealistic human, live-action, chibi, plush doll, heavy blue tint} \}$$
+1. **Đa dạng cỡ cảnh:** Luân chuyển linh hoạt — đại cảnh (extreme wide), toàn thân (full-body), trung cảnh (medium), cận cảnh (close-up), macro đặc tả.
+2. **Đa dạng góc máy:** Ngang mắt, góc thấp (low-angle), góc cao (high-angle), qua vai (OTS), profile rim-lit.
+3. **Bố cục nghệ thuật:** Tận dụng khung lồng khung (*frame-within-a-frame*) qua cửa sổ, vòm cây, cửa ra vào. Chiều sâu đa tầng: tiền cảnh mờ → trung cảnh nét → hậu cảnh bokeh.
 
-| Hạng Mục Cấm | Biểu Hiện Bị Cấm | Lý Do & Hậu Quả Thị Giác |
+---
+
+## VI. RANH GIỚI CẤM KỴ (PROHIBITION GRAMMAR)
+
+| Hạng Mục Cấm | Biểu Hiện Bị Cấm | Lý Do |
 | :--- | :--- | :--- |
-| **1. Người Lùn / Đầu To Tròn** | `round chubby face, oversized round head, dwarf, gnome, short stout body, bulbous nose` | Biến nhân vật thành người lùn hoạt hình Pixar Up / Chibi mất tỷ lệ quý phái. |
-| **2. Bánh Răng & Steampunk** | `brass gears, clockwork, steampunk, metal cogs` | Phá hủy chất mộc mạc hữu cơ, biến thành khoa học viễn tưởng lạc điệu. |
-| **3. Trang Phục Hiện Đại** | `modern streetwear, sneakers, graphic t-shirts, hoodies` | Phá vỡ bối cảnh cổ tích hoài niệm của thế giới thủ công. |
-| **4. Tranh Vẽ 2D & Sơn Dầu** | `oil painting, 2D illustration, 2D anime, Ghibli, flat drawing` | Làm mất khối 3D xúc giác, biến thành tranh vẽ kỹ thuật số phẳng. |
-| **5. Người Thật Live-Action** | `photorealistic real human face, handsome actor, live-action` | Làm mất tính nghệ thuật cách điệu, biến thành phim người thật đóng. |
-| **6. Đa Giác Gỗ & Cổ Dài** | `low-poly, faceted faces, sharp angular planes, elongated neck` | Tạo ra mặt phẳng đẽo gỗ thô kệch hoặc cổ dị dạng như hươu cao cổ. |
-| **7. Búp Bê Nỉ & Chibi** | `chibi, plush doll, rag doll, felted skin, fuzzy skin, button eyes` | Biến nhân vật thành búp bê nhồi bông tròn ủng không có cấu trúc mũi miệng. |
-| **8. Ám Xanh Bệt** | `heavy blue tint, monochromatic cold blue cast` | Làm khung hình lạnh lẽo, bệt màu, triệt tiêu ánh sáng ấm áp. |
+| **1. Người Lùn / Đầu To** | `round chubby face, oversized round head, dwarf, gnome, short stout body, bulbous nose` | Pixar Up / Chibi mất tỷ lệ quý phái |
+| **2. Bánh Răng & Steampunk** | `brass gears, clockwork, steampunk, metal cogs` | Phá chất mộc mạc hữu cơ |
+| **3. Nhựa & Synthetic** | `plastic sneakers, neon sportswear, polyester, synthetic shiny fabric` | Phá chất thủ công tự nhiên |
+| **4. Tranh 2D & Sơn Dầu** | `oil painting, 2D illustration, 2D anime, Ghibli, flat drawing` | Mất khối 3D xúc giác |
+| **5. Người Thật** | `photorealistic real human face, live-action` | Mất tính cách điệu nghệ thuật |
+| **6. Đa Giác Gỗ & Cổ Dài** | `low-poly, faceted faces, sharp angular planes, elongated neck` | Mặt đẽo gỗ hoặc cổ dị dạng |
+| **7. Búp Bê Nỉ & Chibi** | `chibi, plush doll, rag doll, felted skin, fuzzy skin, button eyes` | Búp bê nhồi bông vô cấu trúc |
+| **8. Ám Xanh Bệt** | `heavy blue tint, monochromatic cold blue cast` | Khung hình lạnh bệt màu |
 
 ---
 
-## 🛠️ VII. CÔNG THỨC PROMPT ĐẠI SỐ & 4 MẪU BENCHMARK KIM CHỈ NAM
+## VII. PROMPT ENGINE
 
-### 1. Cú Pháp Đại Số 1 Dòng (Master Equation):
+### 1. Cú Pháp 1 Dòng (Master Equation):
 ```text
-A cinematic 35mm film still from a handcrafted physical animation film, [BOI_CANH_VA_CO_CANH], [NHAN_VAT: a (slender / charismatic / slender elderly) stylized (character) with refined facial contours, smooth matte peach skin, detailed expressive eyes, and sculpted hair with fine fiber strands], wearing [TRANG_PHUC_VAI_THAT: chunky cable-knit sweater / tailored tweed jacket / rustic linen apron], [HANH_DONG_CU_THE], [ANH_SANG_VA_KHI_QUYEN: soft golden sunbeams with floating dust motes / warm 2700K ambient glow], authentic weathered wood grain, rich tactile woven textures, cinematic shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no modern streetwear, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
+A cinematic film still from a handcrafted physical animation film, [BOI_CANH_VA_CO_CANH], [NHAN_VAT: a (slender / charismatic / slender elderly) stylized character with refined facial contours, smooth matte peach skin, detailed expressive eyes, and sculpted hair with fine fiber strands], wearing [TRANG_PHUC: any natural-textile garment with visible handcrafted texture], [HANH_DONG], [ANH_SANG_VA_KHI_QUYEN: natural diegetic light source + organic floating particles], authentic weathered natural materials, rich tactile textures, cinematic depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
 ```
 
 ---
 
-### 2. Bốn Mẫu Benchmark Đối Chứng Tiêu Biểu (Gold Standards):
+### 2. Bốn Benchmark Đối Chứng (4 Mood Ánh Sáng Khác Nhau):
 
-* **Mẫu 1: [Người Trẻ / Trung cảnh] Gian bếp & Cặp đôi Đàn Guitar (Đỉnh cao chất cảm & ánh sáng)**
+* **Mẫu 1: [Nắng chiều vàng / Trung cảnh] Cặp đôi Đàn Guitar trong Gian bếp ⭐ Gold Standard**
   ```text
-  A cinematic 35mm film still from a handcrafted physical animation film, inside a cozy sunlit rustic wooden kitchen, a slender stylized young man with sculpted wavy dark hair with fine fiber strands and smooth matte peach skin sits playing a wooden acoustic guitar for a stylized young woman with a sculpted blonde hair bun in a cream linen dress and rust apron, soft golden sunbeams with floating dust motes, rich chunky cable-knit sweater with authentic yarn micro-texture, warm 2700K ambient glow, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no modern streetwear, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
+  A cinematic 35mm film still from a handcrafted physical animation film, inside a cozy sunlit rustic wooden kitchen, a slender stylized young man with sculpted wavy dark hair with fine fiber strands and smooth matte peach skin sits playing a wooden acoustic guitar for a stylized young woman with a sculpted blonde hair bun in a cream linen dress and rust apron, soft golden sunbeams with floating dust motes, rich chunky cable-knit sweater with authentic yarn micro-texture, warm 2700K ambient glow, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
   ```
 
-* **Mẫu 2: [Người Trẻ / Cận cảnh] Kéo Violin bên Cửa sổ Mùa thu (Đỉnh cao biểu cảm & áo khoác Tweed)**
+* **Mẫu 2: [Sáng sớm sương mờ / Cận cảnh] Cô gái Kéo Violin bên Cửa sổ**
   ```text
-  A cinematic intimate close-up 35mm film still from a handcrafted physical animation film, a graceful stylized young woman with a sculpted brown hair bun with fine fiber strands and smooth matte peach skin passionately plays a miniature wooden violin with eyes closed, golden afternoon sunbeams streaming through a window with autumn leaves outside casting an amber rim light on her face, wearing a tailored mustard-yellow tweed jacket with a large wooden toggle button, floating dust motes, rich tactile textures, warm 2700K ambient glow, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no modern streetwear, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
+  A cinematic intimate close-up film still from a handcrafted physical animation film, a graceful stylized young woman with a sculpted brown hair bun with fine fiber strands and smooth matte peach skin passionately plays a miniature wooden violin with eyes closed, soft diffused early morning light filtering through a foggy window with dew droplets casting a gentle cool-warm glow on her face, wearing a tailored mustard-yellow tweed jacket with a large wooden toggle button, faint morning mist particles floating in the air, rich tactile textures, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
   ```
 
-* **Mẫu 3: [Người Già / Trung cảnh] Cụ Ông Gọt Đồ Chơi Gỗ Trong Xưởng (Chuẩn Dáng Thanh Mảnh Quý Phái)**
+* **Mẫu 3: [Đêm đèn dầu / Trung cảnh] Cụ Ông Gọt Đồ Chơi Gỗ Trong Xưởng**
   ```text
-  A cinematic medium 35mm film still from a handcrafted physical animation film, inside a sunlit rustic wooden workshop, a slender stylized elderly artisan with a tall refined posture, defined straight nose, smooth matte peach skin with gentle smile lines, and sculpted wavy silver hair uses a small knife to shape a miniature wooden bird, wearing a faded blue chambray shirt with rolled sleeves and a heavy brown canvas apron, soft golden sunbeams with floating wood dust motes, weathered workbench, warm 2700K ambient glow, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no modern streetwear, no oil painting, no 2D illustration, no photorealistic real human, no live-action, no chibi, no heavy blue tint.
+  A cinematic medium film still from a handcrafted physical animation film, inside a dim rustic wooden workshop at night, a slender stylized elderly artisan with a tall refined posture, defined straight nose, smooth matte peach skin with gentle smile lines, and sculpted wavy silver hair uses a small knife to shape a miniature wooden bird, warm flickering oil lamp casting deep amber shadows across the workbench, wearing a faded blue chambray shirt with rolled sleeves and a heavy brown canvas apron, fine wood dust particles drifting in the lamplight, weathered tools hanging on the wall, cinematic depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no oil painting, no 2D illustration, no photorealistic real human, no live-action, no chibi, no heavy blue tint.
   ```
 
-* **Mẫu 4: [Lữ Khách / Đại cảnh] Đứng Trên Ngọn Đồi Hoàng Hôn (Đỉnh cao không gian & áo Măng tô)**
+* **Mẫu 4: [Trưa overcast mềm / Đại cảnh] Lữ Khách Trên Ngọn Đồi**
   ```text
-  A breathtaking extreme wide panoramic 35mm film still from a handcrafted physical animation film, a solitary slender stylized traveler wearing a tailored charcoal herringbone tweed overcoat with horn buttons and a mustard-yellow tartan plaid scarf stands on a rolling hill of golden grasses gazing at a fairytale wooden village nestled in a valley below, glowing 2400K cottage windows, fluffy cotton smoke plumes puffing from chimneys, sunset sky filled with falling autumn leaves, cinematic scale and depth, rich tactile woven fabrics, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no modern streetwear, no oil painting, no 2D illustration, no photorealistic human, no live-action, no chibi, no plush doll, no heavy blue tint.
+  A breathtaking extreme wide panoramic film still from a handcrafted physical animation film, a solitary slender stylized traveler wearing a tailored charcoal herringbone tweed overcoat with horn buttons and a hand-knitted scarf stands on a rolling hill of wild grasses gazing at a fairytale wooden village nestled in a valley below, soft overcast diffused daylight with no direct sun creating even gentle illumination, delicate dandelion seeds and tiny petals drifting in the breeze, cottage windows glowing faintly, cinematic scale and depth, rich tactile woven fabrics, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no 2D illustration, no photorealistic human, no live-action, no chibi, no plush doll, no heavy blue tint.
   ```
