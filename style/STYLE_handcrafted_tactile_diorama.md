@@ -24,7 +24,7 @@ Giao thoa giữa **Kỹ nghệ Chế tác Thủ công Xúc giác** và **Ngôn n
 
 1. **Thế Giới Sống Thu Nhỏ (Living Miniature World):** Mọi bề mặt trong thế giới được dựng từ vật liệu tự nhiên hữu cơ — có dấu hiệu thời gian, phong hóa, tuổi tác. Không bê tông trơn nhẵn, không kính cường lực, không nhựa công nghiệp. Máy quay luôn ở **bên trong** thế giới đó, tạo chiều sâu hút mắt. Tuyệt đối không đứng ngoài nhìn vào mép bàn hay phông studio.
 2. **Aesthetic Phim Nhựa (Film Stock Aesthetic):** Hình ảnh mang chất điện ảnh phim nhựa — grain nhẹ, depth of field tự nhiên, màu film stock ấm. Focal length linh hoạt theo cỡ cảnh (wide cho đại cảnh, 50mm cho trung cảnh, 85mm cho chân dung, macro cho đặc tả).
-3. **Tinh thần Cảm xúc:** Hoài niệm êm đềm, bình yên, gắn kết nhân văn — lấy tinh thần (không phải bối cảnh địa lý) từ *The Little Prince*, *Coraline*, *Amélie*. Bối cảnh có thể thuộc bất kỳ nền văn hóa thủ công nào trên thế giới.
+3. **Tinh thần Cảm xúc:** Hoài niệm êm đềm, bình yên, gắn kết nhân văn — lấy tinh thần (không phải bối cảnh cụ thể) từ *The Little Prince*, *Coraline*, *Amélie*. Bối cảnh giữ chung chung, không gắn vào quốc gia hay văn hóa cụ thể nào.
 
 ---
 
@@ -118,24 +118,24 @@ A cinematic film still from a handcrafted physical animation film, [BOI_CANH_VA_
 
 ---
 
-### 2. Bốn Benchmark Đối Chứng (4 Mood Ánh Sáng × 4 Bối Cảnh Khác Nhau):
+### 2. Bốn Benchmark Đối Chứng (4 Mood Ánh Sáng Khác Nhau):
 
-* **Mẫu 1: [Nắng chiều vàng / Trung cảnh / Châu Âu] Cặp đôi Đàn Guitar trong Gian bếp ⭐ Gold Standard**
+* **Mẫu 1: [Nắng chiều vàng / Trung cảnh] Cặp đôi Đàn Guitar trong Gian bếp ⭐ Gold Standard**
   ```text
   A cinematic 35mm film still from a handcrafted physical animation film, inside a cozy sunlit rustic wooden kitchen, a slender stylized young man with sculpted wavy dark hair with fine fiber strands and smooth matte peach skin sits playing a wooden acoustic guitar for a stylized young woman with a sculpted blonde hair bun in a cream linen dress and rust apron, soft golden sunbeams with floating dust motes, rich chunky cable-knit sweater with authentic yarn micro-texture, warm 2700K ambient glow, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
   ```
 
-* **Mẫu 2: [Sáng sớm sương mờ / Cận cảnh / Châu Âu] Cô gái Kéo Violin bên Cửa sổ**
+* **Mẫu 2: [Sáng sớm sương mờ / Cận cảnh] Cô gái Kéo Violin bên Cửa sổ**
   ```text
   A cinematic intimate close-up film still from a handcrafted physical animation film, a graceful stylized young woman with a sculpted brown hair bun with fine fiber strands and smooth matte peach skin passionately plays a miniature wooden violin with eyes closed, soft diffused early morning light filtering through a foggy window with dew droplets casting a gentle cool-warm glow on her face, wearing a tailored mustard-yellow tweed jacket with a large wooden toggle button, faint morning mist particles floating in the air, rich tactile textures, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
   ```
 
-* **Mẫu 3: [Đêm đèn dầu / Trung cảnh / Nhật Bản] Cụ Bà Nghệ Nhân Gốm Trong Xưởng**
+* **Mẫu 3: [Đêm đèn dầu / Trung cảnh] Cụ Bà Nghệ Nhân Gốm Trong Xưởng**
   ```text
-  A cinematic medium film still from a handcrafted physical animation film, inside a dim traditional Japanese ceramics workshop at night, a slender stylized elderly woman artisan with a tall refined posture, refined slender facial contours, smooth matte peach skin with gentle smile lines, and sculpted silver hair in a soft bun with fine fiber strands carefully shapes a small clay tea bowl on a wooden hand-turned wheel, warm flickering oil lamp casting deep amber shadows across the earthen workbench, wearing an indigo-dyed linen kimono jacket with hand-stitched sashiko patterns and a raw cotton apron, fine clay dust particles drifting in the lamplight, wooden shelves lined with unglazed pottery, cinematic depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
+  A cinematic medium film still from a handcrafted physical animation film, inside a dim rustic ceramics workshop at night, a slender stylized elderly woman artisan with a tall refined posture, refined slender facial contours, smooth matte peach skin with gentle smile lines, and sculpted silver hair in a soft bun with fine fiber strands carefully shapes a small clay tea bowl on a wooden hand-turned wheel, warm flickering oil lamp casting deep amber shadows across the earthen workbench, wearing a faded indigo-dyed linen work jacket and a raw cotton apron, fine clay dust particles drifting in the lamplight, wooden shelves lined with unglazed pottery, cinematic depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
   ```
 
-* **Mẫu 4: [Trưa overcast mềm / Đại cảnh / Châu Âu] Lữ Khách Trên Ngọn Đồi**
+* **Mẫu 4: [Trưa overcast mềm / Đại cảnh] Lữ Khách Trên Ngọn Đồi**
   ```text
   A breathtaking extreme wide panoramic film still from a handcrafted physical animation film, a solitary slender stylized traveler wearing a tailored charcoal herringbone tweed overcoat with horn buttons and a hand-knitted scarf stands on a rolling hill of wild grasses gazing at a fairytale wooden village nestled in a valley below, soft overcast diffused daylight with no direct sun creating even gentle illumination, delicate dandelion seeds and tiny petals drifting in the breeze, cottage windows glowing faintly, cinematic scale and depth, rich tactile woven fabrics, shallow depth of field, no round chubby face, no oversized round head, no dwarf, no gnome, no short stout body, no bulbous nose, no brass gears, no clockwork, no steampunk, no metal cogs, no oil painting, no painterly brushstrokes, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no Disney princess, no chibi, no plush doll, no heavy blue tint.
   ```
