@@ -3,6 +3,14 @@
 > **Vai trò file này:** Mọi thứ đặc thù cho Suno AI — cách viết prompt, tag syntax, viết hoa/thường, performance cues.
 > Đây là kỹ thuật của **công cụ**, không phải kỹ thuật âm nhạc hay lyric craft.
 >
+> **Quy định file đầu ra trong project:**
+> - File `music.md` (hoặc `music_trackX.md`) **bắt buộc tuân thủ đúng thứ tự 4 phần:**
+>   1. `## 🔍 1. PHÂN TÍCH (ANALYSIS & PHILOSOPHY)` (Tứ thơ, cốt truyện, leitmotif, kỹ thuật)
+>   2. `## 🏷️ 2. TÊN BÀI HÁT (SONG TITLE)` (Tên bài tối đa 3 từ)
+>   3. `## 🎛️ 3. SUNO STYLE PROMPT` (Style prompt 8 thành phần chuẩn)
+>   4. `## 📜 4. SUNO PERFORMANCE LYRICS` (Lời bài hát đầy đủ tag Suno để copy-paste)
+> - File `lyrics.md` (hoặc `lyrics_trackX.md`) **chỉ chứa lời nguyên bản (Plain Lyrics)** theo đúng chuẩn đăng DistroKid (xem chi tiết tại `lyric_craft.md` §0).
+>
 > **Đọc kèm:**
 > - [`lyric_craft.md`](lyric_craft.md) — Kỹ thuật viết lời & Show Don't Tell
 
@@ -361,6 +369,28 @@ MeanWHILE midNIGHT withHOLDS valUE
 ❌ "Epic"                      — quá generic, AI hiểu theo nghĩa random
 ```
 
+### ⛔ QUY TẮC CỨNG — TUYỆT ĐỐI CẤM NHẮC TÊN NGHỆ SĨ & TÁC PHẨM
+
+> [!CAUTION]
+> **CẤM TUYỆT ĐỐI** nhắc tên nghệ sĩ, ban nhạc, hoặc tên tác phẩm cụ thể trong bất kỳ Suno Style Prompt nào.
+> Ví dụ: `Sade`, `Enya`, `Pink Floyd`, `Neil Young`, `Norah Jones`, `"Sailing"`, `"Harvest Moon"` — **tất cả đều bị cấm**.
+
+**Lý do:**
+1. **Gây hiệu ứng ngược (Semantic Bleed):** Suno sẽ cố clone phong cách cụ thể đó thay vì tạo ra âm nhạc thuần chất theo chỉ định nhạc cụ và cảm xúc.
+2. **Rủi ro bản quyền:** Nhắc tên nghệ sĩ nổi tiếng trong prompt tạo ra nội dung có thể vi phạm copyright và gây vấn đề khi phân phối.
+3. **Làm loãng thông tin:** Tên nghệ sĩ là "anchor mờ" — mỗi người nghe có định nghĩa khác nhau về "nghe như Sade". Mô tả nhạc cụ và texture mới là thông tin thực sự.
+
+**Thay thế đúng chuẩn — Dùng mô tả âm thanh thay vì tên:**
+
+| ❌ Cấm dùng | ✅ Thay bằng mô tả âm thanh |
+| :--- | :--- |
+| `in the style of Sade` | `smooth syncopated electric bassline, clean electric guitar with tape delay, intimate alto vocal with breathy delivery` |
+| `like Enya` | `layered multi-tracked female choir harmonies, oceanic synth pads, lush cathedral spatial reverb, celtic harp arpeggios` |
+| `Pink Floyd "Breathe" feel` | `shimmering 12-string acoustic guitar with analog tape delay, warm hammond organ pad, wide panoramic stereo, brushed drum groove` |
+| `Norah Jones warmth` | `warm felt acoustic piano, soft nylon-string guitar, upright bass, hushed close-mic alto vocal, half-spoken delivery` |
+| `like Neil Young "Harvest Moon"` | `vintage acoustic guitar with natural room reverb, warm brushed snare, steel guitar shimmer, laid-back nostalgic groove` |
+| `Christopher Cross "Sailing"` | `coastal groove, syncopated warm electric bass, clean chorus guitar, mellow Rhodes piano, breezy lightweight production` |
+
 ### Genre Lock Labels — Nguy Hiểm Đặc Biệt
 
 Các từ dưới đây là **overloaded** trong Suno training data. Khi xuất hiện ở vị trí [1] Genre Core,
@@ -381,7 +411,7 @@ chúng override toàn bộ các thành phần khác và lock bài vào 1 bucket 
 | `folk` | `fingerpicked acoustic guitar, upright bass, no electronic elements` |
 | `pop` | `1970s Laurel Canyon singer-songwriter` hoặc `chamber pop arrangement` |
 | `folk pop` | `acoustic folk foundation with pop chorus sensibility [string pads at chorus]` |
-| `indie` | Tên era/region cụ thể: `early 2000s Pacific Northwest indie`, `Bon Iver-esque` |
+| `indie` | Tên era/region cụ thể: `early 2000s Pacific Northwest indie` |
 
 ---
 
@@ -391,6 +421,7 @@ chúng override toàn bộ các thành phần khác và lock bài vào 1 bucket 
 STYLE PROMPT:
 [ ] Đủ 8 components (genre, instruments, vocal, anchor, mood, BPM, production, special instrument)?
 [ ] Không có từ trong danh sách "từ cần tránh"?
+[ ] ⛔ KHÔNG có tên nghệ sĩ, ban nhạc, hoặc tên tác phẩm nổi tiếng nào (Xem §7)?
 [ ] Special instrument được ghi rõ section và mô tả cảm xúc?
 [ ] Stress capitalization được khai báo nếu dùng?
 

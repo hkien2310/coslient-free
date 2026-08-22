@@ -1,12 +1,12 @@
-# PROJECT 008 DUOLOGY: THE SLOWEST COMPASS
-**Bộ đôi Đoản khúc Âm nhạc & Ý niệm Nghệ thuật Siêu thực: "Tin Vào Nhịp Điệu Của Chính Mình"**  
-*Thư mục: `projects/008/idea.md` | Hệ Visual: `tactile_mushroom_fiberverse`*
+# PROJECT 008 TRILOGY: THE SLOWEST COMPASS
+**Bộ ba Đoản khúc Âm nhạc & Ý niệm Nghệ thuật Siêu thực: "Tin Vào Nhịp Điệu Của Chính Mình"**  
+*Thư mục: `projects/008/idea.md` | Hệ Visual: `STYLE_surreal_folk_caravan` (Gánh Du Mục & Rừng Nấm Khổng Lồ)*
 
 ---
 
 ## 💡 1. TRIẾT LÝ CỐT LÕI TOÀN BỘ DỰ ÁN (PROJECT PHILOSOPHY)
 
-### Ẩn dụ "Chiếc La Bàn Chậm Rãi & Khu Rừng Lớn Lên Trong Im Lặng"
+### Ẩn dụ "Chiếc La Bàn Chậm Rãi & Những Điều Lớn Lên Trong Tĩnh Lặng"
 * **Thực trạng tâm lý khán giả 45+:**  
   Sau nhiều thập kỷ bị cuốn vào guồng quay hối hả của xã hội — nơi tốc độ, danh vọng và những thước đo bên ngoài luôn thúc ép người ta phải chạy đua — người trưởng thành thường rơi vào trạng thái kiệt sức và hoài nghi chính mình. Khi thấy thế giới xung quanh quá ồn ào và gấp gáp, ta dễ có cảm giác mình đang bị bỏ lại phía sau hoặc đã lựa chọn sai con đường.
 * **Cú chạm triết lý (The Awakening):**  
@@ -16,71 +16,47 @@
 
 ---
 
-## 🎼 2. CẤU TRÚC BỘ ĐÔI ĐOẢN KHÚC (THE 2-TRACK DUOLOGY)
+## 🎼 2. CẤU TRÚC BỘ BA ĐOẢN KHÚC (THE 3-TRACK TRILOGY)
 
-Dự án được xây dựng thành 2 đoản khúc âm nhạc phong cách **Warm Acoustic Indie Folk / Ambient Chamber Acoustic**, tạo thành một mạch cảm xúc liền mạch từ ngoài vào trong:
+Dự án được xây dựng thành 3 đoản khúc âm nhạc phong cách **Mid-tempo Indie Pop Groove / Dreamy Indie Pop (Chuẩn âm thanh đối thủ: Bass nảy syncopated, clean guitar chorus, giọng nữ breathy ấm, staccato synth-brass, handclaps)**:
 
 ```
-                    PROJECT 008 DUOLOGY: THE SLOWEST COMPASS
-                    
-     [ BÀI 1: TRỤC HÀNH TRÌNH ]                  [ BÀI 2: TRỤC BẾN ĐỖ & CHIÊM NGHIỆM ]
-     "The Slowest Compass"                       "Quiet Things Grow Tall"
-     ──────────────────────────────              ─────────────────────────────────────
-💡 Cốt lõi: Tin vào nhịp bước của mình,     💡 Cốt lõi: Giá trị đích thực lớn lên trong
-   bình thản từ chối cuộc đua ngoài kia.       tĩnh lặng; vỗ về, chữa lành và buông bỏ.
-🎼 Nhịp: 68 BPM (6/8 nhịp đung đưa êm)       🎼 Nhịp: 64 BPM (3/4 nhịp ru êm dịu)
-🎻 Nhạc cụ: Guitar fingerpicking mộc,       🎻 Nhạc cụ: Piano cơ ấm, Cello trầm dày,
-   Cello dạo nền, tiếng gõ gỗ mộc mạc.         bè vocal hòa thanh như chăn len ấm áp.
-🖼️ Visual trọng tâm: Cưỡi bọ rùa dạo bước   🖼️ Visual trọng tâm: Dừng chân dưới vòm
-   qua rừng nấm sương mai, mây mù lơ lửng.     nấm đại thụ, uống trà, ngắm hoàng hôn buông.
+                            PROJECT 008 TRILOGY: THE SLOWEST COMPASS
+                                              │
+    ┌─────────────────────────────────────────┼─────────────────────────────────────────┐
+    ▼                                         ▼                                         ▼
+[ BÀI 1: HÀNH TRÌNH THONG DONG ]     [ BÀI 2: BẾN ĐỖ & TĨNH LẶNG ]        [ BÀI 3: VỮNG VÀNG TỰ TẠI ]
+"The Slowest Compass"                "Quiet Things Grow Tall"             "Roots in the Stone"
+──────────────────────────────       ────────────────────────────         ────────────────────────────
+💡 Cốt lõi: Tin vào nhịp bước,       💡 Cốt lõi: Lớn lên trong tĩnh       💡 Cốt lõi: Cắm rễ sâu vào đá,
+   từ chối cuộc đua ngoài kia.          lặng, vỗ về chữa lành tâm hồn.       vững vàng trước giông bão.
+🎼 Nhịp: 105 BPM (Key G Major)       🎼 Nhịp: 102 BPM (Key C Major)       🎼 Nhịp: 104 BPM (Key A Major)
+🎸 Nhạc cụ: Bass syncopated, clean   🎸 Nhạc cụ: Bass ấm, Rhodes, clean   🎸 Nhạc cụ: Bass dẻo, clean
+   guitar chorus, synth-brass, dry      guitar, synth-brass, wah solo,       guitar, synth-brass, wah solo,
+   snare, solo wah-wah, handclaps.      snare khô, handclaps điệp khúc.      snare khô, handclaps điệp khúc.
+🖼️ Visual: Cưỡi bọ rùa, gánh hát    🖼️ Visual: Dừng chân cư ngụ, nấu     🖼️ Visual: Đứng trên mỏm đá cao,
+   du mục xuyên rừng nấm đại thụ.       nước pha trà, sưởi ấm hốc nấm.       rừng nấm sương mù bạt ngàn.
 ```
 
 ---
 
-### 🎵 BÀI 1 (TRỤC HÀNH TRÌNH): `The Slowest Compass`
-* **Ý niệm (The Journey of Pacing):**  
-  Hành trình thong dong của lữ khách trên lưng chú bọ rùa khổng lồ đi qua miền sương mù nguyên sinh. Lời nhắn nhủ nhẹ nhàng: Không cần bản đồ của người khác, không cần phải phi nước đại. Đi chậm giúp ta nhìn thấy vẻ đẹp của từng giọt sương, từng thớ rêu mà những kẻ vội vã đã bỏ lỡ.
-* **Cảm xúc:** Thư thái, thong dong, giải tỏa hoàn toàn áp lực thời gian, tự do tự tại.
-* **Hình ảnh gắn liền:**
-  * Chú bọ rùa khổng lồ sơn nứt phong sương cõng lữ khách bước đi vững chãi qua sườn đồi rêu xanh.
-  * Lữ khách tóc trắng buông dài, lướt tay qua những thân nấm Amanita cao vút như cột chống trời.
-  * Làn sương mai lành lạnh và ánh sáng ban mai tự nhiên xuyên qua tán rừng.
+## 🎨 3. QUY CHUẨN VISUAL & DNA THỊ GIÁC ĐỒNG NHẤT (`STYLE_surreal_folk_caravan`)
 
----
-
-### 🎵 BÀI 2 (TRỤC BẾN ĐỖ & TRIẾT LÝ): `Quiet Things Grow Tall`
-* **Ý niệm (The Stillness and Inner Growth):**  
-  Khép lại chặng đường, lữ khách dừng chân nghỉ ngơi dưới mái vòm của cây nấm đỏ khổng lồ khi chiều buông. Bài hát là lời thủ thỉ ấm áp gửi đến tâm hồn: Bạn không cần phải lớn tiếng chứng minh giá trị của mình với thế giới. Những hạt mầm đẹp đẽ nhất luôn âm thầm bám rễ sâu và vươn mình trong tĩnh lặng.
-* **Cảm xúc:** Ấm áp, vỗ về, chữa lành sâu sắc, buông bỏ phán xét, tĩnh lặng tuyệt đối.
-* **Hình ảnh gắn liền:**
-  * Mái vòm nấm khổng lồ che chở cho lữ khách và chú bọ rùa đang nằm nghỉ ngơi bình yên.
-  * Tách trà gốm bốc khói mỏng hòa vào không gian hoàng hôn màu hổ phách $2400\text{K}$.
-  * Những giọt sương chiều đọng trên đốm trắng vỏ bọ rùa phản chiếu ánh sáng tự nhiên dịu êm.
-
----
-
-## 🎨 3. QUY CHUẨN VISUAL & ÁNH SÁNG (`tactile_mushroom_fiberverse`)
-
-* **Nhân vật lữ khách:**
-  * Cô gái lữ khách có dáng vẻ thanh thoát, bình thản.
-  * Tóc trắng dài tự nhiên, đội chiếc mũ nấm chấm đỏ kéo dài độc đáo (`elongated spotted mushroom headdress`).
-  * Trang phục vải lanh/linen thô mộc màu trắng ngà (`off-white rustic linen tiered folk dress`), đeo găng tay vải sờn và mang ủng da mộc buộc dây.
-* **Thú cưỡi đồng hành (Companion Mount):**
-  * Chú bọ rùa khổng lồ siêu thực thủ công (`giant mechanical-organic ladybug mount`).
-  * Vỏ cánh màu đỏ cam điểm đốm đen với lớp sơn nứt cổ điển phong sương (`weathered cracked lacquer texture`). Khung chân và khớp nối bằng gỗ mộc và kim loại hoen rỉ tự nhiên.
-* **Không gian & Tỷ lệ (Scale Inversion):**
-  * Rừng nấm Amanita đỏ đốm trắng khổng lồ cao sừng sững như đại thụ cổ thụ (`forest of colossal speckled amanita mushrooms`).
-  * Thảm thực vật rêu phong, dương xỉ và sương mù mờ ảo mang tính xúc giác cao (`tactile woodland floor`).
-* **Quy chuẩn Ánh sáng 100% Tự nhiên Điện ảnh:**
-  * **Chủ đạo ban ngày:** Ánh sáng sương mù khuếch tán mềm mại (`diffused overcast daylight, 6500K - 7500K`).
-  * **Điểm nhấn hoàng hôn:** Ánh sáng vàng hổ phách ấm áp (`golden amber dusk light, 2400K - 2600K`).
-  * **CẤM TUYỆT ĐỐI:** Không hạt sáng lơ lửng kỳ ảo, không neon glow, không hiệu ứng phát sáng huyền bí rẻ tiền.
+> [!IMPORTANT]
+> Xem chi tiết toàn bộ quy chuẩn tại [projects/008/style.md](file:///Users/hoangkien/Youtube/coslient-free/projects/008/style.md).  
+> Visual **KHÔNG đóng khung** ở một cảnh cưỡi bọ rùa duy nhất, mà **liên tục biến chuyển phong phú qua 4 nhóm không gian**:
+> 1. *Nhịp Di Chuyển:* Cưỡi bọ rùa sơn nứt, đi bộ chống gậy, chèo thuyền vỏ hạt dẻ, xe thồ bọ cánh cứng bọc đồng.
+> 2. *Kiến Trúc & Nơi Chốn:* Cầu treo nối tán nấm, nhà gỗ khoét trong thân nấm, tháp hải đăng vỏ ốc sên.
+> 3. *Khoảnh Khắc Đời Thường:* Uống trà trên võng lá, nhóm bếp lửa sưởi trong hốc nấm, chải vỏ bọ rùa, đọc sổ da.
+> 4. *Thiên Nhiên Hùng Vĩ:* Rừng nấm Amanita bạt ngàn chạm chân trời, giọt sương mai khổng lồ, trú mưa dưới tán nấm.
 
 ---
 
 ## 🧭 4. BẢNG KIỂM ĐỊNH CHẤT LƯỢNG (AUDIT CHECKLIST)
 
 - [x] **Triết lý nhân sinh:** Chạm đúng nỗi niềm khán giả 45+, mang lại sự giải tỏa áp lực tốc độ và củng cố niềm tin nội tại một cách sâu lắng.
-- [x] **Tính kết nối thị giác:** Bám sát 100% tinh thần, chất liệu và màu sắc của hình ảnh visual mẫu (bọ rùa khổng lồ, rừng nấm đại thụ, phong cách folk avant-garde).
-- [x] **Tính tương thích âm nhạc:** Thiết kế chuẩn nhịp thở Warm Folk (64 - 68 BPM), tôn vinh nhạc cụ mộc tự nhiên và không gian âm thanh thư giãn.
-- [x] **Quy tắc Siêu thực Thủ công (CLAUDE.md):** 100% ánh sáng tự nhiên, cấu trúc siêu thực đến từ vật thể và tỷ lệ, không dùng kỹ xảo ánh sáng rẻ tiền.
+- [x] **Độ phong phú thị giác:** Không bị đơn điệu một cảnh; có đủ các lớp bối cảnh (di chuyển, sinh hoạt, kiến trúc, thiên nhiên) luân chuyển liên tục.
+- [x] **Độ nhất quán chất liệu (DNA):** Giữ trọn vẹn chất liệu xúc giác thủ công (sơn nứt, gỗ mộc, vải lanh, gốm, dây gai) và ánh sáng tự nhiên điện ảnh bám sát ảnh mẫu.
+- [x] **Thẩm mỹ nhân vật đỉnh cao:** 100% nhân vật đẹp thanh thoát, da sứ mịn màng, thần thái nghệ thuật thoát tục.
+- [x] **Âm nhạc Indie Pop Groove (Chuẩn Đối Thủ):** Tempo 102 - 105 BPM, bass nảy syncopated, giọng nữ breathy không chói tai, handclaps giữ nhịp, guitar wah-wah bay bổng.
+- [x] **Bộ lọc Chống AI (Anti-AI Writing):** Quét sạch 100% sáo rỗng AI (velvet moss, shadows, whispers), dùng chi tiết giác quan vật lý cụ thể.
