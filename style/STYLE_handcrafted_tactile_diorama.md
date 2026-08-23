@@ -52,8 +52,12 @@ Style này tạo ra thế giới hoạt hình thủ công trông như phim đi�
 
 ## 5. Góc máy & Bố cục
 
-- **Cỡ cảnh:** Xen kẽ linh hoạt — đại cảnh, toàn thân, trung cảnh, cận cảnh, macro.
-- **Góc máy:** Ngang mắt, góc thấp, góc cao, qua vai, profile.
+- **Cỡ cảnh linh hoạt:** Đại cảnh (extreme wide), toàn thân (full-body), trung cảnh (medium), cận cảnh (close-up), macro.
+- **Quy tắc chống mất chân (Khi muốn lấy toàn thân):**
+  - **BẮT BUỘC:** Dùng từ khóa `full-body film still`, `head-to-toe` hoặc `standing full length`.
+  - **Khóa điểm chạm đất:** Luôn mô tả **quần + giày/bốt + mặt sàn** (ví dụ: `wearing brown trousers and lace-up leather boots standing on the wooden floor`). Khi AI phải vẽ giày chạm đất, nó buộc phải vẽ trọn vẹn cả người.
+  - **TUYỆT ĐỐI KHÔNG DÙNG TỪ `3/4` hoặc `three-quarter`:** Trong điện ảnh, "3/4 shot" là cỡ cảnh cắt ngang đầu gối/đùi. Dùng từ này AI sẽ lập tức cắt mất bàn chân và cẳng chân.
+  - Các từ như `over-the-shoulder`, `medium shot`, `portrait` chỉ dùng khi chủ đích muốn chụp nửa người.
 - **Bố cục:** Đa dạng — rule of thirds, leading lines, negative space, khung lồng khung. Luôn có chiều sâu: tiền cảnh mờ → trung cảnh nét → hậu cảnh bokeh.
 
 ---
