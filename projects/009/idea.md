@@ -1,61 +1,38 @@
-# PROJECT 009 TRILOGY: CAST NO ANCHOR
-**Bộ ba Đoản khúc Âm nhạc & Thế giới Thị giác: "Bạn Không Cần Lý Do Để Cảm Thấy Bình Yên"**  
-*Thư mục: `projects/009/idea.md` | Thời lượng mục tiêu: ~3:00 – 3:15 / bài (Chuẩn Pop Folk Hoàn Chỉnh)*  
-*Phong cách Âm nhạc: PURE PHILOSOPHICAL POP FOLK (Thuần Triết Lý Nhân Sinh)*  
-*Phong cách Thị giác: CINEMATIC HANDCRAFTED TACTILE DIORAMA ($100\%$ Thuần Dân Gian Thủ Công Âu — Mỹ)*
+# PROJECT 009: TIDE AND TIMBER (THE OCEANIC WORLD TREE VILLAGE)
+**Ý niệm Nghệ thuật, Triết lý Nhân sinh & Hệ Visual Cây Thế Giới Biển Đảo**  
+*Thư mục: `projects/009/idea.md` | Hệ Visual: `STYLE_ocean_world_tree_village` (Ngôi Làng Cây Thế Giới Giữa Biển)*
 
 ---
 
-## 💡 1. TRIẾT LÝ CỐT LÕI (THUẦN TRIẾT HỌC NHÂN SINH PHỔ QUÁT)
+## 💡 1. TRIẾT LÝ CỐT LÕI (PROJECT PHILOSOPHY)
 
-* **Tách biệt hoàn toàn khỏi không gian phòng ốc & visual:**  
-  * **Visual:** Đưa người xem qua 3 miền đất thủ công siêu thực, êm đềm, chữa lành tuyệt đối theo tinh thần dân gian châu Âu / Bắc Âu / Celtic.
-  * **Music:** Không đóng vai trò thuyết minh phong cảnh, đứng độc lập như **những chiêm nghiệm triết học nhân sinh bất hủ**:
-    * Sự phù phiếm của việc dành cả đời tích lũy, xây tháp danh vọng, gồng gánh áo giáp và đòi hỏi lý do cho mọi thứ.
-    * Quy luật tự nhiên mộc mạc: Dòng sông chảy không cần tranh luận; mùa thu trút lá không cần xin phép khu rừng; hòn đá trên núi không chống cự cơn mưa; bầu trời không bị rách bởi những đám mây trôi qua.
-    * Nhận thức thức tỉnh: Bình yên không phải là chiến lợi phẩm phải tranh đoạt. Khi buông bỏ chiếc khiên kiểm soát, ta nhận ra ta chưa từng đánh mất điều gì.
-
----
-
-## 🎼 2. CẤU TRÚC BỘ BA ĐOẢN KHÚC & 3 THẾ GIỚI THỊ GIÁC SUB-STYLE
-
-```
-                              PROJECT 009 TRILOGY
-                                       │
-    ┌──────────────────────────────────┼──────────────────────────────────┐
-    ▼                                  ▼                                  ▼
-[ BÀI 1: BUÔNG BỎ MỎ NEO ]         [ BÀI 2: KHÔNG CẦN GIẤY PHÉP ]      [ BÀI 3: CUỘC CHIẾN ĐÃ TÀN ]
-"Cast No Anchor"                   "Sky Without Shores"               "Nothing to Prove"
-──────────────────────────────     ──────────────────────────────     ──────────────────────────────
-💡 Dám buông kiểm soát             💡 Dám sống tự do nguyên bản       💡 Dám buông khiên phòng thủ
-🎼 80 BPM (Key D Major)            🎼 84 BPM (Key G Major)            🎼 78 BPM (Key C Major)
-🎨 STYLE_nordic_driftwood_         🎨 STYLE_cloud_weaver_             🎨 STYLE_hearthstone_
-   riverport                          windmills                          sanctuary
-🌊 Bến Sông Gỗ Trôi Bắc Âu         ☁️ Quần Đảo Làng Dệt Mây Châu Âu   🍂 Tổ Ấm Bình Gốm Thung Lũng Mùa Thu
-   - Dòng nước không trọng lực        - Cối xay gió gặt mây              - Ngôi nhà bình gốm đất nung
-   - Cá voi bầu trời gỗ trôi          - Cầu treo tơ lanh vô trọng lực    - Rừng cây quả đèn gốm 2200K
-   - Mỏ neo chìa khóa cổ              - Sứa mây cánh hoa ép khổng lồ     - Mặt trăng quả cầu len ấm áp
-```
+### Ẩn dụ "Cây Thế Giới Giữa Biển Cả & Bến Đỗ Bình Yên Vĩnh Cửu"
+* **Tâm lý khán giả 45+:**  
+  Sau bao năm lênh đênh ngoài giông bão cuộc đời, con người luôn khao khát tìm thấy một "nơi chốn nương náu" (Sanctuary) — nơi cội rễ cắm sâu vững chãi, nơi có một mái nhà mộc mạc che mưa nắng và biển trời bao la ôm ấp vỗ về.
+* **Cú chạm triết lý (The Oceanic Awakening):**  
+  * Cây thế giới giữa biển đảo không phải là tòa tháp bê tông kiên cố, mà là một sinh mệnh cổ xưa bằng gỗ mục và san hô, hòa làm một với đại dương.
+  * Khi buông bỏ những cuộc chạy đua và mái chèo nặng trĩu, con người nhận ra: bến đỗ an yên nhất không nằm ở đích đến xa xôi, mà ở sự hòa hợp trọn vẹn giữa thân phận nhỏ bé và thiên nhiên hùng vĩ.
 
 ---
 
-## 🎧 3. THẾ GIỚI ÂM THANH CHUNG (CONTEMPLATIVE POP FOLK DNA)
+## 🎼 2. THIẾT KẾ ĐOẢN KHÚC ÂM NHẠC (SINGLE TRACK — 2:45 ĐẾN 3:00)
 
-* **Thể loại:** **Contemplative Pop Folk / Mature Acoustic Singer-Songwriter** (Giai điệu pop folk ấm áp, bắt tai, điệp khúc như thánh ca dịu dàng vỗ về).
-* **Dải Tempo chung:** **$78 - 84\text{ BPM}$** (nhịp điệu đằm thắm, vững chãi, bước chân người từng trải).
-* **Nhạc cụ cốt lõi ($100\%$ mộc ấm studio):**
-  * Guitar thùng acoustic (Mahogany & Steel-string) rải nốt đằm và ấm.
-  * Đàn piano cơ mộc mạc (Felt upright piano).
-  * Tiếng Bass gỗ mộc (Upright Bass) trầm dầy, neo giữ nhịp chắc chắn.
-  * Bộ gõ chổi quét (Brushed acoustic snare & soft kick) êm dịu, không ồn ào.
-  * Dàn dây Acoustic Strings & Cello dâng trào ở điệp khúc và đoạn Bridge cao trào.
-  * Giọng nữ trầm ấm (Mature Alto), hát tự sự triết lý mộc mạc, không thì thào xì xào, không có tiếng gió rít tai.
-* **Thời lượng tối ưu:** **~3:00 – 3:15 phút / bài** (cấu trúc hoàn chỉnh: Intro $\rightarrow$ Verse 1 $\rightarrow$ Chorus $\rightarrow$ Verse 2 $\rightarrow$ Chorus $\rightarrow$ Bridge $\rightarrow$ Final Chorus $\rightarrow$ Outro).
+* **Tên bài hát:** `Tide and Timber`
+* **Thể loại:** **Expansive Oceanic Indie Folk / Chamber Pop**
+* **Nhịp điệu:** 78 BPM (nhịp thở êm dịu theo từng đợt sóng vỗ).
+* **Nhạc cụ:** Acoustic guitar fingerpicking, Warm Cello, Felt Piano, Slide guitar âm vang thoáng đãng, bộ gõ gỗ mộc (soft brushed snare & wooden taps).
+* **Vocal:** Giọng trầm ấm, tự sự mộc mạc, hòa âm bè dày dặn (lush harmonies).
 
 ---
 
-## 🖼️ 4. TÀI LIỆU SUB-STYLE THỊ GIÁC CHI TIẾT
-* **Track 1:** [`projects/009/style_track1.md`](file:///Users/hoangkien/Youtube/coslient-free/projects/009/style_track1.md)
-* **Track 2:** [`projects/009/style_track2.md`](file:///Users/hoangkien/Youtube/coslient-free/projects/009/style_track2.md)
-* **Track 3:** [`projects/009/style_track3.md`](file:///Users/hoangkien/Youtube/coslient-free/projects/009/style_track3.md)
-* **Prompt Test Master:** [`projects/009/prompts_test.md`](file:///Users/hoangkien/Youtube/coslient-free/projects/009/prompts_test.md)
+## 🎨 3. QUY CHUẨN VISUAL & DNA THỊ GIÁC (`STYLE_ocean_world_tree_village`)
+
+* **Cây Thế Giới Biển Cả (Centerpiece World Tree):**
+  * Thân cây bằng gỗ tuyết tùng phong hóa muối biển bám rêu, cành lá nâng đỡ những phiến vỏ sò xà cừ cổ đại.
+  * Bộ rễ khổng lồ cuộn chặt vào đá granite, vươn dài xuống làn nước biển trong suốt như gương.
+* **Ngôi Làng Treo & Bến Tàu Gỗ Mục (The Hanging Village & Boardwalk):**
+  * Những ngôi nhà gỗ mái ngói gốm terracotta tí hon dựng trên các chạc cây và cọc gỗ ven mép nước.
+  * Cầu treo dây thừng gai nối các nhịp cành, cầu tàu gỗ vươn dài ra mặt biển đón bình minh.
+* **Ánh sáng Chân thật 100% (Cinematic Natural Light):**
+  * Bình minh vàng mật (Golden Hour) rọi xiên qua các kẽ tán cây thế giới xuống bến thuyền và bãi cát phẳng.
+  * Tuyệt đối không có neon, không hạt phát sáng kỳ ảo.

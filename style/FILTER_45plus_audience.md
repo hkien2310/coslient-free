@@ -1,138 +1,88 @@
-# 🧭 COSLIENT FILTER — BỘ LỌC NỘI DUNG DÀNH CHO KHÁN GIẢ 45+
-*Tài liệu kỹ thuật: `style/FILTER_45plus_audience.md` | Bản quyền: Coslient Free*
+# 🧭 COSLIENT FILTER — LA BÀN NỘI DUNG DÀNH CHO KHÁN GIẢ 45+
+*Tài liệu định hướng nghệ thuật: `style/FILTER_45plus_audience.md` | Coslient Free*
 
 ---
 
-## 🎯 1. CHÂN DUNG TÂM LÝ KHÁN GIẢ 45+ (PSYCHOLOGICAL DNA)
+## 🎯 1. CHÂN DUNG TÂM LÝ: NGƯỜI TỪNG TRẢI & CƠN KHÁT SỰ BÌNH YÊN
 
-Khán giả 45+ không xem video theo cách của người trẻ. Họ không tìm kiếm sự giật gân, không lướt vội và ghét cảm giác bị dắt mũi bởi các chiêu trò giật tít rẻ tiền.
+Khán giả 45+ không xem video để tìm kiếm sự giật gân hay drama ồn ào. Họ là những người đã đi qua nửa chặng đường đời, nếm trải đủ thăng trầm, thành công lẫn vấp ngã. 
 
-### Đặc điểm tâm lý & trạng thái sống:
-* **Giai đoạn cuộc đời:** Đã đi qua giai đoạn tranh đấu, xây dựng sự nghiệp và gia đình. Bắt đầu đối diện với sự cô đơn, khủng hoảng tuổi trung niên, con cái rời tổ ấm, cơ thể lão hóa và nhận thức rõ ràng hơn về giới hạn của thời gian.
-* **Nỗi đau ngầm (Hidden Pain Points):**
-  * Áp lực phải luôn "mạnh mẽ" và làm chỗ dựa cho người khác.
-  * Cảm giác nuối tiếc những lựa chọn trong quá khứ nhưng không thể quay lại sửa chữa.
-  * Mệt mỏi vì thế giới hiện đại quá ồn ào, xô bồ, nhiều biến động và công nghệ gây ngợp.
-* **Khao khát cốt lõi (Core Desires):**
-  * Tìm một **nơi trú ẩn cảm xúc (peaceful refuge)** để thả lỏng cơ thể và tâm trí.
-  * Được công nhận sự mệt mỏi mà không bị phán xét là yếu đuối.
-  * Hoài niệm (nostalgia) về những giá trị mộc mạc, bền vững, thủ công ngày xưa.
-  * Bình thản buông bỏ (letting go) và tìm kiếm sự tự do nội tâm.
-* **Hành vi tiêu thụ nội dung:**
-  * Thường nghe/xem trên **Smart TV màn hình lớn** hoặc máy tính bảng khi uống trà, cà phê sáng sớm (5:30 - 7:30) hoặc tối muộn (20:30 - 23:00).
-  * Thích để video chạy nền (ambient/visualizer), nghe đi nghe lại nhiều lần.
-  * Thời gian xem trung bình (Watch Time) và tỷ lệ giữ chân (Retention) cực kỳ cao nếu chạm đúng tần số cảm xúc.
+Ở độ tuổi này, họ có gu thẩm mỹ tinh tế, trân trọng chiều sâu và tìm kiếm những nội dung mang lại **sự thư thái thực sự cho tâm hồn**:
+
+* **Tâm thế sống:** Không còn nhu cầu phải chứng tỏ bản thân với xã hội. Thứ họ trân quý nhất là sự tự do nội tâm, thời gian riêng tư và cảm giác được thả lỏng hoàn toàn.
+* **Khao khát cảm xúc:**
+  * **Một nơi trú ẩn an yên (Emotional Sanctuary):** Sau những giờ làm việc căng thẳng và áp lực gánh vác, họ cần một khoảng lặng để hồi phục năng lượng.
+  * **Sự thấu cảm không phán xét:** Thích những câu chuyện ấm áp, nhân hậu, nhìn cuộc đời bằng ánh mắt bao dung và nụ cười nhẹ nhõm.
+  * **Giá trị mộc mạc & bền vững:** Yêu thích chất liệu tự nhiên, sự tỉ mỉ thủ công, nhịp điệu từ tốn và âm thanh acoustic thuần mộc.
+* **Thói quen thưởng thức:** Thường mở video trên màn hình lớn lúc sáng sớm (5:30–7:30) hoặc tối muộn thư giãn (20:30–23:00). Họ sẵn sàng nghe đi nghe lại nhiều lần nếu tác phẩm mang lại cảm giác dễ chịu.
 
 ---
 
-## 🚦 2. MA TRẬN BỘ LỌC 4 LỚP (THE 4-STAGE FILTER MATRIX)
+## 🎨 2. QUANG PHỔ CẢM XÚC (EMOTIONAL SPECTRUM)
 
-Mọi ý tưởng (Idea), Lời bài hát (Lyrics), Bản phối (Music) và Hình ảnh (Visual) đều phải vượt qua 4 màng lọc này trước khi bấm máy sản xuất.
+Không đóng khung khán giả 45+ vào sự u uất hay khổ hạnh. Cuộc sống của người từng trải có quang phổ cảm xúc đa dạng và thi vị:
 
 ```
-                       ┌───────────────────────────────┐
-                       │      Ý TƯỞNG MỚI ĐƯA VÀO      │
-                       └──────────────┬────────────────┘
-                                      │
-   [LỚP 1: CHỦ ĐỀ]      ✅ Chiêm nghiệm, buông bỏ     ❌ Drama, dạy đời, làm giàu,
-                        (Letting go, Nostalgia)          tình yêu gà bông
-                                      │
-   [LỚP 2: CA TỪ]       ✅ Mở rộng, thi vị, nhân sinh   ❌ Kể lể đồ chơi, vụn vặt,
-                        (Expansive English)              sáo rỗng (Toxic Positivity)
-                                      │
-   [LỚP 3: ÂM NHẠC]     ✅ Acoustic, Warm Folk, Strings  ❌ Beat Trap dồn dập, Autotune gắt,
-                        (60–90 BPM, analog warmth)       nhạc điện tử chát chúa
-                                      │
-   [LỚP 4: THỊ GIÁC]    ✅ Siêu thực thủ công, ánh sáng ❌ Chớp giật, nhảy nhót xốc nổi,
-                        tự nhiên, nhịp thở êm            đèn neon rẻ tiền
-                                      │
-                                      ▼
-                        🎯 XUẤT BẢN CHO TỆP 45+
+                     [THẢNH THƠI & TỰ THƯỞNG]
+                     (Tận hưởng sự tĩnh lặng,
+                      nhịp sống không còn vội vã)
+                                ▲
+                                │
+   [HOÀI NIỆM TRONG TRẺO] ◄─────┼─────► [TÌNH TRI KỶ & GẮN KẾT]
+   (Nhìn lại ký ức xưa bằng        │     (Sự thấu hiểu thầm lặng,
+    nụ cười biết ơn và ấm lòng)     │      tình thân sâu sắc qua năm tháng)
+                                ▼
+                     [CHIÊM NGHIỆM & BUÔNG BỎ]
+                     (Hòa giải với chính mình,
+                      thanh thản trước quy luật tự nhiên)
 ```
 
----
-
-### LỚP 1: BỘ LỌC CHỦ ĐỀ & GÓC NHÌN (THEME & PERSPECTIVE)
-
-| TIÊU CHÍ | ✅ DUYỆT (PASS) | ❌ LOẠI (BLOCK) |
-|---|---|---|
-| **Thông điệp** | Chữa lành qua sự thấu cảm; chấp nhận vết thương quá khứ; sự bình thản trước dòng đời. | Ép vui vẻ màu hồng ("Toxic Positivity"); hứa hẹn tương lai viển vông; phán xét đúng/sai. |
-| **Góc nhìn** | Người từng trải nhìn lại cuộc đời với ánh mắt bao dung, nhẹ nhõm. | Lên gân dạy đời; khuyên răn giáo điều; góc nhìn non nớt tuổi mới lớn. |
-| **Cảm hứng** | Triết lý Wabi-sabi (vẻ đẹp của sự không hoàn hảo), Kintsugi (hàn gắn vết nứt bằng vàng), Stoicism (khắc kỷ), tự do tự tại. | Drama giật gân, so sánh thành công, áp lực vật chất/tiền tài, chia tay giận hờn. |
+1. **Thảnh thơi & Tự thưởng (Leisure & Unhurried Contentment):** Cảm giác an tâm khi không còn phải chạy đua với thời gian, trọn vẹn với giây phút hiện tại.
+2. **Hoài niệm trong trẻo (Gentle Nostalgia):** Ký ức về những chặng đường đã qua được nhìn nhận bằng lòng biết ơn và sự ấm áp, không dằn vặt hay bi lụy.
+3. **Tình tri kỷ & Gắn kết thầm lặng (Quiet Companionship):** Tình cảm lứa đôi bền chặt qua mưa nắng, tình bạn tri âm tri kỷ, sự đồng điệu không cần nhiều lời hoa mỹ.
+4. **Chiêm nghiệm nhân sinh & Buông xả (Reflective Wisdom):** Bình thản buông bỏ những ganh đua danh lợi, nhận ra những giá trị giản dị nguyên bản nhất của cuộc đời.
 
 ---
 
-### LỚP 2: BỘ LỌC CA TỪ & LỜI BÀI HÁT (LYRICS FILTER)
+## 🎼 3. ĐỊNH HƯỚNG NGHỆ THUẬT: ÂM NHẠC & THỊ GIÁC
 
-*Tuân thủ theo `style_music/lyric_craft.md` và các quy chuẩn sau:*
+### Về Âm nhạc:
+* **Thể loại:** Acoustic Folk, Contemporary Folk Ballad, Indie Acoustic, Chamber Pop mộc.
+* **Tiết tấu & Nhịp thở:** Tempo 70–82 BPM. Nhịp điệu cần sự chuyển động êm đềm, đĩnh đạc — êm ái nhưng có xung lực kéo tai nghe, thư thái nhưng không buồn ngủ.
+* **Âm sắc:** Tôn vinh tiếng mộc của thùng đàn gỗ và tiếng vĩ cầm tha thiết. Giọng hát dày ấm, tự sự, đĩnh đạc như một người bạn tri âm.
 
-* **100% TIẾNG ANH:** Ca từ giàu hình ảnh biểu tượng, mang tính mở toang không gian (bầu trời, mặt trời, thảo nguyên, bờ cát, dòng sông, ánh sáng).
-* **Quy tắc Show Don't Tell:** Không hát *"I am so sad and tired"*, hãy hát *"The iron cooled down in the evening sun / I put the heavy coat upon the chair"*.
-* **CẤM TUYỆT ĐỐI:**
-  * Ca từ kể lể cơ học, đếm đồ chơi sa bàn hay tả chi tiết máy móc vụn vặt.
-  * Ca từ sến sẩm, than thở bi lụy, hoặc từ ngữ slang quá trẻ con.
-
----
-
-### LỚP 3: BỘ LỌC ÂM NHẠC & TIẾT TẤU (MUSIC & PACING)
-
-* **Thể loại ưu tiên:**
-  * Indie Folk / Acoustic Singer-Songwriter
-  * Dream Pop / Chamber Pop
-  * Ambient Cinematic / Classical Crossover (Strings & Piano)
-* **Dải Tempo:** **60 – 90 BPM** (nhịp điệu thư giãn theo nhịp thở sâu).
-* **Đặc tính âm thanh (Audio Texture):**
-  * Tiếng đàn mộc (Acoustic Guitar, Cello, Violin, Piano cơ ấm).
-  * Tiếng bè hòa âm dày dặn, ấm áp (Warm vocal harmony, cinematic choir).
-  * Không gian âm thanh thoáng đãng (Reverb mượt mà, Analog warmth).
-* **CẤM TUYỆT ĐỐI:**
-  * Beat Trap/Hip-hop giật cục, tiếng 808 distortion, nhạc điện tử (Hard EDM).
-  * Giọng hát lạm dụng Auto-tune điện tử méo mó.
+### Về Thị giác:
+* **Thế giới thủ công xúc giác:** Con rối và vật thể diorama tinh xảo đặt tương phản với thiên nhiên rộng lớn chân thật.
+* **Ánh sáng:** Ánh sáng tự nhiên ấm áp, không dùng hiệu ứng phát quang thần thoại.
+* **Nhịp dựng:** Chậm rãi, từ tốn (3.0s – 6.0s / shot), đủ để mắt thẩm thấu vẻ đẹp chi tiết.
 
 ---
 
-### LỚP 4: BỘ LỌC THỊ GIÁC & NHỊP DỰNG (VISUAL & VIDEO PACING)
+## 🕊️ 4. NGUYÊN LÝ "RETROSPECTIVE PEACE" & CỬA SỔ 5 GIÂY ĐẦU (ANTI-DROP)
 
-*Tuân thủ `CLAUDE.md`, `STYLE_handcrafted_tactile_diorama.md`, `STYLE_surreal_minimalist_cover.md`:*
+Khán giả 45+ có xu hướng rời bỏ video ngay nếu 5 giây đầu khiến họ cảm thấy mệt mỏi hay căng thẳng thêm.
 
-* **Chất liệu & Cảm giác (Tactile Feel):**
-  * Gỗ sần mộc, giấy Washi xơ tự nhiên, gốm đất nung, kim loại rỉ sét cổ điển, vải lanh/vải thô.
-  * Tinh thần thủ công (Craftsmanship) gợi sự trân trọng thời gian.
-* **Ánh sáng:**
-  * 100% ánh sáng tự nhiên/điện ảnh (Nắng sớm Golden Hour, bầu trời Overcast sương mờ, ánh sáng chiều tà ấm).
-  * CẤM đèn neon, luồng sáng thần thoại, hạt phát sáng kỳ ảo.
-* **Nhân vật & Trang phục:**
-  * Nhân vật siêu thực (người giấy, tượng điêu khắc, chú hiệp sĩ mũ sắt, robot vintage).
-  * Trang phục cổ điển (áo măng-tô dáng dài, suit sọc retro, mũ phớt, áo choàng thô). Tuyệt đối cấm quần jeans/áo thun hiện đại.
-* **Nhịp dựng video:**
-  * Thời lượng mỗi shot: **3.0s – 6.0s / shot** (đủ chậm để mắt chiêm ngưỡng và thẩm thấu).
-  * Không cắt cảnh quá nhanh (< 2.0s) gây hoa mắt, nhức mỏi.
+* **Trao sự bình yên ngay từ giây đầu (Instant Sanctuary):**
+  * Mở đầu bằng trạng thái đã cập bến an toàn, thảnh thơi trọn vẹn, cơ thể được thả lỏng và không còn áp lực lịch trình.
+  * Tác động sinh học: Giúp kích hoạt hệ thần kinh phó giao cảm của người nghe, hạ nhịp tim và níu giữ họ lại trong không gian an lành.
+* **Lật ngược câu chuyện bằng nụ cười (The Retrospective Smile):**
+  * Sau khi người nghe đã an tâm trong bến đỗ, bài hát mới thong thả nhìn lại chặng đường bôn ba cũ như một hành trình đã hoàn tất. 
+  * Quá khứ được nhắc đến với nụ cười bao dung của người đã thấu suốt nhân sinh.
 
 ---
 
-## 🎣 3. CÔNG THỨC ĐẶT TIÊU ĐỀ & SEO CHO TỆP 45+
+## 🛡️ 5. CƠ CHẾ CHỐNG TRÙNG LẶP TOÀN DIỆN (CROSS-PROJECT ANTI-COLLISION)
 
-*Tuân thủ `style_seo/coslient_seo.md`:*
-
-### Công thức Tiêu đề Chạm (Emotional Resonance Hooks):
-1. `for the days you feel tired of being strong — [Song Title]`
-2. `when the world is just too loud — [Song Title]`
-3. `for anyone who forgot they are allowed to rest — [Song Title]`
-4. `a song for quiet Sunday mornings — [Song Title]`
-5. `when time finally stops asking for answers — [Song Title]`
-
-### Công thức Bình luận ghim (Pinned Comment):
-Một lời nhắn gửi ấm áp, nhã nhặn, tôn trọng sự tĩnh lặng của người nghe:
-> *"If this gave you five minutes of quiet after a long, exhausting week, that is more than enough. Thank you for sitting here with me."*
+Toàn bộ các tác phẩm trong kênh bắt buộc phải kiểm tra đối chiếu qua 3 tầng va chạm:
+1. **Tầng Ý niệm (Idea Collision):** Đọc `idea-index.md`. Không lặp lại không gian địa lý hay xung đột nội tâm của các bài trước. Mỗi bài phải khai phá một bối cảnh sống và góc nhìn mới.
+2. **Tầng Xúc giác (Prop & Texture Collision):** Đọc `lyrics-index.md` và `style_music/banned_lyrics_motifs.md`. Không dùng lại các đồ vật, chất liệu mỏ neo đã xuất hiện ở các project cũ.
+3. **Tầng Nhạc cảm (Hook Cadence & Rhyme Collision):** Không dùng lại cấu trúc nhịp điệu, câu cú tương tự hoặc cặp vần đã xuất hiện trong danh mục.
 
 ---
 
-## ✅ 4. CHECKLIST THẨM ĐỊNH NHANH (QUICK AUDIT CHECKLIST)
+## 📋 6. KIM CHỈ NAM SÁNG TÁC (QUICK COMPASS)
 
-Trước khi xuất xưởng bất kỳ video nào, kiểm tra 5 câu hỏi sau:
-
-- [ ] **1. Chủ đề có chiều sâu nhân sinh không?** (Có tránh được bẫy dạy đời hoặc sáo rỗng màu hồng không?)
-- [ ] **2. Ca từ tiếng Anh có tính mở rộng không gian không?** (Có bay bổng, phổ quát thay vì kể lể đồ chơi sa bàn không?)
-- [ ] **3. Nhạc có ấm và êm không?** (Tempo 60–90 BPM, nhạc cụ mộc, không trap/edm gắt?)
-- [ ] **4. Hình ảnh có chất lượng tactile & ánh sáng tự nhiên không?** (Không neon, không hạt sáng ảo, không đồ hiện đại?)
-- [ ] **5. Nhịp video có cho người xem khoảng nghỉ không?** (Mỗi shot 3–6s, chuyển động mượt mà, thư thái?)
+1. *Tác phẩm này có mang lại một khoảng lặng dễ chịu, một cái thở phào nhẹ nhõm cho người nghe không?*
+2. *Hình ảnh và ca từ có cụ thể, chạm được vào xúc giác thay vì nói những điều trừu tượng, giáo điều không?*
+3. *Âm nhạc có đủ độ mộc mạc, ấm áp và có nhịp đẩy êm đềm giữ chân đôi tai không?*
+4. *Tác phẩm này có chiếm một tọa độ hoàn toàn mới, không trùng lặp bất kỳ yếu tố nào với catalog cũ không?*

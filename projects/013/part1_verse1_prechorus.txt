@@ -1,0 +1,234 @@
+# ==============================================================================
+# PROJECT 013: NOT ANOTHER DAY
+# PART 1: [VERSE 1] + [PRE-CHORUS 1] (LINES 1–12 | 36 PROMPTS)
+# Style: Needle-Felted Wool Stop-Motion Diorama in a Majestic Real World (v26.0)
+# Framework: Diversity Engine v1.0 (11 Dimensions + World Liveliness)
+# Butter-Yellow Focal Accent: Exactly ONE accent per prompt
+# ==============================================================================
+
+# ==============================================================================
+# LINE 1: I had a dream of an island in the clouds
+# Mood: Serene, wondrous, floating sanctuary awakening
+# Breakdown:
+#   IMG 1.1: [W-LIFE]   | SZ-EW  + CA-HIGH   + PV-AWAY    | ENV-6 (Cloud Island Summit) | L-2 (Morning 5800K)
+#   IMG 1.2: [W-SOLO]   | SZ-M   + CA-EYE    + PV-3QTR    | ENV-5 (Cliff Lookout Rail)  | L-1 (Soft Diffuse 6000K)
+#   IMG 1.3: [W-PET]    | SZ-CU  + CA-LOW    + PV-PROFILE | ENV-4 (Cobblestone Sundial) | L-2 (Crisp Morning 6200K)
+# ==============================================================================
+
+### PROMPT 1.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, extreme wide high-angle aerial shot looking down upon a magnificent miniature floating rocky island adrift amidst realistic rolling white clouds and deep atmospheric blue sky, featuring intricately handcrafted diorama architecture of carved timber cottages with miniature terracotta roof tiles, winding miniature cobblestone paths, and tiny stone chimneys puffing delicate wisps of wool smoke, a single butter-yellow cloth pennant fluttering from the carved timber bell tower, vast open cinematic sky with natural drifting cloud mist in golden morning sunlight at 5800K, rich tactile felt craft and carved woodwork, completely seamless unstitched craftsmanship --ar 16:9
+
+### PROMPT 1.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium eye-level shot on a carved timber cliffside lookout of the floating cloud island, an elderly wanderer puppet with a tall elongated slender frame and lanky limbs standing tall with dignified posture, distinctive narrow elongated oval felt face with high gentle cheekbones, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero visible thread seams and zero stitches, soft rosy cheeks, bushy chevron moustache, full dense head of sculpted silver wool hair covering the forehead, wearing a finely tailored navy wool overcoat with concealed clean seams over thin delicate legs in petite leather boots, small neat felt hands resting gently against a miniature carved wooden railing, a single butter-yellow ceramic teacup resting on the wooden railing, overlooking realistic rolling white clouds and vast cinematic atmospheric sky, soft diffused morning daylight at 6000K, rich tactile felt textures and miniature woodwork --ar 16:9
+
+### PROMPT 1.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, low-angle medium close-up shot showing head and upper torso of a wanderer puppet standing beside a weathered miniature stone sundial on the cloud island ridge, accompanied by a small needle-felted swallow perched nearby on the stone, the puppet having a tall dignified posture, distinctive long rectangular felt face with square jaw, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero visible thread seams and zero stitches, soft rosy cheeks, tiny circular wire spectacles perched low on nose, full dense head of sculpted chestnut wool hair covering the forehead, wearing a tailored olive wool vest with concealed clean seams over visible shoulders, small neat felt hands gently touching the stone dial, a single butter-yellow wildflower blooming between the miniature cobblestones, looking up toward towering realistic white cloud formations and vast open sky, crisp morning daylight at 6200K, rich tactile needle-felted craftsmanship --ar 16:9
+
+
+# ==============================================================================
+# LINE 2: Where the giant blue whales were floating all around
+# Mood: Majestic, gentle surrealism, peaceful colossal beings
+# Breakdown:
+#   IMG 2.1: [W-ANIMAL] | SZ-EW  + CA-LOW    + PV-AWAY    | ENV-2 (Cloud Sea Void)      | L-2 (Sunlit Dawn 6400K)
+#   IMG 2.2: [W-CROWD]  | SZ-M   + CA-EYE    + PV-3QTR    | ENV-5 (Timber Balcony)      | L-1 (Misty Morning 6000K)
+#   IMG 2.3: [W-SOLO]   | SZ-OTS + CA-HIGH   + PV-AWAY    | ENV-6 (Stone Sky Jetty)     | L-2 (Golden Hour 5600K)
+# ==============================================================================
+
+### PROMPT 2.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, dramatic wide low-angle establishing shot looking upward from the base of the floating rocky island into the boundless sky, two majestic handcrafted sky whales with textured slate-blue wool skin and carved driftwood belly ridges gracefully gliding through realistic billowing white cloud banks that encircle the floating miniature town, tiny handcrafted timber cottages perched on the island ledge above, a single butter-yellow painted wooden wind-vane turning atop the highest cottage rooftop, realistic vast atmospheric cinematic sky with natural drifting clouds, radiant morning sunlight at 6400K, rich tactile felt and carved timber craft, completely seamless unstitched craftsmanship --ar 16:9
+
+### PROMPT 2.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium eye-level shot along a miniature carved timber balcony jutting over the cloud precipice, two villager puppets with tall elongated slender frames and lanky limbs standing tall with dignified posture; an elder with a distinctive wedge-shaped felt face, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero visible stitches, soft rosy cheeks, wispy silver goatee, full dense head of silver wool hair covering forehead, in a tailored charcoal wool jacket with concealed clean seams, and a younger companion in an indigo chore coat, pointing small neat felt hands toward a gentle giant blue whale gliding by through the realistic clouds, a single butter-yellow wool scarf wrapped around the companion's collar, realistic drifting cloud mist, glowing morning light at 6000K, rich tactile felt craft and miniature woodwork --ar 16:9
+
+### PROMPT 2.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, high-angle over-the-shoulder shot looking from behind the shoulder of a slender traveler puppet standing on a miniature stone jetty projecting into the sky, the puppet having a tall elongated slender frame, wearing a tailored olive wool trench coat with concealed clean seams over thin delicate legs in petite leather boots, gazing at the massive gentle eye and textured flipper of a handcrafted blue wool whale floating peacefully beside the island rim, a single butter-yellow canvas duffel bag sitting on the timber planks at his feet, realistic rolling white clouds parting to reveal golden morning light, vast open cinematic sky, rich tactile stop-motion textures --ar 16:9
+
+
+# ==============================================================================
+# LINE 3: A quiet little town sitting peaceful and high
+# Mood: Idyllic, unhurried, handcrafted daily warmth
+# Breakdown:
+#   IMG 3.1: [W-CROWD]  | SZ-W   + CA-EYE    + PV-FRONT   | ENV-4 (Village Lane)        | L-1 (Soft Overcast 5800K)
+#   IMG 3.2: [W-PET]    | SZ-M   + CA-3QTR   + PV-3QTR    | ENV-1 (Garden Gate)         | L-2 (Morning Sun 6000K)
+#   IMG 3.3: [W-LIFE]   | SZ-CU  + CA-DUTCH  + PV-AWAY    | ENV-1 (Cottage Window Sill) | L-2 (Sunlit Sill 6200K)
+# ==============================================================================
+
+### PROMPT 3.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, wide eye-level shot of a quiet miniature village lane high in the sky, four villager puppets with tall elongated slender frames and lanky limbs standing tall with dignified posture, strolling and conversing along a handcrafted miniature cobblestone path between whitewashed cottages with miniature terracotta roofs and carved cedar flowerboxes, a small handcrafted wooden bread cart parked by the curb, the puppets having completely seamless unstitched peach felt faces sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense heads of wool hair covering foreheads, tailored linen smocks and wool trousers with concealed clean seams, petite leather boots, a single butter-yellow striped fabric awning shading the corner village bakery, realistic rolling white clouds brushing against the edge of the street, soft diffused morning daylight at 5800K, rich tactile felt and timber craft --ar 16:9
+
+### PROMPT 3.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium three-quarter shot outside a handcrafted cottage garden gate, an elderly gardener puppet with a tall elongated slender frame and lanky limbs standing tall with dignified posture, distinctive narrow elongated oval felt face with high gentle cheekbones, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero visible thread seams and zero stitches, soft rosy cheeks, tiny circular wire spectacles perched low on nose, full dense head of sculpted silver wool hair covering forehead, wearing a tailored tweed apron over a cream wool tunic with concealed clean seams, small neat felt hands holding a miniature carved wooden watering can to tend flowerpots while a fluffy needle-felted ginger tabby cat rubs against his thin legs in petite leather boots, a single butter-yellow glazed ceramic planter resting on the garden stone wall, realistic white cloud sea drifting in the background beyond the fence, warm morning sun at 6000K, rich tactile felt craftsmanship --ar 16:9
+
+### PROMPT 3.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, Dutch-angle close-up still-life shot of a carved timber windowsill high above the world, featuring a handcrafted miniature ceramic pitcher, a small bundle of dried lavender, and a pair of tiny circular wire spectacles resting on the cedar sill, through the open miniature timber window with peeling painted trim, the serene panorama of the high peaceful cloud town and drifting clouds is visible, a single butter-yellow linen curtain gently fluttering in the high-altitude breeze, realistic rolling cloud vapor illuminated by soft 6200K morning sunlight, rich tactile felt and carved cedar woodwork, completely seamless unstitched craftsmanship --ar 16:9
+
+
+# ==============================================================================
+# LINE 4: Far away from the rush where the rivers run dry
+# Mood: Sanctuary, abundance of living water, untouched tranquility
+# Breakdown:
+#   IMG 4.1: [W-LIFE]   | SZ-EW  + CA-HIGH   + PV-AWAY    | ENV-2 (High Aqueduct Canal) | L-2 (Crisp Daylight 6500K)
+#   IMG 4.2: [W-CROWD]  | SZ-M   + CA-EYE    + PV-FRONT   | ENV-4 (Village Fountain)    | L-1 (Misty Morning 5900K)
+#   IMG 4.3: [W-PET]    | SZ-CU  + CA-LOW    + PV-PROFILE | ENV-2 (Brook Stream Bank)   | L-2 (Dappled Creek 6200K)
+# ==============================================================================
+
+### PROMPT 4.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, high-angle extreme wide establishing shot of the verdant high sanctuary far above the world, a handcrafted miniature carved stone aqueduct and clear crystalline mountain stream winding through miniature lush mossy terraces and handcrafted timber footbridges on the island summit, while far below the vast rim of realistic white clouds stretches endlessly, a single butter-yellow wooden rowing boat moored by the miniature stone canal steps, realistic boundless sky and endless sea of clouds, crisp pure daylight at 6500K, rich tactile felt moss and carved woodwork, completely seamless unstitched craftsmanship --ar 16:9
+
+### PROMPT 4.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium eye-level shot beside a miniature carved stone village fountain where fresh water flows endlessly, three village puppets with tall elongated slender frames and lanky limbs standing tall with dignified posture; an elder woman with a distinctive high silver bun with wooden pin, and two young craftsmen with chevron moustaches, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense heads of wool hair covering foreheads, filling handcrafted miniature clay jugs with cool mountain water in relaxed unhurried harmony, a single butter-yellow wool shawl draped gracefully over the elder woman's tailored dress, realistic drifting clouds visible between distant timber cottages, soft morning light at 5900K, rich tactile felt craft --ar 16:9
+
+### PROMPT 4.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, low-angle close-up shot showing the head, visible shoulders, and slender arms of a young wanderer puppet resting beside the miniature stream bank, watching a small needle-felted white duck paddle in the clear pool, the puppet having tall slender posture, distinctive lean face with gentle hollow cheeks, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense head of dark wool hair covering forehead, tailored indigo wool vest with concealed clean seams over visible shoulders, small neat felt hands gently trailing fingers in the water, a single butter-yellow river pebble resting on the wet miniature stone ledge, realistic blue sky and sun-drenched cloud vapor reflected in the stream, natural physical daylight at 6200K, rich tactile felt textures --ar 16:9
+
+
+# ==============================================================================
+# LINE 5: My mother by the porch and my brothers in the yard
+# Mood: Nostalgic familial warmth, protective belonging
+# Breakdown:
+#   IMG 5.1: [W-CROWD]  | SZ-W   + CA-EYE    + PV-FRONT   | ENV-1 (Homestead Yard)      | L-2 (Morning 5500K)
+#   IMG 5.2: [W-PET]    | SZ-M   + CA-3QTR   + PV-3QTR    | ENV-1 (Cottage Porch)       | L-2 (Golden Porch 5600K)
+#   IMG 5.3: [W-SOLO]   | SZ-CU  + CA-LOW    + PV-FRONT   | ENV-2 (Meadow Yard)         | L-2 (Sunlit Yard 5800K)
+# ==============================================================================
+
+### PROMPT 5.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, wide eye-level shot of a rustic handcrafted timber homestead on the cloud island, a family of puppets with tall elongated slender frames and lanky limbs standing tall with dignified posture; an elderly mother puppet with a high silver bun with wooden pin standing on the carved cedar porch steps, watching her two grown sons in tailored work trousers and linen shirts playing horseshoes in the grassy yard, the puppets having completely seamless unstitched peach felt faces sculpted from solid dense wool roving with zero visible stitches, soft rosy cheeks, full dense heads of wool hair covering foreheads, thin delicate legs in petite leather boots, small neat felt hands, carved timber farmhouse with miniature terracotta roof and handcrafted picket fence, a single butter-yellow wooden rocking chair resting on the porch beside the doorway, realistic rolling white clouds drifting behind the homestead, warm physical morning sunlight at 5500K, rich tactile stop-motion craft --ar 16:9
+
+### PROMPT 5.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium three-quarter shot focused on the porch of the handcrafted timber cottage, the elderly mother puppet with a tall slender frame, distinctive narrow elongated oval felt face with high gentle cheekbones, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, benevolent smile, full dense head of sculpted silver wool hair swept into a high bun with wooden pin, wearing a tailored pleated linen dress with concealed clean seams, leaning small neat felt hands on the carved porch railing while a fluffy needle-felted sheepdog rests faithfully at her feet, a single butter-yellow wool cardigan folded over the timber porch banister, realistic golden morning light filtering through the open air, realistic white clouds in the distant valley, rich tactile felt craft --ar 16:9
+
+### PROMPT 5.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, low-angle medium close-up shot showing head and upper torso of one of the brothers in the yard, tall dignified posture, distinctive long rectangular felt face with square jaw, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, joyful crinkles around the eyes, bushy brown chevron moustache, full dense head of sculpted chestnut wool hair covering forehead, tailored work vest with concealed clean seams over visible broad shoulders, small neat felt hands holding a miniature hand-carved horseshoe, a single butter-yellow bandanna loosely tied around his neck, looking up against realistic vast blue sky and sunlit fluffy clouds, warm golden daylight at 5800K, rich tactile needle-felted wool craft --ar 16:9
+
+
+# ==============================================================================
+# LINE 6: Laughing in the sun like life wasn't hard
+# Mood: Unburdened joy, radiant innocence, laughter in the sunlight
+# Breakdown:
+#   IMG 6.1: [W-CROWD]  | SZ-W   + CA-LOW    + PV-3QTR    | ENV-2 (Sunlit Yard)         | L-2 (Bright Sun 6000K)
+#   IMG 6.2: [W-PET]    | SZ-M   + CA-EYE    + PV-FRONT   | ENV-2 (Orchard Lawn)        | L-2 (Vibrant Sun 6000K)
+#   IMG 6.3: [W-SOLO]   | SZ-CU  + CA-DUTCH  + PV-3QTR    | ENV-1 (Sunlit Porch Steps)  | L-2 (Golden Sun 5400K)
+# ==============================================================================
+
+### PROMPT 6.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, low-angle wide shot capturing the brothers and family laughing together in the sun-drenched meadow beside the porch, three puppets with tall elongated slender frames and lanky limbs standing tall with dignified posture, caught mid-laugh with warm expressive faces; one brother tossing a miniature hand-carved wooden ball while the other laughs with arms raised, mother smiling warmly from the porch steps, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense heads of wool hair covering foreheads, tailored garments with concealed clean seams, petite leather boots firmly planted on needle-felted clover, a single butter-yellow handcrafted wooden wheelbarrow filled with firewood in the yard, realistic physical sunbeams breaking through realistic rolling clouds, vast open atmospheric sky, rich tactile felt and timber craft --ar 16:9
+
+### PROMPT 6.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium eye-level two-shot of the two brothers sharing a hearty laugh in the sunlit yard, two brothers with tall elongated slender frames and lanky limbs, distinctive facial sculpts with square jaws and warm crinkles, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense heads of wool hair covering foreheads, tailored rolled-sleeve linen shirts with concealed clean seams, one brother clapping a small neat felt hand on the other's shoulder while their needle-felted hound leaps playfully beside their petite leather boots, a single butter-yellow enamel water canteen resting on a rustic timber stump, brilliant physical 6000K sunlight illuminating wool fibers, realistic cloud-dappled sky, rich tactile felt textures --ar 16:9
+
+### PROMPT 6.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, Dutch-angle medium close-up shot showing head and upper torso of the mother puppet laughing with radiant heartfelt joy, tall dignified posture, distinctive narrow elongated oval felt face, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks glowing in the sun, fine crinkles of laughter, full dense head of sculpted silver wool hair covering forehead hairline and pinned neatly, tailored sage wool collar and visible shoulders with concealed clean seams, a single butter-yellow crocheted brooch pinned to her collar, bathed in warm physical 5400K sunlight, realistic soft white cloud layers in the blurred background, rich tactile stop-motion diorama craft --ar 16:9
+
+
+# ==============================================================================
+# LINE 7: Then I woke up crying with my pillow soaking wet
+# Mood: Heart-wrenching awakening, cold reality, tearful realization
+# Breakdown:
+#   IMG 7.1: [W-LIFE]   | SZ-W   + CA-HIGH   + PV-AWAY    | ENV-1 (City Rental Room)    | L-1 (Cold Dawn 5000K)
+#   IMG 7.2: [W-SOLO]   | SZ-M   + CA-3QTR   + PV-3QTR    | ENV-1 (Bedside Edge)        | L-1 (Pale Blue Dawn 4800K)
+#   IMG 7.3: [W-SOLO]   | SZ-CU  + CA-LOW    + PV-FRONT   | ENV-1 (Pillow Headboard)    | L-1 (Dim Dawn Light 4900K)
+# ==============================================================================
+
+### PROMPT 7.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, high-angle wide interior shot of a stark narrow city bedroom in early dawn light, a handcrafted miniature carved timber single bed with rumpled linen sheets and a white felt pillow marked by a translucent glistening wet tear stain, on a small cedar nightstand sits an unlit candle and a ticking clock, slanted morning shadows cutting across the miniature wooden floorboards, a single butter-yellow ceramic mug sitting on the miniature bedside table, pale realistic dawn daylight at 5000K filtering through a tall miniature timber-frame window revealing realistic misty morning city rooftops and gray clouds outside, rich tactile felt and carved wood, completely seamless unstitched craftsmanship --ar 16:9
+
+### PROMPT 7.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium three-quarter shot of the protagonist puppet sitting up on the edge of the bed, a solitary young professional puppet with a tall elongated slender frame and lanky limbs sitting with bowed dignified posture, distinctive narrow elongated felt face with gentle hollow cheeks, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero visible thread seams and zero stitches, soft rosy cheeks glistening with miniature damp tear streaks, full dense head of sculpted dark wool hair tousled across the forehead, wearing a plain cream tailored linen nightshirt with concealed clean seams, thin delicate legs dangling, small neat felt hands clutching a damp cotton handkerchief, a single butter-yellow wool blanket draped over the foot of the carved wooden bed, realistic cold blue dawn light at 4800K entering through the window, stark emotional tactile atmosphere --ar 16:9
+
+### PROMPT 7.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, low-angle medium close-up shot showing head, visible shoulders, and trembling hands of the protagonist sitting on the bed, distinctive long rectangular felt face with square jaw, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, moist glistening lower eyelids, full dense head of sculpted brown wool hair covering the forehead, tailored shirt collar with concealed clean seams over visible slender shoulders, raising small neat felt hands to wipe a tear from his cheek while staring wistfully toward the window, a single butter-yellow fabric bookmark trailing from an open diary on the nightstand, soft realistic dawn glow catching the edge of his cheek, realistic overcast morning sky outside, rich tactile stop-motion texture --ar 16:9
+
+
+# ==============================================================================
+# LINE 8: Thinking of the people that I never should forget
+# Mood: Wistful remembrance, enduring affection, tender grounding
+# Breakdown:
+#   IMG 8.1: [W-LIFE]   | SZ-W   + CA-EYE    + PV-AWAY    | ENV-1 (City Window Alcove)  | L-2 (Advancing Dawn 5600K)
+#   IMG 8.2: [W-SOLO]   | SZ-M   + CA-OTS    + PV-AWAY    | ENV-1 (Wooden Desk Corner)  | L-2 (Morning Beam 5500K)
+#   IMG 8.3: [W-SOLO]   | SZ-CU  + CA-EYE    + PV-FRONT   | ENV-1 (Chest Portrait Hold) | L-2 (Intimate Warmth 5500K)
+# ==============================================================================
+
+### PROMPT 8.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, wide eye-level shot of the quiet city room bathed in the advancing morning light, the tall slender protagonist puppet stands by the tall miniature timber-framed window, holding a tiny carved wooden picture frame in small neat felt hands, beside him on the miniature desk lie stacked city documents and an unrolled map, tall elongated slender frame and lanky limbs standing tall with dignified posture, wearing tailored charcoal trousers and a cream knit wool tunic with concealed clean seams, thin delicate legs in petite leather boots on miniature timber floorboards, a single butter-yellow ceramic vase holding a single dried flower on the windowsill, through the window a realistic vast morning sky and drifting clouds remind him of the floating island, natural daylight at 5600K, rich tactile felt and timber craft --ar 16:9
+
+### PROMPT 8.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium over-the-shoulder shot looking from behind the protagonist puppet sitting at a miniature wooden desk, slender frame, tailored wool vest with concealed clean seams over visible shoulders, small neat felt hands tenderly holding a tiny miniature needle-felted portrait of his mother and brothers in front of him, a single butter-yellow tin pencil pot resting on the corner of the oak desk, soft morning daylight streaming across the wooden desktop, realistic sky with drifting clouds outside the windowpane, rich tactile felt and timber grain, completely seamless unstitched craftsmanship --ar 16:9
+
+### PROMPT 8.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, close-up eye-level shot showing head, visible shoulders, and hands of the protagonist puppet, tall dignified posture, distinctive narrow elongated oval felt face with high gentle cheekbones, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, eyes filled with deep wistful longing and tenderness, full dense head of sculpted dark wool hair covering the forehead, tailored collar with concealed clean seams, pressing the tiny carved wooden keepsake against his chest with small neat felt hands, a single butter-yellow button stitched onto his tailored collar, realistic morning sunbeam illuminating his face with warm physical 5500K light, emotional tactile intimacy, rich tactile stop-motion diorama craft --ar 16:9
+
+
+# ==============================================================================
+# LINE 9: Ten years working for a paycheck and a screen
+# Mood: Exhaustion, cold corporate monotony, mechanical routine
+# Breakdown:
+#   IMG 9.1: [W-CROWD]  | SZ-EW  + CA-HIGH   + PV-AWAY    | ENV-4 (City Office Hall)    | L-1 (Sterile Fluorescent 4500K)
+#   IMG 9.2: [W-SOLO]   | SZ-M   + CA-EYE    + PV-3QTR    | ENV-1 (Work Desk Cubicle)   | L-1 (Cool Screen Glow 5000K)
+#   IMG 9.3: [W-LIFE]   | SZ-XCU + CA-DUTCH  + PV-FRONT   | ENV-1 (Laptop Keyboard)     | L-1 (Side Window Light 5200K)
+# ==============================================================================
+
+### PROMPT 9.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, high-angle wide shot inside a miniature handcrafted timber city office hall, rows of miniature carved desks where several tall slender office worker puppets sit hunched over glowing miniature laptops under cold overhead pendant lamps, surrounded by stacked paper files, the protagonist sits at his desk among them looking up wearily, puppets having tall elongated slender frames, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense heads of wool hair covering foreheads, tailored dark wool suits with concealed clean seams, petite leather boots resting on miniature parquet flooring, a single butter-yellow desk lamp shade glowing on the protagonist's desk, realistic dreary rain-streaked window at the far end of the hall showing realistic gray overcast sky, rich tactile felt and miniature woodwork --ar 16:9
+
+### PROMPT 9.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium eye-level shot of the protagonist puppet sitting at his miniature wooden work desk, tall elongated slender frame, distinctive lean felt face with gentle hollow cheeks, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, tired heavy stop-motion eyes reflecting the pale glow of a tiny handcrafted laptop screen, tiny circular wire spectacles perched low on nose, full dense head of sculpted dark wool hair covering forehead, wearing a tailored gray wool cardigan and pleated trousers with concealed clean seams, small neat felt hands resting motionless on the miniature keyboard, a single butter-yellow sticky note affixed to the miniature monitor bezel, subtle realistic morning light mixing with the screen glow, rich tactile felt and carved oak desk --ar 16:9
+
+### PROMPT 9.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, Dutch-angle extreme close-up macro shot of the miniature workspace, focus on small neat sand-beige felt hands with smooth unstitched knuckles hovering over the miniature carved keyboard of the laptop, alongside a stack of miniature paper invoices and a miniature ticking brass wristwatch, visible cuffs of a tailored wool jacket with clean invisible seams, a single butter-yellow pencil lying diagonally across the paperwork, natural physical side-raking morning daylight casting sharp geometric shadows across the tactile felt hands and timber desk, rich tactile stop-motion texture --ar 16:9
+
+
+# ==============================================================================
+# LINE 10: Running from the only life I ever really mean
+# Mood: Critical awakening, stark urban contrast, sudden clarity
+# Breakdown:
+#   IMG 10.1: [W-CROWD] | SZ-W   + CA-LOW    + PV-FRONT   | ENV-4 (Rainy City Avenue)   | L-1 (Overcast Rain 5800K)
+#   IMG 10.2: [W-SOLO]  | SZ-M   + CA-PROFILE+ PV-PROFILE | ENV-1 (Apartment Window)    | L-2 (Sunbreak Profile 5600K)
+#   IMG 10.3: [W-SOLO]  | SZ-CU  + CA-LOW    + PV-FRONT   | ENV-1 (Awakened Face)       | L-2 (Direct Daylight 5800K)
+# ==============================================================================
+
+### PROMPT 10.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, low-angle wide street shot in a miniature handcrafted brick-and-timber city avenue, a crowd of miniature city worker puppets with tall elongated slender frames in tailored dark wool trench coats striding rapidly with umbrellas along a miniature wet cobblestone pavement, the protagonist stands completely still amidst the hurried throng, staring straight ahead with quiet realization, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense heads of wool hair covering foreheads, thin delicate legs in petite leather boots, a single butter-yellow umbrella held by a distant commuter in the crowd, realistic wet cobblestone reflections, realistic misty rain clouds and authentic atmospheric daylight at 5800K, rich tactile felt coats and carved timber facades --ar 16:9
+
+### PROMPT 10.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium profile shot of the protagonist puppet standing by a tall glass window inside his city room, tall elongated slender frame and lanky limbs standing tall with dignified posture, distinctive narrow elongated oval felt face with high gentle cheekbones, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero visible stitches, soft rosy cheeks, calm resolute gaze, full dense head of sculpted wool hair covering forehead, tailored navy chore jacket with concealed clean seams over thin delicate legs in petite leather boots, small neat felt hand pressed against the windowpane, a single butter-yellow coffee mug resting on the radiator sill, through the window realistic clouds part in the vast sky as a warm sunbeam strikes his profile at 5600K, rich tactile wool and carved timber --ar 16:9
+
+### PROMPT 10.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, low-angle medium close-up shot showing head, visible shoulders, and chest of the protagonist puppet, distinctive long rectangular felt face with square jaw, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, a profound shift from sorrow to calm resolute clarity in his eyes, full dense head of sculpted brown wool hair covering forehead, tailored tweed collar with concealed clean seams over visible shoulders, a single butter-yellow wool lanyard peeking from his coat pocket, dramatic natural physical daylight sculpting his features against a realistic expansive sky, rich tactile stop-motion texture, completely seamless unstitched craftsmanship --ar 16:9
+
+
+# ==============================================================================
+# LINE 11: I shut the laptop down, pushed the paper far away
+# Mood: Resolute action, liberation, breaking free from routine
+# Breakdown:
+#   IMG 11.1: [W-LIFE]  | SZ-W   + CA-EYE    + PV-FRONT   | ENV-1 (Desk Departure)      | L-2 (Bright Morning 6000K)
+#   IMG 11.2: [W-SOLO]  | SZ-M   + CA-DUTCH  + PV-FRONT   | ENV-1 (Desk Action)         | L-2 (Golden Angle 6000K)
+#   IMG 11.3: [W-SOLO]  | SZ-XCU + CA-LOW    + PV-FRONT   | ENV-1 (Lid Slam Close)      | L-2 (Sharp Morning 6200K)
+# ==============================================================================
+
+### PROMPT 11.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, wide eye-level shot of the room as the protagonist steps back decisively from his desk, the tall slender protagonist puppet stands full length having just pushed back his carved timber chair; on the desk, the miniature laptop is firmly shut, and stacks of miniature paperwork are pushed aside to make room, tall elongated slender frame and lanky limbs standing tall with dignified posture, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense head of wool hair covering forehead, tailored vest and trousers with concealed clean seams, petite leather boots standing firmly on the miniature floorboards, a single butter-yellow leather journal lying closed beside the laptop, realistic morning sunbeams bursting through the window across the room, vast blue sky visible outside, rich tactile felt and timber craft --ar 16:9
+
+### PROMPT 11.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, Dutch-angle medium shot focusing on the protagonist puppet's resolute action at the desk, tall slender frame, distinctive lean felt face with gentle hollow cheeks, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, determined gentle smile, full dense head of sculpted dark wool hair covering forehead, wearing a tailored charcoal wool sweater with concealed clean seams, using both small neat felt hands to decisively fold the miniature laptop lid closed while shoving paper folders away, a single butter-yellow enamel paperweight resting atop the pushed-away documents, warm natural morning daylight at 6000K illuminating the tactile felt weave and carved timber desk, rich stop-motion craft --ar 16:9
+
+### PROMPT 11.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, low-angle extreme close-up shot of small neat sand-beige felt hands resting firmly on top of the closed miniature laptop, the laptop screen is shut flat; slender felt fingers with smooth seamless unstitched texture rest with finality on the lid, beside it miniature paper documents with tiny printed type lie scattered away, visible cuffs of a tailored wool jacket with clean invisible seams, a single butter-yellow silk thread bookmark trailing from beneath the paperwork, crisp morning physical daylight glancing across the miniature desk and felt fabric, shallow depth of field, completely seamless unstitched craftsmanship --ar 16:9
+
+
+# ==============================================================================
+# LINE 12: I'm packing up my bag, I am heading home today
+# Mood: Hopeful resolve, journey beginning, luggage ready
+# Breakdown:
+#   IMG 12.1: [W-PET]   | SZ-W   + CA-HIGH   + PV-3QTR    | ENV-1 (Sunlit Room Floor)   | L-2 (Warm Departure 6000K)
+#   IMG 12.2: [W-SOLO]  | SZ-M   + CA-EYE    + PV-FRONT   | ENV-5 (Doorway Threshold)   | L-2 (Open Door Glow 6200K)
+#   IMG 12.3: [W-LIFE]  | SZ-CU  + CA-LOW    + PV-AWAY    | ENV-5 (Doorstep Departure)  | L-2 (Morning Hallway 6100K)
+# ==============================================================================
+
+### PROMPT 12.1 (Wide / Establishing)
+A detailed needle-felted stop-motion animation scene, high-angle wide shot of the sunny room as the protagonist finishes packing his bag, the tall slender protagonist puppet stands full length beside his bed, zipping closed a miniature canvas duffel bag, a friendly needle-felted tabby cat curls lazily on a sunny patch of the miniature timber floor nearby, the room is tidy, coat on, ready for the journey, tall elongated slender frame and lanky limbs standing tall with dignified posture, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, full dense head of wool hair covering forehead, wearing a tailored traveler's wool overcoat with concealed clean seams over thin delicate legs in petite leather boots, small neat felt hands gripping the bag handles, a single butter-yellow canvas shoulder strap attached to the duffel bag, realistic golden morning sunshine streaming through the open door, realistic blue sky and clouds outside, rich tactile stop-motion craft --ar 16:9
+
+### PROMPT 12.2 (Medium Interaction)
+A detailed needle-felted stop-motion animation scene, medium eye-level shot of the protagonist puppet hoisting the packed travel bag onto his shoulder, tall elongated slender frame, distinctive narrow elongated oval felt face with high gentle cheekbones, completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero stitches, soft rosy cheeks, peaceful resolute smile, full dense head of sculpted chestnut wool hair covering forehead, wearing a long finely tailored navy wool overcoat with concealed clean seams over visible shoulders, small neat felt hands adjusting the bag strap, ready to head home, a single butter-yellow woolen scarf neatly tucked inside his overcoat collar, warm realistic morning light at 6200K illuminating his features, realistic open sky framed in the doorway, rich tactile needle-felted craft --ar 16:9
+
+### PROMPT 12.3 (Close-up / Unusual Angle)
+A detailed needle-felted stop-motion animation scene, low-angle close-up shot at the open wooden apartment doorway, showing the protagonist's petite leather boots stepping decisively across the carved timber threshold into the hallway, slender puppet legs in pleated wool trousers and petite brown leather boots taking the first step forward, beside his boots rests the miniature packed canvas duffel bag, on the hall wall hangs a hand-carved coat hook, a single butter-yellow luggage tag tied securely to the duffel bag handle, warm physical daylight streaming in from the open hall window, showing realistic clouds in the distant morning sky, rich tactile stop-motion diorama craft, completely seamless unstitched craftsmanship --ar 16:9

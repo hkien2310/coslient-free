@@ -1,95 +1,157 @@
-# 🎯 COSLIENT MASTER SEO & METADATA PLAYBOOK
-*Phiên bản: v7.0 — Cinematic Art & Competitor-Grounded Benchmark*  
-*Tham chiếu thực chiến từ các kênh Top đầu thị trường: @chriscrystalaiart, @SurrealAIArt, @kellyeld2323*
+# COSLIENT SEO — VIẾT CHO KÊNH NHỎ CẦN NGƯỜI LẠ CLICK
 
 ---
 
-## 💡 1. BẢN CHẤT SEO CHO KÊNH NGHỆ THUẬT & ÂM NHẠC ĐIỆN ẢNH (CINEMATIC AI/HANDCRAFTED ART)
+## 1. TITLE — KỂ CHUYỆN, ĐỪNG BRANDING
 
-Khán giả của phân khúc Cinematic Visual Music & Surreal Art tìm kiếm **giá trị thẩm mỹ cao, trải nghiệm thị giác điện ảnh và âm nhạc nguyên bản (Original Music)**. 
+Kênh nhỏ không ai search tên "Coslient". Người ta scroll feed, thấy title hay thì click.
+Title phải trả lời: **"Video này về cái gì mà tôi phải xem?"**
 
-### 🚫 Những lỗi "phèn" cần loại bỏ vĩnh viễn:
-1. **Tuyệt đối cấm đặt câu giật gân/tâm sự sến kiểu playlist lofi:** (*"for the days you feel too tired...", "when you need 10 minutes of quiet..."*). Cách này biến tác phẩm thành kênh dạo rẻ tiền.
-2. **Tuyệt đối cấm văn mẫu self-help dạy đời trong phần mô tả:** Đi thẳng vào cốt truyện, bối cảnh mỹ thuật, lời bài hát và nhạc cụ.
+### Title đã viral:
 
-### 🏆 Công thức thành công của các kênh Top 1:
-- **Title:** Sang trọng, cấu trúc modular rõ ràng: `[Tên Tác Phẩm] | [Thể Loại Thị Giác] — [Tên Nghệ Sĩ/Kênh] | [Original Music, 4K]`
-- **Description:** Tóm tắt ý niệm tác phẩm ngắn gọn $\rightarrow$ Timestamps $\rightarrow$ **Full Lyrics** $\rightarrow$ Thông tin sản xuất & Nghệ thuật $\rightarrow$ Streaming Links.
-- **Thumbnail:** Khung hình điện ảnh đỉnh nhất, ánh sáng tương phản bimodal mạnh, text overlay tối giản hoặc không cần text.
+| Title | Views |
+|---|---|
+| This Town Lives Differently… And It Will Change You | **77.000** |
+| A Very Unusual Town \| Lantern Town | **17.000** |
+| Right Where They Are \| A Quiet Song About a Dog Waiting at Home | **12.000** |
+| Smelled Home — A Storytelling Song | **12.000** |
+| The Seat We Saved \| For the Quiet People Who Made Room for Us | **6.600** |
+| We Were Better in the Summer \| Nostalgic Song About Youth & Simple Days | **6.600** |
+
+### Title đã chết:
+
+| Title | Views |
+|---|---|
+| Coslient — Borrow No Wings (Official Visualizer) | 238 |
+| Coslient — Tales of Gold & Told \| Handcrafted Stop-Motion Visualizer | 172 |
+
+### Công thức chuẩn hóa:
+
+**Cách 1 (Kể chuyện / Story Hook — Đề xuất chính):**
+```
+[Tên bài / Câu hook cảm xúc] — [Mô tả cảm xúc hoặc câu chuyện ngắn]
+```
+Ví dụ:
+- `The Last Letter — A Song for the Words We Never Said`
+- `Smelled Home — A Storytelling Song`
+- `Right Where They Are — A Quiet Song About a Dog Waiting at Home`
+
+**Cách 2 (Gắn vũ trụ A Dream Town để gom chuỗi & ăn đề xuất):**
+```
+[Tên bài hát] | A Dream Town — [Câu chuyện / Hook cảm xúc]
+Surreal AI Film | [Hook cảm xúc / Tên bài] | A Dream Town
+```
+Ví dụ:
+- `Storms We Knew | A Dream Town — For the Restless Nights`
+- `Seventh Try | A Dream Town — When Giving Up Is Not an Option`
+- `Surreal AI Film | The Remembering House | A Dream Town`
+
+**Cách 3 (Album dài / Season Compilation):**
+```
+A Dream Town Season 1 | [Tên Album] (Relaxing Stop-Motion AI Music & Film)
+```
+Ví dụ:
+- `A Dream Town Season 1 | Passing Cloud (Relaxing Folk Music & Cozy AI Film)`
+
+### Quy tắc:
+
+- **Không đặt "Coslient" ở đầu title.** Không ai tìm tên kênh.
+- **Không đặt "Official Visualizer", "Official Music Video".** Đó là format kênh triệu sub.
+- **Không ép "4K" vào title nếu không cần thiết.** Có thể để ở cuối hoặc trong tags.
+- **Câu mô tả phải gợi cảm xúc cụ thể**, không phải thể loại kỹ thuật. "A Song About a Dog Waiting at Home" tốt hơn "Indie Folk | Cinematic AI Art 4K".
+- **Dùng thống nhất tên vũ trụ `A Dream Town`** để tạo pattern thuật toán cho YouTube gom cụm đề xuất sang các kênh cùng tệp (*A Very Old Town*, *Three-Quarter Town*).
+- **Coslient để ở cuối nếu muốn:** `Tên bài — Câu hook | Coslient`
 
 ---
 
-## 2. CÔNG THỨC TIÊU ĐỀ CHUẨN (TITLE ARCHITECTURE)
+## 2. DESCRIPTION — NGẮN, CÓ HỒN
 
-Mỗi video bắt buộc cung cấp 3 biến thể theo các công thức đã được kiểm chứng:
+Không ai đọc 20 dòng production notes. Viết 2-3 câu về câu chuyện bài hát, paste lyrics, xong.
 
-### 1. TIÊU ĐỀ VIDEO (TITLE OPTIONS — 1-CLICK COPY)
-
-**Công thức 1: Chuẩn Studio / Phim Âm Nhạc Điện Ảnh (Cinematic Film Formula — Khuyên dùng)**
-```text
-[Tên Tác Phẩm] • [Định Danh Thị Giác] | Coslient | Original Music, 4K
 ```
-*Ví dụ:*
-```text
-Tales of Gold & Told • Handcrafted Diorama Music Film | Coslient | Original Music, 4K
-```
+Ông ấy vẫn ngồi đó mỗi chiều, đúng cái ghế đá đó, nhìn ra con đường không ai đi nữa.
 
-**Công thức 2: Chuẩn MV Nghệ Sĩ Quốc Tế (Official Music Release Formula)**
-```text
-Coslient — [Tên Tác Phẩm] | [Mô Tả Nghệ Thuật / Short Film] | 4K
-```
-*Ví dụ:*
-```text
-Coslient — Tales of Gold & Told | Handcrafted Stop-Motion Visualizer | 4K
-```
+Bài hát này viết cho những người vẫn giữ chỗ cho ai đó đã đi rồi.
 
-**Công thức 3: Chuẩn Mở Rộng Ý Niệm / Đoản Khúc (Thematic Lore Formula)**
-```text
-[Tên Tác Phẩm] — [Câu Ý Niệm Nghệ Thuật Ngắn] | [Visual Style] 4K
-```
-*Ví dụ:*
-```text
-Tales of Gold & Told — A Quiet Journey Home | Handcrafted Diorama 4K
-```
-
-## 3. CẤU TRÚC MÔ TẢ ĐẲNG CẤP (DESCRIPTION BLUEPRINT)
-
-Mô tả ngắn gọn, thoáng đãng, tập trung vào cốt truyện thị giác, thông tin chế tác thủ công và link hub chính thức:
-
-```text
-"[Tên Tác Phẩm]" is an original cinematic music journey exploring memory, living sanctuaries, and unspoken love across a handcrafted miniature universe.
-
-Step through hand-sculpted tactile landscapes—from woolen hills and celestial whales carrying quiet homes, to the glowing hearth sheltered safely beneath an ivory seashell.
-
-🎧 Best experienced with headphones (Acoustic Guitar, Cello, Upright Piano & Ambient Waves).
-
-⏱ CHAPTERS:
-0:00 — [Tên Track 1]
-XX:XX — [Tên Track 2]
-
----
-ABOUT THE ARTWORK & PRODUCTION:
-• Music: Original acoustic chamber composition (Fingerpicked Guitar, Cello, Upright Piano).
-• Visuals: Handcrafted physical diorama universe sculpted from natural clay, balsa wood, carded wool, and river stones, lit with cinematic bimodal lighting (Cobalt 7500K / Amber 2400K).
-• Directed, Composed & Produced by Coslient.
-
-🎧 STREAM & CONNECT:
-• Follow Coslient: https://coslient.web.app
-
-#HandcraftedDiorama #IndieFolk #StopMotion #Coslient #4KMusicVideo
-```
+🎧 Nghe trên Spotify/Apple Music: [link]
 
 ---
 
-## 4. HỆ THỐNG TAGS (10–15 TAGS CHUẨN)
-
-```text
-coslient, tales of gold and told, handcrafted diorama music video, surreal ai art, stop motion animation, indie folk music video, original music 4k, miniature world, acoustic folk cello, cinematic music film, chris crystal ai art style, kelly boesch style, surreal ai scenes, relaxing art film 4k
-```
+LYRICS:
+[paste full lyrics]
 
 ---
 
-## 5. THUMBNAIL BENCHMARK
+Music & Visuals by Coslient
+https://coslient.web.app
+```
 
-- **Visual:** Chọn đúng 1 frame đắt giá nhất (Hero Frame) có chiều sâu trường ảnh (depth of field), ánh sáng bimodal rõ nét ($7500\text{K}$ xanh thẳm đối nghịch $2400\text{K}$ vàng ấm).
-- **Text:** Tuyệt đối không nhét chữ dài dòng. Tối đa 2-3 chữ hoặc **NO TEXT** để tôn vinh chất lượng hình ảnh 4K như các phim ngắn A24.
+### Quy tắc:
+- **2-3 câu đầu kể chuyện bài hát** — cảm xúc, hình ảnh, không phải thể loại nhạc.
+- **Full lyrics** — YouTube index lyrics, giúp SEO tự nhiên.
+- **Link streaming.**
+- Không cần liệt kê nhạc cụ, quy trình sản xuất, tên model AI.
+
+---
+
+## 3. TAGS & HASHTAGS — CẢM XÚC TRƯỚC, BÁM THUẬT TOÁN SAU
+
+Ưu tiên tag mà người thật sẽ tìm khi đang buồn/nhớ/cô đơn lúc nửa đêm, kết hợp các cụm từ khóa xu hướng của thể loại:
+
+```
+[tên bài hát], a dream town, [chủ đề cảm xúc], quiet song, warm folk song, 
+handcrafted animation, miniature world, stop motion, claymation, indie folk, acoustic, 
+healing music, nostalgic song, relaxing music, coslient
+```
+
+Ví dụ:
+```
+storms we knew, a dream town, a song for restless nights, storms we knew coslient,
+quiet folk song, stop motion animation, tactile miniature world, indie folk acoustic, 
+healing music, relaxing night music, coslient
+```
+
+### Hashtags chuẩn ở cuối Description:
+`#adreamtown #stopmotion #cozymusic #indiefolk #relaxingmusic #coslient`
+(Có thể gắn thêm `#averyunusualtown #averyoldtown` để thuật toán gom nhóm đề xuất)
+
+**Không tag:** Tên kênh triệu sub không liên quan, "4K cinematic 60fps", "chris crystal style".
+
+---
+
+## 4. THUMBNAIL
+
+Chọn 1 frame có cảm xúc rõ. Không cần frame đẹp nhất — cần frame **khiến người ta muốn biết câu chuyện**.
+
+- Con chó ngồi đợi ở cửa → muốn biết chủ có về không
+- Ông già nhìn ra đường vắng → muốn biết ông nhớ ai
+- Ngọn đèn sáng trong nhà nhỏ → muốn biết ai ở trong đó
+
+**Không text trên thumbnail.** Hình tự kể chuyện.
+
+---
+
+## 5. SHORTS
+
+Mỗi video full, cắt 1 đoạn 30-60 giây hay nhất đăng Shorts.
+Title Shorts: câu hook ngắn, gợi tò mò.
+
+```
+The dog is still waiting. 🐕
+```
+
+Shorts kéo người mới. Người mới thấy hay → qua kênh → xem full.
+
+---
+
+## 6. PLAYLISTS — GÁN 2-3 PLAYLISTS THEO QUY TẮC 3 CHẠM
+
+Mỗi bài hát khi đăng lên YouTube BẮT BUỘC gán vào 2 đến 3 playlist (xem chi tiết tại `style_seo/youtube_playlists.md`):
+
+1. **Playlist Mood (Bắt buộc 1):** `Midnight & Starlight` (đêm/ngủ), `Meadow & Morning Light` (sáng/làm việc), `The Quiet Companion` (tự sự/gia đình), hoặc `Slow Compass & Soul Grooves` (groove/tự do).
+2. **Playlist Album/EP (Bắt buộc 2):** Khớp với Album trên DistroKid (`Passing Cloud`, `Meadow & Moss`, `Unfolding`, `Dust & Groove`, `Sky & Tide`...).
+3. **Playlist Thế giới/Art (Tùy chọn 3):** `A Dream Town` hoặc `Weightless Horizons`.
+
+---
+
+*Không có gì phèn khi viết title có cảm xúc. Phèn là khi kênh 200 views mà title format như Drake.*

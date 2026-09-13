@@ -9,16 +9,17 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ## 📊 Dashboard
 
-### Coslient Free — 14 tracks
+### Coslient Free — 20 tracks
 
 | Playlist | Tracks | Genre / Vibe | Status |
 |---|---|---|---|
 | Meadow & Moss | 4 | Pastoral Acoustic Waltz · Chamber Folk · Intimate Male Whisper | 🔴 unreleased |
-| Unfolding | 4 | Chamber Pop · Indie Folk · Anthemic Builds | 🔴 unreleased |
+| Unfolding | 4 | Chamber Pop · Indie Folk · Anthemic Builds | 🟢 released |
 | Dust & Groove | 3 | Mid-tempo Indie Pop · Dreamy Groove · Breathy Female Vocal | 🔴 unreleased |
-| Sky & Tide | 3 | Contemplative Pop Folk · Mature Acoustic Singer-Songwriter · Philosophical Intimacy | 🔴 unreleased |
+| Sky & Tide | 4 | Contemplative Pop Folk · Mature Acoustic Singer-Songwriter · Philosophical Intimacy | 🔴 unreleased |
+| Porch & Hearth | 5 | Warm Acoustic Indie Folk · Pastoral Waltz · Porch Reflections | 🔴 unreleased |
 
-### Coslient Video — 18 tracks
+### Coslient Video — 17 tracks
 
 | Playlist | Tracks | Genre / Vibe | Status |
 |---|---|---|---|
@@ -26,11 +27,10 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Still Water | 3 | Indie Folk Ballad · Lo-Fi Nocturnal Folk · Intimate Porch Reflections | 🔴 unreleased |
 | The Mended Thread | 3 | Indie Folk Ballad · Chamber Pop Waltz · Handcrafted Warmth | 🔴 unreleased |
 | The Resonance | 2 | Gospel Folk-Rock · Soul-Inflected Indie Rock · Anthemic Choir | 🔴 unreleased |
-| Empty Stage | 3 | Indie Folk · Americana · Cinematic Dark Folk · Void Stage Trilogy | 🔴 unreleased |
-| Passing Cloud | 3 | Cinematic Folk-Pop · Indie Folk Ballad · Stomp-Clap Anthem · Healing | 🔴 unreleased |
-| Undrawn Lines | 1 | Alt-R&B Storytelling · Indie Groove · Neo-Victorian | 🔴 unreleased |
+| Empty Stage | 3 | Indie Folk · Americana · Cinematic Dark Folk · Void Stage Trilogy | 🟢 released |
+| Passing Cloud | 3 | Cinematic Folk-Pop · Indie Folk Ballad · Stomp-Clap Anthem · Healing | 🟢 released |
 
-> **Tổng: 32 tracks · 11 playlists · 0 released · 32 chờ đăng**
+> **Tổng: 37 tracks · 11 playlists · 3 released · 27 chờ đăng**
 
 ---
 
@@ -92,7 +92,9 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Unfolding [unreleased] — 4 tracks
+## 🟢 Unfolding [released] — 4 tracks
+
+**Released:** 2026-09-07
 
 **Genre / Vibe:** Chamber Pop, Indie Folk, Dreamy Synth-Pop, Anthemic Builds  
 **Mood:** Cathartic, triumphant, weightless, liberating, surreal nostalgia  
@@ -196,13 +198,13 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Sky & Tide [unreleased] — 3 tracks
+## 🔴 Sky & Tide [unreleased] — 4 tracks
 
 **Genre / Vibe:** Contemplative Pop Folk, Mature Acoustic Singer-Songwriter, Philosophical Intimacy  
 **Mood:** Reflective, serene, grounded, unburdened, deeply comforting  
-**Signature Sound:** Fingerpicked mahogany acoustic guitar, felt upright piano, deep upright bass, gentle brushed snare, rich acoustic string ensemble, mature female alto vocal, 78–84 BPM  
+**Signature Sound:** Fingerpicked mahogany acoustic guitar, felt upright piano, deep upright bass, gentle brushed snare, rich acoustic string ensemble, mature female alto vocal / warm male whisper, 78–84 BPM  
 **Cultural Anchors:** 1970s Singer-Songwriter Acoustic Warmth × Contemporary Folk Hymn  
-**Tracks:** 3
+**Tracks:** 4
 
 ### 1. Cast No Anchor
 - **Project:** [009](file:///Users/hoangkien/Youtube/coslient-free/projects/009) (Track 1)
@@ -236,6 +238,88 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Instrumentation:** Warm fingerpicked acoustic guitar, felt upright piano chords with long natural decay, deep resonant upright bass, gentle brushed acoustic snare, rich acoustic string ensemble
 - **Vocal:** Intimate mature female alto vocal, rich grounded tone, clear warm diction, conversational and tender delivery
 - **Date Added:** 2026-08-21
+
+### 4. Tide and Timber
+- **Project:** [009](file:///Users/hoangkien/Youtube/coslient-free/projects/009) (Track 4)
+- **About:** Thả mái chèo, để con thuyền nan gỗ tự trôi theo con nước sớm — không cần bờ bến cố định khi lòng không còn mang gánh nặng, biển rộng bao la sẽ nâng đỡ ta
+- **Genre:** Intimate Acoustic Indie Folk, Sea Ballad
+- **BPM / Time:** 80 BPM, 4/4
+- **Key:** D Major
+- **Duration:** ~3:45
+- **Instrumentation:** Fingerpicked acoustic guitar, resonant solo cello, soft ocean wave ambient foley, warm upright bass, gentle brush snare
+- **Vocal:** Warm intimate close-mic male/female folk vocalist, conversational, unhurried, deeply comforting
+- **Cultural Anchor:** Sufjan Stevens "Carrie & Lowell" × Gregory Alan Isakov coastal warmth
+- **Date Added:** 2026-08-26
+
+---
+
+## 🔴 Porch & Hearth [unreleased] — 5 tracks
+
+**Genre / Vibe:** Warm Acoustic Indie Folk, Nostalgic Americana, Mature Singer-Songwriter, Porch Reflections  
+**Mood:** Grounded, forgiving, peaceful, reflective, unburdened, deeply comforting  
+**Signature Sound:** Fingerpicked wooden acoustic guitar, warm low cello, felt upright piano, upright bass, mature deep raspy male baritone, 64–72 BPM  
+**Cultural Anchors:** Gregory Alan Isakov, late-era Johnny Cash, Townes Van Zandt, John Prine, Guy Clark  
+**Tracks:** 5
+
+### 1. Unwound
+- **Project:** [010](file:///Users/hoangkien/Youtube/coslient-free/projects/010)
+- **About:** Đặt chiếc đồng hồ quả quýt và chìa khóa dây cót bằng đồng xuống sau 40 năm — cho phép bản thân nghỉ ngơi, buông lỏng thân tâm và an trú trong vệt nắng 4 giờ chiều
+- **Genre:** Pastoral Indie Folk, Acoustic Chamber Pop Waltz
+- **BPM / Time:** 70 BPM, 6/8 swaying waltz
+- **Key:** —
+- **Duration:** ~3:30
+- **Instrumentation:** Fingerpicked Martin acoustic guitar, warm wooden cello, felt upright piano, brushed snare, gentle glockenspiel, soaring pedal steel guitar
+- **Vocal:** Intimate close-mic male vocal, warm breathy whisper, tender falsetto harmonies
+- **Cultural Anchor:** Pacific Northwest acoustic cabin session × Sufjan Stevens
+- **Date Added:** 2026-08-27
+
+### 2. The Open Air
+- **Project:** [012](file:///Users/hoangkien/Youtube/coslient-free/projects/012)
+- **About:** Những người bạn già rút chiếc kính bảo hộ da buộc dây đồng, kéo sụp xuống mắt và cùng nhau bứt phá ra đường trường — bỏ lại bốn mươi năm tiếng còi nhà máy để tìm lại sức sống, tự do và sự kiêu hãnh dưới ráng chiều hoàng hôn
+- **Genre:** Intimate Pastoral Folk, Warm Sunset Americana
+- **BPM / Time:** 64 BPM, 6/8 slow breathing pulse
+- **Key:** —
+- **Duration:** ~3:40
+- **Instrumentation:** Fingerpicked acoustic guitar, rich wooden cello, soft felt piano, mellow pedal steel, upright bass, brushed snare
+- **Vocal:** Deep velvety male baritone, close-mic breathy warmth, lush mellow three-part harmonies in chorus
+- **Cultural Anchor:** Gregory Alan Isakov "This Empty Northern Hemisphere" × Guy Clark intimate fireside warmth
+- **Date Added:** 2026-09-03
+
+### 3. Not Another Day
+- **Project:** [013](file:///Users/hoangkien/Youtube/coslient-free/projects/013)
+- **About:** Thức giấc sau giấc mơ hòn đảo cá voi giữa mây với chiếc gối đẫm nước mắt — quyết định gác lại công việc và guồng quay thành phố, gọi cho người bạn thân cũ uống cà phê rồi lên chuyến tàu chiều trở về nhà thăm gia đình vì "không thể chờ thêm một ngày nào nữa"
+- **Genre:** Warm Melodic Indie Folk, Intimate Acoustic Singer-Songwriter
+- **BPM / Time:** 74 BPM, 6/8 lilting waltz pulse
+- **Key:** —
+- **Duration:** ~3:30 – 3:45
+- **Instrumentation:** Fingerpicked acoustic guitar, lyrical wooden cello, soft felt piano, mellow pedal steel, light brushed snare
+- **Vocal:** Deep velvety male baritone, close-mic breathy warmth, lush three-part harmonies in chorus
+- **Cultural Anchor:** Gregory Alan Isakov "The Weatherman" × Cat Stevens "Father and Son"
+- **Date Added:** 2026-09-06
+
+### 4. Shelter
+- **Project:** [014](file:///Users/hoangkien/Youtube/coslient-free/projects/014)
+- **About:** Một thị trấn nhỏ ven hồ đón cơn mưa rào mùa hạ xua tan oi ả — mái bạt xanh tiệm bánh che mưa cho lữ khách, cùng chia dưa hấu đỏ au, thả thuyền giấy và ngân nga tiếng mandolin, chiều tà thắp đèn lồng và đêm về chìm vào giấc ngủ êm đềm dưới tiếng mưa
+- **Genre:** Pastoral Acoustic Folk, Gentle Front-Porch Waltz
+- **BPM / Time:** 72 BPM, 3/4 swaying waltz
+- **Key:** —
+- **Duration:** 3:13 (193s)
+- **Instrumentation:** Fingerpicked Martin acoustic guitar, wooden mandolin, upright felt piano, warm rustic cello, soft brushed cajon, tin whistle, vintage accordion
+- **Vocal:** Intimate close-mic male vocal, warm conversational baritone, gentle phrasing, lush acoustic harmonies
+- **Cultural Anchor:** Small European village tavern session × Gregory Alan Isakov coastal warmth
+- **Date Added:** 2026-09-09
+
+### 5. After the Pavement
+- **Project:** [015](file:///Users/hoangkien/Youtube/coslient-free/projects/015)
+- **About:** Ranh giới mặt đường nhựa kết thúc mở vào con đường đất đỏ thung lũng — cởi bỏ chiếc áo khoác phố thị, phủi lớp bụi đường khỏi tay áo, nhận ra chiếc đồng hồ dối trá suốt những năm tháng vội vã. Cậu bé ngày xưa trao ống sáo liễu vào bàn tay người đàn ông từng trải, chiều buông tĩnh lặng trên bậu cửa sổ gỗ với nụ cười nhẹ nhõm: "Plenty of time"
+- **Genre:** Gentle Sunny Acoustic Folk, Lighthearted Folk Ballad
+- **BPM / Time:** 78 BPM, 4/4
+- **Key:** G Major
+- **Duration:** ~3:15 – 3:30
+- **Instrumentation:** Fingerpicked Martin acoustic guitar, sweet melodious violin, gentle upright acoustic bass, crisp organic shaker, warm wooden cello, willow flute ambient tone
+- **Vocal:** Warm clear mid-range male vocals, relaxed conversational phrasing, audible smile in the delivery, two-part to three-part acoustic harmonies
+- **Cultural Anchor:** Sunny countryside valley porch session × Gregory Alan Isakov gentle acoustic warmth
+- **Date Added:** 2026-09-13
 
 ---
 
@@ -411,7 +495,9 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Empty Stage [unreleased] — 3 tracks
+## 🟢 Empty Stage [released] — 3 tracks
+
+**Released:** 2026-09-07
 
 **Genre / Vibe:** Indie Folk, Americana, Cinematic Dark Folk — Void Stage Trilogy  
 **Mood:** Liberated, defiant, raw, grounded, solitary power  
@@ -457,7 +543,9 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Passing Cloud [unreleased] — 3 tracks
+## 🟢 Passing Cloud [released] — 3 tracks
+
+**Released:** 2026-08-26
 
 **Genre / Vibe:** Cinematic Folk-Pop, Indie Folk Ballad, Stomp-Clap Anthem, Healing  
 **Mood:** Persevering, bittersweet, healing, reassuring, deeply comforting  
@@ -499,27 +587,4 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Instrumentation:** Fingerstyle acoustic guitar, soft upright bass, brushed snare & soft kick, comforting high piano notes, morning birdsong ambience, soaring solo cello climax
 - **Vocal:** Warm mature male folk vocalist, soothing, conversational, gentle → rich two-part harmonies, choir
 - **Cultural Anchor:** Intergenerational healing × Morning light breaking through
-- **Date Added:** 2026-08-19
-
----
-
-## 🔴 Undrawn Lines [unreleased] — 1 track
-
-**Genre / Vibe:** Alt-R&B Storytelling, Indie Groove, Neo-Victorian Steampunk  
-**Mood:** Brooding, resolute, introspective, defiant, bold  
-**Signature Sound:** Electric sub-bass, crispy electronic drums, hi-hats, warm piano, dithered synth, gospel choir swell  
-**Cultural Anchors:** Frank Ocean introspection, Tim Burton/Laika stop-motion, Caravaggio chiaroscuro  
-**Tracks:** 1  
-**Note:** Proposal stage — chưa có WAV master
-
-### 1. Undrawn Lines
-- **Project:** [video_071](file:///Users/hoangkien/Youtube/coslient-video/projects/video_071)
-- **About:** 3 giờ sáng trong xưởng vẽ — tách sứ nguội, bản nháp vò nát dưới sàn gỗ. Ai cũng có thể chỉ trỏ từ bóng tối, nhưng đôi chân phải bước ra đường mới đếm
-- **Genre:** Alt-R&B Storytelling / Indie Groove
-- **BPM / Time:** 97 BPM, 4/4
-- **Key:** A minor
-- **Duration:** ~4:18
-- **Instrumentation:** Electric sub-bass (49%), crispy electronic drums, active hi-hats, tambourine (31%), warm upright piano, dithered synth, swelling strings, gospel choir swell at final chorus (12%)
-- **Vocal:** Deep resonant male baritone, raw emotional delivery, close intimate mic, syncopated build → raw unrestrained belt
-- **Cultural Anchor:** Frank Ocean × 2020s alt-R&B production × Neo-Victorian Steampunk studio
 - **Date Added:** 2026-08-19

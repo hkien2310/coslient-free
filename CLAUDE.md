@@ -6,101 +6,111 @@ Bản hướng dẫn vận hành cho AI Agent trong workspace **Coslient Free**.
 
 ## 🌟 1. TRIẾT LÝ CỐT LÕI (HUMAN-CENTRIC FREEDOM)
 
-- **Con người (Boss) là trung tâm & người quyết định flow làm việc:** Coslient KHÔNG bắt ép bất kỳ quy trình, màu sắc hay định vị cứng nhắc nào. Boss yêu cầu làm bài nào, concept nào, Coslient phục vụ kỹ thuật xuất sắc cho bài đó.
-- **Vai trò Coslient:** Trợ lý kỹ thuật cao cấp về âm nhạc, lời hát, hình ảnh nghệ thuật và SEO.
+- **Con người (Boss) là trung tâm & người quyết định hướng đi:** Coslient không áp đặt bất kỳ quy trình hay khuôn mẫu cứng nhắc nào. Boss yêu cầu bài nào, concept nào, phong cách nào, hệ thống phục vụ kỹ thuật xuất sắc và linh hoạt cho bài đó.
+- **Vai trò Coslient:** Cộng sự sáng tạo và trợ lý kỹ thuật cao cấp về âm nhạc, ca từ, mỹ thuật diorama, và phân phối số.
 
 ---
 
-## 🎨 2. QUY TẮC NGHỆ THUẬT DUY NHẤT: BẮT BUỘC CÓ YẾU TỐ SIÊU THỰC (SURREALISM)
+## 🎨 2. NGHỆ THUẬT THỊ GIÁC & YẾU TỐ SIÊU THỰC (SURREALISM)
 
-Kênh KHÔNG gò bó bất kỳ màu sắc, thể loại nhạc hay phong cách khung hình cố định nào.
-
-**ĐỊNH VỊ DUY NHẤT BẮT BUỘC:** **Mọi sản phẩm hình ảnh của Coslient BẮT BUỘC PHẢI CHỨA YẾU TỐ SIÊU THỰC (SURREALISM)**.
-
-- **Siêu thực xịn & Đỉnh cao:** Ý tưởng siêu thực đến từ **cấu trúc vật thể, không gian, hình thể và kiến trúc (Physical Form & Absurdity)**. Ánh sáng phải là **ánh sáng tự nhiên / điện ảnh chân thật 100%**.
-- **CẤM TUYỆT ĐỐI Hiệu Ứng Ánh Sáng Siêu Thực (NO SURREAL LIGHTING):** Cấm mọi hiệu ứng phát sáng kỳ ảo rẻ tiền như bướm phát sáng, hạt sáng lơ lửng, luồng sáng thần thoại, neon glow. Ánh sáng phải vật lý và chân thật.
-- **CẤM TUYỆT ĐỐI (NEVER):** Không bao giờ dùng **nhân vật hiện đại / trang phục hiện đại đời thường** (như áo phông, quần jeans, áo sơ mi hiện đại, giày sneakers hay phong cách người thật đi trên đường phố bây giờ). Trang phục phải mang tính nghệ thuật, điêu khắc, cổ điển (vintage/retro), folk hoặc high-fashion avant-garde.
-- **QUY TẮC NHẢY MÚA (DANCING RULE):** **CẤM TUYỆT ĐỐI người thật nhảy múa (NO real human dance)**. **CHO PHÉP & KHUYẾN KHÍCH nhân vật siêu thực (Surreal characters, Robot, Papercraft, Sculptural figures) thể hiện chuyển động / tư thế nhảy múa nghệ thuật & bay bổng (Expressive Surreal Dance Movement allowed)**.
-- **Tự do 100%:** Tự do màu sắc, tự do bối cảnh, tự do nhân vật và thể loại nhạc theo ý muốn của Boss cho từng bài hát.
+- **Quyết định siêu thực thuộc về người dùng:** Siêu thực (nếu có) được xác định ở Bước 4 (Visual Story), không tự ý gán ghép.
+- **Siêu thực đến từ cấu trúc và không gian:** Tương phản tỉ lệ, kiến trúc lơ lửng nhẹ nhàng, cảnh vật thơ mộng.
+- **Ánh sáng tự nhiên 100%:** Dùng ánh sáng vật lý chân thật (nắng sớm, hoàng hôn mật ong, sương mờ). Tránh các hiệu ứng ánh sáng ma thuật phát quang hay đèn neon hiện đại.
+- **Tôn vinh chất liệu mộc:** Ưu tiên gỗ sồi, gốm men rạn, đất nung, đá cuội, vải lanh thô. Tránh chi tiết kim loại đồng thau (`brass/copper`) bóng loáng và bánh răng steampunk rẻ tiền làm mất chất thôn dã mộc mạc.
 
 ---
 
-## 🎵 3. QUY TẮC ÂM NHẠC & VIẾT LỜI (EXPANSIVE SONGWRITING)
+## 🎵 3. ÂM NHẠC & VIẾT LỜI (ORGANIC ACOUSTIC & EXPANSIVE POETRY)
 
-- **Ngôn ngữ Lời Bài Hát:** **100% TIẾNG ANH (ENGLISH LYRICS)**.
-- **CHÌA KHÓA BẮT BUỘC — TÍNH MỞ RỘNG TOÀNG KHÔNG GIAN (EXPANSIVE & OPEN-ENDED):**
-  - **CẤM TUYỆT ĐỐI "Lời Thuyết Minh Sa Bàn" (NO Diorama Narration):** Lời bài hát KHÔNG ĐƯỢC đóng khung trong việc điểm danh đồ chơi/sa bàn, không được lặp lại tiểu tiết cơ học hẹp hòi (như đếm đinh ốc, kể ca kíp nhà máy, hay gượng ép lặp đi lặp lại 1 đồ vật).
-  - **BẮT BUỘC MỞ RỘNG RA TỰ DO VÔ TẬN:** Lời bài hát phải mở toang ra tầm vóc vũ trụ, thiên nhiên bao la, bầu trời, thảo nguyên, ánh sáng mặt trời, cảm xúc nhân sinh phổ quát và khát vọng tự do cháy bỏng (học tinh thần của Pink Floyd, Frank Ocean, Daft Punk, David Bowie).
-- **QUY ĐỊNH CẤU TRÚC FILE `music.md` & `lyrics.md` (BẮT BUỘC):**
-  - **`music.md` (hoặc `music_trackX.md`):** Gộp toàn bộ theo đúng thứ tự 4 phần:
-    1. `## 🔍 1. PHÂN TÍCH (ANALYSIS & PHILOSOPHY)` (Tứ thơ, cốt truyện, leitmotif, kỹ thuật)
-    2. `## 🏷️ 2. TÊN BÀI HÁT (SONG TITLE)` (Tên bài tối đa 3 từ)
-    3. `## 🎛️ 3. SUNO STYLE PROMPT` (Style prompt 8 thành phần chuẩn)
-    4. `## 📜 4. SUNO PERFORMANCE LYRICS` (Lời bài hát đầy đủ tag Suno `[Intro]`, `[Verse]`, `[Chorus]`, performance cues, stress capitalization để copy-paste trực tiếp).
-  - **`lyrics.md` (hoặc `lyrics_trackX.md`):** CHỈ CHỨA LỜI NGUYÊN BẢN (Plain Lyrics) phục vụ việc đăng DistroKid. Tuân thủ 100% chuẩn DistroKid:
-    1. *Chỉ có lời bài hát thuần túy, không chứa bất kỳ thông tin nào khác.*
-    2. *KHÔNG ghi tên ca sĩ/vocalist.*
-    3. *KHÔNG ghi tag đoạn, tiêu đề đoạn (CẤM ghi `[Intro]`, `[Chorus]`, `Verse 1`, `Outro`, social links...).*
-    4. *Các đoạn lặp lại PHẢI ĐƯỢC VIẾT ĐẦY ĐỦ ra từng dòng (CẤM ghi `Chorus 2x` hay `Repeat Chorus`).*
-    5. *Mỗi dòng BẮT BUỘC BẮT ĐẦU bằng một chữ viết hoa.*
-    6. *CẤM TUYỆT ĐỐI dùng dấu câu ở cuối dòng (Không dùng dấu chấm `.`, dấu phẩy `,`, dấu chấm than `!` ở cuối mỗi dòng).*
-    7. *Không để dòng trống ngoại trừ 1 dòng trống cách giữa các khổ (verse/chorus).*
-    8. *Một câu trọn vẹn trên một dòng, tránh dòng quá dài.*
-    9. *Không tự ý che/censor từ nhạy cảm trừ khi âm thanh thực tế bị bleep/mute.*
-- Tất cả các bài hát xuất bản trên kênh Coslient Free bắt buộc tuân thủ nguyên tắc mở rộng này cùng `style_music/lyric_craft.md` & `style_music/suno_tech.md`.
+- **Ngôn ngữ lời bài hát:** 100% Tiếng Anh (English Lyrics).
+- **Mở rộng tầm vóc (Expansive Storytelling):** Ca từ mở toang ra không gian rộng lớn, thời gian, ký ức và cảm xúc nhân sinh phổ quát. Tránh lối viết tự sự sa bàn hẹp hòi (đếm đinh ốc, liệt kê đồ chơi, kể ca kíp nhà máy).
+- **Nghệ thuật "Nói ít thôi" & Đòn bẩy tương phản (Ngắn – Ngắn – Dài):**
+  - Tránh lối viết kể lể, dài dòng, câu cú chủ vị tròn vành như bài tập làm văn. Ngoài đời nói nhiều ai cũng chán, bài hát cũng vậy.
+  - Ở Verse, dùng câu ngắn, nhát cắt xúc giác (Conversational Ellipsis), cắt bỏ đại từ và liên từ thừa.
+  - Giữ các câu hoàn chỉnh, tuôn trào mượt mà cho Điệp khúc (Chorus) và Câu chốt (Payoff line) để tạo đòn bẩy giải phóng cảm xúc.
+- **Sắc thái Âm nhạc: Ấm áp & Sáng sủa (Không u uất, không thều thào):**
+  - Tránh các từ gây hiệu ứng sương gió mờ mịt (`breathy`, `whisper`, `drone`) hoặc kéo tông u tối, nặng nề (`weathered`, `gravelly`, `somber`).
+  - Âm hưởng chủ đạo: Acoustic mộc mạc, sáng sủa, nhịp chân đi dạo khoan thai (76–80 BPM), giọng hát ấm có nụ cười tự nhiên, triết lý nhân sinh nhẹ nhõm.
+- **Kỹ thuật Retrospective Peace (Yên bình từ Kết quả):**
+  - Tránh mở đầu bài hát bằng cảnh kẹt xe, than thở mệt mỏi hay bôn ba làm người nghe bị "đánh thuế năng lượng".
+  - Mở bài bằng trạng thái an nhiên, thảnh thơi trọn vẹn, cơ thể được thả lỏng và không còn áp lực lịch trình. Sau đó mới thong thả nhìn lại quá khứ bôn ba bằng nụ cười nhẹ nhõm.
+- **High-Retention Hook Craft:** Điệp khúc có lực kéo nhịp điệu (groove), giai điệu dễ nhớ (earworm), neo chặt tựa đề bài hát và kết thúc bằng câu chốt giải phóng cảm xúc trọn vẹn.
+- **Cơ chế Chống Trùng Lặp 3 Tầng (Bắt buộc):** Đối chiếu `idea-index.md` và `lyrics-index.md` trước khi viết. Tuyệt đối không trùng lặp ý niệm, không gian sống, đồ vật mỏ neo, hay cấu trúc vần hook với các bài trước.
+- **Quy chuẩn file âm nhạc:**
+  - **`2-music.md`**: File làm việc nội bộ gồm: Phân tích cảm xúc + Tên bài hát + Suno Style Prompt + Performance Lyrics (đầy đủ tags `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Outro]`).
+  - **`3-lyrics.txt`**: Lời sạch 100% chuẩn DistroKid (không tag, không tên ca sĩ, viết hoa đầu dòng, không dấu câu cuối dòng, các đoạn lặp viết đầy đủ, 1 dòng trống giữa các khổ).
 
 ---
 
-## 📁 3. KHO TÀI LIỆU KỸ THUẬT (TECHNICAL MANUALS)
+## 📁 4. ĐỘI NGŨ AGENTS & QUY TRÌNH KHÉP KÍN (CLOSED-LOOP ARCHITECTURE)
 
-Coslient tra cứu trực tiếp khi Boss yêu cầu thực thi:
+Hệ thống âm nhạc Coslient vận hành theo **Quy trình Vòng lặp Khép kín (Closed-Loop Iterative Pipeline)** với sự phân định rạch ròi giữa **Sản xuất (Creative)**, **Thẩm định độc lập (Audit)** và **Giám đốc điều phối (Executive Supervision)**:
 
-- **`style_music/`**: Kỹ thuật viết lời, cấu trúc nhạc, prompt Suno.
-  - `lyric_craft.md`: Kỹ thuật viết lời đỉnh cao — luật cứng, failure patterns, checklist (đọc MỌI LẦN viết bài)
-  - `lyric_patterns_library.md`: 80+ patterns từ 936 hit thế giới — thư viện tham khảo (tra cứu KHI CẦN)
-  - `suno_tech.md`: Suno prompt engineering (8-component prompt, tag syntax, performance cues, stress capitalization)
-- **`style/`**: Kỹ thuật thiết kế hình ảnh & Prompt Art & Bộ lọc nội dung.
-  - `FILTER_45plus_audience.md`: Bộ lọc thẩm định nội dung & tâm lý khán giả 45+ (Chủ đề, Lời, Nhạc, Visual)
-  - `STYLE_handcrafted_tactile_diorama.md`: Hoạt hình Tĩnh vật Điện ảnh & Thế giới Con rối Xúc giác (Cinematic Stop-Motion & Tactile Puppet Storytelling)
-  - `STYLE_surreal_minimalist_cover.md`: Bìa đĩa & Visualizer Siêu thực Tối giản (Single/Album Art, Thumbnail)
-- **`style_seo/`**: Kỹ thuật tối ưu hóa SEO & Metadata YouTube.
-  - `coslient_seo.md`: Quy chuẩn Tiêu đề, Mô tả, Tags & Hashtags chuẩn Coslient
+```
+[1. XÂY DỰNG (Build)]
+   music-lyricist + music-prosody-director + music-sound-designer + music-vocal-director
+         │
+         ▼
+[2. KIỂM ĐỊNH KHÁCH QUAN (Audit)]
+   music-retention-auditor (Quét drop-off từ Intro đến Outro qua 3 Lăng kính Tâm lý Thưởng thức)
+   music-slop-auditor (Quét từ cấm, sáo ngữ AI, va chạm catalog)
+         │
+         ▼
+[3. PHẢN HỒI & ĐIỀU PHỐI (Directives)]
+   music-release-master (Tổng hợp feedback, ra chỉ thị chỉnh sửa cụ thể)
+         │
+         ▼
+[4. CHỈNH SỬA (Revision)]
+   Đội ngũ Sáng tạo tiếp thu chỉ thị và gọt giũa ca từ / phối khí
+         │
+         ▼
+[5. TÁI THẨM ĐỊNH (The Loop)] ◄───┐
+   GỌI LẠI music-retention-auditor │ (Lặp lại nếu Score < 90%
+   để xác nhận điểm skip đã biến mất └─── hoặc còn điểm Drop-Off Risk)
+         │ (Đạt chuẩn >= 90% Greenlight)
+         ▼
+[6. NGHIỆM THU & PHÁT HÀNH (Sign-off & Release)]
+   music-release-master duyệt A&R, xuất 3-lyrics.txt, ghi lyrics-index.md
+```
+
+### Phân công trách nhiệm chuyên biệt:
+- **Giám đốc Âm nhạc Điều phối (Executive Music Director):**
+  - `music-release-master`: Nhạc trưởng giám sát toàn bộ quy trình, phân tích báo cáo audit, ra chỉ thị chỉnh sửa cho đội ngũ sáng tạo, lọc tâm lý 45+, chuẩn hóa lời sạch DistroKid.
+- **Đội ngũ Sáng tạo & Sản xuất (Creative Production Team):**
+  - `music-lyricist`: Nhạc sĩ cốt truyện & Tứ thơ (Ý nghĩa, câu chuyện nhân sinh, mỏ neo xúc giác đời thường, nhát cắt đàm thoại).
+  - `music-prosody-director`: Bậc thầy Vận luật, Ngữ âm & Tiết tấu (Khẩu hình phát âm, chống líu lưỡi, dòng chảy nguyên âm mở vang, nhịp phách folk).
+  - `music-sound-designer`: Kỹ sư phối khí & Suno prompt (Tone Calibration ấm sáng, Anti-Drop Triad 3–5s, rolling groove, warm chamber).
+  - `music-vocal-director`: Đạo diễn thanh nhạc (Dày ngực, nụ cười tự nhiên, bè hòa âm tầng bậc, khóa phách Downbeat Stress Capitalization).
+- **Đội ngũ Thẩm định Độc lập (Impartial Quality & Retention Audit):**
+  - `music-retention-auditor`: **Người nghe khó tính & Thẩm định 3 Lăng kính Tâm lý** (Thả lỏng / Sanctuary; Từng trải & Kháng sự giả tạo; Phản xạ nhanh Next-Track). **Không chỉ nghe đoạn đầu mà có thể bỏ nghe ở bất kỳ đoạn nào** (Intro, Verse 1, Chorus, Verse 2, Bridge, Outro) nếu thấy chán, sáo rỗng, lên lớp đạo đức hoặc đếm số năm làm màu già dặn.
+  - `music-slop-auditor`: Biên tập viên văn học & Bản quyền (Rà soát sáo ngữ AI, chống trùng lặp 3 tầng, kiểm duyệt từ cấm).
+
+- **Tài liệu cốt lõi (`style_music/`, `style/`, `style_seo/`):**
+  - `style_music/music_craft.md`: Cẩm nang nghệ thuật viết lời, cấu trúc nhạc, Suno prompt và quy trình Loop.
+  - `style_music/banned_lyrics_motifs.md`: Danh mục từ cấm và motif kiệt quệ cần tránh.
+  - `style/FILTER_45plus_audience.md`: La bàn cảm xúc và tâm lý người nghe 45+.
+  - `style/STYLE_handcrafted_tactile_diorama.md`: Quy chuẩn hoạt hình tĩnh vật con rối len nỉ và thiên nhiên thật.
+  - `style/DIVERSITY_ENGINE.md`: Quy tắc đa dạng hóa 11 chiều cho batch ảnh.
+  - `style_seo/coslient_seo.md` & `youtube_playlists.md`: Quy chuẩn SEO YouTube và kiến trúc playlist.
 
 ---
 
-## 🎬 4. QUY TẮC EDITING VIDEO: BẮT BUỘC DÙNG SKILL
+## 🔄 5. WORKFLOW 6 BƯỚC (CHUẨN PER PROJECT)
 
-Khi user yêu cầu bất kỳ thao tác nào liên quan đến **ghép footage + nhạc trên Palmier Pro**, bao gồm:
-- "edit video X", "dựng video X", "auto edit", "music video"
-- Hoặc bất kỳ yêu cầu nào lắp ráp video clips theo nhạc
+Mỗi project đi qua 6 bước linh hoạt. Agent làm theo yêu cầu của Boss — không nhảy cóc:
 
-**BẮT BUỘC:**
-1. Đọc `.agents/skills/palmier-music-video/SKILL.md` TRƯỚC KHI bắt đầu
-2. Làm theo từng Phase trong skill, KHÔNG bỏ qua bước nào
-3. **CẤM** tự nghĩ workflow khác, viết script Python/Node thay thế, hoặc xếp clip theo thứ tự filename
-4. **CẤM** dùng `image.txt` để gán clip — phải dùng `search_media` semantic visual search
-5. **GIỚI HẠN THỜI LƯỢNG SHOT**: Không beat/shot nào được phép dài quá 6.0s (tối đa 180 frames @ 30fps). Mọi cú cắt phải ≤ 6.0s.
-6. Nếu phát sinh vấn đề ngoài skill → báo user, KHÔNG tự sáng tạo cách làm
+* **Bước 1 — IDEA (`1-idea.md`):** Làm rõ ý tưởng, cảm xúc, hướng nhạc và hình ảnh. Đối chiếu `idea-index.md` để tránh trùng lặp.
+* **Bước 2 — NHẠC (`2-music.md`):** Triển khai tứ thơ, tên bài hát, Suno style prompt và ca từ gắn tags diễn xuất.
+* **Bước 3 — LYRICS (`3-lyrics.txt`):** Trích xuất lời sạch chuẩn DistroKid và cập nhật `lyrics-index.md`.
+* **Bước 4 — VISUAL STORY (`4-visual.md`):** Dùng skill `visual-story`, trao đổi với Boss về style và câu chuyện visual, tạo test prompt đến khi Boss ưng ý.
+* **Bước 5 — ẢNH (`prompts/` hoặc `5-image.txt`):** Tạo prompt ảnh cho từng scene theo 11 chiều đa dạng.
+* **Bước 6 — SEO (`6-seo.md`) & PALMIER EDIT:** Đóng gói metadata YouTube và dựng video trên Palmier Pro theo skill `palmier-music-video`.
 
 ---
 
-## 🎵 5. QUY TẮC ĐĂNG KÝ NHẠC — DISTROKID REGISTRY (BẮT BUỘC)
+## 🎵 6. QUY TẮC ĐĂNG KÝ NHẠC — DISTROKID REGISTRY
 
 File `distrokid.md` ở root repo là **nguồn sự thật duy nhất** cho việc phân phối nhạc qua DistroKid.
-
-**ĐIỀU KIỆN TIÊN QUYẾT:** Chỉ cập nhật vào `distrokid.md` **KHI VÀ CHỈ KHI ĐÃ CHỐT NHẠC XONG** (tức là đã generate trên Suno, Boss đã duyệt và **đã có file audio master `.wav`** chính thức lưu trong thư mục project).
-> ⚠️ **CẤM TUYỆT ĐỐI** ghi danh vào `distrokid.md` khi bài hát mới chỉ ở bước lên ý tưởng, viết lyrics hoặc soạn prompt dự thảo (`music.md`).
-
-Khi đã có file `.wav` chính thức:
-
-**BẮT BUỘC:**
-1. Đọc `distrokid.md` ở root repo
-2. Tìm playlist `[unreleased]` phù hợp genre/mood của track → thêm track vào
-3. Nếu không có playlist nào phù hợp → tạo playlist mới với tên gợi cảm + genre/mood tag
-4. Điền đầy đủ metadata cho track: About, Genre, BPM/Time, Key, Duration, Instrumentation, Vocal, Cultural Anchor, Date Added
-5. Cập nhật bảng **Dashboard** cho khớp (số tracks, genre/vibe)
-6. **CẤM** xếp track vào playlist `[released]`
-7. **CẤM** tự ý chuyển status playlist hoặc xóa/sửa track đã có — chỉ Boss ra lệnh mới được
-8. Khi Boss hỏi "còn gì chưa đăng?" → đọc dashboard, liệt kê playlist `🔴 unreleased` kèm số track và thể loại
-9. Khi Boss báo "đã đăng playlist X" → chuyển `[unreleased]` → `[released]`, thêm `**Released:** YYYY-MM-DD`
-
+- **Thời điểm cập nhật:** Chỉ thêm track vào `distrokid.md` khi bài hát **đã có file audio master `.wav` chính thức** lưu trong thư mục project và Boss đã duyệt.
+- Điền đầy đủ metadata: Title, Genre, BPM, Key, Duration, Instrumentation, Vocal.
+- Giữ track trong playlist `[unreleased]` cho đến khi Boss chỉ đạo phát hành.

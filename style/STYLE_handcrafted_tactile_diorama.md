@@ -1,117 +1,64 @@
-# STYLE: Handcrafted Tactile Diorama
-**v19.0** · Coslient Free · Dùng cho mọi ảnh và video của kênh.
+# STYLE: Needle-Felted Wool Stop-Motion Diorama
+*Phiên bản Nghệ thuật Sống động · Coslient Free*
 
-Style này tạo ra thế giới hoạt hình thủ công trông như phim điện ảnh — nhân vật trông như búp bê nghệ thuật được điêu khắc tay, sống trong không gian bằng gỗ, đá, vải thật. Không phải 3D game, không phải tranh vẽ, không phải người thật.
+Style này kiến tạo một thế giới hoạt hình con rối thủ công điện ảnh (**Handcrafted Stop-Motion Puppets in a Majestic Real World**) mang tinh thần của các tác phẩm kinh điển như *Guillermo del Toro's Pinocchio, Kubo and the Two Strings*:
 
----
-
-## 1. Nhân vật
-
-**Dáng người và khuôn mặt:** Tự do hoàn toàn. Cao gầy, thấp mập, vai rộng, nhỏ nhắn — tuỳ câu chuyện. Mặt vuông, mặt tròn, mặt dài, mặt nhọn — tuỳ tính cách. Không ép một khuôn mẫu duy nhất.
-
-**3 thứ bắt buộc giữ nguyên bất kể nhân vật nào:**
-- **Da:** Mịn lì như đất nung mờ, hơi hồng đào tự nhiên. Không bóng nhờn, không lỗ chân lông, không xơ lông nỉ.
-- **Tóc:** Có thớ sợi nhìn rõ từng sợi (fine fiber strands). Không phải khối nhựa đúc trơn bóng.
-- **Mắt:** Có hồn, có đốm sáng nhỏ (catchlight). Không phải mắt chấm đen vô cảm.
-
-**Từ khoá gốc:** `smooth matte peach skin`, `sculpted hair with fine fiber strands`, `detailed expressive eyes`.
+* **Vật thể nhân tạo (Nhân vật, Trang phục, Đồ vật, Kiến trúc):** Được chế tác thủ công diorama thu nhỏ tinh xảo từ len nỉ ghim kim, gỗ mộc gọt đẽo, gốm men rạn, tường vôi và đá cuội gọt tay (`needle-felted puppet, handcrafted miniature stonework, carved timber, miniature stucco`).
+* **Môi trường tự nhiên (Nước suối, Biển, Trời mây, Rừng cây, Vách núi):** Là **thiên nhiên điện ảnh chân thật 100%** — mặt nước lấp lánh sóng tự nhiên, bầu trời bao la với ráng chiều sống động, đồi cỏ bạt ngàn.
 
 ---
 
-## 2. Trang phục
+## 🎨 1. QUY CHUẨN NGHỆ THUẬT NHÂN VẬT (PUPPET CRAFTSMANSHIP)
 
-**Nguyên tắc phối lớp:** Trang phục luôn có nhiều lớp chồng lên nhau, không bao giờ chỉ 1 mảng vải đơn điệu:
-- **Lớp ngoài:** Đứng phom, thô, sờn mép (áo khoác, măng-tô, áo choàng).
-- **Lớp trong:** Mềm, ôm dáng, có nếp nhăn tự nhiên (áo len, sơ mi, váy).
-- **Phụ kiện thủ công:** Đai da, túi đeo, tạp dề, cúc gỗ, đường chỉ khâu tay.
+Mỗi nhân vật là một bản thể độc bản, mang nét mặt hiền từ, đôn hậu và giàu cảm xúc:
 
-**Chất liệu:** Chỉ dùng vải/da tự nhiên — nhìn rõ thớ dệt, vân da, sợi len. Cấm nilon, polyester, nhựa.
-
-**Nhất quán thời tiết:** Mọi nhân vật trong cùng 1 cảnh mặc đồ cùng mùa. Không được 1 người mặc áo len mùa đông, 1 người mặc váy mỏng mùa hè.
-
----
-
-## 3. Thế giới xung quanh
-
-- **Máy quay ở BÊN TRONG thế giới:** Nhìn như đang đứng trong không gian đó, không phải nhìn từ ngoài vào mô hình trên bàn.
-- **Mọi bề mặt đều có tuổi:** Gỗ mòn, đá rêu, vôi loang, gốm thô — không có gì mới tinh hay nhẵn bóng công nghiệp.
-- **Không khí luôn có hạt trôi:** Bụi nắng, sương, phấn hoa, tàn lửa — bất kỳ thứ gì khiến không gian có chiều sâu và cảm giác "đang sống".
-- **Chất phim nhựa:** Hạt grain nhẹ, bokeh tự nhiên, depth of field rõ ràng.
+* **Tỉ lệ & Vóc dáng thanh thoát:**
+  - Dáng người cao ráo, thanh mảnh, tư thế đĩnh đạc (`tall elongated slender frame, lanky limbs standing with dignified posture`).
+  - Cẳng chân và cánh tay nhỏ nhắn, bàn tay len nỉ gọn gàng xỏ trong giày hoặc ủng nhỏ may chỉn chu (`delicate slender limbs in petite leather boots, small neat felt hands`).
+  - Tránh tỉ lệ đầu to mình ngắn (chibi) hoặc cành củi gãy gập rùng rợn.
+* **Khuôn mặt điêu khắc liền khối (Seamless Sculpted Face):**
+  - Mặt được tạo hình từ một khối len nỉ nén đặc, mịn màng, tông da đào ấm tự nhiên, hoàn toàn không ráp nối hay lộ đường chỉ khâu (`completely seamless unstitched peach felt face sculpted from solid dense wool roving with zero visible thread seams`).
+  - Đa dạng hóa hình khối mặt: mặt dài cằm vuông, trái xoan thanh tú, hoặc gầy má hóp hiền từ.
+  - Điểm nhận diện đặc trưng (Visual Hook): ria mép tỉa gọn, râu quai nón bạc, búi tóc trâm gỗ, hoặc cặp kính tròn nhỏ trễ mũi.
+* **Trang phục may đo tinh xảo giấu chỉ:**
+  - Áo măng-tô dạ dáng dài, áo len vặn thừng ấm áp, áo ghi-lê mộc, quần vải lanh ống suông xếp ly phẳng phiu (`tailored wool coat with concealed clean seams, cable-knit sweater, pleated linen trousers`).
+  - Tránh quần áo hiện đại (quần jeans xanh, áo thun đồ họa, giày sneaker).
 
 ---
 
-## 4. Ánh sáng & Màu sắc
+## 🌲 2. KHÔNG GIAN THIÊN NHIÊN & VẬT LIỆU MỘC (MATERIAL BALANCE)
 
-- **Nguồn sáng thật:** Ánh sáng luôn đến từ nguồn cụ thể — cửa sổ, đèn dầu, nến, nắng, trăng. Không có ánh sáng vô hồn từ hư không.
-- **Màu tự nhiên, tươi và rõ:** Cỏ xanh mướt, gỗ nâu sẫm, len trắng ngà, đá xám — giữ nguyên sắc tự nhiên, không bị bạc màu hay xám xịt.
-- **Điểm nhấn vàng bơ:** Mỗi cảnh cần 1 chi tiết nhỏ màu vàng bơ (butter-yellow) làm điểm neo mắt — tách trà, khăn quàng, bông hoa, cuộn len.
-- **Cấm ám xanh bệt:** Không để cả khung hình bị phủ xanh lạnh. Nếu cảnh đêm trăng thì phải có accent ấm (nến, đèn dầu) cân bằng.
-- **Cấm bạc màu:** Không để hình bị nhạt nhòa, trôi màu, xám xịt.
-
----
-
-## 5. Góc máy & Bố cục
-
-- **Cỡ cảnh linh hoạt:** Đại cảnh (extreme wide), toàn thân (full-body), trung cảnh (medium), cận cảnh (close-up), macro.
-- **Quy tắc chống mất chân (Khi muốn lấy toàn thân):**
-  - **BẮT BUỘC:** Dùng từ khóa `full-body film still`, `head-to-toe` hoặc `standing full length`.
-  - **Khóa điểm chạm đất:** Luôn mô tả **quần + giày/bốt + mặt sàn** (ví dụ: `wearing brown trousers and lace-up leather boots standing on the wooden floor`). Khi AI phải vẽ giày chạm đất, nó buộc phải vẽ trọn vẹn cả người.
-  - **TUYỆT ĐỐI KHÔNG DÙNG TỪ `3/4` hoặc `three-quarter`:** Trong điện ảnh, "3/4 shot" là cỡ cảnh cắt ngang đầu gối/đùi. Dùng từ này AI sẽ lập tức cắt mất bàn chân và cẳng chân.
-  - Các từ như `over-the-shoulder`, `medium shot`, `portrait` chỉ dùng khi chủ đích muốn chụp nửa người.
-- **Bố cục:** Đa dạng — rule of thirds, leading lines, negative space, khung lồng khung. Luôn có chiều sâu: tiền cảnh mờ → trung cảnh nét → hậu cảnh bokeh.
+* **Tôn vinh vật liệu mộc mạc:**
+  - Ưu tiên chất liệu hữu cơ: Gỗ sồi, gỗ thông gọt đẽo, đất nung (`terracotta`), gốm rạn, đá cuội bờ suối, vải lanh thô.
+  - Tránh các chi tiết kim loại đồng thau (`brass/copper`) bóng loáng, bánh răng cưa máy móc vì dễ kéo AI vào phong cách steampunk công nghiệp rẻ tiền làm mất chất mộc thôn dã.
+* **Giao thoa giữa Mô hình và Thiên nhiên:**
+  - Con rối và đồ vật nhỏ được đặt tương phản tự nhiên với không gian rộng lớn: dòng suối chảy qua đá cuội thật, đồi cỏ ba lá rập rờn trong gió, ánh hoàng hôn chiếu xuyên qua rặng thông.
 
 ---
 
-## 6. Bảng cấm
+## 💡 3. ÁNH SÁNG & BẢNG MÀU ĐIỆN ẢNH (CINEMATIC COLOR & LIGHT)
 
-Chia làm 2 loại:
-
-### Loại A — Phải nhét vào negative prompt (AI hay tự trôi sang)
-
-| Cấm cái gì | Từ khoá chặn | Tại sao |
-|:---|:---|:---|
-| 3D CGI bóng nhựa | `no 3D CGI, no plastic gloss` | Mất chất thủ công |
-| Biến dạng lùn/đầu to | `no deformed chibi, no grotesque dwarf, no bulbous nose` | Thành Pixar Up |
-| Đồ tổng hợp | `no modern synthetic clothing` | Phá thế giới mộc |
-| Steampunk | `no brass gears, no clockwork, no steampunk` | Lạc tông |
-| Tranh 2D | `no oil painting, no 2D illustration, no flat digital painting` | Mất khối 3D |
-| Người thật | `no photorealistic real human, no live-action` | Mất tính cách điệu |
-| Búp bê nhồi bông | `no plush doll` | Thành đồ chơi nỉ |
-| Ám xanh | `no heavy blue tint` | Bệt màu |
-| Bạc màu | `no faded desaturated colors, no washed out tones` | Xám xịt |
-| Sa bàn bên ngoài | `no paper-textured face, no tabletop toy` | Mất góc nhìn đắm chìm |
-
-### Loại B — Không cần nhét vào prompt, chỉ cần đừng nhắc đến
-
-| Cấm cái gì | Tại sao |
-|:---|:---|
-| Ống nhòm, kính viễn vọng cầm tay | Cliche sáo rỗng |
-| La bàn | Kéo AI sinh thêm bánh răng kim loại |
-| Đồ đồng/brass/copper | Ánh kim loại chói, kéo về steampunk |
-| Đá obsidian | Bóng gương sắc lạnh, dark fantasy |
-| Quần áo chắp vá patchwork | Rách rưới, phá chất cao cấp |
-| Cổ dài, mặt đa giác gỗ | Dị dạng |
+* **Ánh sáng tự nhiên:**
+  - Ánh sáng ban ngày khuếch tán dịu nhẹ (`soft diffused daylight`), nắng xiên ban mai trong trẻo, hoặc ánh hoàng hôn mật ong ấm áp ($2200\text{K} - 3000\text{K}$).
+  - Tránh các hiệu ứng ánh sáng ma thuật phát quang phi vật lý hay đèn neon hiện đại.
+* **Điểm nhấn màu sắc ấm (Warm Focal Accent):**
+  - Mỗi khung hình nên có một chi tiết nhỏ mang gam màu ấm (vàng bơ, vàng mật ong, cam đất nung, nâu hổ phách) chiếm khoảng 5–10% khung hình làm điểm neo thị giác (chiếc khăn quàng, tách trà, chiếc túi xách da, sổ tay, bông hoa dại).
 
 ---
 
-## 7. Cách viết prompt
+## 🛡️ 4. KINH NGHIỆM PROMPT ĐỂ VƯỢT QUA BỘ LỌC AN TOÀN (SAFETY BEST PRACTICES)
 
-### Công thức:
+Các mô hình AI thế hệ mới (Imagen, Midjourney, DALL-E) có các bộ lọc từ khóa tự động. Để tránh kích hoạt báo động giả (False Positive) khiến AI từ chối vẽ:
+* Không dùng `maple leaves` (dễ trùng mã lách luật cần sa) $\rightarrow$ Dùng `oak leaves, willow leaves, birch leaves`.
+* Không dùng `flowerpot` hay `pot` (tiếng lóng chất cấm) $\rightarrow$ Dùng `ceramic planter, terracotta saucer, ceramic vase`.
+* Không dùng `crystalline` hay `crystals` $\rightarrow$ Dùng `glistening, sparkling, clear, pristine, shimmering`.
+* Không dùng `tobacco, pipe` $\rightarrow$ Dùng `pocket watch, wooden flute, tea cup`.
+* Không dùng từ ngữ gợi thương tích như `knife, blade` $\rightarrow$ Dùng `carved, artisan chisel, sculpted`.
 
-```
-A cinematic 35mm film still from a handcrafted physical animation film,
-[BỐI CẢNH],
-[NHÂN VẬT: dáng người + hình mặt + smooth matte peach skin + expressive eyes + sculpted hair with fine fiber strands],
-wearing [TRANG PHỤC ĐA TẦNG],
-[ĐIỂM NHẤN VÀNG BƠ: a butter-yellow (vật thể nhỏ)],
-[HÀNH ĐỘNG],
-[ÁNH SÁNG + HẠT KHÔNG KHÍ],
-rich tactile textures, cinematic shallow depth of field,
-[NEGATIVE LOẠI A]
-```
+---
 
-### Negative gọn (copy-paste):
+## 📐 5. CẤU TRÚC MASTER PROMPT MẪU (FLEXIBLE TEMPLATE)
 
-```
-no 3D CGI, no plastic gloss, no deformed chibi, no grotesque dwarf, no bulbous nose, no brass gears, no clockwork, no steampunk, no modern synthetic clothing, no oil painting, no 2D illustration, no flat digital painting, no photorealistic real human, no live-action, no plush doll, no heavy blue tint, no faded desaturated colors, no washed out tones, no paper-textured face, no tabletop toy.
+```text
+A detailed needle-felted stop-motion animation scene, [CỠ CẢNH VÀ GÓC MÁY], [NHÂN VẬT & DÁNG NGƯỜI: a traveler puppet with a tall slender frame standing with relaxed posture], distinctive [HÌNH KHỐI MẶT & VISUAL HOOK], completely seamless unstitched peach felt skin sculpted from solid dense wool roving with zero visible thread seams, wearing [TRANG PHỤC MAY ĐO GIẤU CHỈ] over delicate legs in petite leather boots, small neat felt hands [HÀNH ĐỘNG CỤ THỂ], [ĐIỂM NHẤN MÀU ẤM: a single warm amber/yellow detail], set against [BỐI CẢNH THỦ CÔNG & THIÊN NHIÊN THẬT], [ÁNH SÁNG HOÀNG HÔN / NẮNG SỚM], rich tactile felt craft, realistic water, completely seamless unstitched craftsmanship --ar 16:9
 ```

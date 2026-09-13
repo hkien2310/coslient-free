@@ -1,0 +1,25 @@
+# UNIVERSAL IMAGE-TO-VIDEO MASTER PROMPT — VIDEO 010 (THE UNRUSHED HOUR)
+# (Dùng chạy cho tất cả ảnh trên Kling 1.5/2.0, Runway Gen-3 Alpha, Hailuo Minimax, Luma Dream Machine, Wan2.1)
+
+========================================================================================
+🔥 1. MASTER UNIVERSAL PROMPT (LỆNH GỐC DÙNG CHUNG CHO MỌI ẢNH - CHUYỂN ĐỘNG CAO)
+========================================================================================
+
+Dynamic cinematic real-time 24fps motion, vibrant stop-motion tactile animation, no slow motion. The wooden windmill canvas sails rotate steadily in the wind, casting moving shadows across the ground. Characters naturally move with expressive wooden head turns, gentle eye blinks, hand gestures, and subtle body shifts. Loose linen tunics, aprons, and wool scarves billow organically in the continuous breeze. Wild daisy meadows and tree branches sway rhythmically. Tiny needle-felted animals move actively—birds fluttering wings, cats flicking tails, and steam swirling upward from hot tea kettles. Smooth cinematic camera glide with rich depth parallax. Crisp tactile textures, stable handcrafted puppet anatomy, zero AI morphing, zero glitching, zero melting.
+
+
+========================================================================================
+🎬 2. BỘ PRESET CHUYỂN ĐỘNG THEO TỪNG DẠNG CẢNH (ĐẨY CAO TỐI ĐA ĐỘ ĐỘNG)
+========================================================================================
+
+--- [A] CẢNH CỐI XAY GIÓ, ĐỒNG CỎ & ĐẠI CẢNH NGOÀI TRỜI (GÓC RỘNG / DRONE / TRACKING) ---
+Dynamic cinematic drone push-in and low-angle pan, real-time speed. The massive wooden windmill sails rotate continuously and smoothly with wind resistance. Rolling needle-felted daisy fields ripple like waves in a strong steady breeze. Pigeons take off and flutter around the wooden railings. Characters walk along the pebble trail with distinct footsteps, coat hems swaying. Fluffy wool clouds drift naturally across the bright sky. Crisp macro focus, zero morphing, fluid stop-motion realism.
+
+--- [B] CẢNH NHÂN VẬT SINH HOẠT & LÀNG XÓM (MEDIUM / CROWD / TƯƠNG TÁC) ---
+Lively cinematic eye-level tracking camera, natural 24fps motion. Handcrafted wooden villagers actively converse, nod, chuckle, and gesture with articulated wooden hands. Characters walk, pour tea, or scatter grain with fluid purposeful motion. Clothing fabrics flutter naturally in the breeze. Nearby needle-felted pets shift, sniff, and wag tails. Warm natural sunlight shifts subtly across the timber textures. Solid stable geometry, zero face warping, zero plastic sliding.
+
+--- [C] CẢNH CẬN CẢNH / TĨNH VẬT / HƠI NƯỚC / TÁCH TRÀ (MACRO / STILL LIFE) ---
+Intimate dynamic macro push-in camera with subtle floating drift, real-time speed. Delicate needle-felted steam continuously swirls and rises from the hot kettle and teacup. Golden dust motes dance in the diagonal sunbeams. Subtle natural wind rustles the chamomile sprigs on the wooden table. Subtle finger motions as wooden hands interact with objects or set down the brass key. Rich tactile focus, zero flickering, hyper-detailed handcrafted physics.
+
+--- [D] CẢNH SÔNG NƯỚC, BẾN THUYỀN & ĐỘNG VẬT (WATER / ANIMALS / BIRDS) ---
+Cinematic lateral tracking motion across the water, real-time 24fps. River surface ripples actively with crystal reflections. Miniature wooden skiffs bob rhythmically on the waves. Needle-felted ducks swim energetically, kicking up tiny water ripples. Villagers on the timber dock pull ropes and adjust fishing nets with rhythmic, grounded arm movements. Pure fluid stop-motion animation, physically accurate movement, zero melting.
