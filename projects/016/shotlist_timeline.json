@@ -1,0 +1,391 @@
+{
+  "audio_file": "The Father's Bough.wav",
+  "bpm": 143.5546875,
+  "total_shots": 64,
+  "shots": [
+    {
+      "shot_id": "001",
+      "time": "00:00.00 -> 00:03.85",
+      "duration": "3.85s",
+      "lyrics": "[Nhạc dạo Intro]"
+    },
+    {
+      "shot_id": "002",
+      "time": "00:03.85 -> 00:07.11",
+      "duration": "3.26s",
+      "lyrics": "[Nhạc dạo Intro]"
+    },
+    {
+      "shot_id": "003",
+      "time": "00:07.11 -> 00:10.36",
+      "duration": "3.25s",
+      "lyrics": "[Nhạc dạo Intro]"
+    },
+    {
+      "shot_id": "004",
+      "time": "00:10.36 -> 00:13.61",
+      "duration": "3.25s",
+      "lyrics": "[Nhạc dạo Intro]"
+    },
+    {
+      "shot_id": "005",
+      "time": "00:13.61 -> 00:16.88",
+      "duration": "3.27s",
+      "lyrics": "Timber gate open on the gravel lane"
+    },
+    {
+      "shot_id": "006",
+      "time": "00:16.88 -> 00:20.15",
+      "duration": "3.27s",
+      "lyrics": "Small canvas shoes in the tall orchard grass"
+    },
+    {
+      "shot_id": "007",
+      "time": "00:20.15 -> 00:23.45",
+      "duration": "3.30s",
+      "lyrics": "Morning light warm on the weathered pine porch"
+    },
+    {
+      "shot_id": "008",
+      "time": "00:23.45 -> 00:26.75",
+      "duration": "3.30s",
+      "lyrics": "Grandfather calls as the two of them pass"
+    },
+    {
+      "shot_id": "009",
+      "time": "00:26.75 -> 00:30.07",
+      "duration": "3.32s",
+      "lyrics": "Swing me up high through the leaves in the sun"
+    },
+    {
+      "shot_id": "010",
+      "time": "00:30.07 -> 00:33.39",
+      "duration": "3.32s",
+      "lyrics": "Swing me up high through the leaves in the sun"
+    },
+    {
+      "shot_id": "011",
+      "time": "00:33.39 -> 00:36.69",
+      "duration": "3.30s",
+      "lyrics": "Cool summer bough where the heavy limbs sway"
+    },
+    {
+      "shot_id": "012",
+      "time": "00:36.69 -> 00:39.98",
+      "duration": "3.29s",
+      "lyrics": "Shoulder to trunk while a hand guides the way"
+    },
+    {
+      "shot_id": "013",
+      "time": "00:39.98 -> 00:43.28",
+      "duration": "3.30s",
+      "lyrics": "Watching the climb till the high turn is done"
+    },
+    {
+      "shot_id": "014",
+      "time": "00:43.28 -> 00:46.58",
+      "duration": "3.30s",
+      "lyrics": "Watching the climb till the high turn is done"
+    },
+    {
+      "shot_id": "015",
+      "time": "00:46.58 -> 00:49.90",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "016",
+      "time": "00:49.90 -> 00:53.20",
+      "duration": "3.30s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "017",
+      "time": "00:53.20 -> 00:56.49",
+      "duration": "3.29s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "018",
+      "time": "00:56.49 -> 00:59.81",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "019",
+      "time": "00:59.81 -> 01:03.14",
+      "duration": "3.33s",
+      "lyrics": "Pocket knife tracing the furrowed grey bark"
+    },
+    {
+      "shot_id": "020",
+      "time": "01:03.14 -> 01:06.43",
+      "duration": "3.29s",
+      "lyrics": "Carving a line by the father's first mark"
+    },
+    {
+      "shot_id": "021",
+      "time": "01:06.43 -> 01:09.73",
+      "duration": "3.30s",
+      "lyrics": "Boy standing right where his young father stood"
+    },
+    {
+      "shot_id": "022",
+      "time": "01:09.73 -> 01:13.03",
+      "duration": "3.30s",
+      "lyrics": "Grandfather touching the sap-scented wood"
+    },
+    {
+      "shot_id": "023",
+      "time": "01:13.03 -> 01:16.35",
+      "duration": "3.32s",
+      "lyrics": "Grandfather touching the sap-scented wood"
+    },
+    {
+      "shot_id": "024",
+      "time": "01:16.35 -> 01:19.67",
+      "duration": "3.32s",
+      "lyrics": "Swing me up high through the leaves in the sun"
+    },
+    {
+      "shot_id": "025",
+      "time": "01:19.67 -> 01:22.99",
+      "duration": "3.32s",
+      "lyrics": "Cool summer bough where the heavy limbs sway"
+    },
+    {
+      "shot_id": "026",
+      "time": "01:22.99 -> 01:26.29",
+      "duration": "3.30s",
+      "lyrics": "Shoulder to trunk while a hand guides the way"
+    },
+    {
+      "shot_id": "027",
+      "time": "01:26.29 -> 01:29.61",
+      "duration": "3.32s",
+      "lyrics": "Watching the climb till the high turn is done"
+    },
+    {
+      "shot_id": "028",
+      "time": "01:29.61 -> 01:32.90",
+      "duration": "3.29s",
+      "lyrics": "Watching the climb till the high turn is done"
+    },
+    {
+      "shot_id": "029",
+      "time": "01:32.90 -> 01:36.25",
+      "duration": "3.35s",
+      "lyrics": "Arc rising steep where the branches divide"
+    },
+    {
+      "shot_id": "030",
+      "time": "01:36.25 -> 01:39.54",
+      "duration": "3.29s",
+      "lyrics": "Arc rising steep where the branches divide"
+    },
+    {
+      "shot_id": "031",
+      "time": "01:39.54 -> 01:42.86",
+      "duration": "3.32s",
+      "lyrics": "Small heels kicked high on the crest of the glide"
+    },
+    {
+      "shot_id": "032",
+      "time": "01:42.86 -> 01:46.16",
+      "duration": "3.30s",
+      "lyrics": "Small heels kicked high on the crest of the glide"
+    },
+    {
+      "shot_id": "033",
+      "time": "01:46.16 -> 01:49.46",
+      "duration": "3.30s",
+      "lyrics": "Strong twisted ropes pulling steady and sound"
+    },
+    {
+      "shot_id": "034",
+      "time": "01:49.46 -> 01:52.76",
+      "duration": "3.30s",
+      "lyrics": "Strong twisted ropes pulling steady and sound"
+    },
+    {
+      "shot_id": "035",
+      "time": "01:52.76 -> 01:56.05",
+      "duration": "3.29s",
+      "lyrics": "Strong twisted ropes pulling steady and sound"
+    },
+    {
+      "shot_id": "036",
+      "time": "01:56.05 -> 01:59.37",
+      "duration": "3.32s",
+      "lyrics": "Rooted right here in the red clay ground"
+    },
+    {
+      "shot_id": "037",
+      "time": "01:59.37 -> 02:02.69",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "038",
+      "time": "02:02.69 -> 02:05.99",
+      "duration": "3.30s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "039",
+      "time": "02:05.99 -> 02:09.34",
+      "duration": "3.35s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "040",
+      "time": "02:09.34 -> 02:12.63",
+      "duration": "3.29s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "041",
+      "time": "02:12.63 -> 02:15.95",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "042",
+      "time": "02:15.95 -> 02:19.27",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "043",
+      "time": "02:19.27 -> 02:22.59",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "044",
+      "time": "02:22.59 -> 02:25.91",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "045",
+      "time": "02:25.91 -> 02:29.23",
+      "duration": "3.32s",
+      "lyrics": "Swing me up high through the leaves in the sun"
+    },
+    {
+      "shot_id": "046",
+      "time": "02:29.23 -> 02:32.56",
+      "duration": "3.33s",
+      "lyrics": "Cool summer bough where the heavy limbs sway"
+    },
+    {
+      "shot_id": "047",
+      "time": "02:32.56 -> 02:35.88",
+      "duration": "3.32s",
+      "lyrics": "Shoulder to trunk while a hand guides the way"
+    },
+    {
+      "shot_id": "048",
+      "time": "02:35.88 -> 02:39.17",
+      "duration": "3.29s",
+      "lyrics": "Grandfather's tree holding father and son"
+    },
+    {
+      "shot_id": "049",
+      "time": "02:39.17 -> 02:42.52",
+      "duration": "3.35s",
+      "lyrics": "Grandfather's tree holding father and son"
+    },
+    {
+      "shot_id": "050",
+      "time": "02:42.52 -> 02:45.84",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "051",
+      "time": "02:45.84 -> 02:49.16",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "052",
+      "time": "02:49.16 -> 02:52.50",
+      "duration": "3.34s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "053",
+      "time": "02:52.50 -> 02:55.82",
+      "duration": "3.32s",
+      "lyrics": "[Gian tấu / Không lời]"
+    },
+    {
+      "shot_id": "054",
+      "time": "02:55.82 -> 02:59.17",
+      "duration": "3.35s",
+      "lyrics": "Evening light resting across the soft clay"
+    },
+    {
+      "shot_id": "055",
+      "time": "02:59.17 -> 03:02.30",
+      "duration": "3.13s",
+      "lyrics": "Evening light resting across the soft clay"
+    },
+    {
+      "shot_id": "056",
+      "time": "03:02.30 -> 03:05.60",
+      "duration": "3.30s",
+      "lyrics": "Sparrows nestled low at the close of the day"
+    },
+    {
+      "shot_id": "057",
+      "time": "03:05.60 -> 03:09.17",
+      "duration": "3.57s",
+      "lyrics": "Pine timber swing as the gentle pace slows"
+    },
+    {
+      "shot_id": "058",
+      "time": "03:09.17 -> 03:12.61",
+      "duration": "3.44s",
+      "lyrics": "Quiet branches where the green apple grows"
+    },
+    {
+      "shot_id": "059",
+      "time": "03:12.61 -> 03:15.98",
+      "duration": "3.37s",
+      "lyrics": "Quiet branches where the green apple grows"
+    },
+    {
+      "shot_id": "060",
+      "time": "03:15.98 -> 03:19.32",
+      "duration": "3.34s",
+      "lyrics": "[Đoạn kết Outro / Fade out]"
+    },
+    {
+      "shot_id": "061",
+      "time": "03:19.32 -> 03:22.69",
+      "duration": "3.37s",
+      "lyrics": "[Đoạn kết Outro / Fade out]"
+    },
+    {
+      "shot_id": "062",
+      "time": "03:22.69 -> 03:26.03",
+      "duration": "3.34s",
+      "lyrics": "[Đoạn kết Outro / Fade out]"
+    },
+    {
+      "shot_id": "063",
+      "time": "03:26.03 -> 03:29.41",
+      "duration": "3.38s",
+      "lyrics": "[Đoạn kết Outro / Fade out]"
+    },
+    {
+      "shot_id": "064",
+      "time": "03:29.41 -> 03:33.12",
+      "duration": "3.71s",
+      "lyrics": "[Đoạn kết Outro / Fade out]"
+    }
+  ]
+}

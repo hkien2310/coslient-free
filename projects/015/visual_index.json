@@ -1,0 +1,1230 @@
+{
+  "STT_088": {
+    "name": "STT_088",
+    "mediaRef": "1D194B91",
+    "time": "Dawn",
+    "scale": "EWS",
+    "subject": "Cliffside town and harbor wide landscape at sunrise",
+    "pool": "Dawn_Morning",
+    "avg_luma": 153.5,
+    "rgb": [
+      170.9,
+      150.5,
+      123.5
+    ]
+  },
+  "STT_006": {
+    "name": "STT_006",
+    "mediaRef": "3FAE7C92",
+    "time": "Morning",
+    "scale": "WS",
+    "subject": "Yellow boat at stone pier with lighthouse",
+    "pool": "Dawn_Morning",
+    "avg_luma": 167.5,
+    "rgb": [
+      157.8,
+      171.9,
+      170.5
+    ]
+  },
+  "STT_071": {
+    "name": "STT_071",
+    "mediaRef": "2A8B63A4",
+    "time": "Morning",
+    "scale": "MS",
+    "subject": "Orange tabby cat resting on stone stairs in sun",
+    "pool": "Dawn_Morning",
+    "avg_luma": 144.7,
+    "rgb": [
+      168.5,
+      139.8,
+      107.4
+    ]
+  },
+  "STT_087": {
+    "name": "STT_087",
+    "mediaRef": "546F5686",
+    "time": "Morning",
+    "scale": "MS",
+    "subject": "Boy looking out from boat in morning light",
+    "pool": "Dawn_Morning",
+    "avg_luma": 156.0,
+    "rgb": [
+      159.3,
+      155.8,
+      148.5
+    ]
+  },
+  "STT_052": {
+    "name": "STT_052",
+    "mediaRef": "68A92ECE",
+    "time": "Morning",
+    "scale": "WS",
+    "subject": "Golden morning sunlight on limestone cliffs",
+    "pool": "Dawn_Morning",
+    "avg_luma": 131.2,
+    "rgb": [
+      164.7,
+      124.5,
+      77.8
+    ]
+  },
+  "STT_054": {
+    "name": "STT_054",
+    "mediaRef": "178189BB",
+    "time": "Morning",
+    "scale": "MS",
+    "subject": "Woman tending flower pot on window sill in morning",
+    "pool": "Dawn_Morning",
+    "avg_luma": 170.4,
+    "rgb": [
+      182.5,
+      168.0,
+      150.9
+    ]
+  },
+  "STT_014": {
+    "name": "STT_014",
+    "mediaRef": "DD6DE482",
+    "time": "Morning",
+    "scale": "MS",
+    "subject": "Man playing wooden flute on morning balcony",
+    "pool": "Dawn_Morning",
+    "avg_luma": 122.6,
+    "rgb": [
+      154.4,
+      114.6,
+      80.3
+    ]
+  },
+  "STT_013": {
+    "name": "STT_013",
+    "mediaRef": "215C1BD5",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Village street view with cottage and bicycle",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 161.3,
+    "rgb": [
+      172.8,
+      159.8,
+      138.9
+    ]
+  },
+  "STT_015": {
+    "name": "STT_015",
+    "mediaRef": "0F986903",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Three children running on beach towards surf",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 157.4,
+    "rgb": [
+      171.8,
+      155.0,
+      131.7
+    ]
+  },
+  "STT_023": {
+    "name": "STT_023",
+    "mediaRef": "04A6D012",
+    "time": "Day",
+    "scale": "CU",
+    "subject": "Little girl on beach examining seashell",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 177.7,
+    "rgb": [
+      190.1,
+      174.9,
+      159.2
+    ]
+  },
+  "STT_035": {
+    "name": "STT_035",
+    "mediaRef": "E166430E",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Little girl running in shallow surf with shell",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 184.2,
+    "rgb": [
+      187.1,
+      183.9,
+      177.7
+    ]
+  },
+  "STT_060": {
+    "name": "STT_060",
+    "mediaRef": "873AF3A0",
+    "time": "Day",
+    "scale": "Macro",
+    "subject": "Child hand reaching into rock pool with crab",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 158.9,
+    "rgb": [
+      168.4,
+      158.2,
+      137.5
+    ]
+  },
+  "STT_062": {
+    "name": "STT_062",
+    "mediaRef": "0D519FB4",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Children with dog running along seawall",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 153.0,
+    "rgb": [
+      166.0,
+      150.6,
+      131.0
+    ]
+  },
+  "STT_094": {
+    "name": "STT_094",
+    "mediaRef": "B1E2CDD0",
+    "time": "Day",
+    "scale": "CU",
+    "subject": "Two children playing with shells on sand",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 171.3,
+    "rgb": [
+      178.8,
+      170.4,
+      156.7
+    ]
+  },
+  "STT_095": {
+    "name": "STT_095",
+    "mediaRef": "2F55D4FA",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Elder helping boy examine shells on beach",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 175.8,
+    "rgb": [
+      180.9,
+      175.3,
+      165.4
+    ]
+  },
+  "STT_105": {
+    "name": "STT_105",
+    "mediaRef": "72E39434",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Two children on stone pier with net",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 160.4,
+    "rgb": [
+      165.8,
+      160.5,
+      145.7
+    ]
+  },
+  "STT_113": {
+    "name": "STT_113",
+    "mediaRef": "2B9E0A1B",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Two children playing with fishing net",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 134.8,
+    "rgb": [
+      143.6,
+      134.2,
+      114.8
+    ]
+  },
+  "STT_114": {
+    "name": "STT_114",
+    "mediaRef": "9576500E",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Two children running laughing along surf",
+    "pool": "Day_Children_Beach",
+    "avg_luma": 160.3,
+    "rgb": [
+      170.3,
+      158.5,
+      143.3
+    ]
+  },
+  "STT_004": {
+    "name": "STT_004",
+    "mediaRef": "60CCB114",
+    "time": "Day",
+    "scale": "Macro",
+    "subject": "Hands slicing warm bread on wooden board",
+    "pool": "Day_Bakery",
+    "avg_luma": 129.6,
+    "rgb": [
+      157.5,
+      122.8,
+      91.4
+    ]
+  },
+  "STT_010": {
+    "name": "STT_010",
+    "mediaRef": "FFED3D27",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Baker inside bakery shop with bread loaves",
+    "pool": "Day_Bakery",
+    "avg_luma": 140.5,
+    "rgb": [
+      170.1,
+      133.6,
+      98.3
+    ]
+  },
+  "STT_012": {
+    "name": "STT_012",
+    "mediaRef": "76794075",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Baker carrying bread basket down street",
+    "pool": "Day_Bakery",
+    "avg_luma": 149.8,
+    "rgb": [
+      165.8,
+      146.6,
+      124.4
+    ]
+  },
+  "STT_018": {
+    "name": "STT_018",
+    "mediaRef": "E8A3612B",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Street view looking down to bakery shop",
+    "pool": "Day_Bakery",
+    "avg_luma": 127.6,
+    "rgb": [
+      157.4,
+      120.6,
+      85.5
+    ]
+  },
+  "STT_020": {
+    "name": "STT_020",
+    "mediaRef": "99CCD64F",
+    "time": "Day",
+    "scale": "CU",
+    "subject": "Hands slicing warm bread on counter",
+    "pool": "Day_Bakery",
+    "avg_luma": 128.7,
+    "rgb": [
+      162.7,
+      120.5,
+      82.1
+    ]
+  },
+  "STT_076": {
+    "name": "STT_076",
+    "mediaRef": "6973704A",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Baker presenting fresh bread loaf",
+    "pool": "Day_Bakery",
+    "avg_luma": 134.3,
+    "rgb": [
+      163.5,
+      127.8,
+      91.2
+    ]
+  },
+  "STT_123": {
+    "name": "STT_123",
+    "mediaRef": "726E96C6",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Bakery exterior with baker serving villagers",
+    "pool": "Day_Bakery",
+    "avg_luma": 157.2,
+    "rgb": [
+      174.9,
+      153.1,
+      131.9
+    ]
+  },
+  "STT_017": {
+    "name": "STT_017",
+    "mediaRef": "647601C9",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Two craftsmen mending wooden oar with tools",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 141.4,
+    "rgb": [
+      155.9,
+      138.6,
+      117.5
+    ]
+  },
+  "STT_037": {
+    "name": "STT_037",
+    "mediaRef": "42308D4D",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Carpenter planing wood with wood shavings",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 126.3,
+    "rgb": [
+      153.0,
+      120.1,
+      87.6
+    ]
+  },
+  "STT_049": {
+    "name": "STT_049",
+    "mediaRef": "5F9304AF",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Fishermen mending nets under pine tree",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 141.2,
+    "rgb": [
+      150.7,
+      140.2,
+      121.6
+    ]
+  },
+  "STT_056": {
+    "name": "STT_056",
+    "mediaRef": "00C995AE",
+    "time": "Day",
+    "scale": "CU",
+    "subject": "Blue bird perched on coastal rock",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 154.2,
+    "rgb": [
+      176.0,
+      149.6,
+      120.8
+    ]
+  },
+  "STT_110": {
+    "name": "STT_110",
+    "mediaRef": "5610F94B",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Two old friends having tea and laughing together",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 137.7,
+    "rgb": [
+      163.3,
+      131.5,
+      102.3
+    ]
+  },
+  "STT_111": {
+    "name": "STT_111",
+    "mediaRef": "75EABAEC",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Elderly woman sitting in garden mending cloth",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 115.5,
+    "rgb": [
+      135.7,
+      112.8,
+      76.3
+    ]
+  },
+  "STT_112": {
+    "name": "STT_112",
+    "mediaRef": "2EBF5160",
+    "time": "Day",
+    "scale": "CU",
+    "subject": "Two steaming tea cups beside wooden boat",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 123.0,
+    "rgb": [
+      139.4,
+      118.7,
+      101.5
+    ]
+  },
+  "STT_125": {
+    "name": "STT_125",
+    "mediaRef": "E50CBCBC",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Elderly couple smiling together outside",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 108.3,
+    "rgb": [
+      133.6,
+      102.8,
+      70.5
+    ]
+  },
+  "STT_126": {
+    "name": "STT_126",
+    "mediaRef": "752C499A",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Two fishermen chatting by wooden railing",
+    "pool": "Day_Carpenter_Tea",
+    "avg_luma": 136.1,
+    "rgb": [
+      151.1,
+      133.1,
+      112.6
+    ]
+  },
+  "STT_005": {
+    "name": "STT_005",
+    "mediaRef": "652AA516",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Fisherman on pier with yellow boat",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 152.0,
+    "rgb": [
+      165.0,
+      149.8,
+      129.1
+    ]
+  },
+  "STT_016": {
+    "name": "STT_016",
+    "mediaRef": "653094DB",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Two children in sailboat on blue sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 143.2,
+    "rgb": [
+      137.9,
+      145.2,
+      146.7
+    ]
+  },
+  "STT_019": {
+    "name": "STT_019",
+    "mediaRef": "C510646E",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Harbor view with turquoise water and cliffs",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 166.3,
+    "rgb": [
+      164.8,
+      167.6,
+      163.4
+    ]
+  },
+  "STT_025": {
+    "name": "STT_025",
+    "mediaRef": "B0B6F6F4",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Man on sailboat looking out at sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 134.6,
+    "rgb": [
+      122.1,
+      139.2,
+      144.0
+    ]
+  },
+  "STT_026": {
+    "name": "STT_026",
+    "mediaRef": null,
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Man holding cup on stone terrace looking at sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": null,
+    "rgb": null
+  },
+  "STT_029": {
+    "name": "STT_029",
+    "mediaRef": "408BB28C",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Elderly couple having tea on outdoor terrace",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 143.1,
+    "rgb": [
+      159.9,
+      139.6,
+      116.8
+    ]
+  },
+  "STT_030": {
+    "name": "STT_030",
+    "mediaRef": "13A87BAF",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Cliffside street leading down to sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 167.9,
+    "rgb": [
+      178.3,
+      166.7,
+      146.3
+    ]
+  },
+  "STT_032": {
+    "name": "STT_032",
+    "mediaRef": "9C5B5250",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Man climbing wooden ladder against cottage wall",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 142.0,
+    "rgb": [
+      158.2,
+      138.8,
+      116.7
+    ]
+  },
+  "STT_039": {
+    "name": "STT_039",
+    "mediaRef": "6DA0281F",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Woman on balcony looking at blue sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 108.6,
+    "rgb": [
+      99.0,
+      110.5,
+      124.3
+    ]
+  },
+  "STT_041": {
+    "name": "STT_041",
+    "mediaRef": "EABA749D",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Group of villagers walking on street",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 147.5,
+    "rgb": [
+      162.5,
+      144.9,
+      121.3
+    ]
+  },
+  "STT_042": {
+    "name": "STT_042",
+    "mediaRef": "4B9F95CD",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Sea captain looking through binoculars",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 140.4,
+    "rgb": [
+      158.7,
+      136.8,
+      111.0
+    ]
+  },
+  "STT_043": {
+    "name": "STT_043",
+    "mediaRef": "FBEAEA3B",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Elderly man drinking tea with ship model",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 158.1,
+    "rgb": [
+      165.1,
+      157.6,
+      142.5
+    ]
+  },
+  "STT_059": {
+    "name": "STT_059",
+    "mediaRef": "DA12BCFB",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Wide beach with boats and limestone cliffs",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 164.0,
+    "rgb": [
+      153.9,
+      168.7,
+      166.3
+    ]
+  },
+  "STT_061": {
+    "name": "STT_061",
+    "mediaRef": "EAD407F1",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Village fountain square with cottages",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 163.5,
+    "rgb": [
+      175.7,
+      161.1,
+      143.9
+    ]
+  },
+  "STT_063": {
+    "name": "STT_063",
+    "mediaRef": "BE95D0D9",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Woman on stone balustrade looking at sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 110.5,
+    "rgb": [
+      106.9,
+      110.9,
+      117.6
+    ]
+  },
+  "STT_065": {
+    "name": "STT_065",
+    "mediaRef": "4F494A4C",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "High angle harbor with docked boats",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 157.0,
+    "rgb": [
+      166.6,
+      155.6,
+      138.4
+    ]
+  },
+  "STT_067": {
+    "name": "STT_067",
+    "mediaRef": "83F19DD6",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Villagers catching boat rope on pier",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 162.5,
+    "rgb": [
+      168.3,
+      162.5,
+      147.3
+    ]
+  },
+  "STT_070": {
+    "name": "STT_070",
+    "mediaRef": "27BFEE2E",
+    "time": "Day",
+    "scale": "CU",
+    "subject": "Wooden mooring bollard in sparkling water",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 141.3,
+    "rgb": [
+      148.7,
+      141.2,
+      122.4
+    ]
+  },
+  "STT_079": {
+    "name": "STT_079",
+    "mediaRef": "E5362770",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Aerial view of harbor basin with boats",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 139.1,
+    "rgb": [
+      160.3,
+      135.3,
+      102.7
+    ]
+  },
+  "STT_082": {
+    "name": "STT_082",
+    "mediaRef": "9A3F038A",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Fisherman walking by boat on shore",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 138.8,
+    "rgb": [
+      135.7,
+      141.6,
+      132.4
+    ]
+  },
+  "STT_089": {
+    "name": "STT_089",
+    "mediaRef": "8231B335",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Two fishermen on pier looking at sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 108.0,
+    "rgb": [
+      121.3,
+      100.2,
+      113.2
+    ]
+  },
+  "STT_091": {
+    "name": "STT_091",
+    "mediaRef": "DE61BD3F",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Man in yellow apron leaning on balustrade",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 168.3,
+    "rgb": [
+      178.2,
+      166.7,
+      150.6
+    ]
+  },
+  "STT_104": {
+    "name": "STT_104",
+    "mediaRef": "5FAACD9F",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Elder and boy walking down stone stairs",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 147.1,
+    "rgb": [
+      161.5,
+      145.0,
+      120.6
+    ]
+  },
+  "STT_106": {
+    "name": "STT_106",
+    "mediaRef": "FCA66FB6",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Sailboats near stone lighthouse",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 165.8,
+    "rgb": [
+      175.7,
+      165.2,
+      143.6
+    ]
+  },
+  "STT_115": {
+    "name": "STT_115",
+    "mediaRef": "69A93E5C",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Two sailboats gliding on blue sea",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 145.4,
+    "rgb": [
+      142.9,
+      147.8,
+      139.5
+    ]
+  },
+  "STT_118": {
+    "name": "STT_118",
+    "mediaRef": "C2946453",
+    "time": "Day",
+    "scale": "WS",
+    "subject": "Stone arch bridge and pier with people",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 147.6,
+    "rgb": [
+      158.0,
+      146.0,
+      128.0
+    ]
+  },
+  "STT_119": {
+    "name": "STT_119",
+    "mediaRef": "F5C76840",
+    "time": "Day",
+    "scale": "MS",
+    "subject": "Children walking on terrace",
+    "pool": "Day_Harbor_Sail",
+    "avg_luma": 167.5,
+    "rgb": [
+      172.0,
+      167.6,
+      155.1
+    ]
+  },
+  "STT_007": {
+    "name": "STT_007",
+    "mediaRef": "4BB7DC70",
+    "time": "Sunset",
+    "scale": "MS",
+    "subject": "Guitar on stone balustrade at golden sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 144.2,
+    "rgb": [
+      173.1,
+      137.9,
+      101.3
+    ]
+  },
+  "STT_008": {
+    "name": "STT_008",
+    "mediaRef": "7EBCE754",
+    "time": "Sunset",
+    "scale": "WS",
+    "subject": "Church bell tower in purple/orange sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 132.5,
+    "rgb": [
+      159.2,
+      121.3,
+      120.2
+    ]
+  },
+  "STT_027": {
+    "name": "STT_027",
+    "mediaRef": "C3999FBC",
+    "time": "Sunset",
+    "scale": "MS",
+    "subject": "Man with cup looking at sunset sea",
+    "pool": "Sunset_Solo",
+    "avg_luma": 138.2,
+    "rgb": [
+      167.1,
+      131.3,
+      98.6
+    ]
+  },
+  "STT_031": {
+    "name": "STT_031",
+    "mediaRef": "12C8AE89",
+    "time": "Sunset",
+    "scale": "WS",
+    "subject": "Harbor pier with lighthouse at sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 102.1,
+    "rgb": [
+      109.5,
+      98.3,
+      101.7
+    ]
+  },
+  "STT_040": {
+    "name": "STT_040",
+    "mediaRef": "0154014A",
+    "time": "Sunset",
+    "scale": "MS",
+    "subject": "Woman playing flute at sunset with sunflower",
+    "pool": "Sunset_Solo",
+    "avg_luma": 138.6,
+    "rgb": [
+      159.8,
+      134.7,
+      103.8
+    ]
+  },
+  "STT_066": {
+    "name": "STT_066",
+    "mediaRef": "DEEFF812",
+    "time": "Sunset",
+    "scale": "WS",
+    "subject": "Golden sunset over coastal cliffs & houses",
+    "pool": "Sunset_Solo",
+    "avg_luma": 131.3,
+    "rgb": [
+      159.5,
+      124.5,
+      91.9
+    ]
+  },
+  "STT_072": {
+    "name": "STT_072",
+    "mediaRef": "18057986",
+    "time": "Sunset",
+    "scale": "MS",
+    "subject": "Man playing violin/fiddle outdoors at sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 142.7,
+    "rgb": [
+      165.3,
+      137.1,
+      111.9
+    ]
+  },
+  "STT_078": {
+    "name": "STT_078",
+    "mediaRef": "DC6FEF72",
+    "time": "Sunset",
+    "scale": "MS",
+    "subject": "Two people walking toward harbor at sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 125.2,
+    "rgb": [
+      143.3,
+      116.4,
+      123.3
+    ]
+  },
+  "STT_085": {
+    "name": "STT_085",
+    "mediaRef": "73F28DAF",
+    "time": "Twilight",
+    "scale": "MS",
+    "subject": "Fisherman on pier with lantern at twilight",
+    "pool": "Sunset_Solo",
+    "avg_luma": 116.4,
+    "rgb": [
+      122.7,
+      109.5,
+      135.7
+    ]
+  },
+  "STT_092": {
+    "name": "STT_092",
+    "mediaRef": "1FD90204",
+    "time": "Sunset",
+    "scale": "MS",
+    "subject": "Man playing acoustic guitar at sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 144.9,
+    "rgb": [
+      166.3,
+      140.4,
+      112.2
+    ]
+  },
+  "STT_096": {
+    "name": "STT_096",
+    "mediaRef": "9BDBF556",
+    "time": "Sunset",
+    "scale": "CU",
+    "subject": "Boots and seashells on pier at sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 128.0,
+    "rgb": [
+      150.1,
+      119.3,
+      114.5
+    ]
+  },
+  "STT_103": {
+    "name": "STT_103",
+    "mediaRef": "0AA79D95",
+    "time": "Sunset",
+    "scale": "WS",
+    "subject": "Fleet of sailboats in golden sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 104.8,
+    "rgb": [
+      118.0,
+      96.5,
+      112.8
+    ]
+  },
+  "STT_108": {
+    "name": "STT_108",
+    "mediaRef": "74BD2FB9",
+    "time": "Sunset",
+    "scale": "WS",
+    "subject": "Beach in golden late afternoon/sunset",
+    "pool": "Sunset_Solo",
+    "avg_luma": 177.1,
+    "rgb": [
+      189.6,
+      175.1,
+      154.2
+    ]
+  },
+  "STT_109": {
+    "name": "STT_109",
+    "mediaRef": "A780588B",
+    "time": "Sunset",
+    "scale": "WS",
+    "subject": "Harbor in golden sunset glow",
+    "pool": "Sunset_Solo",
+    "avg_luma": 129.2,
+    "rgb": [
+      162.0,
+      122.5,
+      77.6
+    ]
+  },
+  "STT_121": {
+    "name": "STT_121",
+    "mediaRef": "846AA237",
+    "time": "Twilight",
+    "scale": "MS",
+    "subject": "Man pulling rope at dusk/twilight",
+    "pool": "Sunset_Solo",
+    "avg_luma": 109.5,
+    "rgb": [
+      127.5,
+      100.7,
+      108.0
+    ]
+  },
+  "STT_001": {
+    "name": "STT_001",
+    "mediaRef": "E067A41D",
+    "time": "Night",
+    "scale": "EWS",
+    "subject": "Harbor at night under starry sky and Milky Way",
+    "pool": "Night_Outro",
+    "avg_luma": 74.1,
+    "rgb": [
+      68.5,
+      75.4,
+      82.2
+    ]
+  },
+  "STT_021": {
+    "name": "STT_021",
+    "mediaRef": "C3D0B1D8",
+    "time": "Night",
+    "scale": "WS",
+    "subject": "Pier under starry night sky and moon",
+    "pool": "Night_Outro",
+    "avg_luma": 87.7,
+    "rgb": [
+      78.7,
+      89.1,
+      104.1
+    ]
+  },
+  "STT_024": {
+    "name": "STT_024",
+    "mediaRef": "AE567DD2",
+    "time": "Night",
+    "scale": "WS",
+    "subject": "Harbor pier with amber lantern & Milky Way",
+    "pool": "Night_Outro",
+    "avg_luma": 81.7,
+    "rgb": [
+      70.4,
+      83.7,
+      100.8
+    ]
+  },
+  "STT_028": {
+    "name": "STT_028",
+    "mediaRef": "F9E38FA9",
+    "time": "Night",
+    "scale": "MS",
+    "subject": "Elderly couple looking at starry sea at night",
+    "pool": "Night_Outro",
+    "avg_luma": 102.1,
+    "rgb": [
+      114.4,
+      98.6,
+      87.4
+    ]
+  },
+  "STT_033": {
+    "name": "STT_033",
+    "mediaRef": "11889C17",
+    "time": "Night",
+    "scale": "EWS",
+    "subject": "Whole cliffside town glowing with lights at night",
+    "pool": "Night_Outro",
+    "avg_luma": 95.0,
+    "rgb": [
+      101.3,
+      93.0,
+      89.3
+    ]
+  },
+  "STT_034": {
+    "name": "STT_034",
+    "mediaRef": "E6A1BEE1",
+    "time": "Night",
+    "scale": "MS",
+    "subject": "Woman in dark interior near candle/window at night",
+    "pool": "Night_Outro",
+    "avg_luma": 93.1,
+    "rgb": [
+      128.9,
+      84.0,
+      46.1
+    ]
+  },
+  "STT_038": {
+    "name": "STT_038",
+    "mediaRef": "DA337C6E",
+    "time": "Night",
+    "scale": "WS",
+    "subject": "Village stone stairs with glowing lanterns at night",
+    "pool": "Night_Outro",
+    "avg_luma": 81.3,
+    "rgb": [
+      95.6,
+      77.1,
+      65.3
+    ]
+  },
+  "STT_047": {
+    "name": "STT_047",
+    "mediaRef": "52D92C34",
+    "time": "Night",
+    "scale": "WS",
+    "subject": "House and stairs lit by warm lantern at night",
+    "pool": "Night_Outro",
+    "avg_luma": 94.7,
+    "rgb": [
+      116.8,
+      88.6,
+      68.2
+    ]
+  },
+  "STT_083": {
+    "name": "STT_083",
+    "mediaRef": "E50B5E25",
+    "time": "Night",
+    "scale": "MS",
+    "subject": "Elderly couple eating dinner outside by lantern light",
+    "pool": "Twilight_Party",
+    "avg_luma": 84.7,
+    "rgb": [
+      109.0,
+      78.8,
+      51.4
+    ]
+  },
+  "STT_097": {
+    "name": "STT_097",
+    "mediaRef": "B90E269C",
+    "time": "Night",
+    "scale": "MS",
+    "subject": "People at dinner table under glowing lantern at night",
+    "pool": "Twilight_Party",
+    "avg_luma": 78.6,
+    "rgb": [
+      102.4,
+      72.0,
+      50.1
+    ]
+  },
+  "STT_098": {
+    "name": "STT_098",
+    "mediaRef": "02C26B12",
+    "time": "Night",
+    "scale": "MS",
+    "subject": "Musicians playing music under warm lanterns at night",
+    "pool": "Twilight_Party",
+    "avg_luma": 89.6,
+    "rgb": [
+      110.0,
+      85.1,
+      59.6
+    ]
+  },
+  "STT_117": {
+    "name": "STT_117",
+    "mediaRef": "CDB59BE5",
+    "time": "Night",
+    "scale": "WS",
+    "subject": "Stone curved promenade lit by amber lanterns at night",
+    "pool": "Night_Outro",
+    "avg_luma": 88.4,
+    "rgb": [
+      103.5,
+      84.8,
+      67.7
+    ]
+  }
+}

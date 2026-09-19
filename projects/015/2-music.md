@@ -1,119 +1,125 @@
-# PROJECT 015: AFTER THE PAVEMENT
-**Phân tích Âm nhạc, Tên bài hát, Suno Style Prompt & Ca từ Hiệu suất (Bản Tối Ưu Hóa Khán Giả 45+)**  
+# PROJECT 015: THE TIDE HAVEN
+**Hồ sơ Âm nhạc, Bảng Kiểm Tra Chống Trùng Lặp (Dedup Audit) & Ca Từ Suno (Master Lullaby Edition)**  
 *Thư mục: `projects/015/2-music.md` | Coslient Free*
 
 ---
 
-## 🔍 1. PHÂN TÍCH (ANALYSIS & PHILOSOPHY)
+## 🛡️ 0. BẢNG KIỂM TRA CHỐNG TRÙNG LẶP & ĐỘ DÀI KỸ THUẬT (DEDUP & TIMING AUDIT)
 
-* **Tứ thơ cốt lõi:**
-  * Ranh giới vật lý cụ thể: mặt đường nhựa cao tốc nứt nẻ chấm dứt, bánh xe và bước chân chạm vào nền đất đỏ gồ ghề của thung lũng quê hương.
-  * Cuộc hạnh ngộ không lời giữa người đàn ông với bốn mươi năm bươn chải và cậu bé ngày xưa ngồi vót cành liễu bên bờ suối.
-  * Không triết lý giáo điều, không dùng từ trừu tượng. Tự do là những cảm giác xúc giác có thật: nới lỏng chiếc áo khoác phố thị, phủi lớp bụi thành phố khỏi tay áo, nước suối lạnh buốt luồn qua kẽ tay và mùi nhựa liễu non thơm ngai ngái.
+*Audit toàn diện đối chiếu với `CLAUDE.md`, `idea-index.md`, `lyrics-index.md`, `style_music/banned_lyrics_motifs.md` và chuẩn thời lượng 3:30 – 3:45:*
 
-* **Điểm khởi đầu (The Starting Point):**
-  * Khoảnh khắc mặt đường nhựa nứt vỡ nhường chỗ cho đất đỏ và đá dăm thung lũng; tiếng còi xe và những bản hợp đồng lùi xa ba mươi dặm sau lưng.
+| Hạng mục đối chiếu | Hiện trạng Project 015 (Bản Master Ru Ngủ) | Đánh giá Kỹ thuật | Kết quả |
+|---|---|---|:---:|
+| **Thời lượng tạo nhạc (Target 3:30 – 3:45)** | 28 dòng ca từ, bố cục timeline chuẩn: Intro (20s) $\rightarrow$ Verse 1 (25s) $\rightarrow$ Chorus 1 (26s) $\rightarrow$ Verse 2 (25s) $\rightarrow$ Chorus 2 (26s) $\rightarrow$ Bridge (23s) $\rightarrow$ Solo (30s) $\rightarrow$ Final Chorus (26s) $\rightarrow$ Outro (17s). | Tổng thời lượng đạt **3 phút 38 giây** (± 5s). Khắc phục hoàn toàn khoảng trống retention, tối ưu cho video ~4:00. | ✅ **CHUẨN 3:38** |
+| **Vòng quay Ngày sang Đêm** | Giữ trọn vẹn 4 chặng thời gian:<br>• **Verse 1 (Sáng sớm):** Triều rút, trẻ nhặt vỏ ốc trong bọt sóng, tiệm bánh mở cửa chớp gỗ thông tỏa mùi bánh nướng thơm lừng.<br>• **Chorus 1 (Điểm tựa):** Gió tuyết tùng từ biển, buồm nâu về bến, bánh mì nóng, muối mặn bờ đá, cuộc sống tự chủ an lành.<br>• **Verse 2 (Trưa hanh vàng):** Bác hàng xóm đem mái chèo nứt qua xưởng mộc, gọt chốt gỗ chêm vết nứt bên hai tách trà nóng bốc khói và tiếng cười đôn hậu.<br>• **Chorus 2 (Gắn kết):** Khóa nhịp cảm xúc, duy trì nhịp bước chân walking thong dong.<br>• **Bridge (Chiều hoàng hôn):** Chuông cảng điểm trầm ngân, thuyền lướt êm về vịnh, những bàn tay ấm đón dây neo giúp bạn chài.<br>• **Solo (30s):** Giao hòa giữa guitar tuyết tùng, vĩ cầm gỗ và sáo gỗ, ốc đảo thư thái không lời.<br>• **Final Chorus (Sum vầy):** Hợp xướng mộc mạc bên hiên đá, trọn vẹn sự an trú.<br>• **Outro (Đêm buông):** Đèn dầu hổ phách nơi xóm giềng ngồi lại, thuyền gối đầu ngủ yên, mái chèo nặng buông trên bờ đá mát lạnh, then cửa gỗ cài khẽ khép lại một ngày bình yên. | Lát cắt sinh hoạt cộng đồng chân thực, đùm bọc, say mê lao động mộc mạc. | ✅ **TRỌN VẸN 4 CHẶNG** |
+| **Kết cấu Mantra ru ngủ** | Chorus và Bridge áp dụng chuẩn xác Anaphora lặp cú pháp đầu dòng:<br>• Chorus: `Here where the...` / `Here where the...`<br>• Bridge: `Deep chime...` / `Slow drift...` / `Warm are...` / `Still is...` | Dẫn dắt tâm trí người nghe vào trạng thái thư thái sâu và phục hồi năng lượng tinh thần. | ✅ **CHUẨN MANTRA** |
+| **Điểm neo cảm xúc (Quotable Line)** | *"Bread on the counter and salt on the stone / Safe in the harbor with life of our own."* | Đọng lại câu chốt ngắn gọn, đắt giá, mang tính vỗ về nhẹ nhàng và trân trọng hiện tại. | ✅ **CHUẨN QUOTABLE** |
+| **Quy chuẩn Từ cấm & Banned Motifs** | Quét sạch 100% theo `banned_lyrics_motifs.md`: <br>1. 0% AI slop (`whisper`, `echo`, `shadow`, `dancing`, `tiny`, `endless`, `eternity`)<br>2. 0% vật liệu kiệt quệ (`moss`, `iron`, `linen`, `brass`, `copper`, `tin cup`)<br>3. Không `two slow boots/footprints`, không `let the heavy go`, không `just breathe`, không `nothing broken`, không `weary come home`, không `nothing to chase` | Đạt 0% từ cấm, loại bỏ hoàn toàn giọng điệu trị liệu/buông bỏ. | ✅ **0% TỪ CẤM** |
+| **Chất liệu thủ công (Tactile ASMR)** | Gỗ tuyết tùng (*cedar*), gỗ thông (*pine*), gỗ tần bì (*ash oar*), đá bờ cảng (*harbor stone*), chốt gỗ khô (*dry peg*), trà nóng bốc khói (*steaming cups*), bọt sóng biển (*spray*), then cửa gỗ (*wooden latch*). | Tác động sâu vào xúc giác và thị giác đời thường. | ✅ **PASS TACTILE** |
 
-* **Vật thể xuyên suốt (Throughline Object):**
-  * **Ống sáo liễu non (`The green willow flute`):**
-    * *Lần 1 (Verse 2 - Khởi tạo):* Cậu bé ngồi nơi bờ suối uốn quanh, dùng dao nhíp gõ nhẹ cành liễu non, tuốt lớp vỏ xanh nguyên vẹn (`green sleeve`) để lộ thân gỗ trắng, khoét lỗ và thổi nốt nhạc đầu tiên vang vào thung lũng.
-    * *Lần 2 (Bridge - Tái định hình):* Cậu bé nhìn vào những vết hằn năm tháng trên tay người đàn ông; không một câu hỏi phán xét, cậu lặng lẽ ấn ống sáo liễu vào lòng bàn tay của bản thể lớn tuổi hơn (`the older one`).
-    * *Lần 3 (Outro - An nghỉ):* Ống sáo liễu nằm yên trên bậu cửa sổ gỗ phong sương (`weathered sill`), lớp nhựa đã khô se, tĩnh lặng khi bóng chiều lặn hẳn sau đồi phía tây.
+---
 
-* **Định vị cảm xúc tệp 45+ (Peaceful Refuge & Emotional Swell):**
-  * Không giật cục hay hò hét xốc nổi. Sự cuốn hút đến từ **độ nở của giai điệu (Melodic Swell)**: bè hòa âm acoustic 3 giọng ấm áp nở bung như một cái ôm chở che, kết hợp tiếng cello mộc trượt dài nốt trầm.
-  * Câu chốt nhân sinh mang tính tự thưởng sâu sắc: *"And the rest of the daylight is finally mine"*.
+## 🔍 1. PHÂN TÍCH (ANALYSIS & CONTEXT)
+
+### Ba câu hỏi bắt buộc:
+1. **Điểm khởi đầu (Starting Point):**  
+   Buổi sớm mai khi thủy triều rút để lộ bãi cát mịn và bờ đá bến thuyền dưới chân vách núi. Trẻ con dắt tay nhau cười đùa nhặt vỏ ốc trong bọt sóng mát rượi, bác thợ bánh mở toang cánh cửa chớp gỗ thông tỏa mùi bánh mì nướng giòn thơm lừng khắp dãy phố đá vôi.
+2. **Verse và Chorus làm gì khác nhau:**  
+   * **Verse:** Dựng cảnh bằng những lát cắt cụ thể, sinh động của cộng đồng: trẻ nhỏ nhặt vỏ ốc & bánh mì nóng $\rightarrow$ gọt chốt gỗ sửa mái chèo nứt cho hàng xóm bên hai tách trà nóng bốc khói.
+   * **Chorus:** Khóa lại cảm xúc đĩnh đạc, an lành bằng kết cấu Mantra ru ngủ: gió tuyết tùng từ biển, cánh buồm nâu về bến cảng, bánh mì trên bàn, muối mặn trên đá, và niềm kiêu hãnh của cuộc sống tự chủ bình dị (*"Safe in the harbor with life of our own"*).
+3. **Chi tiết xúc giác đắt giá (Tactile ASMR):**
+   * Tiếng lách cách của cánh cửa chớp gỗ thông tiệm bánh mở đón gió biển sớm mai.
+   * Bọt sóng biển tung trắng xóa mát rượi quanh bước chân trẻ nhỏ nhặt vỏ ốc.
+   * Chiếc mái chèo gỗ tần bì nứt sau cơn dông biển được chêm chốt gỗ khít khao trên bàn xưởng.
+   * Hơi nước bốc lên từ hai tách trà nóng bốc khói mỏng và nụ cười đôn hậu giữa hai người bạn chài.
+   * Tiếng chuông đồng ngân vang trên tháp cảng lúc chiều tà khi mòng biển nép mình trên cọc bến.
+   * Mái chèo nặng buông trên bờ đá mát lạnh của bến cảng khi ngày tàn.
+   * Tiếng then cửa gỗ cài khẽ (*wooden latch click*) ru thị trấn ngủ yên.
 
 ---
 
 ## 🏷️ 2. TÊN BÀI HÁT (SONG TITLE)
 
-👉 **Tên chính thức:** **`After the Pavement`** (3 từ, Semantic Hijacking: mốc hạ tầng giao thông kết thúc mở ra không gian tâm thức thảnh thơi).
+👉 **Tên chính thức:** **The Tide Haven**  
+*(Đúng 3 từ. Đĩnh đạc, mộc mạc, mang trọn linh hồn của thị trấn vách đá ven biển và nhịp sống bình yên, tương trợ của cư dân miền sóng gió).*
 
 ---
 
 ## 🎛️ 3. SUNO STYLE PROMPT
 
-```text
-Gentle Sunny Acoustic Folk, Lighthearted Folk Ballad, fingerpicked Martin acoustic guitar with light cheerful bounce, sweet melodious violin, gentle upright acoustic bass, crisp organic shaker pulse, warm clear mid-range male vocals, relaxed conversational phrasing, audible smile in the delivery, sunny countryside valley porch session meets unhurried homeward journey, sunny, lighthearted, gentle contentment, peaceful, 78 BPM, 4/4 time signature, clean open wooden room acoustic, dry intimate lead vocal, soft rounded top-end, bright wooden resonance. A mellow wooden cello enters at the bridge and final chorus, adding sweeping expansive warmth and emotional swell. Sing each capitalized syllable with clear emphasis; unstressed syllables light and flowing.
+```
+Gentle Coastal Folk, Acoustic Ambient Ballad, fingerpicked cedar-top acoustic guitar, warm upright acoustic bass 120-350Hz, soft brushed cajon, wooden fiddle, wooden flute accents, warm resonant baritone male vocal, storytelling delivery, intimate chest voice, audible natural smile, relaxed unhurried phrasing, cliffside timber coastal haven, slow maritime living aesthetic, peaceful, gentle contentment, sunny, grounded, 75 BPM, 4/4 walking groove, natural wooden room resonance, warm analog master, dry clean acoustic mix, dry intimate lead vocal, soft rounded top-end. Lyrical wooden fiddle and flute trade melodic phrases with acoustic guitar at Solo, faint wooden latch click at outro.
 ```
 
 ---
 
 ## 📜 4. SUNO PERFORMANCE LYRICS
 
-[Intro]
-[Acoustic guitar opens with an alternating thumb-bass bounce at 78 BPM, gentle upright acoustic bass anchors warm wood resonance]
-[soft exhale, quiet spoken tone]
-Yeah... no hurry now
-[sweet melodious violin weaves a sunny opening hook]
+[Intro]  
+[fingerpicked cedar acoustic guitar with warm thumb-alternating bass, unhurried 75 BPM]  
+[wooden fiddle enters with a sweet, sunny coastal melody]  
+[wooden flute accents softly in the background]  
+[upright bass hums warmly on the root note at 120-350Hz]  
+[soft brushed cajon establishes gentle walking sway]  
 
-[Verse 1]
-[warm clear mid-range vocal, rich lyrical singing, smooth melodic phrasing, gentle smile]
-Turns out the clock was lying all those hurried years in TOWN
-The sun don't punch a timecard when it lays the evening DOWN
-Left the grey asphalt behind me like a coat I didn't NEED
-Now the only thing that's running is the water in the REEDS
+[Verse 1]  
+[intimate close-mic male, warm resonant baritone]  
+[conversational, warm, audible natural smile]  
+Low TIDE un-cov-ers the SAND by the bay  
+CHIL-dren run laugh-ing for SHELLS in the spray  
+BA-ker flings o-pen his SHUT-ters of pine  
+SHA-ring warm loaves down the COB-ble-stone line  
 
-[Chorus]
-[two-part close acoustic harmony, sweet soaring violin, upright bass bounces gently]
-Oh, the PAVEMENT ends where the valley BREATHES
-As I brush the dust right off my SLEEVES
-Water runs deep and the world turns WIDE
-Leaving all the hurry on the other SIDE
-[short breath, fiddle sweet fill]
-Mountain river running clear and FINE
-And the REST of the daylight is finally MINE
+[Chorus 1]  
+[warm acoustic two-part close harmony, audible gentle smile in voice, resonant and uplifting]  
+[walking bounce, effortless and bright, hypnotic lullaby mantra]  
+Here where the CE-dar winds ROLL from the sea  
+Here where the BROWN sails glide HOME to the quay  
+BREAD on the coun-ter and SALT on the stone  
+SAFE in the har-bor with LIFE of our own  
 
-[Verse 2]
-[solo lead vocal, guitar picking stays bright and steady, light organic wooden taps, warm smiling delivery]
-Down along the river where the water BENDS
-A boy sits smiling like an old-time FRIEND
-He slips the green sleeve from the willow STEM
-To blow a sweet tune to the wind AGAIN
-Never caring what the hours MEAN
-Just sitting easy where the valley's GREEN
+[Verse 2]  
+[solo baritone storytelling vocals, grounded and relaxed, gentle smile in voice, clear diction]  
+[stripped back, warm cedar guitar, upright bass and gentle fiddle fills]  
+Old NEIGH-bor comes in with a SPLIT in his oar  
+CAUGHT in a squall half a MILE from the shore  
+SHAVE a dry peg for the SEAM in the wood  
+Two STEAM-ing cups and the LAUGH-ter is good  
 
-[Bridge]
-[Warm wooden cello enters with a deep resonant glide, acoustic guitar slows slightly, intimate and tender]
-[expressive singing tone, warm reflective lift]
-He looks at all the lines upon my SKIN
-And slips the willow flute into my HAND
-Clear water washing over river SAND
-And all that borrowed hurry softly GONE
+[Chorus 2]  
+[warm acoustic two-part close harmony, resonant chest tones, comforting and spacious]  
+[full acoustic rhythm returns, harmonies warm and wide]  
+Here where the CE-dar winds ROLL from the sea  
+Here where the BROWN sails glide HOME to the quay  
+BREAD on the coun-ter and SALT on the stone  
+SAFE in the har-bor with LIFE of our own  
 
-[Final Chorus]
-[Dynamic peak: three-part rich acoustic harmony blooms, soaring sweet violin, cello low-end warmth, joyous effortless release]
-Oh, the PAVEMENT ends where the valley BREATHES
-As I brush the dust right off my SLEEVES
-Water runs deep and the world turns WIDE
-Leaving all the hurry on the other SIDE
-[short breath, fiddle sweet fill]
-Mountain river running clear and FINE
-And the REST of the daylight is finally MINE
+[Bridge]  
+[intimate reflective solo lead vocal, slight rubato phrasing, deep chest resonance, tender and clear]  
+[tempo relaxes slightly, cajon drops out, wooden flute and fiddle melody tender and reflective]  
+Deep CHIME the bells as the EVE-ning draws round  
+Slow DRIFT the boats to the CALM of the sound  
+WARM are the hands catch-ing ROPES at the side  
+Still IS the haven a-BOVE the gray tide  
 
-[Outro]
-[Music softens into clean fingerpicked guitar and a sweet fading violin harmonic]
-[easy, contented speaking tone]
-Willow flute upon the window SILL
-Sun slipping quiet behind the HILL
-Green bark drying in the evening BREEZE
-[gentle chuckle]
-Plenty of time
-[One clean acoustic chord rings out sweet and warm into silence]
+[Instrumental Solo]  
+[lyrical cedar acoustic guitar solo trading phrases with sweet wooden fiddle and flute]  
+[warm upright bass keeps the steady 75 BPM walking heartbeat]  
+[soft brushed cajon groove adds subtle drive, 30s sanctuary oasis]  
 
----
+[Final Chorus]  
+[three-part rich acoustic harmony, full chest resonance, expansive emotional warmth, soaring yet grounded]  
+[full acoustic porch choir harmonies, grounded and intimate, fiddle soaring gently]  
+Here where the CE-dar winds ROLL from the sea  
+Here where the BROWN sails glide HOME to the quay  
+BREAD on the coun-ter and SALT on the stone  
+SAFE in the har-bor with LIFE of our own  
 
-## 📊 5. BẢNG CHẨN ĐOÁN NGỮ ÂM & VẬN LUẬT (PHONETIC & PROSODY AUDIT)
-
-| Vị trí | Lời bản cũ (Flawed) | Lời hoàn thiện (Optimized) | Chẩn đoán Âm vị & Vận luật (Phonetic Breakdown) | Giải pháp Khẩu hình & Lợi ích Suno v4 |
-| :--- | :--- | :--- | :--- | :--- |
-| **Verse 1 (L1-2)** | *Where the asphalt ends and the river runs cold and slow* | **Turns out the clock was lying all those hurried years in TOWN / The sun don't punch a timecard when it lays the evening DOWN** | **Khắc phục "cold and slow":** Va chạm nướu răng `/ld/ -> /nd/ -> /sl/` (3 tiếp điểm nướu liên tiếp); bẹt nguyên âm đóng `/oʊ/` đụng `/oʊ/` (*cold / slow*); sạn logic buổi sáng. | Thay bằng cú hook tâm lý đắt giá: vần mở vang `/aʊn/` (*TOWN / DOWN*); đối lập đàm thoại tự nhiên (*clock was lying / sun don't punch a timecard*); mở rộng âm vòm họng. |
-| **Verse 1 (L3-4)** | *Red dirt on worn boots, town coat open wide* | **Left the grey asphalt behind me like a coat I didn't NEED / Now the only thing that's running is the water in the REEDS** | **Kẹt phách từ đơn (Spondaic Jam):** 4 từ nặng (*Red dirt on worn boots*); vần `/aɪd/` (*wide*) cướp sớm vần của Chorus (*wide / side*); sáo ngữ "nothing left to lose". | Tiết tấu iambic tuôn trào mềm mại; cặp vần lướt êm dịu `/iːd/ - /iːdz/` (*NEED / REEDS*); chơi chữ đắt giá tương phản dòng nước suối với cuộc đua bôn ba. |
-| **Chorus (L1-2)** | *Oh, the PAVEMENT ends and the valley BREATHES / Brush the dust right off the SLEEVES* | **Oh, the PAVEMENT ends where the valley BREATHES, / As I brush the dust right off my SLEEVES—** | Hai câu đơn ngắt cụt (AABB nursery rhyme trap) khiến AI ngắt hơi từng câu như đọc thơ thiếu nhi. | Kỹ thuật **vắt dòng (Enjambment)** với liên từ *where* và *As I brush*, kéo dài trường đoạn giai điệu (legato phrasing) qua vạch nhịp. |
-| **Chorus (L3-4)** | *Water runs cold and the ridge is WIDE / Left the hurry on the other SIDE* | **Water runs deep and the world turns WIDE, / Leaving all the hurry on the other SIDE!** | Cụm *cold and the ridge* tái diễn kẹt nướu răng `/ld ænd ðə/`; câu thiếu xung lực tiếp nối. | Thay *cold and* bằng *deep and* (`/diːp ænd/` thoát âm bật môi sang nguyên âm); phân từ *Leaving* giữ đà bay bổng cho bè hòa âm. |
-| **Chorus (L5-6)** | *Mountain creek running clear and FINE / And the REST of the daylight is finally MINE* | **Mountain river running clear and FINE / And the REST of the daylight is finally MINE** | Từ *creek* mang âm chặn họng `/k/` làm gắt âm thanh mộc; thiếu độ nở lỏng. | Đổi thành *Mountain river* (liquid phonics `/r, v, r/`); đỉnh cao âm vực nở bung ở nguyên âm mở `/aɪ/` (*FINE / MINE*) cùng cello và bè 3 giọng. |
-| **Verse 2 (L1-4)** | *Down along the river bend... Taps the green bark off the stem* | **Down along the river where the water BENDS... To blow a sweet tune to the wind AGAIN** | Líu lưỡi sibilant-dental `/ps ðə/` (*Taps the*); vần đứt đoạn (*stem / wind*). | Đưa chuẩn xác vật thể xuyên suốt *green sleeve*; lướt êm với liquid `/sl/`; vần folk tự nhiên mềm mại (*stem / again* - `/ɛm/ / /ɛn/`). |
-| **Verse 2 (L5-6)** | *Never caring what the hours mean / Just easy living in the valley green* | **Never caring what the hours MEAN / Just sitting easy where the valley's GREEN** | "Easy living" mang tính khái quát trừu tượng, giống postcard du lịch (tell instead of show). | Thay bằng hành động mộc mạc đời thường (*Just sitting easy where the valley's GREEN*); khóa vần vang ngân `/iːn/` (*MEAN / GREEN*). |
-| **Bridge (L1-4)** | *He looks at all the lines on working hands / Hands the green flute over without a word...* | **He looks at all the lines upon my SKIN / And slips the willow flute into my HAND / Clear water washing over river SAND / And all that borrowed hurry softly GONE** | Đứt gãy mạch dẫn vật thể (quên hành động trao sáo liễu); lặp từ thô (*hands / Hands*); va đập bật họng đôi `/kuːl kriːk/`. | Khôi phục hành động cậu bé trao sáo liễu; bộ 3 vần lướt êm `/ænd/` (*HAND / SAND*); cello trầm nâng đỡ nốt buông bỏ thanh thản *softly GONE*. |
-| **Outro** | *Willow flute on the window sill... Plenty of time* | **Willow flute upon the window SILL... Plenty of time** | Giữ trọn vẻ tĩnh lặng mộc mạc; tinh chỉnh nhịp buông lơi tự nhiên. | Kết đọng như giọt sương mai trên phím đàn gỗ; tiếng cười khẽ [gentle chuckle] và câu nói buông lơi tạo Replay value cực cao. |
+[Outro]  
+[solo close-mic baritone, intimate gentle smile, calm chest resonance, natural fading ritardando]  
+[cajon drops out, gentle fingerpicked guitar and upright bass only]  
+AM-ber light shines where the NEIGH-bors sit down  
+BOATS moored and still as the STARS touch the town  
+HEA-vy oars rest on the COOL har-bor stone  
+Slow TURNS the latch on a PEACE of our own  
+[faint wooden latch click, cedar guitar chord fades out warm]  

@@ -9,7 +9,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ## 📊 Dashboard
 
-### Coslient Free — 20 tracks
+### Coslient Free — 19 tracks
 
 | Playlist | Tracks | Genre / Vibe | Status |
 |---|---|---|---|
@@ -17,7 +17,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Unfolding | 4 | Chamber Pop · Indie Folk · Anthemic Builds | 🟢 released |
 | Dust & Groove | 3 | Mid-tempo Indie Pop · Dreamy Groove · Breathy Female Vocal | 🔴 unreleased |
 | Sky & Tide | 4 | Contemplative Pop Folk · Mature Acoustic Singer-Songwriter · Philosophical Intimacy | 🔴 unreleased |
-| Porch & Hearth | 5 | Warm Acoustic Indie Folk · Pastoral Waltz · Porch Reflections | 🔴 unreleased |
+| Porch & Hearth | 4 | Warm Acoustic Indie Folk · Pastoral Waltz · Porch Reflections | 🔴 unreleased |
 
 ### Coslient Video — 17 tracks
 
@@ -30,7 +30,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Empty Stage | 3 | Indie Folk · Americana · Cinematic Dark Folk · Void Stage Trilogy | 🟢 released |
 | Passing Cloud | 3 | Cinematic Folk-Pop · Indie Folk Ballad · Stomp-Clap Anthem · Healing | 🟢 released |
 
-> **Tổng: 37 tracks · 11 playlists · 3 released · 27 chờ đăng**
+> **Tổng: 36 tracks · 11 playlists · 3 released · 26 chờ đăng**
 
 ---
 
@@ -308,18 +308,6 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Vocal:** Intimate close-mic male vocal, warm conversational baritone, gentle phrasing, lush acoustic harmonies
 - **Cultural Anchor:** Small European village tavern session × Gregory Alan Isakov coastal warmth
 - **Date Added:** 2026-09-09
-
-### 5. After the Pavement
-- **Project:** [015](file:///Users/hoangkien/Youtube/coslient-free/projects/015)
-- **About:** Ranh giới mặt đường nhựa kết thúc mở vào con đường đất đỏ thung lũng — cởi bỏ chiếc áo khoác phố thị, phủi lớp bụi đường khỏi tay áo, nhận ra chiếc đồng hồ dối trá suốt những năm tháng vội vã. Cậu bé ngày xưa trao ống sáo liễu vào bàn tay người đàn ông từng trải, chiều buông tĩnh lặng trên bậu cửa sổ gỗ với nụ cười nhẹ nhõm: "Plenty of time"
-- **Genre:** Gentle Sunny Acoustic Folk, Lighthearted Folk Ballad
-- **BPM / Time:** 78 BPM, 4/4
-- **Key:** G Major
-- **Duration:** ~3:15 – 3:30
-- **Instrumentation:** Fingerpicked Martin acoustic guitar, sweet melodious violin, gentle upright acoustic bass, crisp organic shaker, warm wooden cello, willow flute ambient tone
-- **Vocal:** Warm clear mid-range male vocals, relaxed conversational phrasing, audible smile in the delivery, two-part to three-part acoustic harmonies
-- **Cultural Anchor:** Sunny countryside valley porch session × Gregory Alan Isakov gentle acoustic warmth
-- **Date Added:** 2026-09-13
 
 ---
 
