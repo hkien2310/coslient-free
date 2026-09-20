@@ -3,6 +3,32 @@ v5.0 — Coslient Free (Universal Craftsmanship & Ironclad Anti-Duplication)
 
 ---
 
+## ⚡ 5 QUY TẮC THÉP TẠO BÀI HÁT VIRAL (HARD CONSTRAINTS)
+
+Để bài hát đạt độ thấm, chạm cảm xúc và có sức lan tỏa tự nhiên (organic viral), bắt buộc tuân thủ 5 nguyên tắc kỹ thuật sau trước khi viết bất kỳ câu nào:
+
+1. **Hard Cap âm tiết (3–5 âm tiết/dòng):**
+   * Tuyệt đối cấm viết câu dài 8–12 âm tiết trên một dòng đơn (khiến ca sĩ AI hát dồn dập như đọc rap).
+   * Bẻ đôi câu hát: mỗi dòng chỉ **3–5 âm tiết** (3–4 từ). Dấu xuống dòng `\n` là lệnh ngắt nghỉ (rest) để tiếng đàn acoustic guitar và bass mộc thở giữa các câu.
+
+2. **Tử huyệt mối quan hệ: "Ai hát cho Ai?" (Cấm tả cảnh bưu thiếp):**
+   * Tuyệt đối cấm viết bài hát từ góc nhìn flycam miêu tả phong cảnh thị trấn/thiên nhiên chung chung.
+   * Bài hát folk bắt buộc phải là **lời của một con người nói với một sinh linh cụ thể** (người bạn đời, chú chó già trung thành, người cha). Toàn bộ cảnh vật (ngõ sỏi, dòng sông, tiệm bánh) chỉ là phông nền tôn vinh mối quan hệ đó.
+
+3. **Cấu trúc bản lề: Pre-Chorus & Bridge 2 dòng:**
+   * **Pre-Chorus (2 câu ngắn):** Bản lề tâm lý đánh trúng sự đối lập giữa thế giới phán xét bên ngoài vs sự thấu hiểu vô điều kiện (*"The world keeps chasing down the line / You just match your pace to mine"*).
+   * **Bridge (2 câu đúc kết):** Đúc kết một sự thật cả đời người (*"The world forgets as time moves on / You’re still right here where you belong"*), cấm dùng Bridge để tiếp tục tả cảnh lê thê.
+
+4. **Foley Groove trong Prompt (Âm thanh đời thực làm bộ gõ):**
+   * Trong Suno Style Prompt, không chỉ liệt kê nhạc cụ (`guitar, bass`), bắt buộc phải có 1 câu chỉ định âm thanh đời thực làm rãnh nhịp:
+     > `Organic textures such as faint bicycle chain clicks, soft gravel crunches, and quiet collar jingles blended subtly into the 76 BPM groove.`
+
+5. **Chống né từ cấm kiểu máy móc (Anti-Mechanical Slop):**
+   * Cấm việc né từ cấm bằng cách nhét một từ cơ học quái đản (như né "brass" thì nhét "zinc bell", né "smoke" thì nhét "clay smoke").
+   * Luôn dùng từ ngữ mộc mạc, bình dị của con người (`bike`, `bread`, `stone`, `woodsmoke`) thay vì gượng ép từ vựng dị biệt.
+
+---
+
 ## PHẦN 1 — TÊN BÀI HÁT (SONG TITLE)
 
 **Định hướng thẩm mỹ:**
