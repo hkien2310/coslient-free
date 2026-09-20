@@ -160,12 +160,108 @@ the tide haven, a dream town, a quiet song about a small coastal town, safe in t
 
 ---
 
-## 📱 9. YOUTUBE SHORTS STRATEGY
+## 📱 9. YOUTUBE SHORTS STRATEGY (2 GÓI SEO THỰC CHIẾN)
 
-* **Đoạn trích dẫn (30–45s)**: Đoạn Verse 1 nối sang Chorus 1 (`"Low tide uncovers the sand by the bay / Children run laughing for shells in the spray / Baker flings open his shutters of pine / Sharing warm loaves down the cobblestone line / Here where the cedar winds roll from the sea..."`).
-* **Shorts Title Hooks**:
-  > *In this cliffside town, nobody hurries when the tide goes out. 🌊🍞*  
-  > *Safe in the harbor with a life of our own. ⛵*
+### 🎬 SHORT 1: "THE MORNING BAKER & LOW TIDE" (Sáng sớm & Ổ bánh mì nóng)
+
+* **Tên file video xuất:**
+  ```text
+  the-tide-haven-shorts-1-morning-baker.mp4
+  ```
+* **Đoạn trích dẫn (35s - 45s):**
+  * *Âm thanh:* Verse 1 nối sang Chorus 1 (0:20 – 1:00).
+  * *Visual Hook (0–2s đầu):* Bác thợ bánh tóc len bạc trao ổ bánh nướng vàng ruộm bốc khói nhẹ qua cửa sổ gỗ thông, ngoài xa là biển ngọc rực nắng sớm và trẻ nhỏ chạy nhặt ốc trên bãi cát mịn.
+* **Tiêu đề Shorts (Lựa chọn 1 trong 3):**
+  * *Option 1 (Hook câu chuyện - Khuyên dùng):*
+    ```text
+    The baker who never hurries when the tide goes out 🍞🌊 #shorts #adreamtown
+    ```
+  * *Option 2 (Gợi tò mò nhịp sống chậm):*
+    ```text
+    In this small coastal town, nobody rushes their morning ☕ #shorts
+    ```
+  * *Option 3 (Câu chốt vỗ về):*
+    ```text
+    Bread on the counter, salt on the stone 🌊 #shorts #stopmotion
+    ```
+* **Mô tả Shorts (YouTube Description):**
+  ```text
+  A quiet morning in a cliffside town where no one rushes.
+  The baker opens his pine shutters, children run for shells at low tide, and brown sails head out to sea.
+
+  🔗 Watch the full song & diorama film: [Link Video 15 - The Tide Haven]
+
+  LYRICS:
+  Low tide uncovers the sand by the bay
+  Children run laughing for shells in the spray
+  Baker flings open his shutters of pine
+  Sharing warm loaves down the cobblestone line
+  Here where the cedar winds roll from the sea
+  Bread on the counter and salt on the stone
+  Safe in the harbor with life of our own
+
+  #shorts #adreamtown #stopmotion #slowliving #cozymusic #indiefolk #coslient
+  ```
+* **Thẻ Tags Shorts:**
+  ```text
+  the tide haven shorts, a dream town shorts, slow living coastal, needle felted stop motion, morning baker, acoustic folk shorts, cozy morning routine, coslient shorts
+  ```
+* **Pinned Comment (Bình luận ghim kéo traffic về video dài):**
+  > *"When was the last time your morning felt this slow and peaceful? 🍞☕"*  
+  > *Watch the full song and diorama film here: [Link Video 15 - The Tide Haven]*
+* **Cài đặt YouTube Studio:** Gán trường **"Related video"** trỏ trực tiếp về Video dài 15 (*The Tide Haven*).
+
+---
+
+### 🎬 SHORT 2: "MENDING THE SPLIT OAR" (Hai người bạn già & Tách trà nóng)
+
+* **Tên file video xuất:**
+  ```text
+  the-tide-haven-shorts-2-mending-the-oar.mp4
+  ```
+* **Đoạn trích dẫn (35s - 45s):**
+  * *Âm thanh:* Verse 2 nối sang Chorus 2 (1:10 – 1:55).
+  * *Visual Hook (0–2s đầu):* Cận cảnh bàn tay len gọt chốt gỗ chêm vết nứt trên chiếc mái chèo bên hai tách trà gốm bốc khói mỏng và nụ cười đôn hậu của hai người bạn già bên hiên mộc.
+* **Tiêu đề Shorts (Lựa chọn 1 trong 3):**
+  * *Option 1 (Hook tình bạn & bến đỗ - Khuyên dùng):*
+    ```text
+    Two old friends, a broken oar, and hot tea 🍵🪵 #shorts #adreamtown
+    ```
+  * *Option 2 (Gợi đồng cảm sâu sắc):*
+    ```text
+    When life catches you in a storm, find a neighbor who keeps the tea hot 🌊 #shorts
+    ```
+  * *Option 3 (Bình yên tự tại):*
+    ```text
+    Safe in the harbor with a peace of our own ⛵ #shorts #slowliving
+    ```
+* **Mô tả Shorts (YouTube Description):**
+  ```text
+  He caught a squall half a mile out. His neighbor didn't ask questions—just put the kettle on and shaved a dry peg for the split wood.
+  This is life in the tide haven.
+
+  🔗 Watch the full video here: [Link Video 15 - The Tide Haven]
+
+  LYRICS:
+  Old neighbor comes in with a split in his oar
+  Caught in a squall half a mile from the shore
+  Shave a dry peg for the seam in the wood
+  Two steaming cups and the laughter is good
+  Here where the cedar winds roll from the sea
+  Here where the brown sails glide home to the quay
+  Bread on the counter and salt on the stone
+  Safe in the harbor with life of our own
+
+  #shorts #adreamtown #stopmotion #cozyvibes #acousticfolk #friendship #coslient
+  ```
+* **Thẻ Tags Shorts:**
+  ```text
+  the tide haven, two old friends, mending the oar, safe in the harbor, stop motion animation, wholesome moments, cozy acoustic folk, slow living, coslient
+  ```
+* **Pinned Comment (Bình luận ghim kéo traffic về video dài):**
+  > *"A good neighbor and a hot cup of tea can fix almost anything. 🍵⛵"*  
+  > *Listen to the complete song and wander through the town here: [Link Video 15 - The Tide Haven]*
+* **Cài đặt YouTube Studio:** Gán trường **"Related video"** trỏ trực tiếp về Video dài 15 (*The Tide Haven*).
 
 ---
 

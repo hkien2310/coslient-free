@@ -34,3 +34,6 @@
 # Misc
 *.log
 Thumbs.db
+
+# Local member config
+.current_member
