@@ -3,7 +3,7 @@
 Nguồn sự thật duy nhất cho việc phân phối nhạc qua DistroKid.  
 Cập nhật tự động bởi AI agent khi chốt nhạc xong.  
 Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video** (`coslient-video/`).  
-**Quy tắc xuất lời:** Xem [`style_music/music_craft.md`](./style_music/music_craft.md) (Phần 5).
+**Quy tắc xuất lời:** Xem [`../craft/music_craft.md`](./../craft/music_craft.md) (Phần 5).
 
 ---
 

@@ -44,8 +44,8 @@ coslient, a dream town, original music, stop motion, handcrafted animation, mini
 ---
 
 ## 4. PHÂN PHỔI PLAYLIST & DISTROKID
-- **YouTube Playlists (Quy tắc 3 chạm):** Tra cứu chọn đúng 1 Mood Playlist, 1 Album Playlist và 1 Master Playlist tại [`style_seo/youtube_playlists.md`](./youtube_playlists.md).
-- **DistroKid Album:** Tra cứu chọn đúng Album/EP tại [`distrokid.md`](../distrokid.md).
+- **YouTube Playlists (Quy tắc 3 chạm):** Tra cứu chọn đúng 1 Mood Playlist, 1 Album Playlist và 1 Master Playlist tại [`../ref/youtube_playlists.md`](../ref/youtube_playlists.md).
+- **DistroKid Album:** Tra cứu chọn đúng Album/EP tại [`distrokid.md`](../ref/distrokid.md).
 
 ---
 
@@ -116,8 +116,8 @@ Original Music & Visuals by Coslient
 
 ## 8. PLAYLISTS & DISTROKID (TRA CỨU & TICK CHỌN)
 > 🔗 **Hướng dẫn logic:**  
-> - YouTube Playlists: Xem logic phân bổ tại đầu file [`style_seo/youtube_playlists.md`](../style_seo/youtube_playlists.md)  
-> - DistroKid Album/EP: Xem logic phân bổ tại đầu file [`distrokid.md`](../distrokid.md)
+> - YouTube Playlists: Xem logic phân bổ tại đầu file [`../ref/youtube_playlists.md`](../../ref/youtube_playlists.md)  
+> - DistroKid Album/EP: Xem logic phân bổ tại đầu file [`distrokid.md`](../ref/distrokid.md)
 
 ### YouTube Playlists (Tick chọn khi upload):
 ```text

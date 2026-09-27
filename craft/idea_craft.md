@@ -51,5 +51,5 @@ File `projects/XXX/1-idea.md` chuẩn gồm đúng 3 khối cô đọng (dưới
 
 ## 4. QUY TRÌNH CHUYỂN GIAO
 1. Viết xong `1-idea.md` theo khung trên.
-2. Ghi nhận 1 dòng tóm tắt vào bảng catalog [idea-index.md](../idea-index.md) (để chống trùng mỏ neo cho các bài sau).
+2. Ghi nhận 1 dòng tóm tắt vào bảng catalog [idea-index.md](../ref/idea-index.md) (để chống trùng mỏ neo cho các bài sau).
 3. Chuyển giao ngay cho Bước 2 (`2-music.md`).

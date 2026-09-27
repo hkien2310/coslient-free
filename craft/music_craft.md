@@ -14,7 +14,7 @@ v10.0 — Tự Do Sáng Tạo, Giản Dị & Chân Thực
    * Độ dài vừa vặn (~3 phút): đủ trọn vẹn câu chuyện và có khoảng lặng lắng đọng.
 4. **Kỷ luật chống AI Slop (Bắt buộc):**
    * Áp dụng triệt để nguyên tắc từ các skill tại `.agents/skills/` ([stop-slop](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/stop-slop/SKILL.md), [humanizer](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/humanizer/SKILL.md), [avoid-ai-writing](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/avoid-ai-writing/SKILL.md)).
-   * Cấm tiệt sáo ngữ đao to búa lớn và văn mẫu trị liệu tâm lý (tuân thủ [banned_lyrics_motifs.md](./banned_lyrics_motifs.md)). Ca từ phải chân thực, không giả tạo.
+   * Cấm tiệt sáo ngữ đao to búa lớn và văn mẫu trị liệu tâm lý (tuân thủ [banned_lyrics_motifs.md](../ref/banned_lyrics_motifs.md)). Ca từ phải chân thực, không giả tạo.
 
 ---
 
@@ -50,7 +50,7 @@ v10.0 — Tự Do Sáng Tạo, Giản Dị & Chân Thực
 
 ## PHẦN 4 — CƠ CHẾ CHỐNG TRÙNG LẶP (ANTI-COLLISION)
 
-Trước khi viết, đối chiếu [idea-index.md](file:///Users/hoangkien/Youtube/coslient-free/idea-index.md) và [lyrics-index.md](file:///Users/hoangkien/Youtube/coslient-free/lyrics-index.md):
+Trước khi viết, đối chiếu [idea-index.md](file:///Users/hoangkien/Youtube/coslient-free/ref/idea-index.md) và [lyrics-index.md](file:///Users/hoangkien/Youtube/coslient-free/ref/lyrics-index.md):
 - Không lặp lại đạo cụ mỏ neo đặc trưng đã chiếm ở các bài trước.
 - Sở hữu câu hook và màu sắc giai điệu độc lập.
 

@@ -49,4 +49,4 @@ File `storyboard.md` trong thư mục project:
 | ...       | ...       | ... |
 ```
 
-> Storyboard chỉ mô tả **cảnh gì**. Prompt ảnh được tạo ở bước sau dựa trên storyboard + [STYLE_handcrafted_tactile_diorama.md](./STYLE_handcrafted_tactile_diorama.md).
+> Storyboard chỉ mô tả **cảnh gì**. Prompt ảnh được tạo ở bước sau dựa trên storyboard + [STYLE_handcrafted_tactile_diorama.md](../style/STYLE_handcrafted_tactile_diorama.md).

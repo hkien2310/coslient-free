@@ -15,12 +15,12 @@
 ## 2. WORKFLOW LÀM VIỆC (3 BƯỚC)
 Mỗi project = 1 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** Chủ đề cảm xúc cốt lõi, Send Test và hình ảnh gợi cảm xúc (tuân thủ [`style_music/idea_craft.md`](./style_music/idea_craft.md)). Tuyệt đối không vẽ trước kịch bản hay áp đặt đạo cụ gò bó.
+1. **Idea (`1-idea.md`):** Chủ đề cảm xúc cốt lõi, Send Test và hình ảnh gợi cảm xúc (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Tuyệt đối không vẽ trước kịch bản hay áp đặt đạo cụ gò bó.
 2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát & xuất lời sạch DistroKid. Bắt buộc kích hoạt tư duy chống AI slop (`stop-slop`, `humanizer`, `avoid-ai-writing`), tuyệt đối không dùng sáo ngữ đao to búa lớn hay văn mẫu trị liệu tâm lý.
 3. **Visual:**
-   * `storyboard.md`: Chia bài hát thành shots 4–6s, mô tả cảnh gì tại mỗi thời điểm (tuân thủ [`style/visual_craft.md`](./style/visual_craft.md)).
+   * `storyboard.md`: Chia bài hát thành shots 4–6s, mô tả cảnh gì tại mỗi thời điểm (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)).
    * `image.txt`: Từ storyboard, viết prompts ảnh cho từng shot (tuân thủ [`style/STYLE_handcrafted_tactile_diorama.md`](./style/STYLE_handcrafted_tactile_diorama.md)).
-   * `animation.txt`: Từ ảnh thực tế đã tạo, viết prompt chuyển động riêng từng shot (tuân thủ [`style/animation_craft.md`](./style/animation_craft.md)).
+   * `animation.txt`: Từ ảnh thực tế đã tạo, viết prompt chuyển động riêng từng shot (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)).
 
 ---
 

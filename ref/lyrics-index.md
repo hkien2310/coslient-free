@@ -10,8 +10,8 @@
 Trước khi viết lyrics mới:
 1. Đọc toàn bộ bảng bên dưới
 2. Check **Hook chính** + **Keywords/Imagery** — nếu định dùng cụm nào đã có → rewrite ngay, đừng hỏi
-3. Đọc và đối chiếu toàn bộ **Cẩm nang từ cấm & Motif kiệt quệ** tại `style_music/banned_lyrics_motifs.md`
-4. Sau khi hoàn thành Bước 2 → append entry mới vào bảng; nếu phát hiện motif mới có nguy cơ lặp lại → cập nhật bổ sung vào `style_music/banned_lyrics_motifs.md`
+3. Đọc và đối chiếu toàn bộ **Cẩm nang từ cấm & Motif kiệt quệ** tại `banned_lyrics_motifs.md`
+4. Sau khi hoàn thành Bước 2 → append entry mới vào bảng; nếu phát hiện motif mới có nguy cơ lặp lại → cập nhật bổ sung vào `banned_lyrics_motifs.md`
 
 ---
 
@@ -45,7 +45,7 @@ Trước khi viết lyrics mới:
 
 ## 🚫 Forbidden Patterns — KHÔNG bao giờ dùng lại
 
-> 📖 **Cẩm nang đầy đủ:** Xem chi tiết 4 nhóm motif cấm, danh bạ AI slop và bảng bẻ lái sáng tạo tại [`style_music/banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/style_music/banned_lyrics_motifs.md).
+> 📖 **Cẩm nang đầy đủ:** Xem chi tiết 4 nhóm motif cấm, danh bạ AI slop và bảng bẻ lái sáng tạo tại [`banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/banned_lyrics_motifs.md).
 
 Những imagery/cụm đã được dùng quá nhiều trong catalog — **bị cấm hoàn toàn** trong mọi bài mới:
 
@@ -58,7 +58,7 @@ Những imagery/cụm đã được dùng quá nhiều trong catalog — **bị 
 | `summer turn to gold / turning golden in the sun` | Đã dùng ở 006, 009 |
 | `you don't have to [verb] anymore` | Structure quá lặp — đã dùng ở 006, 007, 008b |
 | `the [noun] is yours / you are home` | Outro quá lặp — đã dùng ở 008a, 009, 007b |
-| `moss`, `iron straps/armor`, `linen sail/sheets` | Quá tải chất liệu — xem `style_music/banned_lyrics_motifs.md` |
+| `moss`, `iron straps/armor`, `linen sail/sheets` | Quá tải chất liệu — xem `banned_lyrics_motifs.md` |
 | `lantern swinging / on the sill`, `whale in clouds` | Đồ vật/hình ảnh cứu rỗi lặp lại |
 
 ---
