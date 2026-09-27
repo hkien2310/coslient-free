@@ -116,7 +116,7 @@ Original Music & Visuals by Coslient
 
 ## 8. PLAYLISTS & DISTROKID (TRA CỨU & TICK CHỌN)
 > 🔗 **Hướng dẫn logic:**  
-> - YouTube Playlists: Xem logic phân bổ tại đầu file [`../ref/youtube_playlists.md`](../../ref/youtube_playlists.md)  
+> - YouTube Playlists: Xem logic phân bổ tại đầu file [`youtube_playlists.md`](../ref/youtube_playlists.md)  
 > - DistroKid Album/EP: Xem logic phân bổ tại đầu file [`distrokid.md`](../ref/distrokid.md)
 
 ### YouTube Playlists (Tick chọn khi upload):

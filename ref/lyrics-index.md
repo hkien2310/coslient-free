@@ -45,7 +45,7 @@ Trước khi viết lyrics mới:
 
 ## 🚫 Forbidden Patterns — KHÔNG bao giờ dùng lại
 
-> 📖 **Cẩm nang đầy đủ:** Xem chi tiết 4 nhóm motif cấm, danh bạ AI slop và bảng bẻ lái sáng tạo tại [`banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/banned_lyrics_motifs.md).
+> 📖 **Cẩm nang đầy đủ:** Xem chi tiết 4 nhóm motif cấm, danh bạ AI slop và bảng bẻ lái sáng tạo tại [`banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/ref/banned_lyrics_motifs.md).
 
 Những imagery/cụm đã được dùng quá nhiều trong catalog — **bị cấm hoàn toàn** trong mọi bài mới:
 
