@@ -9,7 +9,7 @@ Tuyệt đối không dùng các từ đao to búa lớn, sáo rỗng vô hồn 
 
 | Danh mục | Từ / Cụm từ cấm tuyệt đối | Lý do |
 | :--- | :--- | :--- |
-| **AI Slop đao to búa lớn** | `whisper(s)`, `echo(es)`, `shadow(s)`, `symphony`, `tapestry`, `endless`, `eternity`, `ignite`, `unravel`, `entwined`, `breathless`, `fade away`, `rise from ashes`, `wings to fly`, `celestial`, `abyss`, `gravity`, `constellations` | Từ ngữ thi vị hóa sáo rỗng, thiếu xúc giác đời thường. Thay bằng âm thanh, hình ảnh và hành động thật. |
+| **AI Slop đao to búa lớn** | `whisper(s)`, `echo(es)`, `symphony`, `tapestry`, `endless`, `eternity`, `ignite`, `unravel`, `entwined`, `breathless`, `rise from ashes`, `wings to fly`, `celestial`, `abyss`, `gravity`, `constellations` | Từ ngữ thi vị hóa sáo rỗng, thiếu xúc giác đời thường. Thay bằng âm thanh, hình ảnh và hành động thật. |
 | **Melodrama than khóc** | `agony`, `weeping`, `tears fall`, `shattered heart`, `sorrow`, `drowning in pain`, `broken pieces`, `aching soul` | Kể lể bi lụy rẻ tiền. Âm nhạc Coslient là sự an yên, ấm áp, có nụ cười. |
 | **Trope giảng đạo / Trị liệu tâm lý** | `you don't have to carry the world...`, `let the heavy go`, `drop the weight / armor`, `just breathe`, `now you are home`, `nothing broken, nothing lost` | Biến bài hát thành buổi tham vấn tâm lý hoặc bài học đạo đức sáo mòn. |
 

@@ -1,7 +1,7 @@
 # 🎵 LYRICS INDEX — COSLIENT FREE
 
-**Mục đích:** Bộ nhớ lyrics liên project. Agent đọc file này trước Bước 2 để tránh trùng hook, imagery, và cụm từ cốt lõi.
-**Cập nhật:** Cuối Bước 3 mỗi project — append entry mới vào bảng.
+**Mục đích:** Bộ nhớ lyrics liên project. Đọc file này trước Bước 2 để tránh trùng hook, imagery, và cụm từ cốt lõi.
+**Cập nhật:** Cuối Bước 2 mỗi project (sau khi chốt nhạc và lời) — append entry mới vào bảng.
 
 ---
 
@@ -11,7 +11,7 @@ Trước khi viết lyrics mới:
 1. Đọc toàn bộ bảng bên dưới
 2. Check **Hook chính** + **Keywords/Imagery** — nếu định dùng cụm nào đã có → rewrite ngay, đừng hỏi
 3. Đọc và đối chiếu toàn bộ **Cẩm nang từ cấm & Motif kiệt quệ** tại `style_music/banned_lyrics_motifs.md`
-4. Sau khi hoàn thành Bước 3 → append entry mới vào bảng; nếu phát hiện motif mới có nguy cơ lặp lại → cập nhật bổ sung vào `style_music/banned_lyrics_motifs.md`
+4. Sau khi hoàn thành Bước 2 → append entry mới vào bảng; nếu phát hiện motif mới có nguy cơ lặp lại → cập nhật bổ sung vào `style_music/banned_lyrics_motifs.md`
 
 ---
 
@@ -38,6 +38,7 @@ Trước khi viết lyrics mới:
 | 015 | The Tide Haven | *"Here where the cedar winds roll from the sea / Here where the brown sails glide home to the quay / Bread on the counter and salt on the stone / Safe in the harbor with life of our own"* | Thị trấn vách đá ven biển, triều rút nhặt vỏ ốc trong bọt sóng, tiệm bánh mở cửa chớp thông, xưởng mộc sửa mái chèo nứt bên hai tách trà nóng, chuông cảng hoàng hôn, thuyền về bến, đèn dầu hổ phách, mái chèo nặng buông trên bờ đá mát lạnh, then cửa gỗ cài khẽ | cedar winds roll, brown sails, shutters of pine, warm loaves, split ash-wood oar, dry peg, steaming cups, deep chime the bells, amber light shines, heavy oars on cool harbor stone, latch on a peace of our own |
 | 016 | The Father's Bough | *"Swing me up high through the leaves in the sun / Grandfather's tree holding father and son"* | Cổng gỗ ngõ sỏi, dao bấm dò rãnh vỏ xám khắc vạch đo mới cạnh vạch đo đầu tiên của cha thời thơ ấu, đứa trẻ kiễng chân đứng nơi cha từng đứng, bàn tay người ông chạm thớ gỗ thơm nhựa sống, người cha tựa vai dẫn lối xích đu, cành cây to trĩu nặng đung đưa, vòng đu vút cao nơi cành chia nhánh, gót chân tung trên đỉnh lượn, dây thừng bện xoắn cắm rễ đất sét đỏ, chim sẻ nép bụi thấp chiều buông | father's bough, timber gate, small canvas shoes, weathered pine porch, furrowed grey bark, carving a line, father's first mark, sap-scented wood, heavy limbs sway, shoulder to trunk, hand guides the way, crest of the glide, red clay ground, grandfather's tree holding father and son, sparrows nestled low, green apple grows |
 | 017 | The Gentle Road | *"Step by step slow and sweet the white geese cross the road / The wagon stops the neighbor waits to share a lighter load / A forest fawn eats from the hand beneath the apple bough / There is no hurry in this town the world is gentle now"* | Bưu tá đạp xe nặng cùng chim sẻ đậu ghi-đông, thợ bánh chia khay vụn bánh ấm trên bậu gỗ, ngỗng trắng thong thả qua đường xe thồ dừng nhường lối, bà cụ làm vườn chăm luống đậu, nai rừng ra ăn táo trên tay, hàng xóm chuyền nhau bát mận chín qua bờ rào, mèo mướp dụi chân kêu rù rù, nước suối núi mát lạnh qua đá cuội, khói thông xanh bay từ lò sưởi, ngựa nghỉ ngơi, ánh đèn vàng ấm như mật ong | heavy bike, sparrow on the bar, tray of crusts, white geese cross, wagon stops, forest fawn from the hand, apple bough, woman tends her peas, bowl of plums, tabby cat, mountain water, river stone, chimney clay, tired horses, yellow windows like honey |
+| 018 | A Place Back Home | *"Hey my friend on any road you roam / You have always got a place back home / The water is hot and the room is wide / So kick off your boots and step inside"* | Thức dậy với khúc nhạc rộn rã, nhảy ra khỏi giường nhớ nụ cười bạn cũ, dậm chân vỗ tay cùng tiếng harmonica, dù đi nẻo đường nào vẫn luôn có chỗ ấm đợi bạn, không nợ một đồng một cắc, biết ơn vì bạn từng yêu bài hát của tôi, nhịp nhạc vui tươi thâu đêm suốt sáng | tune in my head, jump out of bed, joy that you gave, friendly wave, any road you roam, place back home, room is wide, kick off your boots, step inside, jokes we shared, thank my stars, open sky, not owe me a single dime, sweetest time, beat on the rolling wind, beat goes on, always smile when I see your face |
 
 ---
 

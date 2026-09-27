@@ -3,38 +3,60 @@
 Nguồn sự thật duy nhất cho việc phân phối nhạc qua DistroKid.  
 Cập nhật tự động bởi AI agent khi chốt nhạc xong.  
 Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video** (`coslient-video/`).  
-**Quy tắc:** Xem `CLAUDE.md` §5.
+**Quy tắc xuất lời:** Xem [`style_music/music_craft.md`](./style_music/music_craft.md) (Phần 5).
 
 ---
 
-## 📊 Dashboard
+## 🎯 QUY TẮC PHÂN BỔ ALBUM (COSLIENT FREE V2)
 
-### Coslient Free — 19 tracks
+> 🔒 **LƯU Ý QUAN TRỌNG:**
+> - **Coslient Video:** Đã khóa toàn bộ (Season trước / Legacy).
+> - **Coslient Free V1 (Projects 001–017):** Đã khóa toàn bộ (giai đoạn cũ).
+> - **Coslient Free V2:** Bắt đầu từ **Project 018** trở đi (Thế giới sống động, nhân vật sinh hoạt tự nhiên, không stopmotion con rối). Mọi bài mới chỉ gán vào các album của V2.
 
-| Playlist | Tracks | Genre / Vibe | Status |
-|---|---|---|---|
-| Meadow & Moss | 4 | Pastoral Acoustic Waltz · Chamber Folk · Intimate Male Whisper | 🔴 unreleased |
-| Unfolding | 4 | Chamber Pop · Indie Folk · Anthemic Builds | 🟢 released |
-| Dust & Groove | 3 | Mid-tempo Indie Pop · Dreamy Groove · Breathy Female Vocal | 🔴 unreleased |
-| Sky & Tide | 4 | Contemplative Pop Folk · Mature Acoustic Singer-Songwriter · Philosophical Intimacy | 🔴 unreleased |
-| Porch & Hearth | 4 | Warm Acoustic Indie Folk · Pastoral Waltz · Porch Reflections | 🔴 unreleased |
-
-### Coslient Video — 17 tracks
-
-| Playlist | Tracks | Genre / Vibe | Status |
-|---|---|---|---|
-| Silver & Silk | 3 | High-Fashion Blues-Pop · Dark Tribal Pop · Theatrical Folk Anthem · Female Power | 🔴 unreleased |
-| Still Water | 3 | Indie Folk Ballad · Lo-Fi Nocturnal Folk · Intimate Porch Reflections | 🔴 unreleased |
-| The Mended Thread | 3 | Indie Folk Ballad · Chamber Pop Waltz · Handcrafted Warmth | 🔴 unreleased |
-| The Resonance | 2 | Gospel Folk-Rock · Soul-Inflected Indie Rock · Anthemic Choir | 🔴 unreleased |
-| Empty Stage | 3 | Indie Folk · Americana · Cinematic Dark Folk · Void Stage Trilogy | 🟢 released |
-| Passing Cloud | 3 | Cinematic Folk-Pop · Indie Folk Ballad · Stomp-Clap Anthem · Healing | 🟢 released |
-
-> **Tổng: 36 tracks · 11 playlists · 3 released · 26 chờ đăng**
+1. **Gán vào Album có sẵn:** Album V2 đang ở trạng thái **`🔴 unreleased`** ➔ Thêm track vào.
+2. **Tạo Album mới:** Khi album cùng vibe đã phát hành (`🟢 released`) hoặc bắt đầu concept âm thanh mới ➔ Tạo Album V2 mới (`🔴 unreleased`).
 
 ---
 
-## 🔴 Meadow & Moss [unreleased] — 4 tracks
+## 📊 Dashboard Album & Trạng Thái
+
+### 🟡 Coslient Free V2 (Active — Từ Project 018)
+
+| Album / EP | Tracks | Genre / Vibe | Trạng Thái |
+|---|---|---|---|
+| A Place Back Home | 1 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
+
+---
+
+### 🔒 Coslient Free V1 (Projects 001–017 — KHÓA / Legacy)
+
+| Album / EP | Tracks | Genre / Vibe | Trạng Thái |
+|---|---|---|---|
+| Meadow & Moss | 4 | Pastoral Acoustic Waltz · Chamber Folk · Intimate Whisper | 🔒 KHÓA (`🟢 released`) |
+| Unfolding | 4 | Chamber Pop · Indie Folk · Anthemic Builds | 🔒 KHÓA (`🟢 released`) |
+| Dust & Groove | 3 | Mid-tempo Indie Pop · Dreamy Groove · Breathy Female Vocal | 🔒 KHÓA (`🟢 released`) |
+| Sky & Tide | 4 | Contemplative Pop Folk · Mature Singer-Songwriter | 🔒 KHÓA (`🔴 unreleased archive`) |
+| Porch & Hearth | 4 | Warm Acoustic Folk · Pastoral Waltz · Porch Reflections | 🔒 KHÓA (`🟢 released`) |
+
+---
+
+### 🔒 Coslient Video (Season trước — KHÓA / Legacy)
+
+| Album / EP | Tracks | Genre / Vibe | Trạng Thái |
+|---|---|---|---|
+| Silver & Silk | 3 | High-Fashion Blues-Pop · Dark Tribal Pop · Female Power | 🔒 KHÓA (`🔴 unreleased archive`) |
+| Still Water | 3 | Indie Folk Ballad · Lo-Fi Nocturnal Folk · Porch Reflections | 🔒 KHÓA (`🔴 unreleased archive`) |
+| The Mended Thread | 3 | Indie Folk Ballad · Chamber Pop Waltz · Handcrafted Warmth | 🔒 KHÓA (`🔴 unreleased archive`) |
+| The Resonance | 2 | Gospel Folk-Rock · Soul-Inflected Indie Rock · Choir | 🔒 KHÓA (`🔴 unreleased archive`) |
+| Empty Stage | 3 | Indie Folk · Americana · Void Stage Trilogy | 🔒 KHÓA (`🟢 released`) |
+| Passing Cloud | 3 | Cinematic Folk-Pop · Stomp-Clap Anthem · Healing | 🔒 KHÓA (`🟢 released`) |
+
+---
+
+## 🟢 Meadow & Moss [released] — 4 tracks
+
+**Released:** 2026-09-14
 
 **Genre / Vibe:** Pastoral Acoustic Waltz, Chamber Folk, Intimate Lullaby  
 **Mood:** Weightless, serene, grounded, healing, nocturnal  
@@ -152,7 +174,9 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Dust & Groove [unreleased] — 3 tracks
+## 🟢 Dust & Groove [released] — 3 tracks
+
+**Released:** 2026-09-21
 
 **Genre / Vibe:** Mid-tempo Indie Pop, Dreamy Groove, Bouncy & Warm  
 **Mood:** Groovy, warm, breathy, healing, laid-back rebellion  
@@ -253,13 +277,15 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Porch & Hearth [unreleased] — 5 tracks
+## 🟢 Porch & Hearth [released] — 4 tracks
+
+**Released:** 2026-09-21
 
 **Genre / Vibe:** Warm Acoustic Indie Folk, Nostalgic Americana, Mature Singer-Songwriter, Porch Reflections  
 **Mood:** Grounded, forgiving, peaceful, reflective, unburdened, deeply comforting  
 **Signature Sound:** Fingerpicked wooden acoustic guitar, warm low cello, felt upright piano, upright bass, mature deep raspy male baritone, 64–72 BPM  
 **Cultural Anchors:** Gregory Alan Isakov, late-era Johnny Cash, Townes Van Zandt, John Prine, Guy Clark  
-**Tracks:** 5
+**Tracks:** 4
 
 ### 1. Unwound
 - **Project:** [010](file:///Users/hoangkien/Youtube/coslient-free/projects/010)
@@ -308,6 +334,29 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Vocal:** Intimate close-mic male vocal, warm conversational baritone, gentle phrasing, lush acoustic harmonies
 - **Cultural Anchor:** Small European village tavern session × Gregory Alan Isakov coastal warmth
 - **Date Added:** 2026-09-09
+
+---
+
+## 🔴 A Place Back Home [unreleased] — 1 track
+
+**Album:** A Place Back Home (Coslient Free V2 Debut Release)  
+**Genre / Vibe:** Upbeat Acoustic Folk Pop, Sunny Front-Porch Reflections, Warm Storytelling  
+**Mood:** Joyful, welcoming, grateful, heartwarming, upbeat sanctuary  
+**Signature Sound:** Bouncing fingerpicked guitar, warm upright piano, walking upright bass, foot stomps, handclaps, joyful harmonica riffs, warm smiling male baritone, 96 BPM  
+**Cultural Anchors:** Gregory Alan Isakov "The Weatherman" × Simon & Garfunkel upbeat folk warmth  
+**Tracks:** 1 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
+
+### 1. A Place Back Home
+- **Project:** [018](file:///Users/hoangkien/Youtube/coslient-free/projects/018)
+- **About:** Nấu nước ấm, chừa sẵn chiếc ghế bành bên khung cửa sổ ngập nắng cho người bạn cũ trên vạn dặm đường xa trở về nhà — dù đi bao xa, nơi đây luôn có chỗ cho bạn
+- **Genre:** Acoustic Folk Pop, Sunny Front-Porch Reflections
+- **BPM / Time:** 96 BPM, 4/4 upbeat folk groove
+- **Key:** —
+- **Duration:** ~2:45
+- **Instrumentation:** Bouncing fingerpicked acoustic guitar, rhythmic upright piano, walking upright bass, lively handclaps & foot stomps, joyful acoustic harmonica riffs
+- **Vocal:** Warm male baritone with smiling energetic delivery and rich chorus harmonies
+- **Cultural Anchor:** Cozy porch acoustic warmth × Welcoming old friends home
+- **Date Added:** 2026-09-26
 
 ---
 

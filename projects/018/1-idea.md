@@ -1,105 +1,89 @@
-# PROJECT 018: THE FAITHFUL STRIDE (BƯỚC CHÂN TRI KỶ)
+# PROJECT 018: A PLACE BACK HOME (MỘT CHỐN ĐÓN VỀ)
 **Ý niệm Nghệ thuật & Bối cảnh Đời sống**  
 *Thư mục: `projects/018/1-idea.md` | Coslient Free*
 
 ---
 
-## 💡 1. BỐI CẢNH & KHÔNG GIAN (THE COUNTRY HOMESTEAD & GRAVEL LANE)
+## 💡 1. BỐI CẢNH & KHÔNG GIAN (THE OLD TOWN CORNER & COBBLESTONE STREET)
 
-* **Bối cảnh sống & Tình bạn thuần khiết:**
-  * Một ngôi nhà gỗ mái dốc mộc mạc bên triền đồi nông thôn, nơi lối mòn rải sỏi mịn chạy dọc bờ rào gỗ chẻ và cánh đồng cỏ hanh vàng.
-  * Mối quan hệ tri kỷ bền chặt giữa một người đàn ông lớn tuổi đôn hậu và chú chó già trung thành lông vàng mõm hoa râm. Đây không phải là câu chuyện cứu hộ đầy kịch tính, mà là nếp sống thường nhật đã gắn kết qua hàng ngàn ngày cùng chia sẻ từng bước chân, từng bữa ăn, từng khoảng lặng bên hiên.
-  * Không gian mở mang tính phổ quát: bậc thềm gỗ sồi đón nắng sớm, khoảnh sân đất nện quét sạch sẽ, rặng sồi già râm mát và lối mòn dạo bộ quen thuộc lúc hoàng hôn.
+* **Bối cảnh sống & Nhịp sống thị trấn chan hòa:**
+  * Một góc phố cổ kính lát đá cuội tròn nhẵn trong một thị trấn nhỏ thanh bình, nơi giao thoa giữa chợ sớm và dãy phố thợ thủ công. Dưới bóng râm của cây phong già rợp mát là quán trà gỗ mộc của một ông lão đôn hậu tóc bạc phơ, mặc áo len be và tạp dề vải lanh xanh chàm.
+  * Thị trấn luôn nhộn nhịp những bước chân đời thường thân thuộc: bác phu xe ghé cho ngựa uống nước bên máng đá, cô gái bán hoa gánh đôi sọt cúc dại tươi rói ghé tặng nhành hoa cắm bình, bác thợ mộc đầu phố xách bình gốm sang xin nước sôi pha trà, lũ trẻ ríu rít đuổi theo vòng quay gỗ trên vỉa hè.
+  * Quán trà là điểm dừng chân ấm áp của cư dân thị trấn: mái hiên gỗ lợp ngói rêu, rèm vải thô che nắng, những băng ghế dài kê dưới tán cây nơi mọi người ngồi lại uống ngụm trà mát mùa hè hay chén trà gừng ấm mùa thu, rôm rả chia nhau tin tức mùa màng, xóm giềng.
 * **Không gian tầng bậc:**
-  * *Tầng cao:* Bầu trời thu trong trẻo, gió thổi nhẹ qua ngọn cây óc chó; vài cánh chim nhạn chao lượn trên đồng cỏ rộng.
-  * *Tầng giữa:* Bậc thềm gỗ hiên nhà nơi treo chuông gió gốm mộc; chiếc ghế tựa bập bênh gỗ phong; người bạn già trong chiếc áo len đan thô đang cưa vài khúc củi thông khô.
-  * *Tầng thấp:* Bát nước men tráng trắng viền xanh đặt cạnh bậc cửa; tấm thảm đay bện đã nhẵn thớ; bốn bàn chân lông vàng rảo bước nhịp nhàng sát bên từng sải chân quen thuộc trên lối sỏi.
+  * *Tầng cao:* Tháp chuông thị trấn ngân vang từng hồi thanh bình; đàn bồ câu chao lượn trên những mái ngói đỏ sẫm; tán phong xào xạc lá vàng rơi lả tả xuống mặt đường đá cuội.
+  * *Tầng giữa:* Dòng người thị trấn qua lại tấp nập mà thong dong; quầy gỗ sồi mộc của quán trà bốc khói nghi ngút; chiếc ấm đồng cổ ngỗng reo vang trên bếp than củi; những hũ gốm đựng búp trà khô, quế thanh, hoa cúc; chiếc bàn con gỗ phong đặt cạnh khung cửa sổ mở rộng nhìn thẳng ra con phố chính.
+  * *Tầng thấp:* Mặt đường đá cuội nhẵn bóng in bóng người qua lại; bậc thềm quán lát gạch nung sạch sẽ; chiếc khay gỗ trắc đặt bộ ấm chén gốm thủ công, trong đó chiếc tách men rạn màu ngọc bích quen thuộc luôn được tráng sạch, úp ngay ngắn bên cạnh chiếc ghế tựa bọc đệm chàm đón nắng.
 
 ---
 
 ## 🎭 2. CẢM XÚC & ĐIỂM NEO CỐT LÕI (CORE ANCHORS)
 
 * **Trạng thái cảm xúc chủ đạo:**  
-  Bình yên sâu lắng, ấm áp vô điều kiện, hoài niệm mà kiên định. Tôn vinh tình cảm trung thành, thủy chung của loài chó — người bạn không bao giờ phán xét, luôn ở đó chia sẻ từng nhịp thở của cuộc đời.
-* **Ý niệm cốt lõi (Core Concept):**  
-  > *"Trong một thế giới luôn vội vã đổi thay, có một điều mãi mãi vẹn nguyên: ánh mắt ngước nhìn đầy tin cậy và bốn bàn chân luôn bước song hành bên đời bạn."*
-* **Điểm neo gắn kết (Sự hiện diện không lời):**  
-  * **Sự đồng hành bền bỉ:** Dù ngày mưa hay ngày nắng, khi làm việc ngoài vườn hay ngồi lặng im lúc sẩm tối, chú chó luôn chọn vị trí gần nhất để tựa vào.
-  * **Thấu hiểu không cần ngôn từ:** Một cái hích mũi nhẹ vào mu bàn tay, một ánh nhìn chăm chú ngước lên khi người bạn già thở dài hay mỉm cười.
+  Ấm áp, rộn rã tình người đời thường, hoài niệm trong trẻo và sự thủy chung sâu lắng. Giữa nhịp sống đông vui của thị trấn, người chủ quán không bao giờ quên đi những gương mặt tri kỷ đã từng gắn bó, nâng niu từng ký ức ấm áp mà những người bạn phương xa để lại.
+* **Ý niệm cốt lõi (Core Concept - Ẩn dụ người làm sáng tạo nội dung):**  
+  > *"Phố thị vẫn tấp nập người qua kẻ lại, ấm trà vẫn sớm hôm đỏ lửa phục vụ xóm giềng. Nhưng giữa muôn vạn bước chân, người nấu trà vẫn luôn dành riêng một góc bàn đón nắng, giữ ấm một tách trà thơm đợi người bạn cũ ngày nào ghé lại."*
+* **Điểm neo gắn kết (Sự trân quý giữa dòng người đông đúc):**  
+  * **Chan hòa cùng cộng đồng:** Người chủ quán yêu quý mọi người trong thị trấn, rót trà cho từng người khách qua đường bằng cả tấm lòng xởi lởi, thơm thảo.
+  * **Một góc riêng cho tri kỷ:** Dù bao nhiêu người đến rồi đi, chiếc ghế con bên cửa sổ và chiếc tách men rạn quen thuộc vẫn là biểu tượng của một lời hẹn không lời: *dù bạn đi xa vắng bóng bao lâu, sự gắn kết chân thành ngày ấy vẫn luôn có một chỗ đứng vững bền.*
 * **Chi tiết mỏ neo đắt giá (The Tangible Anchors):**  
-  * **Sợi dây dắt bằng vải bạt sờn mềm (`frayed canvas leash with nickel clasp`):** Đã mềm nhẵn qua bao năm tháng cùng đi dạo mỗi cữ sớm.
-  * **Chiếc bát tráng men trắng viền xanh (`enamel water bowl with chipped rim`):** Đặt ngay ngắn nơi góc thềm gỗ, mặt nước sóng sánh vệt nắng mai.
-  * **Cái tựa cằm nặng trịch lên đầu gối (`heavy chin resting on a wool-clad knee`):** Hơi ấm truyền qua lớp vải len, cảm giác tin cậy và an tâm tuyệt đối.
-  * **Tiếng móng gõ lách cách nhịp nhàng trên sàn gỗ (`rhythmic tap of paws on oak floorboards`):** m thanh thân thương đón đợi mỗi khi cánh cửa mở ra.
+  * **Chiếc tách gốm men rạn màu ngọc bích (`crackle-glazed celadon teacup`):** Đặt riêng nơi góc khay gỗ bên khung cửa sổ, nơi vệt tì sờn của người bạn quen vẫn sáng lên dưới ánh nắng mai.
+  * **Chiếc ghế tựa gỗ phong bọc đệm chàm (`worn maple armchair by the street window`):** Kê ngay ngắn cạnh bậu cửa sổ nhìn ra ngã tư thị trấn tấp nập, luôn được phủi sạch bụi mỗi sáng sớm.
+  * **Tiếng reo của chiếc ấm đồng hòa nhịp cùng tiếng chuông phố (`singing copper kettle & town bell`):** m thanh bền bỉ giữa tiếng vó ngựa lộc cộc và tiếng chuyện trò rộn rã của bà con thị trấn.
+  * **Bình hoa cúc dại cô bán hoa tặng cắm trên bàn (`clay jug of fresh field daisies`):** Tươi mới, mộc mạc, tỏa sắc vàng ấm áp bên cạnh tách trà ủ nóng.
 * **Điểm neo cảm xúc (Quotable Line - Câu chốt vỗ về):**  
-  > *"Through every changing season, through the quiet and the gray / Four steady paws beside my stride walk all the miles away."*  
-  *(Qua bao mùa thay lá, qua những ngày lặng lẽ hanh hao / Bốn bước chân kiên định song hành cùng ta đi hết dặm dài).*
+  > *"The cobblestones are loud with boots, the busy town walks on / But by the window where you sat, your cup is never gone."*  
+  *(Đá cuội rộn rã bước chân qua, phố thị vẫn đông người / Nhưng bên khung cửa sổ bạn từng ngồi, tách trà vẫn vẹn nguyên đợi bạn).*
 
 ---
 
 ## 🖐️ 3. CHI TIẾT ĐỜI THƯỜNG (VISUAL & TACTILE ASMR)
 
-Tác động trực tiếp vào giác quan qua sự ấm áp và âm thanh đời thường:
-* Tiếng móng chân gõ nhịp nhàng lách cách trên sàn ván gỗ thông mỗi sáng sớm.
-* Tiếng đuôi vẫy đập "bộp bộp" đều đặn, vui vẻ vào chân ghế gỗ khi thấy người bạn già thức giấc.
-* Cảm giác lớp lông dày ấm áp áp vào lòng bàn tay chai sần khi xoa nhẹ sau gáy chú chó.
-* Tiếng sỏi lạo xạo lăn dưới chân hai người bạn đồng hành trên lối mòn ven đồi.
-* Tiếng nước uống ừng ực sảng khoái từ chiếc bát men sau chuyến đi dạo buổi sáng.
-* Hơi thở phập phồng đều đặn của chú chó già nằm cuộn tròn dưới chân bàn làm việc lúc chiều tà.
-* Vệt nắng hoàng hôn rọi vàng óng bộ lông, chiếu rõ sợi ria bạc và đôi mắt nâu sẫm sáng trong.
+Tác động trực tiếp vào giác quan qua nhịp sống thị trấn và thanh âm đời thường:
+* Tiếng móng sắt của xe ngựa gõ "lộp cộp" trên mặt đường đá cuội tròn nhẵn.
+* Tiếng chuông đồng ngân vang từ tháp chuông thị trấn lúc mặt trời lên rọi sáng mái ngói.
+* Tiếng rổ cúc dại đặt xuống thềm gạch kêu sột soạt, cô bán hoa tươi cười trao nhành hoa thơm cho ông lão.
+* Tiếng bác thợ mộc đặt chiếc bình gốm lên quầy nghe "cộc" ấm áp, đón nhận ngụm trà nóng hổi với tiếng cười sảng khoái.
+* Tiếng ấm đồng reo sôi sùng sục, làn khói thơm mùi quế và táo đỏ cuộn tròn bay qua khung cửa sổ hòa vào nắng sớm thị trấn.
+* Đôi tay ông lão cẩn thận dùng thìa tre xúc từng nhúm trà, rồi lấy khăn vải thô lau sạch chiếc tách men rạn quen thuộc, đặt nhẹ nhàng xuống mặt bàn gỗ phong bên cửa sổ.
+* Vệt nắng trưa chiếu xuyên qua chùm cúc dại, in bóng hoa lên mặt ghế tựa đón gió mát từ con phố chính.
 
 ---
 
 ## ⏳ 4. DIỄN TIẾN KỊCH BẢN (CHRONOLOGICAL BEATS)
 
-1. **Sáng sớm (Bình minh bên bậc cửa & Tiếng móng gõ thân quen):**  
-   Nắng sớm le lói qua khe rèm, tiếng móng chân gõ lách cách nhẹ nhàng trên sàn gỗ báo hiệu ngày mới. Cửa mở, chú chó già vẫy đuôi chờ sẵn bên bậc thềm. Chiếc bát men trắng được châm đầy nước mát. Người và chó thong thả bước ra lối sỏi quen thuộc, sương mai đọng ướt cỏ hai bên đường.
-2. **Buổi trưa (Sân nắng, xẻ củi & Sự đồng hành tĩnh lặng):**  
-   Người bạn già cưa tỉa cành khô ngoài sân vườn, mùn cưa thông rơi nhẹ. Chú chó nằm gối đầu trên tấm thảm đay bện dưới bóng râm cây sồi, thỉnh thoảng mở mắt dõi theo từng nhịp tay chủ. Một chú bướm vàng bay lượn, chú chó khẽ vểnh tai nhưng vẫn an nhiên tận hưởng sự yên bình bên cạnh người mình yêu quý nhất.
-3. **Buổi chiều (Góc hiên nhà & Cái tựa đầu ấm áp):**  
-   Nắng chiều ngả vàng trên vách gỗ. Người bạn già ngồi trên ghế bập bênh nhấp ngụm trà ấm. Chú chó tiến lại gần, đặt chiếc cằm nặng trịch lên đầu gối ông, đôi mắt nâu lim dim đón nhận bàn tay vuốt ve từ đỉnh đầu xuống sống lưng. Khoảng lặng đầy ắp sự gắn kết mà không một lời nói nào có thể diễn tả hết.
-4. **Hoàng hôn & Đêm buông (Lối về êm ả & Giấc ngủ bình yên):**  
-   Vệt nắng cuối ngày kéo dài bóng của hai người bạn trên con đường đất về nhà. Bếp củi ấm áp bập bùng ánh lửa cam. Chú chó cuộn tròn trên thảm ấm dưới chân giường, thở đều êm dịu. Căn nhà gỗ ngập tràn cảm giác an yên và trọn vẹn của một ngày được sống bên nhau.
+1. **Sáng sớm (Thị trấn thức giấc & Mở quán trà góc phố):**  
+   Sương sớm còn đọng trên những viên đá cuội. Tiếng chuông tháp ngân vang. Ông lão mở cánh liếp gỗ quán trà, nhóm bếp than củi. Ấm đồng reo vang rộn rã. Bác phu xe ghé chào, cô bán hoa dừng chân tặng cành cúc vàng. Thị trấn bắt đầu ngày mới với bao bước chân rộn rã qua lại trước hiên quán.
+2. **Buổi trưa (Phố xá tấp nập & Góc bàn giữ riêng):**  
+   Nắng vàng tràn ngập quảng trường nhỏ. Bác thợ mộc, người đưa thư, người đi chợ ghé quán uống ngụm nước mát, ngồi quây quần trên băng ghế dài dưới tán phong chuyện trò rôm rả. Giữa không gian đông vui ấy, ông lão tráng nước sôi cho chiếc tách men rạn, đặt lên chiếc bàn con bên cửa sổ ngập nắng — nơi người bạn tri kỷ cũ từng ngồi trò chuyện mỗi trưa. Ánh mắt ông nhìn ra phố đá cuội với nụ cười ấm áp và lòng biết ơn sâu sắc.
+3. **Buổi chiều (Nắng ngả hổ phách & Chiếc ghế tựa đón gió):**  
+   Tiếng vó ngựa thưa dần, phố xá chuyển sang nhịp điệu thong thả chiều tà. Lá phong vàng chao liệng rơi xuống mặt bàn gỗ. Ông lão châm thêm củi vào lò, kéo nhẹ chiếc ghế tựa gỗ phong ra phía đón gió, chỉnh lại tấm đệm chàm êm ái. Dù dòng đời đưa bạn đi muôn nẻo đường, góc quán này giữa thị trấn vẫn luôn giữ trọn vị trí thân thương nhất.
+4. **Hoàng hôn & Đèn phố (Ánh sáng ấm áp & Lời nhắn thủy chung):**  
+   Đèn đường thị trấn bật sáng lung linh trên mặt đá cuội. Những người khách cuối ngày chào ông lão ra về sum họp gia đình. Ông lão thắp ngọn đèn nhỏ trước hiên, nâng chén trà ấm bên khung cửa sổ. Nhìn con phố dần tĩnh lặng dưới ánh trăng, lòng ông tràn ngập sự bình yên: thị trấn ngày mai lại đông đúc, ấm trà vẫn sẽ sôi, và chiếc tách gốm này vẫn luôn sẵn sàng chào đón người bạn cũ trở về.
 
 ---
 
 ## 🎨 5. QUY CHUẨN THỊ GIÁC & TẠO HÌNH (VISUAL SPEC)
 
-* **Style chuẩn:** `style/STYLE_handcrafted_tactile_diorama.md` (Needle-Felted Wool Stop-Motion Diorama - Con rối len nỉ thủ công trong bối cảnh thiên nhiên điện ảnh thực tế).
+* **Style chuẩn:** `style/STYLE_handcrafted_tactile_diorama.md` (Needle-Felted Wool Stop-Motion Diorama - Con rối len nỉ thủ công trong bối cảnh thiên nhiên và kiến trúc thị trấn điện ảnh).
+* **Tạo hình nhân vật & Cộng đồng thị trấn:**
+  * Nhân vật chính: Ông lão chủ quán trà bằng len nỉ chọc tay, tóc râu trắng muốt, áo len vặn thừng màu be ấm áp, tạp dề vải lanh xanh chàm.
+  * Nhân vật phụ thị trấn: Cô bán hoa trong váy linen kẻ carô gánh đôi sọt hoa len nhỏ xinh; bác phu xe với mũ nồi vải dạ dắt chú ngựa len bờm hạt dẻ; bác thợ mộc đeo đai da đựng thước gỗ.
+  * Bối cảnh: Đường phố lát đá cuội thủ công tròn nhẵn, tháp chuông xa xa, tán phong lá len đỏ cam, quán trà gỗ mộc với quầy bar, bình gốm, lò than đất nung bập bùng lửa cam.
 * **Negative Prompt quy chuẩn:**  
-  `--no bald, balding, hairless head, receding hairline, bare scalp, 3D CGI, stitches on face, modern clothing, neon, real human photo, doll, porcelain, plastic, anime, brass, copper, moss, iron --ar 16:9`
-* **Tạo hình nhân vật (Stylized Country Companion):**
-  * *Người bạn già:* Dáng người đôn hậu, mái tóc len màu hoa râm tỉa ngắn gọn gàng hoặc đội mũ phớt len mộc (`felt cap`), mặc áo len đan tay màu xanh rêu sẫm hoặc xám yến mạch, quần vải thô mộc mạc, nét mặt hiền từ chan chứa tình thương.
-* **Tạo hình chú chó trung thành (Handcrafted Needle-Felted Retriever/Hound):**
-  * Len nỉ màu vàng mật ong pha chút kem ấm áp (`golden honey wool felt`), mõm và quanh mắt đã điểm những sợi len trắng bạc nhẹ biểu thị năm tháng đồng hành (`silver-frosted muzzle`).
-  * Đôi mắt hạt cườm đen sâu thẳm, bóng nhẹ, phản chiếu ánh sáng ấm áp đầy tin cậy. Đôi tai mềm rủ xuống hai bên má, chiếc mũi nhung màu sô-cô-la sẫm.
-  * Chiếc vòng cổ bằng da thuộc thuộc nâu sẫm đã mòn bóng cạnh, có khóa niken nhỏ.
-* **Môi trường thiên nhiên thực tế:**
-  * Con rối len nỉ thủ công đặt trong bối cảnh thiên nhiên điện ảnh thật: sỏi thật, thềm gỗ thật có vân nứt tự nhiên, lá sồi khô rụng thật, vệt nắng chiều rọi qua khe lá thật.
+  `--no bald, balding, hairless head, receding hairline, bare scalp, 3D CGI, stitches on face, modern clothing, neon, real human photo, doll, porcelain, plastic, anime, modern cafe, paper cup, plastic cup, coffee machine, cashier, modern sign, car, pavement, asphalt --ar 16:9`
 
 ---
 
 ## 🛡️ 6. BẢNG KIỂM DUYỆT 4 TẦNG (IDEA AUDIT GATE)
 
-* **Tầng 1 — Mô thức kịch bản (Zero Escapism & Zero Preaching):**  
-  * Hoàn toàn không có chuyện trốn chạy hay rũ bỏ áp lực xã hội. Đây là cuộc sống thực tại, bình dị và vững chãi của người và chó bên nhau.
-  * Không thuyết giảng tâm lý, không bảo người nghe phải buông bỏ hay chữa lành; chỉ có tình bạn thuần khiết, sự trung thành và lòng tận tụy giản đơn giữa hai sinh mệnh.
-* **Tầng 2 — Tâm thế nhân vật (Character Agency):**  
-  * Cả người bạn già và chú chó đều chủ động trong từng sinh hoạt thường nhật: cùng dạo bộ, cùng làm vườn, cùng đón bình minh và chia sẻ hơi ấm. Tâm thế an yên, tràn đầy tình thương và sự trân trọng hiện tại.
-* **Tầng 3 — Tọa độ vật lý cụ thể (Tangible Setting):**  
-  * Không gian sống mộc mạc, rõ nét: bậc thềm gỗ sồi, lối mòn rải sỏi, tấm thảm đay bện, rặng sồi già ven đồi, góc bếp củi ấm cúng.
-* **Tầng 4 — Đạo cụ mỏ neo độc bản (Props Collision Check):**  
-  * Đạo cụ trung tâm: **Dây dắt vải bạt khóa niken** (`frayed canvas leash`), **bát tráng men trắng viền xanh** (`white enamel bowl`), **tấm thảm đay bện** (`braided jute rug`), **vòng cổ da sờn bóng**, **cái tựa cằm nặng trịch lên đầu gối**.
-  * Hoàn toàn độc bản, không trùng lặp với bất kỳ dự án nào từ 001 đến 017 trong `idea-index.md` và `lyrics-index.md`.
-* **Quy chuẩn từ ngữ:**  
-  * Tuyệt đối 0% từ cấm trong `style_music/music_craft.md`: không có `whisper`, `echo`, `shadow`, `tapestry`, `moss`, `iron`, `linen`, `brass`, `copper`, `lantern`, `cedar`, `two slow boots`...
+| Tầng kiểm duyệt | Tiêu chí | Trạng thái | Đánh giá chi tiết |
+|---|---|---|---|
+| **Tầng 1: Narrative Trope** | Không Cynical Escapism, không Therapy Preaching, có Belonging & Companionship | **PASSED** | Nhân vật hòa nhập sâu sắc vào cộng đồng thị trấn, phục vụ bà con bằng lòng hiếu khách chân thành; trân trọng tình bạn tri kỷ mà không bi lụy. |
+| **Tầng 2: Character Agency** | Nhân vật chủ động, trân trọng cuộc sống, không đóng vai nạn nhân | **PASSED** | Ông lão chủ động chăm chút quán trà, vui vẻ tiếp đón từng người dân thị trấn, giữ ngọn lửa nghề và sự tử tế mỗi ngày. |
+| **Tầng 3: Tangible Setting** | Tọa độ vật lý cụ thể, thị trấn đá cuội, giàu nhịp sống sinh hoạt | **PASSED** | Quán trà góc phố lát đá cuội dưới tán cây phong, cạnh tháp chuông, bàn ghế gỗ mộc, lò than củi đất nung, bình hoa cúc dại. |
+| **Tầng 4: Props Collision** | Đạo cụ mỏ neo không trùng lặp các dự án trước | **PASSED** | Độc bản: Chiếc tách men rạn ngọc bích bên cửa sổ (`crackle-glazed celadon teacup`), bình cúc dại tươi (`clay jug of field daisies`), ấm đồng cổ ngỗng (`copper kettle`). Khác biệt hoàn toàn với 017 (thị trấn thung lũng & chuông xe đạp/nai con). |
 
 ---
 
-## 📋 7. TIẾN ĐỘ THỰC HIỆN DỰ ÁN (PONYTAIL STANDARD)
-
-- [x] **1-idea.md** $\rightarrow$ Ý tưởng, kịch bản bối cảnh & tình bạn trung thành hoàn tất
-- [ ] **image.txt** $\rightarrow$ Prompts ảnh chia theo các phân đoạn bám sát Style
-- [ ] **2-music.md** $\rightarrow$ Sáng tác Single Master Track (Bước 2)
-- [ ] **3-lyrics.txt** $\rightarrow$ Xuất DistroKid Plain Lyrics chuẩn (Bước 2)
-- [ ] **animation.txt** *(Tùy chọn)* $\rightarrow$ Universal micro-motion prompt
+**Trạng thái:** Đã cập nhật bối cảnh thị trấn và nhiều nhân vật cộng đồng theo đúng chỉ đạo.

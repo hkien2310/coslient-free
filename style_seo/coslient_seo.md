@@ -1,157 +1,140 @@
-# COSLIENT SEO — VIẾT CHO KÊNH NHỎ CẦN NGƯỜI LẠ CLICK
+# COSLIENT SEO — QUY CHUẨN SIÊU DỮ LIỆU YOUTUBE
+
+> **Nguyên tắc:** Một câu chuyện hay trong title đáng giá hơn mọi tag, label và keyword cộng lại.
+> Mọi trường nhập YouTube Studio **BẮT BUỘC để trong ô code block (```text)** để copy 1-click.
 
 ---
 
-## 1. TITLE — KỂ CHUYỆN, ĐỪNG BRANDING
+## 1. CÔNG THỨC TITLE & FILE NAME
 
-Kênh nhỏ không ai search tên "Coslient". Người ta scroll feed, thấy title hay thì click.
-Title phải trả lời: **"Video này về cái gì mà tôi phải xem?"**
+### File Name (Trước khi upload):
+- Video: `[story-hook-slug].mp4` (ví dụ: `he-kept-a-chair-waiting.mp4`)
+- Thumbnail: `[story-hook-slug]-thumbnail.jpg`
 
-### Title đã viral:
-
-| Title | Views |
-|---|---|
-| This Town Lives Differently… And It Will Change You | **77.000** |
-| A Very Unusual Town \| Lantern Town | **17.000** |
-| Right Where They Are \| A Quiet Song About a Dog Waiting at Home | **12.000** |
-| Smelled Home — A Storytelling Song | **12.000** |
-| The Seat We Saved \| For the Quiet People Who Made Room for Us | **6.600** |
-| We Were Better in the Summer \| Nostalgic Song About Youth & Simple Days | **6.600** |
-
-### Title đã chết:
-
-| Title | Views |
-|---|---|
-| Coslient — Borrow No Wings (Official Visualizer) | 238 |
-| Coslient — Tales of Gold & Told \| Handcrafted Stop-Motion Visualizer | 172 |
-
-### Công thức chuẩn hóa:
-
-**Cách 1 (Kể chuyện / Story Hook — Đề xuất chính):**
-```
-[Tên bài / Câu hook cảm xúc] — [Mô tả cảm xúc hoặc câu chuyện ngắn]
-```
-Ví dụ:
-- `The Last Letter — A Song for the Words We Never Said`
-- `Smelled Home — A Storytelling Song`
-- `Right Where They Are — A Quiet Song About a Dog Waiting at Home`
-
-**Cách 2 (Gắn vũ trụ A Dream Town để gom chuỗi & ăn đề xuất):**
-```
-[Tên bài hát] | A Dream Town — [Câu chuyện / Hook cảm xúc]
-Surreal AI Film | [Hook cảm xúc / Tên bài] | A Dream Town
-```
-Ví dụ:
-- `Storms We Knew | A Dream Town — For the Restless Nights`
-- `Seventh Try | A Dream Town — When Giving Up Is Not an Option`
-- `Surreal AI Film | The Remembering House | A Dream Town`
-
-**Cách 3 (Album dài / Season Compilation):**
-```
-A Dream Town Season 1 | [Tên Album] (Relaxing Stop-Motion AI Music & Film)
-```
-Ví dụ:
-- `A Dream Town Season 1 | Passing Cloud (Relaxing Folk Music & Cozy AI Film)`
-
-### Quy tắc:
-
-- **Không đặt "Coslient" ở đầu title.** Không ai tìm tên kênh.
-- **Không đặt "Official Visualizer", "Official Music Video".** Đó là format kênh triệu sub.
-- **Không ép "4K" vào title nếu không cần thiết.** Có thể để ở cuối hoặc trong tags.
-- **Câu mô tả phải gợi cảm xúc cụ thể**, không phải thể loại kỹ thuật. "A Song About a Dog Waiting at Home" tốt hơn "Indie Folk | Cinematic AI Art 4K".
-- **Dùng thống nhất tên vũ trụ `A Dream Town`** để tạo pattern thuật toán cho YouTube gom cụm đề xuất sang các kênh cùng tệp (*A Very Old Town*, *Three-Quarter Town*).
-- **Coslient để ở cuối nếu muốn:** `Tên bài — Câu hook | Coslient`
+### Title (Dưới 60 ký tự, Story Hook):
+- **Cấu trúc:** `[1 câu chuyện gợi tò mò — ai, đang làm gì, thiếu mảnh gì] | A Dream Town`
+- **Tiêu chuẩn:** Có nhân vật (ông già, con chó, người mẹ), có hành động/tình huống, thiếu 1 mảnh thông tin để người xem phải bấm vào.
+- **CẤM:** Không để tên kênh "Coslient", "Official Music Video", "4K", genre label ("Indie Folk", "Acoustic") vào title.
 
 ---
 
-## 2. DESCRIPTION — NGẮN, CÓ HỒN
+## 2. QUY CHUẨN DESCRIPTION & TAGS
 
-Không ai đọc 20 dòng production notes. Viết 2-3 câu về câu chuyện bài hát, paste lyrics, xong.
+### Description (3 dòng đầu là Story Hook):
+- 2–3 câu kể chuyện tự nhiên như đang nói với bạn bè, không viết văn mẫu quảng cáo.
+- Đính kèm link Spotify, Apple Music, toàn bộ Lyrics và Hashtags.
 
+### Tags Mặc Định (Cố định kênh):
+```text
+coslient, a dream town, original music, stop motion, handcrafted animation, miniature world, indie folk, acoustic, healing music, nostalgic song, a very old town, three quarter town
 ```
-Ông ấy vẫn ngồi đó mỗi chiều, đúng cái ghế đá đó, nhìn ra con đường không ai đi nữa.
+- Khi upload: Thêm 5–7 tag riêng theo nội dung bài vào ô nhập.
 
-Bài hát này viết cho những người vẫn giữ chỗ cho ai đó đã đi rồi.
-
-🎧 Nghe trên Spotify/Apple Music: [link]
+### Hashtags (Cuối Description):
+```text
+#adreamtown #coslient #stopmotion + [3 hashtag theo bài]
+```
 
 ---
 
+## 3. THUMBNAIL & SHORTS
+- **Thumbnail:** Khung hình cận/trung có **nhân vật + cảm xúc rõ ràng** (không dùng đại cảnh chung chung khiến thumbnail trên điện thoại bị chìm).
+- **Shorts:** Dưới 30 giây, trích đoạn hook âm nhạc mạnh nhất, đăng trước video full 1–2 ngày.
+
+---
+
+## 4. PHÂN PHỔI PLAYLIST & DISTROKID
+- **YouTube Playlists (Quy tắc 3 chạm):** Tra cứu chọn đúng 1 Mood Playlist, 1 Album Playlist và 1 Master Playlist tại [`style_seo/youtube_playlists.md`](./youtube_playlists.md).
+- **DistroKid Album:** Tra cứu chọn đúng Album/EP tại [`distrokid.md`](../distrokid.md).
+
+---
+
+## 5. SEO FILE TEMPLATE (1-CLICK COPY READY)
+
+File `6-seo.md` chuẩn cho mỗi project:
+
+````markdown
+# SEO: [TÊN BÀI]
+
+## 1. FILE NAME (TRƯỚC KHI UPLOAD)
+
+### Video File:
+```text
+[story-hook-slug].mp4
+```
+
+### Thumbnail File:
+```text
+[story-hook-slug]-thumbnail.jpg
+```
+
+## 2. TITLE
+```text
+[1 câu chuyện — ai, làm gì, thiếu mảnh gì] | A Dream Town
+```
+
+*(Dự phòng 1: `[Story Hook dự phòng 1] | A Dream Town`)*  
+*(Dự phòng 2: `[Story Hook dự phòng 2] | A Dream Town`)*
+
+## 3. THUMBNAIL
+- **Visual:** [Ai + đang làm gì + close-up/wide + cảm xúc]
+- **Text (nếu có):** [2-4 từ lớn hoặc để trống]
+
+## 4. DESCRIPTION
+```text
+[2-3 câu kể chuyện]
+
+🎧 Spotify: https://open.spotify.com/artist/4FVU7hNPy3mc5HAm68iSB9
+🍎 Apple Music: https://music.apple.com/us/artist/coslient/1895068939
+
+---
 LYRICS:
-[paste full lyrics]
+[paste full]
+---
+
+Original Music & Visuals by Coslient
+
+#adreamtown #coslient #stopmotion #[bài] #[bài] #[bài]
+```
+
+## 5. TAGS (THÊM NGOÀI DEFAULT)
+```text
+[5-7 cụm theo nội dung bài, cách nhau bằng dấu phẩy]
+```
+
+## 6. PINNED COMMENT
+```text
+[1 câu hỏi gợi ký ức]
+```
+
+## 7. SHORTS (DƯỚI 30 GIÂY)
+- **Đoạn:** [timestamp]
+- **Title Shorts:**
+```text
+[hook ngắn] #shorts #adreamtown
+```
+
+## 8. PLAYLISTS & DISTROKID (TRA CỨU & TICK CHỌN)
+> 🔗 **Hướng dẫn logic:**  
+> - YouTube Playlists: Xem logic phân bổ tại đầu file [`style_seo/youtube_playlists.md`](../style_seo/youtube_playlists.md)  
+> - DistroKid Album/EP: Xem logic phân bổ tại đầu file [`distrokid.md`](../distrokid.md)
+
+### YouTube Playlists (Tick chọn khi upload):
+```text
+[Tên Playlist Mood — tra từ đầu file youtube_playlists.md]
+[Tên Playlist Album/EP — khớp DistroKid]
+The Universe Hidden Inside the Mind | All Videos
+```
+
+### DistroKid Release:
+```text
+Track Title: [Tên bài]
+Artist: Coslient
+Album / EP: [Tên Album/EP — tra từ đầu file distrokid.md]
+Genre: Singer-Songwriter / Folk
+```
+````
 
 ---
 
-Music & Visuals by Coslient
-https://coslient.web.app
-```
-
-### Quy tắc:
-- **2-3 câu đầu kể chuyện bài hát** — cảm xúc, hình ảnh, không phải thể loại nhạc.
-- **Full lyrics** — YouTube index lyrics, giúp SEO tự nhiên.
-- **Link streaming.**
-- Không cần liệt kê nhạc cụ, quy trình sản xuất, tên model AI.
-
----
-
-## 3. TAGS & HASHTAGS — CẢM XÚC TRƯỚC, BÁM THUẬT TOÁN SAU
-
-Ưu tiên tag mà người thật sẽ tìm khi đang buồn/nhớ/cô đơn lúc nửa đêm, kết hợp các cụm từ khóa xu hướng của thể loại:
-
-```
-[tên bài hát], a dream town, [chủ đề cảm xúc], quiet song, warm folk song, 
-handcrafted animation, miniature world, stop motion, claymation, indie folk, acoustic, 
-healing music, nostalgic song, relaxing music, coslient
-```
-
-Ví dụ:
-```
-storms we knew, a dream town, a song for restless nights, storms we knew coslient,
-quiet folk song, stop motion animation, tactile miniature world, indie folk acoustic, 
-healing music, relaxing night music, coslient
-```
-
-### Hashtags chuẩn ở cuối Description:
-`#adreamtown #stopmotion #cozymusic #indiefolk #relaxingmusic #coslient`
-(Có thể gắn thêm `#averyunusualtown #averyoldtown` để thuật toán gom nhóm đề xuất)
-
-**Không tag:** Tên kênh triệu sub không liên quan, "4K cinematic 60fps", "chris crystal style".
-
----
-
-## 4. THUMBNAIL
-
-Chọn 1 frame có cảm xúc rõ. Không cần frame đẹp nhất — cần frame **khiến người ta muốn biết câu chuyện**.
-
-- Con chó ngồi đợi ở cửa → muốn biết chủ có về không
-- Ông già nhìn ra đường vắng → muốn biết ông nhớ ai
-- Ngọn đèn sáng trong nhà nhỏ → muốn biết ai ở trong đó
-
-**Không text trên thumbnail.** Hình tự kể chuyện.
-
----
-
-## 5. SHORTS
-
-Mỗi video full, cắt 1 đoạn 30-60 giây hay nhất đăng Shorts.
-Title Shorts: câu hook ngắn, gợi tò mò.
-
-```
-The dog is still waiting. 🐕
-```
-
-Shorts kéo người mới. Người mới thấy hay → qua kênh → xem full.
-
----
-
-## 6. PLAYLISTS — GÁN 2-3 PLAYLISTS THEO QUY TẮC 3 CHẠM
-
-Mỗi bài hát khi đăng lên YouTube BẮT BUỘC gán vào 2 đến 3 playlist (xem chi tiết tại `style_seo/youtube_playlists.md`):
-
-1. **Playlist Mood (Bắt buộc 1):** `Midnight & Starlight` (đêm/ngủ), `Meadow & Morning Light` (sáng/làm việc), `The Quiet Companion` (tự sự/gia đình), hoặc `Slow Compass & Soul Grooves` (groove/tự do).
-2. **Playlist Album/EP (Bắt buộc 2):** Khớp với Album trên DistroKid (`Passing Cloud`, `Meadow & Moss`, `Unfolding`, `Dust & Groove`, `Sky & Tide`...).
-3. **Playlist Thế giới/Art (Tùy chọn 3):** `A Dream Town` hoặc `Weightless Horizons`.
-
----
-
-*Không có gì phèn khi viết title có cảm xúc. Phèn là khi kênh 200 views mà title format như Drake.*
+*Một câu chuyện hay trong title đáng giá hơn mọi tag, label, và keyword cộng lại.*

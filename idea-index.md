@@ -5,43 +5,23 @@
 
 ---
 
-## 🛑 CƠ CHẾ THẨM ĐỊNH IDEA 4 TẦNG (4-TIER IDEA GATE) — BẮT BUỘC
+## 🛑 NGUYÊN TẮC THẨM ĐỊNH IDEA (BẮT BUỘC)
 
-Trước khi chốt bất kỳ idea mới nào tại Bước 1 (`1-idea.md`), agent **BẮT BUỘC** phải rà soát qua 4 tầng kiểm duyệt độc lập:
+Trước khi chốt bất kỳ idea mới nào tại Bước 1 (`1-idea.md`), bắt buộc kiểm tra nhanh 3 điểm:
 
-### TẦNG 1 (TỬ HUYỆT) — MÔ THỨC KỊCH BẢN (NARRATIVE TROPE)
-> [!CAUTION]
-> **CẤM TUYỆT ĐỐI:**
-> - Kịch bản nhân vật cô độc, kiệt sức vì áp lực xã hội rồi cay đắng trốn chạy một mình (Cynical Escapism).
-> - Lời ca mang tính chất tham vấn tâm lý, lên lớp dạy đời hoặc khuyên người nghe buông bỏ (Therapy Preaching).
-> - **CẤM NÊU VÍ DỤ:** Tuyệt đối không lấy bất kỳ hình mẫu nhân vật hay đồ vật mẫu nào làm khuôn rập.
+### 1. SEND TEST (Ai gửi cho ai?) — Quan trọng nhất
+Câu hỏi bắt buộc: *"Một người 45–65 tuổi sẽ gửi bài này cho ai, trong tình huống nào?"*
+- Chỉ mặt đặt tên người nhận và trigger cảm xúc cụ thể (nhớ ai, nhớ điều gì trong đời).
+- Đề tài chạm vào trải nghiệm phổ quát của con người. Tuyệt đối tránh nói chung chung "cho ai thích sống chậm".
 
-> [!TIP]
-> **TIÊU CHUẨN DUYỆT Ý TƯỞNG:**
-> - **Cảm giác thuộc về (Belonging):** Nhân vật vốn dĩ sống chan hòa trong không gian của họ, tìm thấy niềm vui trong những điều bình dị, không mang tâm lý trốn chạy.
-> - **Sự đồng hành & Gắn kết (Companionship Over Solitude):** Luôn có mối quan hệ ấm áp, yêu thương giữa các nhân vật với nhau hoặc giữa con người với vạn vật xung quanh.
-> - **Xúc cảm đời thường:** Tôn vinh sự tử tế, tình thương và những cảm nhận xúc giác vật lý có thật, khơi gợi sự ấm áp tự nhiên.
+### 2. CHẤT KÊNH COSLIENT (Tuân thủ [CLAUDE.md](file:///Users/hoangkien/Youtube/coslient-free/CLAUDE.md))
+- Khán giả 45+, nếp sống bình dị, gắn kết lâu bền giữa con người và nơi chốn.
+- **Cấm:** Nhân vật áp lực bỏ phố về quê trốn đời (Cynical Escapism) hoặc lời ca lên lớp dạy đời/chữa lành (Therapy Preaching).
+- **Cần:** Cảm giác thuộc về (Belonging), đồng hành ấm áp (Companionship), nếp sống bình dị và sự tử tế giữa đời thường.
 
-### TẦNG 2 — TÂM THẾ NHÂN VẬT (CHARACTER AGENCY)
-- Nhân vật chủ động, có tình cảm gắn kết và trân trọng cuộc sống hiện tại.
-- Cấm nhân vật đóng vai nạn nhân mệt mỏi cần được trị liệu hay người đi rao giảng triết lý.
-
-### TẦNG 3 — TỌA ĐỘ VẬT LÝ & KHÔNG GIAN (TANGIBLE SETTING)
-- Không gian sống cụ thể, có chiều sâu sinh hoạt đời thường; không dựng không gian ảo ảnh thần tiên thoát ly thực tế.
-
-### TẦNG 4 — ĐẠO CỤ MỎ NEO (PROPS COLLISION)
-- Độc bản so với các dự án đã ghi nhận trong `lyrics-index.md`.
-
----
-
-## 🛡️ QUY TRÌNH DUYỆT BƯỚC 1 (IDEA GATE SIGN-OFF)
-Mọi file `1-idea.md` mới bắt buộc phải có mục:
-`## 🛡️ BẢNG KIỂM DUYỆT 4 TẦNG (IDEA AUDIT GATE)`
-- Tầng 1 (Trope): Xác nhận không dính Blacklist Trope (đặc biệt môtíp buông bỏ về quê).
-- Tầng 2 (Agency): Xác nhận nhân vật có tính chủ động, không sầu não/chữa lành.
-- Tầng 3 (Setting): Tọa độ vật lý cụ thể, độc bản trong catalog.
-- Tầng 4 (Props): Không trùng lặp mỏ neo với các bài trước.
-*Chỉ khi `music-slop-auditor` và `music-release-master` đóng dấu `PASSED` thì mới được phép chuyển sang Bước 2 (`2-music.md`).*
+### 3. MỎ NEO ĐỘC BẢN (Không trùng bài cũ)
+- Đạo cụ/chi tiết xúc giác vật lý có thật (ấm đồng, tách gốm men rạn, chiếc ghế bên cửa sổ...).
+- Đối chiếu Bảng Index bên dưới để đảm bảo không trùng mỏ neo với bài trước.
 
 ---
 
@@ -65,7 +45,7 @@ Mọi file `1-idea.md` mới bắt buộc phải có mục:
 | 014 | Shelter | Che chở nhau trong cơn mưa | Mái ấm cộng đồng | Ấm áp, đùm bọc | Mái bạt xanh, dưa hấu bổ đôi | Tìm nơi trú mưa cùng nhau |
 | 016 | The Father's Bough | Ba thế hệ làm vườn mùa hè | Trao truyền tình thân gia đình | Ấm áp, xúc động nhẹ nhàng | Vết khía đo chiều cao trên thân cây cổ thụ, xích đu gỗ thông, thềm hiên nhà vườn | Tình phụ tử trao truyền tự nhiên qua ba thế hệ, không drama, không trốn chạy |
 | 017 | The Gentle Valley | Thị trấn thung lũng & muông thú hiền hòa | Sống chậm tự nhiên, chan hòa tình yêu & thiên nhiên | Ấm áp, thư thái, bình an thuần khiết | Chuông xe đạp đưa thư, nai nhỏ gặm táo trên tay bà cụ, đàn ngỗng trắng qua đường đá cuội, vụn bánh mì cho chim sẻ, bóng sồi già | Không rao giảng sống chậm; con người và muông thú cùng chung sống hòa thuận, tôn trọng và yêu thương nhau |
-| 018 | The Faithful Stride | Tình bạn tri kỷ người và chó | Tình cảm trung thành thuần khiết, hiện diện không điều kiện | Bình yên sâu lắng, ấm áp, kiên định | Bát tráng men trắng, thảm đay bện, dây dắt vải bạt, cằm tì lên đầu gối, móng gõ sàn gỗ | Tình bạn tri kỷ không phán xét, nhịp bước song hành qua các mùa cuộc đời |
+| 018 | A Place Back Home | Thị trấn ấm áp & Khúc ca đón người tri kỷ | Tình bạn tri kỷ, lòng biết ơn sự gắn kết, nhịp sống rộn ràng tươi vui | Bừng sáng, hân hoan, ấm áp, giàu sức sống | Cây đàn guitar gỗ, tiếng kèn harmonica, nụ cười chào nhau, tách trà nóng và chiếc ghế để dành bên cửa sổ | Tiếng đàn rộn rã cất lên mỗi sớm mai, cảm ơn vì bạn từng yêu quý bài hát, dù phiêu bạt nơi đâu bạn luôn có một chốn về |
 
 ---
 

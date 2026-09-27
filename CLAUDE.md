@@ -1,20 +1,26 @@
-# 🌿 COSLIENT FREE
+# 🌿 COSLIENT FREE (V2 — KỶ NGUYÊN SỐNG ĐỘNG)
+
+> 🔒 **PHÂN KỲ KHO DỮ LIỆU:**
+> - **Coslient Video:** ĐÃ KHÓA (Season trước / Legacy archive).
+> - **Coslient Free V1 (Projects 001–017):** ĐÃ KHÓA (giai đoạn cũ).
+> - **Coslient Free V2 (Active):** Khởi động từ **Project 018** trở đi. Định hướng: Thế giới sống động, nhân vật sinh hoạt tự nhiên, chuyển động sinh học mượt mà (không stopmotion con rối).
 
 ## 1. ĐỊNH VỊ KÊNH
 * **Khán giả mục tiêu:** Người nghe 45+, tìm kiếm sự bình yên trong tâm hồn.
 * **Thể loại âm nhạc:** Folk là bắt buộc (Folk thuần mộc/acoustic, hoặc kết hợp linh hoạt 1 thể loại lai như Americana, Pop, Indie, Chamber... tùy ý tưởng từng bài, không bắt buộc phải lai).
-* **Tinh thần:** Nếp sống bình dị, gắn kết lâu bền giữa con người và nơi chốn. Không drama, không trốn chạy.
+* **Tinh thần:** Những câu chuyện nhỏ bé về con người và nơi chốn — ấm áp, tĩnh lặng, đôi khi ngọt đắng. Không giảng đạo, không drama.
 
 ---
 
 ## 2. WORKFLOW LÀM VIỆC (3 BƯỚC)
 Mỗi project = 1 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** Ý tưởng bối cảnh, nếp sống thường nhật và mỏ neo xúc giác.
-2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát & xuất lời sạch DistroKid.
+1. **Idea (`1-idea.md`):** Chủ đề cảm xúc cốt lõi, Send Test và hình ảnh gợi cảm xúc (tuân thủ [`style_music/idea_craft.md`](./style_music/idea_craft.md)). Tuyệt đối không vẽ trước kịch bản hay áp đặt đạo cụ gò bó.
+2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát & xuất lời sạch DistroKid. Bắt buộc kích hoạt tư duy chống AI slop (`stop-slop`, `humanizer`, `avoid-ai-writing`), tuyệt đối không dùng sáo ngữ đao to búa lớn hay văn mẫu trị liệu tâm lý.
 3. **Visual:**
-   * `image.txt`: Prompts ảnh chia theo các đoạn nhạc (Intro, Verse, Chorus...).
-   * `animation.txt` *(Optional)*: Prompt diễn hoạt video (ưu tiên dùng 1 universal prompt vi chuyển động cho toàn bộ clips).
+   * `storyboard.md`: Chia bài hát thành shots 4–6s, mô tả cảnh gì tại mỗi thời điểm (tuân thủ [`style/visual_craft.md`](./style/visual_craft.md)).
+   * `image.txt`: Từ storyboard, viết prompts ảnh cho từng shot (tuân thủ [`style/STYLE_handcrafted_tactile_diorama.md`](./style/STYLE_handcrafted_tactile_diorama.md)).
+   * `animation.txt`: Từ ảnh thực tế đã tạo, viết prompt chuyển động riêng từng shot (tuân thủ [`style/animation_craft.md`](./style/animation_craft.md)).
 
 ---
 
