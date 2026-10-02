@@ -4,7 +4,7 @@ v9.0 — Ponytail Montage Edition
 > **Bản chất của file này:**
 > `visual_craft.md` là cẩm nang tạo ra **kho ảnh nguyên liệu đa dạng (~30–40 prompts)** trong file `image.txt` để tool (`dola-auto-download`) tải về, phục vụ việc dựng phim tự do (Montage) trên timeline.
 >
-> 🔒 **Không còn phụ thuộc vào bảng Storyboard:**
+> 🔒 **Nguyên tắc vận hành trực tiếp:**
 > - Nhận trực tiếp cảm hứng từ **Không gian & Móc neo** ở `1-idea.md`.
 > - Kết hợp với **Chất liệu mỹ thuật & Style Suffix** từ file phong cách được chọn trong `style/`.
 > - Bắn phá trực tiếp ra danh sách prompt sạch trong `image.txt`.

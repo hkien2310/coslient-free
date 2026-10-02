@@ -1,11 +1,11 @@
 # 🎈 PLUGIN: SURREAL & POETIC WHIMSY (CHẤT THƠ SIÊU THỰC)
-v1.0 — Modular Storyboard Extension
+v2.0 — Modular Visual Extension
 
 > **Bản chất của Plugin này:**
-> Là một "ống kính nghệ thuật" tùy chọn gắn vào Storyboard khi dự án cần chất thơ bay bổng, tò mò và giàu tính biểu tượng (như phong cách phim AI triệu view *The Quiet People By The Sea*).
+> Là một "ống kính nghệ thuật" tùy chọn khi dự án cần chất thơ bay bổng, tò mò và giàu tính biểu tượng (như phong cách phim AI triệu view *The Quiet People By The Sea*).
 > 
 > 🔒 **Quy tắc biên giới (Boundaries):**
-> - **Độc lập với Style:** Plugin chỉ cung cấp ý niệm thị giác (Visual Concept) cho Cột 5 của Storyboard. Dùng được cho mọi chất liệu (len nỉ, đất sét, anime, màu nước...).
+> - **Độc lập với Style:** Plugin chỉ cung cấp ý niệm thị giác (Visual Concept) cho kho ảnh `image.txt` hoặc khi dựng trên timeline. Dùng được cho mọi chất liệu (len nỉ, đất sét, anime, màu nước...).
 > - **Không chạm vào Visual Craft:** Không can thiệp cú pháp ráp prompt của `visual_craft.md`.
 
 ---
