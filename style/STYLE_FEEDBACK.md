@@ -10,7 +10,7 @@ Tài liệu hướng dẫn xử lý khi ảnh render ra bị lỗi. Nguyên tắ
 Mô tả ngắn gọn cái gì sai trong ảnh (da nứt, đầu to, tóc rối, chất liệu lạ...).
 
 ### Bước 2: Truy tìm từ khóa gốc
-Đọc prompt đã dùng và **Suffix** trong `IMAGE_STYLE.md`. Hỏi: *"Từ khóa nào trong câu dương đang **ra lệnh** cho AI tạo ra hiện tượng này?"*
+Đọc prompt đã dùng và **Suffix** trong file style tương ứng (ví dụ: `STYLE_handcrafted_tactile_diorama.md`). Hỏi: *"Từ khóa nào trong câu dương đang **ra lệnh** cho AI tạo ra hiện tượng này?"*
 
 Cách tìm:
 - **Tách từng cụm trong suffix** ra riêng, đánh giá cụm nào có khả năng gây ra triệu chứng.

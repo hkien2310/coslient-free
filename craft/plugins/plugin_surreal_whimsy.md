@@ -57,8 +57,8 @@ Khi một shot cần tạo điểm nhấn thị giác lạ mắt, áp dụng 1 t
 
 ---
 
-## 🔌 3. CÁCH CẮM VÀO STORYBOARD (INTEGRATION)
+## 🔌 3. CÁCH CẮM VÀO KHO ẢNH & DỰNG PHIM (INTEGRATION)
 
-Trong bảng `storyboard.md`, khi một shot sử dụng plugin này:
-- Cột 5 (Cảnh này là gì): Viết nội dung theo ý niệm của động cơ tương ứng.
-- Cột 7 (Tại sao & Tác dụng gì): Ghi chú nhãn `[Plugin: Surreal - Động cơ X]` để kiểm soát liều lượng.
+Khi đưa một lát cắt siêu thực vào `image.txt` hoặc khi dựng trên timeline:
+- Viết prompt Midjourney kết hợp chủ thể đời thường với 1 trong 4 động cơ trên.
+- Sử dụng liều lượng tinh tế: tối đa 10%–20% tổng số shot để làm điểm nhấn thi vị, giữ 80% còn lại là cảnh đời thường bình dị.
