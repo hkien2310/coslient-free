@@ -5,23 +5,16 @@
 
 ---
 
-## 🛑 NGUYÊN TẮC THẨM ĐỊNH IDEA (BẮT BUỘC)
+## 🛑 NGUYÊN TẮC THẨM ĐỊNH IDEA (THEO IDEA CRAFT v4.0 PONYTAIL)
 
-Trước khi chốt bất kỳ idea mới nào tại Bước 1 (`1-idea.md`), bắt buộc kiểm tra nhanh 3 điểm:
-
-### 1. SEND TEST (Ai gửi cho ai?) — Quan trọng nhất
-Câu hỏi bắt buộc: *"Một người 45–65 tuổi sẽ gửi bài này cho ai, trong tình huống nào?"*
-- Chỉ mặt đặt tên người nhận và trigger cảm xúc cụ thể (nhớ ai, nhớ điều gì trong đời).
-- Đề tài chạm vào trải nghiệm phổ quát của con người. Tuyệt đối tránh nói chung chung "cho ai thích sống chậm".
-
-### 2. CHẤT KÊNH COSLIENT (Tuân thủ [CLAUDE.md](file:///Users/hoangkien/Youtube/coslient-free/CLAUDE.md))
-- Khán giả 45+, nếp sống bình dị, gắn kết lâu bền giữa con người và nơi chốn.
-- **Cấm:** Nhân vật áp lực bỏ phố về quê trốn đời (Cynical Escapism) hoặc lời ca lên lớp dạy đời/chữa lành (Therapy Preaching).
-- **Cần:** Cảm giác thuộc về (Belonging), đồng hành ấm áp (Companionship), nếp sống bình dị và sự tử tế giữa đời thường.
-
-### 3. MỎ NEO ĐỘC BẢN (Không trùng bài cũ)
-- Đạo cụ/chi tiết xúc giác vật lý có thật (ấm đồng, tách gốm men rạn, chiếc ghế bên cửa sổ...).
-- Đối chiếu Bảng Index bên dưới để đảm bảo không trùng mỏ neo với bài trước.
+Trước khi chốt idea mới (`1-idea.md`), kiểm tra nhanh 3 điều:
+1. **Thuộc 1 trong 4 Cổ Mẫu:**
+   - *The Sanctuary* (Thị trấn / Bờ biển bình yên, không ai là nhân vật chính)
+   - *The Faithful Companion* (Người bạn đời tri kỷ / Chú chó trung thành)
+   - *The Sentient Home* (Ngôi nhà cũ / Chiếc ghế chờ / Đồ vật có linh hồn)
+   - *The Pastoral Ritual* (Đàn cừu về làng / Chuyến tàu đêm / Bếp ấm chiều mưa)
+2. **0% Drama gượng ép:** Không cần mâu thuẫn đối kháng, không biến bài hát thành phim truyền hình.
+3. **Móc neo giác quan vật lý (Sensory Anchors):** Có ít nhất 2 chi tiết xúc giác/âm thanh có thật (tiếng móng vuốt trên sàn, vết bút chì đo chiều cao, tiếng chuông cừu...).
 
 ---
 
@@ -46,6 +39,9 @@ Câu hỏi bắt buộc: *"Một người 45–65 tuổi sẽ gửi bài này ch
 | 016 | The Father's Bough | Ba thế hệ làm vườn mùa hè | Trao truyền tình thân gia đình | Ấm áp, xúc động nhẹ nhàng | Vết khía đo chiều cao trên thân cây cổ thụ, xích đu gỗ thông, thềm hiên nhà vườn | Tình phụ tử trao truyền tự nhiên qua ba thế hệ, không drama, không trốn chạy |
 | 017 | The Gentle Valley | Thị trấn thung lũng & muông thú hiền hòa | Sống chậm tự nhiên, chan hòa tình yêu & thiên nhiên | Ấm áp, thư thái, bình an thuần khiết | Chuông xe đạp đưa thư, nai nhỏ gặm táo trên tay bà cụ, đàn ngỗng trắng qua đường đá cuội, vụn bánh mì cho chim sẻ, bóng sồi già | Không rao giảng sống chậm; con người và muông thú cùng chung sống hòa thuận, tôn trọng và yêu thương nhau |
 | 018 | A Place Back Home | Thị trấn ấm áp & Khúc ca đón người tri kỷ | Tình bạn tri kỷ, lòng biết ơn sự gắn kết, nhịp sống rộn ràng tươi vui | Bừng sáng, hân hoan, ấm áp, giàu sức sống | Cây đàn guitar gỗ, tiếng kèn harmonica, nụ cười chào nhau, tách trà nóng và chiếc ghế để dành bên cửa sổ | Tiếng đàn rộn rã cất lên mỗi sớm mai, cảm ơn vì bạn từng yêu quý bài hát, dù phiêu bạt nơi đâu bạn luôn có một chốn về |
+| 019 | We Did It | Vợ chồng già nhìn con khôn lớn | Tự hào vì cùng nhau nuôi con vượt qua mọi khó khăn, tình yêu gia đình là thứ đẹp nhất | Tự hào, hạnh phúc, xúc động | Hai vợ chồng ngồi hiên nhà nhìn lũ trẻ đã lớn cười nói ngoài sân, quay sang nhau gật đầu | "We did it." |
+| 019-T2 | Now I Know | Đứa con làm cha mẹ thấu hiểu tình phụ mẫu | Thấu hiểu sự hy sinh thầm lặng của cha mẹ khi chính mình nuôi con nhỏ, biết ơn vô hạn | Biết ơn, xúc động, sâu lắng | Đứng trong phòng tối dỗ con sốt lúc 3h sáng, nhớ chiếc ô cha che ngày xưa | "Now I know." |
+| 020 | Tập Ngồi Yên (Learning to Sit Still) | Tuần đầu nghỉ hưu học cách chậm lại | Thích nghi với sự rảnh rỗi / Giá trị của việc ngồi yên | Nhẹ nhõm, bỡ ngỡ nhẹ, ấm áp | Tua-vít vặn bản lề cửa bếp kêu cót két 5 năm, tách cà phê không nhìn đồng hồ, giàn cà chua buổi sớm | Cả đời tưởng bận rộn mới có giá trị; nay học cách ngồi yên mà không cảm thấy mình thừa thãi |
 
 ---
 

@@ -1,0 +1,37 @@
+# TIMESTAMPS: We Did It, Me and You_Master.wav
+# Duration: 03:07 (187.22s) | Sections: 33 | Vocal lines: 29
+# Model: base.en | Language: en | Lyrics: 3-lyrics.txt | Zero-Gap Mode: ON
+
+00:00 - 00:11  (11.56s)  [INSTRUMENTAL]   [Intro / Instrumental Opening]
+00:11 - 00:17  ( 5.54s)  [VOCAL]          The porch light's on and the yard is loud tonight
+00:17 - 00:23  ( 5.90s)  [VOCAL]          Our girl is laughing hard the way she did at five
+00:23 - 00:28  ( 5.34s)  [VOCAL]          The boy is carrying his daughter way up high
+00:28 - 00:33  ( 5.48s)  [VOCAL]          She pulls his ear and points up at the sky
+00:33 - 00:38  ( 5.10s)  [VOCAL]          We did it me and you
+00:38 - 00:45  ( 6.28s)  [VOCAL]          Every long night every worn-out shoe
+00:45 - 00:49  ( 4.38s)  [VOCAL]          We did it hand in hand
+00:49 - 00:53  ( 3.96s)  [VOCAL]          Not the way we ever planned
+00:53 - 00:56  ( 3.06s)  [VOCAL]          But we did it
+00:56 - 01:01  ( 5.30s)  [VOCAL]          The truck broke down that winter we were twenty-three
+01:01 - 01:07  ( 6.04s)  [VOCAL]          You walked home through the rain arms full of groceries
+01:07 - 01:12  ( 4.78s)  [VOCAL]          We made one bag of rice last half of January
+01:12 - 01:19  ( 6.64s)  [VOCAL]          And every night you made it taste like something new
+01:19 - 01:24  ( 5.18s)  [VOCAL]          We did it me and you
+01:24 - 01:30  ( 6.00s)  [VOCAL]          Every long night every worn-out shoe
+01:30 - 01:36  ( 5.46s)  [VOCAL]          We did it hand in hand
+01:36 - 01:39  ( 3.06s)  [VOCAL]          Not the way we ever planned
+01:39 - 01:41  ( 2.92s)  [VOCAL]          But we did it
+01:41 - 01:53  (11.68s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:53 - 01:58  ( 4.54s)  [VOCAL]          The house went quiet when the last one packed the car
+01:58 - 02:03  ( 5.08s)  [VOCAL]          I found your hand across the bed and asked now what
+02:03 - 02:10  ( 6.76s)  [VOCAL]          You said I guess we learn to sleep past six again
+02:10 - 02:16  ( 6.28s)  [VOCAL]          And we just lay there smiling in the dark
+02:16 - 02:21  ( 5.34s)  [VOCAL]          We did it me and you
+02:21 - 02:28  ( 6.68s)  [VOCAL]          Every long night every worn-out shoe
+02:28 - 02:33  ( 4.82s)  [VOCAL]          We did it look at them
+02:33 - 02:36  ( 3.10s)  [VOCAL]          I would do it all again
+02:36 - 02:39  ( 3.20s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+02:39 - 02:42  ( 3.14s)  [VOCAL]          The yard is getting still
+02:42 - 02:50  ( 7.98s)  [VOCAL]          The cars pulled down the lane
+02:50 - 02:52  ( 1.78s)  [VOCAL]          You lean into my arm the way you always do
+02:52 - 03:07  (14.86s)  [INSTRUMENTAL]   [Outro / Instrumental Ending]

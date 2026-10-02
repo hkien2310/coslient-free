@@ -1,0 +1,384 @@
+{
+  "audio_file": "Learning to Sit Still_Master.wav",
+  "language": "en",
+  "model": "base.en",
+  "lyrics_file": "3-lyrics.txt",
+  "duration_seconds": 212.39,
+  "duration_formatted": "03:32",
+  "gap_threshold": 2.0,
+  "max_shot_duration": 6.5,
+  "total_sections": 37,
+  "vocal_lines_count": 30,
+  "sequence": [
+    {
+      "index": 1,
+      "type": "INSTRUMENTAL",
+      "section": "Intro",
+      "start": 0.0,
+      "end": 12.2,
+      "duration": 12.2,
+      "time_range": "00:00 - 00:12",
+      "text": "[Intro / Instrumental Opening]"
+    },
+    {
+      "index": 2,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 12.2,
+      "end": 16.8,
+      "duration": 4.6,
+      "time_range": "00:12 - 00:16",
+      "text": "The whistle blew at seven every fall"
+    },
+    {
+      "index": 3,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 16.8,
+      "end": 19.0,
+      "duration": 2.2,
+      "time_range": "00:16 - 00:19",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 4,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 19.0,
+      "end": 25.76,
+      "duration": 6.76,
+      "time_range": "00:19 - 00:25",
+      "text": "I hung my yellow jacket by the door"
+    },
+    {
+      "index": 5,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 25.76,
+      "end": 32.34,
+      "duration": 6.58,
+      "time_range": "00:25 - 00:32",
+      "text": "Now sunlight creeps across the kitchen wall"
+    },
+    {
+      "index": 6,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 32.34,
+      "end": 39.46,
+      "duration": 7.12,
+      "time_range": "00:32 - 00:39",
+      "text": "And leaves a warm rectangle on the floor"
+    },
+    {
+      "index": 7,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 39.46,
+      "end": 45.84,
+      "duration": 6.38,
+      "time_range": "00:39 - 00:45",
+      "text": "My hand still reaches for a missing badge"
+    },
+    {
+      "index": 8,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 45.84,
+      "end": 51.3,
+      "duration": 5.46,
+      "time_range": "00:45 - 00:51",
+      "text": "Old habits die a little hard and slow"
+    },
+    {
+      "index": 9,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 51.3,
+      "end": 53.58,
+      "duration": 2.28,
+      "time_range": "00:51 - 00:53",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 10,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 53.58,
+      "end": 59.8,
+      "duration": 6.22,
+      "time_range": "00:53 - 00:59",
+      "text": "You're slicing peaches by the counter edge"
+    },
+    {
+      "index": 11,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 59.8,
+      "end": 66.4,
+      "duration": 6.6,
+      "time_range": "00:59 - 01:06",
+      "text": "And nodding like there's nowhere else to go"
+    },
+    {
+      "index": 12,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 66.4,
+      "end": 69.92,
+      "duration": 3.52,
+      "time_range": "01:06 - 01:09",
+      "text": "The coffee stays hot when you drink it slow"
+    },
+    {
+      "index": 13,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 69.92,
+      "end": 73.44,
+      "duration": 3.52,
+      "time_range": "01:09 - 01:13",
+      "text": "The morning isn't in a rush to leave"
+    },
+    {
+      "index": 14,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 73.44,
+      "end": 76.9,
+      "duration": 3.46,
+      "time_range": "01:13 - 01:16",
+      "text": "Thirty-eight years of running for the train"
+    },
+    {
+      "index": 15,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 76.9,
+      "end": 80.32,
+      "duration": 3.42,
+      "time_range": "01:16 - 01:20",
+      "text": "Now I'm learning how to sit still again"
+    },
+    {
+      "index": 16,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 80.32,
+      "end": 85.94,
+      "duration": 5.62,
+      "time_range": "01:20 - 01:25",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 17,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 85.94,
+      "end": 89.76,
+      "duration": 3.82,
+      "time_range": "01:25 - 01:29",
+      "text": "I took the screwdriver from the bottom drawer"
+    },
+    {
+      "index": 18,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 89.76,
+      "end": 92.66,
+      "duration": 2.9,
+      "time_range": "01:29 - 01:32",
+      "text": "And fixed the pantry door that used to stick"
+    },
+    {
+      "index": 19,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 92.66,
+      "end": 96.82,
+      "duration": 4.16,
+      "time_range": "01:32 - 01:36",
+      "text": "Five years of saying when I find the time"
+    },
+    {
+      "index": 20,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 96.82,
+      "end": 99.56,
+      "duration": 2.74,
+      "time_range": "01:36 - 01:39",
+      "text": "It only took a minute and a click"
+    },
+    {
+      "index": 21,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 99.56,
+      "end": 102.78,
+      "duration": 3.22,
+      "time_range": "01:39 - 01:42",
+      "text": "The coffee stays hot when you drink it slow"
+    },
+    {
+      "index": 22,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 102.78,
+      "end": 106.3,
+      "duration": 3.52,
+      "time_range": "01:42 - 01:46",
+      "text": "The morning isn't in a rush to leave"
+    },
+    {
+      "index": 23,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 106.3,
+      "end": 109.8,
+      "duration": 3.5,
+      "time_range": "01:46 - 01:49",
+      "text": "Thirty-eight years of running for the train"
+    },
+    {
+      "index": 24,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 109.8,
+      "end": 113.16,
+      "duration": 3.36,
+      "time_range": "01:49 - 01:53",
+      "text": "Now I'm learning how to sit still again"
+    },
+    {
+      "index": 25,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 113.16,
+      "end": 136.14,
+      "duration": 22.98,
+      "time_range": "01:53 - 02:16",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 26,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 136.14,
+      "end": 143.0,
+      "duration": 6.86,
+      "time_range": "02:16 - 02:23",
+      "text": "I used to think my hands were only good"
+    },
+    {
+      "index": 27,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 143.0,
+      "end": 149.68,
+      "duration": 6.68,
+      "time_range": "02:23 - 02:29",
+      "text": "For carrying the heavy tools and load"
+    },
+    {
+      "index": 28,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 149.68,
+      "end": 155.78,
+      "duration": 6.1,
+      "time_range": "02:29 - 02:35",
+      "text": "Now holding yours across this table here"
+    },
+    {
+      "index": 29,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 155.78,
+      "end": 163.26,
+      "duration": 7.48,
+      "time_range": "02:35 - 02:43",
+      "text": "Is all the work I'll ever need to know"
+    },
+    {
+      "index": 30,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 163.26,
+      "end": 166.76,
+      "duration": 3.5,
+      "time_range": "02:43 - 02:46",
+      "text": "The coffee stays hot when you drink it slow"
+    },
+    {
+      "index": 31,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 166.76,
+      "end": 170.28,
+      "duration": 3.52,
+      "time_range": "02:46 - 02:50",
+      "text": "The morning isn't in a rush to leave"
+    },
+    {
+      "index": 32,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 170.28,
+      "end": 173.76,
+      "duration": 3.48,
+      "time_range": "02:50 - 02:53",
+      "text": "Thirty-eight years of running for the train"
+    },
+    {
+      "index": 33,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 173.76,
+      "end": 179.1,
+      "duration": 5.34,
+      "time_range": "02:53 - 02:59",
+      "text": "Now I'm learning how to sit still again"
+    },
+    {
+      "index": 34,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 179.1,
+      "end": 184.4,
+      "duration": 5.3,
+      "time_range": "02:59 - 03:04",
+      "text": "Two cups resting by the window pane"
+    },
+    {
+      "index": 35,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 184.4,
+      "end": 186.52,
+      "duration": 2.12,
+      "time_range": "03:04 - 03:06",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 36,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 186.52,
+      "end": 190.86,
+      "duration": 4.34,
+      "time_range": "03:06 - 03:10",
+      "text": "Just learning how to sit still again"
+    },
+    {
+      "index": 37,
+      "type": "INSTRUMENTAL",
+      "section": "Outro",
+      "start": 190.86,
+      "end": 212.39,
+      "duration": 21.53,
+      "time_range": "03:10 - 03:32",
+      "text": "[Outro / Instrumental Ending]"
+    }
+  ]
+}

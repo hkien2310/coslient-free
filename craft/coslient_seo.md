@@ -11,10 +11,15 @@
 - Video: `[story-hook-slug].mp4` (ví dụ: `he-kept-a-chair-waiting.mp4`)
 - Thumbnail: `[story-hook-slug]-thumbnail.jpg`
 
-### Title (Dưới 60 ký tự, Story Hook):
-- **Cấu trúc:** `[1 câu chuyện gợi tò mò — ai, đang làm gì, thiếu mảnh gì] | A Dream Town`
-- **Tiêu chuẩn:** Có nhân vật (ông già, con chó, người mẹ), có hành động/tình huống, thiếu 1 mảnh thông tin để người xem phải bấm vào.
-- **CẤM:** Không để tên kênh "Coslient", "Official Music Video", "4K", genre label ("Indie Folk", "Acoustic") vào title.
+### Title (Dưới 70 ký tự):
+- **Cấu trúc linh hoạt (2 lựa chọn):**
+  * **Kiểu A — Tên bài thơ mộng + Nhãn định dạng (Khuyên dùng cho Soul Sanctuary):**  
+    `[Song Title] | A Dream Town (4K)` hoặc `[Song Title]… | Surreal AI Film (4K)`  
+    *(Ví dụ thực tế kiểm chứng: "The House That Waited at the End of the Road | Three-Quarter Town", "Still Walking Beside You… | Surreal AI Film (4K)")*
+  * **Kiểu B — Story Hook gợi tò mò:**  
+    `[1 câu chuyện gợi tò mò — ai, làm gì, thiếu mảnh gì] | A Dream Town`  
+    *(Ví dụ: "He kept a chair waiting for an old friend | A Dream Town")*
+- **Lưu ý:** Cho phép gắn nhãn giá trị cao `(4K)` hoặc `Surreal AI Film` để kích hoạt đề xuất hiển thị trên màn hình lớn. Không nhồi nhét tên kênh "Coslient" hay nhãn thể loại thừa vào title.
 
 ---
 

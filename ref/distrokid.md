@@ -25,7 +25,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
-| A Place Back Home | 1 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
+| A Place Back Home | 2 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
 
 ---
 
@@ -344,7 +344,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 **Mood:** Joyful, welcoming, grateful, heartwarming, upbeat sanctuary  
 **Signature Sound:** Bouncing fingerpicked guitar, warm upright piano, walking upright bass, foot stomps, handclaps, joyful harmonica riffs, warm smiling male baritone, 96 BPM  
 **Cultural Anchors:** Gregory Alan Isakov "The Weatherman" × Simon & Garfunkel upbeat folk warmth  
-**Tracks:** 1 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
+**Tracks:** 2 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
 
 ### 1. A Place Back Home
 - **Project:** [018](file:///Users/hoangkien/Youtube/coslient-free/projects/018)
@@ -357,6 +357,18 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Vocal:** Warm male baritone with smiling energetic delivery and rich chorus harmonies
 - **Cultural Anchor:** Cozy porch acoustic warmth × Welcoming old friends home
 - **Date Added:** 2026-09-26
+
+### 2. We Did It, Me and You
+- **Project:** [019](file:///Users/hoangkien/Youtube/coslient-free/projects/019)
+- **About:** Hai vợ chồng già nhìn đàn con cháu khôn lớn vui đùa ngoài sân, nhớ lại những tháng năm nghèo khó nắm tay nhau vượt qua, mỉm cười tự hào nhận ra: "We did it"
+- **Genre:** Acoustic Folk, Warm Porch-Recording Intimacy
+- **BPM / Time:** 88 BPM, 4/4
+- **Key:** —
+- **Duration:** ~3:07
+- **Instrumentation:** Gentle fingerpicked acoustic guitar, soft fiddle swells, light brushed snare, bass
+- **Vocal:** Warm male vocal with lived-in storytelling delivery and female harmony joining choruses
+- **Cultural Anchor:** Cozy porch acoustic intimacy × Lived-in family storytelling
+- **Date Added:** 2026-09-30
 
 ---
 

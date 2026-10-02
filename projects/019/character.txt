@@ -1,0 +1,40 @@
+@walter
+FIXED: a 70-year-old White American man, 185cm tall, 7-heads-tall body proportion, defined visible neck, long lean whimsical frame with slightly elongated limbs, gentle posture, charmingly quirky weathered face with benevolent grandfatherly warmth, pleasantly prominent bulbous nose, kindly drooping eyelids with soulful twinkling dark brown eyes, thick grey bushy eyebrows, endearing warm restful smile, soft rounded jaw, warm ruddy fair skin with deep soft laugh wrinkles, thick full wispy silver-white hair standing fluffy on top, large expressive sculpted clay hands
+DEFAULT HAIR: standing fluffy and tousled on top
+DEFAULT OUTFIT: loose faded blue cotton flannel plaid shirt with rolled sleeves, dark brown canvas trousers, worn brown leather lace-up boots
+
+@margaret
+FIXED: a 68-year-old White American woman, 162cm tall, 6.8-heads-tall body proportion, defined slender neck, graceful upright frame with proportional limbs, lovely soft oval face with benevolent maternal grace, charmingly round sculpted nose, kind drooping eyelids with warm sparkling hazel eyes, thin rounded eyebrows, sweet gentle lips in an endearing smile, soft rounded jaw, fair pink-toned skin with fine delicate laugh lines, thick full grey-brown hair, small pearl stud earrings
+DEFAULT HAIR: pulled into a quirky low bun secured with a small carved wooden hairpin
+DEFAULT OUTFIT: long deep indigo linen dress with a warm cream cotton quilted vest over it, simple canvas slip-on shoes
+
+@sarah
+FIXED: a 35-year-old White American woman, 172cm tall, 7.5-heads-tall body proportion, defined elegant neck, tall and lean whimsical frame with proportional limbs, relaxed confident posture, lovely oval face with charmingly quirky prominent nose, bright almond-shaped hazel eyes full of lively affection and laugh lines, natural arched eyebrows, full lips mid-laugh, defined jawline, warm fair skin with light sun freckles across cheeks, thick full chestnut-brown wavy hair in a tousled low ponytail, a thin braided cotton bracelet on left wrist
+DEFAULT HAIR: in a loose tousled low ponytail
+DEFAULT OUTFIT: loose cream linen button-up shirt tucked into olive canvas overall trousers, tan leather ankle boots
+
+@james
+FIXED: a 32-year-old White American man, 188cm tall, 7.5-heads-tall body proportion, defined visible neck, tall athletic frame with broad shoulders and proportional limbs, upright easy posture, handsome friendly face with a charmingly distinct round nose, warm deep-set brown eyes filled with kindhearted wonder, thick natural eyebrows, easy endearing grin, strong angular jaw with light stubble, warm fair skin lightly tanned, thick full dark brown wavy tousled hair with quirky natural volume, a simple leather watch strap on left wrist
+DEFAULT HAIR: wavy tousled with natural whimsical volume
+DEFAULT OUTFIT: heather grey cotton crew-neck t-shirt, raw indigo denim trousers with rolled cuffs, scuffed tan canvas sneakers
+
+@lily
+FIXED: a 6-year-old White American girl, 115cm tall, 5.5-heads-tall child proportion, defined visible neck, compact upright energetic posture with proportional limbs, adorable sweet round face with rosy clay cheeks, tiny button nose, large bright round dark brown eyes with wonder and long lashes, soft fine eyebrows, innocent joyous smiling rosebud mouth, soft rounded chin, warm pink fair skin, thick full chestnut-brown hair in two quirky bouncy side braids tied with twine bows
+DEFAULT HAIR: in two quirky bouncy side braids tied with small twine bows
+DEFAULT OUTFIT: mustard-yellow linen pinafore dress over a white cotton puff-sleeve blouse, small brown leather buckle shoes, a tiny daisy tucked behind one ear
+
+@barnaby
+FIXED: an elderly gentle golden-brown retriever dog, charmingly shaggy and benevolent, kind cloudy dark eyes, gray-frosted muzzle and chin, soft velvety floppy ears, thick fluffy sculpted clay-like fur with warm cream highlights, slow affectionate tail wag, wearing a weathered dark brown leather collar with a smooth carved wooden tag
+
+@rusty_puppy
+FIXED: a sprightly young golden-brown retriever puppy with charmingly big clumsy paws, bright curious dark eyes, velvety floppy ears, thick soft honey-colored sculpted clay-like fur, an energetic wagging tail, wearing a simple red woven cotton collar
+
+@young_walter
+FIXED: a 23-year-old young White American man, 185cm tall, 7.2-heads-tall body proportion, defined visible neck, tall strong whimsical frame with broad shoulders and proportional limbs, upright energetic posture, charmingly quirky handsome face, pleasantly prominent bulbous nose, gentle earnest dark brown eyes, thick dark natural eyebrows, soft jaw, smooth fair skin with healthy blush, endearing warm smile, thick full dark wavy hair with natural whimsical volume, strong sculpted clay hands
+DEFAULT HAIR: thick dark wavy and slightly tousled with natural whimsical volume
+DEFAULT OUTFIT: heavy olive-green cotton canvas chore jacket, faded blue denim trousers, sturdy dark brown leather work boots
+
+@young_margaret
+FIXED: a 23-year-old young White American woman, 162cm tall, 7-heads-tall body proportion, defined slender neck, graceful resilient frame with proportional limbs, lovely sweet oval face, charmingly round soft nose, gentle warm hazel eyes filled with optimism, thin natural eyebrows, sweet soft lips, soft rounded jaw, fair pink-toned skin with delicate sun freckles, thick full chestnut-brown wavy hair tied with a simple cotton ribbon
+DEFAULT HAIR: tied loosely with a simple cotton ribbon
+DEFAULT OUTFIT: thick woven cotton scarf, worn brown canvas work coat over a simple indigo blue cotton dress, sturdy canvas lace-up shoes

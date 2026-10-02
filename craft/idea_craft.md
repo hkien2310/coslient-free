@@ -1,55 +1,51 @@
 # 💡 IDEA CRAFT — QUY CHUẨN Ý TƯỞNG COSLIENT FREE
+v4.0 — Ponytail Edition: Chốn Nương Náu & Móc Neo Ký Ức
 
-> **Nguyên tắc cốt lõi:** Bước Idea chỉ nắm giữ "Hồn" (Cảm xúc cốt lõi), tuyệt đối không vẽ trước "Xác" (không ép bối cảnh chi tiết, không áp đặt đạo cụ hay kịch bản trước khi có nhạc).
-
----
-
-## 1. NHIỆM VỤ CỦA BƯỚC 1 (IDEA)
-Nhận bất kỳ input thô nào từ người dùng (câu nói bâng quơ, link nhạc đối thủ, một cảm xúc thoáng qua) ➔ Lọc qua lăng kính kênh ➔ Đúc kết thành **một chủ đề cảm xúc đắt giá** để giao cho người viết nhạc.
+> **Kim chỉ nam:** Ý tưởng không phải là một vở kịch nhiều mâu thuẫn để suy ngẫm, mà là **MỘT CÁNH CỬA BÌNH YÊN** để người nghe trốn khỏi thế giới mệt mỏi và yên lòng đi ngủ.
 
 ---
 
-## 2. BỘ LỌC CHUYỂN HÓA (3 TIÊU CHUẨN)
+## 1. 4 CỔ MẪU Ý TƯỞNG ĐÃ KIỂM CHỨNG (TRIỆU VIEW PROVEN)
 
-1. **Trải nghiệm phổ quát (Universal Resonance):**
-   - Đề tài phải chạm vào một trải nghiệm/ký ức mà hàng triệu người nghe 45+ đều từng có (con chó trung thành, mùi nhà cũ, chỗ ngồi cho bạn cũ, nơi chốn bình yên...).
-   - Không phân biệt "câu chuyện nhỏ hay lớn". Nhỏ hay lớn là ở góc máy triển khai sau này, ý tưởng chỉ cần có tính phổ quát.
+Mọi ý tưởng của kênh chỉ cần chọn đúng **1 trong 4 Cổ Mẫu (Archetypes)** sau:
 
-2. **Send Test (Ai gửi cho ai lúc đêm muộn?):**
-   - Phải chỉ mặt được người nhận và trigger cụ thể (nhớ ai, nhớ điều gì trong đời).
-   - Tránh nói chung chung "cho ai thích sống chậm".
-
-3. **Chất kênh Coslient (Tuân thủ [CLAUDE.md](file:///Users/hoangkien/Youtube/coslient-free/CLAUDE.md)):**
-   - Đạt chuẩn định vị kênh tại [CLAUDE.md](file:///Users/hoangkien/Youtube/coslient-free/CLAUDE.md).
-   - Cấm: Nhân vật áp lực bỏ phố về quê trốn đời (Cynical Escapism), lời ca lên lớp dạy đời/chữa lành (Therapy Preaching).
-   - Cần: Cảm giác thuộc về (Belonging), đồng hành ấm áp (Companionship) và sự tử tế đời thường.
+1. **Chốn Nương Náu & Thị Trấn Yên Bình (The Sanctuary / Town Panorama):**
+   * *Bản chất:* Không có nhân vật chính. Camera lướt qua những mảnh đời bình dị (người phơi áo, ấm nước reo, mèo vươn vai, người nướng bánh mì).
+   * *Lõi cảm xúc:* Sự an yên tuyệt đối (*"Nothing happens, nothing changes, and somehow everything feels right"*).
+2. **Tri Kỷ Đồng Hành (The Faithful Companion):**
+   * *Bản chất:* Tình cảm vô điều kiện của một chú chó trung thành hoặc người bạn đời cùng già đi qua năm tháng.
+   * *Lõi cảm xúc:* Sự trung thành, lòng biết ơn, xoa dịu nỗi đau mất mát (*"You walk beside me, that's enough"*).
+3. **Nơi Chốn & Đồ Vật Có Linh Hồn (The Sentient Home / Memory):**
+   * *Bản chất:* Ngôi nhà cũ tuổi thơ, chiếc ghế chờ, bậc thang gỗ cót két, vết bút chì đo chiều cao trên mép cửa.
+   * *Lõi cảm xúc:* Hoài niệm, sự bao dung và che chở của ký ức (*"The house doesn't ask where we travel so far, it only remembers our name"*).
+4. **Nghi Thức Đời Thường & Thiên Nhiên (The Pastoral Ritual):**
+   * *Bản chất:* Đàn cừu về làng trong sương sớm, bến thuyền lúc hoàng hôn, tiếng chuông gió, ngày mưa bên bếp lửa.
+   * *Lõi cảm xúc:* An thần số (Digital Sedative), giảm stress tức thì, ru ngủ.
 
 ---
 
-## 3. CẤU TRÚC CHUẨN CỦA FILE `1-idea.md`
+## 2. CẤU TRÚC FILE `1-idea.md` (CHUẨN PONYTAIL DƯỚI 15 DÒNG)
 
-File `projects/XXX/1-idea.md` chuẩn gồm đúng 3 khối cô đọng (dưới 20 dòng):
+File `projects/XXX/1-idea.md` chỉ cần trả lời đúng **3 câu hỏi tạo không gian**:
 
 ```markdown
-# [MÃ PROJECT]: [TÊN CHỦ ĐỀ]
+# [MÃ PROJECT]: [TÊN Ý TƯỞNG / KHÔNG GIAN]
+Cổ mẫu: [The Sanctuary | The Faithful Companion | The Sentient Home | The Pastoral Ritual]
 
-## 1. CHỦ ĐỀ & CẢM XÚC
-- Chủ đề: [Trải nghiệm phổ quát là gì]
-- Góc nhìn kể chuyện: [Tự sự, nhắn gửi trực tiếp, hoặc câu chuyện về một ai đó]
-- Cảm xúc: [Tên cảm xúc thuần túy]
+## 1. KHÔNG GIAN DUNG THÂN (THE SANCTUARY)
+- Bối cảnh: [Mô tả không gian trong 1 câu — vd: Bờ biển chạng vạng, ngôi nhà cũ tuổi thơ, hay góc hiên nhà có chú chó già]
+- Nhu cầu cảm xúc của người nghe: [Cần được vỗ về / Cần khóc để nhớ bạn đời / Cần ru ngủ / Cần buông bỏ áp lực]
 
-## 2. SEND TEST
-- Ai gửi cho ai: [Người nhận cụ thể]
-- Trigger: [Nghe xong nhớ tới ai/điều gì trong đời]
+## 2. MÓC NEO GIÁC QUAN VẬT LÝ (SENSORY ANCHORS)
+- 2–3 chi tiết xúc giác/âm thanh có thật: [Tiếng móng vuốt gõ trên sàn, vết bút chì đo chiều cao, tiếng ấm nước reo, ngọn đèn dầu bập bùng]
 
-## 3. HÌNH ẢNH GỢI CẢM XÚC (CORE IMAGERY)
-- Hình ảnh đọng lại: [1 hình ảnh biểu tượng nhất]
-- Câu chốt tinh thần: [1 câu ý niệm đắt giá để bám vào]
+## 3. CÂU HÁT NEO ĐỌNG (THE GOLDEN LINE)
+- 1 câu chân lý giản dị kết bài: [Vd: "You walk beside me. That's enough." / "Maybe happiness is smaller than we thought it had to be."]
 ```
 
 ---
 
-## 4. QUY TRÌNH CHUYỂN GIAO
-1. Viết xong `1-idea.md` theo khung trên.
-2. Ghi nhận 1 dòng tóm tắt vào bảng catalog [idea-index.md](../ref/idea-index.md) (để chống trùng mỏ neo cho các bài sau).
-3. Chuyển giao ngay cho Bước 2 (`2-music.md`).
+## 3. CHECK ĐẠT / TRƯỢT TRONG 5 GIÂY
+* [ ] Có bị dính bẫy drama/kịch tính gượng ép không? *(Nếu có: XÓA NGAY. Khán giả không cần xem phim xung đột).*
+* [ ] Đã có ít nhất 2 chi tiết vật lý đời thực chạm vào giác quan chưa?
+* [ ] Câu hát Golden Line có làm người ta thở phào nhẹ nhõm không?

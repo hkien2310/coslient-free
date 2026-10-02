@@ -1,0 +1,41 @@
+# TIMESTAMPS: Learning to Sit Still_Master.wav
+# Duration: 03:32 (212.39s) | Sections: 37 | Vocal lines: 30
+# Model: base.en | Language: en | Lyrics: 3-lyrics.txt | Zero-Gap Mode: ON
+
+00:00 - 00:12  (12.20s)  [INSTRUMENTAL]   [Intro / Instrumental Opening]
+00:12 - 00:16  ( 4.60s)  [VOCAL]          The whistle blew at seven every fall
+00:16 - 00:19  ( 2.20s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+00:19 - 00:25  ( 6.76s)  [VOCAL]          I hung my yellow jacket by the door
+00:25 - 00:32  ( 6.58s)  [VOCAL]          Now sunlight creeps across the kitchen wall
+00:32 - 00:39  ( 7.12s)  [VOCAL]          And leaves a warm rectangle on the floor
+00:39 - 00:45  ( 6.38s)  [VOCAL]          My hand still reaches for a missing badge
+00:45 - 00:51  ( 5.46s)  [VOCAL]          Old habits die a little hard and slow
+00:51 - 00:53  ( 2.28s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+00:53 - 00:59  ( 6.22s)  [VOCAL]          You're slicing peaches by the counter edge
+00:59 - 01:06  ( 6.60s)  [VOCAL]          And nodding like there's nowhere else to go
+01:06 - 01:09  ( 3.52s)  [VOCAL]          The coffee stays hot when you drink it slow
+01:09 - 01:13  ( 3.52s)  [VOCAL]          The morning isn't in a rush to leave
+01:13 - 01:16  ( 3.46s)  [VOCAL]          Thirty-eight years of running for the train
+01:16 - 01:20  ( 3.42s)  [VOCAL]          Now I'm learning how to sit still again
+01:20 - 01:25  ( 5.62s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:25 - 01:29  ( 3.82s)  [VOCAL]          I took the screwdriver from the bottom drawer
+01:29 - 01:32  ( 2.90s)  [VOCAL]          And fixed the pantry door that used to stick
+01:32 - 01:36  ( 4.16s)  [VOCAL]          Five years of saying when I find the time
+01:36 - 01:39  ( 2.74s)  [VOCAL]          It only took a minute and a click
+01:39 - 01:42  ( 3.22s)  [VOCAL]          The coffee stays hot when you drink it slow
+01:42 - 01:46  ( 3.52s)  [VOCAL]          The morning isn't in a rush to leave
+01:46 - 01:49  ( 3.50s)  [VOCAL]          Thirty-eight years of running for the train
+01:49 - 01:53  ( 3.36s)  [VOCAL]          Now I'm learning how to sit still again
+01:53 - 02:16  (22.98s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+02:16 - 02:23  ( 6.86s)  [VOCAL]          I used to think my hands were only good
+02:23 - 02:29  ( 6.68s)  [VOCAL]          For carrying the heavy tools and load
+02:29 - 02:35  ( 6.10s)  [VOCAL]          Now holding yours across this table here
+02:35 - 02:43  ( 7.48s)  [VOCAL]          Is all the work I'll ever need to know
+02:43 - 02:46  ( 3.50s)  [VOCAL]          The coffee stays hot when you drink it slow
+02:46 - 02:50  ( 3.52s)  [VOCAL]          The morning isn't in a rush to leave
+02:50 - 02:53  ( 3.48s)  [VOCAL]          Thirty-eight years of running for the train
+02:53 - 02:59  ( 5.34s)  [VOCAL]          Now I'm learning how to sit still again
+02:59 - 03:04  ( 5.30s)  [VOCAL]          Two cups resting by the window pane
+03:04 - 03:06  ( 2.12s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:06 - 03:10  ( 4.34s)  [VOCAL]          Just learning how to sit still again
+03:10 - 03:32  (21.53s)  [INSTRUMENTAL]   [Outro / Instrumental Ending]
