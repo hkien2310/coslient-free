@@ -25,7 +25,7 @@ Mỗi project = 1 video hoàn chỉnh:
      `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav>`
      để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, khớp từng câu hát).
 3. **Visual Pool (`image.txt`):** 
-   * Dựa trên không gian ở `1-idea.md` và phong cách trong `style/`, viết trực tiếp danh sách ~30–40 prompt ảnh đa dạng (toàn cảnh, trung cảnh, cận cảnh, siêu thực thi vị) vào `image.txt` (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)).
+   * Dựa trên không gian ở `1-idea.md` và phong cách trong `style/`, viết trực tiếp danh sách prompt ảnh đa dạng (số lượng tự do theo bài hát) vào `image.txt` (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)).
    * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh. Hoàn toàn không qua bảng storyboard trung gian.
 4. **Montage & Animation (`prompt-animate.txt`):**
    * *Phòng dựng tự do (Montage):* Thả nhạc và kho ảnh vào timeline (Premiere/CapCut/DaVinci), ghép ảnh theo nhịp nhạc (`timestamps.txt`) bằng rung cảm trực tiếp. Tự do quyết định nhịp cắt và sự va chạm hình ảnh (juxtaposition).

@@ -9,7 +9,8 @@ Style này kiến tạo một thế giới hoạt hình con rối thủ công đ
 > 💡 **QUY TẮC NHÂN VẬT (BẮT BUỘC):**
 > * Style này **KHÔNG CẦN tạo file `character.txt`** và **KHÔNG dùng hệ thống `@tag`**.
 > * Mọi nhân vật được **mô tả trực tiếp, đơn giản và tự nhiên** ngay trong từng shot của `image.txt`.
-> * Suffix mộc mạc đồng nhất cho toàn bộ prompt: `handcrafted needle-felted stop-motion diorama style, rich tactile craft textures --ar 16:9`.
+> * Suffix đồng nhất cho toàn bộ prompt: `cinematic stop-motion diorama style, rich tactile materials, photorealistic atmosphere --ar 16:9`.
+> * `needle-felted` **CHỈ** gắn vào chủ thể nhân vật và sinh vật sống động, tuyệt đối không gắn vào đồ vật tĩnh hay môi trường.
 
 ---
 
@@ -60,11 +61,14 @@ Mô hình AI mặc định gán từ `elderly / grandfather` với chứng rụn
 
 ## 🌲 2. KHÔNG GIAN THIÊN NHIÊN & VẬT LIỆU MỘC (MATERIAL BALANCE)
 
-* **Tôn vinh vật liệu mộc mạc:**
-  - Ưu tiên chất liệu hữu cơ: Gỗ sồi, gỗ thông gọt đẽo, đất nung (`terracotta`), gốm rạn, đá cuội bờ suối, vải lanh thô.
-  - Tránh các chi tiết kim loại đồng thau (`brass/copper`) bóng loáng, bánh răng cưa máy móc vì dễ kéo AI vào phong cách steampunk công nghiệp rẻ tiền làm mất chất mộc thôn dã.
-* **Giao thoa giữa Sa bàn thu nhỏ và Thiên nhiên điện ảnh:**
-  - Con rối và đồ vật nhỏ được đặt tương phản tự nhiên với không gian rộng lớn: `set against real flowing river water with natural ripples, majestic open landscape, and real distant pine-covered hills`.
+* **Quy chuẩn Gỗ (Chống gỗ mục nát):**
+  - **CẤM:** Tuyệt đối cấm các từ `weathered, aged, rustic` khi tả gỗ (khiến AI hiểu thành gỗ mục rỗng, mủn nát, nứt toác bãi rác).
+  - **BẮT BUỘC DÙNG:** Gỗ thủ công chắc nịch, đứng phom, có vân gỗ hoặc vết xước dăm nhẹ: `hand-planed solid timber with visible grain`, `sturdy carved oak with subtle surface scratches and artisan tool marks`, `smooth waxed pine`.
+* **Quy chuẩn Đồ gốm & Đồ vật (Chống đồ chơi nỉ chắp vá):**
+  - Đồ gốm phải là thành phẩm nung men: `solid glazed ceramic pottery with smooth kiln finish`, `smooth terracotta ceramic mug`.
+* **Quy chuẩn Khói, Hơi nước & Môi trường tự nhiên:**
+  - Khói và hơi nước thuộc về thế giới thật, không làm bằng len: `real wisps of steam`, `natural smoke rising smoothly`, `atmospheric natural vapor`.
+  - Môi trường nước suối, bầu trời, đồi thông luôn là thiên nhiên điện ảnh thật: `set against real flowing river water with natural ripples, majestic open landscape, and real distant pine-covered hills`.
 
 ---
 
@@ -89,16 +93,19 @@ Các mô hình AI thế hệ mới (Imagen, Midjourney, DALL-E) có các bộ l�
 
 ---
 
-## 📐 5. CẤU TRÚC MASTER PROMPT MẪU (100% KHẲNG ĐỊNH — KHÔNG NEGATIVE)
- 
-*Lưu ý: Luôn dùng 100% câu khẳng định, không dùng negative prompt. Nhập tỷ lệ người lớn tự nhiên (natural realistic human proportions, full hair) khi có nhân vật.*
+## 📐 5. CẤU TRÚC MASTER PROMPT MẪU (PONYTAIL 1 DÒNG)
 
-### Mẫu A: Cảnh có nhân vật người lớn
+### Mẫu A: Cảnh có nhân vật người lớn (Ponytail: Tinh gọn, đa dạng bằng Archetype & Đạo cụ)
 ```text
-[CỠ CẢNH VÀ GÓC MÁY], an elderly grandfather puppet with natural realistic human proportions, a full thick head of wavy silver wool hair completely covering the entire scalp with zero baldness, expressive sculpted stop-motion eyes with painted hazel irises and gentle eyelids, completely seamless unstitched peach felt face, wearing a coarse cream linen shirt and tailored olive wool felt trousers with suspenders, neat felt hands [HÀNH ĐỘNG CỤ THỂ], set against [BỐI CẢNH THỦ CÔNG & THIÊN NHIÊN THẬT], [ÁNH SÁNG NẮNG MAI / HOÀNG HÔN], handcrafted needle-felted stop-motion diorama style, rich tactile craft textures --ar 16:9
+[CỠ CẢNH], a [ARCHETYPE / NGHỀ NGHIỆP] puppet with well-proportioned adult frame and seamless painted face, wearing [TRANG PHỤC CÓ PHOM ĐỨNG], [VI HÀNH ĐỘNG / ĐẠO CỤ], set against [BỐI CẢNH THỦ CÔNG & THIÊN NHIÊN THẬT], [ÁNH SÁNG], cinematic stop-motion diorama style, rich tactile materials, photorealistic atmosphere --ar 16:9
 ```
 
 ### Mẫu B: Cảnh phong cảnh sa bàn / tĩnh vật (không người)
 ```text
-[CỠ CẢNH VÀ GÓC MÁY], a miniature handcrafted [KIẾN TRÚC/ĐỒ VẬT THỦ CÔNG] with carved timber and terracotta tiles nestled beside [THIÊN NHIÊN THẬT: real flowing river water / real distant pine hills], [ÁNH SÁNG MÔI TRƯỜNG], handcrafted needle-felted stop-motion diorama style, rich tactile craft textures --ar 16:9
+[CỠ CẢNH], a miniature handcrafted [KIẾN TRÚC/ĐỒ VẬT GỖ ĐẶC HOẶC GỐM NUNG] nestled beside [THIÊN NHIÊN THẬT: real flowing river water / real wisps of smoke], [ÁNH SÁNG MÔI TRƯỜNG], cinematic stop-motion diorama style, rich tactile materials, photorealistic atmosphere --ar 16:9
+```
+
+### Mẫu C: Sinh vật sống động (Chó, chim, thú nuôi)
+```text
+[CỠ CẢNH], a lively fluffy needle-felted [LOÀI VẬT] with bright curious eyes and soft wool feathers/fur, [HÀNH ĐỘNG SỐNG ĐỘNG], set against [BỐI CẢNH], [ÁNH SÁNG], cinematic stop-motion diorama style, rich tactile materials, photorealistic atmosphere --ar 16:9
 ```

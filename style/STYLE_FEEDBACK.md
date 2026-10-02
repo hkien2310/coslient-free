@@ -38,6 +38,8 @@ Mỗi lần phát hiện và sửa lỗi, ghi lại vào bảng này để trán
 | Tóc râu bết dính như sợi mì đất sét | `sculpted clay hair` trong prompt | AI nặn tóc thành từng dải đất sét dính cục | Thay bằng `natural fiber hair with fine separated strands` |
 | Lộ rãnh khớp cổ tay, khuỷu tay | Dùng từ `puppet` quá nhiều + bẫy từ `no joints / unjointed` | AI bắt sóng từ `joints` và vẽ ngấn khớp búp bê | Đổi Suffix sang `stop-motion figures`, tả `continuous organic arms, seamless smooth skin` |
 | Trang phục thành áo thụng tu sĩ / bao tải | Dùng từ `smock` hoặc `linen dress` chung chung | `smock` là áo thụng nông dân trung cổ, váy không phom thành bao tải | Dùng trang phục thường ngày có cấu trúc (`button-down shirt`, `chinos`, `sundress with fitted waist`) |
+| Cốc bị chắp vá vải nỉ, khói thành sợi len xoắn, len nỉ xâm chiếm cả thế giới | `needle-felted` + `craft textures` trong Suffix dùng chung | Suffix toàn cục ép 100% pixel (kể cả cốc, khói, đồi cỏ) thành len nỉ thủ công chắp vá | Bỏ khỏi suffix chung. Suffix đổi thành `cinematic stop-motion diorama style, rich tactile materials, photorealistic atmosphere`. `needle-felted` CHỈ gắn vào nhân vật và sinh vật |
+| Gỗ bị mục rỗng, mủn nát, nứt toác | `weathered timber`, `weathered wooden`, `aged oak`, `rustic` | `weathered/aged` trong AI kích hoạt gỗ mục bỏ hoang, ẩm mốc, phân hủy | Thay bằng gỗ chắc mộc: `hand-planed solid timber with visible grain`, `sturdy carved oak with subtle surface scratches and artisan tool marks` |
 
 ---
 
