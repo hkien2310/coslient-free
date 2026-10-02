@@ -1,7 +1,7 @@
 # 🎬 ANIMATION CRAFT — QUY CHUẨN CHUYỂN ĐỘNG VIDEO AI
 v4.0 — Precision Production Edition (Kling / Runway / Veo3 / Luma / Seedance)
 
-> **Mục tiêu:** Chuyển hóa cột *Chuyển động êm dịu* từ `storyboard.md` thành các prompt chuyển động (Animation Prompts) bằng tiếng Anh chuẩn xác cho từng ảnh keyframe đã render thành công.
+> **Mục tiêu:** Chuyển hóa các ảnh keyframe đã được lựa chọn trên bàn dựng (Timeline Montage) thành các prompt chuyển động (Animation Prompts) bằng tiếng Anh chuẩn xác trong file `prompt-animate.txt` cho tool video AI.
 >
 > 🔒 **Kiến trúc phân tầng:**
 > - `animation_craft.md` độc lập với mọi Style hình ảnh. Dù ảnh đầu vào là đất sét sa bàn, vẽ tay, hay 35mm, prompt diễn hoạt đều tuân thủ ngữ pháp vật lý và quy chuẩn camera dưới đây để triệt tiêu 100% lỗi biến dạng (morphing).

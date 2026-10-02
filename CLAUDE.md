@@ -15,31 +15,44 @@
 
 ---
 
-## 2. WORKFLOW LÀM VIỆC (3 BƯỚC)
+## 2. WORKFLOW LÀM VIỆC (QUY TRÌNH MONTAGE 4 BƯỚC — PONYTAIL)
 Mỗi project = 1 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** Chọn tuyến (Soul Sanctuary hoặc Character Story), xác định cảm xúc cốt lõi, Send Test và móc neo giác quan (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Tuyệt đối không áp đặt đạo cụ gò bó hay vẽ trước storyboard.
-2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát & xuất lời sạch DistroKid.
-   * *Bộ lọc Anti-Slop tinh gọn:* Diệt triệt để từ ngữ đao to búa lớn vô hồn (`whispers, tapestry, celestial...`), nhưng **tôn trọng cổ mẫu (archetypes) và móc neo giác quan đời thực (sensory anchors)**. Không đem tiêu chuẩn văn học lý tính đi phán xét ca từ vỗ về cảm xúc.
+1. **Idea (`1-idea.md`):** Đúng 3 gạch đầu dòng: Không gian + Cảm xúc cốt lõi + 2–3 Móc neo giác quan đời thực (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Tuyệt đối không ép nhân vật cố định, không tạo gia phả hay kịch bản biến cố.
+2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát Folk & xuất lời sạch DistroKid (tuân thủ [`craft/music_craft.md`](./craft/music_craft.md)).
+   * *Bộ lọc Anti-Slop:* Diệt triệt để từ ngữ trừu tượng vô hồn, nhưng **tôn trọng cổ mẫu và móc neo giác quan đời thực**.
    * *Trích xuất mốc thời gian:* Sau khi có file audio `.wav` và `3-lyrics.txt`, chạy:
      `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav>`
-     để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, tự động gộp theo từng câu trong `3-lyrics.txt`).
-3. **Visual:**
-   * Chọn phong cách thị giác trong `style/` và Chế độ thị giác trong [`craft/storyboard_craft.md`](./craft/storyboard_craft.md):
-     - **Chế độ A — World Vignettes (Thế giới lát cắt):** Hoàn toàn KHÔNG cần tạo `character.txt`, nối cảnh bằng ánh sáng & không khí. Mặc định cho Soul Sanctuary / Nhạc an trú.
-     - **Chế độ B — Single/Companion Journey:** Chuyện kể một người hoặc người và thú cưng. Khóa bằng mỏ neo trang phục mộc (áo len, góc sau lưng, đôi bàn tay), tạo `character.txt` nếu cần.
-   * `storyboard.md`: Bảng phân cảnh tinh gọn theo [`craft/storyboard_craft.md`](./craft/storyboard_craft.md) (Cảnh này là gì, rộng/hẹp, tại sao, tác dụng gì, liên kết cảnh trước) chia theo nhịp retention ~5s.
-   * `image.txt`: Viết prompts ảnh theo đúng quy chuẩn và cú pháp của style đã chọn.
-   * `animation.txt`: Từ ảnh thực tế đã tạo, viết prompt chuyển động (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)).
+     để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, khớp từng câu hát).
+3. **Visual Pool (`image.txt`):** 
+   * Dựa trên không gian ở `1-idea.md` và phong cách trong `style/`, viết trực tiếp danh sách ~30–40 prompt ảnh đa dạng (toàn cảnh, trung cảnh, cận cảnh, siêu thực thi vị) vào `image.txt` (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)).
+   * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh. Hoàn toàn không qua bảng storyboard trung gian.
+4. **Montage & Animation (`prompt-animate.txt`):**
+   * *Phòng dựng tự do (Montage):* Thả nhạc và kho ảnh vào timeline (Premiere/CapCut/DaVinci), ghép ảnh theo nhịp nhạc (`timestamps.txt`) bằng rung cảm trực tiếp. Tự do quyết định nhịp cắt và sự va chạm hình ảnh (juxtaposition).
+   * *Chuyển động video:* Với các ảnh đã được chọn trên timeline, viết prompt chuyển động vào `prompt-animate.txt` (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)) để đưa vào tool render video.
 
 ---
 
 ## 3. QUY CHUẨN THƯ MỤC (`projects/XXX/` hoặc `projects-<tên>/XXX/`)
-Chỉ chứa các file chuẩn trên + file `.wav` + thư mục `image/`. Tuyệt đối không lưu file rác/file nháp trung gian.
+Chỉ chứa các file thực tế được tool và phòng dựng sử dụng. Tuyệt đối không tạo file trung gian thừa (`storyboard.md`, `character.txt`):
+
+```text
+projects/XXX/
+├── 1-idea.md              (3 dòng không gian & cảm xúc)
+├── 2-music.md             (Ý tưởng phối âm & Suno prompt)
+├── 3-lyrics.txt           (Lời sạch DistroKid)
+├── <audio>.wav            (File âm thanh master)
+├── timestamps.json, timestamps.txt, lyrics.srt (Bộ mốc thời gian)
+├── image.txt              (Kho prompts ảnh cho tool tải ảnh)
+├── prompt-animate.txt     (Kho prompts chuyển động cho tool video)
+├── 6-seo.md               (Tiêu đề, mô tả YouTube)
+└── dola-auto-download/    (Thư mục ảnh tải về)
+```
 
 ### 3.1 Quy chuẩn Dự án Đa bài (Multi-Track Projects):
-Khi một Project phát triển từ **2 bài hát trở lên** (hai câu chuyện, hai tuyến nhân vật hoặc hai bản phối khác nhau):
-* **Bắt buộc chia hẳn thành các thư mục con riêng biệt** theo định dạng:
+Khi một Project phát triển từ **2 bài hát trở lên**:
+* **Thư mục gốc `projects/XXX/`** chỉ lưu 2 file ý tưởng & âm nhạc chung: `1-idea.md` và `2-music.md`.
+* **Mỗi track là một workspace con độc lập**:
   ```text
   projects/XXX/
   ├── 1-idea.md
@@ -48,15 +61,12 @@ Khi một Project phát triển từ **2 bài hát trở lên** (hai câu chuy�
   │   ├── <audio>.wav
   │   ├── timestamps.json, timestamps.txt, lyrics.srt
   │   ├── 3-lyrics.txt
-  │   ├── storyboard.md  (khóa nhịp riêng 3–6s/shot, điểm ngọt 5s)
-  │   ├── character.txt  (nếu style được chọn yêu cầu tạo nhân vật)
-  │   ├── image.txt      (prompts Midjourney riêng theo style)
-  │   └── animation.txt  (prompts chuyển động riêng)
+  │   ├── image.txt          (prompts Midjourney riêng theo style)
+  │   ├── prompt-animate.txt (prompts chuyển động riêng)
+  │   └── 6-seo.md
   └── track-2-<tên_slug>/
       └── (đầy đủ bộ file chuẩn như trên)
   ```
-* **Thư mục gốc `projects/XXX/`** chỉ lưu 2 file ý tưởng & âm nhạc chung: `1-idea.md` và `2-music.md`.
-* **Mỗi track là một workspace độc lập**: Tên file bên trong giữ nguyên chuẩn (`storyboard.md`, `character.txt`, `image.txt`, `animation.txt`, `3-lyrics.txt`) để tương thích 100% với các tool tự động tải ảnh (`dola-auto-download`) và script render.
 
 ---
 
