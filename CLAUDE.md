@@ -15,27 +15,29 @@
 
 ---
 
-## 2. WORKFLOW LÀM VIỆC (QUY TRÌNH MONTAGE 4 BƯỚC — PONYTAIL)
+## 2. WORKFLOW LÀM VIỆC (5 BƯỚC — PONYTAIL)
 Mỗi project = 1 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** Đúng 3 gạch đầu dòng: Không gian + Cảm xúc cốt lõi + 2–3 Móc neo giác quan đời thực (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Tuyệt đối không ép nhân vật cố định, không tạo gia phả hay kịch bản biến cố.
+1. **Idea (`1-idea.md`):** Đúng 3 gạch đầu dòng: Không gian + Cảm xúc cốt lõi + 2–3 Móc neo giác quan đời thực (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Không gia phả, không kịch bản biến cố.
 2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát Folk & xuất lời sạch DistroKid (tuân thủ [`craft/music_craft.md`](./craft/music_craft.md)).
    * *Bộ lọc Anti-Slop:* Diệt triệt để từ ngữ trừu tượng vô hồn, nhưng **tôn trọng cổ mẫu và móc neo giác quan đời thực**.
    * *Trích xuất mốc thời gian:* Sau khi có file audio `.wav` và `3-lyrics.txt`, chạy:
      `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav>`
      để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, khớp từng câu hát).
-3. **Visual Pool (`image.txt`):** 
-   * **BẮT BUỘC ĐỌC TRƯỚC:** Rà soát ngay sổ tay bẫy từ khóa [`style/IMAGE_AVOID_CASES.md`](./style/IMAGE_AVOID_CASES.md) để tự động né 100% các từ cấm (búp bê khâu vá, người thật, len nỉ bao phủ, gỗ mục nát).
-   * Dựa trên không gian ở `1-idea.md` và phong cách trong `style/`, viết trực tiếp danh sách prompt ảnh đa dạng (số lượng tự do theo bài hát) vào `image.txt` (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)).
-   * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh. Hoàn toàn không qua bảng storyboard trung gian.
-4. **Montage & Animation (`prompt-animate.txt`):**
-   * *Phòng dựng tự do (Montage):* Thả nhạc và kho ảnh vào timeline (Premiere/CapCut/DaVinci), ghép ảnh theo nhịp nhạc (`timestamps.txt`) bằng rung cảm trực tiếp. Tự do quyết định nhịp cắt và sự va chạm hình ảnh (juxtaposition).
-   * *Chuyển động video:* Với các ảnh đã được chọn trên timeline, viết prompt chuyển động vào `prompt-animate.txt` (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)) để đưa vào tool render video.
+3. **Storyboard (`characters.txt` & `4-storyboard.md`):** Tầng quyết định video trông thế nào: cảnh, góc, máy, giờ, thời lượng, chuyển cảnh. Người dùng duyệt trước khi lắp prompt (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)).
+   * `characters.txt`: nhân vật xuyên suốt, nạp lên Meta AI một lần để gọi bằng `@tên`. Không có nhân vật cố định thì bỏ file này.
+4. **Visual Pool (`image.txt`):** Lắp mỗi hàng storyboard với style đang dùng thành một prompt.
+   * **BẮT BUỘC ĐỌC TRƯỚC:** [`style/IMAGE_AVOID_CASES.md`](./style/IMAGE_AVOID_CASES.md) (6 rule viết prompt + từ điển token kích hoạt).
+   * Style là plugin trong `style/`: đổi file style, storyboard giữ nguyên.
+   * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh.
+5. **Montage & Animation (`prompt-animate.txt`):**
+   * *Phòng dựng:* Xếp ảnh theo thứ tự và thời lượng trong storyboard. Ảnh ra gợi ý tốt hơn thì sửa storyboard rồi dựng theo.
+   * *Chuyển động video:* Lấy cột Máy và hành động của storyboard, viết prompt vào `prompt-animate.txt` (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)).
 
 ---
 
 ## 3. QUY CHUẨN THƯ MỤC (`projects/XXX/` hoặc `projects-<tên>/XXX/`)
-Chỉ chứa các file thực tế được tool và phòng dựng sử dụng. Tuyệt đối không tạo file trung gian thừa (`storyboard.md`, `character.txt`):
+Chỉ chứa các file thực tế được dùng. Không tạo file trung gian ngoài danh sách dưới:
 
 ```text
 projects/XXX/
@@ -44,6 +46,8 @@ projects/XXX/
 ├── 3-lyrics.txt           (Lời sạch DistroKid)
 ├── <audio>.wav            (File âm thanh master)
 ├── timestamps.json, timestamps.txt, lyrics.srt (Bộ mốc thời gian)
+├── characters.txt         (Nhân vật xuyên suốt, nạp lên Meta AI — tùy chọn)
+├── 4-storyboard.md        (Chuỗi cảnh, mỗi cảnh một dòng)
 ├── image.txt              (Kho prompts ảnh cho tool tải ảnh)
 ├── prompt-animate.txt     (Kho prompts chuyển động cho tool video)
 ├── 6-seo.md               (Tiêu đề, mô tả YouTube)
@@ -52,17 +56,19 @@ projects/XXX/
 
 ### 3.1 Quy chuẩn Dự án Đa bài (Multi-Track Projects):
 Khi một Project phát triển từ **2 bài hát trở lên**:
-* **Thư mục gốc `projects/XXX/`** chỉ lưu 2 file ý tưởng & âm nhạc chung: `1-idea.md` và `2-music.md`.
+* **Thư mục gốc `projects/XXX/`** chỉ lưu file chung: `1-idea.md`, `2-music.md` và `characters.txt` (nếu có).
 * **Mỗi track là một workspace con độc lập**:
   ```text
   projects/XXX/
   ├── 1-idea.md
   ├── 2-music.md
+  ├── characters.txt         (dùng chung mọi track — tùy chọn)
   ├── track-1-<tên_slug>/
   │   ├── <audio>.wav
   │   ├── timestamps.json, timestamps.txt, lyrics.srt
   │   ├── 3-lyrics.txt
-  │   ├── image.txt          (prompts Midjourney riêng theo style)
+  │   ├── 4-storyboard.md
+  │   ├── image.txt          (prompts ảnh riêng theo style)
   │   ├── prompt-animate.txt (prompts chuyển động riêng)
   │   └── 6-seo.md
   └── track-2-<tên_slug>/

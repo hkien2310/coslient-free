@@ -1,0 +1,36 @@
+# ==============================================================================
+# BỘ PROMPT TEST ĐA DẠNG STYLE SA BÀN ĐA CHẤT LIỆU (MIXED-MEDIA TABLETOP DIORAMA)
+# Thử nghiệm các biến số: Bối cảnh, cơ chế siêu thực, tỷ lệ, thời tiết, ánh sáng
+# ==============================================================================
+
+# --- NHÓM 1: CÔNG VIỆC THỦ CÔNG & ĐỜI THƯỜNG MỘC MẠC ---
+
+# 01. Tiệm may / Thợ vá rơm rạ (Trong nhà xưởng, ánh sáng cửa sổ)
+Medium-wide low ground-level shot inside a rustic wooden workshop, a 65-year-old tailor as a handmade miniature figurine, tall slender natural human proportions, small head, long thin limbs, hand-painted figurine face with small round spectacles, stitching a large mustard-yellow felt coat spread over a hand-carved workbench, wooden spools of colored twine, a sleeping raw wool terrier curled in a basket of fabric scraps, golden dust motes floating in sunlight, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, soft warm morning window light, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+
+# 02. Chèo đò trên dòng suối sa bàn (Nước thật + sỏi cuội)
+Wide low ground-level shot, an elderly ferryman as a handmade miniature figurine, tall slender natural human proportions, standing on a carved wooden flat-bottom punt, pushing a long wooden pole into a shallow stream made of real glistening water and pebbles, mossy banks, a wire-haired raw wool dog sitting proudly at the bow, tiny white blossom petals floating on water, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, soft misty dawn light, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+
+# --- NHÓM 2: PHÁ TỶ LỆ / SIÊU THỰC DÂN GIAN (FOLK SURREALISM) ---
+
+# 03. Quả bí ngô / Quả lê khổng lồ làm nhà
+Wide low ground-level shot, a massive dried ochre gourde hollowed out into a tiny cottage with carved timber windows and a chimney emitting real cotton smoke, an elderly couple as handmade miniature figurines sitting outside on tiny wooden stools drinking tea, a tiny raw wool sheep grazing on moss beside them, thistle seeds drifting in the air, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, warm low golden-hour backlight, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+
+# 04. Đàn cá voi bay bằng vải thô trên bầu trời làng quê
+Wide low ground-level shot looking upward from a village lane, two gigantic stitched burlap-and-wool whales floating gracefully through the evening clouds above stone cottages, an elderly villager in a tweed flat cap leaning on a walking stick looking up in quiet wonder, his raw wool hound looking up beside him, floating embers in the cool air, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, twilight with warm glowing cottage windows, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+
+# --- NHÓM 3: KHÍ HẬU & THỜI TIẾT ĐẶC BIỆT ---
+
+# 05. Cơn mưa sa bàn (Dây chỉ trong suốt / Hạt cườm làm mưa)
+Medium-wide low ground-level shot, an elderly man in a dark oiled-canvas coat holding a small leaf-umbrella, walking along a muddy gravel path, rain suggested by delicate suspended threads and glistening glass droplets, a wet-looking raw wool dog trotting close against his boots, glistening real wet moss and pebbles, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, overcast diffused cool daylight, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+
+# 06. Đêm trăng rằm, đàn đom đóm & vườn thảo mộc
+Medium-wide low ground-level shot at night, an elderly botanist woman as a handmade miniature figurine with tall slender natural proportions, wearing a patchwork linen apron, holding a tiny tin lantern with warm glowing light, tending to dried lavender stalks and moss beds, swarms of glowing fireflies creating golden points of light in the air, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, deep indigo moonlit night with cozy lantern glow, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+
+# --- NHÓM 4: HÀNH TRÌNH & PHƯƠNG TIỆN CỔ ĐIỂN ---
+
+# 07. Xe tải gỗ cũ chở đầy hoa khô leo dốc đá
+Wide low ground-level shot, an eccentric hand-carved wooden pickup truck with oversized wheels chugging up a steep rocky dirt path made of real shale and dried roots, loaded high with bundles of dried wildflowers and twine, an elderly driver with a long nose peering out the cab, a shaggy raw wool dog riding happily in the open truck bed, dandelion fluff drifting in the breeze, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, bright windy morning sun, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+
+# 08. Khí cầu bằng bao bố chắp vá trên đỉnh đồi gió
+Wide low ground-level shot, a small hot-air balloon made of stitched linen sacks and hemp rope tethered to a split-rail fence on a windswept moss hill, an elderly aviator in leather goggles and tweed jacket checking the ropes, his raw wool dog barking playfully at the swaying wicker basket, dry grass swaying, feather wisps blowing past, made from whatever was at hand, real moss, pebbles and dried grass, carved wood, raw wool, coarse linen and twine, slightly lopsided handmade shapes, dramatic sunset with orange and mauve clouds, handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
