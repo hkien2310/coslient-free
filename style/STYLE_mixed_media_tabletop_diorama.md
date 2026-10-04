@@ -8,11 +8,12 @@ Con rối làm tay đa chất liệu đặt giữa thiên nhiên thật thu nh�
 - **Thật:** rêu, sỏi, cỏ khô, hoa dại, nước, trời, khói, núi xa. Không làm bằng len.
 
 ## 2. Khối nhân vật
-Mỗi lỗi hay gặp có đúng một cụm neo. Ngoài cụm neo, không tả thêm hình dáng hay nét mặt.
+Mỗi lỗi hay gặp có đúng một cụm neo. Ngoài cụm neo, không tả thêm hình dáng. Không tả mắt, mũi, miệng (Meta tự vẽ cách điệu).
 
 ```text
-a [tuổi]-year-old [giới] [nghề] as a stylized whimsical handmade puppet, slender body, slim limbs, small matte carved wooden head with two tiny dot eyes, full thick head of [màu] [chất liệu] hair, loose-fitting single-piece [màu] [vải mềm] knee-length [món áo] hanging in soft folds, visible slim legs in trousers and small boots
+a [tuổi]-year-old [giới] [nghề] as a stylized whimsical handmade puppet, slender body, slim limbs, small matte [hình đầu] head, full thick head of [màu] [chất liệu] hair, loose-fitting single-piece [màu] [vải mềm] knee-length [món áo] hanging in soft folds, visible slim legs in trousers and small boots
 ```
+- **Hình đầu:** mỗi nhân vật một từ xoay vòng: `narrow oval` · `broad round` · `pear-shaped` · `squarish` · `heart-shaped`. Nhân vật đứng cạnh nhau không trùng hình. Có thể thay tóc bằng mũ (vải, nỉ, nón rơm) để đổi silhouette.
 - **Chân:** áo luôn ghi `knee-length` và chân ghi `visible slim legs … boots`, nếu không áo dài che mất chân. Cảnh trung dùng `full-body`, không `medium` (bị cắt ngang).
 - **Tóc/râu/lông:** chất gì cũng được (sợi, len, dây, cỏ khô) miễn đọc ra là tóc. Luôn có tóc hoặc mũ, tránh đầu hói.
 - **Áo:** vải mềm rủ được (`linen`, `felt`, `flannel`, `soft leather`, `tweed`). Không vải cứng.
