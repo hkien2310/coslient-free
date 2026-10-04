@@ -1,20 +1,16 @@
 # VISUAL CRAFT
-Viết thẳng prompt vào `image.txt`. Số lượng tùy độ dài bài.
+Viết thẳng prompt vào `image.txt`. Số lượng tùy độ dài bài. Chất liệu, khung hình, suffix: theo file style trong `style/`. Bẫy từ khóa: `style/IMAGE_AVOID_CASES.md`.
 
-- Bám chủ đề và cảm xúc trong `1-idea.md` và lời bài. Sáng tạo, không cần nối logic giữa các cảnh.
-- Chất liệu, khung hình, suffix: theo file style trong `style/`. Bẫy từ khóa: `style/IMAGE_AVOID_CASES.md`.
+Chỉ có hai tiêu chí. Mọi thứ khác (cảnh nào, thứ tự nào, bám lời bao nhiêu) tự quyết.
 
-## Đa dạng
-Mỗi prompt là một tổ hợp của các trục dưới đây. Không hai prompt trùng tổ hợp. Không ba prompt liền nhau giống nhau ở cùng một trục.
-- **Cỡ cảnh:** phần lớn từ trung (thấy toàn thân) tới cực rộng. Cận chỉ thỉnh thoảng, để nhấn một khoảnh khắc đắt: câu hook, điệp khúc, một món đồ mang câu chuyện.
-- **Độ cao máy:** sát mặt đất · ngang tầm mắt · ngước lên · nhìn từ trên cao.
-- **Hướng máy:** chính diện · ba phần tư · ngang cạnh · sau lưng · qua vai.
-- **Bố cục:** chủ thể giữa khung · lệch một bên · nhỏ giữa cảnh lớn · có tiền cảnh che một phần.
-- **Chủ thể:** người · người với thú · thú · đồ vật kể chuyện · cảnh không người nhưng có dấu vết người đang sống.
-- **Nơi chốn:** nhiều nơi trong cùng một thế giới. Một nơi không chiếm quá vài prompt liền.
-- **Hành động:** mỗi cảnh một việc khác nhau, đang diễn ra.
-- **Giờ và thời tiết:** đi theo cung cảm xúc của bài, đổi ít nhất vài lần trong video.
-- **Siêu thực:** vài cảnh mỗi video được phá tỷ lệ hoặc phá logic, không giải thích.
-- **Khác video trước:** nơi chốn chính, giờ chủ đạo và nhân vật chính không lặp lại video liền trước.
+## 1. Không chán (đa dạng)
+- Nguồn cảnh: idea, lời bài, nhạc. Với mỗi thứ được nhắc trong lời, nghĩ thêm thế giới quanh nó (cạnh, trước, sau, ngoài cửa) để có thêm cảnh.
+- Đổi nhiều trục giữa các ảnh: cỡ cảnh, độ cao và hướng máy, bố cục, chủ thể (người, thú, đồ vật, cảnh vắng), nơi chốn, hành động, giờ và thời tiết. Thỉnh thoảng phá tỷ lệ.
+- Một vật hoặc một chỗ xuất hiện tối đa 2 lần trong video. Không ba ảnh liền giống nhau ở cùng một trục.
+- Khác video liền trước về nơi chốn chính, giờ chủ đạo và nhân vật chính.
+
+## 2. Không đánh nhau với nhạc (xịn)
+- Ảnh phải hợp cảm xúc và nhịp của bài, không gây giật mình hay lạc tông. Ảnh ồn ào, sắc, tối gắt thì tránh khi bài êm.
+- Chất lượng theo style: đúng chất liệu, ánh sáng có hướng, nét đúng chỗ.
 
 Format cho tool: mỗi prompt một dòng, giữa hai prompt một dòng trống, không `--no`, kết thúc bằng `--ar 16:9`.
