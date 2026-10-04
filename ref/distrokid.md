@@ -26,6 +26,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
 | A Place Back Home | 2 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
+| Kettle & Light | 1 | Americana Country-Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
 
 ---
 
