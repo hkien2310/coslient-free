@@ -24,6 +24,7 @@ a [tuổi]-year-old [giới] [nghề] as a stylized whimsical handmade puppet, s
 ## 3. Khung hình
 - Phần lớn từ trung tới cực rộng. Cận thỉnh thoảng để nhấn. Cấm `extreme close-up`, `macro portrait`, top-down 90°.
 - Nền mờ hẳn khi nhấn nhân vật: `very shallow depth of field, soft bokeh`. Nền đọc được khi kể bối cảnh: `moderate depth of field, background softly readable`.
+- **Cảnh vắng người ở xa/cao dễ lộ thành mô hình trên bàn** (thấy mép bàn, ván nền, đường ray xếp vòng). Cảnh vắng thì hạ máy `ground-level`, có một nhân vật nhỏ làm thước tỷ lệ, nền là đồi, trời và đường chân trời thật. Không `high-angle` cho cảnh toàn cảnh không người, không xếp vật thành hình hình học (vòng, xoắn).
 - Phá tỷ lệ được dùng, không giải thích.
 
 ## 4. Màu và ánh sáng
