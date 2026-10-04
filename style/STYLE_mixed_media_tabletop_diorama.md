@@ -1,67 +1,51 @@
 # STYLE: Mixed-Media Tabletop Diorama
-*Coslient Free · Plugin chất liệu (Stop-motion Sa bàn Đa chất liệu). Storyboard quyết định cảnh, góc, máy, giờ ([`visual_craft.md`](../craft/visual_craft.md)); file này quyết định cảnh đó được làm bằng gì. Cơ chế prompt: Rule 1–6 của [`IMAGE_AVOID_CASES.md`](./IMAGE_AVOID_CASES.md) và bảng bộ lọc kiểm duyệt vẫn áp dụng. Từ điển token ở cuối file này thay thế từ điển của style đất sét.*
+*Coslient Free · Plugin chất liệu. Cách viết prompt và đa dạng cảnh: [`visual_craft.md`](../craft/visual_craft.md). Bẫy từ khóa: Rule 1–6 và bảng kiểm duyệt của [`IMAGE_AVOID_CASES.md`](./IMAGE_AVOID_CASES.md) (từ điển trong đó viết cho clay, dùng từ điển cuối file này thay).*
 
-Thế giới sa bàn thu nhỏ nghệ thuật: con rối làm thủ công với tỷ lệ người thật thanh thoát, trang phục len dạ nguyên khối ấm áp, đặt giữa thiên nhiên thật thu nhỏ (rêu, sỏi, cỏ khô), chụp macro với độ sâu trường ảnh mỏng (tilt-shift, bokeh).
+Con rối làm tay đa chất liệu đặt giữa thiên nhiên thật thu nhỏ, chụp macro tilt-shift. Kỳ lạ, duyên dáng, thô mộc và vẫn đẹp. Kẻ thù duy nhất là bóng bẩy, hoàn hảo.
 
----
+## 1. Hai lớp thế giới
+- **Làm tay:** người, thú, nhà, xe, đồ vật. Xoay vòng gỗ, giấy bồi, vải lanh, dạ, da, dây đay, len, thiếc, đồng. Len không phủ cả người; hai nhân vật cạnh nhau không dùng cùng bộ chất liệu.
+- **Thật:** rêu, sỏi, cỏ khô, hoa dại, nước, trời, khói, núi xa. Không làm bằng len.
 
-## R1. Hai lớp thế giới
-- **Lớp thủ công (Handmade):** người, thú, nhà cửa, xe cộ, đồ vật. Làm từ vật liệu thủ công mộc mạc: len nỉ xù sợi (`needle-felted`), gỗ chạm khắc mờ (`carved wood`), vải len dệt nguyên tấm, dây đay, kim loại đồng/thiếc.
-- **Lớp thật (Realistic Nature):** mặt đất sa bàn (rêu thật `real moss`, sỏi đá cuội `pebbles`, hoa cỏ khô `dried grass/heather`), nước thật, mây trời thật, hơi nước, khói thật. Thiên nhiên giữ chất liệu tự nhiên 100%, không làm bằng len hay đất sét.
+## 2. Khối nhân vật
+Mỗi lỗi hay gặp có đúng một cụm neo. Ngoài cụm neo, không tả thêm hình dáng hay nét mặt.
 
-## R2. Vụng nghệ thuật nhưng trang phục nguyên khối (Solid & Unpatched)
-- **Vụng ở hình dáng nhân vật:** tỷ lệ mảnh khảnh tự nhiên, đường nét đẽo gọt mộc, mắt chấm sơn đơn sơ, dáng người hơi xiêu vẹo mang hồn dân gian (`naive folk-art`).
-- **TUYỆT ĐỐI KHÔNG CHẮP VÁ TRANG PHỤC:** Quần áo là những mảng màu đơn sắc, nguyên khối liền tấm (`solid single-piece`, `seamless tailored cut`, `clean unpatched garment`). Thô nằm ở thớ len dạ xù tự nhiên (`boiled-wool`, `coarse knit`, `tweed`), không bao giờ là vải vụn chắp vá hay rách rưới.
-- **Kỹ thuật chụp chuẩn studio macro:** Bố cục trung tâm, lấy nét chính xác vào chủ thể, tiền cảnh và hậu cảnh tan biến vào hiệu ứng bokeh mềm mại (`shallow depth of field`, `tilt-shift`, `soft warm bokeh`).
-
-## R3. Khối nhân vật (Character Block)
-- **Thứ tự:** danh tính → neo sa bàn → tỷ lệ người → mặt mũi tối giản → tóc/râu len thô → trang phục nguyên khối.
-  - Danh tính: `[tuổi]-year-old [quốc tịch] [giới] [nghề]`.
-  - Neo: `as a handmade miniature figure`. Nhiều người: `both/all as handmade miniature figures`.
-  - Tỷ lệ: `tall slender natural human proportions, small head, long thin limbs`.
-  - Mặt: `hand-painted figurine face with simple features` (mũi nêm, mắt chấm nhỏ, không tả nếp nhăn/giải phẫu).
-  - Tóc, râu: `raw wool [màu]` (sợi len thô tự nhiên).
-  - Áo: `solid [màu] [chất liệu] with a clean simple tailored cut` (ví dụ: `solid mustard-yellow felted wool overcoat`, `terracotta ribbed wool knit sweater`, `charcoal tailored tweed trousers`).
-- **Thú cưng đồng hành:** `a needle-felted [loài/màu] dog/hound/cat`. Thú có hồn, đôi khi mặc áo len nhỏ liền mảnh (`single-piece knit vest`).
-- Cảm xúc thể hiện qua cử chỉ và dáng người (cúi đầu, tựa vai, ngắm trời, vuốt ve chú chó), không phụ thuộc vào biểu cảm cơ mặt.
-
-## R4. Ràng buộc lên storyboard
-Ràng buộc này thắng các luật chung về khung hình khi áp dụng style này:
-- **Cỡ cảnh:** Chỉ từ **trung-rộng (medium-wide, thấy toàn thân)** tới **cực rộng (extreme wide)**. Tuyệt đối không close-up/portrait (tránh làm lộ vụng kỹ thuật).
-- **Góc máy:** Ưu tiên **máy đặt sát mặt đất ngang tầm sa bàn (`low ground-level shot`)**. Cảnh toàn dùng `extreme wide high-angle shot`. Không dùng top-down 90°.
-- **Chủ thể ở trung tâm:** Vùng rìa nhòe tilt-shift, khoảng trống rộng mở xung quanh (`open uncluttered foreground/space`).
-- **Phá tỷ lệ mộc mạc (Folk Surrealism):** Cho phép các chi tiết bất thường xuất hiện tự nhiên không cần giải thích (ví dụ: chú chó to gấp đôi người, đoàn tàu nhỏ bằng ấm trà, quả bí làm nhà, cá voi vải trôi trên mây).
-
-## R5. Khe bắt buộc trong prompt
-1. **Chất thơ bay lơ lửng trong không khí:** Mỗi khung hình bắt buộc có một yếu tố chuyển động nhẹ: hạt bụi nắng (`golden dust motes`), cánh hoa đào/thạch nam (`drifting petals`), bồ công anh (`dandelion fluff`), hơi nước thật (`real wisps of steam`), đom đóm (`fireflies`), hoặc tàn lửa (`floating embers`).
-2. **Điểm nhấn màu ấm (Warm Color Anchor):** Một mảng màu ấm áp nguyên khối (mù tạt `mustard-yellow`, cam gạch `terracotta`, đỏ gỉ `rust-red`, hoặc ánh đèn bão `amber lantern glow`).
-
-## R6. Ánh sáng & Bầu không khí
-Tôn vinh chất liệu tự nhiên qua ánh sáng dịu, có hướng ven sáng (rim light) làm nổi bật sợi len xù:
-- Sương sớm: `soft misty dawn light`.
-- Nắng ban ngày: `clear natural daylight`.
-- Chiều tà ngược sáng: `warm low golden-hour backlight`.
-- Đêm tối: `blue dusk with warm glowing amber lamps`.
-
-## R7. Công thức lắp Prompt & Suffix
 ```text
-[Cỡ cảnh & Góc máy low ground-level], [Khối nhân vật tỷ lệ người thật + Áo nguyên khối solid/seamless] [Hành động giàu cảm xúc với thú cưng/cảnh vật], [Bối cảnh sa bàn: rêu thật, sỏi, gỗ], [Khe bắt buộc: vật thể bay lơ lửng], [Ánh sáng], handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9
+a [tuổi]-year-old [giới] [nghề] as a stylized whimsical handmade puppet, slender body, slim limbs, small matte carved wooden head with two tiny dot eyes, full thick head of [màu] [chất liệu] hair, loose-fitting single-piece [màu] [vải mềm] knee-length [món áo] hanging in soft folds, visible slim legs in trousers and small boots
 ```
+- **Chân:** áo luôn ghi `knee-length` và chân ghi `visible slim legs … boots`, nếu không áo dài che mất chân. Cảnh trung dùng `full-body`, không `medium` (bị cắt ngang).
+- **Tóc/râu/lông:** chất gì cũng được (sợi, len, dây, cỏ khô) miễn đọc ra là tóc. Luôn có tóc hoặc mũ, tránh đầu hói.
+- **Áo:** vải mềm rủ được (`linen`, `felt`, `flannel`, `soft leather`, `tweed`). Không vải cứng.
+- **Tay:** `simple rounded mitten-shaped hands` nếu cận. Không cận chỉ có tay (ra đôi găng nằm trên bàn); cận vào đồ vật, nhân vật ở xa hoặc mờ.
+- **Thú:** `a [chất] [loài]` (`twine-wrapped`, `felted wool`, `shaggy mohair`), đổi chất giữa các con.
+- Cảm xúc ở hành động, không ở nét mặt. Nét nhận diện thêm tối đa một (kính, mũ, râu).
 
-**Suffix cố định:**
-`handcrafted mixed-media tabletop diorama, macro miniature photography, tilt-shift, very shallow depth of field, sharp focus on the central subject, soft bokeh --ar 16:9`
+## 3. Khung hình
+- Phần lớn từ trung tới cực rộng. Cận thỉnh thoảng để nhấn. Cấm `extreme close-up`, `macro portrait`, top-down 90°.
+- Nền mờ hẳn khi nhấn nhân vật: `very shallow depth of field, soft bokeh`. Nền đọc được khi kể bối cảnh: `moderate depth of field, background softly readable`.
+- Phá tỷ lệ được dùng, không giải thích.
 
----
+## 4. Màu và ánh sáng
+- Một mảng màu nhấn ấm (mù tạt, đất nung, đỏ gỉ, hổ phách) trên nền tông đất.
+- Thứ lơ lửng (bụi, cánh hoa, hơi nước, đom đóm, tuyết) chỉ khi cảnh có lý do.
+- Ánh sáng có hướng, có viền sáng: `soft misty dawn light` · `clear natural daylight` · `warm low golden-hour backlight` · `blue dusk with warm glowing amber lamps`.
 
-## Từ điển token cấm & thay thế (Avoid Token Dictionary)
+## 5. Công thức & Suffix
+```text
+[Cỡ + góc], [khối nhân vật], [hành động], [bối cảnh], [thứ lơ lửng nếu có], [màu nhấn nếu thiếu], [ánh sáng], [độ sâu trường ảnh], [suffix]
+```
+**Suffix:** `handcrafted mixed-media tabletop diorama, visible handmade textures, macro miniature photography, tilt-shift --ar 16:9`
 
-| Token BỊ CẤM | Lý do (Model hiểu lệch) | Dùng thay thế |
+## Từ điển token
+| Token | Model hiểu thành | Dùng thay |
 |---|---|---|
-| `patchwork`, `patched`, `scraps`, `rags`, `stitched sacks` | Kéo ra quần áo chắp vá, rách rưới, cái bang | `solid`, `seamless`, `single-piece`, `clean simple tailored cut` |
-| `whatever was at hand`, `lopsided clothes` | Kéo ra hình dạng quần áo méo mó, nhăn nheo | `solid felted wool`, `coarse woven wool` |
-| `claymation`, `clay`, `plasticine`, `ceramic skin` | Kéo ra hoạt hình 3D đất sét bóng bẩy | `handmade miniature figure`, `needle-felted` |
-| `cute`, `chibi`, `cartoon`, `doll`, `puppet` | Kéo ra búp bê đầu to mắt tròn vô hồn | `tall slender natural human proportions` |
-| `photorealistic human`, `detailed skin`, `pores`, `wrinkles` | Kéo ra mặt người thật kinh dị | `hand-painted figurine face with simple features` |
-| `close-up`, `extreme close-up`, `macro portrait` | Kéo góc quá sát làm vỡ chất liệu | `medium-wide low ground-level shot` |
-| `plastic`, `resin`, `shiny`, `glossy` | Kéo ra đồ chơi nhựa công nghiệp | `matte carved wood`, `raw wool`, `coarse linen` |
-| `cinematic lighting`, `dark shadows`, `noir` | Kéo ra độ tương phản gắt, mất chất mộc | `warm low golden-hour backlight`, `soft diffused light` |
+| Tả mũi, miệng, nếp mặt, `crude`, `chisel marks` | Pinocchio, mặt yêu tinh | Chỉ dùng cụm neo |
+| `chubby`, `round`, `plump`, `short`, `stout`, `cute`, `chibi`, `doll` | Lùn tròn, búp bê | `slender body, slim limbs` |
+| `figurine`, `realistic`, `detailed face` | Mô hình người thật | `stylized whimsical handmade puppet` |
+| `wool`, `knit` cho cả người | Cả người thành đồ len | Len đúng một bộ phận |
+| `clean`, `seamless`, `polished`, `plastic`, `resin`, `glossy` | Đồ công nghiệp, nhựa | Tên chất liệu thật |
+| `patchwork`, `patched`, `rags`, `whatever was at hand` | Chắp vá, rách | Chỉ ghi chất + màu |
+| `jointed`, `carved wooden hands`, `waxed canvas`, `stiff`, `winding` | Tay hình nộm, áo gãy ở khuỷu | `loose-fitting … soft folds`, `mitten-shaped hands`, `holding` |
+| `elongated`, `long thin limbs` | Người que, đồ bó sát | `slender body, slim limbs` |
+| `claymation`, `clay` | Đất sét bóng | `handmade puppet` |
+| `cinematic lighting`, `noir` | Tương phản gắt | Tên giờ ở mục 4 |

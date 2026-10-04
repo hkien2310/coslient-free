@@ -1,5 +1,5 @@
 # IMAGE AVOID — Luật viết prompt
-*Coslient Free · Đọc trước khi viết bất kỳ prompt nào. Thế giới hình ảnh: [`STYLE_handcrafted_tactile_diorama.md`](./STYLE_handcrafted_tactile_diorama.md).*
+*Coslient Free · Đọc trước khi viết bất kỳ prompt nào. Thế giới hình ảnh: file `STYLE_*.md` đang dùng.*
 
 Model ảnh đọc prompt theo nghĩa đen, gắn tính từ vào danh từ gần nhất và kéo theo thiên kiến dữ liệu huấn luyện. 6 rule dưới đây chặn các lỗi phát sinh từ cơ chế đó.
 
