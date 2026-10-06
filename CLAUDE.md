@@ -11,14 +11,15 @@
   1. *Soul Sanctuary (Chốn nương náu / Ru ngủ / An trú):* Phi kịch tính, xoa dịu nỗi đau, gợi ký ức đẹp, nhịp êm đềm.
   2. *Lived-in Character Story (Chuyện đời sống động):* Vết xước đời thường, chiêm nghiệm tuổi trung niên.
 * **Thể loại âm nhạc:** Folk là bắt buộc (Folk thuần mộc/acoustic, hoặc kết hợp linh hoạt 1 thể loại lai như Americana, Country-Folk, Chamber... tùy ý tưởng từng bài).
-* **Tinh thần:** Những câu chuyện và không gian nhỏ bé — ấm áp, tĩnh lặng, đôi khi ngọt đắng. Không giảng đạo, không drama gượng ép.
+* **Tinh thần:** Những khoảnh khắc nhỏ bé — ấm áp, tĩnh lặng, đôi khi ngọt đắng. Không giảng đạo, không drama gượng ép. *"Nhỏ" là cử chỉ/lát cắt, KHÔNG phải bối cảnh: không gian được phép rộng, ngoài trời, có gió, có đám đông (đồi, bến tàu, hội chợ, cánh đồng, sân ga...).*
+* **Khởi động ấm áp (Warm Start Only — Bảo vệ Retention):** Tuyệt đối không mở đầu idea hay bài hát bằng bi kịch, than thở, chia ly, cãi vã hay không khí nặng nề để "cố tạo tương phản". 30 giây đầu tiên luôn đón người nghe bằng sự ấm áp, cảm giác an toàn hoặc một nụ cười/tò mò tích cực. Chiêm nghiệm sâu sắc hay vết xước cuộc đời chỉ được mở ra sau khi người nghe đã an lòng.
 
 ---
 
 ## 2. WORKFLOW LÀM VIỆC (QUY TRÌNH MONTAGE 4 BƯỚC — PONYTAIL)
 Mỗi project = 1 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** Đúng 3 gạch đầu dòng: Không gian + Cảm xúc cốt lõi + 2–3 Móc neo giác quan đời thực (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Tuyệt đối không ép nhân vật cố định, không tạo gia phả hay kịch bản biến cố.
+1. **Idea (`1-idea.md`):** Đúng 4 gạch đầu dòng: Không gian + Cảm xúc cốt lõi + 2–3 Móc neo giác quan đời thực + Câu chốt (1 câu tiếng Việt gói trọn idea, kim chỉ nam cho mọi bước sau) (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Tuyệt đối không ép nhân vật cố định, không tạo gia phả hay kịch bản biến cố.
 2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát Folk & xuất lời sạch DistroKid (tuân thủ [`craft/music_craft.md`](./craft/music_craft.md)).
    * *Bộ lọc Anti-Slop:* Diệt triệt để từ ngữ trừu tượng vô hồn, nhưng **tôn trọng cổ mẫu và móc neo giác quan đời thực**.
    * *Trích xuất mốc thời gian:* Sau khi có file audio `.wav` và `3-lyrics.txt`, chạy:

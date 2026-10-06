@@ -1,121 +1,206 @@
 # 🎵 CẨM NANG SÁNG TÁC ÂM NHẠC — COSLIENT FREE
-v17.0 — Chiều Sâu, Cổ Mẫu & Móc Neo Giác Quan (Bản Chốt 45–85+ Global Reality)
+v20.0 — Kỷ Nguyên 2 Bài 4 Phút & Kỹ Thuật Suno v6 Producer (YouTube 8+ Phút)
 
-> *"Write for the human need for peace, memory, and solace. Concrete sensory details beat abstract moralizing."*
-
----
-
-## ⚡ KIM CHỈ NAM SÁNG TÁC
-
-1. **Khán giả & Hai Nhu Cầu Cảm Xúc Lớn (45–85+ Reality):**
-   * **Nhu cầu 1 — Chốn nương náu & Chữa lành (Soul Sanctuary / Grief Solace / Sleep Aid):** Phục vụ tệp cao tuổi (50–85+) và những người đang kiệt sức vì thế giới hiện đại. Họ nghe nhạc để xoa dịu nỗi đau mất mát bạn đời, hoài niệm tuổi thơ, tìm lại cảm giác an toàn và ru ngủ. Ở chế độ này, **sự tĩnh tại và cảm giác bình yên là tối thượng**, không gượng ép nhét drama hay mâu thuẫn vào.
-   * **Nhu cầu 2 — Chiêm nghiệm chuyện đời (Lived-in Character Story):** Viết cho sự trưởng thành về nhận thức (emotional maturity) của tuổi trung niên: vết xước đời thường, tự do khi con cái trưởng thành, ly hôn hoặc tái bắt đầu.
-   * **Hạt nhân sáng tác:** 
-     - *Với Mode Soul Sanctuary:* Không gian nào mang lại sự bình yên tuyệt đối? (Ngôi nhà cũ của cha mẹ, con đường cừu về làng trong sương, bếp ấm buổi chiều mưa).
-     - *Với Mode Character Story:* Ai đang hát? Họ muốn gì hoặc đang né tránh điều gì? Nói chuyện với ai?
-   * **Móc neo giác quan (Sensory Anchors):** Mọi cảm xúc sâu sắc nhất đều bám vào đồ vật và chi tiết vật lý thật: *tiếng cót két của bậc thang thứ ba*, *vạch chì đo chiều cao trên mép cửa*, *chiếc chìa khóa tra vào ổ lần cuối*, *con chó già nép bên giày cũ*, *tiếng chuông đàn cừu*.
-2. **Folk & Americana Mộc (Acoustic Roots):**
-   * Nhạc cụ mộc tự nhiên: acoustic guitar, pedal steel, upright bass, fiddle, harmonica, upright piano.
-   * **Quy tắc phối âm Suno:** Mỗi bài chọn **2–3 nhạc cụ chính**, xác định rõ **1 nhạc cụ dẫn dắt (lead instrument)** để xoay vòng màu sắc giữa các bài theo đòi hỏi của câu chuyện, không nhồi nhét cả dàn nhạc vào một bài.
-3. **Giọng hát & Ưu tiên văn nói (Conversational Delivery & Clear Diction):**
-   * **Ưu tiên cao nhất là ngôn ngữ nói tự nhiên, mộc mạc** (*conversational, spoken-word feel*). Hát như đang ngồi bên hiên nhà tâm sự, thủ thỉ hoặc kể lại một chuyện cũ cho một người bạn thân.
-   * Dùng từ ngữ đời thường, lối nói tự nhiên của người bản xứ, dùng contractions thoải mái (`don't`, `we've`, `I'd`).
-   * Chất giọng chân thành, từng trải, có độ nhám nhẹ (*lived-in texture*), phát âm tròn vành rõ chữ (*clear diction*).
-4. **Cảm xúc bộc bạch chân thật (Honest Confession > Preachiness):**
-   * Cho phép và khuyến khích những lời bộc bạch mộc mạc, thật thà (*"I miss you every day"*, *"I was so tired"*, *"I don't know where the time went"*). Đó là sự chân thật chạm đáy tim người nghe.
-   * **Chỉ cấm:** Giảng đạo lý, lên lớp hoặc triết lý AI sáo rỗng (*"you must learn to heal"*, *"let the heavy go"*, *"embrace the light"*).
-5. **Thời lượng tự do (Free Duration):**
-   * Hoàn toàn tự do, không ép khung phút giây cụ thể. Bài hát kết thúc tự nhiên khi câu chuyện và cảm xúc đã trọn vẹn (thường 2:30 – 3:45 tùy nhịp sinh của Suno, không cần cố nối track kéo dài hay cắt cụt gượng ép).
+> *"Soul Sanctuary: Âm nhạc là chốn nương náu, ru ngủ và xoa dịu tâm hồn cho khán giả 45–85+. Chuẩn hóa mỗi project = 2 bài hát (~4 phút/bài) để tạo nên video 8–8.5 phút tối ưu YouTube Mid-roll Ads. Điều khiển Suno v6 bằng tư duy Producer chuyên nghiệp."*
 
 ---
 
-## PHẦN 1 — TÊN BÀI HÁT (SONG TITLE)
+## ⚡ PHẦN 1: ĐỊNH VỊ DỰ ÁN & CÔNG THỨC 2 BÀI 4 PHÚT
 
-- Tự nhiên, đời thường, gợi hình ảnh hoặc nơi chốn cụ thể (*The House That Waited At The End Of The Road*, *The Quiet Road Of Returning Sheep*, *Still Walking Beside You*, *Before The First Frost*).
-- Thường từ 2–6 từ. Không đặt tên đao to búa lớn hoặc trừu tượng rỗng tuếch.
+1. **Công thức Chuẩn: 2 Bài / Project (~4:00 Phút/Bài):**
+   - **Mục tiêu thời lượng:** Mỗi bài kéo dài **3:50 – 4:15 phút**. Ghép 2 bài lại thành video **8:00 – 8:30 phút**, vừa vặn chạm mốc vàng để thuật toán YouTube tối ưu giữ chân người nghe và bật quảng cáo giữa (Mid-roll Ads).
+   - **Phân vai 2 bài trong cùng 1 không gian (`1-idea.md`):**
+     - *Track 1 (~4:00):* Chiều muộn / Tan ca / Đi dạo / Cởi bỏ áp lực ban ngày.
+     - *Track 2 (~4:00):* Bữa tối / Hiên nhà / Đêm buông / Ru ngủ an lành.
+
+2. **Chất âm Mộc Tự Nhiên & Phối khí Trong suốt:**
+   - **Bản chất mộc (Organic & Unamplified):** Giữ âm thanh tự nhiên, ấm áp, tránh xa cảm giác điện tử hóa.
+   - **Không gian thở (Breathing Room Arrangement):** Tôn giọng hát làm trung tâm, nhạc cụ không chen lấn ca từ. Linh hoạt từ **mộc tối giản** (chỉ 1 cây guitar/piano mộc và giọng hát thì thầm) đến **dàn hòa âm thính phòng mộc** (guitar, cello, fiddle, piano, upright bass, soft brush percussion...).
+   - **Bảng màu nhạc cụ gợi mở:**
+     - *Dây mộc:* Steel-string acoustic guitar, nylon-string guitar (êm ái, ru ngủ), upright bass, cello (trầm ấm, xoa dịu nỗi đau), pedal steel/lap steel, fiddle, mandolin (lách cách ngọt ngào), clawhammer banjo mộc, dobro.
+     - *Phím & Hơi:* Upright piano (tiếng búa gõ mộc), harmonica, accordion/melodica (hoài niệm làng quê/ven biển), wooden flute/whistle.
+     - *Gõ mộc:* Soft brushes on snare, gõ thùng đàn (*acoustic percussion*), hoặc tiếng dậm chân hiên nhà (*front-porch foot tap*).
+
+3. **Dải Thể loại & Nhịp điệu Linh hoạt (60–95 BPM):**
+   - **Nhánh Folk theo không gian bài (`1-idea.md`):**
+     - *Americana / Classic Country-Folk:* Ấm áp, phong trần, đậm chất đồng quê hoài niệm.
+     - *Chamber Folk / Ambient Acoustic:* Thì thầm sát micro, tĩnh lặng, ru ngủ sâu (kiểu Nick Drake, Iron & Wine).
+     - *Celtic / Coastal Folk:* Âm hưởng biển khơi, gió mặn, bến tàu, ngọn hải đăng xa.
+     - *Mountain Ballad:* Đơn sơ, mộc mạc, chỉ một giọng hát và một tiếng đàn tự sự.
+   - **Dải nhịp điệu liên tục (60–95 BPM):**
+     - *60–70 BPM (Ru ngủ, tĩnh lặng sâu):* Chậm rãi như nhịp thở lúc nghỉ ngơi, êm dịu, không xáo động (hoặc nhịp waltz 3/4 lững lờ).
+     - *72–82 BPM (Thong thả, hoài niệm):* Nhịp ghế bập bênh, bước chân dạo bộ buổi chiều.
+     - *84–94 BPM (Rộn rã, ấm lòng):* Nhịp gõ chân, tiếng cười vui gia đình sum họp.
+   - **Luân chuyển chất giọng:** Nam trầm từng trải (`warm lived-in baritone`), Nữ mộc mạc gần gũi (`weathered intimate alto`), hoặc Song ca trò chuyện (`intimate front-porch duet`).
+
+4. **Nguyên tắc Khởi động Ấm áp (Warm Start Only — Bảo vệ 30s Vàng Retention):**
+   - **Tuyệt đối không bắt đầu từ câu chuyện buồn hoặc khởi động lạnh:** Verse 1 không mở đầu bằng sự than thở, bi kịch, chia ly, cãi vã, hay hôn nhân nguội lạnh để "cố tạo tương phản". Khán giả 45–85+ tìm đến để an trú — nếu 30s đầu nghe thấy sự căng thẳng/lạnh lẽo, họ sẽ tụt mood và thoát video ngay lập tức (drop-off).
+   - **Đón người nghe bằng cảm giác an toàn và nụ cười:** Verse 1 luôn phải mở ra một không gian ấm áp, một cử chỉ dễ thương, một chi tiết sinh hoạt đời thường yên bình hoặc sự tò mò tích cực. Những chiêm nghiệm sâu sắc hay vết xước cuộc đời chỉ được mở ra ở các Verse sau khi người nghe đã hoàn toàn an lòng.
+
+5. **Hệ Thống Hook Âm Nhạc (Hook Chính & Mini-Hook):**
+   - Âm nhạc giữ chân người nghe không chỉ nhờ hòa âm êm tai, mà nhờ **các điểm neo thính giác (Auditory Anchors)** được rải đều đặn từ đầu đến cuối bài:
+   - **A. HOOK CHÍNH (Core Hook / Macro Hook — Cứu Replay Value & Nhớ Lâu):**
+     - *Vị trí:* Nằm ở vị trí chốt hạ đắt giá nhất của **Chorus** (thường là dòng cuối cùng) và bùng nổ trọn vẹn ở **Final Chorus / Outro**.
+     - *Bản chất:* Là thông điệp tối thượng và giai điệu bắt tai nhất (*melodic payoff*). Ngắn gọn (6–10 từ), dễ thuộc, giàu hình ảnh.
+     - *Bài test trích dẫn (The Quote Test):* Nghe xong bài hát, người ta có thể nhẩm lại ngay câu đó và muốn dùng làm caption hay gửi cho người thân (*"She's twenty years old again"*, *"Learning how to sit still again"*, *"We did it"*).
+   - **B. MINI-HOOK (Micro-Hooks — Cứu Micro-Retention, Chống Trôi Tuột):**
+     - Rải đều giữa các phân đoạn để tai người nghe không bị "ru ngủ quá đà" dẫn đến mất tập trung:
+     - *Mini-hook Mở đầu (Top-of-Song Hook — 10–15s đầu):* Câu hát mở đầu Verse 1 mang tính khơi gợi tò mò hoặc trò chuyện thân mật (*"Hey look at them, darlin'..."*, *"The whistle blew at seven..."*) kéo người nghe bước ngay vào thế giới bài hát.
+     - *Mini-hook Biểu cảm (Vocal Cue Hooks):* Những điểm rơi bất ngờ từ các thẻ định hướng `[Spoken Word]`, `[Pause]`, `[Chuckle]`, `[Tenderly]` làm ca từ sống động như tiếng người thật đang tâm sự (lưu ý dùng ngoặc vuông `[...]` để Suno không hát nhầm thành tiếng).
+     - *Mini-hook Nhạc cụ (Instrumental Riff / Lick):* Tiếng luyến láy ngắn của fiddle hoặc câu gảy ngón guitar lặp lại ở `[Interlude]` tạo phản xạ có điều kiện trước khi bước vào điệp khúc mới.
 
 ---
 
-## PHẦN 2 — SUNO STYLE PROMPT
+## 🎛️ PHẦN 2: KỸ THUẬT SUNO v6 STYLE PROMPT & ADVANCED CONTROLS
 
-**Công thức chuẩn 30–40 từ (Neo thời kỳ, analog room, 1 nhạc cụ dẫn):**
+Suno v6 hiểu ngôn ngữ tự nhiên theo tư duy của một nhà sản xuất âm nhạc (Producer). Style Box chịu trách nhiệm 90% màu sắc hòa âm và không gian. Đặt các yếu tố quyết định vào **20–30 từ đầu tiên**.
 
+### 1. Công thức phân tầng chuẩn v6 (Hierarchy Formula):
+`[Genre & Flavor] + [Groove & Tempo] + [Instrumentation & Lead] + [Vocal Character] + [Emotional Arc] + [Production Space]`
+
+**Khung mẫu chuẩn (Tự do thay thế theo ý đồ):**
 ```text
-[1] Genre & Era        — Americana, late-20th-century roots, classic country-folk, acoustic singer-songwriter.
-[2] Instrumentation    — {LEAD} lead, subtle upright bass, soft {SUPPORT}.
-[3] Vocal              — Warm lived-in baritone (hoặc weathered alto / intimate acoustic duet), conversational, clear diction.
-[4] Production & Space — Warm analog tape room, dry acoustic space, slow-to-mid tempo, unhurried groove.
+{GENRE & FLAVOR}. {GROOVE & TEMPO}. {INSTRUMENTATION}. {VOCAL CHARACTER}, conversational delivery, clear diction. {EMOTIONAL ARC}. Warm analog tape room, dry acoustic space.
 ```
 
-*(Thay `{LEAD}` và `{SUPPORT}` bằng nhạc cụ thực tế. Ví dụ: Fingerpicked acoustic guitar lead, subtle upright bass, soft pedal steel).*
+### 2. Các đường dây cảm xúc (Emotional Arc) then chốt trong v6:
+*Chọn đúng Emotional Arc theo công năng của bài hát, tránh để Suno tự kích volume điệp khúc sai ý đồ:*
+- **Ru ngủ / An trú tuyệt đối (Sleep Aid / Lullaby):**
+  > `Hushed and intimate throughout, steady soothing dynamic, unhurried peaceful consistency.`
+- **Nâng đỡ ấm áp (Uplifting Comfort):**
+  > `Gentle verses swelling into a warm comforting chorus.`
+- **Kể chuyện chiêm nghiệm / Hóm hỉnh (Wistful Storytelling / Warm Banter):**
+  > `Stripped-back reflective storytelling, tender dynamic lifts.`
+
+*Ví dụ thực chiến:*
+- *Track 1 (Americana hoài niệm 4 phút):*
+  > `Americana, classic country-folk, acoustic singer-songwriter. Slow unhurried pocket, 72 BPM. Fingerpicked acoustic guitar lead, subtle upright bass, soft pedal steel swells. Warm lived-in baritone, conversational delivery, clear diction. Reflective intimate verses breathing into a tender comforting chorus. Warm analog tape room, dry acoustic space.`
+- *Track 2 (Ru ngủ đêm về 4 phút):*
+  > `Chamber folk, intimate acoustic lullaby. Gentle 3/4 waltz, 65 BPM. Nylon-string guitar lead, warm acoustic cello, soft wooden flute. Weathered intimate alto, whispery warm delivery, clear diction. Hushed and soothing throughout, quiet peaceful consistency. Warm analog tape room, soft tape hiss.`
+
+### 3. Cài đặt Nâng cao (Advanced Settings):
+- **Exclude Styles (Negative Prompt):** Điền vào ô Exclude để chống méo tiếng và chống AI tự chêm tiếng nhảm:
+  > `autotune, robotic vocals, synths, electronic drums, loud reverb, vocal ad-libs, oohs, aahs, yeahs`
+- **Variety Slider:** Kéo về mức **10–20%** (hoặc 0) để ép Suno v6 tuân thủ nghiêm ngặt nhạc cụ mộc, không tự ý biến tấu nhạc cụ lạ.
 
 ---
 
-## PHẦN 3 — LYRICS & KỂ CHUYỆN
+## 📜 PHẦN 3: KỸ THUẬT LỜI CHO BÀI HÁT 4 PHÚT (PERFORMANCE LYRICS)
 
-1. **Nhịp thở tự nhiên (One-Breath Phrasing):**
-   * **Mỗi dòng chỉ đủ hát thoải mái trong đúng 1 hơi thở** (Mặc định: 6–8 từ, cho phép 9–10 từ ngắn nếu nhịp thở tự nhiên). Tránh câu dài lê thê làm ca sĩ/AI đứt hơi hoặc nuốt chữ.
-2. **PHÂN BIỆT RÕ: AI SLOP TRỪU TƯỢNG vs. CỔ MẪU & MÓC NEO VẬT LÝ:**
-   * ❌ **CẤM AI Poetic Slop (Đao to búa lớn, trừu tượng):** *echoes of time / yesterday*, *whispers in the wind*, *shadows fall / fade*, *broken dreams*, *tapestry of life*, *scars of the past*, *celestial*, *ignite*.
-   * ✅ **CHO PHÉP Cổ mẫu & Móc neo vật lý đời sống:** Ánh hoàng hôn ấm (*golden/amber hour*), bậc thang cũ cót két, con chó già, tách trà bốc khói, đàn cừu trong sương, vạch đo chiều cao trên cánh cửa, đôi bàn tay lao động chai sạn... Khi chúng gắn với hành động và giác quan cụ thể, đó là **cảm xúc chân thực**, không phải AI slop.
-3. **Đối chiếu trực quan:**
-   * ❌ *Tệ (Nói đạo lý sáo rỗng & kể lể cảm xúc suông):*
-     > *"I sit on the porch swing as the sun goes down / Drinking coffee thinking of the years gone by / Wondering where the time went in this quiet town / Wishing I could tell you that I'm lonely now"*
-   * ✅ *Đạt (Sensory Anchors, cổ mẫu gợi ký ức, không cần giải thích):*
-     > *"The third wooden step has the very same sound / The window still sits where it stood in the past / The pencil lines carved on the edge of the door / Our measuring years we can't live anymore"*
-     *(Lưu ý: Đây là ví dụ minh họa, cấm sao chép lại chính các đạo cụ này vào bài viết).*
-4. **Quy chuẩn Song Ca (Duet Dramaturgy — nếu chọn Duet):**
-   * Duet phải có sự đối thoại hoặc lệch góc nhìn (người nhớ chi tiết này, người nhớ chi tiết khác). Khi người này tự sự, người kia hoàn toàn im lặng lắng nghe trước khi cất giọng phản hồi.
-   * Phân bè rõ ràng trong thẻ:
-     * `[Verse 1 | male lead, conversational]`
-     * `[Verse 2 | female response, intimate]`
-     * `[Chorus | close harmony duet]`
-5. **Vần tự nhiên & Nhịp điệu (Anti-Forced Rhyme):**
-   * Tránh vần đôi gượng gạo, dễ đoán kiểu trẻ con (`cat/hat`, `track/back`). Verse ưu tiên vần mở (slant rhyme), vần lưng, nhịp thở tự nhiên.
-6. **Khoảnh khắc đáng nhớ (Memorable Moment & Hook):**
-   * **Hook:** Câu điệp khúc có tính lặp lại giai điệu/ca từ dễ nhớ (*repeatable line*).
-   * **Memorable Moment:** Một câu hát đắt giá neo lại ở Bridge hoặc Chorus cuối:
-     * *Ấm áp / Hoài niệm:* *"You still know which floorboard makes the house sound haunted"*
-     * *Gai góc / Châm biếm nhẹ:* *"Twenty years on a roof that still leaks"*
-7. **Hai khuôn kiến trúc âm nhạc (Song Architectures):**
-   * **Khuôn A: Soul Sanctuary & Reflective Ballad (Mặc định cho chữa lành / an trú / hoài niệm):**
-     * Nhịp ru thong thả: 60–78 BPM hoặc waltz 3/4.
-     * Cấu trúc chuẩn 28 dòng (`V1(4) + V2(4) + C(4) + V3(4) + C(4) + B(4) + C(4)`). Ngân sách trần **≤ 32 dòng**.
-     * Ca từ tập trung vào không gian an trú, xoa dịu nỗi đau, buông bỏ xáo động trần thế và neo vào các chi tiết vật lý thân thuộc.
-     * Thẻ cấu trúc Suno tinh gọn: `[Intro]` → `[Verse 1]` → `[Verse 2]` → `[Chorus]` → `[Verse 3]` → `[Chorus]` → `[Acoustic Guitar Solo]` → `[Bridge]` → `[Chorus]` → `[Outro]`. *(Không nhồi nhét chỉ dẫn vi mô vào ngoặc vuông tránh Suno bị loạn hoặc đọc nhầm vào lời hát; phong cách âm thanh đã có Suno Style Prompt đảm nhiệm).*
-   * **Khuôn B: Mid-tempo Storyteller (Chuyện đời thong thả):**
-     * Nhịp rộn ràng hơn: 88–104 BPM.
-     * Cấu trúc ngắn gọn 20–24 dòng (`V1(4) + C(4) + V2(4) + C(4) + B(4) + C(4)`), không cần solo kéo dài, tập trung vào mạch kể chuyện hóm hỉnh, hành trình hoặc vết xước đời sống.
+### 1. Phân định cú pháp ngoặc vuông `[...]` vs ngoặc tròn `(...)`:
+- **Ngoặc vuông `[...]` (KHIÊN BẢO VỆ — TUYỆT ĐỐI KHÔNG HÁT):**
+  - Dùng cho thẻ cấu trúc: `[Intro]`, `[Verse 1]`, `[Chorus]`, `[Bridge]`, `[Outro]`, `[Fade Out]`.
+  - Dùng cho solo/nhạc dạo: `[Acoustic Guitar Solo]`, `[Extended Interlude]`, `[Cello Solo]`.
+  - **Dùng cho chỉ dẫn biểu cảm:** `[Whispered]`, `[Spoken Word]`, `[Tenderly]`, `[Emotional Crack]`, `[Soft Humming]`.
+- **Ngoặc tròn `(...)` (LỜI HÁT BÈ / ECHO — LUÔN ĐƯỢC HÁT):**
+  - Chỉ dùng khi muốn ca sĩ phụ hát bè hoặc vọng lại lời của ca sĩ chính.
+  - Ví dụ: `Now we are home (we are home)` $\rightarrow$ ca sĩ phụ sẽ hát câu trong ngoặc.
+- **Ký tự biểu cảm:**
+  - `~` (Vibrato ngân rung): Đặt cuối từ (vd: `sit still~`).
+  - `-` (Kéo dài âm tiết): Đặt giữa các âm (vd: `s-l-o-w`).
+
+### 2. Công thức cấu trúc để bài hát đạt độ dài ~4:00 phút:
+Để bài hát dài 3:50 – 4:15 phút một cách tự nhiên mà không bị Suno ngắt sớm:
+- **Dung lượng lời:** Viết khoảng **30–36 dòng** (7–8 khổ).
+- **Khoảng dạo đàn bắt buộc:**
+  - `[Intro]` thong thả (15–20 giây).
+  - Có ít nhất 1 đoạn `[Extended Interlude]` hoặc `[Acoustic Solo]` ở giữa bài (25–35 giây).
+  - `[Outro]` dạo đàn kéo dài kèm `[Fade Out]` ở cuối (20–30 giây).
+
+*Khung mẫu 4 phút chuẩn:*
+```text
+[Intro | Slow fingerpicked acoustic guitar, unhurried pace]
+
+[Verse 1]
+... (4 dòng) ...
+
+[Verse 2]
+... (4 dòng) ...
+
+[Chorus 1]
+... (4 dòng) ...
+
+[Extended Interlude | Soft fiddle and acoustic guitar]
+
+[Verse 3]
+... (4 dòng) ...
+
+[Chorus 2]
+... (4 dòng) ...
+
+[Acoustic Guitar Solo | Lyrical and warm]
+
+[Bridge | Hushed and intimate]
+... (4 dòng) ...
+
+[Final Chorus | Warm emotional swell]
+... (4 dòng) ...
+
+[Outro | Lingering acoustic fade]
+... (2 dòng chốt câu) ...
+[Extended Fingerpicked Outro]
+[Fade Out]
+```
+
+### 3. Dấu câu và Phrasing:
+- Trong `2-music.md` (nạp cho Suno): **GIỮ NGUYÊN các dấu câu tự nhiên** (dấu phẩy `,`, ba chấm `...`, gạch ngang `-`) để Suno lấy hơi và ngắt nhịp tự nhiên.
+- Chỉ khi trích xuất sang `3-lyrics.txt` (nộp DistroKid) mới tẩy sạch dấu câu cuối dòng.
+
+### 4. Bản chất Anti-AI Slop & Móc neo 5 Giác quan:
+- ❌ **Bản chất AI Slop cần diệt:** Là các sáo ngữ ẩn dụ trừu tượng, bóng bẩy kiểu thiệp chúc mừng công nghiệp (*Hallmark card*) mà một người bình thường ngồi bên hiên nhà không bao giờ nói ra (*whispers in the wind, echoes of time, shadows of the past, tapestry of life, scars of yesterday, ignite, celestial, embrace the light, heal the pain, symphony of life, beacon of hope, woven...*).
+  - *Phân biệt rõ:* Không cấm khi là **hiện tượng vật lý hoặc hành động có thật** (vd: *"the shadow of the oak tree across the lawn"* — bóng râm cái cây là chi tiết vật lý thật rất đẹp; *"she whispered goodnight"* — lời thì thầm chúc ngủ ngon là hành động thật, không phải AI slop).
+- ✅ **Móc neo từ 5 Giác quan Sống (Sensory Anchors):** Không biến thành danh sách kiểm kê đồ đạc trong nhà, hãy neo vào cảm giác chân thật của cơ thể:
+  - *Xúc giác:* Hơi lạnh thấu ngón tay, vạt áo len thô ráp, cái nắm tay run nhẹ, gờ đá nhẵn thềm nhà.
+  - *Thính giác:* Tiếng thìa khuấy lanh canh trong cốc sứ, tiếng sỏi lạo xạo dưới gót giày, còi phà đục xa xăm, tiếng thở phào.
+  - *Khứu giác & Vị giác:* Mùi gỗ thông mới xẻ, mùi đất ẩm sau cơn mưa chiều, ngụm trà nóng đắng nhẹ nơi cuống họng.
+  - *Thị giác:* Vệt nắng xiên qua bụi mờ, đôi ủng da mòn gót, dáng lưng lom khom nhổ cỏ vườn sau.
+- **Contractions tự nhiên:** Tận dụng dạng viết tắt đời thường (`don't`, `we've`, `I'd`, `there's`, `ain't`).
 
 ---
 
-## PHẦN 3.5 — ƯU TIÊN VĂN NÓI & NGÔN NGỮ TỰ NHIÊN (CONVERSATIONAL ENGLISH)
+## 💿 PHẦN 4: QUY CHUẨN FILE DỰ ÁN 2 BÀI & DISTROKID
 
-1. **Ưu tiên văn nói (Conversational Priority):** Viết như một lời thủ thỉ, trò chuyện đời thường giữa hai người bạn bên hiên nhà hoặc bên ấm trà. Tránh xa văn phong sách vở, hoa mỹ gượng gạo hay triết lý cao siêu. Đọc to từng dòng bằng tiếng Anh: câu hát phải nghe tự nhiên như một lời nói từ gan ruột, trôi êm theo nhịp thở bình thường.
-2. **Contractions tự nhiên:** Tận dụng tối đa dạng viết tắt đời thường (`don't`, `won't`, `we've`, `I'd`, `there's`, `ain't` nếu chất mộc Americana). Dạng nguyên thể chỉ dùng khi cố ý nhấn mạnh trọng âm.
+### 1. Cấu trúc thư mục dự án Multi-Track (`projects/XXX/`):
+```text
+projects/XXX/
+├── 1-idea.md              (Chủ đề & cảm xúc chung của không gian)
+├── 2-music.md             (Ý đồ âm nhạc & phân vai cho 2 track)
+├── track-1-<tên_slug>/    (Track 1: ~4:00 phút)
+│   ├── <audio>.wav
+│   ├── timestamps.json, timestamps.txt, lyrics.srt
+│   ├── 3-lyrics.txt       (Lời sạch DistroKid Track 1)
+│   ├── image.txt
+│   ├── prompt-animate.txt
+│   └── 6-seo.md
+└── track-2-<tên_slug>/    (Track 2: ~4:00 phút)
+    ├── <audio>.wav
+    ├── timestamps.json, timestamps.txt, lyrics.srt
+    ├── 3-lyrics.txt       (Lời sạch DistroKid Track 2)
+    ├── image.txt
+    ├── prompt-animate.txt
+    └── 6-seo.md
+```
 
----
+### 2. Cấu trúc file làm việc `2-music.md`:
+Chứa đầy đủ prompt và lyrics cho cả 2 track:
+1. `## 🔍 1. TỔNG QUAN Ý ĐỒ`: 1 câu tứ bài chung + phân vai Track 1 & Track 2.
+2. `## 🎵 TRACK 1: [TÊN BÀI 1] (~4:00)`:
+   - Suno v6 Style Prompt (kèm Exclude)
+   - Performance Lyrics (30–36 dòng + Interlude + Fade Out)
+3. `## 🎵 TRACK 2: [TÊN BÀI 2] (~4:00)`:
+   - Suno v6 Style Prompt (kèm Exclude)
+   - Performance Lyrics (30–36 dòng + Interlude + Fade Out)
 
-## PHẦN 4 — TÍNH NHẤT QUÁN & CHỐNG SAO CHÉP (CONSISTENCY & ORIGINALITY)
+### 3. Kỹ thuật Section Edit / Lyric Swap (Chống lãng phí):
+- Khi track đạt được bản thu hay nhưng dính 1 câu nuốt chữ: Dùng tính năng **Section Edit / Lyric Swap** của v6 để sửa cục bộ đúng câu đó, tuyệt đối không regenerate lại cả bài.
 
-1. **Nhất quán bản sắc kênh:** Cho phép duy trì thế giới cảm xúc ấm áp, hoài niệm và bộ nhạc cụ mộc (acoustic guitar, upright bass, pedal steel/fiddle) quen thuộc qua nhiều bài để xây dựng nhận diện thương hiệu cho kênh.
-2. **Chống sao chép câu từ (`lyrics-index.md`):** Đảm bảo hook và các móc neo giác quan chính không bị trùng lặp nguyên xi giữa các bài liền kề.
+### 4. File lời sạch `3-lyrics.txt` (Chuẩn xuất bản DistroKid):
+- Mỗi track có 1 file `3-lyrics.txt` riêng trong thư mục con.
+- Chỉ chứa lời ca thuần túy (xóa sạch toàn bộ thẻ `[Tag]` và chỉ dẫn `(Cue)`).
+- Viết hoa chữ cái đầu mỗi dòng.
+- **0% DẤU CÂU Ở CUỐI BẤT KỲ DÒNG NÀO**.
+- Cách đúng 1 dòng trống giữa các khổ.
 
----
-
-## PHẦN 5 — QUY CHUẨN FILE & 3 BƯỚC KIỂM TRA NHANH (FAST QA)
-
-* **`2-music.md`** — File làm việc:
-  1. `## 🔍 1. PHÂN TÍCH` — Tuyến bài (Soul Sanctuary hoặc Character Story), nhạc cụ dẫn.
-  2. `## 🏷️ 2. TÊN BÀI HÁT`
-  3. `## 🎛️ 3. SUNO STYLE PROMPT`
-  4. `## 📜 4. SUNO PERFORMANCE LYRICS` — Bọc toàn bộ lời trong code block (```text ... ```) để copy 1 chạm.
-
-* **`3-lyrics.txt`** — Lời sạch chuẩn DistroKid:
-  - Chỉ lời thuần túy, không thẻ cấu trúc.
-  - Mỗi dòng viết hoa chữ đầu, **0% dấu câu ở cuối bất kỳ dòng nào**. Cách đúng 1 dòng trống giữa các khổ.
-
-* **3 BƯỚC KIỂM ĐỊNH THỰC CHIẾN:**
-  1. **Lời & Giác quan (Pre-flight):** Không chứa từ AI sáo rỗng (`whispers, tapestry...`). Có ít nhất 1 móc neo vật lý có sức nặng. Tổng dòng $\le 32$. Đạt chuẩn DistroKid (0% dấu câu cuối dòng).
-  2. **Âm thanh & Rõ chữ (Audio QA):** Giọng hát rõ lời, đúng nhịp thở, không nuốt âm. Suno không đọc nhầm các thẻ `[tag]`. Nhạc cụ dẫn rõ nét.
-  3. **Cảm giác đọng lại (Emotional Vibe):** Bài hát có đem lại sự bình yên, xoa dịu hoặc chiêm nghiệm tự nhiên cho người nghe không?
+### 5. Quy tắc chống trùng lặp (`ref/lyrics-index.md`):
+- **Trước khi viết:** Mở `ref/lyrics-index.md`, kiểm tra Hook chính và Keywords của các bài gần nhất.
+- **Sau khi hoàn thành:** Cập nhật cả 2 bài hát vào bảng index.
