@@ -27,7 +27,10 @@ Nhân vật là các pho tượng búp bê nghệ thuật dân gian (`wooden fol
   - Nữ giới mặc váy dạ dài hoặc đầm len rủ chạm mắt cá chân tới ủng da nhỏ.
   - Tuyệt đối không mô tả bán thân lưng lửng (waist-up) vì sẽ làm model đúc tượng cụt cắm xuống đất.
 * **Hình khối Đầu, Tóc & Mũ:** Đầu làm bằng gỗ sáng màu gọt nhẵn với hình khối đa dạng theo tạng người (trái xoan thon, chữ nhật góc cạnh nhẹ, hoặc thon gầy). Đỉnh đầu luôn được che kín bằng mái tóc len tạo kiểu và đội mũ/nón phù hợp (mũ flat cap, beret, hoặc bonnet). Tránh đầu hình cầu tròn vo kiểu đồ chơi chốt gỗ mầm non.
-* **Gương mặt mộc tối giản:** Nét mặt vẽ cọ mộc tinh tế với đôi mắt đen bằng nét cọ mảnh và biểu cảm an nhiên, tập trung hoặc mỉm cười nhẹ. Giữ gương mặt mộc mạc, tuyệt đối không vẽ má hồng son phấn (tránh biến nhân vật thành búp bê Matryoshka hay chibi).
+* **Ngũ quan búp bê nghệ thuật (Chặn lỗi "Bear Eyes" & "Mất Miệng"):**
+  - *Đôi mắt có hồn (Anti-Bear Eyes):* Tuyệt đối tránh các từ như "dark dot eyes", "black bead eyes" (khiến AI render ra hai cục nhựa đen bóng vô hồn của gấu bông nhồi). Phải miêu tả là **đôi mắt vẽ cọ thủ công có tròng, có đồng tử mềm và hàng chân mày mảnh** (`expressive hand-painted wooden puppet eyes with soft pupils and delicate brows`), giàu sinh khí và hướng nhìn chuẩn xác như nghệ thuật rối Laika/Wes Anderson.
+  - *Nét miệng mộc mạc (Anti-Mannequin Mouth):* Khi prompt ghi "minimalist face" mà không nhắc tới miệng, AI sẽ tự động gọt phẳng nửa dưới mặt như ma-nơ-canh gỗ. **Bắt buộc phải miêu tả nét miệng** bằng nét cọ mảnh hoặc rãnh khắc tinh tế (`delicate painted mouth line or subtle carved mouth groove`) với biểu cảm cụ thể: ngậm tĩnh tại (`calm resting mouth line`), mỉm cười kín đáo (`subtle closed smile line`), hoặc mở tròn ngạc nhiên (`soft open mouth of wonder`).
+  - *Mặt mộc không phấn son:* Giữ nguyên vân gỗ sáng màu tự nhiên, cấm vẽ má hồng tròn xoe hay tô son đỏ (tránh biến nhân vật thành búp bê Matryoshka hay búp bê chibi).
 * **Bàn tay thao tác:** Đôi bàn tay gỗ chạm khắc ngón thon dài có khớp, thò ra từ ống tay áo và luôn trong trạng thái đang thao tác dở dang với đồ vật.
 
 ---
@@ -73,17 +76,17 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, minimalist face without blushed cheeks, articulated hands",
+    "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, expressive painted eyes with soft pupils, delicate painted mouth line, minimalist face without blushed cheeks, articulated hands",
     "figure_1": {
       "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
-      "head": "<Hình khối đầu (chữ nhật / oval / thon dài) + kiểu tóc len + loại mũ che đỉnh đầu>",
+      "head": "<Hình khối đầu (chữ nhật / oval / thon dài) + kiểu tóc len + loại mũ che đỉnh đầu + nét mặt (mắt có đồng tử, nét miệng mộc mạc)>",
       "attire": "<Trang phục & chất vải (tweed / nỉ / lanh) + quần suông dài phủ ủng da hoặc váy rủ>",
       "action": "<Hành động dở dang của nhân vật>",
       "gaze": "<Hướng nhìn & thần thái: nhìn bạn đồng hành / cúi nhìn đồ đang làm / nhìn xa xăm>"
     },
     "figure_2": {
       "role": "<Nhân vật thứ hai nếu có trong cảnh>",
-      "head": "<Hình khối đầu + tóc + mũ>",
+      "head": "<Hình khối đầu + tóc + mũ + nét mặt>",
       "attire": "<Trang phục & chất liệu>",
       "action": "<Hành động tương tác>",
       "gaze": "<Hướng nhìn đối xứng>"
@@ -128,11 +131,11 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 * **`aspect_ratio`**: Tỷ lệ khung hình kỹ thuật (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Quản Lý Nhân Diện Thực Thể)
-* **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến khóa cứng búp bê gỗ nguyên khối tiếp đất, có tóc & nón, mặt mộc không má hồng, tay có ngón.
+* **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến khóa cứng búp bê gỗ nguyên khối tiếp đất, có tóc & nón, mắt vẽ cọ có đồng tử mềm (chặn bear eyes), nét miệng mộc mạc (chặn mất miệng), mặt mộc không má hồng, tay có ngón.
 * **Quy tắc giải phẫu bắt buộc (Không bao giờ bỏ sót người):** Khi có người xuất hiện, **dù máy quay chụp cận cảnh (macro close-up) chỉ lấy thao tác đôi bàn tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật (`figure_1`) từ đầu (`head`), mũ, trang phục (`attire`), đến hướng nhìn (`gaze`)**. Việc này giúp AI neo giữ giải phẫu búp bê gỗ nguyên khối thống nhất, triệt tiêu hoàn toàn lỗi tạo ra các bàn tay người thật trôi nổi ma quái (disembodied hands).
 * **`figure_1`, `figure_2` (Thuộc tính tự thân của nhân vật):**
   - *`role`*: Vai trò & lứa tuổi ước lệ (thợ mộc, cụ già, thiếu nữ, cậu bé).
-  - *`head`*: Hình khối đầu gỗ gọt nhẵn (chữ nhật, oval, thon dài) + kiểu tóc len + loại mũ/nón che đỉnh đầu.
+  - *`head`*: Hình khối đầu gỗ gọt nhẵn + kiểu tóc len + loại mũ/nón che đỉnh đầu + nét mặt thủ công (mắt vẽ cọ có tròng/đồng tử rõ nét kèm chân mày mảnh, nét miệng cọ hoặc rãnh khắc thể hiện biểu cảm cụ thể).
   - *`attire`*: Trang phục đa dạng chất liệu (dạ sần tweed, nỉ ép, vải lanh, áo len dệt) + quần len may đo suông dài phủ thẳng ủng da hoặc váy dạ dài rủ chạm ủng.
   - *`action`*: Hành động dở dang của nhân vật (đặc tả thao tác tay nếu là cảnh cận).
   - *`gaze`*: Hướng nhìn cụ thể và thần thái tĩnh tại (nhìn bạn đồng hành, cúi nhìn đồ đang làm, nhìn ra thung lũng), không nhìn chằm chằm vào máy quay.
