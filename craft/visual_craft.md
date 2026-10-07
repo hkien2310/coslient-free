@@ -1,7 +1,7 @@
 # VISUAL CRAFT — NGHỆ THUẬT DÀN DỰNG CHUỖI ẢNH
 
 > **Phân định ranh giới cốt lõi:**
-> - **Style (`style/STYLE_*.md`):** Quy định *chất liệu & cách render của từng pixel* (da mịn không gỗ, chân không khớp, không len, ánh sáng ấm). Đó là "luật vẽ 1 bức ảnh".
+> - **Style (`style/STYLE_*.md`):** Quy định *chất liệu & cách render của từng pixel* (chất liệu thủ công, khối nhân vật, bề mặt, ánh sáng). Đó là "luật vẽ 1 bức ảnh".
 > - **Visual Craft (file này):** Quy định *sự chuyển động, nhịp điệu, câu chuyện và sự đa dạng giữa 50–70 bức ảnh*. Làm sao để chuỗi ảnh không bao giờ gây chán hay đơ cứng.
 
 Viết thẳng prompt vào `image.txt`. Số lượng prompt tùy theo độ dài bài hát (trung bình 45–65 prompts cho bài 3–4 phút). Bẫy từ khóa tra cứu tại `style/IMAGE_AVOID_CASES.md`.
@@ -30,7 +30,7 @@ Khi viết prompt thứ $N$, phải chủ động xoay vòng tối thiểu **3 t
 
 ### Trục 1 — Nhân vật & Số lượng:
 - Xoay vòng linh hoạt: 1 người làm việc một mình $\leftrightarrow$ 2 người tương tác thân tình $\leftrightarrow$ Trẻ con/người già $\leftrightarrow$ Muông thú/thú cưng làm nhân vật chính $\leftrightarrow$ Hoàn toàn không có người (tĩnh vật/cảnh vật).
-- Đa dạng tạng người theo 4 nhóm trong Style: Thợ đĩnh đạc (1:6) $\leftrightarrow$ Thanh mảnh cao ráo (1:6.5) $\leftrightarrow$ Cụ già phong sương $\leftrightarrow$ Trẻ nhỏ nhanh nhẹn (1:5.5).
+- Đa dạng nhân vật & vóc dáng: Thợ đĩnh đạc $\leftrightarrow$ Thanh niên cao ráo thanh mảnh $\leftrightarrow$ Cụ già phong sương $\leftrightarrow$ Trẻ nhỏ nhanh nhẹn.
 
 ### Trục 2 — Bối cảnh & Không gian (Ưu tiên ngoài trời):
 - **Ưu tiên ngoại thất khoáng đạt:** Tận dụng tối đa không gian ngoài trời rộng mở (sân phơi, bờ suối, triền đồi, mỏm đá, cầu uốn lượn) gắn với hoạt động thực tế.
@@ -38,7 +38,7 @@ Khi viết prompt thứ $N$, phải chủ động xoay vòng tối thiểu **3 t
 
 ### Trục 3 — Thông số máy ảnh & Góc quay:
 - **Cỡ cảnh:** Cận cảnh macro (đôi bàn tay, đồ vật) $\leftrightarrow$ Trung cảnh (nhân vật thao tác) $\leftrightarrow$ Viễn cảnh (đại cảnh thiên nhiên/thị trấn).
-- **Góc máy:** Ngước nhìn lên tôn dáng (`low-angle`) $\leftrightarrow$ Ngang tầm mắt (`eye-level`) $\leftrightarrow$ Nhìn từ trên cao xuống (`high-angle bird's-eye diorama view`).
+- **Góc máy:** Ngước nhìn lên (`low-angle`) $\leftrightarrow$ Ngang tầm mắt (`eye-level`) $\leftrightarrow$ Nhìn từ trên cao xuống (`high-angle bird's-eye view`, lưu ý luôn có nhân vật/vật thể làm thước tỷ lệ để tránh lộ sa bàn).
 - **Khẩu độ:** Luôn giữ `moderate depth of field, background softly readable` để hậu cảnh mờ êm dịu nhưng vẫn đọc rõ kiến trúc, tránh bẫy xóa phông nhòe nhoẹt của tilt-shift.
 
 ### Trục 4 — Hành vi vi mô & Khoảnh khắc lỡ cỡ (Micro-actions):
@@ -83,4 +83,4 @@ Cả video phải là một hành trình ánh sáng và thời gian chuyển đ�
   + Tối đa 10–15% cảnh tĩnh vật; không xếp 2 cảnh tĩnh vật liên tiếp.
 - **Tần suất lặp lại:** Một đồ vật hoặc một góc bối cảnh cụ thể chỉ xuất hiện tối đa 2 lần trong cả video. Không 3 ảnh liên tiếp giống nhau ở cùng một trục.
 - **Tâm điểm màu sắc:** Luôn có 1 điểm nhấn màu vàng mù tạt (`saffron mustard`) hoặc ánh hổ phách (`blazing warm amber`) để neo giữ nhận diện.
-- **Format cho tool render:** Mỗi prompt một dòng, giữa hai prompt một dòng trống, không dùng `--no`, kết thúc bằng `--ar 16:9`. Suffix phong cách luôn đặt ở đầu prompt.
+- **Format cho tool render:** Mỗi prompt một dòng, giữa hai prompt một dòng trống, không dùng `--no`, kết thúc bằng `--ar 16:9`. Suffix phong cách luôn đặt ở cuối prompt theo công thức của Style.
