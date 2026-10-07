@@ -96,7 +96,9 @@ a [young/elderly] [man/woman/craftsman] as a stylized whimsical folk art miniatu
 |---|---|---|
 | `smooth rounded wooden hands`, `wooden hands` | Cục tròn xoe Doraemon, núm bóng gỗ cụt | `delicate carved wooden hands with articulated slender fingers holding...` |
 | `smooth oval wooden head` (quên tả tóc/mũ) | Đầu trọc lốc như bóng đèn bowling, quả trứng | `smooth light-toned wooden head crowned with styled [màu] wool hair under a [mũ/cap/beret]` |
-| `waist-up view sitting on a bench` | Cụt nửa người, khúc gỗ cắm xuống ghế | `medium shot framing the figures seated with visible legs in trousers and small boots resting on the ground` |
+| `waist-up`, `visible upper body`, `upper torso` | Tượng bán thân cụt cắm xuống đất như củ khoai | `eye-level full-body shot` (búp bê nguyên khối đứng/ngồi chạm đất) |
+| `visible legs in boots` (không quần) | "Ở chuồng", chân gỗ trần truồng | `visible long legs in [charcoal/brown] tailored wool trousers and small leather boots` |
+| `behind railing with visible legs` | Cưa đôi người, chân lơ lửng dưới đáy sàn | Đứng trên sàn mở (`open timber deck / terrace`), lùi toàn cảnh thấy từ đầu đến chân |
 | `completely flat painted facial features, crescent eyes` (đơn độc) | Nét mực đen rạch ngang dị hợm, bowling pin vô hồn | `charming hand-painted storybook face with soft warm dark painted eyes, delicate blushed rosy cheeks, subtle gentle smile` |
 | `30-year-old`, `28-year-old`, `68-year-old` (số tuổi) | Người thật đời thường, nếp nhăn, râu ria sinh học | `a young man`, `a young woman`, `an elderly couple`, `a child` |
 | `close-up on face/forehead/head` | Đầu tượng bị chặt cắm xuống đất, mất thân | Chuyển thành `medium eye-level shot` ngồi trên ghế dài hoặc đứng |
