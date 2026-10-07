@@ -31,6 +31,7 @@ Phong cách mô phỏng một sa bàn nghệ thuật thu nhỏ kết hợp giữ
 * **Bố cục & Khoảng thở thị giác (Framing & Negative Space):** Khung hình ưu tiên sự cân bằng thị giác và khoảng thở tự nhiên theo hướng nhìn của nhân vật; linh hoạt giữa bố cục đăng đối mộc mạc (centered) và bố cục một phần ba (rule of thirds), tuyệt đối không nhồi nhét dày đặc làm mất cảm giác khoáng đạt của tiểu cảnh sa bàn.
 * **Quang học sa bàn (Macro Tilt-Shift):** Sử dụng ống kính macro tilt-shift với độ sâu trường ảnh mỏng để tôn vinh tỷ lệ thế giới thu nhỏ và chất cảm bề mặt vật liệu.
 * **Ánh sáng tự nhiên định hướng:** Nguồn sáng phải có phương hướng và góc rọi rõ rệt, tạo bóng đổ mềm mại nhằm khắc họa khối tích và xúc cảm không gian.
+* **Chất ảnh trong sáng & Bảng màu nhận diện (Luminous Clarity & Signature Palette):** Khung hình luôn giữ độ phơi sáng sáng sủa, trong trẻo dù là cảnh ngày hay cảnh đêm, triệt tiêu hoàn toàn bóng tối bết đen hoặc lớp phủ ám đục. Bảng màu nhận diện dựa trên sự tương phản đắt giá giữa **Xám than / Xám đá (Charcoal / Slate)** làm nền trầm và **Vàng mù tạt / Ánh hổ phách (Saffron-Mustard / Warm Amber)** bừng sáng làm điểm nhấn; đan xen màu trắng ngà yến mạch (`oatmeal`), gỗ sáng tự nhiên (`blond wood`) và xanh rêu trầm (`deep moss green`).
 
 ---
 
@@ -44,6 +45,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   "id": "<Số thứ tự prompt>",
   "STYLE": {
     "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+    "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
@@ -115,6 +117,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 
 #### Khối 1: `STYLE` (Định Hình Thế Giới & Tham Số)
 * **`world`**: Khóa thể loại sa bàn thu nhỏ thủ công (`Handcrafted mixed-media tabletop diorama...`). Cố định ở mọi prompt để chặn ảnh chụp người thật đời thường.
+* **`palette`**: Khóa cứng bảng màu nhận diện và chất ảnh trong sáng (`Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood`). Cố định xuyên suốt toàn bộ dự án để chống ảnh ám đục, bết đen hoặc sai lệch phong cách.
 * **`aspect_ratio`**: Tỷ lệ khung hình kỹ thuật (luôn là `"16:9"`).
 *(Khối STYLE cố định 100%, không chứa trường động. Mọi chất liệu thiên nhiên và thủ công cụ thể do ENVIRONMENT và CHARACTERS đảm nhận).*
 
