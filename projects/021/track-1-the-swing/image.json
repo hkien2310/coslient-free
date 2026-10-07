@@ -114,20 +114,6 @@
       "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
       "aspect_ratio": "16:9"
     },
-    "CHARACTERS": {
-      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
-      "figures": [
-        {
-          "id": "figure_1",
-          "role": "Distant elderly village man",
-          "build": "Slender elder proportions with gentle stoop, small in the clearing",
-          "head": "Smooth turned wooden head, flaxen-white wool hair under a tweed flat cap, flat painted face",
-          "attire": "Slate tweed vest, tailored charcoal trousers, small boots",
-          "action": "Standing beside the distant swing with hands resting on chains",
-          "gaze": "Attentive downward focus on companion seated upon swing"
-        }
-      ]
-    },
     "CREATURES": [
       {
         "id": "creature_1",
@@ -155,7 +141,7 @@
           "details": "Silhouetted gently in the clearing, swaying softly in the breeze"
         }
       ],
-      "staging": "creature_1 perched prominently in foreground-left atop prop_1; midground-right opens up to reveal figure_1 standing beside prop_2 under the monumental oak tree canopy",
+      "staging": "creature_1 perched prominently in foreground-left atop prop_1; midground-right opens up with generous negative space to reveal prop_2 swaying softly under the monumental oak tree canopy",
       "real_nature": "Real living emerald moss cushions on stone, authentic damp dark soil, dry oak leaves",
       "backdrop": "Filtered golden canopy of the monumental oak tree and rolling distant autumn ridges",
       "lighting": "Luminous afternoon backlight filtering through oak foliage, creating golden rim-lighting around creature_1",

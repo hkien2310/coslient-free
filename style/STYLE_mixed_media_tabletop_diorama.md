@@ -132,6 +132,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   - *`action`*: Hành động dở dang của nhân vật (đặc tả thao tác tay nếu là cảnh cận).
   - *`gaze`*: Hướng nhìn chủ đích vào đối tượng cụ thể trong bối cảnh, không nhìn chằm chằm vào máy quay.
 * **Quy tắc giải phẫu bắt buộc:** Khi có người xuất hiện, dù máy quay cận cảnh chỉ lấy thao tác tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật từ đầu, tóc, trang phục, đến hướng nhìn.
+* **Toàn vẹn tham chiếu thực thể (Chống nhân vật ma):** Mọi đối tượng trong `action`, `gaze`, `staging` bắt buộc phải có ID khai báo (`figure_*`, `creature_*`, `prop_*`). Cấm tuyệt đối dùng danh từ lửng lơ (`companion`, `wife`...) nếu không có ID. Cảnh đơn chỉ tương tác với môi trường/đạo cụ.
 * **`background_figures` (Tùy chọn):** Chấm bóng người hoặc đàn thú tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay trang phục chi tiết.
 #### Khối Tùy Chọn: `CREATURES` (Sinh Vật & Thú Đồng Hành Thủ Công)
 *(Chỉ xuất hiện khi cảnh có thú nuôi, gia súc hoặc thú rừng tương tác chính. Hoàn toàn cách ly khỏi `CHARACTERS.dna` để triệt tiêu lỗi rò rỉ giải phẫu người).*
