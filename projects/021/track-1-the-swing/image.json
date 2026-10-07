@@ -10,49 +10,49 @@
       "figures": [
         {
           "id": "figure_1",
-          "role": "Young artisan man",
-          "build": "Slender upright proportions, gentle artisan posture",
-          "head": "Softly rectangular wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
-          "attire": "Slate tweed vest, rolled linen sleeves, tailored charcoal wool trousers falling straight to small leather boots",
-          "action": "Using delicate carved wooden hands to break open a steaming roasted sweet potato in parchment wrap",
-          "gaze": "Gentle downward focus on the warm food"
+          "role": "Young artisan husband",
+          "build": "Slender upright proportions, gentle walking posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
+          "attire": "Slate tweed overcoat, tailored charcoal wool trousers falling straight to small leather boots",
+          "action": "Walking forward holding companion's hand, other hand tucked warmly into coat pocket",
+          "gaze": "Looking ahead peacefully along the winding park trail"
         },
         {
           "id": "figure_2",
-          "role": "Young companion woman",
+          "role": "Young companion wife",
           "build": "Slender graceful proportions, matching height and scale of companion",
-          "head": "Slender oval wooden head, auburn yarn hair under a knit beret, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+          "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
           "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
-          "action": "Reaching out both hands gently to accept half of the sweet potato",
-          "gaze": "Looking with warm affection at companion"
+          "action": "Walking alongside companion, holding his carved wooden hand warmly",
+          "gaze": "Gazing gently toward the distant autumn trees"
         }
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, eye-level full-body shot",
-      "setting": "Curved pathway in a miniature autumn village park",
+      "camera": "Macro tilt-shift, eye-level wide establishing shot with generous negative space",
+      "setting": "Curved timber footbridge crossing a shallow pebble brook in a miniature autumn park",
       "focal_elements": [
         {
           "id": "prop_1",
-          "item": "Curved timber park bench",
-          "material": "Turned steam-bent ash wood, beaten brass rivets",
-          "details": "Warm satin beeswax finish, visible organic grain, curved armrests, resting flat on gravel"
+          "item": "Arched timber footbridge",
+          "material": "Steam-bent ash wood planks, beaten brass handrail brackets",
+          "details": "Tactile matte beeswax finish, organic woodgrain texture, curved low balustrades resting over stone abutments"
         },
         {
           "id": "prop_2",
-          "item": "Steaming roasted sweet potato",
-          "material": "Real miniature baked tuber with charred skin, bright orange flesh",
-          "details": "Wrapped in crinkled brown parchment paper, split open with delicate white steam"
+          "item": "Mossy pebble brook",
+          "material": "Authentic miniature quartz pebbles, velvety green cushion moss, clear resin water film",
+          "details": "Smooth wet pebbles beneath a whisper-thin sheet of clear reflective water"
         }
       ],
-      "staging": "figure_1 seated center-left and figure_2 seated center-right side-by-side on prop_1, angled slightly toward each other; figure_1 holds prop_2 while figure_2 reaches out; both of their boots firmly planted on gravel path",
-      "backdrop": "Softly blurred ancient oak tree and distant timber cottage gables",
-      "real_nature": "Real damp earth, scattered dry golden oak leaves, mossy stone basin",
-      "lighting": "Warm low golden-hour backlight casting soft elongated shadows across gravel",
-      "motion": "Puffs of delicate white steam rising into the crisp autumn air"
+      "staging": "figure_1 and figure_2 walking hand-in-hand midground-right across prop_1, positioned along the right third with the sweeping mossy stream and open park expanse creating quiet negative space on the left; all small boots planted firmly on timber planks",
+      "real_nature": "Real miniature damp loam, living emerald cushion moss along stream bank, scattered crisp golden oak leaves",
+      "backdrop": "Softly blurred grove of miniature oak and beech trees with amber foliage fading into distant cottage gables",
+      "lighting": "Warm early golden-hour backlight raking low across the bridge, casting elongated soft shadows",
+      "motion": "A single crisp golden leaf floating gently down the clear water stream"
     },
     "SURREAL": {
-      "quirk": "Whimsical organic curved timber street lamp posts shaped like delicate fiddlehead ferns"
+      "quirk": "A whimsical miniature timber signpost beside the bridge shaped like a curling dried autumn leaf pointing along the path"
     }
   },
   {
@@ -66,50 +66,43 @@
       "figures": [
         {
           "id": "figure_1",
-          "role": "Elderly scholar",
-          "build": "Tall slender proportions with a slight gentle scholarly stoop",
-          "head": "Narrow elongated oval wooden head, flaxen-white hair under a tweed flat cap, tiny brass spectacles, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
-          "attire": "Tailored slate wool coat, tailored slate-gray wool trousers falling straight to small leather boots",
-          "action": "Delicate carved wooden hands gently releasing a miniature balsa-wood glider into the air",
-          "gaze": "Calm thoughtful gaze tracking the toy plane as it catches the breeze"
+          "role": "Young artisan husband",
+          "build": "Slender upright proportions, gentle leaning posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
+          "attire": "Slate tweed overcoat with textured rolled sleeves, tailored charcoal trousers, small leather boots",
+          "action": "Leaning in slightly to nudge companion's wool-clad elbow with his sleeve, one carved hand pointing subtly ahead",
+          "gaze": "Affectionate sideways gaze looking at companion while gesturing forward"
         },
         {
           "id": "figure_2",
-          "role": "Young village boy",
-          "build": "Nimble small child proportions, about half the height and scale of the elder",
-          "head": "Softly rounded wooden head, flaxen hair under a knit beret, flat minimalist painted face with soft dark pupils and a tiny single-line mouth, zero skin wrinkles, no teeth",
-          "attire": "Mustard ribbed wool sweater, tailored navy corduroy trousers, small boots",
-          "action": "Pointing upward with one carved wooden hand, jumping slightly on grounded feet",
-          "gaze": "Looking upward in wonder watching the glider soar"
+          "role": "Young companion wife",
+          "build": "Slender graceful proportions, matching height and scale of companion",
+          "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
+          "action": "Turning her head with a gentle receptive smile as her elbow catches his nudge",
+          "gaze": "Looking forward toward the direction companion is pointing"
         }
-      ],
-      "background_figures": "Distant tiny miniature sheep grazing peacefully beside low drystone walls"
+      ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, eye-level full-body shot",
-      "setting": "Undulating grassy hillock overlooking an expansive autumn valley",
+      "camera": "Macro tilt-shift, medium shot focused on upper bodies and the elbow-nudge gesture, shallow depth of field",
+      "setting": "Curved gravel pathway bordered by rustic drystone edging",
       "focal_elements": [
         {
           "id": "prop_1",
-          "item": "Low drystone wall corner",
-          "material": "Rough-hewn miniature limestone blocks, living green moss cushions",
-          "details": "Mortarless rustic drystone stacking, weathered edges with tiny lichen specks, marking hillcrest path"
-        },
-        {
-          "id": "prop_2",
-          "item": "Miniature balsa-wood glider",
-          "material": "Ultra-thin shaved blond balsa wood, tiny brass counterweight pin",
-          "details": "Delicate curved dihedral wings, paper-thin rudder, soaring gracefully on invisible air currents"
+          "item": "Low rustic drystone pathway border",
+          "material": "Hand-stacked miniature limestone fragments, living lichen specks",
+          "details": "Weathered natural chalky texture with tiny tufts of green moss between crevices"
         }
       ],
-      "staging": "figure_1 standing center on the grassy crest beside prop_1 with boots planted firmly on turf; figure_2 standing immediately to figure_1's right, angled upward looking at prop_2 banking overhead",
-      "backdrop": "Expansive miniature valley with patchwork fields, tiny distant timber barns, and rolling ridges",
-      "real_nature": "Real living moss patches, weathered quartz pebbles, dry autumn moorland grasses",
-      "lighting": "Clear airy afternoon daylight with crisp soft shadows",
-      "motion": "Toy balsa glider banking smoothly on the invisible mountain breeze"
+      "staging": "figure_1 on center-left leaning gently toward figure_2 on center-right; figure_1's tweed elbow making tactile contact with figure_2's felt coat sleeve; both of their leather boots firmly planted on gravel path",
+      "real_nature": "Real fine gravel path, weathered miniature quartz pebbles, scattered dried beech leaves",
+      "backdrop": "Softly blurred autumn park canopy with warm amber bokeh circles",
+      "lighting": "Warm directional side-light catching the fuzzy tactile fibers of wool and felt cloth",
+      "motion": "A faint autumn breeze gently lifting the trailing end of her woven scarf"
     },
     "SURREAL": {
-      "quirk": "A whimsical miniature stone observatory tower shaped like a resting snail in the far distance"
+      "quirk": "Small bronze coat buttons subtly carved with miniature oak leaf silhouettes"
     }
   },
   {
@@ -123,40 +116,50 @@
       "figures": [
         {
           "id": "figure_1",
-          "role": "Master woodcarver artisan",
-          "build": "Sturdy broad-shouldered artisan proportions, leaning with focused posture",
-          "head": "Softly rectangular wooden head, neatly carved wooden beard, chestnut wool hair under a working leather flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
-          "attire": "Rolled-up natural linen workshirt, dark brown heavy twill artisan apron with brass grommets, tailored charcoal wool trousers",
-          "action": "Seated over workbench, using delicate carved wooden hands to draw a miniature curved brass drawknife across a linden-wood block",
-          "gaze": "Intense downward concentration, eyes focused directly on the wood grain and blade"
+          "role": "Distant elderly village man",
+          "build": "Slender elder proportions with gentle stoop, small in the clearing",
+          "head": "Smooth turned wooden head, flaxen-white wool hair under a tweed flat cap, flat painted face",
+          "attire": "Slate tweed vest, tailored charcoal trousers, small boots",
+          "action": "Standing beside the distant swing with hands resting on chains",
+          "gaze": "Attentive downward focus on companion seated upon swing"
         }
       ]
     },
+    "CREATURES": [
+      {
+        "id": "creature_1",
+        "role": "Handcrafted miniature wooden sparrow",
+        "build": "Tiny songbird proportions, resting comfortably on fence post top",
+        "material": "Whittled cedar wood body, soft carved feather ridges, two tiny painted dot eyes, miniature wire feet",
+        "action": "Perched quietly on the rustic timber post, head cocked with curious posture",
+        "gaze": "Looking across toward the sunlit oak clearing"
+      }
+    ],
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, close-up shot focused on artisan hands and workbench, upper body and head in frame",
-      "setting": "Artisan woodcraft studio interior beside a wide open sunlit casement window",
+      "camera": "Macro tilt-shift, low-angle foreground-framed shot with creature_1 sharp in foreground and distant clearing soft in midground",
+      "setting": "Rustic park boundary overlooking an expansive sunlit grassy clearing",
       "focal_elements": [
         {
           "id": "prop_1",
-          "item": "Solid oak joiner workbench",
-          "material": "Heavy rustic oak timber, cast iron bench dogs, polished brass screw clamp",
-          "details": "Surface marked with gentle chisel gouges, satin oiled woodgrain, brass measuring ruler inlaid along front edge"
+          "item": "Weathered timber fence post and drystone wall",
+          "material": "Aged split cedar post, miniature rough limestone blocks",
+          "details": "Velvety cushion moss crowning the stone top, deep organic grain on split timber"
         },
         {
           "id": "prop_2",
-          "item": "Carving block and brass drawknife",
-          "material": "Blond linden-wood carving block, miniature curved beaten brass blade with pearwood handles",
-          "details": "Crisp translucent ribbons of shaved timber curling gently off the block onto the tabletop"
+          "item": "Distant wooden plank swing beneath ancient oak tree",
+          "material": "Cedar wood plank, twisted brass chains hanging from massive oak bough",
+          "details": "Silhouetted gently in the clearing, swaying softly in the breeze"
         }
       ],
-      "staging": "figure_1 seated firmly behind prop_1 leaning forward over the table; both carved wooden hands firmly gripping prop_2 in mid-stroke; feet resting flat on the workshop floorboards",
-      "backdrop": "Sunlit timber casement window frame opening onto autumn foliage",
-      "real_nature": "Deeply textured real oak grain, fine aromatic wood curls, tiny pot of beeswax polish",
-      "lighting": "Soft morning daylight raking across the benchtop highlighting airborne dust motes",
-      "motion": "A single curled blond wood shaving mid-air falling gently toward the benchtop"
+      "staging": "creature_1 perched prominently in foreground-left atop prop_1; midground-right opens up to reveal figure_1 standing beside prop_2 under the monumental oak tree canopy",
+      "real_nature": "Real living emerald moss cushions on stone, authentic damp dark soil, dry oak leaves",
+      "backdrop": "Filtered golden canopy of the monumental oak tree and rolling distant autumn ridges",
+      "lighting": "Luminous afternoon backlight filtering through oak foliage, creating golden rim-lighting around creature_1",
+      "motion": "A few dried golden oak leaves drifting lazily downward in the distance"
     },
     "SURREAL": {
-      "quirk": "Curled wooden shavings naturally taking the delicate silhouette of tiny dried elm leaves"
+      "quirk": "The wooden fence post naturally twists into a gentle spiraling fern-frond tip at its base"
     }
   },
   {
@@ -171,48 +174,367 @@
         {
           "id": "figure_1",
           "role": "Elderly village man",
-          "build": "Slender elder proportions with calm upright posture",
+          "build": "Slender elder proportions with gentle stoop, upright bracing posture",
           "head": "Smooth elongated oval wooden head, flaxen-white wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
-          "attire": "Tailored slate tweed coat, tailored charcoal wool trousers falling straight to small leather boots",
-          "action": "Standing beside the swing with one delicate carved wooden hand resting on the brass swing chain",
-          "gaze": "Serene downward gaze looking warmly toward companion"
+          "attire": "Slate tweed vest, rolled-up natural linen workshirt, tailored charcoal trousers, small leather boots",
+          "action": "Both carved wooden hands gently pushing the cedar plank swing forward in mid-stride",
+          "gaze": "Warm fond gaze watching companion soar into the air"
         },
         {
           "id": "figure_2",
           "role": "Elderly companion woman",
-          "build": "Graceful petite elder proportions, seated lightly on swing plank",
-          "head": "Smooth oval wooden head, silver wool hair under a dusty-rose knit bonnet, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
-          "attire": "Dusty-rose pressed felt dress falling to small leather boots",
-          "action": "Seated upon the timber plank swing with both carved wooden hands holding the brass chains, legs swinging forward into the air",
-          "gaze": "Looking forward with peaceful quiet joy as the swing sways"
+          "build": "Graceful petite elder proportions, seated lightly upon the swing",
+          "head": "Smooth oval wooden head, silver wool hair under a dusty-rose knit bonnet, flat minimalist painted face with soft pupils and a fine single-line joyful smile, zero skin wrinkles, no teeth",
+          "attire": "Dusty-rose pressed felt dress with saffron-mustard wool scarf, small leather boots",
+          "action": "Seated upon the cedar plank swing with both carved wooden hands clutching brass chains, legs swinging forward into mid-air",
+          "gaze": "Looking forward and upward with peaceful radiant joy"
         }
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, eye-level medium-wide shot",
-      "setting": "Base of the ancient monumental oak tree in the village clearing",
+      "camera": "Macro tilt-shift, eye-level full-body medium-action shot from a three-quarter angle",
+      "setting": "Base of the ancient monumental oak tree in the village park clearing",
       "focal_elements": [
         {
           "id": "prop_1",
           "item": "Handcrafted timber plank swing",
           "material": "Curved cedar wood board, aged twisted brass link chains",
-          "details": "Burnished smooth seat edge with brass ring fittings, suspended from ancient oak bough, swaying gently in mid-air"
+          "details": "Burnished smooth seat edge with brass ring fittings, suspended from ancient oak bough, swaying forward in mid-arc"
         },
         {
           "id": "prop_2",
-          "item": "Ancient monumental oak tree",
-          "material": "Massive gnarled oak trunk, deeply creviced bark, spreading canopy of golden leaves",
+          "item": "Ancient monumental oak tree trunk",
+          "material": "Massive gnarled oak wood, deeply creviced tactile bark, spreading canopy of golden leaves",
           "details": "Root flare covered in emerald cushion moss and dry golden oak leaves on damp soil"
         }
       ],
-      "staging": "figure_1 standing grounded on the mossy earth beside prop_1 with one hand resting on its chain; figure_2 seated on prop_1 with legs swinging forward in mid-air beneath the canopy of prop_2",
-      "backdrop": "Filtered canopy of golden leaves and soft distant autumn clearing",
-      "real_nature": "Real damp soil, velvety green moss cushions, crisp scattered golden oak leaves",
-      "lighting": "Warm glowing amber sunset beams slanting through thick gnarled oak branches",
-      "motion": "Golden oak leaves drifting down through the warm air around the swinging figure"
+      "staging": "figure_1 positioned center-left with leather boots planted firmly on the mossy turf, pushing prop_1; figure_2 seated on prop_1 swinging forward toward midground-right beneath the sheltering canopy of prop_2",
+      "real_nature": "Real damp forest loam, velvety green cushion moss, thick carpet of crisp fallen golden oak leaves",
+      "backdrop": "Softly blurred autumn park clearing with warm glowing amber sunset light filtering through boughs",
+      "lighting": "Warm glowing amber afternoon sunlight raking across the scene, rimming both figures in golden light",
+      "motion": "A swirl of golden oak leaves kicked up from the turf beneath the swinging boots"
     },
     "SURREAL": {
-      "quirk": "Delicate brass swing chains terminating in tiny leaf-shaped carved hooks anchored directly into the living wood"
+      "quirk": "Delicate brass swing chains terminating in tiny hand-carved leaf-shaped hooks anchored into the living bark"
+    }
+  },
+  {
+    "id": 5,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Elderly companion woman on swing",
+          "build": "Graceful petite elder proportions, seated with upright joyful posture",
+          "head": "Smooth oval wooden head, silver wool hair under a dusty-rose knit bonnet, flat minimalist painted face with soft pupils and serene single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dusty-rose pressed felt coat, ribbed saffron-mustard knit cuffs peeking from sleeves, wool stockings, small leather boots",
+          "action": "Both carved wooden hands with articulated jointed fingers gripping the cool twisted brass swing chains tightly",
+          "gaze": "Gazing calmly forward and upward toward the sky"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, tight close-up shot focused on carved wooden hands gripping brass chains, upper torso and head softly framed",
+      "setting": "Suspended mid-air beside the gnarled oak bough",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Burnished brass swing chain links",
+          "material": "Twisted beaten brass wire links with subtle green verdigris patina",
+          "details": "Tactile metallic sheen, individual interlocking oval loops showing delicate artisan hammer marks"
+        },
+        {
+          "id": "prop_2",
+          "item": "Cedar swing plank corner",
+          "material": "Smooth hand-sanded cedar timber, beeswax satin finish",
+          "details": "Rounded burnished wood edge with visible organic grain lines"
+        }
+      ],
+      "staging": "figure_1's carved wooden hands centered in the macro focal plane gripping prop_1; ribbed wool cuffs meeting smooth turned wood wrists; background oak foliage blurred into creamy golden circles",
+      "real_nature": "Deeply textured real oak bark in soft background, airborne dust motes catching sunlight",
+      "backdrop": "Golden autumn canopy dissolving into soft amber and honey bokeh",
+      "lighting": "Crisp raking late-afternoon sunbeam highlighting carved wood grain facets and brass wire texture",
+      "motion": "A tiny detached oak leaf fragment brushing past the brass chain in mid-fall"
+    },
+    "SURREAL": {
+      "quirk": "A single brass chain link delicately shaped like a tiny resting dragonfly with folded wings"
+    }
+  },
+  {
+    "id": 6,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Artisan chestnut vendor",
+          "build": "Sturdy broad-shouldered artisan proportions, leaning forward in working posture",
+          "head": "Turned rectangular wooden head, neatly carved wooden beard, brown wool hair under a leather flat cap, flat minimalist painted face with focused pupils and single-line mouth, zero skin wrinkles, no teeth",
+          "attire": "Natural unbleached linen workshirt, heavy brown twill artisan apron with brass grommets, tailored dark trousers, small boots",
+          "action": "Using miniature carved wooden tongs to turn steaming roasted chestnuts over a copper brazier",
+          "gaze": "Intense downward concentration on the glowing roasting pan"
+        }
+      ],
+      "background_figures": "Distant tiny silhouette figures strolling quietly past a row of timber cottages"
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level medium shot framing vendor and cart with balanced negative space",
+      "setting": "Gravel path corner beside an antique gas lamp post in the miniature park",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Artisan roasted chestnut street cart",
+          "material": "Handcrafted cedar timber with spoked wooden wheels, beaten copper roasting brazier, brass chimney flue",
+          "details": "Warm glowing charcoal embers, tactile hammered copper pan holding split roasted chestnuts, paper cones neatly stacked"
+        },
+        {
+          "id": "prop_2",
+          "item": "Paper cones of roasted chestnuts",
+          "material": "Crinkled brown kraft parchment, tiny roasted chestnuts with split charred shells",
+          "details": "Golden orange nut meat peeking through dark charred shells, delicate steam rising"
+        }
+      ],
+      "staging": "figure_1 standing firmly on the left behind prop_1, boots planted on gravel; prop_2 resting on the front brass rail of the cart; right third opens up to the park lawn and fallen leaves",
+      "real_nature": "Real fine gravel path, real aromatic charcoal embers, tiny real baked chestnuts, dry beech leaves",
+      "backdrop": "Softly blurred park trees and distant warm amber cottage windowpanes",
+      "lighting": "Warm dual lighting: golden late-afternoon sunlight from above combined with glowing orange underlight from the brazier embers",
+      "motion": "Puffs of delicate white steam rising into the crisp autumn air from the copper brazier"
+    },
+    "SURREAL": {
+      "quirk": "The brass chimney flue of the cart curves into a whimsical shape resembling a curling morning-glory blossom"
+    }
+  },
+  {
+    "id": 7,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Elderly village man",
+          "build": "Slender elder proportions with gentle stoop, upright standing posture",
+          "head": "Smooth elongated oval wooden head, flaxen-white wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Tailored slate tweed coat, tailored charcoal trousers, small leather boots",
+          "action": "Cracking open a warm charred chestnut shell with carved wooden fingers, offering the golden kernel to companion",
+          "gaze": "Warm downward gaze looking with tender affection at companion"
+        },
+        {
+          "id": "figure_2",
+          "role": "Elderly companion woman",
+          "build": "Graceful petite elder proportions, seated resting posture",
+          "head": "Smooth oval wooden head, silver wool hair under a dusty-rose knit bonnet, flat minimalist painted face with soft pupils and a peaceful single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dusty-rose pressed felt coat, pleated wool skirt falling straight to small leather boots",
+          "action": "Reaching out both carved wooden hands cupped gently to receive the warm roasted chestnut",
+          "gaze": "Looking up with radiant gratitude and quiet love at companion"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level medium two-shot with intimate framing",
+      "setting": "Beside a curved steam-bent timber park bench under an amber beech tree",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Curved timber park bench",
+          "material": "Turned steam-bent ash wood, beaten brass rivets",
+          "details": "Warm satin beeswax finish, visible organic grain, curved armrests resting flat on mossy gravel"
+        },
+        {
+          "id": "prop_2",
+          "item": "Steaming roasted chestnuts in parchment wrap",
+          "material": "Real miniature baked chestnuts with charred cracked shells, brown crinkled kraft paper",
+          "details": "Split open golden nut meat with wisps of delicate white steam"
+        }
+      ],
+      "staging": "figure_2 seated comfortably center-left on prop_1; figure_1 standing center-right leaning slightly forward beside the bench; prop_2 held between them as figure_1 passes the chestnut to figure_2; all boots grounded on mossy turf",
+      "real_nature": "Real damp soil, cushion moss around bench legs, scattered crisp golden-brown beech leaves",
+      "backdrop": "Softly blurred tree trunks and amber canopy with soft atmospheric twilight glow",
+      "lighting": "Warm low golden-amber backlight casting elongated soft shadows forward",
+      "motion": "Wisps of white steam rising gently from the freshly cracked chestnut"
+    },
+    "SURREAL": {
+      "quirk": "A carved wooden squirrel figurine resting atop the bench armrest holding a tiny polished acorn"
+    }
+  },
+  {
+    "id": 8,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Young artisan husband",
+          "build": "Slender upright proportions, protective standing posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Slate tweed overcoat, tailored charcoal wool trousers falling straight to small leather boots",
+          "action": "One arm gently wrapped around companion's shoulder, other hand tucked into overcoat pocket",
+          "gaze": "Looking across toward the distant elderly couple with deeply moved, thoughtful expression"
+        },
+        {
+          "id": "figure_2",
+          "role": "Young companion wife",
+          "build": "Slender graceful proportions, leaning gently against companion",
+          "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
+          "action": "Head resting lightly against companion's shoulder, carved wooden hand squeezing his sleeve",
+          "gaze": "Watching the distant elders with soft romantic wonder"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level medium-wide shot with figures placed in the left third looking across open space",
+      "setting": "Gentle mossy slope beneath an arching golden beech branch overlooking the clearing",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Low drystone wall corner and timber post",
+          "material": "Miniature rough limestone blocks, weathered split cedar post",
+          "details": "Lichen-speckled rough stone, moss tufts between blocks, marking the elevated path"
+        },
+        {
+          "id": "prop_2",
+          "item": "Distant oak tree clearing with swing",
+          "material": "Gnarled oak silhouette, tiny distant figures sharing the swing",
+          "details": "Softly rendered in the warm amber distance across the lawn"
+        }
+      ],
+      "staging": "figure_1 and figure_2 standing close together in the left third beside prop_1; their gaze and the open park clearing create generous visual looking-room across to prop_2 in the soft-focus right background",
+      "real_nature": "Real living cushion moss, authentic damp dark earth, scattered dry golden leaves",
+      "backdrop": "Softly blurred expansive clearing with amber autumn trees and distant cottage gables",
+      "lighting": "Luminous amber sunset raking from the right, bathing both young figures in warm golden light",
+      "motion": "A gentle evening breeze rustling dry leaves along the slope"
+    },
+    "SURREAL": {
+      "quirk": "Two small stones in the drystone wall naturally nestled together in the shape of a resting songbird"
+    }
+  },
+  {
+    "id": 9,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Elderly village man",
+          "build": "Slender elder proportions with gentle stoop, dynamic bracing posture",
+          "head": "Smooth elongated oval wooden head, flaxen-white wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Slate tweed vest, rolled linen workshirt sleeves, tailored charcoal wool trousers, small leather boots",
+          "action": "Stepping forward with bent knees to catch both brass swing chains at waist height to slow the swing down",
+          "gaze": "Looking up with affectionate laughing expression directly into companion's face"
+        },
+        {
+          "id": "figure_2",
+          "role": "Elderly companion woman on swing",
+          "build": "Graceful petite elder proportions, seated leaning slightly back",
+          "head": "Smooth oval wooden head, silver wool hair under a dusty-rose knit bonnet, flat minimalist painted face with soft pupils and a joyful single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dusty-rose pressed felt coat, saffron-mustard wool scarf with trailing fringe, small boots",
+          "action": "Seated on the plank swing as it slows, feet lifted close to companion's knees, holding chains above his hands",
+          "gaze": "Looking down into companion's eyes with sparkling joyful laughter"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level medium-action shot capturing the dynamic catch, shallow depth of field",
+      "setting": "Underneath the monumental ancient oak tree boughs",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Handcrafted timber plank swing",
+          "material": "Cedar wood seat, twisted brass chains",
+          "details": "Chains caught firmly by figure_1's carved hands, plank hovering a handbreadth above the mossy ground"
+        },
+        {
+          "id": "prop_2",
+          "item": "Ancient gnarled oak trunk",
+          "material": "Massive oak wood, tactile furrowed bark, cushion moss",
+          "details": "Enormous curved trunk anchoring the background right behind the swing"
+        }
+      ],
+      "staging": "figure_1 standing grounded center-right with boots firmly planted on turf, catching prop_1; figure_2 on prop_1 swinging in close to figure_1's knees; prop_2 frames the scene immediately behind them",
+      "real_nature": "Real damp forest loam, thick bed of crisp golden oak leaves, velvety cushion moss",
+      "backdrop": "Softly blurred autumn clearing with warm sunset amber glow filtering between branches",
+      "lighting": "Low glowing amber rim-light catching the fluttering scarf fringes and brass chain links",
+      "motion": "The saffron-mustard wool scarf fringe and loose dry oak leaves fluttering mid-air from the deceleration"
+    },
+    "SURREAL": {
+      "quirk": "Carved wooden leaf silhouettes delicately inlaid into the cedar seat plank with fine brass wire"
+    }
+  },
+  {
+    "id": 10,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Elderly village man",
+          "build": "Slender elder proportions with gentle chivalrous posture",
+          "head": "Smooth elongated oval wooden head, flaxen-white wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Tailored slate tweed coat, tailored charcoal wool trousers falling straight to small leather boots",
+          "action": "Bowing chivalrously like an old-fashioned ballroom dancer, offering his crooked arm to companion",
+          "gaze": "Devoted upward gaze looking with timeless romance at companion"
+        },
+        {
+          "id": "figure_2",
+          "role": "Elderly companion woman",
+          "build": "Graceful petite elder proportions, upright playful posture",
+          "head": "Smooth oval wooden head, silver wool hair under a dusty-rose knit bonnet, flat minimalist painted face with soft pupils and a fine single-line joyful smile, zero skin wrinkles, no teeth",
+          "attire": "Dusty-rose pressed felt coat, pleated wool skirt falling straight to small leather boots",
+          "action": "Standing beside the empty swing, gathering her coat hem in a playful curtsey, other hand reaching for his arm",
+          "gaze": "Gazing down affectionately at her bowing husband with girlish joy"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level full-body wide shot, centered symmetrical composition framed by the monumental oak canopy",
+      "setting": "Base of the monumental ancient oak tree in the golden twilight clearing",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Empty timber plank swing at rest",
+          "material": "Cedar wood board, aged twisted brass chains",
+          "details": "Hanging perfectly still behind the dancing couple, burnished seat glowing in twilight"
+        },
+        {
+          "id": "prop_2",
+          "item": "Monumental ancient oak tree canopy",
+          "material": "Massive spreading oak branches, deeply creviced bark, golden leaf canopy",
+          "details": "Arching overhead like a natural cathedral dome over the clearing"
+        }
+      ],
+      "staging": "figure_1 and figure_2 positioned center stage beneath the arching canopy of prop_2; figure_1 bowing on center-left offering his crooked arm to figure_2 who curtseys on center-right; prop_1 hangs quietly in the immediate background between them; all boots grounded on leaf-covered soil",
+      "real_nature": "Real damp dark soil, deep carpet of fallen golden oak leaves, emerald cushion moss around root flares",
+      "backdrop": "Dusk sky fading from warm amber to deep indigo, with tiny distant cottage windows glowing with warm amber light",
+      "lighting": "Magical dual lighting: rich amber twilight rimming the figures from behind, complemented by warm glowing fairy lanterns in the distance",
+      "motion": "A single golden leaf drifting down in stillness through the quiet twilight air"
+    },
+    "SURREAL": {
+      "quirk": "Tiny brass acorn-shaped lanterns glowing with faint amber embers nestled safely within the oak tree root hollows"
     }
   }
 ]
