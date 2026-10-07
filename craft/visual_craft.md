@@ -86,4 +86,4 @@ Cả video phải là một hành trình ánh sáng và thời gian chuyển đ�
   + Tối đa 10–15% cảnh tĩnh vật; không xếp 2 cảnh tĩnh vật liên tiếp.
 - **Tần suất lặp lại:** Một đồ vật hoặc một góc bối cảnh cụ thể chỉ xuất hiện tối đa 2 lần trong cả video. Không 3 ảnh liên tiếp giống nhau ở cùng một trục.
 - **Tâm điểm màu sắc:** Luôn có 1 điểm nhấn màu vàng mù tạt (`saffron mustard`) hoặc ánh hổ phách (`blazing warm amber`) để neo giữ nhận diện.
-- **Format cho tool render:** Mỗi prompt một dòng, giữa hai prompt một dòng trống, không dùng `--no`, kết thúc bằng `--ar 16:9`. Suffix phong cách luôn đặt ở cuối prompt theo công thức của Style.
+- **Format cho tool render:** Mỗi prompt một dòng, giữa hai prompt một dòng trống, không dùng `--no`. Style anchor (`Handcrafted mixed-media tabletop diorama, macro tilt-shift, `) luôn đặt ở ĐẦU PROMPT để khóa phong cách từ token đầu tiên, kết thúc bằng tham số `--ar 16:9` theo công thức của Style.
