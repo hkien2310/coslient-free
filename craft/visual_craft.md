@@ -4,7 +4,7 @@
 > - **Style (`style/STYLE_*.md`):** Quy định *chất liệu & cách render của từng pixel* (chất liệu thủ công, khối nhân vật, bề mặt, ánh sáng). Đó là "luật vẽ 1 bức ảnh".
 > - **Visual Craft (file này):** Quy định *sự chuyển động, nhịp điệu, câu chuyện và sự đa dạng giữa 50–70 bức ảnh*. Làm sao để chuỗi ảnh không bao giờ gây chán hay đơ cứng.
 
-Viết thẳng prompt vào `image.txt`. Số lượng prompt tùy theo độ dài bài hát (trung bình 45–65 prompts cho bài 3–4 phút). Bẫy từ khóa tra cứu tại `style/IMAGE_AVOID_CASES.md`.
+Viết thẳng prompt vào `image.txt`. Số lượng prompt tùy theo độ dài bài hát (trung bình 45–65 prompts cho bài 3–4 phút). Quy chuẩn chi tiết tra cứu tại `style/STYLE_*.md`.
 
 ---
 
@@ -81,11 +81,11 @@ Cả video phải là một hành trình ánh sáng và thời gian chuyển đ�
 - **2 Trụ Cột Viết Prompt (Bắt buộc):**
   + **Tả máy quay chụp cái gì:** Mở đầu luôn định vị cỡ cảnh, góc máy và tiêu điểm máy quay đang bắt trọn (`[Shot type] focusing on / framing [focal target]`). Mọi vật thể treo/đung đưa/chịu lực phải có điểm neo vật lý rõ ràng.
   + **Luôn tả người (Host Entity):** Không bao giờ để bộ phận cơ thể (tay, chân) hay trang phục đứng lẻ loi làm chủ ngữ. Mọi chi tiết cận cảnh đều phải gắn chặt với một nhân vật búp bê cụ thể (`an elderly woman as a stylized storybook miniature figure, her hands emerging from wool sleeves...`). Mọi nhân vật phụ ở hậu cảnh đều phải bọc nhãn `companion miniature figure`.
-- **4 Điều Răn Bất Biến Tạo Hình Búp Bê Sa Bàn:**
-  1. *Khóa cứng Tóc/Mũ (Chống đầu trọc):* Mọi đầu gỗ bắt buộc phải có tóc và/hoặc nón: `smooth light-toned wooden head crowned with styled [auburn/chestnut/gray] needle-felted wool hair under a tailored [flat cap/beret/bonnet]`. Cấm để đầu gỗ trơ trọi.
-  2. *Bàn tay có ngón (Chống tay cục Doraemon):* Dùng `delicate carved wooden hands with articulated slender fingers holding [vật]`. Cấm tuyệt đối `smooth rounded wooden hands`.
-  3. *Thân thể cắm rễ tiếp đất (Chống cụt người / mất thân):* Cấm dùng `waist-up view sitting on a bench`. Khi ngồi ghế/đứng phải dùng `medium shot framing the figures from the knees up, seated with visible legs in trousers and small boots resting on the ground`.
-  4. *Gương mặt truyện tranh ấm áp (Chống mặt ma quái):* Dùng `charming hand-painted storybook face with soft warm dark painted eyes, delicate blushed rosy cheeks, and a subtle gentle smile`.
+- **Quy Chuẩn Tạo Hình Búp Bê Dân Gian:**
+  + *Đầu & Mũ:* Đầu gỗ tiện nhẵn đa dạng phom dáng, có tóc len và luôn đội mũ/nón che kín đỉnh đầu.
+  + *Bàn tay:* Bàn tay gỗ chạm khắc ngón thon dài, luôn gắn liền với ống tay áo và thao tác dở dang trên đồ vật.
+  + *Thân thể tiếp đất:* Búp bê nguyên khối cắm rễ tiếp đất với trang phục suông dài phủ kín ủng da (quần len may đo suông dài hoặc váy dạ rủ). Tuyệt đối không dùng `waist-up`. Cho phép an toàn tuyệt đối với cận cảnh bàn tay thao tác (`macro hands`) hoặc góc nhìn sau lưng (`back-view`).
+  + *Gương mặt mộc:* Mặt mộc vẽ cọ tối giản với đôi mắt đen nét cọ mảnh và biểu cảm an nhiên, tuyệt đối không vẽ má hồng son phấn.
 - **Tỷ lệ sinh khí (Vitality Ratio):**
   + Tối thiểu 70% số ảnh có nhân vật chuyển động hoặc tương tác tình cảm.
   + Tối đa 10–15% cảnh tĩnh vật; không xếp 2 cảnh tĩnh vật liên tiếp.
