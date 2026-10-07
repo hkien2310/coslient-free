@@ -3,11 +3,38 @@
 
 Nhân vật thủ công đa chất liệu đặt giữa thiên nhiên thật thu nhỏ, chụp macro tilt-shift. Duyên dáng, mộc mạc ấm áp, dáng người cao ráo thanh thoát, gương mặt tối giản ngây ngô vẽ cọ phẳng. Kẻ thù duy nhất là bóng bẩy công nghiệp, đục đẽo giải phẫu gân guốc, hoặc đầu trọc lốc.
 
-## 1. Hai lớp thế giới
+## 1. Style Anchor & Thứ Tự Thông Tin (Nguyên Tắc Trọng Số Giảm Dần)
+
+Trong prompt của mô hình diffusion, **thứ tự thông tin quyết định trọng số chú ý (attention weight): cái gì quan trọng hơn bắt buộc phải ở phía trước, cái gì ít quan trọng hơn ở phía sau.**
+
+### Bảng Phân Tầng Thứ Tự Ưu Tiên (Từ Đầu đến Cuối Prompt)
+
+| Thứ tự | Thành phần | Mức độ quan trọng | Lý do kỹ thuật & Cơ chế | Cú pháp quy chuẩn |
+|---|---|---|---|---|
+| **1 (Vị trí 0)** | **Style Anchor (Prefix)** | **TỐI THƯỢNG** | Khóa không gian sa bàn ngay lập tức; chặn đứng thiên kiến sinh người thật / ảnh chụp thật. | `Handcrafted mixed-media tabletop diorama, macro tilt-shift, ` |
+| **2** | **Cỡ cảnh & Tiêu điểm máy quay** | **CỰC CAO** | Định hình phối cảnh, trường nhìn và vật thể trọng tâm mà ống kính bắt trọn. | `[Cỡ cảnh + Góc máy] [focusing on / framing tiêu điểm], ` |
+| **3** | **Chủ thể chính (Neo tức thì)** | **CỰC CAO** | Khóa vật liệu búp bê gỗ ngay lập tức sau tên nhân vật; cấm neo trễ `both as` ở cuối. | `[nhân vật] as a stylized whimsical storybook miniature figure...` |
+| **4** | **Hành vi dở dang & Điểm neo vật lý** | **CAO** | Tạo sinh khí chuyển động; đảm bảo tay/chân và đồ treo có điểm tựa vững chắc. | `[tay chân từ áo] [đang làm dở] [trên vật có điểm neo/điểm tựa], ` |
+| **5** | **Hậu cảnh & Phối cảnh xa** | **TRUNG BÌNH** | Tạo chiều sâu không gian, khóa nhân vật phụ ở xa thành tí hon (tránh tranh chấp tiền cảnh). | `in the far distant background, tiny miniature figures...` |
+| **6** | **Động học, Màu nhấn & Ánh sáng** | **BỔ TRỢ** | Thêm sinh khí môi trường (lá bay, hơi nước) và nguồn sáng cụ thể (không u tối). | `swirling golden leaves, warm low golden-hour backlight` |
+| **7 (Cuối cùng)** | **Tham số kỹ thuật** | **THAM SỐ** | Tham số render dòng lệnh, luôn đặt ở đuôi. | ` --ar 16:9` |
+
+### Công thức chuẩn ráp theo đúng thứ tự ưu tiên:
+```text
+Handcrafted mixed-media tabletop diorama, macro tilt-shift, [1. Cỡ cảnh & Tiêu điểm], [2. Nhân vật 1 bọc ngay búp bê gỗ], [3. Nhân vật 2 bọc ngay búp bê gỗ], [4. Hành động dở dang & Điểm neo vật lý], [5. Hậu cảnh xa & Động học], [6. Màu nhấn & Ánh sáng] --ar 16:9
+```
+
+**4 Lưu ý thép khi ráp công thức (Chặn đứng lỗi biến dạng thực tế):**
+1. **Neo tức thì từng cá thể (Cấm neo trễ):** Mỗi nhân vật khi gọi tên phải bọc ngay `as a stylized whimsical storybook miniature figure`. Tuyệt đối không để `both as...` ở cuối câu khi có từ 2 người. Nhân vật chính trong cận cảnh cũng bắt buộc phải có nhãn búp bê gỗ ngay lập tức.
+2. **Khớp cỡ cảnh & thân thể (Khử mất thân):** Cảnh cận trung (`medium close-up`) bắt buộc phải ghi `waist-up view... with visible upper torsos`. Cấm dùng từ `tall` đơn độc khi không có chân.
+3. **Phân bậc phối cảnh (Khử người sau to hơn người trước):** Nhân vật hậu cảnh bắt buộc phải có từ khóa khoảng cách `in the far distant background, tiny miniature figures...`.
+4. **Toàn vẹn tư thế hậu cảnh (Khử mất chân):** Nhân vật phụ phải có tư thế cơ thể hoàn chỉnh gắn với điểm tựa (`standing upright beside the oak trunk with visible legs in boots` hoặc `seated upon a bench`).
+
+## 2. Hai lớp thế giới
 - **Làm tay:** người, thú, nhà, xe, đồ vật. Xoay vòng gỗ sáng màu, giấy bồi, vải lanh, dạ, da mềm, dây đay, thiếc gỉ, đồng thau. Len chỉ dùng điểm xuyết một bộ phận (không phủ cả người); hai nhân vật cạnh nhau không dùng cùng bộ chất liệu.
 - **Thật:** rêu, sỏi, cỏ khô, hoa dại, nước, trời, khói, núi xa. Hoàn toàn là tự nhiên thật thu nhỏ, không làm bằng len nỉ.
 
-## 2. Khối nhân vật chuẩn (Cao ráo - Có tóc/mũ - Mặt vẽ phẳng)
+## 3. Khối nhân vật chuẩn (Cao ráo - Có tóc/mũ - Mặt vẽ phẳng)
 Mỗi lỗi hay gặp có đúng một cụm neo. Ngoài cụm neo, không mô tả giải phẫu cơ thể.
 
 ```text
@@ -26,45 +53,21 @@ a [tuổi]-year-old [giới] [nghề] as a stylized whimsical storybook miniatur
 - **Áo & Tay:** Vải mềm rủ tự nhiên (`linen`, `pressed felt`, `flannel`, `soft leather`, `tweed`). Cảnh cận dùng `simple rounded mitten-shaped hands` đang cầm/thao tác đồ vật.
 - **Thú:** `a [chất] [loài]` (`twine-wrapped`, `felted wool`, `shaggy mohair`), đổi chất liệu giữa các con thú.
 
-## 3. Ba nguyên tắc tạo hình cốt lõi
+## 4. Ba nguyên tắc tạo hình cốt lõi
 1. **Đường cong hữu cơ (Curved & Organic):** Không dùng đường thẳng hay góc hộp vuông khô cứng. Tường cong, mái võng, cầu đá uốn lượn, lan can uốn khúc (`curved timber`, `sweeping organic path`, `curvilinear facades`).
 2. **Bất đối xứng (Asymmetry):** Tránh trang phục đối xứng cứng nhắc. Vạt đắp chéo, khăn vắt lệch một bên vai, hàng cúc lệch ngực, túi lệch một bên hông (`asymmetrical cut`, `off-center closure`, `draped over one shoulder`).
 3. **Sai lệch thị giác (Whimsical Quirk):** Mỗi khung cảnh lồng 1 chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ duyên dáng: lò nướng dáng ấm trà khổng lồ, tháp đá cong lưỡi liềm, cụm mây bông nhỏ xíu là là mặt cỏ, guồng nước thìa đồng (`whimsical environmental quirk`).
 
-## 4. Khung hình & Chống đơ cứng (Kinetic & Camera)
+## 5. Khung hình & Chống đơ cứng (Kinetic & Camera)
 - **Hành động dở dang (Mid-action):** Luôn dùng động từ đang diễn ra nửa chừng (`kicking boots into the air`, `leaning forward to blow steam`, `mid-stride tossing an acorn`) thay vì đứng/ngồi tạo dáng tĩnh (`standing/sitting still`).
 - **Yếu tố động học:** Mỗi khung hình ưu tiên có 1 chi tiết chuyển động nhẹ: hơi nước bốc lên (`wisps of steam`), gió lay tà áo (`breeze fluttering coat hem`), lá vàng chao lượn (`swirling autumn leaves`), sóng nước lăn tăn.
 - Phần lớn từ trung cảnh (`full-body`) tới góc rộng (`wide shot`). Cận cảnh (`close-up`) thỉnh thoảng dùng để nhấn khoảnh khắc đắt giá.
 - Nền mờ hẳn khi nhấn nhân vật: `very shallow depth of field, soft bokeh`. Nền đọc được khi kể bối cảnh: `moderate depth of field`.
 - Khi quay cảnh rộng không người: hạ máy sát đất (`ground-level`), luôn có một chi tiết hoặc nhân vật nhỏ làm thước tỷ lệ. Không dùng `high-angle` đơn độc cho cảnh toàn không người.
 
-## 5. Màu sắc & Ánh sáng
+## 6. Màu sắc & Ánh sáng
 - **Tâm điểm màu ấm:** Một mảng màu nhấn rực rỡ (vàng mù tạt `saffron mustard`, đất nung `terracotta`, đỏ gỉ, hổ phách ấm) nổi bật trên nền tông đất mộc.
 - **Ánh sáng luân chuyển linh hoạt:** Không lạm dụng mãi một ánh hoàng hôn. Xoay vòng giữa `soft misty dawn light` · `clear airy daylight` · `warm low golden-hour backlight` · `blue dusk with warm glowing amber lamps`.
-
-## 6. Công thức Prompt Chuẩn (Style Anchor Đầu Prompt + Máy quay + Chủ thể người)
-
-Để khóa chết không gian sa bàn ngay từ token đầu tiên và ngăn chặn AI kích hoạt thiên kiến người thật, **Style Anchor bắt buộc phải đặt ở ĐẦU PROMPT**, tham số kỹ thuật `--ar 16:9` đặt ở CUỐI PROMPT.
-
-```text
-Handcrafted mixed-media tabletop diorama, macro tilt-shift, [1. Máy quay & Tiêu điểm], [2. Nhân vật 1 bọc ngay búp bê gỗ], [3. Nhân vật 2 bọc ngay búp bê gỗ], [4. Hành động dở dang & Điểm neo vật lý], [5. Hậu cảnh phối cảnh xa & Động học], [6. Màu nhấn & Ánh sáng] --ar 16:9
-```
-
-**Cụm mở đầu quy chuẩn (BẮT BUỘC ĐẶT Ở ĐẦU PROMPT):**
-```text
-Handcrafted mixed-media tabletop diorama, macro tilt-shift, 
-```
-
-**Tham số kết thúc quy chuẩn (BẮT BUỘC ĐẶT Ở CUỐI PROMPT):**
-```text
- --ar 16:9
-```
-
-**4 Lưu ý thép khi ráp công thức (Chặn đứng lỗi biến dạng thực tế):**
-1. **Neo tức thì từng cá thể (Cấm neo trễ):** Mỗi nhân vật khi gọi tên phải bọc ngay `as a stylized whimsical storybook miniature figure`. Tuyệt đối không để `both as...` ở cuối câu khi có từ 2 người. Nhân vật chính trong cận cảnh cũng bắt buộc phải có nhãn búp bê gỗ ngay lập tức.
-2. **Khớp cỡ cảnh & thân thể (Khử mất thân):** Cảnh cận trung (`medium close-up`) bắt buộc phải ghi `waist-up view... with visible upper torsos`. Cấm dùng từ `tall` đơn độc khi không có chân.
-3. **Phân bậc phối cảnh (Khử người sau to hơn người trước):** Nhân vật hậu cảnh bắt buộc phải có từ khóa khoảng cách `in the far distant background, tiny miniature figures...`.
-4. **Toàn vẹn tư thế hậu cảnh (Khử mất chân):** Nhân vật phụ phải có tư thế cơ thể hoàn chỉnh gắn với điểm tựa (`standing upright beside the oak trunk with visible legs in boots` hoặc `seated upon a bench`).
 
 ## 7. Từ điển Token chuyển dịch
 | Token gây lỗi | Model hiểu thành | Thay bằng cụm chuẩn |

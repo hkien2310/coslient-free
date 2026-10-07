@@ -1,7 +1,7 @@
 # IMAGE AVOID — Luật viết prompt
 *Coslient Free · Đọc trước khi viết bất kỳ prompt nào. Thế giới hình ảnh: file `STYLE_*.md` đang dùng.*
 
-Model ảnh đọc prompt theo nghĩa đen, gắn tính từ vào danh từ gần nhất và kéo theo thiên kiến dữ liệu huấn luyện. 6 rule dưới đây chặn các lỗi phát sinh từ cơ chế đó.
+Model ảnh đọc prompt theo nghĩa đen, gắn tính từ vào danh từ gần nhất và ưu tiên trọng số chú ý (attention weight) cho các token đầu dòng. **Nguyên lý cốt lõi: Thứ tự thông tin trong prompt quyết định tất cả — cái gì quan trọng hơn bắt buộc phải ở phía trước, cái gì ít quan trọng hơn ở phía sau.** 7 rule dưới đây là luật cơ chế chặn đứng mọi lỗi biến dạng.
 
 ---
 
