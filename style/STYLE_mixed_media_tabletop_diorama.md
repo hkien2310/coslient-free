@@ -59,81 +59,91 @@ Biểu cảm của búp bê nghệ thuật dân gian không dựa vào cơ mặt
 
 ## 5. Quy Chuẩn Prompt Định Dạng JSON (Object-in-Object)
 
-Mỗi khung hình là một JSON Object khép kín gồm 4 khối chức năng:
+Toàn bộ kịch bản được quản lý qua định dạng JSON phân tầng: Khối cứng (`GLOBAL`) khai báo 1 lần duy nhất ở đầu, và các khối động (`SCENES`) chỉ chứa thông tin biến đổi theo từng cảnh.
+
+### 5.1. Khung Cấu Trúc Tổng Thể
 
 ```json
 {
-  "STYLE": {
-    "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
-    "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
-    "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
-    "optics": "Macro tilt-shift lens, eye-level full-body shot, shallow depth of field",
-    "aspect_ratio": "16:9"
-  },
-  "CHARACTER": {
+  "GLOBAL": {
     "style": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
+      "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
+      "aspect_ratio": "16:9"
+    },
+    "character_dna": {
       "archetype": "Stylized wooden folk art figurine, tall slender proportions, grounded whole-body",
       "craft": "Smooth light-toned turned wood, styled wool hair under headwear, articulated carved fingers",
       "face": "Minimalist hand-painted features, quiet dark brushstroke eyes, no blushed cheeks"
-    },
-    "figure_1": {
-      "role": "Young artisan man",
-      "head": "Softly rectangular wooden head, chestnut wool hair under a tweed flat cap",
-      "attire": "Slate tweed vest, rolled linen sleeves, tailored charcoal wool trousers falling straight to small leather boots",
-      "action": "Seated on curved timber bench with feet on ground, delicate carved hands breaking open a steaming sweet potato",
-      "gaze": "Gentle downward focus on the warm food"
-    },
-    "figure_2": {
-      "role": "Young companion woman",
-      "head": "Slender oval wooden head, auburn yarn hair under a knit beret",
-      "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
-      "action": "Seated side by side with feet on ground, hands reaching out to accept half",
-      "gaze": "Serene painted smile line, looking toward companion"
-    },
-    "background_figures": "Distant tiny wooden figurines strolling along the far curved stone bridge"
+    }
   },
-  "ENVIRONMENT": {
-    "setting": "Organic curved timber park bench on a winding gravel pathway",
-    "real_elements": "Real damp earth, scattered dry golden oak leaves, lichen-crusted stone well basin",
-    "lighting": "Warm low golden-hour backlight casting soft elongated shadows",
-    "motion": "Wisps of white steam rising into the crisp autumn air"
-  },
-  "SURREAL": {
-    "quirk": "Whimsical organic curved timber street lamp posts shaped like delicate fiddlehead ferns"
+  "SCENE_TEMPLATE": {
+    "SCENE": {
+      "camera": "<Góc máy & Cỡ cảnh: macro close-up / eye-level full-body / back-view / wide>",
+      "focus": "<Tiêu điểm thị giác: vật thể hoặc tương tác chính máy quay bắt trọn>"
+    },
+    "CHARACTERS": {
+      "figure_1": {
+        "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
+        "position": "<Vị trí & bố cục: foreground left / center / 1/3 right / seated on focal prop>",
+        "head": "<Hình khối đầu (chữ nhật / oval / thon dài) + kiểu tóc len + loại mũ che đỉnh đầu>",
+        "attire": "<Trang phục & chất vải (tweed / nỉ / lanh) + quần suông dài phủ ủng da hoặc váy rủ>",
+        "action": "<Hành động dở dang có điểm tựa vật lý vững chắc>",
+        "gaze": "<Hướng nhìn & thần thái: nhìn bạn đồng hành / cúi nhìn đồ đang làm / nhìn xa xăm>"
+      },
+      "figure_2": {
+        "role": "<Nhân vật thứ hai nếu có trong cảnh>",
+        "position": "<Vị trí tương quan với figure_1>",
+        "head": "<Hình khối đầu + tóc + mũ>",
+        "attire": "<Trang phục & chất liệu>",
+        "action": "<Hành động tương tác>",
+        "gaze": "<Hướng nhìn đối xứng>"
+      },
+      "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa tít tắp, không tả mặt/áo>"
+    },
+    "ENVIRONMENT": {
+      "setting": "<Không gian kiến trúc hoặc địa điểm cụ thể>",
+      "focal_elements": "<Vật thể tương tác chính tại tiền cảnh: ghế dài, bàn mộc, xích đu, giếng đá>",
+      "backdrop": "<Không gian hậu cảnh xa: thung lũng sương, triền đồi, nóc nhà nhấp nhô>",
+      "real_nature": "<Chất liệu tự nhiên thật thu nhỏ: thảm rêu ẩm, sỏi cuội, lá khô, vỏ cây xù xì>",
+      "lighting": "<Nguồn sáng cụ thể: nắng sớm sương mai, nắng chiều tà xiên thấp, đèn lồng hổ phách>",
+      "motion": "<Tùy chọn: Chuyển động môi trường: hơi nước, tà áo lay, lá chao lượn>"
+    },
+    "SURREAL": {
+      "quirk": "<Chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ: lò nướng ấm trà, tháp lưỡi liềm...>"
+    }
   }
 }
 ```
 
-### Quy Tắc Chi Tiết Từng Trường (Field Rules):
+---
 
-#### Khối 1: `STYLE` (Định hình Thế giới & Tham số Hệ thống)
-- **`world`**: Khóa thể loại sa bàn thu nhỏ thủ công (`Handcrafted mixed-media tabletop diorama...`). Cố định ở mọi prompt để chặn ảnh chụp người thật đời thường.
-- **`handcrafted`**: Định danh các chất liệu làm tay (gỗ tiện, dạ nỉ ép, vải lanh, đồng thau mờ, gỗ uốn). Cấm nhựa bóng, kim loại công nghiệp.
-- **`real_nature`**: Định danh các chất liệu thiên nhiên thật thu nhỏ (rêu ẩm, đất mùn, sỏi cuội, lá khô giòn, ánh nắng thật).
-- **`optics`**: Cỡ cảnh & Ống kính quang học (`Macro tilt-shift lens`, kèm cỡ cảnh: `extreme close-up on hands` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
-- **`aspect_ratio`**: Tỷ lệ khung hình kỹ thuật (luôn là `"16:9"`).
+### 5.2. Quy Tắc Chi Tiết Từng Trường Động (Field Rules)
 
-#### Khối 2: `CHARACTER` (Quản lý Thực thể Nhân vật)
-- **`style` (DNA chung):** Quy chuẩn bất biến cho mọi nhân vật trong cảnh:
-  - *`archetype`*: Búp bê gỗ dân gian, dáng cao ráo thanh mảnh, thực thể 3D nguyên khối tiếp đất (cấm bán thân).
-  - *`craft`*: Đầu gỗ có tóc & mũ che kín đỉnh, bàn tay khắc ngón thon dài có khớp.
-  - *`face`*: Mặt mộc vẽ cọ tối giản, mắt đen mảnh, tuyệt đối không má hồng.
-- **`figure_1`, `figure_2` (Cá nhân hóa):**
-  - *`role`*: Vai trò & lứa tuổi ước lệ (thợ mộc, cụ già, thiếu nữ, cậu bé).
-  - *`head`*: Hình khối đầu (chữ nhật thon, oval thanh mảnh, thon dài) + kiểu tóc len + loại mũ/nón che đỉnh đầu.
-  - *`attire`*: Trang phục cụ thể với chất liệu phong phú (dạ sần tweed, nỉ ép, vải lanh, áo len dệt) + quần len may đo suông dài phủ thẳng ủng da hoặc váy dạ dài rủ.
-  - *`action`*: Hành động dở dang gắn liền với điểm tựa vật lý vững chắc (chân chạm đất, tay cầm nắm/thao tác).
-  - *`gaze`*: Hướng nhìn và thần thái cụ thể (nhìn bạn đồng hành, cúi nhìn đồ đang làm, nhìn ra thung lũng), không nhìn chằm chằm vào máy quay.
-- **`background_figures` (Tùy chọn):** Chỉ dùng khi cần điểm xuyết chiều sâu ở xa. Miêu tả ngắn gọn là các chấm bóng người tí hon (`distant tiny wooden figurines`), không tả chi tiết mặt hay áo quần.
-- *Trường hợp đặc biệt:*
-  - Cận cảnh bàn tay: Thay `figure_*` bằng `hands: { "artisan": "...", "action": "..." }`.
-  - Thú cưng / Tĩnh vật: Thay `figure_*` bằng `creature: { "type": "...", "posture": "..." }`.
+#### Khối 1: `SCENE` (Máy Quay & Tiêu Điểm)
+* **`camera`**: Định vị góc quay và cỡ cảnh quang học (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
+* **`focus`**: Điểm nhấn thị giác chính mà máy quay hướng vào (ví dụ: tương tác giữa hai người trên ghế dài, hoặc đôi bàn tay thao tác trên bàn mộc).
 
-#### Khối 3: `ENVIRONMENT` (Bối cảnh & Vật lý Sa Bàn)
-- **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ (hiên nhà gỗ uốn, xưởng mộc mở toang nhìn ra thung lũng, góc phố lát sỏi, tháp đá cổ).
-- **`real_elements`**: Các thành phần tự nhiên thật thu nhỏ xuất hiện trong cảnh (thảm rêu xanh ẩm, vỏ cây sồi sần sùi, đá cuội phủ địa y, lá sồi khô phủ đường đi).
-- **`lighting`**: Nguồn sáng tự nhiên cụ thể (nắng sớm sương mai, nắng vàng mật xiên thấp, ánh đèn lồng hổ phách ấm áp đêm chạng vạng).
-- **`motion` (Tùy chọn):** Yếu tố động lực học môi trường (hơi nước bốc lên từ món nóng, gió lay tà áo, lá vàng chao lượn).
+#### Khối 2: `CHARACTERS` (Quản Lý Nhân Vật Động)
+* **`position` (Bắt buộc cho nhân vật chính):** Định vị vị trí và hướng đứng/ngồi trong khung hình (`seated center on timber bench`, `standing foreground left, angled 3/4 toward center`). Đảm bảo nhân vật có điểm tựa vật lý vững chắc.
+* **`role`**: Vai trò và tính cách ước lệ (thợ mộc, cụ già, thiếu nữ, cậu bé).
+* **`head`**: Hình khối đầu gỗ gọt nhẵn (chữ nhật, oval, thon dài) + kiểu tóc len + loại mũ/nón che kín đỉnh đầu.
+* **`attire`**: Trang phục đa dạng chất liệu (dạ sần tweed, nỉ ép, vải lanh, áo len dệt) + quần len may đo suông dài phủ thẳng ủng da hoặc váy dạ dài rủ chạm ủng.
+* **`action`**: Hành động dở dang gắn liền với điểm tựa vật lý vững chắc.
+* **`gaze`**: Hướng nhìn cụ thể và trạng thái cảm xúc tĩnh tại (nhìn bạn đồng hành, cúi nhìn đồ đang làm, nhìn ra thung lũng), không nhìn chằm chằm vào máy quay.
+* **`background_figures` (Tùy chọn):** Chấm bóng người tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay quần áo chi tiết.
+* *Các biến thể cảnh đặc biệt:*
+  - Cận cảnh bàn tay: Thay `figure_*` bằng `hands: { "artisan": "<loại thợ>", "action": "<thao tác cụ thể>" }`.
+  - Thú cưng / Tĩnh vật: Thay `figure_*` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
+
+#### Khối 3: `ENVIRONMENT` (Bối Cảnh & Phân Tầng Vật Lý)
+* **`setting`**: Tên địa điểm hoặc không gian kiến trúc thu nhỏ (hiên nhà gỗ uốn, xưởng mộc mở toang nhìn ra thung lũng, góc công viên mùa thu).
+* **`focal_elements` (Vật thể tiền cảnh tương tác):** Đồ vật chính mà nhân vật chạm vào hoặc ngồi lên (chiếc ghế timber cong, chiếc bàn mộc, xích đu dây thau, bệ giếng đá). Chặn đứng lỗi lơ lửng hoặc cưa người.
+* **`backdrop` (Hậu cảnh xa):** Không gian nền phía sau tạo chiều sâu (thung lũng mờ sương, rừng sồi vàng xa, các mái nhà nhấp nhô).
+* **`real_nature`**: Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh này (thảm rêu ẩm, sỏi cuội, lá khô giòn, vỏ cây xù xì).
+* **`lighting`**: Nguồn sáng tự nhiên cụ thể (nắng sớm sương mai, nắng vàng mật xiên thấp, ánh đèn lồng hổ phách đêm chạng vạng).
+* **`motion` (Tùy chọn):** Yếu tố động lực học môi trường (hơi nước bốc lên từ món nóng, gió lay tà áo, lá vàng chao lượn).
 
 #### Khối 4: `SURREAL` (Sai Lệch Thị Giác & Yếu Tố Kỳ Ảo Mộc Mạc)
-- **`quirk`**: Một chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ duyên dáng đặc trưng của thế giới truyện tranh (lò nướng gạch dáng ấm trà khổng lồ, tháp đá cong hình lưỡi liềm, cụm mây bông nhỏ xíu là là mặt cỏ, guồng nước thìa đồng, cột đèn uốn cong như chồi dương xỉ).
+* **`quirk`**: Một chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ duyên dáng đặc trưng của thế giới truyện tranh (lò nướng gạch dáng ấm trà khổng lồ, tháp đá cong hình lưỡi liềm, cụm mây bông nhỏ xíu là là mặt cỏ, guồng nước thìa đồng, cột đèn uốn cong như chồi dương xỉ).
