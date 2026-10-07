@@ -42,9 +42,17 @@ a [tuổi]-year-old [giới] [nghề] as a stylized whimsical storybook miniatur
 - **Tâm điểm màu ấm:** Một mảng màu nhấn rực rỡ (vàng mù tạt `saffron mustard`, đất nung `terracotta`, đỏ gỉ, hổ phách ấm) nổi bật trên nền tông đất mộc.
 - **Ánh sáng luân chuyển linh hoạt:** Không lạm dụng mãi một ánh hoàng hôn. Xoay vòng giữa `soft misty dawn light` · `clear airy daylight` · `warm low golden-hour backlight` · `blue dusk with warm glowing amber lamps`.
 
-## 6. Công thức Prompt & Suffix chuẩn
+## 6. Công thức Prompt Chuẩn (Máy quay + Chủ thể người + Điểm neo)
+
+Một prompt chuẩn luôn giải quyết đồng thời 2 câu hỏi cốt lõi: **"Máy quay đang ngắm/chụp cái gì?"** và **"Ai là chủ thể mang hành động/trang phục đó?"**
+
 ```text
-[Cỡ + góc máy], [khối nhân vật], [hành động dở dang], [bối cảnh], [chi tiết động học nếu có], [màu nhấn], [ánh sáng], [suffix]
+[1. Máy quay & Tiêu điểm]: [Cỡ cảnh + Góc máy] focusing on / framing [vật thể/hành vi cụ thể được ngắm],
+[2. Luôn tả người (Host Entity)]: [nhân vật] as a stylized whimsical storybook miniature figure, [đặc điểm nhận diện / trang phục],
+[3. Hành động dở dang & Điểm neo vật lý]: [bộ phận/tay/chân xuất phát từ áo/thân người] [hành động đang làm] [trên/với vật thể có điểm tựa/điểm neo chắc chắn],
+[4. Hậu cảnh & Động học]: [hậu cảnh tự nhiên thu nhỏ; nếu có người phụ phải bọc `companion miniature figure`], [chi tiết động học: hơi nước, lá bay, gió lay],
+[5. Màu nhấn & Ánh sáng]: [mảng màu nổi bật], [nguồn sáng cụ thể ở Mục 5],
+[6. Suffix]: handcrafted mixed-media tabletop diorama, macro tilt-shift --ar 16:9
 ```
 
 **Suffix quy chuẩn (BẮT BUỘC ĐẶT Ở CUỐI PROMPT):**

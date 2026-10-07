@@ -78,6 +78,9 @@ Cả video phải là một hành trình ánh sáng và thời gian chuyển đ�
 
 ## 4. Quy Chuẩn Khung & Format Kỹ Thuật
 
+- **2 Trụ Cột Viết Prompt (Bắt buộc):**
+  + **Tả máy quay chụp cái gì:** Mở đầu luôn định vị cỡ cảnh, góc máy và tiêu điểm máy quay đang bắt trọn (`[Shot type] focusing on / framing [focal target]`). Mọi vật thể treo/đung đưa/chịu lực phải có điểm neo vật lý rõ ràng.
+  + **Luôn tả người (Host Entity):** Không bao giờ để bộ phận cơ thể (tay, chân) hay trang phục đứng lẻ loi làm chủ ngữ. Mọi chi tiết cận cảnh đều phải gắn chặt với một nhân vật búp bê cụ thể (`an elderly woman as a stylized storybook miniature figure, her hands emerging from wool sleeves...`). Mọi nhân vật phụ ở hậu cảnh đều phải bọc nhãn `companion miniature figure`.
 - **Tỷ lệ sinh khí (Vitality Ratio):**
   + Tối thiểu 70% số ảnh có nhân vật chuyển động hoặc tương tác tình cảm.
   + Tối đa 10–15% cảnh tĩnh vật; không xếp 2 cảnh tĩnh vật liên tiếp.
