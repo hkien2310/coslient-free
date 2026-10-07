@@ -43,43 +43,49 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   "id": "<Số thứ tự prompt>",
   "STYLE": {
     "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
-    "handcrafted": "<Định danh chất liệu thủ công cụ thể của cảnh>",
-    "real_nature": "<Định danh chất liệu thiên nhiên thật cụ thể của cảnh>",
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
     "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
-    "figure_1": {
-      "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
-      "head": "<Hình khối đầu + chất liệu tóc + phụ kiện đầu nếu có + mặt phẳng 2D không nếp nhăn, không răng>",
-      "attire": "<Trang phục vải thủ công phủ kín chân tới giày/ủng>",
-      "action": "<Hành động dở dang cụ thể>",
-      "gaze": "<Hướng nhìn chủ đích vào đối tượng cụ thể>"
-    },
-    "figure_2": {
-      "role": "<Nhân vật thứ hai nếu có trong cảnh>",
-      "head": "<Hình khối đầu + tóc + phụ kiện + mặt phẳng 2D>",
-      "attire": "<Trang phục vải thủ công che kín da thịt>",
-      "action": "<Hành động tương tác>",
-      "gaze": "<Hướng nhìn đối ứng>"
-    },
+    "figures": [
+      {
+        "id": "figure_1",
+        "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
+        "build": "<Vóc dáng & tỷ lệ hình thể: cao gầy hơi khom / nhỏ nhắn / vạm vỡ>",
+        "head": "<Hình khối đầu + chất liệu tóc + phụ kiện đầu nếu có + mặt phẳng 2D không nếp nhăn, không răng>",
+        "attire": "<Trang phục vải thủ công phủ kín chân tới giày/ủng>",
+        "action": "<Hành động dở dang cụ thể>",
+        "gaze": "<Hướng nhìn chủ đích vào đối tượng cụ thể>"
+      },
+      {
+        "id": "figure_2",
+        "role": "<Tùy chọn: Vai trò nhân vật thứ hai>",
+        "build": "<Vóc dáng & tỷ lệ tương quan với figure_1>",
+        "head": "<Hình khối đầu + tóc + phụ kiện + mặt phẳng 2D>",
+        "attire": "<Trang phục vải thủ công che kín da thịt>",
+        "action": "<Hành động tương tác>",
+        "gaze": "<Hướng nhìn đối ứng>"
+      }
+    ],
     "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa đo tỷ lệ không gian>"
   },
   "ENVIRONMENT": {
     "camera": "<Góc máy & Cỡ cảnh quang học macro>",
     "setting": "<Không gian kiến trúc hoặc địa điểm thu nhỏ>",
-    "focal_elements": {
-      "prop_1": {
+    "focal_elements": [
+      {
+        "id": "prop_1",
         "item": "<Tên & loại vật thể chính>",
         "material": "<Chất liệu thủ công chế tác>",
         "details": "<Chi tiết tạo tác & bề mặt>"
       },
-      "prop_2": {
+      {
+        "id": "prop_2",
         "item": "<Tùy chọn: Vật thể tương tác thứ hai>",
         "material": "<Chất liệu chế tác>",
         "details": "<Chi tiết tạo tác & bề mặt>"
       }
-    },
+    ],
     "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_1, figure_2 ở đâu so với prop_1, prop_2, tương quan với nhau và tiếp xúc bề mặt ra sao>",
     "backdrop": "<Không gian hậu cảnh xa tạo độ sâu trường ảnh>",
     "real_nature": "<Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh>",
@@ -98,33 +104,32 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 
 #### Khối 1: `STYLE` (Định Hình Thế Giới & Tham Số)
 * **`world`**: Khóa thể loại sa bàn thu nhỏ thủ công (`Handcrafted mixed-media tabletop diorama...`). Cố định ở mọi prompt để chặn ảnh chụp người thật đời thường.
-* **`handcrafted`**: Tự do định danh các chất liệu làm tay cụ thể của cảnh (vải dệt, gỗ gọt, kim loại mờ...). Cấm nhựa bóng, kim loại công nghiệp.
-* **`real_nature`**: Tự do định danh các chất liệu thiên nhiên thật cụ thể theo bối cảnh (rêu, đất, đá, nước, tuyết, cát, lá, ánh nắng...).
 * **`aspect_ratio`**: Tỷ lệ khung hình kỹ thuật (luôn là `"16:9"`).
+*(Khối STYLE cố định 100%, không chứa trường động. Mọi chất liệu thiên nhiên và thủ công cụ thể do ENVIRONMENT và CHARACTERS đảm nhận).*
 
 #### Khối 2: `CHARACTERS` (Quản Lý Nhân Diện Thực Thể)
-* **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến khóa cứng búp bê gỗ toàn thân, mặt vẽ cọ phẳng 2D, mắt có đồng tử mềm (chặn bear eyes), miệng đường mảnh (chặn mất miệng), nhẵn thín không nếp nhăn da thịt, không răng, không má hồng, tay có ngón.
-* **Quy tắc giải phẫu bắt buộc (Không bao giờ bỏ sót người):** Khi có người xuất hiện, **dù máy quay chụp cận cảnh (macro close-up) chỉ lấy thao tác đôi bàn tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật (`figure_1`) từ đầu, tóc, trang phục, đến hướng nhìn**. Việc này giúp AI neo giữ giải phẫu búp bê gỗ nguyên khối thống nhất, triệt tiêu hoàn toàn lỗi tạo ra các bàn tay người thật trôi nổi ma quái (disembodied hands).
-* **`figure_1`, `figure_2` (Thuộc tính tự thân của nhân vật):**
+* **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến làm gốc kế thừa cho toàn bộ nhân vật: búp bê gỗ toàn thân, mặt vẽ cọ phẳng 2D, mắt có đồng tử mềm (chặn bear eyes), miệng đường mảnh (chặn mất miệng), nhẵn thín không nếp nhăn da thịt, không răng, không má hồng, tay có ngón.
+* **`figures` (Mảng đối tượng nhân vật):** Danh sách mảng linh hoạt (1, 2 hoặc nhiều nhân vật tiêu điểm tùy cảnh):
+  - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để trường `staging` gọi tên điều phối.
   - *`role`*: Vai trò & lứa tuổi ước lệ của nhân vật.
+  - *`build`*: Vóc dáng & tỷ lệ hình thể (cao gầy, nhỏ nhắn bằng nửa người lớn, vạm vỡ đẫm đà...). Bắt buộc có để AI phân định chiều cao và thể hình, tránh vẽ các nhân vật to bằng nhau.
   - *`head`*: Hình khối đầu gỗ gọt nhẵn + chất liệu tóc len/sợi dệt + phụ kiện đầu nếu có + nét mặt phẳng 2D tối giản (mắt có đồng tử mềm, nét miệng một đường mảnh duy nhất, zero nếp nhăn da, không răng).
   - *`attire`*: Trang phục vải thủ công phủ kín chân tới giày/ủng tiếp xúc bề mặt.
   - *`action`*: Hành động dở dang của nhân vật (đặc tả thao tác tay nếu là cảnh cận).
   - *`gaze`*: Hướng nhìn chủ đích vào đối tượng cụ thể trong bối cảnh, không nhìn chằm chằm vào máy quay.
+* **Quy tắc giải phẫu bắt buộc:** Khi có người xuất hiện, dù máy quay cận cảnh chỉ lấy thao tác tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật từ đầu, tóc, trang phục, đến hướng nhìn.
 * **`background_figures` (Tùy chọn):** Chấm bóng người tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay quần áo chi tiết.
-* *Biến thể sinh vật / thú cưng:* Chỉ khi cảnh hoàn toàn không có người, mới thay thế `figure_*` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
+* *Biến thể sinh vật / thú cưng:* Chỉ khi cảnh hoàn toàn không có người, mới thay thế `figures` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
 
 #### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
 * **`camera`**: Định vị góc quay và cỡ cảnh quang học macro (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
 * **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ.
-* **`focal_elements` (Vật thể tiền cảnh tương tác chi tiết - tương tự figure_1, 2):** Được định danh và mô tả chi tiết từng vật thể (`prop_1`, `prop_2` nếu có) để AI đắp đủ texture và chất cảm thủ công:
+* **`focal_elements` (Mảng vật thể tương tác chính):** Danh sách mảng các đạo cụ tiền cảnh (`prop_1`, `prop_2`...):
+  - *`id`*: Mã định danh để `staging` gọi tên.
   - *`item`*: Tên và định danh vật thể.
   - *`material`*: Chất liệu chế tác thủ công cụ thể.
   - *`details`*: Chi tiết gia công, thớ vân, độ mòn thời gian, bu-lông đinh tán, độ bóng mờ.
-* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa `figure_1`, `figure_2` với `prop_1`, `prop_2` và mặt đất/bề mặt:
-  - Ai đứng/ngồi ở đâu trên hoặc cạnh `prop_1`?
-  - Ai đang cầm/thao tác trên `prop_2`?
-  - Tư thế bàn chân tiếp xúc bề mặt ra sao?
+* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa các `figure` với các `prop` và mặt đất/bề mặt (ai đứng/ngồi ở đâu, tương tác với đạo cụ nào, tư thế tiếp xúc ra sao).
 * **`backdrop` (Hậu cảnh xa):** Không gian nền phía sau tạo chiều sâu trường ảnh.
 * **`real_nature`**: Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh này.
 * **`lighting`**: Nguồn sáng tự nhiên có hướng rọi cụ thể.
