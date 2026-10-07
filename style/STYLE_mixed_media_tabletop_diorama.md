@@ -67,6 +67,10 @@ handcrafted mixed-media tabletop diorama, macro tilt-shift --ar 16:9
 | `clean`, `seamless`, `polished`, `plastic`, `resin`, `glossy` | Đồ công nghiệp, đồ nhựa bóng | Tên chất liệu thủ công thật (`solid timber`, `felt`, `brass`) |
 | `patchwork`, `patched`, `rags` | Chắp vá nghèo rách rưới | Chỉ ghi rõ: Tên chất liệu + Tên màu sắc |
 | `jointed`, `carved wooden hands`, `stiff` | Tay hình nộm cứng đơ | `simple rounded mitten-shaped hands`, `holding gently` |
+| `two wooden hands`, `hands` đứng một mình | Bàn tay cụt/rời rạc đặt trên bàn | Gắn vào ống tay áo/nhân vật: `[nhân vật] in [áo] with sleeves, hands holding...` |
+| `boots and dress hem swinging` (không người) | Quần áo tàng hình bay lơ lửng | Luôn có nhân vật ngồi/mặc: `an elderly woman seated, kicking boots...` |
+| Nhân vật hậu cảnh thiếu neo (`elderly man watching`) | Trượt thành NGƯỜI THẬT | Luôn gắn neo: `a softly blurred elderly man as a storybook miniature figure with a painted wooden face watching` |
+| `swing with chains` không tả điểm treo | Dây xích đứt đoạn lơ lửng giữa trời | Luôn gắn điểm treo: `suspended by brass chains from the curving branch of an ancient oak tree` |
 | `dark wood face`, `burnt wood`, `dark clay` | Mặt gỗ mục đen cháy | `smooth round light-toned wooden head` |
 | `cinematic lighting`, `dark shadows`, `noir` | Tương phản gắt, u tối | Chọn một nguồn sáng cụ thể ở Mục 5 |
 | `maple leaves`, `pipe`, `knife` | Kích hoạt bộ lọc kiểm duyệt giả | `golden oak leaves`, `wooden flute`, `artisan chisel` |
