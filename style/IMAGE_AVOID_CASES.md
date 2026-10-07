@@ -48,15 +48,34 @@ Cụm từ `smooth rounded wooden hands` hoặc `wooden hands` đứng đơn đ�
 - **Quy tắc:** Cấm tuyệt đối `rounded wooden hands`.
 - **Cú pháp chuẩn:** `delicate carved wooden hands with articulated slender fingers holding [vật]` hoặc `expressive miniature wooden hands with visible delicate fingers`.
 
-## Rule 10. Chống Cụt Thân / Mất Người Khi Ngồi Ghế (Grounded Figurine Stance)
-Cụm từ `waist-up view sitting on a bench` khiến model cắt ngang cơ thể tại thắt lưng, biến nhân vật thành khúc gỗ cụt bị cắm xuống mặt ghế hoặc vùi trong rêu đá mà không có chân (Xem Case Image 1, 3, 5).
-- **Quy tắc:** Cấm dùng `waist-up view` khi nhân vật ngồi trên ghế park bench, thềm đá hay bãi cỏ. Búp bê sa bàn bắt buộc phải thấy trọn vẹn tư thế ngồi tiếp đất:
-  `eye-level medium shot, framing the figures seated side by side on a curved timber bench with visible legs in tailored trousers and small leather boots resting firmly on the mossy flagstones`.
+## Rule 10. Luật Búp Bê Nguyên Khối Tuyệt Đối — CẤM BÁN THÂN (The Absolute Whole-Figurine Law)
+**Tại sao lỗi mất thân dưới / cắm xuống đất cứ lặp đi lặp lại?**
+Vì trong nhiếp ảnh người thật, góc máy `waist-up` (trung cảnh) vẫn có thân dưới ngoài khung hình. Nhưng trên sa bàn đồ chơi (tabletop diorama), búp bê là **VẬT THỂ 3D ĐỘC LẬP**. Khi prompt ghi `waist-up view`, `visible upper body`, hay `upper torso`, diffusion model sẽ **ĐÚC RA MỘT TƯỢNG BÁN THÂN CỤT LỦN** và cắm trực tiếp lên sa bàn $\rightarrow$ kết quả là nhân vật bị chôn vùi ngang ngực trong đất cỏ như củ khoai mọc mầm (Xem Case Image 3)!
+- **LỆNH CẤM TUYỆT ĐỐI:** CẤM 100% các từ: `waist-up`, `visible upper body`, `upper torso`, `half-body`.
+- **QUY TẮC BẮT BUỘC:** 100% cảnh có nhân vật phải dùng **`full-body shot`** hoặc **`framing the complete full-body miniature figures`**. Con búp bê trên sa bàn PHẢI LUÔN NGUYÊN VẸN 100% TỪ ĐẦU ĐẾN CHÂN:
+  - Khi đứng: `standing upright on two feet with visible long legs in tailored wool trousers and small leather boots firmly planted on [mặt đất]`.
+  - Khi ngồi: `seated side-by-side on [ghế] with visible legs in tailored wool trousers and small leather boots resting firmly on the mossy flagstones`.
+  - Khi trên đồi/bãi cỏ: `standing side by side on the grassy hillcrest with their complete full-body silhouettes fully visible from cap to leather boots`.
 
 ## Rule 11. Mặt Truyện Tranh Ấm Áp vs Mặt Dị Hợm / Bowling Pin (Warm Storybook Face Anchor)
-Cụm từ `completely flat painted facial features, minimalist painted crescent eyes` khi đi cùng đầu gỗ trọc sẽ kích hoạt các nét mực đen rạch ngang ma quái, vô hồn như hình nộm voodoo hoặc tượng bowling pin (Xem Case Image 2, 4).
+Cụm từ `completely flat painted facial features, minimalist painted crescent eyes` khi đi cùng đầu gỗ trọc sẽ kích hoạt các nét mực đen rạch ngang ma quái, vô hồn như hình nộm voodoo hoặc tượng bowling pin.
 - **Quy tắc:** Khuôn mặt búp bê dân gian phải được neo bằng tính từ truyện tranh ấm áp, giàu sinh khí:
   `charming hand-painted storybook face with soft warm dark painted eyes, delicate blushed rosy cheeks, and a subtle gentle smile`.
+
+## Rule 12. Luật Mặc Quần Đầy Đủ — Chống "Ở Chuồng" (The Mandatory Trousers Law)
+**Tại sao nhân vật bị "ở chuồng" / chân gỗ trần truồng?**
+Khi prompt ghi `standing with visible long slender legs in small boots`, model đọc thành: **LEGS** (chân gỗ mộc trần trụi) + **BOOTS** (đôi ủng). Chiếc áo khoác dạ chỉ dài ngang đùi, bên dưới không bảo mặc quần gì, nên model vẽ hai thanh gỗ trần truồng cắm vào đôi giày (Xem Case Image 1)!
+- **LỆNH CẤM:** CẤM TUYỆT ĐỐI cụm `legs in boots` đứng đơn độc mà không có quần áo.
+- **QUY TẮC BẮT BUỘC:** Mọi phần thân dưới đều phải có trang phục che phủ:
+  - Nam / bé trai: `visible long legs in [charcoal/brown/navy/olive] tailored wool trousers and small leather boots`.
+  - Nữ / bé gái: `loose pressed felt dress falling to small leather boots` hoặc `tailored wool trousers under a warm felt coat`.
+
+## Rule 13. Luật Che Khuất Không Gian — Chống "Cơ Thể Đứt Đoạn" (Spatial Occlusion Law)
+**Tại sao cơ thể bị cưa đôi, chân lơ lửng dưới đáy sàn?**
+Khi prompt vừa ghi nhân vật đứng sau lan can/bệ đá kín (`behind a curved timber railing / stone platform`), vừa ép model `with visible long legs in small leather boots`. Bệ đá che mất chân, nhưng prompt lại bắt phải thấy chân, model bèn giải quyết bằng cách: vẽ thân trên trên bệ đá, còn đôi chân thì vẽ LÒI RA DƯỚI ĐÁY BỆ ĐÁ LƠ LỬNG TRONG KHÔNG TRUNG (Xem Case Image 2)!
+- **LỆNH CẤM:** Cấm đặt bệ đá dày, lan can kín chắn ngang hông nhân vật mà lại đòi vẽ chân.
+- **QUY TẮC BẮT BUỘC:** Khi ở trên cao (tháp, ban công, cầu đá), nhân vật phải đứng trên **sàn phẳng thoáng (open stone terrace / open wooden deck)** lùi máy quay ra để thấy trọn vẹn toàn thân từ đầu đến ủng đặt trên nền sàn:
+  `standing side by side on an open stone observation terrace with their complete full-body silhouettes visible from head to small boots resting on the stone pavers`.
 
 ---
 
@@ -65,9 +84,12 @@ Các từ dưới đây kéo theo thiên kiến dữ liệu, không suy ra đư�
 
 | Token | Model hiểu thành | Dùng thay |
 |---|---|---|
+| `visible legs in boots` (không quần) | "Ở chuồng", chân gỗ trần truồng không mặc quần | `visible long legs in [charcoal/brown/navy] tailored wool trousers and small leather boots` |
+| `waist-up`, `visible upper body`, `upper torso` | Tượng bán thân cụt cắm xuống đất như củ khoai | `eye-level full-body shot, complete full-body miniature figures standing/seated with visible legs in tailored trousers and small boots` |
+| `behind railing with visible legs` | Cưa đôi người, chân lơ lửng dưới đáy sàn tháp | `standing side by side on an open stone observation terrace with their complete full-body silhouettes visible from head to boots` |
 | `smooth rounded wooden hands`, `wooden hands` | Cục tròn xoe Doraemon, bóng gỗ cụt không ngón | `delicate carved wooden hands with articulated slender fingers holding...` |
 | `smooth oval wooden head` (không tóc/mũ) | Đầu trọc lốc như bóng đèn, quả trứng gỗ | `smooth light-toned wooden head crowned with styled [màu] wool hair under a [mũ/cap/beret]` |
-| `waist-up view sitting on a bench` | Cụt nửa người, khúc gỗ cắm xuống ghế | `medium shot framing the figures seated with visible legs in trousers and small boots resting on the ground` |
+| `waist-up view sitting on a bench` | Cụt nửa người, khúc gỗ cắm xuống ghế | `full-body shot framing the figures seated with visible legs in tailored trousers and small boots resting firmly on the ground` |
 | `completely flat painted facial features, crescent eyes` (đơn độc) | Mắt rạch vệt đen dị hợm, bowling pin vô hồn | `charming hand-painted storybook face, soft warm dark painted eyes, delicate blushed rosy cheeks, subtle gentle smile` |
 | `puppet`, `doll`, `joints`, `seams`, `stitched` | Khớp cơ khí, đường khâu | `claymation figure`, `continuous organic arms` |
 | `photorealistic`, `photo`, `skin texture`, `pores`, `veins`, `detailed skin` | Da người thật | `smooth satin-matte painted clay` |
