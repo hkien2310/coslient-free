@@ -36,7 +36,15 @@ Phong cách mô phỏng một sa bàn nghệ thuật thu nhỏ kết hợp giữ
 ---
 
 ## 5. Quy Chuẩn Prompt Định Dạng JSON (Object-in-Object)
-Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Toàn bộ giá trị (values) điền vào JSON prompt bắt buộc phải viết bằng tiếng Anh chuẩn. Gồm 4 khối chức năng:
+Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Toàn bộ giá trị (values) điền vào JSON prompt bắt buộc phải viết bằng tiếng Anh chuẩn.
+
+### Nguyên Tắc Hiện Diện Theo Nhu Cầu & Tả Triệt Để (Presence-on-Demand & Exhaustive Definition)
+* **Khối Bắt Buộc Cố Định (Mandatory):** `STYLE` và `ENVIRONMENT` luôn luôn hiện diện 100% ở mọi prompt.
+* **Khối Có Điều Kiện (Conditional On-Demand):**
+  * **`CHARACTERS`**: Chỉ xuất hiện khi cảnh **thực sự có con người**. Có người thì BẮT BUỘC phải tả trọn vẹn theo schema (`dna`, `figures` hoặc `background_figures`). Tuyệt đối không nhắc người lơ lửng ở `staging`. Cảnh KHÔNG CÓ NGƯỜI thì **triệt để lược bỏ** khối `CHARACTERS` (không để khối rỗng, chặn 100% rò rỉ giải phẫu người).
+  * **`CREATURES`**: Chỉ xuất hiện khi cảnh **thực sự có động vật/thú đồng hành**. Đã có thì BẮT BUỘC phải tả đầy đủ (`role`, `build`, `material`, `action`, `gaze`). Cảnh không có động vật thì **triệt để lược bỏ**.
+  * **`motion`**: Chỉ xuất hiện khi cảnh có động lực học môi trường (lá bay, khói bốc, gió lay...).
+  * **`SURREAL`**: Chỉ xuất hiện khi cảnh có yếu tố biến tấu kỳ ảo mộc mạc.
 
 ### 5.1. Khung Cấu Trúc Cho Một Prompt Độc Lập
 
@@ -115,13 +123,13 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 
 ### 5.2. Quy Tắc Chi Tiết Từng Trường (Field Rules)
 
-#### Khối 1: `STYLE` (Định Hình Thế Giới & Tham Số)
+#### Khối 1 (Bắt buộc): `STYLE` (Định Hình Thế Giới & Tham Số)
 * **`world`**: Khóa thể loại sa bàn thu nhỏ thủ công (`Handcrafted mixed-media tabletop diorama...`). Cố định ở mọi prompt để chặn ảnh chụp người thật đời thường.
 * **`palette`**: Khóa cứng bảng màu nhận diện và chất ảnh trong sáng (`Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood`). Cố định xuyên suốt toàn bộ dự án để chống ảnh ám đục, bết đen hoặc sai lệch phong cách.
 * **`aspect_ratio`**: Tỷ lệ khung hình kỹ thuật (luôn là `"16:9"`).
 *(Khối STYLE cố định 100%, không chứa trường động. Mọi chất liệu thiên nhiên và thủ công cụ thể do ENVIRONMENT và CHARACTERS đảm nhận).*
 
-#### Khối 2: `CHARACTERS` (Quản Lý Nhân Diện Thực Thể)
+#### Khối Có Điều Kiện: `CHARACTERS` (Quản Lý Nhân Diện Thực Thể — Chỉ có khi có người)
 * **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến làm gốc kế thừa cho toàn bộ nhân vật: búp bê gỗ toàn thân, mặt vẽ cọ phẳng 2D, mắt có đồng tử mềm (chặn bear eyes), miệng đường mảnh (chặn mất miệng), nhẵn thín không nếp nhăn da thịt, không răng, không má hồng, tay có ngón.
 * **`figures` (Mảng đối tượng nhân vật):** Danh sách mảng linh hoạt (1, 2 hoặc nhiều nhân vật tiêu điểm tùy cảnh):
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để trường `staging` gọi tên điều phối.
@@ -134,7 +142,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 * **Quy tắc giải phẫu bắt buộc:** Khi có người xuất hiện, dù máy quay cận cảnh chỉ lấy thao tác tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật từ đầu, tóc, trang phục, đến hướng nhìn.
 * **Toàn vẹn tham chiếu thực thể (Chống nhân vật ma):** Mọi đối tượng trong `action`, `gaze`, `staging` bắt buộc phải có ID khai báo (`figure_*`, `creature_*`, `prop_*`). Cấm tuyệt đối dùng danh từ lửng lơ (`companion`, `wife`...) nếu không có ID. Cảnh đơn chỉ tương tác với môi trường/đạo cụ.
 * **`background_figures` (Tùy chọn):** Chấm bóng người hoặc đàn thú tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay trang phục chi tiết.
-#### Khối Tùy Chọn: `CREATURES` (Sinh Vật & Thú Đồng Hành Thủ Công)
+#### Khối Có Điều Kiện: `CREATURES` (Sinh Vật & Thú Đồng Hành Thủ Công — Chỉ có khi có động vật)
 *(Chỉ xuất hiện khi cảnh có thú nuôi, gia súc hoặc thú rừng tương tác chính. Hoàn toàn cách ly khỏi `CHARACTERS.dna` để triệt tiêu lỗi rò rỉ giải phẫu người).*
 * **Độc lập chất liệu:** Tự do định danh chất liệu thủ công đặc thù của sinh vật tại trường `material`; triệt tiêu hoàn toàn lỗi AI vẽ bàn tay người hay nét mặt búp bê gỗ lên con vật.
 * **Cảnh ngụ ngôn (chỉ có động vật):** Khi cảnh chỉ có muông thú sinh hoạt, sử dụng khối `CREATURES` và lược bỏ hoàn toàn khối `CHARACTERS`.
@@ -146,7 +154,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   - *`action`*: Hành động dở dang cụ thể.
   - *`gaze`*: Hướng nhìn có chủ đích.
 
-#### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
+#### Khối 2 (Bắt buộc): `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
 * **`camera`**: Định vị góc quay và cỡ cảnh quang học macro phù hợp với bối cảnh.
 * **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ.
 * **`focal_elements` (Mảng vật thể tương tác chính):** Danh sách mảng các đạo cụ tiền cảnh (`prop_1`, `prop_2`...):
@@ -160,5 +168,5 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 * **`lighting`**: Nguồn sáng tự nhiên có hướng rọi cụ thể.
 * **`motion` (Tùy chọn):** Yếu tố động lực học môi trường.
 
-#### Khối 4: `SURREAL` (Sai Lệch Thị Giác & Yếu Tố Kỳ Ảo Mộc Mạc)
+#### Khối Có Điều Kiện: `SURREAL` (Sai Lệch Thị Giác & Yếu Tố Kỳ Ảo Mộc Mạc — Tùy chọn)
 * **`quirk`**: Một chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ duyên dáng.
