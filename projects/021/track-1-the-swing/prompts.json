@@ -27,8 +27,19 @@
     "ENVIRONMENT": {
       "camera": "Macro tilt-shift, eye-level full-body shot",
       "setting": "Curved pathway in a miniature autumn village park",
-      "focal_elements": "Handcrafted curved timber park bench with fine woodgrain and brass rivets",
-      "staging": "figure_1 seated center-left and figure_2 seated center-right side-by-side on the curved timber bench, facing slightly toward each other; both of their feet firmly planted on the gravel path",
+      "focal_elements": {
+        "prop_1": {
+          "item": "Curved timber park bench",
+          "material": "Turned steam-bent ash wood, beaten brass rivets",
+          "details": "Warm satin beeswax finish, visible organic grain, curved armrests, resting flat on gravel"
+        },
+        "prop_2": {
+          "item": "Steaming roasted sweet potato",
+          "material": "Real miniature baked tuber with charred skin, bright orange flesh",
+          "details": "Wrapped in crinkled brown parchment paper, split open with delicate white steam"
+        }
+      },
+      "staging": "figure_1 seated center-left and figure_2 seated center-right side-by-side on prop_1, angled slightly toward each other; figure_1 holds prop_2 while figure_2 reaches out; both of their boots firmly planted on gravel path",
       "backdrop": "Softly blurred ancient oak tree and distant timber cottage gables",
       "real_nature": "Real damp earth, scattered dry golden oak leaves, mossy stone basin",
       "lighting": "Warm low golden-hour backlight casting soft elongated shadows across gravel",
@@ -67,8 +78,19 @@
     "ENVIRONMENT": {
       "camera": "Macro tilt-shift, eye-level full-body shot",
       "setting": "Undulating grassy hillock overlooking an expansive autumn valley",
-      "focal_elements": "A low moss-covered drystone wall corner marking the hillcrest path",
-      "staging": "figure_1 standing center on the grassy crest beside the drystone wall with boots planted firmly on the turf; figure_2 standing immediately to figure_1's right, angled upward looking at the launched glider",
+      "focal_elements": {
+        "prop_1": {
+          "item": "Low drystone wall corner",
+          "material": "Rough-hewn miniature limestone blocks, living green moss cushions",
+          "details": "Mortarless rustic drystone stacking, weathered edges with tiny lichen specks, marking hillcrest path"
+        },
+        "prop_2": {
+          "item": "Miniature balsa-wood glider",
+          "material": "Ultra-thin shaved blond balsa wood, tiny brass counterweight pin",
+          "details": "Delicate curved dihedral wings, paper-thin rudder, soaring gracefully on invisible air currents"
+        }
+      },
+      "staging": "figure_1 standing center on the grassy crest beside prop_1 with boots planted firmly on turf; figure_2 standing immediately to figure_1's right, angled upward looking at prop_2 banking overhead",
       "backdrop": "Expansive miniature valley with patchwork fields, tiny distant timber barns, and rolling ridges",
       "real_nature": "Real living moss patches, weathered quartz pebbles, dry autumn moorland grasses",
       "lighting": "Clear airy afternoon daylight with crisp soft shadows",
@@ -87,17 +109,31 @@
       "aspect_ratio": "16:9"
     },
     "CHARACTERS": {
-      "dna": "Master artisan craftsmanship, delicate carved wooden hands emerging from tailored linen sleeves",
-      "hands": {
-        "artisan": "Master woodcarver",
-        "action": "Using a miniature curved brass drawknife to shave thin curls of blond timber from a linden-wood block"
+      "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, minimalist face without blushed cheeks, articulated hands",
+      "figure_1": {
+        "role": "Master woodcarver artisan",
+        "head": "Softly rectangular wooden head, neatly carved wooden beard, chestnut wool hair under a working leather flat cap",
+        "attire": "Rolled-up natural linen workshirt, dark brown heavy twill artisan apron with brass grommets, tailored charcoal wool trousers",
+        "action": "Seated over workbench, using delicate carved wooden hands to draw a miniature curved brass drawknife across a linden-wood block",
+        "gaze": "Intense downward concentration, eyes focused directly on the wood grain and blade"
       }
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, extreme close-up shot",
-      "setting": "Artisan woodcraft studio interior beside a wide open casement window",
-      "focal_elements": "Rustic solid oak workbench, curling wood shavings, small glass inkpots, brass calipers",
-      "staging": "Artisan wooden hands positioned centrally over the oak workbench, firmly gripping the miniature drawknife and timber block",
+      "camera": "Macro tilt-shift, close-up shot focused on artisan hands and workbench, upper body and head in frame",
+      "setting": "Artisan woodcraft studio interior beside a wide open sunlit casement window",
+      "focal_elements": {
+        "prop_1": {
+          "item": "Solid oak joiner workbench",
+          "material": "Heavy rustic oak timber, cast iron bench dogs, polished brass screw clamp",
+          "details": "Surface marked with gentle chisel gouges, satin oiled woodgrain, brass measuring ruler inlaid along front edge"
+        },
+        "prop_2": {
+          "item": "Carving block and brass drawknife",
+          "material": "Blond linden-wood carving block, miniature curved beaten brass blade with pearwood handles",
+          "details": "Crisp translucent ribbons of shaved timber curling gently off the block onto the tabletop"
+        }
+      },
+      "staging": "figure_1 seated firmly behind prop_1 leaning forward over the table; both carved wooden hands firmly gripping prop_2 in mid-stroke; feet resting flat on the workshop floorboards",
       "backdrop": "Sunlit timber casement window frame opening onto autumn foliage",
       "real_nature": "Deeply textured real oak grain, fine aromatic wood curls, tiny pot of beeswax polish",
       "lighting": "Soft morning daylight raking across the benchtop highlighting airborne dust motes",
@@ -125,8 +161,19 @@
     "ENVIRONMENT": {
       "camera": "Macro tilt-shift, low-angle medium shot",
       "setting": "Base of the ancient monumental oak tree in the village clearing",
-      "focal_elements": "A handcrafted timber plank swing suspended by fine brass chains gently swaying above",
-      "staging": "The miniature cat curled soundly in the center foreground nestled directly into the mossy tree roots, with the empty timber plank swing hanging directly above it in mid-air",
+      "focal_elements": {
+        "prop_1": {
+          "item": "Handcrafted timber plank swing",
+          "material": "Curved cedar wood board, aged twisted brass link chains",
+          "details": "Burnished smooth seat edge with brass ring fittings, suspended from ancient oak bough, swaying empty"
+        },
+        "prop_2": {
+          "item": "Ancient mossy root cradle",
+          "material": "Massive gnarled oak wood roots, deep damp soil, emerald cushion moss",
+          "details": "A natural curved hollow forming a cozy moss-lined bed directly beneath the swaying swing"
+        }
+      },
+      "staging": "The miniature creature curled soundly asleep in the center hollow of prop_2 nestled into damp moss, with empty prop_1 gently swaying directly above it in mid-air",
       "backdrop": "Massive gnarled oak trunk and filtered canopy of golden leaves",
       "real_nature": "Real damp soil, velvety green moss cushions, an abandoned pair of tiny leather boots, open pocketbook",
       "lighting": "Warm glowing amber sunset beams slanting through thick gnarled oak branches",

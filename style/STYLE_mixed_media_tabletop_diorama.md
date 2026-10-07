@@ -93,8 +93,19 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   "ENVIRONMENT": {
     "camera": "<Góc máy & Cỡ cảnh: macro close-up / eye-level full-body / back-view / wide>",
     "setting": "<Không gian kiến trúc hoặc địa điểm thu nhỏ>",
-    "focal_elements": "<Vật thể tương tác chính tại tiền cảnh: ghế dài, bàn mộc, xích đu, giếng đá>",
-    "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_1 ở đâu so với focal_elements, vị trí tương quan với figure_2, chân cả hai tiếp đất ra sao>",
+    "focal_elements": {
+      "prop_1": {
+        "item": "<Tên & loại vật thể chính: ghế dài cong / bàn mộc / xích đu>",
+        "material": "<Chất liệu thủ công chi tiết: gỗ tiện tay, đồng thau mờ, mộng gỗ, dây thừng gai>",
+        "details": "<Chi tiết tạo tác & bề mặt: thớ vân gỗ uốn, góc mài bóng vec-ni, đinh tán, vết thời gian>"
+      },
+      "prop_2": {
+        "item": "<Tùy chọn: Vật thể tương tác thứ hai: củ khoai nướng, máy bay balsa, khối gỗ>",
+        "material": "<Chất liệu chế tác>",
+        "details": "<Chi tiết bề mặt & tạo hình>"
+      }
+    },
+    "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_1, figure_2 ở đâu so với prop_1, prop_2, tương quan với nhau và tiếp xúc bề mặt ra sao>",
     "backdrop": "<Không gian hậu cảnh xa: thung lũng sương, triền đồi, nóc nhà nhấp nhô>",
     "real_nature": "<Chất liệu tự nhiên thật thu nhỏ: thảm rêu ẩm, sỏi cuội, lá khô, vỏ cây xù xì>",
     "lighting": "<Nguồn sáng cụ thể: nắng sớm sương mai, nắng chiều tà xiên thấp, đèn lồng hổ phách>",
@@ -118,22 +129,27 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 
 #### Khối 2: `CHARACTERS` (Quản Lý Nhân Diện Thực Thể)
 * **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến khóa cứng búp bê gỗ nguyên khối tiếp đất, có tóc & nón, mặt mộc không má hồng, tay có ngón.
+* **Quy tắc giải phẫu bắt buộc (Không bao giờ bỏ sót người):** Khi có người xuất hiện, **dù máy quay chụp cận cảnh (macro close-up) chỉ lấy thao tác đôi bàn tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật (`figure_1`) từ đầu (`head`), mũ, trang phục (`attire`), đến hướng nhìn (`gaze`)**. Việc này giúp AI neo giữ giải phẫu búp bê gỗ nguyên khối thống nhất, triệt tiêu hoàn toàn lỗi tạo ra các bàn tay người thật trôi nổi ma quái (disembodied hands).
 * **`figure_1`, `figure_2` (Thuộc tính tự thân của nhân vật):**
   - *`role`*: Vai trò & lứa tuổi ước lệ (thợ mộc, cụ già, thiếu nữ, cậu bé).
   - *`head`*: Hình khối đầu gỗ gọt nhẵn (chữ nhật, oval, thon dài) + kiểu tóc len + loại mũ/nón che đỉnh đầu.
   - *`attire`*: Trang phục đa dạng chất liệu (dạ sần tweed, nỉ ép, vải lanh, áo len dệt) + quần len may đo suông dài phủ thẳng ủng da hoặc váy dạ dài rủ chạm ủng.
-  - *`action`*: Hành động dở dang của nhân vật.
+  - *`action`*: Hành động dở dang của nhân vật (đặc tả thao tác tay nếu là cảnh cận).
   - *`gaze`*: Hướng nhìn cụ thể và thần thái tĩnh tại (nhìn bạn đồng hành, cúi nhìn đồ đang làm, nhìn ra thung lũng), không nhìn chằm chằm vào máy quay.
 * **`background_figures` (Tùy chọn):** Chấm bóng người tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay quần áo chi tiết.
-* *Các biến thể cảnh đặc biệt:*
-  - Cận cảnh bàn tay: Thay `figure_*` bằng `hands: { "artisan": "<loại thợ>", "action": "<thao tác cụ thể>" }`.
-  - Thú cưng / Tĩnh vật: Thay `figure_*` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
+* *Biến thể sinh vật / thú cưng:* Chỉ khi cảnh hoàn toàn không có người, mới thay thế `figure_*` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
 
 #### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
 * **`camera`**: Định vị góc quay và cỡ cảnh quang học (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
 * **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ (hiên nhà gỗ uốn, xưởng mộc mở toang nhìn ra thung lũng, góc công viên mùa thu).
-* **`focal_elements` (Vật thể tiền cảnh tương tác):** Đồ vật chính mà nhân vật chạm vào hoặc ngồi lên (chiếc ghế timber cong, chiếc bàn mộc, xích đu dây thau, bệ giếng đá). Chặn đứng lỗi lơ lửng hoặc cưa người.
-* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi gọi tên `figure_1`, `figure_2` và định vị mối quan hệ không gian chính xác với `focal_elements` và với nhau (ví dụ: `figure_1 ngồi bên trái ghế, nghiêng 3/4 về phía figure_2 ngồi bên phải, cả hai chân đặt vững trên mặt đất sỏi`).
+* **`focal_elements` (Vật thể tiền cảnh tương tác chi tiết - tương tự figure_1, 2):** Được định danh và mô tả chi tiết từng vật thể (`prop_1`, `prop_2` nếu có) để AI đắp đủ texture và chất cảm thủ công:
+  - *`item`*: Tên và định danh vật thể (ghế dài cong, bàn thợ mộc, xích đu dây đồng, bệ tường đá).
+  - *`material`*: Chất liệu chế tác thủ công chuẩn sa bàn (gỗ sồi già gọt tay, đồng thau xỉn màu, dây bện gai, mộng gỗ).
+  - *`details`*: Chi tiết gia công, thớ vân, độ mòn thời gian, vết sáp ong vec-ni, bu-lông đinh tán, độ bóng mờ.
+* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa `figure_1`, `figure_2` với `prop_1`, `prop_2` và mặt đất/bề mặt:
+  - Ai đứng/ngồi ở đâu trên hoặc cạnh `prop_1`?
+  - Ai đang cầm/thao tác trên `prop_2`?
+  - Tư thế bàn chân tiếp đất/tiếp xúc bề mặt ra sao?
 * **`backdrop` (Hậu cảnh xa):** Không gian nền phía sau tạo chiều sâu (thung lũng mờ sương, rừng sồi vàng xa, các mái nhà nhấp nhô).
 * **`real_nature`**: Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh này (thảm rêu ẩm, sỏi cuội, lá khô giòn, vỏ cây xù xì).
 * **`lighting`**: Nguồn sáng tự nhiên cụ thể (nắng sớm sương mai, nắng vàng mật xiên thấp, ánh đèn lồng hổ phách đêm chạng vạng).
