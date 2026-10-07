@@ -8,17 +8,17 @@
       "aspect_ratio": "16:9"
     },
     "CHARACTERS": {
-      "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, expressive painted eyes with soft pupils, delicate painted mouth line, minimalist face without blushed cheeks, articulated hands",
+      "dna": "Stylized wooden folk art figurine, tall slender proportions, smooth turned wooden head under headwear, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
       "figure_1": {
         "role": "Young artisan man",
-        "head": "Softly rectangular wooden head, chestnut wool hair under a tweed flat cap, expressive painted eyes with soft pupils, gentle resting mouth line under subtle carved nose",
+        "head": "Softly rectangular wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
         "attire": "Slate tweed vest, rolled linen sleeves, tailored charcoal wool trousers falling straight to small leather boots",
         "action": "Using delicate carved wooden hands to break open a steaming roasted sweet potato in parchment wrap",
         "gaze": "Gentle downward focus on the warm food"
       },
       "figure_2": {
         "role": "Young companion woman",
-        "head": "Slender oval wooden head, auburn yarn hair under a knit beret, expressive painted eyes with soft pupils, serene painted smile line",
+        "head": "Slender oval wooden head, auburn yarn hair under a knit beret, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
         "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
         "action": "Reaching out both hands gently to accept half of the sweet potato",
         "gaze": "Looking with warm affection at companion"
@@ -58,17 +58,17 @@
       "aspect_ratio": "16:9"
     },
     "CHARACTERS": {
-      "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, expressive painted eyes with soft pupils, delicate painted mouth line, minimalist face without blushed cheeks, articulated hands",
+      "dna": "Stylized wooden folk art figurine, tall slender proportions, smooth turned wooden head under headwear, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
       "figure_1": {
         "role": "Elderly scholar",
-        "head": "Narrow elongated oval wooden head, flaxen-white hair under a tweed flat cap, tiny brass spectacles over expressive painted eyes with soft pupils, subtle carved nose, delicate painted mouth line in a calm contemplative closed expression",
+        "head": "Narrow elongated oval wooden head, flaxen-white hair under a tweed flat cap, tiny brass spectacles, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
         "attire": "Tailored slate wool coat, tailored slate-gray wool trousers falling straight to small leather boots",
         "action": "Delicate carved wooden hands gently releasing a miniature balsa-wood glider into the air",
         "gaze": "Calm thoughtful gaze tracking the toy plane as it catches the breeze"
       },
       "figure_2": {
         "role": "Young village boy",
-        "head": "Softly rounded wooden head, flaxen hair under a knit beret, expressive painted eyes with soft dark pupils and delicate brows, small rounded open mouth expressing joyful wonder",
+        "head": "Softly rounded wooden head, flaxen hair under a knit beret, flat minimalist painted face with soft dark pupils and a tiny single-line mouth, zero skin wrinkles, no teeth",
         "attire": "Mustard ribbed wool sweater, tailored navy corduroy trousers, small boots",
         "action": "Pointing upward with one carved wooden hand, jumping slightly on grounded feet",
         "gaze": "Looking upward in wonder watching the glider soar"
@@ -109,10 +109,10 @@
       "aspect_ratio": "16:9"
     },
     "CHARACTERS": {
-      "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, expressive painted eyes with soft pupils, delicate painted mouth line, minimalist face without blushed cheeks, articulated hands",
+      "dna": "Stylized wooden folk art figurine, tall slender proportions, smooth turned wooden head under headwear, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
       "figure_1": {
         "role": "Master woodcarver artisan",
-        "head": "Softly rectangular wooden head, neatly carved wooden beard, chestnut wool hair under a working leather flat cap, focused painted eyes with soft pupils, calm determined mouth line",
+        "head": "Softly rectangular wooden head, neatly carved wooden beard, chestnut wool hair under a working leather flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
         "attire": "Rolled-up natural linen workshirt, dark brown heavy twill artisan apron with brass grommets, tailored charcoal wool trousers",
         "action": "Seated over workbench, using delicate carved wooden hands to draw a miniature curved brass drawknife across a linden-wood block",
         "gaze": "Intense downward concentration, eyes focused directly on the wood grain and blade"
@@ -152,32 +152,42 @@
       "aspect_ratio": "16:9"
     },
     "CHARACTERS": {
-      "dna": "Folk art handcrafted miniature creature, felted wool texture, sleeping calmly",
-      "creature": {
-        "type": "Miniature sleeping calico cat",
-        "posture": "Curled up in a peaceful ball sleeping soundly on the mossy root flare of the ancient oak"
+      "dna": "Stylized wooden folk art figurine, tall slender proportions, smooth turned wooden head under headwear, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figure_1": {
+        "role": "Elderly village man",
+        "head": "Smooth elongated oval wooden head, flaxen-white wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line mouth, zero skin wrinkles, no teeth",
+        "attire": "Tailored slate tweed coat, tailored charcoal wool trousers falling straight to small leather boots",
+        "action": "Standing beside the swing with one delicate carved wooden hand resting on the brass swing chain",
+        "gaze": "Serene downward gaze looking warmly toward companion"
+      },
+      "figure_2": {
+        "role": "Elderly companion woman",
+        "head": "Smooth oval wooden head, silver wool hair under a dusty-rose knit bonnet, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
+        "attire": "Dusty-rose pressed felt dress falling to small leather boots",
+        "action": "Seated upon the timber plank swing with both carved wooden hands holding the brass chains, legs swinging forward into the air",
+        "gaze": "Looking forward with peaceful quiet joy as the swing sways"
       }
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, low-angle medium shot",
+      "camera": "Macro tilt-shift, eye-level medium-wide shot",
       "setting": "Base of the ancient monumental oak tree in the village clearing",
       "focal_elements": {
         "prop_1": {
           "item": "Handcrafted timber plank swing",
           "material": "Curved cedar wood board, aged twisted brass link chains",
-          "details": "Burnished smooth seat edge with brass ring fittings, suspended from ancient oak bough, swaying empty"
+          "details": "Burnished smooth seat edge with brass ring fittings, suspended from ancient oak bough, swaying gently in mid-air"
         },
         "prop_2": {
-          "item": "Ancient mossy root cradle",
-          "material": "Massive gnarled oak wood roots, deep damp soil, emerald cushion moss",
-          "details": "A natural curved hollow forming a cozy moss-lined bed directly beneath the swaying swing"
+          "item": "Ancient monumental oak tree",
+          "material": "Massive gnarled oak trunk, deeply creviced bark, spreading canopy of golden leaves",
+          "details": "Root flare covered in emerald cushion moss and dry golden oak leaves on damp soil"
         }
       },
-      "staging": "The miniature creature curled soundly asleep in the center hollow of prop_2 nestled into damp moss, with empty prop_1 gently swaying directly above it in mid-air",
-      "backdrop": "Massive gnarled oak trunk and filtered canopy of golden leaves",
-      "real_nature": "Real damp soil, velvety green moss cushions, an abandoned pair of tiny leather boots, open pocketbook",
+      "staging": "figure_1 standing grounded on the mossy earth beside prop_1 with one hand resting on its chain; figure_2 seated on prop_1 with legs swinging forward in mid-air beneath the canopy of prop_2",
+      "backdrop": "Filtered canopy of golden leaves and soft distant autumn clearing",
+      "real_nature": "Real damp soil, velvety green moss cushions, crisp scattered golden oak leaves",
       "lighting": "Warm glowing amber sunset beams slanting through thick gnarled oak branches",
-      "motion": "A single golden oak leaf drifting slowly down toward the sleeping cat"
+      "motion": "Golden oak leaves drifting down through the warm air around the swinging figure"
     },
     "SURREAL": {
       "quirk": "Delicate brass swing chains terminating in tiny leaf-shaped carved hooks anchored directly into the living wood"
