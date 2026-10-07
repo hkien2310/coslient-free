@@ -6,7 +6,7 @@ Phong cách mô phỏng một sa bàn nghệ thuật thu nhỏ kết hợp giữ
 ---
 
 ## 1. Thế Giới Hai Lớp (Two-Layer Materiality)
-* **Lớp tạo tác (Chế tác thủ công):** Mọi thực thể nhân tạo (nhân vật, kiến trúc, vật dụng) bắt buộc chế tác từ vật liệu mộc thủ công. Cấm vật liệu công nghiệp, nhựa bóng hoặc kim loại sáng bóng hiện đại.
+* **Lớp tạo tác (Chế tác thủ công & Xúc cảm thô mộc):** Mọi thực thể nhân tạo (nhân vật, kiến trúc, vật dụng) bắt buộc chế tác từ vật liệu mộc thủ công. Ưu tiên bề mặt nhám mờ tự nhiên (matte), vết đẽo cọ thủ công, hạt vân gỗ li ti và xơ vải thô; triệt tiêu hoàn toàn hiệu ứng bóng bẩy của đồ họa 3D vi tính (CGI render), nhựa bóng hoặc kim loại đúc khuôn công nghiệp.
 * **Lớp môi trường (Thiên nhiên thật thu nhỏ):** Toàn bộ không gian cảnh quan sử dụng chất liệu thiên nhiên thật ở tỷ lệ thu nhỏ và ánh sáng tự nhiên thật. Tuyệt đối không dùng phông nền nhân tạo, cỏ giả hay hoa nhựa.
 
 ---
@@ -34,7 +34,7 @@ Phong cách mô phỏng một sa bàn nghệ thuật thu nhỏ kết hợp giữ
 ---
 
 ## 5. Quy Chuẩn Prompt Định Dạng JSON (Object-in-Object)
-Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Gồm 4 khối chức năng:
+Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Toàn bộ giá trị (values) điền vào JSON prompt bắt buộc phải viết bằng tiếng Anh chuẩn. Gồm 4 khối chức năng:
 
 ### 5.1. Khung Cấu Trúc Cho Một Prompt Độc Lập
 
@@ -67,7 +67,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
         "gaze": "<Hướng nhìn đối ứng>"
       }
     ],
-    "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa đo tỷ lệ không gian>"
+    "background_figures": "<Tùy chọn: Chấm bóng người hoặc đàn thú tí hon ở hậu cảnh xa đo tỷ lệ không gian>"
   },
   "ENVIRONMENT": {
     "camera": "<Góc máy & Cỡ cảnh quang học macro>",
@@ -87,8 +87,8 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
       }
     ],
     "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_1, figure_2 ở đâu so với prop_1, prop_2, tương quan với nhau và tiếp xúc bề mặt ra sao>",
-    "backdrop": "<Không gian hậu cảnh xa tạo độ sâu trường ảnh>",
-    "real_nature": "<Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh>",
+    "real_nature": "<Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc (đất mùn ẩm, rêu sống, sỏi, lá khô)>",
+    "backdrop": "<Không gian cảnh quan xa ngoài vùng lấy nét tạo độ sâu trường ảnh>",
     "lighting": "<Nguồn sáng tự nhiên có hướng rọi cụ thể>",
     "motion": "<Tùy chọn: Yếu tố động lực học môi trường>"
   },
@@ -118,8 +118,8 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   - *`action`*: Hành động dở dang của nhân vật (đặc tả thao tác tay nếu là cảnh cận).
   - *`gaze`*: Hướng nhìn chủ đích vào đối tượng cụ thể trong bối cảnh, không nhìn chằm chằm vào máy quay.
 * **Quy tắc giải phẫu bắt buộc:** Khi có người xuất hiện, dù máy quay cận cảnh chỉ lấy thao tác tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật từ đầu, tóc, trang phục, đến hướng nhìn.
-* **`background_figures` (Tùy chọn):** Chấm bóng người tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay quần áo chi tiết.
-* *Biến thể sinh vật / thú cưng:* Chỉ khi cảnh hoàn toàn không có người, mới thay thế `figures` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
+* **`background_figures` (Tùy chọn):** Chấm bóng người hoặc đàn thú tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay trang phục chi tiết.
+* **Xử lý Sinh vật & Thú cưng thủ công:** Mọi loài thú (chó, mèo, ngỗng, cú mèo, ngựa lùn...) nếu là nhân vật tương tác chính sẽ nằm trực tiếp trong mảng `figures` với vai trò và chất liệu chế tác tương ứng (gỗ đẽo, tai nỉ, chuông đồng, dây da...). Không cần rẽ nhánh schema.
 
 #### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
 * **`camera`**: Định vị góc quay và cỡ cảnh quang học macro (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
@@ -130,8 +130,8 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   - *`material`*: Chất liệu chế tác thủ công cụ thể.
   - *`details`*: Chi tiết gia công, thớ vân, độ mòn thời gian, bu-lông đinh tán, độ bóng mờ.
 * **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa các `figure` với các `prop` và mặt đất/bề mặt (ai đứng/ngồi ở đâu, tương tác với đạo cụ nào, tư thế tiếp xúc ra sao).
-* **`backdrop` (Hậu cảnh xa):** Không gian nền phía sau tạo chiều sâu trường ảnh.
-* **`real_nature`**: Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh này.
+* **`real_nature` (Tiền & Trung cảnh tiếp xúc):** Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc trực tiếp với nhân vật và đạo cụ (đất mùn ẩm, rêu sống, sỏi cuội, lá khô).
+* **`backdrop` (Hậu cảnh xa mờ quang học):** Không gian cảnh quan ở cự ly xa nằm ngoài vùng lấy nét (ngọn cây xa xôi, sườn đồi mờ sương, mái nhà mờ ảo) tạo chiều sâu trường ảnh tilt-shift.
 * **`lighting`**: Nguồn sáng tự nhiên có hướng rọi cụ thể.
 * **`motion` (Tùy chọn):** Yếu tố động lực học môi trường.
 
