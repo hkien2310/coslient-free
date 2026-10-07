@@ -7,15 +7,10 @@
       "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
       "aspect_ratio": "16:9"
     },
-    "SCENE": {
-      "camera": "Macro tilt-shift, eye-level full-body shot",
-      "focus": "Young artisan couple seated side-by-side sharing roasted sweet potato"
-    },
     "CHARACTERS": {
       "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, minimalist face without blushed cheeks, articulated hands",
       "figure_1": {
         "role": "Young artisan man",
-        "position": "Seated center-left on curved timber bench, feet resting firmly on gravel path",
         "head": "Softly rectangular wooden head, chestnut wool hair under a tweed flat cap",
         "attire": "Slate tweed vest, rolled linen sleeves, tailored charcoal wool trousers falling straight to small leather boots",
         "action": "Using delicate carved wooden hands to break open a steaming roasted sweet potato in parchment wrap",
@@ -23,7 +18,6 @@
       },
       "figure_2": {
         "role": "Young companion woman",
-        "position": "Seated center-right beside companion, feet touching ground",
         "head": "Slender oval wooden head, auburn yarn hair under a knit beret",
         "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
         "action": "Reaching out both hands gently to accept half of the sweet potato",
@@ -31,8 +25,10 @@
       }
     },
     "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level full-body shot",
       "setting": "Curved pathway in a miniature autumn village park",
       "focal_elements": "Handcrafted curved timber park bench with fine woodgrain and brass rivets",
+      "staging": "figure_1 seated center-left and figure_2 seated center-right side-by-side on the curved timber bench, facing slightly toward each other; both of their feet firmly planted on the gravel path",
       "backdrop": "Softly blurred ancient oak tree and distant timber cottage gables",
       "real_nature": "Real damp earth, scattered dry golden oak leaves, mossy stone basin",
       "lighting": "Warm low golden-hour backlight casting soft elongated shadows across gravel",
@@ -50,15 +46,10 @@
       "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
       "aspect_ratio": "16:9"
     },
-    "SCENE": {
-      "camera": "Macro tilt-shift, eye-level full-body shot",
-      "focus": "Elderly scholar and young village boy launching a toy glider from hill crest"
-    },
     "CHARACTERS": {
       "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, minimalist face without blushed cheeks, articulated hands",
       "figure_1": {
         "role": "Elderly scholar",
-        "position": "Standing center on grassy crest, visible long legs planted firmly on the turf",
         "head": "Narrow elongated oval wooden head, flaxen-white hair under a tweed flat cap, tiny brass spectacles",
         "attire": "Tailored slate wool coat, tailored slate-gray wool trousers falling straight to small leather boots",
         "action": "Delicate carved wooden hands gently releasing a miniature balsa-wood glider into the air",
@@ -66,7 +57,6 @@
       },
       "figure_2": {
         "role": "Young village boy",
-        "position": "Standing immediately to the elder's right, nimble youthful posture",
         "head": "Softly rounded wooden head, flaxen hair under a knit beret",
         "attire": "Mustard ribbed wool sweater, tailored navy corduroy trousers, small boots",
         "action": "Pointing upward with one carved wooden hand, jumping slightly on grounded feet",
@@ -75,8 +65,10 @@
       "background_figures": "Distant tiny miniature sheep grazing peacefully beside low drystone walls"
     },
     "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level full-body shot",
       "setting": "Undulating grassy hillock overlooking an expansive autumn valley",
       "focal_elements": "A low moss-covered drystone wall corner marking the hillcrest path",
+      "staging": "figure_1 standing center on the grassy crest beside the drystone wall with boots planted firmly on the turf; figure_2 standing immediately to figure_1's right, angled upward looking at the launched glider",
       "backdrop": "Expansive miniature valley with patchwork fields, tiny distant timber barns, and rolling ridges",
       "real_nature": "Real living moss patches, weathered quartz pebbles, dry autumn moorland grasses",
       "lighting": "Clear airy afternoon daylight with crisp soft shadows",
@@ -94,10 +86,6 @@
       "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
       "aspect_ratio": "16:9"
     },
-    "SCENE": {
-      "camera": "Macro tilt-shift, extreme close-up shot",
-      "focus": "Delicate carved artisan hands shaving blond timber on oak workbench"
-    },
     "CHARACTERS": {
       "dna": "Master artisan craftsmanship, delicate carved wooden hands emerging from tailored linen sleeves",
       "hands": {
@@ -106,8 +94,10 @@
       }
     },
     "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, extreme close-up shot",
       "setting": "Artisan woodcraft studio interior beside a wide open casement window",
       "focal_elements": "Rustic solid oak workbench, curling wood shavings, small glass inkpots, brass calipers",
+      "staging": "Artisan wooden hands positioned centrally over the oak workbench, firmly gripping the miniature drawknife and timber block",
       "backdrop": "Sunlit timber casement window frame opening onto autumn foliage",
       "real_nature": "Deeply textured real oak grain, fine aromatic wood curls, tiny pot of beeswax polish",
       "lighting": "Soft morning daylight raking across the benchtop highlighting airborne dust motes",
@@ -125,19 +115,18 @@
       "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
       "aspect_ratio": "16:9"
     },
-    "SCENE": {
-      "camera": "Macro tilt-shift, low-angle medium shot",
-      "focus": "Empty wooden plank swing swaying gently above a sleeping cat"
-    },
     "CHARACTERS": {
+      "dna": "Folk art handcrafted miniature creature, felted wool texture, sleeping calmly",
       "creature": {
         "type": "Miniature sleeping calico cat",
         "posture": "Curled up in a peaceful ball sleeping soundly on the mossy root flare of the ancient oak"
       }
     },
     "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, low-angle medium shot",
       "setting": "Base of the ancient monumental oak tree in the village clearing",
       "focal_elements": "A handcrafted timber plank swing suspended by fine brass chains gently swaying above",
+      "staging": "The miniature cat curled soundly in the center foreground nestled directly into the mossy tree roots, with the empty timber plank swing hanging directly above it in mid-air",
       "backdrop": "Massive gnarled oak trunk and filtered canopy of golden leaves",
       "real_nature": "Real damp soil, velvety green moss cushions, an abandoned pair of tiny leather boots, open pocketbook",
       "lighting": "Warm glowing amber sunset beams slanting through thick gnarled oak branches",

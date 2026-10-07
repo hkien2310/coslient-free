@@ -59,7 +59,7 @@ Biểu cảm của búp bê nghệ thuật dân gian không dựa vào cơ mặt
 
 ## 5. Quy Chuẩn Prompt Định Dạng JSON (Object-in-Object)
 
-Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Bạn có thể copy bất kỳ object nào trong file `prompts.json` ném thẳng vào công cụ tạo ảnh mà không sợ thiếu thông tin Style hay vỡ giải phẫu:
+Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Gồm 4 khối chức năng tối giản, trong đó `ENVIRONMENT` đóng vai trò dàn cảnh không gian và điều khiển máy quay:
 
 ### 5.1. Khung Cấu Trúc Cho Một Prompt Độc Lập
 
@@ -72,23 +72,17 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
     "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
     "aspect_ratio": "16:9"
   },
-  "SCENE": {
-    "camera": "<Góc máy & Cỡ cảnh: macro close-up / eye-level full-body / back-view / wide>",
-    "focus": "<Tiêu điểm thị giác: vật thể hoặc tương tác chính máy quay bắt trọn>"
-  },
   "CHARACTERS": {
     "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, minimalist face without blushed cheeks, articulated hands",
     "figure_1": {
       "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
-      "position": "<Vị trí & bố cục: foreground left / center / 1/3 right / seated on focal prop>",
       "head": "<Hình khối đầu (chữ nhật / oval / thon dài) + kiểu tóc len + loại mũ che đỉnh đầu>",
       "attire": "<Trang phục & chất vải (tweed / nỉ / lanh) + quần suông dài phủ ủng da hoặc váy rủ>",
-      "action": "<Hành động dở dang có điểm tựa vật lý vững chắc>",
+      "action": "<Hành động dở dang của nhân vật>",
       "gaze": "<Hướng nhìn & thần thái: nhìn bạn đồng hành / cúi nhìn đồ đang làm / nhìn xa xăm>"
     },
     "figure_2": {
       "role": "<Nhân vật thứ hai nếu có trong cảnh>",
-      "position": "<Vị trí tương quan với figure_1>",
       "head": "<Hình khối đầu + tóc + mũ>",
       "attire": "<Trang phục & chất liệu>",
       "action": "<Hành động tương tác>",
@@ -97,8 +91,10 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
     "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa tít tắp, không tả mặt/áo>"
   },
   "ENVIRONMENT": {
-    "setting": "<Không gian kiến trúc hoặc địa điểm cụ thể>",
+    "camera": "<Góc máy & Cỡ cảnh: macro close-up / eye-level full-body / back-view / wide>",
+    "setting": "<Không gian kiến trúc hoặc địa điểm thu nhỏ>",
     "focal_elements": "<Vật thể tương tác chính tại tiền cảnh: ghế dài, bàn mộc, xích đu, giếng đá>",
+    "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_1 ở đâu so với focal_elements, vị trí tương quan với figure_2, chân cả hai tiếp đất ra sao>",
     "backdrop": "<Không gian hậu cảnh xa: thung lũng sương, triền đồi, nóc nhà nhấp nhô>",
     "real_nature": "<Chất liệu tự nhiên thật thu nhỏ: thảm rêu ẩm, sỏi cuội, lá khô, vỏ cây xù xì>",
     "lighting": "<Nguồn sáng cụ thể: nắng sớm sương mai, nắng chiều tà xiên thấp, đèn lồng hổ phách>",
@@ -114,25 +110,30 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 
 ### 5.2. Quy Tắc Chi Tiết Từng Trường (Field Rules)
 
-#### Khối 1: `SCENE` (Máy Quay & Tiêu Điểm)
-* **`camera`**: Định vị góc quay và cỡ cảnh quang học (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
-* **`focus`**: Điểm nhấn thị giác chính mà máy quay hướng vào (ví dụ: tương tác giữa hai người trên ghế dài, hoặc đôi bàn tay thao tác trên bàn mộc).
+#### Khối 1: `STYLE` (Định Hình Thế Giới & Tham Số)
+* **`world`**: Khóa thể loại sa bàn thu nhỏ thủ công (`Handcrafted mixed-media tabletop diorama...`). Cố định ở mọi prompt để chặn ảnh chụp người thật đời thường.
+* **`handcrafted`**: Định danh các chất liệu làm tay (gỗ tiện, dạ nỉ ép, vải lanh, đồng thau mờ, gỗ uốn). Cấm nhựa bóng, kim loại công nghiệp.
+* **`real_nature`**: Định danh các chất liệu thiên nhiên thật thu nhỏ (rêu ẩm, đất mùn, sỏi cuội, lá khô giòn, ánh nắng thật).
+* **`aspect_ratio`**: Tỷ lệ khung hình kỹ thuật (luôn là `"16:9"`).
 
-#### Khối 2: `CHARACTERS` (Quản Lý Nhân Vật Động)
-* **`position` (Bắt buộc cho nhân vật chính):** Định vị vị trí và hướng đứng/ngồi trong khung hình (`seated center on timber bench`, `standing foreground left, angled 3/4 toward center`). Đảm bảo nhân vật có điểm tựa vật lý vững chắc.
-* **`role`**: Vai trò và tính cách ước lệ (thợ mộc, cụ già, thiếu nữ, cậu bé).
-* **`head`**: Hình khối đầu gỗ gọt nhẵn (chữ nhật, oval, thon dài) + kiểu tóc len + loại mũ/nón che kín đỉnh đầu.
-* **`attire`**: Trang phục đa dạng chất liệu (dạ sần tweed, nỉ ép, vải lanh, áo len dệt) + quần len may đo suông dài phủ thẳng ủng da hoặc váy dạ dài rủ chạm ủng.
-* **`action`**: Hành động dở dang gắn liền với điểm tựa vật lý vững chắc.
-* **`gaze`**: Hướng nhìn cụ thể và trạng thái cảm xúc tĩnh tại (nhìn bạn đồng hành, cúi nhìn đồ đang làm, nhìn ra thung lũng), không nhìn chằm chằm vào máy quay.
+#### Khối 2: `CHARACTERS` (Quản Lý Nhân Diện Thực Thể)
+* **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến khóa cứng búp bê gỗ nguyên khối tiếp đất, có tóc & nón, mặt mộc không má hồng, tay có ngón.
+* **`figure_1`, `figure_2` (Thuộc tính tự thân của nhân vật):**
+  - *`role`*: Vai trò & lứa tuổi ước lệ (thợ mộc, cụ già, thiếu nữ, cậu bé).
+  - *`head`*: Hình khối đầu gỗ gọt nhẵn (chữ nhật, oval, thon dài) + kiểu tóc len + loại mũ/nón che đỉnh đầu.
+  - *`attire`*: Trang phục đa dạng chất liệu (dạ sần tweed, nỉ ép, vải lanh, áo len dệt) + quần len may đo suông dài phủ thẳng ủng da hoặc váy dạ dài rủ chạm ủng.
+  - *`action`*: Hành động dở dang của nhân vật.
+  - *`gaze`*: Hướng nhìn cụ thể và thần thái tĩnh tại (nhìn bạn đồng hành, cúi nhìn đồ đang làm, nhìn ra thung lũng), không nhìn chằm chằm vào máy quay.
 * **`background_figures` (Tùy chọn):** Chấm bóng người tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay quần áo chi tiết.
 * *Các biến thể cảnh đặc biệt:*
   - Cận cảnh bàn tay: Thay `figure_*` bằng `hands: { "artisan": "<loại thợ>", "action": "<thao tác cụ thể>" }`.
   - Thú cưng / Tĩnh vật: Thay `figure_*` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
 
-#### Khối 3: `ENVIRONMENT` (Bối Cảnh & Phân Tầng Vật Lý)
-* **`setting`**: Tên địa điểm hoặc không gian kiến trúc thu nhỏ (hiên nhà gỗ uốn, xưởng mộc mở toang nhìn ra thung lũng, góc công viên mùa thu).
+#### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
+* **`camera`**: Định vị góc quay và cỡ cảnh quang học (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
+* **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ (hiên nhà gỗ uốn, xưởng mộc mở toang nhìn ra thung lũng, góc công viên mùa thu).
 * **`focal_elements` (Vật thể tiền cảnh tương tác):** Đồ vật chính mà nhân vật chạm vào hoặc ngồi lên (chiếc ghế timber cong, chiếc bàn mộc, xích đu dây thau, bệ giếng đá). Chặn đứng lỗi lơ lửng hoặc cưa người.
+* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi gọi tên `figure_1`, `figure_2` và định vị mối quan hệ không gian chính xác với `focal_elements` và với nhau (ví dụ: `figure_1 ngồi bên trái ghế, nghiêng 3/4 về phía figure_2 ngồi bên phải, cả hai chân đặt vững trên mặt đất sỏi`).
 * **`backdrop` (Hậu cảnh xa):** Không gian nền phía sau tạo chiều sâu (thung lũng mờ sương, rừng sồi vàng xa, các mái nhà nhấp nhô).
 * **`real_nature`**: Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh này (thảm rêu ẩm, sỏi cuội, lá khô giòn, vỏ cây xù xì).
 * **`lighting`**: Nguồn sáng tự nhiên cụ thể (nắng sớm sương mai, nắng vàng mật xiên thấp, ánh đèn lồng hổ phách đêm chạng vạng).
