@@ -81,6 +81,11 @@ Cả video phải là một hành trình ánh sáng và thời gian chuyển đ�
 - **2 Trụ Cột Viết Prompt (Bắt buộc):**
   + **Tả máy quay chụp cái gì:** Mở đầu luôn định vị cỡ cảnh, góc máy và tiêu điểm máy quay đang bắt trọn (`[Shot type] focusing on / framing [focal target]`). Mọi vật thể treo/đung đưa/chịu lực phải có điểm neo vật lý rõ ràng.
   + **Luôn tả người (Host Entity):** Không bao giờ để bộ phận cơ thể (tay, chân) hay trang phục đứng lẻ loi làm chủ ngữ. Mọi chi tiết cận cảnh đều phải gắn chặt với một nhân vật búp bê cụ thể (`an elderly woman as a stylized storybook miniature figure, her hands emerging from wool sleeves...`). Mọi nhân vật phụ ở hậu cảnh đều phải bọc nhãn `companion miniature figure`.
+- **4 Điều Răn Bất Biến Tạo Hình Búp Bê Sa Bàn:**
+  1. *Khóa cứng Tóc/Mũ (Chống đầu trọc):* Mọi đầu gỗ bắt buộc phải có tóc và/hoặc nón: `smooth light-toned wooden head crowned with styled [auburn/chestnut/gray] needle-felted wool hair under a tailored [flat cap/beret/bonnet]`. Cấm để đầu gỗ trơ trọi.
+  2. *Bàn tay có ngón (Chống tay cục Doraemon):* Dùng `delicate carved wooden hands with articulated slender fingers holding [vật]`. Cấm tuyệt đối `smooth rounded wooden hands`.
+  3. *Thân thể cắm rễ tiếp đất (Chống cụt người / mất thân):* Cấm dùng `waist-up view sitting on a bench`. Khi ngồi ghế/đứng phải dùng `medium shot framing the figures from the knees up, seated with visible legs in trousers and small boots resting on the ground`.
+  4. *Gương mặt truyện tranh ấm áp (Chống mặt ma quái):* Dùng `charming hand-painted storybook face with soft warm dark painted eyes, delicate blushed rosy cheeks, and a subtle gentle smile`.
 - **Tỷ lệ sinh khí (Vitality Ratio):**
   + Tối thiểu 70% số ảnh có nhân vật chuyển động hoặc tương tác tình cảm.
   + Tối đa 10–15% cảnh tĩnh vật; không xếp 2 cảnh tĩnh vật liên tiếp.

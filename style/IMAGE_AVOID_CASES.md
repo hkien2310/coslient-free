@@ -37,7 +37,26 @@ Khi nhân vật hậu cảnh chỉ được mô tả hành động trừu tượ
 Gọi tên khuyết tật là gọi nó ra. Từ ngữ mô tả quá trình hay vật liệu thô kéo theo dấu vết thô.
 - Tả thành phẩm (`smooth light-toned wooden head`), không tả công cụ cắt gọt nguyên liệu (`carved`, `chiseled`).
 - Sửa câu khẳng định tích cực. Không dùng `--no` (bộ lọc phủ định không hiệu quả trên diffusion models).
-- Không dùng từ ngữ cảm xúc nặng nề kéo theo tông màu đen tối (`dark`, `gloomy`, `lonely`).
+## Rule 8. Khóa Cứng Tóc & Mũ — Chống Đầu Trọc Lốc (The Mandatory Hair & Headwear Anchor)
+Khi prompt chỉ ghi `smooth oval wooden head` mà quên tả tóc hoặc mũ, diffusion model sẽ hiểu theo nghĩa đen là quả cầu gỗ tiện trần trụi, trọc lốc như quả trứng hoặc bóng đèn bowling (Xem Case Image 2, 3, 4, 5).
+- **Quy tắc:** Bất kỳ nhân vật nào (nam, nữ, già, trẻ, nghệ nhân) BẮT BUỘC phải có tóc và/hoặc mũ nón đi liền ngay sau đầu gỗ:
+  `smooth light-toned wooden head crowned with styled [auburn / chestnut / gray / flaxen] needle-felted wool hair under a tailored [flat cap / beret / bonnet / hood]`.
+- **Tuyệt đối cấm:** Để cụm `smooth [round/oval] wooden head` đứng trơ trọi mà không có tóc hay mũ che phủ.
+
+## Rule 9. Chống Bàn Tay Cục Doraemon (Articulated Fingers vs Spherical Stubs)
+Cụm từ `smooth rounded wooden hands` hoặc `wooden hands` đứng đơn độc khiến AI vẽ một khối cầu tròn vo bằng gỗ không ngón, y hệt bàn tay Doraemon hoặc núm cửa tròn (Xem Case Image 1, 3).
+- **Quy tắc:** Cấm tuyệt đối `rounded wooden hands`.
+- **Cú pháp chuẩn:** `delicate carved wooden hands with articulated slender fingers holding [vật]` hoặc `expressive miniature wooden hands with visible delicate fingers`.
+
+## Rule 10. Chống Cụt Thân / Mất Người Khi Ngồi Ghế (Grounded Figurine Stance)
+Cụm từ `waist-up view sitting on a bench` khiến model cắt ngang cơ thể tại thắt lưng, biến nhân vật thành khúc gỗ cụt bị cắm xuống mặt ghế hoặc vùi trong rêu đá mà không có chân (Xem Case Image 1, 3, 5).
+- **Quy tắc:** Cấm dùng `waist-up view` khi nhân vật ngồi trên ghế park bench, thềm đá hay bãi cỏ. Búp bê sa bàn bắt buộc phải thấy trọn vẹn tư thế ngồi tiếp đất:
+  `eye-level medium shot, framing the figures seated side by side on a curved timber bench with visible legs in tailored trousers and small leather boots resting firmly on the mossy flagstones`.
+
+## Rule 11. Mặt Truyện Tranh Ấm Áp vs Mặt Dị Hợm / Bowling Pin (Warm Storybook Face Anchor)
+Cụm từ `completely flat painted facial features, minimalist painted crescent eyes` khi đi cùng đầu gỗ trọc sẽ kích hoạt các nét mực đen rạch ngang ma quái, vô hồn như hình nộm voodoo hoặc tượng bowling pin (Xem Case Image 2, 4).
+- **Quy tắc:** Khuôn mặt búp bê dân gian phải được neo bằng tính từ truyện tranh ấm áp, giàu sinh khí:
+  `charming hand-painted storybook face with soft warm dark painted eyes, delicate blushed rosy cheeks, and a subtle gentle smile`.
 
 ---
 
@@ -46,6 +65,10 @@ Các từ dưới đây kéo theo thiên kiến dữ liệu, không suy ra đư�
 
 | Token | Model hiểu thành | Dùng thay |
 |---|---|---|
+| `smooth rounded wooden hands`, `wooden hands` | Cục tròn xoe Doraemon, bóng gỗ cụt không ngón | `delicate carved wooden hands with articulated slender fingers holding...` |
+| `smooth oval wooden head` (không tóc/mũ) | Đầu trọc lốc như bóng đèn, quả trứng gỗ | `smooth light-toned wooden head crowned with styled [màu] wool hair under a [mũ/cap/beret]` |
+| `waist-up view sitting on a bench` | Cụt nửa người, khúc gỗ cắm xuống ghế | `medium shot framing the figures seated with visible legs in trousers and small boots resting on the ground` |
+| `completely flat painted facial features, crescent eyes` (đơn độc) | Mắt rạch vệt đen dị hợm, bowling pin vô hồn | `charming hand-painted storybook face, soft warm dark painted eyes, delicate blushed rosy cheeks, subtle gentle smile` |
 | `puppet`, `doll`, `joints`, `seams`, `stitched` | Khớp cơ khí, đường khâu | `claymation figure`, `continuous organic arms` |
 | `photorealistic`, `photo`, `skin texture`, `pores`, `veins`, `detailed skin` | Da người thật | `smooth satin-matte painted clay` |
 | `wrinkles`, `crevices`, `aged skin` | Mặt nứt kiểu xác ướp | `soft sculptural planes, kind smile` |
