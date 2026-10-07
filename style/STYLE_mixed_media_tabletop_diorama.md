@@ -60,6 +60,12 @@ Một prompt chuẩn luôn giải quyết đồng thời 2 câu hỏi cốt lõi
 handcrafted mixed-media tabletop diorama, macro tilt-shift --ar 16:9
 ```
 
+**4 Lưu ý thép khi ráp công thức (Chặn đứng lỗi biến dạng thực tế):**
+1. **Neo tức thì từng cá thể (Cấm neo trễ):** Mỗi nhân vật khi gọi tên phải bọc ngay `as a stylized whimsical storybook miniature figure`. Tuyệt đối không để `both as...` ở cuối câu khi có từ 2 người. Nhân vật chính trong cận cảnh cũng bắt buộc phải có nhãn búp bê gỗ ngay lập tức.
+2. **Khớp cỡ cảnh & thân thể (Khử mất thân):** Cảnh cận trung (`medium close-up`) bắt buộc phải ghi `waist-up view... with visible upper torsos`. Cấm dùng từ `tall` đơn độc khi không có chân.
+3. **Phân bậc phối cảnh (Khử người sau to hơn người trước):** Nhân vật hậu cảnh bắt buộc phải có từ khóa khoảng cách `in the far distant background, tiny miniature figures...`.
+4. **Toàn vẹn tư thế hậu cảnh (Khử mất chân):** Nhân vật phụ phải có tư thế cơ thể hoàn chỉnh gắn với điểm tựa (`standing upright beside the oak trunk with visible legs in boots` hoặc `seated upon a bench`).
+
 ## 7. Từ điển Token chuyển dịch
 | Token gây lỗi | Model hiểu thành | Thay bằng cụm chuẩn |
 |---|---|---|

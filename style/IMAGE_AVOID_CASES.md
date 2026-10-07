@@ -5,35 +5,35 @@ Model ảnh đọc prompt theo nghĩa đen, gắn tính từ vào danh từ gầ
 
 ---
 
-## Rule 1. Thực thể Chủ quyền bất biến (Host Entity Invariance — "Luôn tả người")
-Không bao giờ để bộ phận cơ thể (tay, chân, mắt), trang phục (giày, váy, áo), hoặc hành động vi mô đứng đơn độc làm chủ ngữ của prompt.
-- Bất kỳ cận cảnh nào (tay bóc hạt dẻ, chân đung đưa, tay gõ búa, tà áo bay) **bắt buộc phải khai báo nhân vật búp bê chủ quyền** ngay trong câu: `an elderly woman as a stylized storybook miniature figure, her simple rounded wooden hands emerging from wool sleeves to...`.
-- *Hệ quả cơ chế:* Nếu bỏ qua người mà tả bộ phận rời rạc (`two wooden hands cracking a bag`), AI sẽ vẽ bàn tay ma-nơ-canh bị cưa cụt rời rạc đặt trên bàn. Nếu chỉ tả `boots kicking in the air`, AI sẽ vẽ đôi ủng tàng hình bay lơ lửng không người.
+## Rule 1. Thực thể Chủ quyền & Khớp Cỡ cảnh Thân thể (Host Entity & Torso Boundary)
+- Không bao giờ để bộ phận cơ thể (tay, chân, mắt), trang phục (giày, váy, áo), hoặc hành động vi mô đứng đơn độc làm chủ ngữ của prompt. Bất kỳ cận cảnh nào cũng phải gắn chặt với một nhân vật búp bê chủ quyền đầy đủ (`an elderly woman as a stylized storybook miniature figure, her hands emerging from wool cuffs...`).
+- **Khử lỗi mất thân:** Cận cảnh trung (`Medium close-up`) chỉ lấy từ thắt lưng trở lên. Bắt buộc phải khai báo tư thế phần thân trên (`waist-up view... with visible upper torsos in tailored wool coats standing chest-to-chest`). **Tuyệt đối cấm dùng từ `tall` đơn độc trong cận cảnh khi không có chân**, vì AI sẽ bị xung đột giữa chiều cao và góc cận, dẫn đến việc vùi dập thân thể dưới đất và chỉ vẽ đầu mọc lên từ thảm lá.
 
-## Rule 2. Ống kính & Điểm neo vật lý (Camera Target & Structural Anchor — "Tả máy quay chụp cái gì")
-- Câu mở đầu phải định hình góc máy và **tiêu điểm cụ thể mà máy quay đang bắt trọn** (`[Cỡ cảnh + Góc máy] focusing on / capturing [vật thể/hành vi tiêu điểm]`).
-- Mọi vật thể treo, đung đưa, lơ lửng hoặc chịu lực (dây xích đu, lồng đèn, dây phơi, khinh khí cầu) **phải có điểm neo vật lý liên kết trong tầm nhìn của máy quay** (ví dụ: `suspended by brass chains from the thick lower branch of an ancient oak tree`).
-- *Hệ quả cơ chế:* Nếu viết `a swing with brass chains` mà không tả điểm treo, dây xích sẽ bị đứt đoạn lơ lửng giữa trời xanh.
+## Rule 2. Neo Tức Thì Từng Cá Thể — Cấm Neo Trễ (Immediate Individual Bracketing)
+Diffusion models xử lý văn bản tuần tự từ trái sang phải. Bất kỳ danh từ người nào (`young man`, `wife`, `elderly woman`, `craftsman`) xuất hiện lần đầu tiên mà không có nhãn phong cách đi kèm NGAY LẬP TỨC sẽ bị model khởi tạo thành **NGƯỜI THẬT ĐỜI THƯỜNG**.
+- **Cấm neo trễ:** Tuyệt đối không viết một loạt nhân vật rồi mới chốt `both as tall storybook miniature figures` ở cuối câu. Cụm ở cuối không thể ghi đè nhân vật đã bị biến thành người thật ở đầu câu.
+- **Quy tắc:** Mỗi nhân vật khi được gọi tên phải được bọc ngay lập tức: `a young man as a stylized whimsical storybook miniature figure... pulling his wife, also a miniature figure in a felt dress...`.
+- Cấm bỏ quên nhãn ở nhân vật chính trong cận cảnh (`focusing on the swinging motion of an elderly woman...` $\rightarrow$ biến bà cụ thành người thật ngay lập tức).
 
-## Rule 3. Đóng băng phong cách mọi nhân vật trong khung (Universal Character Bracketing)
-Mọi danh từ chỉ người xuất hiện trong prompt (`man`, `woman`, `child`, `companion`, `craftsman`) dù ở tiền cảnh, trung cảnh hay mờ ở hậu cảnh (`background`) **bắt buộc phải được bọc nhãn phong cách búp bê ngay lập tức**:
-- Dùng: `[nhân vật] as a stylized storybook miniature figure with a painted wooden face`.
-- Cảnh có người hậu cảnh: `in the soft-focus background a companion miniature elderly figure watching with a gentle painted smile`.
-- *Hệ quả cơ chế:* Diffusion models có thiên kiến mặc định biến các danh từ người thông thường (`elderly man watching`) thành NGƯỜI THẬT ĐỜI THƯỜNG. Không bao giờ thả lỏng một danh từ người đứng trơ trọi.
+## Rule 3. Phân Bậc Phối Cảnh Chiều Sâu (Depth Gradient & Scale Anchoring)
+Khung hình `--ar 16:9` rất rộng theo chiều ngang. Nếu đưa 2 nhóm nhân vật vào cùng một shot toàn cảnh mà không khóa khoảng cách hình học, AI sẽ dàn đều bố cục và vẽ nhóm hậu cảnh to ngang ngửa hoặc to hơn nhóm tiền cảnh.
+- Nhân vật hậu cảnh **bắt buộc phải có từ khóa khoảng cách và tỷ lệ rõ ràng**: `in the far distant background, a tiny miniature elderly couple seated on a faraway bench with painted wooden faces`.
+- Tiền cảnh là trọng tâm (`in the foreground`), hậu cảnh phải là "tiny / far-off".
 
-## Rule 4. Chỉ tả cái ống kính thấy & Không mâu thuẫn tín hiệu
-Mọi thứ được viết ra sẽ bị ép vẽ ra.
-- Nhìn xuống đất/bàn: không tả trời.
-- Ngước nhìn lên: không tả chi tiết dưới mặt đất.
-- Cận cảnh nửa người: không tả quần, giày hay mặt đường.
-- Một bề mặt chỉ có một tính chất (mịn phẳng hoặc sần sùi, không cả hai).
+## Rule 4. Toàn Vẹn Tư Thế Nhân Vật Hậu Cảnh (Explicit Stance Anchor)
+Khi nhân vật hậu cảnh chỉ được mô tả hành động trừu tượng như `watching with a smile` mà không có tư thế chân/chỗ đứng, AI sẽ chỉ vẽ phần đầu hoặc nửa thân trên lấp ló, cắm luôn nhân vật xuống đất dẫn đến mất chân.
+- **Quy tắc:** Mọi nhân vật hậu cảnh muốn thấy rõ dáng người phải có tư thế cơ thể hoàn chỉnh gắn với một điểm tựa cụ thể: `standing upright beside the great oak trunk with visible legs in boots` hoặc `seated securely upon a distant timber bench`.
 
-## Rule 5. Vị trí token & Tính từ tỷ lệ là cục bộ
+## Rule 5. Ống kính & Điểm neo vật lý (Camera Target & Structural Anchor)
+- Câu mở đầu phải định hình góc máy và **tiêu điểm cụ thể mà máy quay đang bắt trọn** (`[Cỡ cảnh + Góc máy] focusing on / framing [vật thể/hành vi tiêu điểm]`).
+- Mọi vật thể treo, đung đưa, lơ lửng hoặc chịu lực (dây xích đu, lồng đèn, dây phơi, khinh khí cầu) **phải có điểm neo vật lý liên kết trong tầm nhìn của máy quay** (ví dụ: `suspended by brass chains from the thick lower branch of an ancient oak tree`). Nếu không tả cành cây, dây xích sẽ bị đứt đoạn lơ lửng giữa trời.
+
+## Rule 6. Vị trí token & Tính từ tỷ lệ là cục bộ
 - Tính từ chất liệu (`needle-felted`, `linen`, `timber`) chỉ đứng sát danh từ nó thuộc về.
 - Các từ `miniature`, `tiny`, `small` co danh từ ngay sau nó lại, không co cả thế giới. Không gắn tính từ tỷ lệ cho thứ nhân vật đứng lên, ngồi vào hay dùng bằng cả người (cầu, thuyền, bàn, nhà, ban công). Tả theo công năng: `in natural proportion`.
 - Suffix áp lên mọi pixel: chỉ chứa thuộc tính toàn cảnh (phong cách, ống kính, tỉ lệ khung). Không nhét chất liệu hay giờ trong ngày vào suffix.
 
-## Rule 6. Tả trạng thái mong muốn, không gọi tên khuyết tật
+## Rule 7. Tả trạng thái mong muốn, không gọi tên khuyết tật
 Gọi tên khuyết tật là gọi nó ra. Từ ngữ mô tả quá trình hay vật liệu thô kéo theo dấu vết thô.
 - Tả thành phẩm (`smooth light-toned wooden head`), không tả công cụ cắt gọt nguyên liệu (`carved`, `chiseled`).
 - Sửa câu khẳng định tích cực. Không dùng `--no` (bộ lọc phủ định không hiệu quả trên diffusion models).
