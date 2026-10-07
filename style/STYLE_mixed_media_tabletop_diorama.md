@@ -28,6 +28,7 @@ Phong cách mô phỏng một sa bàn nghệ thuật thu nhỏ kết hợp giữ
 
 ## 4. Không Gian & Điện Ảnh (Cinematography & Space)
 * **Nguyên lý đường cong hữu cơ (Organic Curves):** Không gian, kiến trúc và đồ vật ưu tiên đường nét uốn lượn mềm mại, bất đối xứng tự nhiên. Hạn chế đường thẳng tắp và góc hộp vuông vức cơ khí.
+* **Bố cục & Khoảng thở thị giác (Framing & Negative Space):** Khung hình ưu tiên sự cân bằng thị giác và khoảng thở tự nhiên theo hướng nhìn của nhân vật; linh hoạt giữa bố cục đăng đối mộc mạc (centered) và bố cục một phần ba (rule of thirds), tuyệt đối không nhồi nhét dày đặc làm mất cảm giác khoáng đạt của tiểu cảnh sa bàn.
 * **Quang học sa bàn (Macro Tilt-Shift):** Sử dụng ống kính macro tilt-shift với độ sâu trường ảnh mỏng để tôn vinh tỷ lệ thế giới thu nhỏ và chất cảm bề mặt vật liệu.
 * **Ánh sáng tự nhiên định hướng:** Nguồn sáng phải có phương hướng và góc rọi rõ rệt, tạo bóng đổ mềm mại nhằm khắc họa khối tích và xúc cảm không gian.
 
@@ -51,7 +52,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
       {
         "id": "figure_1",
         "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
-        "build": "<Vóc dáng & tỷ lệ hình thể: cao gầy hơi khom / nhỏ nhắn / vạm vỡ>",
+        "build": "<Vóc dáng & tỷ lệ tương quan hình thể>",
         "head": "<Hình khối đầu + chất liệu tóc + phụ kiện đầu nếu có + mặt phẳng 2D không nếp nhăn, không răng>",
         "attire": "<Trang phục vải thủ công phủ kín chân tới giày/ủng>",
         "action": "<Hành động dở dang cụ thể>",
@@ -60,7 +61,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
       {
         "id": "figure_2",
         "role": "<Tùy chọn: Vai trò nhân vật thứ hai>",
-        "build": "<Vóc dáng & tỷ lệ tương quan với figure_1>",
+        "build": "<Vóc dáng & tỷ lệ tương quan hình thể>",
         "head": "<Hình khối đầu + tóc + phụ kiện + mặt phẳng 2D>",
         "attire": "<Trang phục vải thủ công che kín da thịt>",
         "action": "<Hành động tương tác>",
@@ -73,8 +74,8 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
     {
       "id": "creature_1",
       "role": "<Tùy chọn: Loài thú & vai trò đồng hành>",
-      "build": "<Tỷ lệ hình thể so với nhân vật hoặc bối cảnh>",
-      "material": "<Chất liệu chế tác thủ công riêng: gỗ đẽo, tai nỉ, lông len...>",
+      "build": "<Tỷ lệ hình thể tương quan>",
+      "material": "<Chất liệu thủ công chế tác riêng biệt>",
       "action": "<Hành động dở dang cụ thể>",
       "gaze": "<Hướng nhìn chủ đích>"
     }
@@ -96,8 +97,8 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
         "details": "<Chi tiết tạo tác & bề mặt>"
       }
     ],
-    "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_*, creature_*, prop_* tương quan với nhau và tiếp xúc bề mặt ra sao>",
-    "real_nature": "<Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc (đất mùn ẩm, rêu sống, sỏi, lá khô)>",
+    "staging": "<Dàn cảnh & Bố cục khung hình: vị trí figure_*, creature_*, prop_* trong khung hình, tương quan với nhau và khoảng thở thị giác tiếp xúc bề mặt>",
+    "real_nature": "<Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc trực tiếp>",
     "backdrop": "<Không gian cảnh quan xa ngoài vùng lấy nét tạo độ sâu trường ảnh>",
     "lighting": "<Nguồn sáng tự nhiên có hướng rọi cụ thể>",
     "motion": "<Tùy chọn: Yếu tố động lực học môi trường>"
@@ -122,7 +123,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 * **`figures` (Mảng đối tượng nhân vật):** Danh sách mảng linh hoạt (1, 2 hoặc nhiều nhân vật tiêu điểm tùy cảnh):
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để trường `staging` gọi tên điều phối.
   - *`role`*: Vai trò & lứa tuổi ước lệ của nhân vật.
-  - *`build`*: Vóc dáng & tỷ lệ hình thể (cao gầy, nhỏ nhắn bằng nửa người lớn, vạm vỡ đẫm đà...). Bắt buộc có để AI phân định chiều cao và thể hình, tránh vẽ các nhân vật to bằng nhau.
+  - *`build`*: Vóc dáng & tỷ lệ tương quan hình thể giữa các nhân vật. Bắt buộc có để AI phân định chiều cao và thể hình, tránh vẽ các nhân vật to bằng nhau.
   - *`head`*: Hình khối đầu gỗ gọt nhẵn + chất liệu tóc len/sợi dệt + phụ kiện đầu nếu có + nét mặt phẳng 2D tối giản (mắt có đồng tử mềm, nét miệng một đường mảnh duy nhất, zero nếp nhăn da, không răng).
   - *`attire`*: Trang phục vải thủ công phủ kín chân tới giày/ủng tiếp xúc bề mặt.
   - *`action`*: Hành động dở dang của nhân vật (đặc tả thao tác tay nếu là cảnh cận).
@@ -131,27 +132,27 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 * **`background_figures` (Tùy chọn):** Chấm bóng người hoặc đàn thú tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay trang phục chi tiết.
 #### Khối Tùy Chọn: `CREATURES` (Sinh Vật & Thú Đồng Hành Thủ Công)
 *(Chỉ xuất hiện khi cảnh có thú nuôi, gia súc hoặc thú rừng tương tác chính. Hoàn toàn cách ly khỏi `CHARACTERS.dna` để triệt tiêu lỗi rò rỉ giải phẫu người).*
-* **Độc lập chất liệu:** Mỗi sinh vật mang chất liệu chế tác thủ công riêng (`material`: thân gỗ đẽo mộc, tai vải nỉ ép, bờm len dệt, chuông đồng, chân chốt gỗ...), triệt tiêu hoàn toàn lỗi AI vẽ bàn tay người hay nét mặt búp bê gỗ lên con vật.
+* **Độc lập chất liệu:** Tự do định danh chất liệu thủ công đặc thù của sinh vật tại trường `material`; triệt tiêu hoàn toàn lỗi AI vẽ bàn tay người hay nét mặt búp bê gỗ lên con vật.
 * **Cảnh ngụ ngôn (chỉ có động vật):** Khi cảnh chỉ có muông thú sinh hoạt, sử dụng khối `CREATURES` và lược bỏ hoàn toàn khối `CHARACTERS`.
 * Các trường chi tiết:
   - *`id`*: Mã định danh (`creature_1`, `creature_2`...) để `staging` gọi tên.
-  - *`role`*: Định danh loài vật & vai trò ước lệ (ví dụ: `Handcrafted miniature hound companion`).
-  - *`build`*: Vóc dáng & tỷ lệ hình thể so với nhân vật hoặc bối cảnh (ví dụ: cao ngang bắp chân người, đậu vừa cẳng tay...).
+  - *`role`*: Định danh loài vật & vai trò ước lệ trong bối cảnh.
+  - *`build`*: Vóc dáng & tỷ lệ hình thể tương quan so với nhân vật hoặc bối cảnh.
   - *`material`*: Đặc tả chất liệu thủ công chế tác riêng của con vật.
   - *`action`*: Hành động dở dang cụ thể.
   - *`gaze`*: Hướng nhìn có chủ đích.
 
 #### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
-* **`camera`**: Định vị góc quay và cỡ cảnh quang học macro (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
+* **`camera`**: Định vị góc quay và cỡ cảnh quang học macro phù hợp với bối cảnh.
 * **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ.
 * **`focal_elements` (Mảng vật thể tương tác chính):** Danh sách mảng các đạo cụ tiền cảnh (`prop_1`, `prop_2`...):
   - *`id`*: Mã định danh để `staging` gọi tên.
   - *`item`*: Tên và định danh vật thể.
   - *`material`*: Chất liệu chế tác thủ công cụ thể.
   - *`details`*: Chi tiết gia công, thớ vân, độ mòn thời gian, bu-lông đinh tán, độ bóng mờ.
-* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa các `figure`, `creature` với các `prop` và mặt đất/bề mặt (ai đứng/ngồi ở đâu, tương tác với đạo cụ nào, tư thế tiếp xúc ra sao).
-* **`real_nature` (Tiền & Trung cảnh tiếp xúc):** Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc trực tiếp với nhân vật và đạo cụ (đất mùn ẩm, rêu sống, sỏi cuội, lá khô).
-* **`backdrop` (Hậu cảnh xa mờ quang học):** Không gian cảnh quan ở cự ly xa nằm ngoài vùng lấy nét (ngọn cây xa xôi, sườn đồi mờ sương, mái nhà mờ ảo) tạo chiều sâu trường ảnh tilt-shift.
+* **`staging` (Dàn cảnh & Bố cục khung hình):** Điều phối bố cục khung hình (căn giữa, lệch một phần ba, tiền cảnh/hậu cảnh), mối quan hệ không gian chính xác giữa các `figure`, `creature` với các `prop` và khoảng thở thị giác tiếp xúc bề mặt.
+* **`real_nature` (Tiền & Trung cảnh tiếp xúc):** Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc trực tiếp với nhân vật và đạo cụ.
+* **`backdrop` (Hậu cảnh xa mờ quang học):** Không gian cảnh quan ở cự ly xa nằm ngoài vùng lấy nét tạo độ sâu trường ảnh tilt-shift.
 * **`lighting`**: Nguồn sáng tự nhiên có hướng rọi cụ thể.
 * **`motion` (Tùy chọn):** Yếu tố động lực học môi trường.
 
