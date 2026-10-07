@@ -69,6 +69,16 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
     ],
     "background_figures": "<Tùy chọn: Chấm bóng người hoặc đàn thú tí hon ở hậu cảnh xa đo tỷ lệ không gian>"
   },
+  "CREATURES": [
+    {
+      "id": "creature_1",
+      "role": "<Tùy chọn: Loài thú & vai trò đồng hành>",
+      "build": "<Tỷ lệ hình thể so với nhân vật hoặc bối cảnh>",
+      "material": "<Chất liệu chế tác thủ công riêng: gỗ đẽo, tai nỉ, lông len...>",
+      "action": "<Hành động dở dang cụ thể>",
+      "gaze": "<Hướng nhìn chủ đích>"
+    }
+  ],
   "ENVIRONMENT": {
     "camera": "<Góc máy & Cỡ cảnh quang học macro>",
     "setting": "<Không gian kiến trúc hoặc địa điểm thu nhỏ>",
@@ -86,7 +96,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
         "details": "<Chi tiết tạo tác & bề mặt>"
       }
     ],
-    "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_1, figure_2 ở đâu so với prop_1, prop_2, tương quan với nhau và tiếp xúc bề mặt ra sao>",
+    "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_*, creature_*, prop_* tương quan với nhau và tiếp xúc bề mặt ra sao>",
     "real_nature": "<Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc (đất mùn ẩm, rêu sống, sỏi, lá khô)>",
     "backdrop": "<Không gian cảnh quan xa ngoài vùng lấy nét tạo độ sâu trường ảnh>",
     "lighting": "<Nguồn sáng tự nhiên có hướng rọi cụ thể>",
@@ -119,7 +129,17 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   - *`gaze`*: Hướng nhìn chủ đích vào đối tượng cụ thể trong bối cảnh, không nhìn chằm chằm vào máy quay.
 * **Quy tắc giải phẫu bắt buộc:** Khi có người xuất hiện, dù máy quay cận cảnh chỉ lấy thao tác tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật từ đầu, tóc, trang phục, đến hướng nhìn.
 * **`background_figures` (Tùy chọn):** Chấm bóng người hoặc đàn thú tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay trang phục chi tiết.
-* **Xử lý Sinh vật & Thú cưng thủ công:** Mọi loài thú (chó, mèo, ngỗng, cú mèo, ngựa lùn...) nếu là nhân vật tương tác chính sẽ nằm trực tiếp trong mảng `figures` với vai trò và chất liệu chế tác tương ứng (gỗ đẽo, tai nỉ, chuông đồng, dây da...). Không cần rẽ nhánh schema.
+#### Khối Tùy Chọn: `CREATURES` (Sinh Vật & Thú Đồng Hành Thủ Công)
+*(Chỉ xuất hiện khi cảnh có thú nuôi, gia súc hoặc thú rừng tương tác chính. Hoàn toàn cách ly khỏi `CHARACTERS.dna` để triệt tiêu lỗi rò rỉ giải phẫu người).*
+* **Độc lập chất liệu:** Mỗi sinh vật mang chất liệu chế tác thủ công riêng (`material`: thân gỗ đẽo mộc, tai vải nỉ ép, bờm len dệt, chuông đồng, chân chốt gỗ...), triệt tiêu hoàn toàn lỗi AI vẽ bàn tay người hay nét mặt búp bê gỗ lên con vật.
+* **Cảnh ngụ ngôn (chỉ có động vật):** Khi cảnh chỉ có muông thú sinh hoạt, sử dụng khối `CREATURES` và lược bỏ hoàn toàn khối `CHARACTERS`.
+* Các trường chi tiết:
+  - *`id`*: Mã định danh (`creature_1`, `creature_2`...) để `staging` gọi tên.
+  - *`role`*: Định danh loài vật & vai trò ước lệ (ví dụ: `Handcrafted miniature hound companion`).
+  - *`build`*: Vóc dáng & tỷ lệ hình thể so với nhân vật hoặc bối cảnh (ví dụ: cao ngang bắp chân người, đậu vừa cẳng tay...).
+  - *`material`*: Đặc tả chất liệu thủ công chế tác riêng của con vật.
+  - *`action`*: Hành động dở dang cụ thể.
+  - *`gaze`*: Hướng nhìn có chủ đích.
 
 #### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
 * **`camera`**: Định vị góc quay và cỡ cảnh quang học macro (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
@@ -129,7 +149,7 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   - *`item`*: Tên và định danh vật thể.
   - *`material`*: Chất liệu chế tác thủ công cụ thể.
   - *`details`*: Chi tiết gia công, thớ vân, độ mòn thời gian, bu-lông đinh tán, độ bóng mờ.
-* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa các `figure` với các `prop` và mặt đất/bề mặt (ai đứng/ngồi ở đâu, tương tác với đạo cụ nào, tư thế tiếp xúc ra sao).
+* **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa các `figure`, `creature` với các `prop` và mặt đất/bề mặt (ai đứng/ngồi ở đâu, tương tác với đạo cụ nào, tư thế tiếp xúc ra sao).
 * **`real_nature` (Tiền & Trung cảnh tiếp xúc):** Chất liệu tự nhiên thật thu nhỏ ở cự ly tiếp xúc trực tiếp với nhân vật và đạo cụ (đất mùn ẩm, rêu sống, sỏi cuội, lá khô).
 * **`backdrop` (Hậu cảnh xa mờ quang học):** Không gian cảnh quan ở cự ly xa nằm ngoài vùng lấy nét (ngọn cây xa xôi, sườn đồi mờ sương, mái nhà mờ ảo) tạo chiều sâu trường ảnh tilt-shift.
 * **`lighting`**: Nguồn sáng tự nhiên có hướng rọi cụ thể.
