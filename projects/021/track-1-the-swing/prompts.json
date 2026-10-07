@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
+      "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
+      "optics": "Macro tilt-shift lens, eye-level full-body shot, shallow depth of field",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTER": {
+      "style": {
+        "archetype": "Stylized wooden folk art figurine, tall slender proportions, grounded whole-body",
+        "craft": "Smooth light-toned turned wood, styled wool hair under headwear, articulated carved fingers",
+        "face": "Minimalist hand-painted features, quiet dark brushstroke eyes, no blushed cheeks"
+      },
+      "figure_1": {
+        "role": "Young artisan man",
+        "head": "Softly rectangular wooden head, chestnut wool hair under a tweed flat cap",
+        "attire": "Slate tweed vest, rolled linen sleeves, tailored charcoal wool trousers falling straight to small leather boots",
+        "action": "Seated on curved timber bench with feet on ground, delicate carved hands breaking open a steaming sweet potato",
+        "gaze": "Gentle downward focus on the warm food"
+      },
+      "figure_2": {
+        "role": "Young companion woman",
+        "head": "Slender oval wooden head, auburn yarn hair under a knit beret",
+        "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
+        "action": "Seated side by side with feet on ground, hands reaching out to accept half",
+        "gaze": "Serene painted smile line, looking toward companion"
+      }
+    },
+    "ENVIRONMENT": {
+      "setting": "Organic curved timber park bench on a winding gravel pathway",
+      "real_elements": "Real damp earth, scattered dry golden oak leaves, lichen-crusted stone well basin",
+      "lighting": "Warm low golden-hour backlight casting soft elongated shadows",
+      "motion": "Wisps of white steam rising into the crisp autumn air"
+    },
+    "SURREAL": {
+      "quirk": "Whimsical organic curved timber street lamp posts shaped like delicate fiddlehead ferns"
+    }
+  },
+  {
+    "id": 2,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
+      "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
+      "optics": "Macro tilt-shift lens, eye-level full-body shot, shallow depth of field",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTER": {
+      "style": {
+        "archetype": "Stylized wooden folk art figurine, tall slender proportions, grounded whole-body",
+        "craft": "Smooth light-toned turned wood, styled wool hair under headwear, articulated carved fingers",
+        "face": "Minimalist hand-painted features, quiet dark brushstroke eyes, no blushed cheeks"
+      },
+      "figure_1": {
+        "role": "Elderly scholar",
+        "head": "Narrow elongated oval wooden head, flaxen-white hair under a tweed flat cap, tiny brass spectacles",
+        "attire": "Tailored slate wool coat, tailored slate-gray wool trousers falling straight to small leather boots",
+        "action": "Standing firmly on grassy crest, delicate carved hands gently releasing a tiny balsa-wood glider",
+        "gaze": "Calm thoughtful gaze tracking the toy plane in the air"
+      },
+      "figure_2": {
+        "role": "Young village boy",
+        "head": "Nimble round-profile wooden head, flaxen hair under a knit beret",
+        "attire": "Mustard ribbed wool sweater, tailored navy trousers, small boots",
+        "action": "Standing beside elder with feet grounded on turf, pointing upward with one hand",
+        "gaze": "Curious wide dark eyes watching the glider soar"
+      },
+      "background_figures": "Distant tiny miniature sheep grazing peacefully beside low drystone walls"
+    },
+    "ENVIRONMENT": {
+      "setting": "Undulating grassy hillock overlooking an expansive miniature autumn valley",
+      "real_elements": "Real living moss patches, weathered quartz pebbles, dry autumn moorland grasses",
+      "lighting": "Clear airy afternoon daylight with crisp soft shadows",
+      "motion": "Toy balsa glider banking smoothly on the invisible mountain breeze"
+    },
+    "SURREAL": {
+      "quirk": "A whimsical miniature stone observatory tower shaped like a resting snail in the far distance"
+    }
+  },
+  {
+    "id": 3,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
+      "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
+      "optics": "Macro tilt-shift lens, extreme close-up shot focusing on artisan hands, shallow depth of field",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTER": {
+      "style": {
+        "archetype": "Master woodcarver at work",
+        "craft": "Delicate carved wooden hands with articulated slender fingers emerging from tailored ecru linen sleeves",
+        "face": "Not visible, tight focus on hands and tool"
+      },
+      "hands": {
+        "artisan": "Woodcarver",
+        "action": "Using a tiny curved brass drawknife to slice thin curling shavings from a blond linden-wood block on a rustic oak bench"
+      }
+    },
+    "ENVIRONMENT": {
+      "setting": "Artisan woodcraft studio beside a wide timber casement window",
+      "real_elements": "Real textured oak wood grain, fine curling wooden shavings, tiny tin of amber beeswax polish",
+      "lighting": "Soft morning daylight raking across the workbench surface highlighting dust motes",
+      "motion": "A single curled wooden shaving mid-air falling gently toward the benchtop"
+    },
+    "SURREAL": {
+      "quirk": "Curled wooden shavings naturally taking the delicate silhouette of tiny dried elm leaves"
+    }
+  },
+  {
+    "id": 4,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
+      "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
+      "optics": "Macro tilt-shift lens, low-angle medium shot, shallow depth of field",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTER": {
+      "creature": {
+        "type": "Miniature sleeping calico cat",
+        "craft": "Twine-wrapped body with soft pressed felt ears and stitched thread whiskers",
+        "posture": "Curled up in a peaceful ball sleeping soundly on the mossy root flare of the ancient oak"
+      }
+    },
+    "ENVIRONMENT": {
+      "setting": "The base of an ancient monumental oak tree with deeply creviced real bark",
+      "focal_prop": "A handcrafted timber plank swing suspended by fine brass chains gently swaying above",
+      "real_elements": "Real damp soil, velvety green moss cushions, an abandoned pair of tiny leather boots, open pocketbook",
+      "lighting": "Warm glowing amber sunset beams slanting through thick gnarled oak branches",
+      "motion": "A single golden oak leaf drifting slowly down toward the sleeping cat"
+    },
+    "SURREAL": {
+      "quirk": "Delicate brass swing chains terminating in tiny leaf-shaped carved hooks anchored directly into the living wood"
+    }
+  }
+]
