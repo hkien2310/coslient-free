@@ -1,70 +1,40 @@
 # STYLE: Mixed-Media Tabletop Diorama
 *Coslient Free · Plugin chất liệu thế giới búp bê nghệ thuật dân gian thu nhỏ trên sa bàn giữa thiên nhiên thật.*
 
-Phong cách mô phỏng một sa bàn nghệ thuật thu nhỏ được chế tác thủ công tỉ mỉ, đặt giữa thiên nhiên thật và ghi lại bằng ống kính macro tilt-shift. Bối cảnh toát lên vẻ mộc mạc, ấm áp, giàu cảm xúc xúc giác, nơi các nhân vật búp bê dân gian bằng gỗ và vải dạ sống động giữa rêu đá, cành lá và ánh sáng tự nhiên.
+Phong cách mô phỏng một sa bàn nghệ thuật thu nhỏ kết hợp giữa đồ chế tác thủ công mộc và thiên nhiên thật, ghi lại bằng ống kính macro tilt-shift. Toát lên vẻ mộc mạc, ấm áp và giàu cảm xúc xúc giác.
 
 ---
 
 ## 1. Thế Giới Hai Lớp (Two-Layer Materiality)
-
-* **Lớp nhân tạo (Chế tác thủ công):** Mọi nhân vật, công trình, nội thất và vật dụng đều được làm từ vật liệu thủ công mộc:
-  - Gỗ sáng màu tiện nhẵn (đầu, bàn tay thợ).
-  - Vải dạ nỉ ép phẳng (`pressed felt`), vải dệt thô (`tweed`, `ribbed wool`), và vải lanh mộc (`crinkled linen`) cho trang phục.
-  - Da thuộc mềm, đồng thau mờ, thiếc gỉ và dây đay cho chi tiết phụ kiện.
-  - Tránh hoàn toàn chất liệu nhựa bóng, kim loại công nghiệp hoặc hiệu ứng ghép vải vụn rách rưới.
-* **Lớp tự nhiên (Thiên nhiên thật thu nhỏ):** Không gian môi trường hoàn toàn là tự nhiên thật thu nhỏ:
-  - Rêu xanh ẩm ướt, vỏ cây xù xì, sỏi cuội phủ sương, đất mùn và hoa dại li ti.
-  - Ánh sáng mặt trời thật, hơi nước bốc lên từ đồ uống/món ăn, lá khô chao lượn trong gió.
+* **Lớp tạo tác (Chế tác thủ công):** Mọi thực thể nhân tạo (nhân vật, kiến trúc, vật dụng) bắt buộc chế tác từ vật liệu mộc thủ công. Cấm vật liệu công nghiệp, nhựa bóng hoặc kim loại sáng bóng hiện đại.
+* **Lớp môi trường (Thiên nhiên thật thu nhỏ):** Toàn bộ không gian cảnh quan sử dụng chất liệu thiên nhiên thật ở tỷ lệ thu nhỏ và ánh sáng tự nhiên thật. Tuyệt đối không dùng phông nền nhân tạo, cỏ giả hay hoa nhựa.
 
 ---
 
-## 2. Tạo Hình Nhân Vật Dân Gian (Character Craftsmanship)
-
-Nhân vật là các pho tượng búp bê nghệ thuật dân gian (`wooden folk figurine`) duyên dáng, giàu sinh khí:
-
-* **Tỷ lệ & Vóc dáng:** Thân hình cao ráo, thanh mảnh, dáng đứng hoặc ngồi vững chãi. Búp bê luôn là thực thể 3D nguyên khối cắm rễ tiếp đất:
-  - Nam giới mặc quần len may đo suông dài phủ thẳng xuống ủng da nhỏ (`tailored wool trousers falling straight to small leather boots`).
-  - Nữ giới mặc váy dạ dài hoặc đầm len rủ chạm mắt cá chân tới ủng da nhỏ.
-  - Tuyệt đối không mô tả bán thân lưng lửng (waist-up) vì sẽ làm model đúc tượng cụt cắm xuống đất.
-* **Hình khối Đầu, Tóc & Mũ:** Đầu làm bằng gỗ sáng màu gọt nhẵn với hình khối đa dạng theo tạng người (trái xoan thon, chữ nhật góc cạnh nhẹ, hoặc thon gầy). Đỉnh đầu luôn được che kín bằng mái tóc len tạo kiểu và đội mũ/nón phù hợp (mũ flat cap, beret, hoặc bonnet). Tránh đầu hình cầu tròn vo kiểu đồ chơi chốt gỗ mầm non.
-* **Ngũ quan tối giản phẳng (Flat Minimalist 2D - Chặn Đứng Nếp Nhăn & Hở Răng Tả Thực):**
-  - *Tối giản phẳng trên nền gỗ nhẵn (Flat 2D Paint):* Nét mặt BẮT BUỘC phải là **nét vẽ cọ 2D phẳng và cực kỳ tối giản trên khối gỗ tiện nhẵn thín** (`flat minimalist 2D painted features on smooth turned wood`). Tuyệt đối không mô tả cơ mặt nổi khối hay tả thực sinh học.
-  - *Chặn đứng lão hóa sinh học (Anti-Wrinkles & Anti-Teeth):* Khi có nhân vật lớn tuổi (ông bà lão), AI thường tự động vẽ da nhăn nheo, vết chân chim, rãnh cười và nhe răng (lỗi phá vỡ chất liệu sa bàn). **Quy tắc sắt:** Mặt búp bê gỗ luôn là **gỗ nhẵn bóng, ZERO nếp nhăn da thịt, KHÔNG BAO GIỜ vẽ răng** (`smooth turned wood surface, zero skin wrinkles, no facial folds, no realistic teeth`). Tuổi già CHỈ được thể hiện qua: mái tóc len bạc, mũ nón/khăn trùm, kính thau tí hon, dáng lưng khom và trang phục dạ len cổ điển.
-  - *Đôi mắt tối giản có hồn (Anti-Bear Eyes):* Đôi mắt vẽ cọ tối giản có tròng và đồng tử mềm (`minimalist flat-painted eyes with soft pupils and fine brows`), tránh hai cực đoan: không thành hai hạt nút đen bóng vô hồn của gấu bông (`bear eyes`), cũng không thành mắt người thật có mí và bọng mắt.
-  - *Nét miệng là một đường kẻ mảnh (Anti-Mannequin & Anti-Teeth):* Miệng luôn là **một nét cọ mảnh duy nhất** (`single fine painted line`) khép kín an nhiên hoặc mỉm cười nhẹ, hoặc rãnh khắc mộc mạc. Vừa đảm bảo không bị mất miệng thành ma-nơ-canh, vừa chặn đứng lỗi há miệng cười nhe răng.
-  - *Mặt mộc không phấn son:* Giữ nguyên vân gỗ sáng màu tự nhiên, cấm vẽ má hồng tròn xoe hay tô son đỏ.
-* **Bàn tay thao tác:** Đôi bàn tay gỗ chạm khắc ngón thon dài có khớp, thò ra từ ống tay áo và luôn trong trạng thái đang thao tác dở dang với đồ vật.
+## 2. Tạo Hình Nhân Vật (Character Craftsmanship)
+* **Hình thể toàn vẹn & Điểm tựa vật lý:** Búp bê gỗ luôn là thực thể hoàn chỉnh toàn thân (full-body), có tư thế tiếp xúc vật lý vững vàng với mặt sàn hoặc bề mặt đồ vật. Tuyệt đối không tả bán thân (waist-up) nhằm tránh lỗi cắt cụt thân. Tự do tỷ lệ và tạng người theo từng nhân vật.
+* **Trang phục che kín da thịt:** Nhân vật luôn mặc trang phục vải may thủ công và mang giày/ủng tiếp xúc bề mặt. Không để lộ các phần cơ thể trần trụi nhằm tránh lỗi AI vẽ chi tiết da thịt người thật.
+* **Ngũ quan phẳng 2D tối giản:** Nét mặt là nét vẽ cọ 2D phẳng mộc mạc trên khối gỗ tiện nhẵn. Mắt có tròng và đồng tử phân định rõ (chống mắt nút gấu bông); miệng là một nét cọ mảnh hoặc rãnh khắc khép kín (chống mất miệng). Mặt mộc tự nhiên, cấm vẽ má hồng phấn son.
+* **Triệt tiêu lão hóa sinh học:** Khối đầu gỗ luôn giữ bề mặt nhẵn bóng. Tuyệt đối không vẽ nếp nhăn da thịt, bọng mắt, rãnh cơ mặt hay nhe răng. Tuổi tác và đặc trưng nhân vật được định danh qua chất liệu tóc, trang phục, phụ kiện và dáng dấp.
+* **Bàn tay thao tác:** Bàn tay gỗ khắc ngón có khớp, ưu tiên gắn liền với hành động thao tác vật lý cụ thể.
 
 ---
 
-## 3. Biểu Cảm & Trạng Thái Nhân Vật (Expressions & Postures)
-
-Biểu cảm của búp bê nghệ thuật dân gian không dựa vào cơ mặt sinh học tả thực (nếp nhăn, rãnh cười), mà toát lên từ **sự kết hợp giữa nét vẽ cọ tối giản, độ nghiêng của đầu và ngôn ngữ cơ thể**:
-
-* **Nguyên tắc biểu cảm qua tư thế (Body Language over Facial Muscles):**
-  - *Tập trung say mê (Artisan Focus):* Đầu hơi cúi nghiêng về phía bàn làm việc, ánh mắt hạ xuống món đồ đang chế tác, bờ vai hơi đổ về trước thể hiện sự tỉ mỉ, tĩnh lặng của người thợ.
-  - *Trầm ngâm & Chiêm nghiệm (Quiet Contemplation):* Dáng đứng thanh thoát hoặc ngồi tựa nhẹ, ánh nhìn phóng xa xăm ra phong cảnh, đầu hơi nghiêng đón gió hoặc ngắm nhìn bầu trời.
-  - *Gắn kết thân tình (Affectionate Interaction):* Hai nhân vật nghiêng đầu về phía nhau, ánh mắt giao nhau ấm áp, nụ cười mộc mạc thoáng qua trên nét cọ mảnh.
-  - *Sôi nổi & Bay bổng (Joyful Vitality):* Dáng người trong chuyển động dở dang (chân vung cao trên xích đu, sải bước dạo chơi, tay vươn thả tàu lượn), toát lên năng lượng tươi vui.
-* **Quy tắc hướng nhìn (Gaze Direction):** Nhân vật luôn hướng ánh nhìn hoặc hành động vào một đối tượng cụ thể trong thế giới sa bàn (món đồ đang làm, người đối diện, cảnh vật ngoài cửa sổ), không đứng nhìn vô hồn vào máy quay.
+## 3. Biểu Cảm & Dáng Điệu (Expressions & Postures)
+* **Biểu cảm qua tư thế & Dáng dấp (Pose over Face):** Trạng thái cảm xúc toát lên từ ngôn ngữ cơ thể, độ nghiêng của đầu và hành động dở dang; không dựa vào cử động cơ mặt sinh học.
+* **Quy tắc hướng nhìn chủ đích (Intentional Gaze):** Hướng nhìn luôn có điểm tựa thị giác rõ ràng vào nhân vật đồng hành, đồ vật trên tay hoặc cảnh quan không gian; không hướng ánh nhìn vô hồn vào ống kính máy quay.
 
 ---
 
-## 4. Ngôn Ngữ Không Gian & Điện Ảnh (Cinematography & Space)
-
-* **Đa dạng cỡ cảnh & góc máy:**
-  - *Cận cảnh bàn tay thao tác (Macro Crafting):* Bắt trọn đôi bàn tay gỗ đang vót thanh gỗ, xâu kim khâu da trên mặt bàn mộc.
-  - *Góc nhìn sau lưng / Góc 3/4 (Atmospheric Back-view):* Nhân vật đứng ngắm nhìn thung lũng sương mai hoặc hoàng hôn, mở rộng chiều sâu không gian mà không phụ thuộc vào biểu cảm khuôn mặt.
-  - *Toàn cảnh sinh hoạt (Full-body Grounded):* Hai nhân vật tương tác tự nhiên trên ghế dài, bờ suối hay hiên nhà với bàn chân đặt vững trên mặt đất.
-  - *Đại cảnh thu nhỏ (Panoramic Miniature):* Góc rộng bao quát góc phố, cỗ xe hay ngôi làng với những bóng người tí hon dạo bước.
-* **Đường cong hữu cơ & Bất đối xứng:** Kiến trúc và cảnh quan luôn uốn lượn mềm mại (bờ tường cong, mái võng, cầu đá cong, lan can gỗ uốn). Trang phục có chi tiết bất đối xứng tự nhiên (khăn quàng vắt lệch vai, vạt áo chéo, tạp dề buộc lệch).
-* **Ánh sáng có nguồn rõ rệt:** Luôn xác định rõ nguồn sáng cụ thể (nắng sớm sương mai, nắng chiều tà xiên thấp, ánh đèn lồng hổ phách ấm áp đêm chạng vạng).
+## 4. Không Gian & Điện Ảnh (Cinematography & Space)
+* **Nguyên lý đường cong hữu cơ (Organic Curves):** Không gian, kiến trúc và đồ vật ưu tiên đường nét uốn lượn mềm mại, bất đối xứng tự nhiên. Hạn chế đường thẳng tắp và góc hộp vuông vức cơ khí.
+* **Quang học sa bàn (Macro Tilt-Shift):** Sử dụng ống kính macro tilt-shift với độ sâu trường ảnh mỏng để tôn vinh tỷ lệ thế giới thu nhỏ và chất cảm bề mặt vật liệu.
+* **Ánh sáng tự nhiên định hướng:** Nguồn sáng phải có phương hướng và góc rọi rõ rệt, tạo bóng đổ mềm mại nhằm khắc họa khối tích và xúc cảm không gian.
 
 ---
 
 ## 5. Quy Chuẩn Prompt Định Dạng JSON (Object-in-Object)
-
-Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Gồm 4 khối chức năng tối giản, trong đó `ENVIRONMENT` đóng vai trò dàn cảnh không gian và điều khiển máy quay:
+Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Gồm 4 khối chức năng:
 
 ### 5.1. Khung Cấu Trúc Cho Một Prompt Độc Lập
 
@@ -73,51 +43,51 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
   "id": "<Số thứ tự prompt>",
   "STYLE": {
     "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
-    "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
-    "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
+    "handcrafted": "<Định danh chất liệu thủ công cụ thể của cảnh>",
+    "real_nature": "<Định danh chất liệu thiên nhiên thật cụ thể của cảnh>",
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Stylized wooden folk art figurine, tall slender proportions, smooth turned wooden head under headwear, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+    "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
     "figure_1": {
       "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
-      "head": "<Hình khối đầu (chữ nhật / oval / thon dài) + kiểu tóc len + loại mũ che đỉnh đầu + mặt phẳng tối giản (mắt có đồng tử, nét miệng một đường mảnh, không nếp nhăn da, không răng)>",
-      "attire": "<Trang phục & chất vải (tweed / nỉ / lanh) + quần suông dài phủ ủng da hoặc váy rủ>",
-      "action": "<Hành động dở dang của nhân vật>",
-      "gaze": "<Hướng nhìn & thần thái: nhìn bạn đồng hành / cúi nhìn đồ đang làm / nhìn xa xăm>"
+      "head": "<Hình khối đầu + chất liệu tóc + phụ kiện đầu nếu có + mặt phẳng 2D không nếp nhăn, không răng>",
+      "attire": "<Trang phục vải thủ công phủ kín chân tới giày/ủng>",
+      "action": "<Hành động dở dang cụ thể>",
+      "gaze": "<Hướng nhìn chủ đích vào đối tượng cụ thể>"
     },
     "figure_2": {
       "role": "<Nhân vật thứ hai nếu có trong cảnh>",
-      "head": "<Hình khối đầu + tóc + mũ + mặt phẳng tối giản>",
-      "attire": "<Trang phục & chất liệu>",
+      "head": "<Hình khối đầu + tóc + phụ kiện + mặt phẳng 2D>",
+      "attire": "<Trang phục vải thủ công che kín da thịt>",
       "action": "<Hành động tương tác>",
-      "gaze": "<Hướng nhìn đối xứng>"
+      "gaze": "<Hướng nhìn đối ứng>"
     },
-    "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa tít tắp, không tả mặt/áo>"
+    "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa đo tỷ lệ không gian>"
   },
   "ENVIRONMENT": {
-    "camera": "<Góc máy & Cỡ cảnh: macro close-up / eye-level full-body / back-view / wide>",
+    "camera": "<Góc máy & Cỡ cảnh quang học macro>",
     "setting": "<Không gian kiến trúc hoặc địa điểm thu nhỏ>",
     "focal_elements": {
       "prop_1": {
-        "item": "<Tên & loại vật thể chính: ghế dài cong / bàn mộc / xích đu>",
-        "material": "<Chất liệu thủ công chi tiết: gỗ tiện tay, đồng thau mờ, mộng gỗ, dây thừng gai>",
-        "details": "<Chi tiết tạo tác & bề mặt: thớ vân gỗ uốn, góc mài bóng vec-ni, đinh tán, vết thời gian>"
+        "item": "<Tên & loại vật thể chính>",
+        "material": "<Chất liệu thủ công chế tác>",
+        "details": "<Chi tiết tạo tác & bề mặt>"
       },
       "prop_2": {
-        "item": "<Tùy chọn: Vật thể tương tác thứ hai: củ khoai nướng, máy bay balsa, khối gỗ>",
+        "item": "<Tùy chọn: Vật thể tương tác thứ hai>",
         "material": "<Chất liệu chế tác>",
-        "details": "<Chi tiết bề mặt & tạo hình>"
+        "details": "<Chi tiết tạo tác & bề mặt>"
       }
     },
     "staging": "<Dàn cảnh vị trí & quan hệ không gian: figure_1, figure_2 ở đâu so với prop_1, prop_2, tương quan với nhau và tiếp xúc bề mặt ra sao>",
-    "backdrop": "<Không gian hậu cảnh xa: thung lũng sương, triền đồi, nóc nhà nhấp nhô>",
-    "real_nature": "<Chất liệu tự nhiên thật thu nhỏ: thảm rêu ẩm, sỏi cuội, lá khô, vỏ cây xù xì>",
-    "lighting": "<Nguồn sáng cụ thể: nắng sớm sương mai, nắng chiều tà xiên thấp, đèn lồng hổ phách>",
-    "motion": "<Tùy chọn: Chuyển động môi trường: hơi nước, tà áo lay, lá chao lượn>"
+    "backdrop": "<Không gian hậu cảnh xa tạo độ sâu trường ảnh>",
+    "real_nature": "<Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh>",
+    "lighting": "<Nguồn sáng tự nhiên có hướng rọi cụ thể>",
+    "motion": "<Tùy chọn: Yếu tố động lực học môi trường>"
   },
   "SURREAL": {
-    "quirk": "<Chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ: lò nướng ấm trà, tháp lưỡi liềm...>"
+    "quirk": "<Chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ>"
   }
 }
 ```
@@ -128,37 +98,37 @@ Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Sta
 
 #### Khối 1: `STYLE` (Định Hình Thế Giới & Tham Số)
 * **`world`**: Khóa thể loại sa bàn thu nhỏ thủ công (`Handcrafted mixed-media tabletop diorama...`). Cố định ở mọi prompt để chặn ảnh chụp người thật đời thường.
-* **`handcrafted`**: Định danh các chất liệu làm tay (gỗ tiện, dạ nỉ ép, vải lanh, đồng thau mờ, gỗ uốn). Cấm nhựa bóng, kim loại công nghiệp.
-* **`real_nature`**: Định danh các chất liệu thiên nhiên thật thu nhỏ (rêu ẩm, đất mùn, sỏi cuội, lá khô giòn, ánh nắng thật).
+* **`handcrafted`**: Tự do định danh các chất liệu làm tay cụ thể của cảnh (vải dệt, gỗ gọt, kim loại mờ...). Cấm nhựa bóng, kim loại công nghiệp.
+* **`real_nature`**: Tự do định danh các chất liệu thiên nhiên thật cụ thể theo bối cảnh (rêu, đất, đá, nước, tuyết, cát, lá, ánh nắng...).
 * **`aspect_ratio`**: Tỷ lệ khung hình kỹ thuật (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Quản Lý Nhân Diện Thực Thể)
-* **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến khóa cứng búp bê gỗ nguyên khối tiếp đất, có tóc & nón, mặt vẽ cọ phẳng tối giản với mắt có đồng tử mềm (chặn bear eyes) và nét miệng một đường mảnh (chặn mất miệng), nhẵn thín không nếp nhăn da thịt, không vẽ răng, không má hồng, tay có ngón.
-* **Quy tắc giải phẫu bắt buộc (Không bao giờ bỏ sót người):** Khi có người xuất hiện, **dù máy quay chụp cận cảnh (macro close-up) chỉ lấy thao tác đôi bàn tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật (`figure_1`) từ đầu (`head`), mũ, trang phục (`attire`), đến hướng nhìn (`gaze`)**. Việc này giúp AI neo giữ giải phẫu búp bê gỗ nguyên khối thống nhất, triệt tiêu hoàn toàn lỗi tạo ra các bàn tay người thật trôi nổi ma quái (disembodied hands).
+* **`dna` (Bảo vệ giải phẫu chung):** Dòng định nghĩa bất biến khóa cứng búp bê gỗ toàn thân, mặt vẽ cọ phẳng 2D, mắt có đồng tử mềm (chặn bear eyes), miệng đường mảnh (chặn mất miệng), nhẵn thín không nếp nhăn da thịt, không răng, không má hồng, tay có ngón.
+* **Quy tắc giải phẫu bắt buộc (Không bao giờ bỏ sót người):** Khi có người xuất hiện, **dù máy quay chụp cận cảnh (macro close-up) chỉ lấy thao tác đôi bàn tay, BẮT BUỘC phải miêu tả trọn vẹn toàn bộ nhân vật (`figure_1`) từ đầu, tóc, trang phục, đến hướng nhìn**. Việc này giúp AI neo giữ giải phẫu búp bê gỗ nguyên khối thống nhất, triệt tiêu hoàn toàn lỗi tạo ra các bàn tay người thật trôi nổi ma quái (disembodied hands).
 * **`figure_1`, `figure_2` (Thuộc tính tự thân của nhân vật):**
-  - *`role`*: Vai trò & lứa tuổi ước lệ (thợ mộc, cụ già, thiếu nữ, cậu bé).
-  - *`head`*: Hình khối đầu gỗ gọt nhẵn + kiểu tóc len + loại mũ/nón che đỉnh đầu + nét mặt phẳng tối giản (mắt vẽ cọ có tròng/đồng tử mềm, nét miệng một đường mảnh duy nhất, zero nếp nhăn da, không răng).
-  - *`attire`*: Trang phục đa dạng chất liệu (dạ sần tweed, nỉ ép, vải lanh, áo len dệt) + quần len may đo suông dài phủ thẳng ủng da hoặc váy dạ dài rủ chạm ủng.
+  - *`role`*: Vai trò & lứa tuổi ước lệ của nhân vật.
+  - *`head`*: Hình khối đầu gỗ gọt nhẵn + chất liệu tóc len/sợi dệt + phụ kiện đầu nếu có + nét mặt phẳng 2D tối giản (mắt có đồng tử mềm, nét miệng một đường mảnh duy nhất, zero nếp nhăn da, không răng).
+  - *`attire`*: Trang phục vải thủ công phủ kín chân tới giày/ủng tiếp xúc bề mặt.
   - *`action`*: Hành động dở dang của nhân vật (đặc tả thao tác tay nếu là cảnh cận).
-  - *`gaze`*: Hướng nhìn cụ thể và thần thái tĩnh tại (nhìn bạn đồng hành, cúi nhìn đồ đang làm, nhìn ra thung lũng), không nhìn chằm chằm vào máy quay.
+  - *`gaze`*: Hướng nhìn chủ đích vào đối tượng cụ thể trong bối cảnh, không nhìn chằm chằm vào máy quay.
 * **`background_figures` (Tùy chọn):** Chấm bóng người tí hon ở hậu cảnh xa để đo tỷ lệ, không tả mặt mũi hay quần áo chi tiết.
 * *Biến thể sinh vật / thú cưng:* Chỉ khi cảnh hoàn toàn không có người, mới thay thế `figure_*` bằng `creature: { "type": "<loài thú làm tay>", "posture": "<tư thế ngủ/đứng>" }`.
 
 #### Khối 3: `ENVIRONMENT` (Sân Khấu, Dàn Cảnh & Bối Cảnh)
-* **`camera`**: Định vị góc quay và cỡ cảnh quang học (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
-* **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ (hiên nhà gỗ uốn, xưởng mộc mở toang nhìn ra thung lũng, góc công viên mùa thu).
+* **`camera`**: Định vị góc quay và cỡ cảnh quang học macro (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
+* **`setting`**: Không gian kiến trúc hoặc địa điểm thu nhỏ.
 * **`focal_elements` (Vật thể tiền cảnh tương tác chi tiết - tương tự figure_1, 2):** Được định danh và mô tả chi tiết từng vật thể (`prop_1`, `prop_2` nếu có) để AI đắp đủ texture và chất cảm thủ công:
-  - *`item`*: Tên và định danh vật thể (ghế dài cong, bàn thợ mộc, xích đu dây đồng, bệ tường đá).
-  - *`material`*: Chất liệu chế tác thủ công chuẩn sa bàn (gỗ sồi già gọt tay, đồng thau xỉn màu, dây bện gai, mộng gỗ).
-  - *`details`*: Chi tiết gia công, thớ vân, độ mòn thời gian, vết sáp ong vec-ni, bu-lông đinh tán, độ bóng mờ.
+  - *`item`*: Tên và định danh vật thể.
+  - *`material`*: Chất liệu chế tác thủ công cụ thể.
+  - *`details`*: Chi tiết gia công, thớ vân, độ mòn thời gian, bu-lông đinh tán, độ bóng mờ.
 * **`staging` (Dàn cảnh không gian & Quan hệ vị trí):** Nơi điều phối mối quan hệ không gian chính xác giữa `figure_1`, `figure_2` với `prop_1`, `prop_2` và mặt đất/bề mặt:
   - Ai đứng/ngồi ở đâu trên hoặc cạnh `prop_1`?
   - Ai đang cầm/thao tác trên `prop_2`?
-  - Tư thế bàn chân tiếp đất/tiếp xúc bề mặt ra sao?
-* **`backdrop` (Hậu cảnh xa):** Không gian nền phía sau tạo chiều sâu (thung lũng mờ sương, rừng sồi vàng xa, các mái nhà nhấp nhô).
-* **`real_nature`**: Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh này (thảm rêu ẩm, sỏi cuội, lá khô giòn, vỏ cây xù xì).
-* **`lighting`**: Nguồn sáng tự nhiên cụ thể (nắng sớm sương mai, nắng vàng mật xiên thấp, ánh đèn lồng hổ phách đêm chạng vạng).
-* **`motion` (Tùy chọn):** Yếu tố động lực học môi trường (hơi nước bốc lên từ món nóng, gió lay tà áo, lá vàng chao lượn).
+  - Tư thế bàn chân tiếp xúc bề mặt ra sao?
+* **`backdrop` (Hậu cảnh xa):** Không gian nền phía sau tạo chiều sâu trường ảnh.
+* **`real_nature`**: Chất liệu tự nhiên thật thu nhỏ cụ thể của cảnh này.
+* **`lighting`**: Nguồn sáng tự nhiên có hướng rọi cụ thể.
+* **`motion` (Tùy chọn):** Yếu tố động lực học môi trường.
 
 #### Khối 4: `SURREAL` (Sai Lệch Thị Giác & Yếu Tố Kỳ Ảo Mộc Mạc)
-* **`quirk`**: Một chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ duyên dáng đặc trưng của thế giới truyện tranh (lò nướng gạch dáng ấm trà khổng lồ, tháp đá cong hình lưỡi liềm, cụm mây bông nhỏ xíu là là mặt cỏ, guồng nước thìa đồng, cột đèn uốn cong như chồi dương xỉ).
+* **`quirk`**: Một chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ duyên dáng.
