@@ -4,7 +4,7 @@
 > - **Style (`style/STYLE_*.md`):** Quy định *chất liệu & cách render của từng pixel* (chất liệu thủ công, khối nhân vật, bề mặt, ánh sáng). Đó là "luật vẽ 1 bức ảnh".
 > - **Visual Craft (file này):** Quy định *sự chuyển động, nhịp điệu, câu chuyện và sự đa dạng giữa 50–70 bức ảnh*. Làm sao để chuỗi ảnh không bao giờ gây chán hay đơ cứng.
 
-Viết thẳng prompt vào `image.txt`. Số lượng prompt tùy theo độ dài bài hát (trung bình 45–65 prompts cho bài 3–4 phút). Quy chuẩn chi tiết tra cứu tại `style/STYLE_*.md`.
+Viết thẳng danh sách prompt độc lập vào file `image.json` (mỗi prompt là một JSON Object). Số lượng prompt tùy theo độ dài bài hát (trung bình 45–65 prompts cho bài 3–4 phút). Quy chuẩn chi tiết tra cứu tại `style/STYLE_*.md`.
 
 ---
 
@@ -91,4 +91,4 @@ Cả video phải là một hành trình ánh sáng và thời gian chuyển đ�
   + Tối đa 10–15% cảnh tĩnh vật; không xếp 2 cảnh tĩnh vật liên tiếp.
 - **Tần suất lặp lại:** Một đồ vật hoặc một góc bối cảnh cụ thể chỉ xuất hiện tối đa 2 lần trong cả video. Không 3 ảnh liên tiếp giống nhau ở cùng một trục.
 - **Tâm điểm màu sắc:** Luôn có 1 điểm nhấn màu vàng mù tạt (`saffron mustard`) hoặc ánh hổ phách (`blazing warm amber`) để neo giữ nhận diện.
-- **Format lưu trữ kịch bản:** Lưu trữ trong `prompts.json` theo cấu trúc phân tầng (`GLOBAL` + `SCENES`), hoặc dạng text phẳng trong `image.txt` theo đúng quy chuẩn tại `style/STYLE_*.md`.
+- **Format lưu trữ kịch bản:** Lưu trữ trực tiếp trong `image.json` theo cấu trúc JSON Object độc lập (Standalone Self-Contained) chuẩn quy định tại `style/STYLE_*.md`.

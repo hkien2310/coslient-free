@@ -169,14 +169,14 @@ projects/XXX/
 │   ├── <audio>.wav
 │   ├── timestamps.json, timestamps.txt, lyrics.srt
 │   ├── 3-lyrics.txt       (Lời sạch DistroKid Track 1)
-│   ├── image.txt
+│   ├── image.json
 │   ├── prompt-animate.txt
 │   └── 6-seo.md
 └── track-2-<tên_slug>/    (Track 2: ~4:00 phút)
     ├── <audio>.wav
     ├── timestamps.json, timestamps.txt, lyrics.srt
     ├── 3-lyrics.txt       (Lời sạch DistroKid Track 2)
-    ├── image.txt
+    ├── image.json
     ├── prompt-animate.txt
     └── 6-seo.md
 ```

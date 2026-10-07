@@ -5,7 +5,7 @@ v2.0 — Modular Visual Extension
 > Là một "ống kính nghệ thuật" tùy chọn khi dự án cần chất thơ bay bổng, tò mò và giàu tính biểu tượng (như phong cách phim AI triệu view *The Quiet People By The Sea*).
 > 
 > 🔒 **Quy tắc biên giới (Boundaries):**
-> - **Độc lập với Style:** Plugin chỉ cung cấp ý niệm thị giác (Visual Concept) cho kho ảnh `image.txt` hoặc khi dựng trên timeline. Dùng được cho mọi chất liệu (len nỉ, đất sét, anime, màu nước...).
+> - **Độc lập với Style:** Plugin chỉ cung cấp ý niệm thị giác (Visual Concept) cho kho ảnh `image.json` hoặc khi dựng trên timeline. Dùng được cho mọi chất liệu (len nỉ, đất sét, anime, màu nước...).
 > - **Không chạm vào Visual Craft:** Không can thiệp cú pháp ráp prompt của `visual_craft.md`.
 
 ---
@@ -59,6 +59,6 @@ Khi một shot cần tạo điểm nhấn thị giác lạ mắt, áp dụng 1 t
 
 ## 🔌 3. CÁCH CẮM VÀO KHO ẢNH & DỰNG PHIM (INTEGRATION)
 
-Khi đưa một lát cắt siêu thực vào `image.txt` hoặc khi dựng trên timeline:
+Khi đưa một lát cắt siêu thực vào `image.json` hoặc khi dựng trên timeline:
 - Viết prompt Midjourney kết hợp chủ thể đời thường với 1 trong 4 động cơ trên.
 - Sử dụng liều lượng tinh tế: tối đa 10%–20% tổng số shot để làm điểm nhấn thi vị, giữ 80% còn lại là cảnh đời thường bình dị.

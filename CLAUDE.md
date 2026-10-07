@@ -25,9 +25,9 @@ Mỗi project = 1 video hoàn chỉnh:
    * *Trích xuất mốc thời gian:* Sau khi có file audio `.wav` và `3-lyrics.txt`, chạy:
      `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav>`
      để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, khớp từng câu hát).
-3. **Visual Pool (`image.txt`):** 
-   * **BẮT BUỘC ĐỌC TRƯỚC:** Rà soát ngay file phong cách tương ứng trong `style/` (ví dụ [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md)) để áp dụng đúng Style Anchor, 10 Quy tắc thép và bảng từ cấm.
-   * Dựa trên không gian ở `1-idea.md` và phong cách trong `style/`, viết trực tiếp danh sách prompt ảnh đa dạng vào `image.txt` (tuân thủ nghiêm ngặt **nguyên tắc tranh khảm lát cắt (The Mosaic Principle)**, **7 trục đa dạng hóa** và diệt 3 bẫy cứng trong [`craft/visual_craft.md`](./craft/visual_craft.md)).
+3. **Visual Pool (`image.json`):** 
+   * **BẮT BUỘC ĐỌC TRƯỚC:** Rà soát ngay file phong cách tương ứng trong `style/` (ví dụ [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md)) để áp dụng đúng cấu trúc JSON 4 khối chuẩn mực.
+   * Dựa trên không gian ở `1-idea.md` và phong cách trong `style/`, viết trực tiếp danh sách prompt ảnh độc lập (mỗi prompt là một JSON Object) vào `image.json` (tuân thủ nghiêm ngặt **nguyên tắc tranh khảm lát cắt (The Mosaic Principle)**, **7 trục đa dạng hóa** và diệt 3 bẫy cứng trong [`craft/visual_craft.md`](./craft/visual_craft.md)).
    * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh. Hoàn toàn không qua bảng storyboard trung gian.
 4. **Montage & Animation (`prompt-animate.txt`):**
    * *Phòng dựng tự do (Montage):* Thả nhạc và kho ảnh vào timeline (Premiere/CapCut/DaVinci), ghép ảnh theo nhịp nhạc (`timestamps.txt`) bằng rung cảm trực tiếp. Tự do quyết định nhịp cắt và sự va chạm hình ảnh (juxtaposition).
@@ -45,7 +45,7 @@ projects/XXX/
 ├── 3-lyrics.txt           (Lời sạch DistroKid)
 ├── <audio>.wav            (File âm thanh master)
 ├── timestamps.json, timestamps.txt, lyrics.srt (Bộ mốc thời gian)
-├── image.txt              (Kho prompts ảnh cho tool tải ảnh)
+├── image.json             (Kho prompts ảnh JSON độc lập)
 ├── prompt-animate.txt     (Kho prompts chuyển động cho tool video)
 ├── 6-seo.md               (Tiêu đề, mô tả YouTube)
 └── dola-auto-download/    (Thư mục ảnh tải về)
@@ -63,7 +63,7 @@ Khi một Project phát triển từ **2 bài hát trở lên**:
   │   ├── <audio>.wav
   │   ├── timestamps.json, timestamps.txt, lyrics.srt
   │   ├── 3-lyrics.txt
-  │   ├── image.txt          (prompts Midjourney riêng theo style)
+  │   ├── image.json         (prompts ảnh JSON riêng theo style)
   │   ├── prompt-animate.txt (prompts chuyển động riêng)
   │   └── 6-seo.md
   └── track-2-<tên_slug>/
