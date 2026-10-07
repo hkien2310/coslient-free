@@ -59,67 +59,60 @@ Biểu cảm của búp bê nghệ thuật dân gian không dựa vào cơ mặt
 
 ## 5. Quy Chuẩn Prompt Định Dạng JSON (Object-in-Object)
 
-Toàn bộ kịch bản được quản lý qua định dạng JSON phân tầng: Khối cứng (`GLOBAL`) khai báo 1 lần duy nhất ở đầu, và các khối động (`SCENES`) chỉ chứa thông tin biến đổi theo từng cảnh.
+Mỗi prompt là một **JSON Object độc lập, tự thân hoàn chỉnh (Standalone Self-Contained)**. Bạn có thể copy bất kỳ object nào trong file `prompts.json` ném thẳng vào công cụ tạo ảnh mà không sợ thiếu thông tin Style hay vỡ giải phẫu:
 
-### 5.1. Khung Cấu Trúc Tổng Thể
+### 5.1. Khung Cấu Trúc Cho Một Prompt Độc Lập
 
 ```json
 {
-  "GLOBAL": {
-    "style": {
-      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
-      "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
-      "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
-      "aspect_ratio": "16:9"
-    },
-    "character_dna": {
-      "archetype": "Stylized wooden folk art figurine, tall slender proportions, grounded whole-body",
-      "craft": "Smooth light-toned turned wood, styled wool hair under headwear, articulated carved fingers",
-      "face": "Minimalist hand-painted features, quiet dark brushstroke eyes, no blushed cheeks"
-    }
+  "id": "<Số thứ tự prompt>",
+  "STYLE": {
+    "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+    "handcrafted": "Turned light-toned wood, pressed felt cloth, rustic linen, beaten brass, curved timber",
+    "real_nature": "Real miniature moss, authentic damp earth, dried golden oak leaves, natural sunlight",
+    "aspect_ratio": "16:9"
   },
-  "SCENE_TEMPLATE": {
-    "SCENE": {
-      "camera": "<Góc máy & Cỡ cảnh: macro close-up / eye-level full-body / back-view / wide>",
-      "focus": "<Tiêu điểm thị giác: vật thể hoặc tương tác chính máy quay bắt trọn>"
+  "SCENE": {
+    "camera": "<Góc máy & Cỡ cảnh: macro close-up / eye-level full-body / back-view / wide>",
+    "focus": "<Tiêu điểm thị giác: vật thể hoặc tương tác chính máy quay bắt trọn>"
+  },
+  "CHARACTERS": {
+    "dna": "Stylized wooden folk art figurine, tall slender proportions, turned wooden head with styled hair under headwear, minimalist face without blushed cheeks, articulated hands",
+    "figure_1": {
+      "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
+      "position": "<Vị trí & bố cục: foreground left / center / 1/3 right / seated on focal prop>",
+      "head": "<Hình khối đầu (chữ nhật / oval / thon dài) + kiểu tóc len + loại mũ che đỉnh đầu>",
+      "attire": "<Trang phục & chất vải (tweed / nỉ / lanh) + quần suông dài phủ ủng da hoặc váy rủ>",
+      "action": "<Hành động dở dang có điểm tựa vật lý vững chắc>",
+      "gaze": "<Hướng nhìn & thần thái: nhìn bạn đồng hành / cúi nhìn đồ đang làm / nhìn xa xăm>"
     },
-    "CHARACTERS": {
-      "figure_1": {
-        "role": "<Vai trò & lứa tuổi ước lệ của nhân vật>",
-        "position": "<Vị trí & bố cục: foreground left / center / 1/3 right / seated on focal prop>",
-        "head": "<Hình khối đầu (chữ nhật / oval / thon dài) + kiểu tóc len + loại mũ che đỉnh đầu>",
-        "attire": "<Trang phục & chất vải (tweed / nỉ / lanh) + quần suông dài phủ ủng da hoặc váy rủ>",
-        "action": "<Hành động dở dang có điểm tựa vật lý vững chắc>",
-        "gaze": "<Hướng nhìn & thần thái: nhìn bạn đồng hành / cúi nhìn đồ đang làm / nhìn xa xăm>"
-      },
-      "figure_2": {
-        "role": "<Nhân vật thứ hai nếu có trong cảnh>",
-        "position": "<Vị trí tương quan với figure_1>",
-        "head": "<Hình khối đầu + tóc + mũ>",
-        "attire": "<Trang phục & chất liệu>",
-        "action": "<Hành động tương tác>",
-        "gaze": "<Hướng nhìn đối xứng>"
-      },
-      "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa tít tắp, không tả mặt/áo>"
+    "figure_2": {
+      "role": "<Nhân vật thứ hai nếu có trong cảnh>",
+      "position": "<Vị trí tương quan với figure_1>",
+      "head": "<Hình khối đầu + tóc + mũ>",
+      "attire": "<Trang phục & chất liệu>",
+      "action": "<Hành động tương tác>",
+      "gaze": "<Hướng nhìn đối xứng>"
     },
-    "ENVIRONMENT": {
-      "setting": "<Không gian kiến trúc hoặc địa điểm cụ thể>",
-      "focal_elements": "<Vật thể tương tác chính tại tiền cảnh: ghế dài, bàn mộc, xích đu, giếng đá>",
-      "backdrop": "<Không gian hậu cảnh xa: thung lũng sương, triền đồi, nóc nhà nhấp nhô>",
-      "real_nature": "<Chất liệu tự nhiên thật thu nhỏ: thảm rêu ẩm, sỏi cuội, lá khô, vỏ cây xù xì>",
-      "lighting": "<Nguồn sáng cụ thể: nắng sớm sương mai, nắng chiều tà xiên thấp, đèn lồng hổ phách>",
-      "motion": "<Tùy chọn: Chuyển động môi trường: hơi nước, tà áo lay, lá chao lượn>"
-    },
-    "SURREAL": {
-      "quirk": "<Chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ: lò nướng ấm trà, tháp lưỡi liềm...>"
-    }
+    "background_figures": "<Tùy chọn: Chấm bóng người tí hon ở hậu cảnh xa tít tắp, không tả mặt/áo>"
+  },
+  "ENVIRONMENT": {
+    "setting": "<Không gian kiến trúc hoặc địa điểm cụ thể>",
+    "focal_elements": "<Vật thể tương tác chính tại tiền cảnh: ghế dài, bàn mộc, xích đu, giếng đá>",
+    "backdrop": "<Không gian hậu cảnh xa: thung lũng sương, triền đồi, nóc nhà nhấp nhô>",
+    "real_nature": "<Chất liệu tự nhiên thật thu nhỏ: thảm rêu ẩm, sỏi cuội, lá khô, vỏ cây xù xì>",
+    "lighting": "<Nguồn sáng cụ thể: nắng sớm sương mai, nắng chiều tà xiên thấp, đèn lồng hổ phách>",
+    "motion": "<Tùy chọn: Chuyển động môi trường: hơi nước, tà áo lay, lá chao lượn>"
+  },
+  "SURREAL": {
+    "quirk": "<Chi tiết kỳ ảo mộc mạc hoặc chơi đùa tỷ lệ: lò nướng ấm trà, tháp lưỡi liềm...>"
   }
 }
 ```
 
 ---
 
-### 5.2. Quy Tắc Chi Tiết Từng Trường Động (Field Rules)
+### 5.2. Quy Tắc Chi Tiết Từng Trường (Field Rules)
 
 #### Khối 1: `SCENE` (Máy Quay & Tiêu Điểm)
 * **`camera`**: Định vị góc quay và cỡ cảnh quang học (`macro close-up shot` / `eye-level full-body shot` / `medium shot from behind` / `panoramic wide shot`).
