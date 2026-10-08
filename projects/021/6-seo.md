@@ -1,10 +1,4 @@
-# SEO: THE SWING IN OCTOBER (PROJECT 021 — 2-TRACK COMPLETE EDITION)
-
-> 💡 **Lưu ý:** Sử dụng file này khi upload video ghép hoàn chỉnh cả 2 Track (Full Film ~8:40). Nếu upload từng Track riêng rẽ, xem file `6-seo.md` trong thư mục con tương ứng của từng Track:
-> - Track 1: [`track-1-the-swing/6-seo.md`](./track-1-the-swing/6-seo.md)
-> - Track 2: [`track-2-the-walk-home/6-seo.md`](./track-2-the-walk-home/6-seo.md)
-
----
+# SEO: THE SWING IN OCTOBER (VIDEO 021)
 
 ## 1. FILE NAME (TRƯỚC KHI UPLOAD)
 
@@ -20,19 +14,20 @@ forty-years-from-now-that-will-be-us-thumbnail.jpg
 
 ---
 
-## 2. TITLE
+## 2. TITLE (DƯỚI 70 KÝ TỰ)
 
 ```text
 Forty years from now, that's gonna be me and you | Surreal Film (4K)
 ```
 
 *(Dự phòng 1: `An old couple on a park swing showed them how to love | A Dream Town`)*  
-*(Dự phòng 2: `The Swing in October: A Two-Part Love Story | A Dream Town (4K)`)*
+*(Dự phòng 2: `Watching him push that swing, she was twenty again | A Dream Town`)*  
+*(Dự phòng 3: `The Swing in October | Surreal AI Folk Film (4K)`)*
 
 ---
 
 ## 3. THUMBNAIL
-- **Visual:** Khung hình chia đôi nhịp nhàng hoặc góc đối xứng tương phản: Bên trái là cụ ông đẩy cụ bà tóc bạc cười rạng rỡ trên xích đu trong ánh nắng chiều thu; bên phải là đôi vợ chồng trẻ dắt tay nhau qua cầu gỗ dưới ánh đèn đường lung linh lúc chập tối.
+- **Visual:** Khung hình 3/4 ấm áp và giàu cảm xúc. Cụ ông tóc bạc trong áo khoác dạ tweed mỉm cười đẩy xích đu gỗ, cụ bà mặc áo len màu vàng mù tạt cười rạng rỡ tung chân giữa trời lá phong vàng bay lấp lánh trong nắng chiều tà. Ở tiền cảnh làm mờ là người chồng trẻ đang huých nhẹ tay vợ mình cùng ngắm nhìn với nụ cười tràn ngập tình yêu thương.
 - **Text (nếu có):** `STILL TWENTY` (2 từ, font sans thanh lịch, góc trên).
 
 ---
@@ -40,16 +35,16 @@ Forty years from now, that's gonna be me and you | Surreal Film (4K)
 ## 4. DESCRIPTION
 
 ```text
-On an October evening in a quiet park, two lovers stopped to watch an old couple playing on a wooden swing. Gray hair blowing in the wind, boots kicking autumn leaves toward the sky—she was twenty years old again. And when the old folks walked home into the dusk, he led his wife to the empty swing and whispered: "Your turn."
+On a chilly October evening, we stopped in the park to watch an old couple playing on a wooden swing. Gray hair blowing in the wind, boots kicking gold leaves toward the sky—she was laughing like she was twenty years old again. And when the old folks walked home into the dusk, I gently led my wife to the empty swing and whispered: "Your turn."
 
-A two-part handcrafted acoustic story about growing old together, holding hands across forty years, and realizing that true love never loses its youthful smile.
+A two-part handcrafted acoustic story about growing old together, holding hands across forty years, and knowing that true love never forgets how to smile.
 
 🎧 Spotify: https://open.spotify.com/artist/4FVU7hNPy3mc5HAm68iSB9
 🍎 Apple Music: https://music.apple.com/us/artist/coslient/1895068939
 
 ⏱ CHAPTERS:
-0:00 — Look at Them, Darlin' (Track 1)
-4:20 — Your Turn on the Swing (Track 2)
+0:00 — Look at Them, Darlin' (Part 1)
+4:20 — Your Turn on the Swing (Part 2)
 
 ---
 
@@ -181,7 +176,7 @@ We never will grow old
 
 Original Music & Visuals by Coslient
 
-#adreamtown #coslient #miniatureworld #growingoldtogether #acousticfolk #loveafterforty
+#adreamtown #coslient #miniatureworld #growingoldtogether #acousticfolk #loveafterforty #autumnwalkhome
 ```
 
 ---
@@ -189,7 +184,7 @@ Original Music & Visuals by Coslient
 ## 5. TAGS (THÊM NGOÀI DEFAULT)
 
 ```text
-growing old together folk song, old couple on a swing, autumn park love story, acoustic folk country ballad, wholesome love song, nostalgic acoustic music, sweet marriage story
+growing old together folk song, old couple on a swing, autumn park love story, acoustic folk country ballad, wholesome love song, nostalgic acoustic music, sweet marriage story, autumn walk home
 ```
 
 ---
@@ -197,7 +192,7 @@ growing old together folk song, old couple on a swing, autumn park love story, a
 ## 6. PINNED COMMENT
 
 ```text
-What is one silly, playful thing you and your partner still do that makes you feel like teenagers again? 🍂💛
+What is one silly, playful thing you and your partner still do that makes you feel twenty years old again? 🍂💛
 ```
 
 ---
@@ -216,18 +211,24 @@ Watching him push that swing, she was twenty again 🍂 #shorts #adreamtown
 > - YouTube Playlists: Tra cứu theo logic tại đầu file [`ref/youtube_playlists.md`](../../ref/youtube_playlists.md)  
 > - DistroKid Album/EP: Tra cứu theo logic tại đầu file [`ref/distrokid.md`](../../ref/distrokid.md)
 
-### YouTube Playlists (Tick chọn khi upload):
+### YouTube Playlists (Tick chọn khi upload Video 021):
 ```text
 Home & Old Friends | Acoustic Stories of Dogs, Family & Memories
 Kettle & Light (Official Album)
 The Universe Hidden Inside the Mind | All Videos
 ```
 
-### DistroKid Release:
+### DistroKid Release (2 bài hát riêng rẽ trong Album):
 ```text
-Track 1: Look at Them, Darlin'
-Track 2: Your Turn on the Swing
-Artist: Coslient
-Album / EP: Kettle & Light
-Genre: Singer-Songwriter / Folk
+Track 1:
+- Track Title: Look at Them, Darlin'
+- Artist: Coslient
+- Album / EP: Kettle & Light
+- Genre: Singer-Songwriter / Folk
+
+Track 2:
+- Track Title: Your Turn on the Swing
+- Artist: Coslient
+- Album / EP: Kettle & Light
+- Genre: Singer-Songwriter / Folk
 ```
