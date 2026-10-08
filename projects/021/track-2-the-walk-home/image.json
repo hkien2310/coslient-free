@@ -1571,5 +1571,531 @@
     "ANIMATION": {
       "prompt": "Alive Surreal World, smooth camera glide. A couple embracing on their lantern-lit porch, gazing out together at the peaceful starry night."
     }
+  },
+  {
+    "id": 31,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Village folk fiddler",
+          "build": "Slender energetic musician proportions, dynamic standing posture",
+          "head": "Turned wooden head, chestnut wool hair under a charcoal tweed flat cap, flat minimalist painted face with soft pupils and a joyful passionate single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dark slate tweed waistcoat over oatmeal linen shirt, tailored charcoal wool trousers, small leather boots tapping on flagstones",
+          "action": "Standing beside the fountain rim, tucking a handcrafted miniature blond pine fiddle beneath his chin while vigorously drawing his horsehair bow across the strings, right boot tapping the rhythm",
+          "gaze": "Looking up with infectious musical joy toward the surrounding village square"
+        }
+      ],
+      "background_figures": "Miniature village couples in soft silhouette swaying rhythmically in the warm lantern glow around the square"
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, low-angle dynamic medium shot looking up from the fountain basin rim",
+      "setting": "Octagonal carved stone fountain plaza in the village market square at night",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Handcrafted blond pine fiddle and octagonal stone fountain",
+          "material": "Miniature carved spruce soundboard, maple back, horsehair bow, cleaved slate fountain stones",
+          "details": "Fine carved scrollwork on fiddle neck, clear rippling water inside the stone basin catching golden lantern reflections"
+        }
+      ],
+      "staging": "figure_1 stands dynamically in center-frame atop the stone fountain curb of prop_1; the fountain basin anchors the lower-left; background_figures sway gently in the right background amidst warm amber shop lights",
+      "real_nature": "Real wet miniature slate pavers, dark loam in crevices, miniature autumn birch leaves floating in fountain water",
+      "backdrop": "Softly blurred medieval timber-framed facades adorned with glowing copper lanterns and starry night sky",
+      "lighting": "Warm golden-amber illumination flooding from plaza lanterns, creating radiant highlights along figure_1's tweed coat and the blond wood fiddle",
+      "motion": "A crisp evening breeze swirling dry golden leaves across the wet flagstones around figure_1's tapping boot"
+    },
+    "SURREAL": {
+      "quirk": "The sound holes of the wooden fiddle emit tiny golden bioluminescent notes that float into the crisp evening air"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth orbital camera. A fiddler playing a lively tune beside the stone fountain, tapping his foot in rhythm."
+    }
+  },
+  {
+    "id": 32,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Young artisan husband",
+          "build": "Slender upright proportions, paused strolling posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and an affectionate beaming single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dark slate tweed overcoat, tailored charcoal wool trousers, small leather boots firmly planted on paving stones",
+          "action": "Pausing on the stone plaza flagstones, wrapping his left arm tenderly around figure_2's waist while holding her hand, swaying in place to the distant melody",
+          "gaze": "Looking down into figure_2's smiling face with pure warmth"
+        },
+        {
+          "id": "figure_2",
+          "role": "Young companion wife",
+          "build": "Slender graceful proportions, rhythmic swaying posture",
+          "head": "Slender oval wooden head, auburn yarn braids under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a joyful radiant single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt, small leather boots",
+          "action": "Standing close against figure_1, resting both wooden hands on his wool lapel as she sways gently in time with the music, laughing with delight",
+          "gaze": "Looking up into figure_1's eyes with sparkling affection"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level three-quarter medium shot with warm festive bokeh",
+      "setting": "Perimeter arcade of the village market square beneath strung copper lanterns",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Strung copper lanterns and timber arcade arch",
+          "material": "Hand-beaten miniature copper lanterns, natural jute hanging twine, aged blond ash timber posts",
+          "details": "Lichen-speckled timber posts, brilliant golden-amber light glowing through glass lantern panes"
+        }
+      ],
+      "staging": "figure_1 and figure_2 sway together in center-frame framed by the timber arch of prop_1; the lively fountain plaza recedes into soft, golden bokeh circles in the background",
+      "real_nature": "Real miniature river slate flagstones, dark loam between stone joints, dry golden elm leaves",
+      "backdrop": "Softly blurred market plaza with dancing silhouettes and warm yellow shopfront windows under the night sky",
+      "lighting": "Luminous overhead amber glow from the strung copper lanterns casting rich dancing highlights over their wool coats and beret",
+      "motion": "A gentle autumn breeze swaying the strung overhead copper lanterns, casting shifting warm light ribbons on the ground"
+    },
+    "SURREAL": {
+      "quirk": "Strung copper lanterns between the eaves sway in perfect unison as if keeping tempo with the melody"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth camera glide. A couple pausing on the plaza flagstones, swaying together to distant music with affectionate smiles."
+    }
+  },
+  {
+    "id": 33,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CREATURES": [
+      {
+        "id": "creature_1",
+        "role": "Whittled walnut wood European river otter",
+        "build": "Sleek elongated folk-art river mammal silhouette, inquisitive seated posture",
+        "material": "Carved dark walnut wood, sleek polished grain surface, two tiny round painted black dot eyes, miniature carved webbed paws, slender tapering tail",
+        "action": "Perched on its haunches atop a flat slate boulder at the water's edge, holding a polished shiny silver river pebble in both articulated paws, turning it over inquisitively in the moonlight",
+        "gaze": "Keenly examining the glistening wet pebble held in its paws"
+      }
+    ],
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, ground-level water's edge macro shot with shallow depth of field",
+      "setting": "Wet gravel riverbank below the watermill sluice gate under deep sapphire night sky",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Flat river slate boulder and polished silver pebble",
+          "material": "Real miniature dark slate stone, living emerald cushion moss, genuine polished silver-grey river pebble",
+          "details": "Water droplets glistening on stone surface, velvety moss edging, cool blue water reflections"
+        }
+      ],
+      "staging": "creature_1 sits prominently in razor-sharp focus in center-foreground atop prop_1; the babbling mill stream flows diagonally behind; background falls into luminous circular bokeh of distant mill lanterns",
+      "real_nature": "Real wet miniature slate river stones, crushed river sand, living cushion moss, floating autumn leaves",
+      "backdrop": "Softly blurred dark slate watermill wheel and distant glowing amber windows under starry night sky",
+      "lighting": "Enchanting contrast: cool sapphire moonlit water surface accented by warm amber rim-light from the distant mill",
+      "motion": "Gentle water currents rippling past the river stones, carrying miniature drifting golden birch leaves"
+    },
+    "SURREAL": {
+      "quirk": "The polished river pebble in the otter's paws reflects the glowing crescent moon as if it were a tiny silver mirror"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth close-up drift. A sleek river otter perched on a wet river stone, curiously inspecting a shiny pebble."
+    }
+  },
+  {
+    "id": 34,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Village master potter",
+          "build": "Slender focused craftsman proportions, active seated posture",
+          "head": "Turned wooden head, charcoal wool hair under a rolled slate wool headband, flat minimalist painted face with soft pupils and a calm concentrated single-line mouth, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal linen potter's smock stained with clay, charcoal work trousers, sturdy leather boots on foot treadle",
+          "action": "Sitting at the heavy oak kick-wheel, using both wet clay-coated articulated hands to skillfully draw upward and shape the neck of an elegant earthenware water jug as the wheel head spins smoothly",
+          "gaze": "Intently focused on the wet spinning clay jug between his fingers"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level medium workbench shot with shallow depth of field",
+      "setting": "Rustic stone-walled pottery shed with wide open arched doors looking out onto the dark village path",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Heavy oak kick-wheel and spinning clay jug",
+          "material": "Hand-carved ash timber wheel frame, wet grey pottery clay, iron flywheel, wooden water trough",
+          "details": "Water splashes on wheel head, glistening spiral clay grooves, small sponge and rib tools beside wheel"
+        },
+        {
+          "id": "prop_2",
+          "item": "Drying pottery shelves and hanging lantern",
+          "material": "Aged pine plank shelves, finished saffron-glazed earthenware pitchers, brass oil lantern",
+          "details": "Neat rows of drying pots catching warm golden lantern light along the back stone wall"
+        }
+      ],
+      "staging": "figure_1 and prop_1 occupy center-stage in razor-sharp focus; prop_2 lines the background wall in soft warm glow; the arched doorway on the right reveals the blue night air outside",
+      "real_nature": "Fine dry clay dust on stone floor, authentic miniature terracotta pots, dry sprig of wild fennel",
+      "backdrop": "Softly blurred rustic fieldstone workshop walls with tools and glowing lantern bokeh",
+      "lighting": "Warm directional golden-amber beam from an overhead brass lantern illuminating the potter's hands and the glistening wet clay",
+      "motion": "Fine water droplets flying lightly from the spinning wheel head into the wooden catch basin"
+    },
+    "SURREAL": {
+      "quirk": "Thin concentric grooves on the spinning clay jug catch the amber candlelight, sparkling like microscopic golden rings"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth camera glide. A potter shaping a spinning clay jug with wet hands on his wooden kick-wheel."
+    }
+  },
+  {
+    "id": 35,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Young artisan husband",
+          "build": "Slender upright proportions, hospitable active posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a warm cheerful single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dark slate tweed overcoat with rolled sleeves, tailored charcoal wool trousers, small leather boots",
+          "action": "Standing beside the oak cider barrel, turning the miniature brass spigot with his right wooden hand to pour a streaming amber cascade of hot spiced cider into a glazed ceramic mug",
+          "gaze": "Watching the steaming cider fill the ceramic mug with joyful focus"
+        },
+        {
+          "id": "figure_2",
+          "role": "Young companion wife",
+          "build": "Slender graceful proportions, expectant happy posture",
+          "head": "Slender oval wooden head, auburn yarn braids under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a radiant laughing single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt, small leather boots",
+          "action": "Standing close beside figure_1, holding a tiny dried cinnamon stick in both carved hands, leaning forward eagerly to inhale the fragrant apple steam",
+          "gaze": "Smiling with sparkling anticipation at the steaming cider mug"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, high-angle three-quarter shot looking into the cider press shed",
+      "setting": "Open timber-framed cider press barn surrounded by apple orchards at dusk",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Oak cider barrel and streaming spiced cider",
+          "material": "Aged oak timber barrel with iron hoops, cast brass spigot, glazed saffron ceramic mug",
+          "details": "Rich plumes of aromatic white steam, warm amber cider splashing into the mug with golden bubbles"
+        },
+        {
+          "id": "prop_2",
+          "item": "Wooden apple crates and screw press",
+          "material": "Slatted pine fruit crates, miniature sculpted red apples, cast-iron screw press",
+          "details": "Crates overflowing with glossy miniature apples, fresh wood shavings on the timber floor"
+        }
+      ],
+      "staging": "figure_1 and figure_2 stand together center-frame around prop_1 in rich warm light; prop_2 anchors the left foreground with overflowing apple crates; the open barn doors on the right look out onto the dark orchard",
+      "real_nature": "Real miniature split apple wood kindling, dried star anise and cinnamon bark on bench, autumn apple leaves",
+      "backdrop": "Softly blurred dark orchard trees against deep sapphire evening sky and glowing farmhouse windows",
+      "lighting": "Vibrant warm golden-amber glow emanating from hanging tin lanterns inside the barn, bathing the couple in rich evening warmth",
+      "motion": "Thick fragrant clouds of aromatic cider steam curling upward toward the timber roof beams"
+    },
+    "SURREAL": {
+      "quirk": "Apple wood shavings scattered around the press release microscopic golden aroma spirals that drift toward the rafters"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth interior glide. A man pouring steaming spiced cider from an oak barrel into a mug for his companion."
+    }
+  },
+  {
+    "id": 36,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CREATURES": [
+      {
+        "id": "creature_1",
+        "role": "Whittled cedar miniature swallow (first)",
+        "build": "Slender aerodynamic folk-art bird silhouette, perched snug posture",
+        "material": "Carved white cedar wood, delicate burned feather textures, dark slate-blue painted back, cream breast, two black dot eyes",
+        "action": "Perched inside a woven mud-and-moss nest tucked beneath the timber eave, gently preening creature_2's neck feathers with its tiny painted beak",
+        "gaze": "Tenderly focused on preening its companion"
+      },
+      {
+        "id": "creature_2",
+        "role": "Whittled cedar miniature swallow (second)",
+        "build": "Slender matching folk-art bird silhouette, nestled cozy posture",
+        "material": "Carved white cedar wood, dark slate-blue plumage, saffron throat patch, cream breast, two black dot eyes",
+        "action": "Nestled closely beside creature_1 in the nest, tilting its head peacefully with closed eyes while basking in the warmth of the lantern below",
+        "gaze": "Closed eyes in serene contentment"
+      }
+    ],
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, low-angle macro shot looking up into the sheltered timber eave with shallow depth of field",
+      "setting": "Sheltered oak rafter eave above a glowing brass carriage lantern outside the village inn",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Mud-and-moss swallow nest and glowing brass carriage lantern",
+          "material": "Miniature sculpted clay-and-moss nest cup, dried golden straw, antique brass lantern bracket",
+          "details": "Velvety green moss tufts woven into the nest rim, brilliant warm amber glow rising from the lantern glass below"
+        }
+      ],
+      "staging": "creature_1 and creature_2 sit nestled in prop_1 in razor-sharp tactile focus in upper-center frame; the glowing lantern provides brilliant illumination from the lower-left; the dark slate shingles recede into soft twilight bokeh",
+      "real_nature": "Living cushion moss fragments, dried wild grass stems, authentic weathered cedar roof shingles",
+      "backdrop": "Softly blurred dark indigo night sky with silhouettes of cottage chimney stacks and early stars",
+      "lighting": "Luminous upward amber glow from the lantern directly beneath the nest, casting warm dancing rim-light over both swallows' carved feathers",
+      "motion": "A gentle night breeze fluttering a tiny piece of dry golden straw dangling from the nest rim"
+    },
+    "SURREAL": {
+      "quirk": "The mud-and-moss nest has tiny dried golden straw stems that faintly gleam like woven gold thread"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth close-up drift. A pair of barn swallows perched together in their nest under the eaves, preening their feathers."
+    }
+  },
+  {
+    "id": 37,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Elderly master cobbler",
+          "build": "Slender weathered craftsman proportions, active seated posture",
+          "head": "Turned wooden head, silver wool hair under a dark slate cobbler's cap, flat minimalist painted face with soft pupils and a calm devoted single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Charcoal leather work apron over oatmeal wool tunic, dark slate trousers, polished leather work boots",
+          "action": "Sitting on a low timber bench, holding a miniature leather winter boot over a cast-iron shoe anvil with his left hand, while his right hand taps a tiny brass nail into the heel with a polished wooden cobbler's hammer",
+          "gaze": "Intently focused on the small brass nail being driven into the boot heel"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level macro workbench shot with shallow depth of field",
+      "setting": "Cozy timber-and-stone cobbler's workshop with street-level paned bow window",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Cast-iron shoe anvil and leather winter boot",
+          "material": "Cast dark slate metal anvil, miniature carved leather boot, polished horn cobbler's hammer, brass tacks",
+          "details": "Gleaming brass nail heads in boot heel, rich leather burnishing marks, small ceramic dish of brass nails on bench"
+        },
+        {
+          "id": "prop_2",
+          "item": "Cobbler's tool rack and hanging oil lamp",
+          "material": "Aged pine wall rack, miniature awls and edge-slickers, glowing brass oil lamp",
+          "details": "Hanging tools in soft focus, warm golden light radiating over the workbench"
+        }
+      ],
+      "staging": "figure_1 and prop_1 occupy center-stage in sharp tactile clarity; prop_2 frames the background wall; the street-level window on the right reveals passing twilight shadows",
+      "real_nature": "Fine curls of trimmed leather on the pine floor, dark shoe-wax tin, dry sprig of thyme on window sill",
+      "backdrop": "Softly blurred dark wood workshop interior filled with rows of wooden shoe lasts on shelves",
+      "lighting": "Luminous amber pool of lamplight focused directly on figure_1's hands, the brass hammer, and the burnished leather boot",
+      "motion": "A faint wisp of fragrant smoke rising steadily from the brass oil lamp flame"
+    },
+    "SURREAL": {
+      "quirk": "Each tiny brass nail driven into the boot sole rings with a microscopic musical pitch, harmonizing like a tiny bell"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth camera drift. An elderly cobbler tapping small brass nails into a leather boot heel on his workshop anvil."
+    }
+  },
+  {
+    "id": 38,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Young artisan husband",
+          "build": "Slender upright proportions, guiding attentive posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and an admiring single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dark slate tweed overcoat, tailored charcoal wool trousers, small leather boots stepping along slate path",
+          "action": "Walking along the greenhouse gravel aisle, raising a brass hurricane lantern high in his left hand to illuminate blooming autumn flowers while his right hand holds figure_2's hand",
+          "gaze": "Looking with smiling appreciation toward the blooming flowers"
+        },
+        {
+          "id": "figure_2",
+          "role": "Young companion wife",
+          "build": "Slender graceful proportions, enchanted stepping posture",
+          "head": "Slender oval wooden head, auburn yarn braids under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a joyful radiant single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt, small leather boots",
+          "action": "Walking beside figure_1, extending her left carved wooden hand toward a blooming saffron chrysanthemum blossom to admire its petals, smiling with wonder",
+          "gaze": "Gazing with sparkling curiosity at the illuminated golden blossom"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, eye-level three-quarter tracking shot through glass conservatory arches",
+      "setting": "Victorian-style miniature glass greenhouse filled with blooming autumn flowers at night",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Blooming saffron chrysanthemums and terracotta pots",
+          "material": "Sculpted miniature saffron-yellow petals, authentic miniature terracotta urns, dark garden soil",
+          "details": "Lush emerald foliage, glowing golden flower petals reflecting the lantern light, moisture droplets on leaves"
+        },
+        {
+          "id": "prop_2",
+          "item": "Wrought-iron greenhouse ribs and glass panes",
+          "material": "Aged dark slate metal ribs, thin clear glass panes with condensation droplets",
+          "details": "Arched ceiling framing the deep sapphire starry sky outside"
+        }
+      ],
+      "staging": "figure_1 and figure_2 walk along the center aisle in balanced three-quarter profile; prop_1 borders the path along the lower-right; prop_2 curves gracefully overhead framing the night sky",
+      "real_nature": "Living miniature cushion moss, dark rich potting soil, authentic miniature terracotta pots, crushed gravel path",
+      "backdrop": "Deep sapphire velvet night sky with pinprick stars visible through the steam-kissed glass greenhouse panes",
+      "lighting": "Magical dual lighting: cool moonlit sapphire sky overhead, warm glowing saffron-amber lantern light flooding the walkway and flower blossoms",
+      "motion": "Gentle condensation droplets slowly sliding down the angled glass panes in the humid greenhouse air"
+    },
+    "SURREAL": {
+      "quirk": "Saffron chrysanthemum blossoms faintly pulse with a soft golden inner light when touched by the lantern beam"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth camera tracking. Two people walking through a warm glass conservatory, holding a lantern up to glowing autumn flowers."
+    }
+  },
+  {
+    "id": 39,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Young companion wife",
+          "build": "Slender graceful proportions, active working posture",
+          "head": "Slender oval wooden head, auburn yarn braids tossing under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a ringing cheerful single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal pressed felt coat with sleeves pushed up, pleated saffron wool skirt, small leather boots firmly planted",
+          "action": "Standing beside the stone well curb, gripping the weathered wooden windlass crank with both articulated hands to turn the spindle and hoist up the full wooden water bucket",
+          "gaze": "Looking down happily into the well opening as the bucket rises"
+        },
+        {
+          "id": "figure_2",
+          "role": "Young artisan husband",
+          "build": "Slender upright proportions, ready supportive posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a beaming affectionate single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Dark slate tweed overcoat, tailored charcoal wool trousers, small leather boots",
+          "action": "Standing beside the well, reaching out with both carved hands ready to grasp the rope handle of the rising oak bucket to help lift it onto the stone ledge",
+          "gaze": "Watching the rising bucket while smiling affectionately at figure_1"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, low-angle three-quarter medium shot looking up from the stone pathway",
+      "setting": "Antique fieldstone water well at the intersection of village walking lanes under early stars",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Fieldstone water well and oak water bucket",
+          "material": "Miniature cleaved river slate well wall, cedar shingle roof canopy, turned ash crank, banded oak bucket",
+          "details": "Lichen tufts on stone coping, clear water brimming in bucket with silver starlight reflections, wet hemp winding rope"
+        }
+      ],
+      "staging": "prop_1 anchors the center of the frame; figure_1 stands on the left cranking the windlass; figure_2 stands on the right reaching for the bucket; open twilight lanes spread outward into the background",
+      "real_nature": "Real miniature river slate flagstones, living cushion moss around well base, fallen golden oak leaves",
+      "backdrop": "Softly blurred stone cottage gables and glowing amber lantern posts curving along the lane into the night",
+      "lighting": "Enchanting twilight illumination: cool sapphire skylight bathing the well roof, contrasted by warm amber rays from a nearby post lantern",
+      "motion": "Clear water droplets splashing musically from the rising bucket back into the deep stone well"
+    },
+    "SURREAL": {
+      "quirk": "The water inside the hoisted bucket glows with a gentle silver phosphorescence reflecting the night sky"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth camera glide. A woman turning the wooden well crank to lift a water bucket as a man helps."
+    }
+  },
+  {
+    "id": 40,
+    "STYLE": {
+      "world": "Handcrafted mixed-media tabletop diorama of a whimsical folk art miniature world",
+      "palette": "Luminous and clear, charcoal and dark slate with glowing saffron-mustard and warm amber accents, natural blond wood",
+      "aspect_ratio": "16:9"
+    },
+    "CHARACTERS": {
+      "dna": "Stylized wooden folk art figurine, smooth turned wooden head, flat minimalist painted face with soft pupils and fine single-line mouth, zero skin wrinkles, no teeth, no blushed cheeks, articulated hands",
+      "figures": [
+        {
+          "id": "figure_1",
+          "role": "Young companion wife",
+          "build": "Slender graceful proportions, relaxed domestic posture",
+          "head": "Slender oval wooden head, auburn yarn braids falling freely over shoulders, flat minimalist painted face with soft pupils and a tranquil peaceful single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Saffron-mustard knitted wool cardigan over oatmeal linen nightdress, soft indoor leather slippers",
+          "action": "Standing beside the timber dormer window, using both carved wooden hands to gently pull the woven saffron linen curtain across the pane, looking back over her shoulder with a sleepy, contented smile",
+          "gaze": "Looking across the candlelit bedroom toward figure_2 with gentle adoration"
+        },
+        {
+          "id": "figure_2",
+          "role": "Young artisan husband",
+          "build": "Slender relaxed proportions, seated bedtime posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair revealed without cap, flat minimalist painted face with soft pupils and a serene single-line smile, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal knitted wool jumper, charcoal trousers, unlaced leather boots resting on rag rug",
+          "action": "Sitting on the edge of the handcrafted blond pine bedstead, leaning forward to unlace his leather boots, smiling back at figure_1",
+          "gaze": "Looking up into figure_1's face with peaceful devotion"
+        }
+      ]
+    },
+    "ENVIRONMENT": {
+      "camera": "Macro tilt-shift, high-angle wide panoramic interior shot with intimate bedtime warmth",
+      "setting": "Cozy attic bedroom loft with exposed cedar rafters and multi-pane dormer window",
+      "focal_elements": [
+        {
+          "id": "prop_1",
+          "item": "Handcrafted blond pine bedstead and patchwork wool quilt",
+          "material": "Aged blond pine timbers, hand-stitched wool patchwork quilt in charcoal, slate, and saffron squares, fluffy down pillow",
+          "details": "Tactile woodgrain on headboard, plush folded quilt textures, nightstand with burning beeswax candle"
+        },
+        {
+          "id": "prop_2",
+          "item": "Dormer window and woven saffron linen curtain",
+          "material": "Hand-hewn ash dormer frame, thin clear glass, textured saffron woven linen",
+          "details": "Showing the deep velvet sapphire night sky and distant twinkling village rooflines outside"
+        }
+      ],
+      "staging": "prop_1 anchors the left midground with figure_2 sitting comfortably on the edge; figure_1 stands by prop_2 in the right midground drawing the curtain; the sloping timber rafters frame the cozy upper third",
+      "real_nature": "Real miniature braided wool rag rug on pine floorboards, dried sprigs of lavender on nightstand, beeswax candle",
+      "backdrop": "Softly blurred attic cedar rafters with hanging bundles of dried sweetgrass and herbs",
+      "lighting": "Enchanting warm golden-amber candlelight flooding the loft bedroom, creating soft dancing shadows against the dark blue starry night outside",
+      "motion": "A gentle night draft swaying the linen curtain slightly as figure_1 pulls it across the glass"
+    },
+    "SURREAL": {
+      "quirk": "Outside the dormer window, a cluster of chimney smoke puffs slowly drift past in the shape of gentle sheep resting on the night hills"
+    },
+    "ANIMATION": {
+      "prompt": "Alive Surreal World, smooth interior glide. A woman drawing the window curtain while her companion unlaces his boots in the bedroom."
+    }
   }
 ]
