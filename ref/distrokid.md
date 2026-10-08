@@ -26,7 +26,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
 | A Place Back Home | 2 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
-| Kettle & Light | 1 | Americana Country-Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
+| Kettle & Light | 3 | Americana Country-Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
 
 ---
 
@@ -370,6 +370,53 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Vocal:** Warm male vocal with lived-in storytelling delivery and female harmony joining choruses
 - **Cultural Anchor:** Cozy porch acoustic intimacy × Lived-in family storytelling
 - **Date Added:** 2026-09-30
+
+---
+
+## 🔴 Kettle & Light [unreleased] — 3 tracks
+
+**Album:** Kettle & Light (Coslient Free V2 Americana Ballad Release)  
+**Genre / Vibe:** Americana Country-Folk Ballad, Slow Unhurried Mornings & Evenings, Lived-in Acoustic Warmth  
+**Mood:** Peaceful, tender, heartwarming, unhurried sanctuary, lifelong companionship  
+**Signature Sound:** Fingerpicked acoustic guitar, subtle upright bass, soft pedal steel swells, warm soaring fiddle, lived-in warm baritone, 68–72 BPM  
+**Cultural Anchors:** John Prine, Guy Clark, Townes Van Zandt, Gregory Alan Isakov  
+**Tracks:** 3 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
+
+### 1. Learning to Sit Still
+- **Project:** [020](file:///Users/hoangkien/Youtube/coslient-free/projects/020)
+- **About:** Sau 38 năm chạy theo tiếng còi tàu hỏa, bàn tay vẫn quen thò vào túi tìm chiếc huy hiệu cũ — giờ đây học cách sống chậm lại, ngồi yên uống tách cà phê nóng cùng người thương bên hiên nhà
+- **Genre:** Americana Country-Folk Ballad, Acoustic Singer-Songwriter
+- **BPM / Time:** 68 BPM, 4/4
+- **Key:** —
+- **Duration:** ~3:20
+- **Instrumentation:** Fingerpicked acoustic guitar, felt piano, mellow pedal steel, upright bass, brushed snare
+- **Vocal:** Weathered lived-in male baritone, quiet conversational delivery
+- **Cultural Anchor:** Early morning quietude × Learning to slow down after retirement
+- **Date Added:** 2026-10-05
+
+### 2. Look at Them, Darlin'
+- **Project:** [021](file:///Users/hoangkien/Youtube/coslient-free/projects/021) (Track 1)
+- **About:** Đi dạo công viên chiều thu, người chồng huých nhẹ tay vợ bảo nhìn hai cụ già tóc bạc đang chơi xích đu đùa nghịch như đôi trẻ — trêu vợ rằng 40 năm nữa em cũng sẽ bắt anh đẩy xích đu như thế
+- **Genre:** Americana, Classic Country-Folk, Acoustic Singer-Songwriter
+- **BPM / Time:** 68 BPM, 4/4 unhurried pocket
+- **Key:** —
+- **Duration:** ~4:20
+- **Instrumentation:** Fingerpicked acoustic guitar lead, subtle upright bass, soft pedal steel swells, warm emotional fiddle
+- **Vocal:** Warm lived-in baritone, smiling conversational delivery, clear diction
+- **Cultural Anchor:** Wholesome lifelong love × Autumn park memories
+- **Date Added:** 2026-10-08
+
+### 3. Your Turn on the Swing
+- **Project:** [021](file:///Users/hoangkien/Youtube/coslient-free/projects/021) (Track 2)
+- **About:** Hai cụ già rời đi, chồng kéo tay vợ lại xích đu gỗ đẩy cho vợ cười khúc khích tung chân giữa lá vàng rơi, rồi dắt tay nhau về dưới ánh đèn đường với lời hứa: 40 năm nữa em vẫn là cô gái 20 tuổi của anh
+- **Genre:** Americana, Classic Country-Folk, Acoustic Singer-Songwriter
+- **BPM / Time:** 72 BPM, 4/4 steady walking groove
+- **Key:** —
+- **Duration:** ~4:20
+- **Instrumentation:** Warm acoustic guitar strumming lead, warm singing fiddle, soft pedal steel swells, subtle upright bass
+- **Vocal:** Warm lived-in baritone, smiling conversational delivery, uplifting tender chorus
+- **Cultural Anchor:** Romantic autumn walk home × Playful enduring marriage
+- **Date Added:** 2026-10-08
 
 ---
 
