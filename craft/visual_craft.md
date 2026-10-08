@@ -38,7 +38,7 @@ Khi viết prompt thứ $N$, phải chủ động xoay vòng tối thiểu **3 t
 
 ### Trục 3 — Thông số máy ảnh & Góc quay:
 - **Cỡ cảnh:** Cận cảnh macro (đôi bàn tay, đồ vật) $\leftrightarrow$ Trung cảnh (nhân vật thao tác) $\leftrightarrow$ Viễn cảnh (đại cảnh thiên nhiên/thị trấn).
-- **Góc máy:** Ngước nhìn lên (`low-angle`) $\leftrightarrow$ Ngang tầm mắt (`eye-level`) $\leftrightarrow$ Nhìn từ trên cao xuống (`high-angle bird's-eye view`, lưu ý luôn có nhân vật/vật thể làm thước tỷ lệ để tránh lộ sa bàn).
+- **Góc máy:** Ngước nhìn lên (`low-angle`) $\leftrightarrow$ Ngang tầm mắt (`eye-level`) $\leftrightarrow$ Nhìn từ trên cao xuống (`high-angle bird's-eye view`, luôn có thước tỷ lệ) $\leftrightarrow$ Góc nghiêng 3/4 (`three-quarter profile`) $\leftrightarrow$ Góc ngang hai người song hành (`side-by-side profile`). **CẤM TUYỆT ĐỐI GÓC QUA VAI (Over-the-shoulder / OTS)** vì là nguyên nhân số một gây lỗi dính thân, vỡ đầu và biến dạng giải phẫu (morphing).
 - **Khẩu độ:** Luôn giữ `moderate depth of field, background softly readable` để hậu cảnh mờ êm dịu nhưng vẫn đọc rõ kiến trúc, tránh bẫy xóa phông nhòe nhoẹt của tilt-shift.
 
 ### Trục 4 — Hành vi vi mô & Khoảnh khắc lỡ cỡ (Micro-actions):

@@ -12,11 +12,11 @@
         {
           "id": "figure_1",
           "role": "Young artisan husband",
-          "build": "Slender upright proportions, gentle contemplative posture",
+          "build": "Slender upright proportions, active attentive posture",
           "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a fine single-line smile, zero skin wrinkles, no teeth",
           "attire": "Dark slate tweed overcoat, tailored charcoal trousers, small leather boots",
-          "action": "Standing in foreground-left holding figure_2's wooden hand, gazing tenderly toward the departing elderly couple in the distance",
-          "gaze": "Gazing toward background_figures walking into the twilight"
+          "action": "Standing in foreground-left, leaning forward with his left arm pointing with eager curiosity toward the departing grandparents while his right hand warmly squeezes figure_2's hand",
+          "gaze": "Looking toward background_figures walking into the twilight"
         },
         {
           "id": "figure_2",
@@ -24,11 +24,11 @@
           "build": "Slender graceful proportions, matching height and scale of companion",
           "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a touched single-line smile, zero skin wrinkles, no teeth",
           "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
-          "action": "Standing close beside figure_1 with hand resting on his arm, watching the distant figures",
+          "action": "Standing close beside figure_1, resting both carved hands on his arm with an affectionate squeeze, head tilted in deep touched amusement",
           "gaze": "Looking across toward the distant twilight slope"
         }
       ],
-      "background_figures": "Two miniature elderly lovers in soft silhouette walking slowly arm-in-arm over the distant crest into the blue dusk"
+      "background_figures": "Two miniature elderly lovers in soft silhouette walking with brisk, rhythmic, arm-in-arm strides over the distant crest into the blue dusk"
     },
     "ENVIRONMENT": {
       "camera": "Macro tilt-shift, high-angle wide panoramic shot with sweeping depth of field looking down from the knoll",
@@ -38,20 +38,20 @@
           "id": "prop_1",
           "item": "Monumental ancient oak tree and resting wooden swing",
           "material": "Gnarled real oak bough, cedar plank seat, twisted brass chains",
-          "details": "Lichen-dusted bark texture, empty cedar seat swaying very gently in the draft"
+          "details": "Lichen-dusted bark texture, empty cedar seat swaying rhythmically in the brisk evening breeze"
         }
       ],
-      "staging": "figure_1 and figure_2 stand together in foreground-left; prop_1 anchors the center-midground with generous negative space; background_figures are seen as tiny distant silhouettes disappearing over the gentle grassy ridge in upper-right",
+      "staging": "figure_1 and figure_2 stand together in foreground-left with active forward-leaning posture; prop_1 anchors the center-midground with generous negative space; background_figures walk energetically over the gentle grassy ridge in upper-right",
       "real_nature": "Real miniature damp loam, living emerald cushion moss around root flares, scattered crisp golden oak leaves",
       "backdrop": "Softly blurred rolling hills and distant cottage gables fading into deep indigo twilight atmosphere",
       "lighting": "Magical blue dusk ambient light balanced by warm amber rim-light lingering on the oak canopy and swing seat",
-      "motion": "A gentle evening breeze causing the empty swing plank to sway slowly in the cool air"
+      "motion": "A brisk autumn wind sweeping a dancing flurry of dry golden leaves across the lawn around the swinging seat"
     },
     "SURREAL": {
       "quirk": "Tiny dried acorns along the low oak boughs faintly glow with a quiet inner golden bioluminescence"
     },
     "ANIMATION": {
-      "prompt": "High-angle slow sweeping drift looking down across the park clearing. The young couple stands peacefully hand-in-hand in the foreground, as the distant elderly couple walks slowly over the ridge into the blue dusk, and the empty wooden swing sways very gently in the cool breeze. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "High-angle sweeping camera glide looking down. The young husband actively points ahead with an admiring smile, leaning in to whisper warmly to his companion as she squeezes his arm, while the distant elderly couple walks arm-in-arm with purposeful steady strides over the crest into the blue dusk. Autumn wind actively sweeps a golden swirl of leaves across the grassy lawn around the swaying wooden swing. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -67,11 +67,11 @@
         {
           "id": "figure_1",
           "role": "Young artisan husband",
-          "build": "Slender upright proportions, energetic gentle posture",
+          "build": "Slender upright proportions, energetic purposeful posture",
           "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and an eager playful single-line smile, zero skin wrinkles, no teeth",
-          "attire": "Dark slate tweed overcoat, tailored charcoal trousers, small leather boots",
-          "action": "Reaching out with his right carved wooden hand to firmly catch one brass chain of the swaying swing, turning his head back toward figure_2",
-          "gaze": "Looking back over his shoulder toward figure_2 with an affectionate inviting expression"
+          "attire": "Dark slate tweed overcoat with hem flapping in breeze, tailored charcoal trousers, small leather boots",
+          "action": "Taking two brisk strides forward, firmly seizing both brass chains of the swinging seat to halt its momentum, leaning his weight back with feet planted while looking back with an excited grin",
+          "gaze": "Looking back over his shoulder toward figure_2 with an affectionate, urgent beckoning expression"
         },
         {
           "id": "figure_2",
@@ -79,8 +79,8 @@
           "build": "Slender graceful proportions, standing a few steps behind",
           "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a curious amused smile, zero skin wrinkles, no teeth",
           "attire": "Oatmeal pressed felt coat, pleated wool skirt, small leather boots firmly planted on grass",
-          "action": "Pausing mid-step with one hand holding her coat lapel, smiling as she watches figure_1 catch the swing",
-          "gaze": "Looking directly at figure_1 and the caught swing chain"
+          "action": "Pausing with an amused startle, lifting both hands to clutch her coat lapels as she laughs at his enthusiastic rush",
+          "gaze": "Looking directly at figure_1 and the caught swing chain with sparkling mirth"
         }
       ]
     },
@@ -92,20 +92,20 @@
           "id": "prop_1",
           "item": "Wooden plank swing and brass chains",
           "material": "Aged cedar plank with beeswax finish, hand-hammered brass links",
-          "details": "Brass chain links catching the warm golden twilight gleam as figure_1's wooden fingers steady them"
+          "details": "Brass chain links catching the warm golden twilight gleam as figure_1's wooden fingers firmly grip them"
         }
       ],
-      "staging": "figure_1 stands center-right gripping prop_1's chain with an active forward lean; figure_2 stands in midground-left watching him; generous open air and sweeping tree boughs frame the upper two-thirds",
+      "staging": "figure_1 stands center-right gripping prop_1's chains with an active backward tug; figure_2 stands in midground-left laughing; generous open air and sweeping tree boughs frame the upper two-thirds",
       "real_nature": "Living cushion moss over gnarled roots, fine dark garden loam, scattered dry beech leaves",
       "backdrop": "Softly out-of-focus golden twilight sky visible through the massive arching oak branches",
       "lighting": "Warm directional side-light raking low across the turf, highlighting the tactile wood grain of the swing seat",
-      "motion": "A swirl of dry golden oak leaves drifting past figure_1's boots as the swing decelerates in his grasp"
+      "motion": "A crisp flurry of dry golden oak leaves whipped upward from the turf beneath figure_1's firm boots"
     },
     "SURREAL": {
       "quirk": "A pair of miniature carved brass bells woven into the upper chain links chime with silent visual resonance"
     },
     "ANIMATION": {
-      "prompt": "Low-angle smooth camera drift looking up. The young husband smoothly catches the swaying brass chain of the wooden swing with his carved hand, turning his head back with a warm inviting smile as his companion watches with amusement. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Low-angle dynamic tracking drift looking up. The young husband briskly strides forward and firmly grabs both brass chains to halt the swinging plank, planting his boots with joyful energy and turning his head back to enthusiastically beckon his companion with a broad grin. A crisp flurry of golden leaves swirls up from the turf around his feet. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -119,10 +119,10 @@
       {
         "id": "creature_1",
         "role": "Whittled cedar miniature barn owl",
-        "build": "Plump rounded folk-art bird silhouette, perched firmly on branch",
+        "build": "Plump rounded folk-art bird silhouette, perched actively on branch",
         "material": "Carved white cedar wood, delicate burned feather ridges, two tiny round painted black dot eyes, miniature twisted brass wire talons",
-        "action": "Perched steadily on a low mossy oak branch, tilting its rounded head with curious dignified posture",
-        "gaze": "Looking down toward the grassy park clearing below"
+        "action": "Perched on a low mossy oak branch, actively ruffling its carved neck feathers, bobbing its head sharply in swift bird-like curiosity as its wire talons shift on the bark",
+        "gaze": "Keenly tracking a tumbling autumn leaf down toward the clearing below"
       }
     ],
     "ENVIRONMENT": {
@@ -140,13 +140,13 @@
       "real_nature": "Living miniature cushion moss, dry oak leaf fragment resting on bark, authentic tree lichen",
       "backdrop": "Softly blurred deep sapphire twilight sky with distant golden amber pinpricks of village window lights",
       "lighting": "Cool twilight rim-light outlining creature_1's carved plumage, accented by the soft warm amber glow rising from below",
-      "motion": "A single crisp golden oak leaf drifting slowly through the out-of-focus background air"
+      "motion": "A crisp golden oak leaf tumbling energetically past the branch in the gusty evening draft"
     },
     "SURREAL": {
       "quirk": "A tiny miniature brass pocket watch hangs from a lichen twig beside the owl, ticking in quiet stillness"
     },
     "ANIMATION": {
-      "prompt": "Smooth static macro shot with shallow depth of field. The whittled cedar barn owl smoothly tilts its head with alert, curious micro-movements on the mossy branch, as a golden oak leaf drifts softly past in the background twilight air. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Smooth close-up macro tracking drift. The whittled barn owl actively ruffles its carved neck feathers, swiftly bobs its head with sharp bird-like curiosity, and shifts its wire talons with tiny clicks upon the mossy oak bark, keenly tracking a tumbling golden leaf in the twilight breeze. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -162,45 +162,45 @@
         {
           "id": "figure_1",
           "role": "Young artisan husband",
-          "build": "Slender upright proportions, gentle leaning stance",
-          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a tender single-line smile, zero skin wrinkles, no teeth",
-          "attire": "Dark slate tweed overcoat, tailored charcoal trousers, small leather boots firmly planted on turf",
-          "action": "Reaching with both carved wooden hands to gently clasp figure_2's hand, leading her toward the swing",
-          "gaze": "Looking affectionately down at figure_2's face"
+          "build": "Slender upright proportions, energetic forward-stepping posture",
+          "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and an affectionate beaming smile, zero skin wrinkles, no teeth",
+          "attire": "Dark slate tweed overcoat, tailored charcoal trousers, small leather boots stepping purposefully forward",
+          "action": "Walking forward with an eager stride, both carved wooden hands clasping figure_2's hands with a tender, enthusiastic tug toward the swing",
+          "gaze": "Looking directly into figure_2's eyes with smiling persuasion"
         },
         {
           "id": "figure_2",
           "role": "Young companion wife",
-          "build": "Slender graceful proportions, gentle leaning posture toward figure_1",
-          "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a shy joyful single-line smile, zero skin wrinkles, no teeth",
-          "attire": "Oatmeal pressed felt coat, pleated wool skirt falling straight to small leather boots",
-          "action": "Allowing her hand to be held warmly by figure_1, stepping forward with a slight bashful tilt of her head",
-          "gaze": "Gazing warmly into figure_1's eyes"
+          "build": "Slender graceful proportions, playful leaning-back posture",
+          "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a ringing joyful laugh, zero skin wrinkles, no teeth",
+          "attire": "Oatmeal pressed felt coat with hem swinging, pleated wool skirt, small leather boots taking a bouncy step",
+          "action": "Feigning mock reluctance by leaning back slightly, but stepping along eagerly with a swinging coat hem and an infectious laugh",
+          "gaze": "Smiling affectionately back into figure_1's eyes"
         }
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, over-the-shoulder intimate medium shot framed past figure_1's slate tweed shoulder",
+      "camera": "Macro tilt-shift, intimate three-quarter profile tracking shot with both figures in sharp tactile focus",
       "setting": "The sunlit grass clearing beside the massive trunk of the monumental oak tree",
       "focal_elements": [
         {
           "id": "prop_1",
           "item": "Cedar plank swing waiting in the clearing",
           "material": "Blond cedar plank, twisted brass chains hanging from monumental oak branch",
-          "details": "Softly visible in the right third of the frame, bathed in warm amber twilight"
+          "details": "Clearly visible in the right background, bathed in warm amber twilight"
         }
       ],
-      "staging": "figure_1 in foreground-left with shoulder and wool sleeve softly framing the view; figure_2 in sharp focus center-frame looking up at him; their clasped carved wooden hands prominent in the center lower-third; prop_1 softly visible on the right",
+      "staging": "figure_1 on center-left and figure_2 on center-right seen in clean three-quarter profile holding clasped wooden hands; both figures entirely unoccluded and sharp; prop_1 clearly positioned in midground-right",
       "real_nature": "Real fine turf, scattered dried golden oak leaves, velvety moss along path edge",
       "backdrop": "Softly blurred oak foliage and twilight amber haze creating cozy intimate bokeh",
-      "lighting": "Warm raking golden-hour backlight outlining figure_2's saffron beret and wool coat fibers",
-      "motion": "A faint autumn breeze softly fluttering the fringe of figure_2's woven saffron scarf"
+      "lighting": "Warm raking golden-hour backlight outlining both figures' wool coat fibers and the saffron beret",
+      "motion": "A lively autumn breeze sweeping fallen leaves along the grass around their stepping boots"
     },
     "SURREAL": {
       "quirk": "Small bronze coat buttons on figure_1's tweed overcoat subtly etched with tiny compass roses"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder gentle camera drift. The young husband smoothly clasps his companion's wool-sleeved hand with tender care, gently guiding her forward as she takes a graceful step with a soft bashful smile. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Smooth three-quarter profile tracking drift. The young husband eagerly clasps his companion's hand with both of his, giving a gentle, enthusiastic tug to guide her toward the swing, while she takes an amused, bouncy step forward with her coat hem swinging and head tossing back in a fond laugh. Autumn wind briskly flutters her saffron scarf across her coat. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -219,17 +219,17 @@
           "build": "Slender upright proportions, protective attentive stance",
           "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and a joyful single-line smile, zero skin wrinkles, no teeth",
           "attire": "Dark slate tweed overcoat, tailored charcoal trousers, small leather boots",
-          "action": "Standing behind the swing seat, resting both carved wooden hands gently upon figure_2's shoulders to steady her as she sits",
-          "gaze": "Looking down with playful tenderness at figure_2"
+          "action": "Standing behind the swing seat, resting both hands firmly on figure_2's felt coat shoulders with a playful chuckle, gently steadying her as she settles down",
+          "gaze": "Looking down with playful tenderness at figure_2's face"
         },
         {
           "id": "figure_2",
           "role": "Young companion wife",
-          "build": "Slender proportions, seated gracefully upon the wooden swing plank",
+          "build": "Slender proportions, seated actively upon the wooden swing plank",
           "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a radiant laughing single-line mouth, zero skin wrinkles, no teeth",
-          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt draping smoothly over the plank to small leather boots touching the turf",
-          "action": "Seated on the cedar swing plank, gripping the brass chains with both articulated wooden hands, feet lightly planted in grass",
-          "gaze": "Looking forward toward the open clearing with joyful anticipation"
+          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt billowing out over the plank, small leather boots tapping the turf",
+          "action": "Seated on the cedar swing plank, gripping the brass chains tightly with both hands, bouncing her boots lightly against the grass to test the swing's momentum",
+          "gaze": "Looking forward into the clearing with sparkling anticipation"
         }
       ]
     },
@@ -241,20 +241,20 @@
           "id": "prop_1",
           "item": "Handcrafted cedar swing seat and brass chains",
           "material": "Aged cedar plank with beeswax finish, hand-forged brass chain links",
-          "details": "Tactile woodgrain clearly visible, brass chains pulled taut as figure_2's weight rests on the seat"
+          "details": "Tactile woodgrain clearly visible, brass chains pulled taut as figure_2 tests the seat"
         }
       ],
-      "staging": "figure_2 seated comfortably center-frame upon prop_1; figure_1 stands directly behind her, his carved hands resting on her felt coat shoulders; small leather boots resting on mossy turf; open twilight park extends to the right",
+      "staging": "figure_2 seated center-frame upon prop_1; figure_1 stands directly behind her with hands on her shoulders; both figures clearly separated with zero visual occlusion; open twilight park extends to the right",
       "real_nature": "Real dark loam soil, emerald cushion moss around roots, scattered golden oak leaves",
       "backdrop": "Softly blurred grove of miniature golden autumn trees with warm bokeh highlights",
       "lighting": "Luminous amber twilight glow wrapping around both figures, creating warm rim-lighting on their wool attire",
-      "motion": "A single curled golden oak leaf drifting slowly down past the brass chains"
+      "motion": "A flurry of golden oak leaves swirling lightly around figure_2's bouncing boots"
     },
     "SURREAL": {
       "quirk": "The wooden swing plank has two small carved songbird silhouettes inlaid in blond birch wood"
     },
     "ANIMATION": {
-      "prompt": "Eye-level smooth camera drift. The young husband gently places his hands upon his companion's shoulders, easing her down to sit upon the wooden swing plank as she holds the brass chains with a cheerful laugh. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Eye-level smooth two-shot tracking drift. The young husband actively helps his companion settle onto the cedar plank, pressing her shoulders with a playful chuckle as she grips the chains tightly, bouncing her leather boots against the turf in eager anticipation while her saffron skirt billows out over the wood. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -273,8 +273,8 @@
           "build": "Sturdy weathered proportions, active working posture",
           "head": "Turned wooden head, charcoal wool hair under a slate wool knit cap, flat painted face with calm focused single-line mouth, zero skin wrinkles, no teeth",
           "attire": "Charcoal wool heavy overcoat, slate trousers, sturdy leather boots firmly planted on ladder rungs",
-          "action": "Standing on the third rung of a short wooden ladder, holding a long brass lighting taper stick upward into the glass street lantern",
-          "gaze": "Looking up attentively at the emerging flame inside the lantern"
+          "action": "Standing on the third ladder rung, decisively inserting a long brass lighting taper into the lantern fixture, turning the valve as a bright golden flame flares into life",
+          "gaze": "Looking up with keen focus at the blossoming flame inside the lantern"
         }
       ]
     },
@@ -286,26 +286,26 @@
           "id": "prop_1",
           "item": "Antique cast-iron park lantern post",
           "material": "Aged dark slate cast metal, hexagonal glass lantern panes, glowing brass burner",
-          "details": "Lichen specks on stone base, radiant saffron flame blooming inside the clean glass pane"
+          "details": "Lichen specks on stone base, brilliant golden flame flaring inside the clean glass pane"
         },
         {
           "id": "prop_2",
           "item": "Short ash-wood ladder and brass lighting pole",
           "material": "Handcrafted ash timber with pegged rungs, hammered brass lighting taper stick",
-          "details": "Clean tactile wood joints, tiny flame tip on the brass pole igniting the burner"
+          "details": "Clean tactile wood joints, bright flame tip igniting the gas burner with visible radiance"
         }
       ],
       "staging": "figure_1 positioned midground-left on prop_2; prop_1 rises dramatically along the left-center third into the deep indigo sky; the right side opens into a sweeping view of the distant park and glowing cottage windows",
       "real_nature": "Real wet miniature slate pavers, dark damp loam along path edging, tiny sprigs of wild thyme",
       "backdrop": "Softly blurred twilight park promenade fading into cozy village rooftops under early evening stars",
-      "lighting": "Dramatic blooming saffron-amber light radiating from the freshly lit lantern, casting long soft shadows across wet slate",
-      "motion": "A delicate puff of fragrant pale smoke rising from the lantern vent into the crisp twilight air"
+      "lighting": "Brilliant blooming saffron-amber light radiating from the freshly lit lantern, washing warm dancing highlights across wet slate",
+      "motion": "A crisp puff of fragrant pale smoke billowing upward as the lantern flares, gust of wind fluttering figure_1's overcoat"
     },
     "SURREAL": {
       "quirk": "The cast-iron lamp post bracket is shaped like an elegant curling maple leaf holding the glass lantern"
     },
     "ANIMATION": {
-      "prompt": "Low-angle smooth camera tilt looking up. The village lamplighter steadily reaches the brass taper into the lantern glass, the wick blossoming into a warm radiant amber flame against the indigo twilight. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Low-angle dynamic slider drift looking up. The village lamplighter steadily pushes the brass taper into the glass fixture, turning the gas valve with a decisive click as a brilliant golden flame flares brightly into life, casting dancing amber light across his focused face and glistening wet cobblestones below. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -321,45 +321,45 @@
         {
           "id": "figure_1",
           "role": "Young companion wife",
-          "build": "Slender seated proportions, head tilted back with pure mirth",
-          "head": "Slender oval wooden head, auburn yarn hair framing cheeks under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and a wide joyful single-line laugh, zero skin wrinkles, no teeth",
+          "build": "Slender seated proportions, head tilted back with pure ringing laughter",
+          "head": "Slender oval wooden head, auburn yarn braids tossing under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and an ecstatic wide single-line laugh, zero skin wrinkles, no teeth",
           "attire": "Oatmeal pressed felt coat with textured weave, saffron knit scarf looped at throat, wool skirt",
-          "action": "Seated on the wooden swing, both articulated wooden hands clutching the brass chain links tightly, head tilted slightly back in a ringing laugh",
-          "gaze": "Looking up playfully toward figure_2 behind her"
+          "action": "Seated on the wooden swing, vigorously swinging her boots back and forth, both hands gripping the brass chains as her shoulders shake with joyful laughter",
+          "gaze": "Looking up with infectious delight toward figure_2"
         },
         {
           "id": "figure_2",
           "role": "Young artisan husband",
-          "build": "Slender upright proportions, leaning forward in laughter",
+          "build": "Slender upright proportions, standing beside the chains",
           "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and an affectionate beaming smile, zero skin wrinkles, no teeth",
           "attire": "Dark slate tweed overcoat with textured rolled sleeves, tailored charcoal trousers",
-          "action": "Standing behind the swing, hands poised at her back, laughing warmly with companion",
-          "gaze": "Looking affectionately down at figure_1's upturned laughing face"
+          "action": "Standing beside the swing holding one chain, laughing heartily with his companion with shoulders bobbing",
+          "gaze": "Looking down into figure_1's laughing face with pure adoration"
         }
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, eye-level tight medium close-up shot focusing intensely on figure_1's expression with shallow depth of field",
+      "camera": "Macro tilt-shift, eye-level side-by-side intimate medium shot focusing on both figures with shallow depth of field",
       "setting": "Under the sheltering boughs of the monumental ancient oak tree",
       "focal_elements": [
         {
           "id": "prop_1",
           "item": "Twisted brass swing chains and cedar seat",
           "material": "Aged cedar plank, hand-beaten brass links with soft patina",
-          "details": "Warm metallic highlights on brass links where wooden fingers grip securely"
+          "details": "Warm metallic highlights on brass links rattling gently with figure_1's energetic laughter"
         }
       ],
-      "staging": "figure_1 framed prominently in the center-left two-thirds of the shot; figure_2's smiling face and tweed overcoat softly visible over her shoulder in the background; prop_1's brass chains frame the vertical composition",
+      "staging": "figure_1 seated on prop_1 on center-left; figure_2 stands in side profile on center-right holding the chain; both faces fully visible and unoccluded; brass chains create strong vertical framing",
       "real_nature": "Living emerald cushion moss on oak root in background, dry golden oak leaf brushing the swing chain",
       "backdrop": "Soft warm amber and charcoal bokeh circles filtering through oak foliage",
       "lighting": "Luminous warm side-lighting catching the fuzzy tactile fibers of the saffron beret and oatmeal felt coat",
-      "motion": "A faint autumn breeze softly lifting the fine fibers of her auburn yarn hair"
+      "motion": "A rushing autumn breeze vigorously fluttering figure_1's saffron scarf and yarn braids"
     },
     "SURREAL": {
       "quirk": "Tiny golden acorns engraved on the brass chain links catch the lantern light like micro-jewels"
     },
     "ANIMATION": {
-      "prompt": "Eye-level intimate camera push-in. The young wife tilts her head back with a joyful, playful laugh on the swing seat, both hands holding the brass chains as her saffron beret shifts slightly in the breeze. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Eye-level intimate camera glide. The young wife energetically swings her legs forward and back to test the momentum, her shoulders bouncing with infectious laughter as her hands rattle the brass chain links, auburn yarn braids and saffron beret fluttering vigorously in the rushing evening wind. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -375,45 +375,45 @@
         {
           "id": "figure_1",
           "role": "Young artisan husband",
-          "build": "Slender athletic proportions, dynamic forward-lunging posture",
+          "build": "Slender athletic proportions, powerful forward-lunging posture",
           "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and an exhilarated determined single-line smile, zero skin wrinkles, no teeth",
-          "attire": "Dark slate tweed overcoat with hem lifting behind, tailored charcoal wool trousers, small leather boots dug firmly into turf",
-          "action": "Both carved wooden hands pressed firmly against figure_2's felt coat back, pushing forward in a dynamic lunge to launch the swing",
-          "gaze": "Looking forward in the direction of the swing's forward arc"
+          "attire": "Dark slate tweed overcoat with hem flying back in the wind, tailored charcoal wool trousers, small leather boots digging deeply into turf",
+          "action": "Both carved wooden hands thrusting forward with full energetic force against figure_2's felt coat back, lunging forward in mid-stride to send the swing into high flight",
+          "gaze": "Looking forward along the trajectory of the swing with wide, triumphant eyes"
         },
         {
           "id": "figure_2",
           "role": "Young companion wife",
-          "build": "Slender seated proportions, leaning forward into the motion",
+          "build": "Slender seated proportions, airborne momentum",
           "head": "Slender oval wooden head, auburn yarn hair under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and an ecstatic youthful single-line smile, zero skin wrinkles, no teeth",
-          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt billowing behind, small leather boots lifting from turf",
-          "action": "Seated on the wooden swing, gripping the brass chains firmly as the swing begins its forward flight, boots rising into the air",
-          "gaze": "Gazing forward into the vast open autumn clearing"
+          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt billowing wide behind, small leather boots kicking high into the air",
+          "action": "Seated on the wooden swing, holding the brass chains firmly as she soars forward into the air, boots kicking toward the sky with exhilarating speed",
+          "gaze": "Looking forward into the vast open autumn clearing"
         }
       ]
     },
     "ENVIRONMENT": {
       "camera": "Macro tilt-shift, low-angle dynamic action shot looking up from behind the swing seat toward the sky",
-      "setting": "The grassy park clearing beneath the ancient oak tree as the swing takes flight",
+      "setting": "The grassy park clearing beneath the ancient oak tree as the swing takes powerful flight",
       "focal_elements": [
         {
           "id": "prop_1",
           "item": "Wooden plank swing at launch apex",
           "material": "Aged cedar plank, taut brass chains stretching up to monumental oak bough",
-          "details": "Brass chains angled forward at thirty degrees, cedar plank rising cleanly off the grass"
+          "details": "Brass chains angled forward at forty degrees, cedar plank rising cleanly off the grass"
         }
       ],
-      "staging": "figure_1 in midground-left with forward lunge and extended wooden arms; figure_2 center-frame on prop_1 swinging forward into open space; leather boots lifting into clear view; right side opens into sweeping autumn expanse",
+      "staging": "figure_1 in midground-left with dynamic forward lunge and extended wooden arms; figure_2 center-frame on prop_1 swinging high forward into open space; leather boots kicking up into clear view; right side opens into sweeping autumn expanse",
       "real_nature": "Authentic miniature loam turf, velvety cushion moss, dry golden oak leaves swirling in the draft",
       "backdrop": "Open golden-amber twilight sky framed by cathedral branches of the ancient oak tree",
       "lighting": "Warm dramatic backlighting flooding through the clearing, illuminating the swirling leaves with glowing amber edges",
-      "motion": "A dynamic swirl of dry golden oak leaves whipped upward into the air beneath figure_2's rising boots"
+      "motion": "An explosive swirl of dry golden oak leaves whipped upward into a mini-vortex beneath figure_2's rising boots"
     },
     "SURREAL": {
       "quirk": "Golden oak leaves lifted by the swing leave faint trails of soft golden luminescence in the air"
     },
     "ANIMATION": {
-      "prompt": "Low-angle smooth camera drift looking up. The young husband smoothly pushes forward against his companion's back with steady care, initiating the swing's forward arc as dry oak leaves swirl lightly around his leather boots. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Dynamic low-angle camera tracking forward. The young husband lunges forward with full joyful muscular commitment, thrusting both wooden hands against her back to launch the swing into flight, his overcoat tails flying back as his boots dig into the turf, sending an explosive cloud of golden oak leaves swirling upward. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -429,10 +429,10 @@
         {
           "id": "figure_1",
           "role": "Young companion wife",
-          "build": "Slender graceful proportions, airborne on the soaring swing",
+          "build": "Slender graceful proportions, airborne at peak height",
           "head": "Slender oval wooden head, auburn yarn braids trailing in the air under a saffron-mustard knit beret, flat minimalist painted face with soft pupils and an ecstatic joyful single-line smile, zero skin wrinkles, no teeth",
-          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt billowing wide, small leather boots kicked high toward the sky",
-          "action": "Seated on the wooden swing at peak forward apex, gripping the brass chains, boots kicked high into the air",
+          "attire": "Oatmeal pressed felt coat, pleated saffron wool skirt billowing wide like a parachute, small leather boots kicked high toward the branches",
+          "action": "Seated on the wooden swing at peak forward apex high above the ground, leaning back with boots kicked high, gripping the chains with thrilling joy",
           "gaze": "Looking up joyfully toward the golden tree canopy and open sky"
         },
         {
@@ -441,8 +441,8 @@
           "build": "Slender upright proportions, standing on the lawn below",
           "head": "Softly rectangular turned wooden head, chestnut wool hair under a tweed flat cap, flat minimalist painted face with soft pupils and an ecstatic beaming smile, zero skin wrinkles, no teeth",
           "attire": "Dark slate tweed overcoat, tailored charcoal wool trousers, small leather boots firmly planted in turf",
-          "action": "Standing on the ground below with one carved arm raised joyfully in celebration, watching her fly",
-          "gaze": "Looking up with boundless joy at figure_1 soaring on the swing"
+          "action": "Standing on the ground below, jumping slightly with both carved arms raised high in triumphant celebration, cheering her flight",
+          "gaze": "Looking up with boundless exhilaration at figure_1 soaring on the swing"
         }
       ]
     },
@@ -457,17 +457,17 @@
           "details": "Swing positioned high in the upper-right third of the composition against the glowing twilight sky"
         }
       ],
-      "staging": "prop_1 with figure_1 soaring high in the upper-right quadrant; figure_2 stands in the lower-left on the lawn looking up; the vast golden leaf-carpeted clearing provides immense, luminous negative space",
+      "staging": "prop_1 with figure_1 soaring high in the upper-right quadrant; figure_2 stands in the lower-left on the lawn cheering with raised arms; the vast golden leaf-carpeted clearing provides immense, luminous negative space",
       "real_nature": "Authentic miniature mossy lawn, thousands of scattered real dry golden oak leaves, dark loam soil",
       "backdrop": "Golden canopy of the oak tree framing the upper edge, with rolling dusk hills in distant soft focus",
       "lighting": "Breathtaking twilight illumination: rich golden-amber light flooding the upper air, contrasting with the deep velvety slate shadows on the lawn",
-      "motion": "A flock of golden oak leaves swirling in a wide spiral through the air beneath the soaring swing"
+      "motion": "A vigorous whirlwind of golden oak leaves swirling through the air beneath the soaring swing and tumbling from the canopy"
     },
     "SURREAL": {
       "quirk": "The billowing saffron skirt catches the wind in the shape of a magnificent flying autumn leaf"
     },
     "ANIMATION": {
-      "prompt": "High-angle sweeping wide camera drift looking down. The swing carries the young woman soaring fluidly forward through the twilight air, her saffron skirt billowing smoothly above the leaf-carpeted lawn as her companion watches with raised arm. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "High-angle sweeping wide panoramic glide. The swing carries the young woman soaring high through the twilight air at full flight, her boots kicking vigorously toward the oak branches as her pleated saffron skirt billows wide like a parachute, while her husband jumps and cheers with raised arms on the leaf-carpeted lawn below. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -483,11 +483,11 @@
         {
           "id": "figure_1",
           "role": "Village teahouse master",
-          "build": "Mature sturdy proportions, warm hospitable posture",
+          "build": "Mature sturdy proportions, active hospitable posture",
           "head": "Turned wooden head, charcoal wool hair under a dark slate beret, flat minimalist painted face with soft pupils and a warm hospitable single-line smile, zero skin wrinkles, no teeth",
           "attire": "Oatmeal linen smock over slate wool trousers, small leather boots",
-          "action": "Standing beside the low pine tea table, holding a hammered brass kettle, pouring steaming amber tea into a glazed ceramic bowl",
-          "gaze": "Looking down attentively at the stream of tea pouring into the bowl"
+          "action": "Standing beside the low pine tea table, raising a hammered brass kettle high to pour a steaming stream of amber tea into a glazed ceramic bowl with rich bubbling foam",
+          "gaze": "Looking down attentively at the swirling stream of tea pouring into the bowl"
         },
         {
           "id": "figure_2",
@@ -495,7 +495,7 @@
           "build": "Slender seated proportions, relaxed cozy posture",
           "head": "Oval wooden head, auburn wool hair under a saffron-mustard knit bonnet, flat minimalist painted face with soft pupils and an appreciative serene single-line smile, zero skin wrinkles, no teeth",
           "attire": "Slate wool dress with long sleeves, cream wool shawl over shoulders, small leather boots tucked under bench",
-          "action": "Seated on the wooden bench beside the arched window, cradling a warm ceramic tea bowl with both carved hands, looking out through the glass",
+          "action": "Seated on the wooden bench beside the arched window, cradling her steaming ceramic bowl with both hands, gently blowing on the tea with pursed lips before sipping",
           "gaze": "Gazing peacefully through the arched window toward the distant illuminated oak tree clearing"
         }
       ]
@@ -514,20 +514,20 @@
           "id": "prop_2",
           "item": "Rustic pine tea table and glazed ceramic tea ware",
           "material": "Hand-hewn pine timber table, saffron glazed ceramic bowls, beeswax candle",
-          "details": "A single beeswax candle burning in a stoneware holder with delicate curls of steam rising from tea bowls"
+          "details": "A single beeswax candle burning in a stoneware holder with rich plumes of steam rising from tea bowls"
         }
       ],
-      "staging": "prop_1 frames the left half of the shot looking into the cozy interior where figure_1 and figure_2 interact around prop_2; through the right half of the window pane, the distant oak tree with lanterns is softly visible in the blue dusk",
+      "staging": "prop_1 frames the left half of the shot looking into the cozy interior where figure_1 actively pours tea for figure_2 around prop_2; through the right half of the window pane, the distant oak tree with lanterns is softly visible in the blue dusk",
       "real_nature": "Miniature sprigs of dried chamomile and cinnamon bark on the table, dry ivy clinging to the exterior stone sill",
       "backdrop": "Deep sapphire twilight sky with distant glowing amber windows across the village valley",
       "lighting": "Rich, intimate interior candlelight in warm golden amber, contrasting against the cool twilight blue outside the window",
-      "motion": "Delicate curls of white aromatic steam rising continuously from the hot tea bowls into the cozy room"
+      "motion": "Fragrant thick plumes of white aromatic steam swirling continuously from the hot tea bowls across the window glass"
     },
     "SURREAL": {
       "quirk": "The steam rising from the tea bowls forms faint miniature curling leaf shapes before dissipating"
     },
     "ANIMATION": {
-      "prompt": "High-angle smooth interior slider drift. The teahouse patrons smoothly raise their ceramic tea bowls in a gentle warm toast by the candlelit window, delicate wisps of steam curling continuously into the cozy room. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "High-angle smooth interior slider drift through the window. The teahouse master vigorously pours a steaming amber stream from a raised brass kettle into the ceramic bowl with a rich bubbling swirl, while the patron eagerly blows on her steaming cup with pursed lips, fragrant plumes of white steam rolling across the candlelit windowpane. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   }
 ]

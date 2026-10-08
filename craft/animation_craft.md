@@ -1,7 +1,7 @@
 # 🎬 ANIMATION CRAFT — QUY CHUẨN KỸ THUẬT CHUYỂN ĐỘNG VIDEO AI
-v5.0 — Technical Motion Spec (Kling / Runway / Hailuo / Wan 2.1 / Luma)
+v5.1 — Living Vitality & Clean Cinematography Edition (Kling / Runway / Hailuo / Wan 2.1 / Luma)
 
-> **Mục tiêu:** Quy định chuẩn kỹ thuật để chuyển hóa ảnh tĩnh (Keyframe Image) thành prompt diễn hoạt (Animation Prompt) ngắn gọn, chính xác, **chuyển động mượt mà, êm ái, không giật cục**, và triệt tiêu 100% hiện tượng biến dạng (morphing).
+> **Mục tiêu:** Chuyển hóa ảnh tĩnh (Keyframe Image) thành prompt diễn hoạt (Animation Prompt) ngắn gọn, chính xác, **tràn đầy sự sống chân thật (Lived-in Tactile Vitality)**, chuyển động mượt mà không giật cục, và **triệt tiêu 100% các góc máy gây lỗi dị tật**.
 
 ---
 
@@ -9,53 +9,62 @@ v5.0 — Technical Motion Spec (Kling / Runway / Hailuo / Wan 2.1 / Luma)
 
 1. **Ảnh (Keyframe) đã quyết định 100% phần nhìn:**
    - Model AI Video (I2V) đã nhìn thấy toàn bộ nhân vật, trang phục, gương mặt, màu sắc, ánh sáng và bối cảnh.
-   - **Tuyệt đối cấm tả lại bối cảnh hay quần áo:** Không viết những câu thừa thãi như *"The grandfather in worn tweed coat on the wooden porch"*. Việc nhồi lại từ ngữ miêu tả tĩnh sẽ làm AI bị xung đột ngữ nghĩa, dẫn đến lỗi biến dạng (morphing) hoặc đè nát chất liệu của ảnh gốc.
+   - **Tuyệt đối cấm tả lại bối cảnh hay quần áo tĩnh:** Không viết câu thừa thãi như *"The grandfather in worn tweed coat on the wooden porch"*. Nhồi lại từ ngữ miêu tả tĩnh làm AI xung đột ngữ nghĩa, dẫn đến lỗi biến dạng (morphing) hoặc đè nát chất liệu của ảnh gốc.
 2. **Nhiệm vụ duy nhất của Prompt Animation:**
-   - Chỉ đạo **hướng chuyển động (motion vectors)** và **tốc độ thay đổi** trong 5–8 giây.
-   - Tập trung vào **động từ hành động** và **cú máy điện ảnh**.
+   - Chỉ đạo **vector chuyển động (motion vectors)** và **xung lực sống** trong 5–8 giây.
+   - Tập trung vào **động từ hành động sống động** và **cú máy điện ảnh an toàn**.
 
 ---
 
-## 2. TIÊU CHUẨN MƯỢT MÀ, KHÔNG GIẬT CỤC (SMOOTH & FLUID DYNAMICS)
+## 2. TIÊU CHUẨN SỰ SỐNG THẬT TRONG THẾ GIỚI THU NHỎ (LIVED-IN TACTILE VITALITY)
 
-- **Chuyển động mượt mà (Fluid & Continuous):** Dù bối cảnh là thế giới sa bàn thủ công, tả thực hay hoạt họa, chuyển động trong video phải giữ được độ mượt mà điện ảnh, không giật khựng (no stutter, no jitter, no frame drops).
-- **Vận tốc êm ái (Ease-in / Ease-out):** Mọi chuyển động của máy quay hay nhân vật đều có gia tốc tự nhiên, chuyển động từ tốn, không đổi hướng đột ngột.
-- **Biên độ vi mô (Micro-amplitude):** Biên độ chuyển động nhỏ và tinh tế luôn mang lại chất lượng render video cao nhất.
+> ⚠️ **BẪY CẦN TRÁNH: ĐƠ CỨNG & CHẬM CHẠP LỜ ĐỜ (ANTI-PASSIVITY)**  
+> Chuyển động mượt mà KHÔNG CÓ NGHĨA là nhân vật chỉ đứng đực mặt lắc lư hay môi trường trôi lờ đờ vô hồn như tượng sáp. Nhân vật phải **thực sự sống trong thế giới của họ**, hành động có chủ đích, giàu năng lượng và tương tác vật lý dứt khoát:
+
+1. **Nhân vật hành động có mục đích & giàu sinh khí (Purposeful Agency):**
+   * *Không chỉ đứng vịn:* Người chồng kéo căng dây xích đồng, dậm bước chân dứt khoát trên cỏ, rướn người đẩy xích đu bằng toàn bộ lực cánh tay, vẫy tay reo vui hồ hởi.
+   * *Không chỉ ngồi yên:* Người vợ đạp chân lấy trớn, hai tay siết chặt xích rung nhẹ, ngửa đầu cười giòn giã với vai nảy nhịp, váy xòe tung trong gió.
+   * *Nghề thủ công thực thụ:* Thợ rèn giáng búa dứt khoát nảy đe, phoi bào gỗ xoăn tít bắn ra khỏi lưỡi đục, dòng trà rót từ trên cao sủi bọt, người thợ thắp đèn quẹt lửa bùng sáng rực rỡ.
+   * *Muông thú linh hoạt:* Chim sẻ mổ thóc lách cách rồi quạt cánh bay chuyền cọc, sóc xoay tít quả sồi gặm lia lịa, rái cá trượt ào xuống dòng nước bắn tung bọt.
+2. **Vật lý môi trường cuộn trào sinh khí (Dynamic Environmental Pulse):**
+   * Gió cuốn tung lá khô thành từng đợt lốc nhỏ, tà áo dạ và khăn len bay phần phật, khói bếp cuộn tròn bốc lên cao rồi tản vào không trung, tia lửa lò rèn nổ lách tách bay thành chùm, nước suối gợn sóng lăn tăn xô bờ sỏi.
+3. **Mượt mà nhưng giàu xung lực (Smooth & Energetic Ease):**
+   * Giữ trọn độ mượt điện ảnh (`smooth fluid motion`), chuyển động có gia tốc tự nhiên, nhưng lực tác động dứt khoát, không lờ đờ, không giật khựng (`no stutter, no jitter`).
 
 ---
 
-## 3. CÔNG THỨC CHUYỂN ĐỘNG 3+1 (THE 3+1 MOTION FORMULA)
+## 3. 🚫 CẤM TUYỆT ĐỐI GÓC QUA VAI (BANNED: OVER-THE-SHOULDER / OTS)
+
+> 🔴 **Tử huyệt kỹ thuật:**  
+> Lệnh `Over-the-shoulder (OTS)` hoặc `framed past shoulder` là nguyên nhân hàng đầu khiến AI tạo ảnh và video sinh ra **quái thai dị tật**:
+> - Khối vai/lưng ở tiền cảnh bị AI hòa tan vào nhân vật phía sau, sinh ra người dính liền thân (conjoined twins).
+> - Trong I2V, AI cố xoay khối lưng tiền cảnh lại, làm vỡ nát giải phẫu đầu hoặc tạo ra các mảng đen biến dạng nhấp nháy.
+
+### ✅ 5 Góc Máy Điện Ảnh Thay Thế Hoàn Hảo Cho Góc Qua Vai:
+1. **Góc nghiêng 3/4 bám theo (Three-quarter profile tracking shot):** Cả 2 nhân vật đều nằm trọn vẹn trong khung hình ở cự ly gần, thấy rõ ánh mắt nhìn nhau và cử chỉ bàn tay, không bị che khuất giải phẫu.
+2. **Góc ngang hai người song hành (Side-by-side profile two-shot):** Bố cục cổ điển điện ảnh, hai nhân vật tương tác tự nhiên, không ai che ai.
+3. **Góc thấp lướt theo nhịp chân (Low-angle dynamic ground tracking):** Bám sát chuyển động bước chân, tà áo và mặt đất, tạo chiều sâu từ tiền cảnh cỏ/đá thay vì mượn vai người.
+4. **Góc cao phân tầng chiều sâu (High-angle layered master drift):** Nhìn từ trên cao thấy rõ từng lớp không gian (tiền cảnh, trung cảnh nhân vật, hậu cảnh thế giới).
+5. **Cận cảnh bàn thao tác trực diện (Direct macro workbench shot):** Hướng thẳng ống kính vào đôi bàn tay và công cụ, sạch bóng mọi vật cản tiền cảnh.
+
+---
+
+## 4. CÔNG THỨC CHUYỂN ĐỘNG 3+1 (THE 3+1 MOTION FORMULA)
 
 Mỗi prompt animation bắt buộc được cấu trúc tinh gọn theo đúng 4 thành phần kỹ thuật:
 
 ```text
-[1. Cú máy Camera mượt] + [2. Hành động Chủ thể] + [3. Vật lý Môi trường] + [4. Khóa kỹ thuật an toàn]
+[1. Cú máy Camera điện ảnh mượt] + [2. Hành động Chủ thể giàu sinh khí] + [3. Vật lý Môi trường cuộn trào] + [4. Khóa kỹ thuật an toàn]
 ```
 
-### Chi tiết 4 thành phần:
+### Bảng chi tiết thành phần:
 
 | Thành phần | Ý nghĩa kỹ thuật | Ví dụ thực tế |
 |---|---|---|
-| **1. Camera Motion** | Hướng di chuyển và tiêu cự của máy quay (luôn êm ái, có ray trượt). | `Slow smooth cinematic slider drift...`, `gentle continuous dolly-in...`, `static locked-off camera...` |
-| **2. Subject Motion** | Hành động vi mô duy nhất của nhân vật hoặc vật thể chính. | `The swing arcs smoothly forward and back; small boots kick gently upward.` / `The artisan smoothly rotates the carved wooden bowl with steady hands.` |
-| **3. Environmental Physics** | Chuyển động của các hạt vật lý trong môi trường (gió, lá, nước, khói, lửa). | `Autumn leaves drift gently across the foreground; water ripples softly in the current.` / `Sparks spray smoothly from the glowing anvil.` |
+| **1. Camera Motion** | Cú máy mượt mà bám theo chuyển động (CẤM dùng Over-the-shoulder). | `Dynamic low-angle camera tracking...`, `Smooth three-quarter profile drift...`, `High-angle sweeping glide...` |
+| **2. Subject Motion** | Hành động sống động, có chủ đích, tràn trề sinh lực, tương tác vật lý dứt khoát. | `The husband energetically pushes the swing forward with full arm extension, leaning forward in mid-stride with an ecstatic laugh.` |
+| **3. Environmental Physics** | Lực tác động môi trường sống động (gió mạnh, lá cuộn xoáy, nước xô, lửa bắn). | `A whirlwind of dry golden oak leaves whips actively into the air; wool scarves and coat hems billow energetically in the draft.` |
 | **4. Technical Guardrails** | Khóa an toàn chặn AI tự ý cắt cảnh, giật lag, sinh chữ hoặc biến dạng. | `Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.` |
-
----
-
-## 4. TỪ ĐIỂN CÚ MÁY VÀ ĐỘNG TỪ CHUẨN HÓA
-
-### A. Bộ cú máy Camera mượt mà (Camera Moves):
-- **Trượt ngang êm ái (Slider/Dolly):** `Slow smooth horizontal camera drift past foreground [element], maintaining steady focus on [subject]...`
-- **Tiến chậm mượt mà (Dolly-in):** `Slow continuous cinematic dolly-in shot toward [subject], smooth fluid motion...`
-- **Góc ngước lướt nhẹ (Low-angle tracking):** `Low-angle smooth tracking shot moving gently alongside [subject]...`
-- **Góc cao bao quát (High-angle drift):** `High-angle slow sweeping drift looking down across [setting]...`
-- **Máy tĩnh lấy nét sâu (Static Macro):** `Static locked-off macro camera with shallow depth of field, steady focus...`
-
-### B. Động từ diễn hoạt mượt (Smooth Action Verbs):
-- **Cơ thể & Búp bê:** `smoothly sways`, `gently turns head`, `steadily guides hands`, `softly leans forward`, `fluidly pedals`.
-- **Muông thú sa bàn:** `smoothly cocks head with curious curiosity`, `gently twitches tail`, `smoothly glides through calm water`.
-- **Môi trường & Đạo cụ:** `drift lazily`, `ripple smoothly`, `flutter softly in the breeze`, `steam rises steadily`, `sparks spray fluidly`.
 
 ---
 
@@ -63,54 +72,32 @@ Mỗi prompt animation bắt buộc được cấu trúc tinh gọn theo đúng 
 
 | ❌ Lỗi Cấm Kỵ (Failure Trigger) | Hậu Quả Kỹ Thuật |  Giải Pháp Kỹ Thuật Thay Thế |
 |---|---|---|
-| **Tả lại quần áo/mặt mũi** (*"An old man in wool tweed..."*) | AI vẽ lại chi tiết $\rightarrow$ nát hình, lệch ảnh gốc | **Bỏ hoàn toàn tả hình thức.** Chỉ gọi tên: `The man...`, `The artisan...`, `The sparrow...` |
-| **Hành động chuỗi liên hoàn** (*"Đứng lên, bước ra cửa, mở cửa"*) | Đứt gãy khung hình, tay chân dính vào cửa | **Chỉ 1 hành động liên tục duy nhất** trong suốt 5 giây. |
+| **Dùng góc qua vai (Over-the-shoulder)** | Dính thân, nát đầu tiền cảnh, biến dạng khối lưng | **Thay bằng:** `three-quarter profile tracking` hoặc `side-by-side profile two-shot`. |
+| **Chuyển động đơ cứng, lờ đờ (Passivity)** | Video như tượng sáp, buồn ngủ, thiếu sức sống | **Thổi bùng sinh khí:** Nhân vật hành động có lực, dứt khoát, gió lá và môi trường cuộn trào năng lượng. |
+| **Tả lại quần áo/mặt mũi tĩnh** | AI vẽ lại chi tiết $\rightarrow$ nát hình, lệch ảnh gốc | **Bỏ hoàn toàn tả hình thức.** Chỉ gọi tên: `The husband...`, `The artisan...`, `The owl...` |
+| **Hành động chuỗi liên hoàn** (*"Đứng lên, chạy, mở cửa"*) | Đứt gãy khung hình, tay chân dính vào cửa | **Chỉ 1 hành động liên tục, nhất quán** nhưng thực hiện đầy nhiệt huyết. |
 | **Đổi tư thế cơ thể đột ngột** (*Đang ngồi đứng phắt dậy*) | Biến dạng cơ thể, mọc thừa chi, méo cột sống | Giữ nguyên tư thế gốc: `maintains seated posture throughout the shot`. |
-| **Dùng từ mơ hồ** (*"zoom in", "speed up"*) | Crop số vỡ hạt pixel, giật khung hình | Dùng: `slow smooth continuous dolly-in`, `steady fluid tracking`. |
-| **Thiếu câu lệnh kỹ thuật** | AI tự nhảy cảnh, chèn chữ nhảm, méo mặt | Luôn kết thúc bằng: `Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.` |
 
 ---
 
-## 6. KHUNG MẪU THỰC CHIẾN (PRODUCTION PROMPT TEMPLATES)
+## 6. KHUNG MẪU THỰC CHIẾN MẪU (PRODUCTION EXAMPLES)
 
-### Mẫu 1: Cảnh Xích đu / Hành động bay bổng (Swing / Dynamic Action)
+### Mẫu 1: Xích đu cất cánh bùng nổ sinh khí (Dynamic Swing Launch)
 ```text
-Slow smooth low-angle camera drift. The wooden swing arcs fluidly forward and back in a graceful pendulum motion, leather boots kicking gently upward toward the golden tree canopy. Autumn leaves swirl smoothly in the trailing air. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Dynamic low-angle camera tracking forward. The young husband lunges forward with vigorous, joyful commitment, pushing the swing seat forward with both hands as his coat hem billows, while his companion kicks her leather boots high into the air with a ringing laugh. A swirling cloud of golden oak leaves erupts actively from the lawn beneath their boots. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
 ```
 
-### Mẫu 2: Cảnh Nghệ nhân thao tác / Đời sống (Artisan / Craft Action)
+### Mẫu 2: Tương tác đôi lứa góc nghiêng 3/4 (Three-Quarter Profile Couple Interaction)
 ```text
-Slow smooth macro slider shot. The blacksmith steadily brings the hammer down onto the glowing anvil with rhythmic precision, bright orange sparks spraying fluidly outward. Thin curls of forge smoke drift steadily upward into the rafters. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Smooth three-quarter profile tracking shot. The young husband eagerly takes both of his companion's hands, giving a gentle, affectionate tug to guide her forward, while she takes a playful bouncing step with coat hem swinging and head tilted in an amused smile. Autumn wind actively sweeps crisp golden leaves across the path around their boots. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
 ```
 
-### Mẫu 3: Cảnh Muông thú sa bàn (Wildlife / Nature Action)
+### Mẫu 3: Nghệ nhân làng nghề thao tác thuần thục (Active Artisan Craft)
 ```text
-Smooth static macro shot with shallow depth of field. The whittled cedar sparrow smoothly tilts its head with alert, curious micro-movements on the weathered fence post. Autumn breeze softly ripples through the dry grass below. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Direct macro slider shot focused on the anvil. The blacksmith rhythmically and powerfully drives the wooden hammer down upon the red-hot iron links with practiced force, sending a brilliant shower of bright orange sparks spraying actively outward as forge smoke curls swiftly into the rafters. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
 ```
 
-### Mẫu 4: Cảnh Tĩnh vật / Cảm xúc buông lắng (Contemplative / Still-life)
+### Mẫu 4: Muông thú sa bàn hoạt bát (Lively Whittled Creature)
 ```text
-Slow gentle camera drift across the scene. The empty wooden swing sways very slowly in the faint autumn breeze. Warm lantern light flickers softly against the ancient oak bark as distant twilight mist rolls lazily across the lawn. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Smooth close-up macro tracking shot. The whittled cedar sparrow actively pecks at fallen grain on the fence post with brisk, energetic head bobs, fluttering its carved wings with tiny rapid rustles before perking upright to cock its head alertly. Autumn breeze actively ruffles the tall dry grass below. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
 ```
-
----
-
-## 7. QUY CHUẨN LƯU TRỮ VÀ TÍCH HỢP PIPELINE
-
-1. **Ưu tiên tích hợp trực tiếp vào JSON:**
-   Mỗi prompt trong `projects/<id>/<track>/image.json` sẽ chứa trực tiếp trường `"ANIMATION"`:
-   ```json
-   {
-     "id": 4,
-     "STYLE": { ... },
-     "ENVIRONMENT": { ... },
-     "ANIMATION": {
-       "prompt": "Slow smooth low-angle camera drift. The wooden swing arcs fluidly forward and back in a graceful pendulum motion, leather boots kicking gently upward toward the golden tree canopy. Autumn leaves swirl smoothly in the trailing air. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
-     }
-   }
-   ```
-2. **Khả năng trích xuất linh hoạt (CLI Ready):**
-   Khi cần nạp vào tool render hàng loạt (như Kling API, ComfyUI, Runway batch), chỉ cần dùng 1 lệnh `jq` để xuất ra danh sách:
-   ```bash
-   jq -r '.[] | "\(.id). \(.ANIMATION.prompt)"' image.json > prompt-animate.txt
-   ```

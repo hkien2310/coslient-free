@@ -414,7 +414,7 @@
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, over-the-shoulder medium-wide shot framed past the young couple's wool-clad shoulders looking down the gentle slope toward the grandparents in the clearing",
+      "camera": "Macro tilt-shift, three-quarter profile medium-wide shot of young couple standing on the mossy slope watching the grandparents in the clearing below",
       "setting": "Gentle mossy slope beneath an arching golden beech branch overlooking the clearing",
       "focal_elements": [
         {
@@ -430,7 +430,7 @@
           "details": "Softly rendered in the warm amber distance across the lawn"
         }
       ],
-      "staging": "figure_1 and figure_2 standing close together in the left third beside prop_1; their gaze and the open park clearing create generous visual looking-room across to prop_2 in the soft-focus right background",
+      "staging": "figure_1 and figure_2 standing close together in the left third beside prop_1; both figures viewed in clean three-quarter profile with zero occlusion; their gaze and the open park clearing create generous visual looking-room across to prop_2 in the soft-focus right background",
       "real_nature": "Real living cushion moss, authentic damp dark earth, scattered dry golden leaves",
       "backdrop": "Softly blurred expansive clearing with amber autumn trees and distant cottage gables",
       "lighting": "Luminous amber sunset raking from the right, bathing both young figures in warm golden light",
@@ -440,7 +440,7 @@
       "quirk": "Two small stones in the drystone wall naturally nestled together in the shape of a resting songbird"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder slow camera drift. The young couple leans gently against one another on the mossy slope, watching the distant grandparents in the clearing. Autumn breeze softly rustles dry oak foliage along the hillside. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Three-quarter profile slow camera drift. The young couple leans gently against one another on the mossy slope, companion resting her head on his arm as autumn wind vigorously rustles their scarf fringes and sends dry oak leaves tumbling down the hillside. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -971,7 +971,7 @@
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, over-the-shoulder intimate close-up shot framed past the young man's tweed lapel focusing on her listening face and yarn hair",
+      "camera": "Macro tilt-shift, intimate side-by-side profile close-up two-shot focusing on their listening faces and tactile yarn hair",
       "setting": "Sheltered alcove beneath the golden autumn oak canopy along the park perimeter",
       "focal_elements": [
         {
@@ -981,7 +981,7 @@
           "details": "Resting softly along the lower edge of the frame, grounding the couple's stance"
         }
       ],
-      "staging": "figure_1 and figure_2 positioned center-stage in a tight, heartfelt embrace; figure_1 on left leans intimately into figure_2 on right; crisp tactile focus on their turned wooden profiles, woven wool hats, and textured scarves; the background dissolves into luminous golden bokeh",
+      "staging": "figure_1 and figure_2 positioned center-stage in clean side-by-side profile; figure_1 on left leans intimately into figure_2 on right; crisp tactile focus on their turned wooden profiles, woven wool hats, and textured scarves; the background dissolves into luminous golden bokeh",
       "real_nature": "Living velvety moss cushions on stone, crisp dried golden oak leaves resting softly on the wall ledge",
       "backdrop": "Luminous golden and amber blur of late afternoon autumn foliage glowing softly behind them",
       "lighting": "Warm glowing golden-hour side lighting illuminating their profiles and creating radiant amber translucency around the knitted yarn fibers",
@@ -991,7 +991,7 @@
       "quirk": "A tiny bronze bird broach on figure_2's coat lapel subtly glows with a soft pinpoint of warm amber light"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder intimate camera drift. The young man leans in close to whisper warmly beside her ear as her eyes soften with a gentle smile. A stray golden leaf drifts softly down between their wool lapels. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Intimate profile camera glide. The young artisan leans in close to whisper warmly beside her cheek, his wooden hand tenderly squeezing her mitten as she breaks into a bright smile, while dry golden leaves swirl past their wool lapels in the crisp breeze. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -1143,7 +1143,7 @@
       "quirk": "The stone chimney of the bread oven is shaped like an upright miniature clay teapot puffing gentle smoke rings"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder smooth slider shot. The village baker steadily slides the long ash-wood peel from the outdoor stone oven, bearing a steaming golden crust loaf. A delicate plume of white steam rises through the golden morning sunbeams. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Eye-level medium three-quarter tracking drift. The village baker purposefully slides the ash-wood peel from the stone oven mouth, his boots braced firmly as steam billows into the morning sunbeams and flour dust swirls across the hearth. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -1794,7 +1794,7 @@
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, over-the-shoulder close-up shot looking down past potter's sleeves onto the spinning potter's wheel and wet clay bowl",
+      "camera": "Macro tilt-shift, high-angle direct macro workbench shot focused cleanly on potter's hands shaping the spinning terracotta clay bowl",
       "setting": "Open-air pottery studio terrace under a timber pergola with views of an autumn orchard",
       "focal_elements": [
         {
@@ -1810,7 +1810,7 @@
           "details": "Arranged along the rustic studio wall on the right"
         }
       ],
-      "staging": "figure_1 seated center-midground working attentively at prop_1; prop_2 frames the right side; the open pergola behind creates expansive negative space looking out into the sun-drenched golden orchard",
+      "staging": "figure_1 seated center-midground working attentively at prop_1 with hands and wheel in clear unobstructed view; prop_2 frames the right side; the open pergola behind creates expansive negative space looking out into the sun-drenched golden orchard",
       "real_nature": "Real wet terracotta clay, authentic dried dark soil, fallen golden pear leaves on the stone terrace floor",
       "backdrop": "Softly blurred golden orchard trees laden with ripe russet pears beneath a clear luminous sky",
       "lighting": "Clear warm daylight filtering through the timber pergola slats, casting elegant linear striped shadows across the wooden floor and wet clay",
@@ -1820,7 +1820,7 @@
       "quirk": "One of the finished glazed ceramic jugs on the shelf has a handle carved in the shape of a curling dried oak leaf"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder smooth close-up drift. The potter's hands gently cup and shape the wet terracotta clay bowl spinning smoothly on the kick-wheel, as tiny glistening clay droplets spin off the rim. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Direct macro close-up glide. The potter's thumb and fingers firmly compress and lift the wet terracotta clay wall on the rapidly spinning kick-wheel, flinging glistening water beads outward into the golden sunbeams as the smooth rim flares into shape. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -3022,7 +3022,7 @@
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, over-the-shoulder close-up shot looking past the luthier's shoulder at the carved spruce soundboard of the miniature cello",
+      "camera": "Macro tilt-shift, direct macro workbench shot focused cleanly on the luthier's hands carving the spruce soundboard of the miniature cello",
       "setting": "Sunlit timber luthier workshop with panoramic windows overlooking the golden autumn woods",
       "focal_elements": [
         {
@@ -3038,7 +3038,7 @@
           "details": "Suspended gracefully overhead along the upper edge of the frame"
         }
       ],
-      "staging": "figure_1 seated center-midground working over prop_1; prop_2 hangs along the ceiling beam above; the wide open timber window behind creates vast luminous negative space filled with golden autumn light",
+      "staging": "figure_1 seated center-midground working over prop_1 with clear lateral visibility of tools and instrument; prop_2 hangs along the ceiling beam above; the wide open timber window behind creates vast luminous negative space filled with golden autumn light",
       "real_nature": "Real pine timber bench with varnish stains, authentic curled maple shavings, dried chamomile in stone jar",
       "backdrop": "Softly blurred golden canopy of ancient autumn trees swaying gently in the late-afternoon sun",
       "lighting": "Clear luminous natural daylight streaming through the multi-pane studio window, illuminating floating wood dust and catching the golden translucency of the flamed maple wood",
@@ -3048,7 +3048,7 @@
       "quirk": "The f-holes carved into the miniature violin body are shaped like microscopic curling dried oak leaves"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder smooth close-up drift. The luthier steadily guides a miniature gouge chisel along the spiraling maple scroll of a cello neck, a paper-thin curl of blond wood shaving floating softly away. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Direct macro lateral slider drift. The luthier firmly presses a curved gouge chisel into the spruce soundboard, peeling away a curling ribbon of blond wood shaving that tumbles onto the workbench amidst a scattering of cedar dust. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -3345,7 +3345,7 @@
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, over-the-shoulder intimate close-up shot looking down past his wool sleeve directly at the whittled bird figurine in his hands",
+      "camera": "Macro tilt-shift, intimate side-by-side medium close-up shot focused on husband carving the weathered cedar bench backrest",
       "setting": "Sheltered park knoll beneath a spreading golden beech tree overlooking the autumn meadow",
       "focal_elements": [
         {
@@ -3355,7 +3355,7 @@
           "details": "Tiny blond cedar curls peeling beneath the knife tip, authentic tactile beeswax patina"
         }
       ],
-      "staging": "figure_1 and figure_2 seated center-midground upon prop_1; the bench backrest fills the lower half; the open sun-drenched golden clearing behind dissolves into soft, luminous circles of bokeh",
+      "staging": "figure_1 and figure_2 seated center-midground side-by-side upon prop_1 with zero occlusion; the bench backrest fills the lower half; the open sun-drenched golden clearing behind dissolves into soft, luminous circles of bokeh",
       "real_nature": "Real miniature blond cedar shavings, living cushion moss at bench leg base, scattered dry golden leaves",
       "backdrop": "Soft golden blur of autumn beech canopy with warm amber rays filtering between distant trunks",
       "lighting": "Luminous golden late-afternoon sunlight raking across the bench wood, illuminating the fresh pale incisions and highlighting figure_2's saffron beret",
@@ -3365,7 +3365,7 @@
       "quirk": "The carved heart in the wood grain subtly pulses with a microscopic thread of warm amber light"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder intimate close-up drift. The young man carefully glides a pocket knife tip along the weathered cedar bench backrest, carving a small heart outline as a tiny curl of wood lifts smoothly from the timber. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Intimate side-by-side slow tracking drift. The young man firmly guides his pocket knife along the cedar bench grain, peeling a curling ribbon of wood as his companion leans in with an eager smile, brushing away the fresh shavings with her mitten. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
@@ -4904,7 +4904,7 @@
       ]
     },
     "ENVIRONMENT": {
-      "camera": "Macro tilt-shift, over-the-shoulder intimate two-shot looking down past his shoulder at the curled wood shavings and carved spoons in their laps",
+      "camera": "Macro tilt-shift, eye-level side-by-side intimate porch two-shot focused on their laps and hands carving miniature cedar spoons",
       "setting": "Sunlit timber cottage porch overlooking the golden autumn meadow in early afternoon",
       "focal_elements": [
         {
@@ -4920,7 +4920,7 @@
           "details": "Framing the porch on the right"
         }
       ],
-      "staging": "figure_1 and figure_2 seated side-by-side upon the bench in center-midground; prop_1 rests between them; the open sunlit meadow behind creates expansive, cheerful negative space",
+      "staging": "figure_1 and figure_2 seated side-by-side upon the bench in center-midground with both profiles clearly visible; prop_1 rests between them; the open sunlit meadow behind creates expansive, cheerful negative space",
       "real_nature": "Real cedar wood shavings, living cushion moss at porch steps, scattered dry golden leaves",
       "backdrop": "Softly blurred sunlit autumn meadow with grazing miniature sheep in distant pastures under a clear blue sky",
       "lighting": "Clear luminous natural afternoon sunlight flooding the porch, illuminating the fine pale wood shavings and highlighting figure_2's saffron beret",
@@ -4930,7 +4930,7 @@
       "quirk": "The handles of both wooden spoons they are carving interlock together to form a single continuous wooden infinity knot"
     },
     "ANIMATION": {
-      "prompt": "Over-the-shoulder intimate close-up drift. The young man smoothly scoops out the hollow bowl of a cedar spoon with his curved gouge knife, a delicate ribbon of wood shaving curling gently away to the porch floor. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
+      "prompt": "Intimate side-by-side tracking drift. The young artisan firmly hollows out the cedar spoon bowl with his curved knife, letting crisp blond shavings shower onto the porch floor, while his companion steadily sands a finished spoon with fine cloth, dust motes dancing in the afternoon sunlight. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark."
     }
   },
   {
