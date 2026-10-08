@@ -1,103 +1,105 @@
-# 🎬 ANIMATION CRAFT — QUY CHUẨN KỸ THUẬT CHUYỂN ĐỘNG VIDEO AI
-v5.1 — Living Vitality & Clean Cinematography Edition (Kling / Runway / Hailuo / Wan 2.1 / Luma)
+# 🎬 ANIMATION CRAFT — QUY CHUẨN KỸ THUẬT CHUYỂN ĐỘNG VEO 3
+v6.0 — The Living Surreal World Architecture (Optimized for Veo 3 / VideoFX & Modern I2V)
 
-> **Mục tiêu:** Chuyển hóa ảnh tĩnh (Keyframe Image) thành prompt diễn hoạt (Animation Prompt) ngắn gọn, chính xác, **tràn đầy sự sống chân thật (Lived-in Tactile Vitality)**, chuyển động mượt mà không giật cục, và **triệt tiêu 100% các góc máy gây lỗi dị tật**.
-
----
-
-## 1. NGUYÊN TẮC BẮT BUỘC: CHỈ ĐẠO VECTOR CHUYỂN ĐỘNG (KHÔNG TẢ LẠI ẢNH)
-
-1. **Ảnh (Keyframe) đã quyết định 100% phần nhìn:**
-   - Model AI Video (I2V) đã nhìn thấy toàn bộ nhân vật, trang phục, gương mặt, màu sắc, ánh sáng và bối cảnh.
-   - **Tuyệt đối cấm tả lại bối cảnh hay quần áo tĩnh:** Không viết câu thừa thãi như *"The grandfather in worn tweed coat on the wooden porch"*. Nhồi lại từ ngữ miêu tả tĩnh làm AI xung đột ngữ nghĩa, dẫn đến lỗi biến dạng (morphing) hoặc đè nát chất liệu của ảnh gốc.
-2. **Nhiệm vụ duy nhất của Prompt Animation:**
-   - Chỉ đạo **vector chuyển động (motion vectors)** và **xung lực sống** trong 5–8 giây.
-   - Tập trung vào **động từ hành động sống động** và **cú máy điện ảnh an toàn**.
+> **TƯ DUY CỐT LÕI (CORE PHILOSOPHY):**  
+> **"ĐỪNG COI HỌ LÀ CON RỐI / TƯỢNG GỖ. HỌ LÀ CON NGƯỜI TRONG THẾ GIỚI SIÊU THỰC."**  
+> Ảnh tĩnh đã định hình 100% chất liệu sa bàn thủ công. Prompt Animation sinh ra **KHÔNG PHẢI ĐỂ TẢ LẠI ẢNH**, mà để **THỔI HỒN SỰ SỐNG CON NGƯỜI** và điều khiển camera đồng hành bám theo mượt mà. Càng ngắn gọn, súc tích, AI càng mượt và tự nhiên.
 
 ---
 
-## 2. TIÊU CHUẨN SỰ SỐNG THẬT TRONG THẾ GIỚI THU NHỎ (LIVED-IN TACTILE VITALITY)
+## 1. NGUYÊN LÝ BẢN THỂ: CON NGƯỜI TRONG THẾ GIỚI SIÊU THỰC
 
-> ⚠️ **BẪY CẦN TRÁNH: ĐƠ CỨNG & CHẬM CHẠP LỜ ĐỜ (ANTI-PASSIVITY)**  
-> Chuyển động mượt mà KHÔNG CÓ NGHĨA là nhân vật chỉ đứng đực mặt lắc lư hay môi trường trôi lờ đờ vô hồn như tượng sáp. Nhân vật phải **thực sự sống trong thế giới của họ**, hành động có chủ đích, giàu năng lượng và tương tác vật lý dứt khoát:
-
-1. **Nhân vật hành động có mục đích & giàu sinh khí (Purposeful Agency):**
-   * *Không chỉ đứng vịn:* Người chồng kéo căng dây xích đồng, dậm bước chân dứt khoát trên cỏ, rướn người đẩy xích đu bằng toàn bộ lực cánh tay, vẫy tay reo vui hồ hởi.
-   * *Không chỉ ngồi yên:* Người vợ đạp chân lấy trớn, hai tay siết chặt xích rung nhẹ, ngửa đầu cười giòn giã với vai nảy nhịp, váy xòe tung trong gió.
-   * *Nghề thủ công thực thụ:* Thợ rèn giáng búa dứt khoát nảy đe, phoi bào gỗ xoăn tít bắn ra khỏi lưỡi đục, dòng trà rót từ trên cao sủi bọt, người thợ thắp đèn quẹt lửa bùng sáng rực rỡ.
-   * *Muông thú linh hoạt:* Chim sẻ mổ thóc lách cách rồi quạt cánh bay chuyền cọc, sóc xoay tít quả sồi gặm lia lịa, rái cá trượt ào xuống dòng nước bắn tung bọt.
-2. **Vật lý môi trường cuộn trào sinh khí (Dynamic Environmental Pulse):**
-   * Gió cuốn tung lá khô thành từng đợt lốc nhỏ, tà áo dạ và khăn len bay phần phật, khói bếp cuộn tròn bốc lên cao rồi tản vào không trung, tia lửa lò rèn nổ lách tách bay thành chùm, nước suối gợn sóng lăn tăn xô bờ sỏi.
-3. **Mượt mà nhưng giàu xung lực (Smooth & Energetic Ease):**
-   * Giữ trọn độ mượt điện ảnh (`smooth fluid motion`), chuyển động có gia tốc tự nhiên, nhưng lực tác động dứt khoát, không lờ đờ, không giật khựng (`no stutter, no jitter`).
+### ❌ Cái bẫy "Tượng gỗ vô tri" (The Figurine Trap):
+* Nếu trong prompt animation xuất hiện các từ: `puppet, wooden figurine, whittled, carved doll, statue`:
+  * AI hiểu đây là **đồ chơi bằng gỗ vô tri** $\rightarrow$ AI sẽ giữ tượng **đứng đơ bất động** (chỉ có gió lay lá), hoặc giật cục như hoạt hình đất sét stop-motion.
+* **Quy tắc thép:** CẤM TUYỆT ĐỐI các từ chỉ gỗ/rối trong Animation Prompt. Luôn định danh bản thể là **CON NGƯỜI / SINH THỂ SỐNG**:
+  * Dùng: `two people`, `the young man`, `the woman`, `the couple`, `the barn owl`, `the tea master`.
+  * AI Video được huấn luyện trên hàng triệu video người thật. Khi nghe từ `two people`, nó lập tức nạp toàn bộ **tri thức động học cơ thể người (Human Biomechanics)**: bước đi uyển chuyển, vung tay tự nhiên, cơ mặt biểu cảm sinh động!
 
 ---
 
-## 3. 🚫 CẤM TUYỆT ĐỐI GÓC QUA VAI (BANNED: OVER-THE-SHOULDER / OTS)
+## 2. CÂU THẦN CHÚ KHÓA ĐẦU BẤT BIẾN: `Alive Surreal World`
 
-> 🔴 **Tử huyệt kỹ thuật:**  
-> Lệnh `Over-the-shoulder (OTS)` hoặc `framed past shoulder` là nguyên nhân hàng đầu khiến AI tạo ảnh và video sinh ra **quái thai dị tật**:
-> - Khối vai/lưng ở tiền cảnh bị AI hòa tan vào nhân vật phía sau, sinh ra người dính liền thân (conjoined twins).
-> - Trong I2V, AI cố xoay khối lưng tiền cảnh lại, làm vỡ nát giải phẫu đầu hoặc tạo ra các mảng đen biến dạng nhấp nháy.
+Mọi prompt animation bắt buộc mở đầu bằng cụm từ khóa vàng:
+> 👉 **`Alive Surreal World`**
 
-### ✅ 5 Góc Máy Điện Ảnh Thay Thế Hoàn Hảo Cho Góc Qua Vai:
-1. **Góc nghiêng 3/4 bám theo (Three-quarter profile tracking shot):** Cả 2 nhân vật đều nằm trọn vẹn trong khung hình ở cự ly gần, thấy rõ ánh mắt nhìn nhau và cử chỉ bàn tay, không bị che khuất giải phẫu.
-2. **Góc ngang hai người song hành (Side-by-side profile two-shot):** Bố cục cổ điển điện ảnh, hai nhân vật tương tác tự nhiên, không ai che ai.
-3. **Góc thấp lướt theo nhịp chân (Low-angle dynamic ground tracking):** Bám sát chuyển động bước chân, tà áo và mặt đất, tạo chiều sâu từ tiền cảnh cỏ/đá thay vì mượn vai người.
-4. **Góc cao phân tầng chiều sâu (High-angle layered master drift):** Nhìn từ trên cao thấy rõ từng lớp không gian (tiền cảnh, trung cảnh nhân vật, hậu cảnh thế giới).
-5. **Cận cảnh bàn thao tác trực diện (Direct macro workbench shot):** Hướng thẳng ống kính vào đôi bàn tay và công cụ, sạch bóng mọi vật cản tiền cảnh.
+### Giải mã kỹ thuật:
+1. **`Surreal World` (Thế giới siêu thực):** Giải quyết xung đột nhận thức của AI giữa chất liệu sa bàn gỗ và chuyển động người sống: *"Đây là thế giới siêu thực, nên hình hài sa bàn thủ công cử động như người thật là hoàn toàn tự nhiên!"*
+2. **`Alive` (Sống động):** Đánh thức toàn bộ khung hình và nhân vật thoát khỏi trạng thái đóng băng (freeze-state) của ảnh tĩnh.
 
 ---
 
-## 4. CÔNG THỨC CHUYỂN ĐỘNG 3+1 (THE 3+1 MOTION FORMULA)
+## 3. CAMERA ĐỒNG HÀNH BÁM THEO (COMPANION CAMERA)
 
-Mỗi prompt animation bắt buộc được cấu trúc tinh gọn theo đúng 4 thành phần kỹ thuật:
+* **Ảnh đã có sẵn góc nhìn (Angle Locked):** Không cần lặp lại `low-angle`, `medium-shot`, `close-up` thừa thãi.
+* **Camera đồng hành, không tranh chấp:** Camera phải di chuyển nhịp nhàng bám theo nhân vật (`tracks with...`), không giành giật dung lượng chuyển động của chủ thể.
+* **Các cụm camera chuẩn:**
+  * `Camera smoothly tracks with...` (Máy quay lướt êm bám theo bước chân).
+  * `smooth cinematic camera glide...` (Cú lướt máy quay điện ảnh mượt mà).
+  * `smooth camera drift...` (Camera trôi êm quan sát cảnh tĩnh/muông thú).
 
-```text
-[1. Cú máy Camera điện ảnh mượt] + [2. Hành động Chủ thể giàu sinh khí] + [3. Vật lý Môi trường cuộn trào] + [4. Khóa kỹ thuật an toàn]
-```
+---
 
-### Bảng chi tiết thành phần:
+## 4. DÒNG CHẢY HÀNH VI TỰ NHIÊN DẠNG `-ing` (NATURAL BEHAVIOR FLOW)
 
-| Thành phần | Ý nghĩa kỹ thuật | Ví dụ thực tế |
+* **Chỉ mô tả biến cố / hành động cơ bản:** Không can thiệp vi mô (không tả góc gập đầu gối, không tả lắc cổ tay).
+* **Ưu tiên thì hiện tại tiếp diễn (`-ing`):**
+  * `talking and walking` (vừa đi vừa trò chuyện).
+  * `swinging high into the air` (đu bay vút lên bầu trời).
+  * `pouring steaming tea into the bowl` (rót trà bốc khói).
+  * `looking around and softly blinking` (đưa mắt nhìn quanh và chớp mắt).
+* Khi nghe động từ tiếp diễn tự nhiên, AI tự động kích hoạt chuyển động nhịp nhàng của toàn bộ cơ thể người thật (miệng mấp máy, ánh mắt trao nhau, bước chân so le nhịp nhàng).
+
+---
+
+## 5. BỘ LỌC DỌN RÁC 100% (ZERO-GARBAGE MANDATE)
+
+| ❌ Loại từ CẤM TUYỆT ĐỐI | Ví dụ | Hậu quả kỹ thuật trên Veo 3 |
 |---|---|---|
-| **1. Camera Motion** | Cú máy mượt mà bám theo chuyển động (CẤM dùng Over-the-shoulder). | `Dynamic low-angle camera tracking...`, `Smooth three-quarter profile drift...`, `High-angle sweeping glide...` |
-| **2. Subject Motion** | Hành động sống động, có chủ đích, tràn trề sinh lực, tương tác vật lý dứt khoát. | `The husband energetically pushes the swing forward with full arm extension, leaning forward in mid-stride with an ecstatic laugh.` |
-| **3. Environmental Physics** | Lực tác động môi trường sống động (gió mạnh, lá cuộn xoáy, nước xô, lửa bắn). | `A whirlwind of dry golden oak leaves whips actively into the air; wool scarves and coat hems billow energetically in the draft.` |
-| **4. Technical Guardrails** | Khóa an toàn chặn AI tự ý cắt cảnh, giật lag, sinh chữ hoặc biến dạng. | `Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.` |
+| **Từ phủ định (Negative Prompt)** | `no cuts, no stutter, no morphing, no text, no watermark, no stop-motion, no freezing` | Cơ chế Attention bị hút vào các từ `stop-motion, freezing` $\rightarrow$ **Càng làm cảnh quay bị đơ cứng!** |
+| **Từ thì thào giảm lực (Damping Adjectives)** | `slow, slowly, gently, softly, faint` | Veo 3 tuân thủ tuyệt đối $\rightarrow$ **Giảm 80% biên độ, video đứng im như ảnh chết!** |
+| **Tả lại trang phục / ngoại hình tĩnh** | `wool coat, felt beret, turned wooden head, leather boots` | Phân tán sự chú ý vào vẽ lại chất liệu thay vì tính toán vector chuyển động. |
 
 ---
 
-## 5. BẢNG TRA CỨU CÁC LỖI GÂY NÁT VIDEO (FAILURE MODES)
+## 6. CÔNG THỨC CHUẨN ĐIỆN ẢNH VEO 3 (THE VEO 3 MASTER FORMULA)
 
-| ❌ Lỗi Cấm Kỵ (Failure Trigger) | Hậu Quả Kỹ Thuật |  Giải Pháp Kỹ Thuật Thay Thế |
-|---|---|---|
-| **Dùng góc qua vai (Over-the-shoulder)** | Dính thân, nát đầu tiền cảnh, biến dạng khối lưng | **Thay bằng:** `three-quarter profile tracking` hoặc `side-by-side profile two-shot`. |
-| **Chuyển động đơ cứng, lờ đờ (Passivity)** | Video như tượng sáp, buồn ngủ, thiếu sức sống | **Thổi bùng sinh khí:** Nhân vật hành động có lực, dứt khoát, gió lá và môi trường cuộn trào năng lượng. |
-| **Tả lại quần áo/mặt mũi tĩnh** | AI vẽ lại chi tiết $\rightarrow$ nát hình, lệch ảnh gốc | **Bỏ hoàn toàn tả hình thức.** Chỉ gọi tên: `The husband...`, `The artisan...`, `The owl...` |
-| **Hành động chuỗi liên hoàn** (*"Đứng lên, chạy, mở cửa"*) | Đứt gãy khung hình, tay chân dính vào cửa | **Chỉ 1 hành động liên tục, nhất quán** nhưng thực hiện đầy nhiệt huyết. |
-| **Đổi tư thế cơ thể đột ngột** (*Đang ngồi đứng phắt dậy*) | Biến dạng cơ thể, mọc thừa chi, méo cột sống | Giữ nguyên tư thế gốc: `maintains seated posture throughout the shot`. |
+Độ dài lý tưởng: **Từ 12 đến 22 từ**. Ngắn gọn, đắt giá, dứt khoát!
+
+```text
+Alive Surreal World, [Cú camera lướt êm]. [Nhân vật/Hai con người đang làm hành động cơ bản ở dạng -ing].
+```
 
 ---
 
-## 6. KHUNG MẪU THỰC CHIẾN MẪU (PRODUCTION EXAMPLES)
+## 7. BỘ MẪU CHUẨN THỰC CHIẾN (PRODUCTION EXAMPLES)
 
-### Mẫu 1: Xích đu cất cánh bùng nổ sinh khí (Dynamic Swing Launch)
+### Mẫu 1: Hai người đi dạo & trò chuyện (Walking & Talking)
 ```text
-Dynamic low-angle camera tracking forward. The young husband lunges forward with vigorous, joyful commitment, pushing the swing seat forward with both hands as his coat hem billows, while his companion kicks her leather boots high into the air with a ringing laugh. A swirling cloud of golden oak leaves erupts actively from the lawn beneath their boots. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Alive Surreal World. Camera smoothly tracks with two people talking and walking along the path.
 ```
 
-### Mẫu 2: Tương tác đôi lứa góc nghiêng 3/4 (Three-Quarter Profile Couple Interaction)
+### Mẫu 2: Cặp đôi qua cầu gỗ (Bridge Crossing)
 ```text
-Smooth three-quarter profile tracking shot. The young husband eagerly takes both of his companion's hands, giving a gentle, affectionate tug to guide her forward, while she takes a playful bouncing step with coat hem swinging and head tilted in an amused smile. Autumn wind actively sweeps crisp golden leaves across the path around their boots. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Alive Surreal World, smooth camera tracking. Two people walking hand in hand across the wooden footbridge.
 ```
 
-### Mẫu 3: Nghệ nhân làng nghề thao tác thuần thục (Active Artisan Craft)
+### Mẫu 3: Huých tay rủ đi & chỉ đường (Nudging & Pointing)
 ```text
-Direct macro slider shot focused on the anvil. The blacksmith rhythmically and powerfully drives the wooden hammer down upon the red-hot iron links with practiced force, sending a brilliant shower of bright orange sparks spraying actively outward as forge smoke curls swiftly into the rafters. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Alive Surreal World, smooth camera glide. A young man nudging his companion's arm and pointing ahead as she turns to smile.
 ```
 
-### Mẫu 4: Muông thú sa bàn hoạt bát (Lively Whittled Creature)
+### Mẫu 4: Xích đu bay cất cánh (Swinging Launch)
 ```text
-Smooth close-up macro tracking shot. The whittled cedar sparrow actively pecks at fallen grain on the fence post with brisk, energetic head bobs, fluttering its carved wings with tiny rapid rustles before perking upright to cock its head alertly. Autumn breeze actively ruffles the tall dry grass below. Single continuous shot, smooth fluid motion, no cuts, no stutter, no morphing, no text, no watermark.
+Alive Surreal World, smooth dynamic camera. A woman happily swinging high into the air as a man pushes from behind and laughs.
+```
+
+### Mẫu 5: Muông thú sa bàn (Lively Animal)
+```text
+Alive Surreal World, smooth close-up drift. A barn owl softly blinking and looking around in the autumn wind.
+```
+
+### Mẫu 6: Nghệ nhân rót trà (Pouring Tea)
+```text
+Alive Surreal World, smooth interior glide. A tea master pouring steaming tea into a bowl as a guest smiles warmly.
 ```
