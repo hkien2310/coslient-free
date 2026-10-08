@@ -29,14 +29,45 @@ Mọi prompt animation bắt buộc mở đầu bằng cụm từ khóa vàng:
 
 ---
 
-## 3. CAMERA ĐỒNG HÀNH BÁM THEO (COMPANION CAMERA)
+## 3. HỆ THỐNG 7 CÚ CAMERA ĐỒNG HÀNH ĐIỆN ẢNH (THE 7 COMPANION CAMERAS)
 
-* **Ảnh đã có sẵn góc nhìn (Angle Locked):** Không cần lặp lại `low-angle`, `medium-shot`, `close-up` thừa thãi.
-* **Camera đồng hành, không tranh chấp:** Camera phải di chuyển nhịp nhàng bám theo nhân vật (`tracks with...`), không giành giật dung lượng chuyển động của chủ thể.
-* **Các cụm camera chuẩn:**
-  * `Camera smoothly tracks with...` (Máy quay lướt êm bám theo bước chân).
-  * `smooth cinematic camera glide...` (Cú lướt máy quay điện ảnh mượt mà).
-  * `smooth camera drift...` (Camera trôi êm quan sát cảnh tĩnh/muông thú).
+* **Nguyên lý góc nhìn (Angle Locked):** Ảnh tĩnh Midjourney đã chốt góc quay và bố cục. Prompt animation **CẤM** viết lại `low-angle`, `medium-shot`, `close-up` vì sẽ gây xung đột trường nhìn của AI.
+* **Camera đồng hành, không tranh chấp:** Camera lướt nhịp nhàng bám theo nhân vật hoặc môi trường, làm nổi bật chuyển động sống động của chủ thể thay vì tự rung lắc hay lia giật cục.
+
+### Bảng phân loại 7 cú máy chuẩn điện ảnh:
+| Phân loại | Cụm từ Prompt chuẩn | Không gian & Công năng ứng dụng | Cảm giác điện ảnh mang lại |
+|---|---|---|---|
+| **1. Tracking (Bám bước)** | `smooth camera tracking` / `smooth wide camera tracking` | Nhân vật di chuyển tuyến tính: đi bộ, qua cầu, dắt lừa, tuần đêm. | Kéo người xem cùng đồng hành trên chuyến hành trình. |
+| **2. Glide (Lướt đa hướng)** | `smooth camera glide` / `smooth wide camera glide` | Dạo bước quanh phố xá, ngã rẽ, bến thuyền, không gian mở. | Mượt mà như cú máy Steadycam/Dolly trượt trên ray êm ái. |
+| **3. Dynamic (Động lực học)** | `smooth dynamic camera` | Cảnh cao trào, biên độ cơ thể lớn: đánh đu, nhảy múa, tung hứng, chạy nhảy. | Đầy sức sống, giải phóng năng lượng cao trào của âm nhạc. |
+| **4. Macro / Close-up Drift (Vi mô)** | `smooth close-up drift` / `smooth macro camera drift` | Tĩnh vật, muông thú nhỏ (cú mèo, chim sẻ, chuột đồng), khâu vá, rót trà, mầm cây. | Thơ mộng, tập trung sâu, bắt trọn từng chi tiết thủ công tinh xảo. |
+| **5. Water-level Glide (Mặt nước)** | `smooth water-level glide` / `smooth water-level drift` | Thuyền trôi, guồng nước, suối róc rách, bến cá, vịt trời bơi lội. | Góc nhìn là là mặt nước, phản chiếu lấp lánh, thi vị và êm dịu. |
+| **6. Interior Glide (Nội thất ấm cúng)** | `smooth interior glide` | Quán trọ, bếp lửa bập bùng, bàn trà, xưởng may, xưởng bánh, tiệm sách. | Không gian đóng kín nhưng ấm áp, ghi lại cử chỉ sẻ chia thân tình. |
+| **7. Panoramic / Orbital (Toàn cảnh & Quỹ đạo)** | `smooth wide panoramic glide` / `smooth orbital camera` | Đại cảnh thung lũng, lâu đài sương mù, hoàng hôn buông xuống, cánh đồng bậc thang. | Hoành tráng, kỳ vĩ, mở rộng biên độ không gian siêu thực tối đa. |
+
+---
+
+## 3.1. MA TRẬN ĐA DẠNG HÓA & CHỐNG ĐƠN ĐIỆU (ANTI-MONOTONY MATRIX)
+
+Khán giả sẽ lập tức cảm thấy buồn ngủ nếu 3-4 cảnh liên tiếp cùng dùng một cú máy (ví dụ chuỗi `camera glide` lặp đi lặp lại). Để video đạt chất lượng nghệ thuật điện ảnh cao cấp:
+
+1. **Quy tắc trần tối đa (Max 2 Consecutive Shots Rule):**
+   * **Tuyệt đối không dùng cùng 1 loại camera quá 2 cảnh liên tiếp.**
+   * Nếu Scene N dùng `smooth camera glide`, Scene N+1 có thể dùng `smooth camera glide`, nhưng Scene N+2 **bắt buộc** phải chuyển sang loại khác (`smooth close-up drift`, `smooth camera tracking`, `smooth interior glide`, v.v.).
+2. **Quy tắc đối âm thị giác (Contrapuntal Visual Flow):**
+   * **Tương phản Quy mô:** Sau một đại cảnh (`panoramic glide` / `wide tracking`) $\rightarrow$ Ưu tiên cảnh cận tĩnh (`close-up drift` / `macro drift`).
+   * **Tương phản Động lực:** Sau cảnh hành động nhanh (`dynamic camera`) $\rightarrow$ Cho khán giả khoảng nghỉ bằng cú lướt êm dịu (`water-level drift` / `interior glide`).
+   * **Tương phản Môi trường:** Đan xen nhịp nhàng giữa Không gian mở ngoài trời (Outdoor trails, bridges) $\leftrightarrow$ Không gian ấm cúng trong nhà (Indoor hearths, tea taverns).
+
+---
+
+## 3.2. ĐỒNG BỘ NHỊP THỞ ÂM NHẠC & ĐIỆN ẢNH (MUSICAL PACING & KINETIC TIERS)
+
+Chuyển động camera phải cộng hưởng với cấu trúc trường đoạn của bản nhạc:
+* **Đoạn Mở đầu (Intro - Khởi hành):** `smooth close-up drift`, `smooth macro camera drift`, `smooth wide panoramic glide` — khơi gợi sự tò mò, khám phá chi tiết sa bàn và thiết lập thế giới.
+* **Đoạn Thân bài (Verse / Journey - Hành trình):** `smooth camera tracking`, `smooth camera glide`, `smooth interior glide` — nhịp bước chân đều đặn, câu chuyện phát triển tự nhiên.
+* **Đoạn Cao trào (Chorus / Climax - Bùng nổ):** `smooth dynamic camera`, `smooth wide camera tracking` — giải phóng cảm xúc, nhịp điệu dồn dập, chuyển động vung tay/chạy nhảy/đánh đu bay bổng.
+* **Đoạn Lắng đọng / Kết bài (Outro - Trở về):** `smooth water-level drift`, `smooth orbital camera`, `smooth wide panoramic glide` — thu hẹp nhịp động, để lại dư âm lắng sâu và ấm áp bên lò sưởi gia đình.
 
 ---
 
@@ -47,7 +78,7 @@ Mọi prompt animation bắt buộc mở đầu bằng cụm từ khóa vàng:
   * `talking and walking` (vừa đi vừa trò chuyện).
   * `swinging high into the air` (đu bay vút lên bầu trời).
   * `pouring steaming tea into the bowl` (rót trà bốc khói).
-  * `looking around and softly blinking` (đưa mắt nhìn quanh và chớp mắt).
+  * `looking around and blinking alertly` (đưa mắt nhìn quanh và chớp mắt).
 * Khi nghe động từ tiếp diễn tự nhiên, AI tự động kích hoạt chuyển động nhịp nhàng của toàn bộ cơ thể người thật (miệng mấp máy, ánh mắt trao nhau, bước chân so le nhịp nhàng).
 
 ---
@@ -94,12 +125,22 @@ Alive Surreal World, smooth camera glide. A young man nudging his companion's ar
 Alive Surreal World, smooth dynamic camera. A woman happily swinging high into the air as a man pushes from behind and laughs.
 ```
 
-### Mẫu 5: Muông thú sa bàn (Lively Animal)
+### Mẫu 5: Muông thú sa bàn (Lively Animal - Macro/Close-up Drift)
 ```text
-Alive Surreal World, smooth close-up drift. A barn owl softly blinking and looking around in the autumn wind.
+Alive Surreal World, smooth close-up drift. A barn owl blinking and looking around alertly in the autumn wind.
 ```
 
-### Mẫu 6: Nghệ nhân rót trà (Pouring Tea)
+### Mẫu 6: Nghệ nhân rót trà (Pouring Tea - Interior Glide)
 ```text
 Alive Surreal World, smooth interior glide. A tea master pouring steaming tea into a bowl as a guest smiles warmly.
+```
+
+### Mẫu 7: Thuyền trôi mặt nước (Water-level Glide)
+```text
+Alive Surreal World, smooth water-level glide. A wooden fishing boat drifting across calm rippling water towards a lantern-lit dock.
+```
+
+### Mẫu 8: Toàn cảnh hoàng hôn thung lũng (Wide Panoramic / Orbital)
+```text
+Alive Surreal World, smooth wide panoramic glide. Evening lanterns flickering alive across rolling terraced hills and winding cobblestone lanes.
 ```
