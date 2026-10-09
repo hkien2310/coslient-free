@@ -11,15 +11,14 @@ Sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên thật, chụp
 
 ---
 
-## 2. Tạo Hình Nhân Vật (Folk Art Wooden Doll)
+## 2. Tạo Hình Nhân Vật (Handcrafted Carved Wooden Figurine)
 
-* **Tỉ lệ người lớn dong dỏng cao (Chống Chibi):** Tỉ lệ cơ thể người trưởng thành cao ráo (`tall slender adult human proportions`), đầu nhỏ cân đối đúng tỉ lệ với thân người, chân tay dài (`small proportionate head, long slender limbs`). Thân tượng đẽo liền khối không khớp nối, tay áo dài che kín cổ tay.
-* **Tóc & Râu dạng sợi thẳng suôn mượt (Chống xù bông):** Tóc và râu làm từ các sợi chỉ lanh hoặc chỉ thêu chải thẳng buông suôn (`straight combed linen thread strands falling flat and neat`), ôm sát đầu và cằm tự nhiên. Phủ kín toàn bộ đầu (không hói), không dùng sợi bông xù phồng như cục bông gòn.
-* **Khuôn mặt trau chuốt:** Đầu gỗ đẽo gọt sạch sẽ, bề mặt nhẵn mịn mờ lì (`clean, smoothly finished matte wooden face`), không vết dao băm vằm trên mặt. Mũi nhỏ nhắn xinh xắn tạc êm ái trên mặt gỗ.
-* **Đôi mắt có hồn:** Mắt to tròn mở sáng, vẽ cọ tỉ mỉ bên trong rãnh khắc nông, toát lên vẻ ngây thơ, hiền hòa, ấm áp kiểu hoạt hình cổ điển.
-* **Bàn tay:** Bàn tay gỗ chạm khắc thanh thoát, các ngón tay cong nhẹ nhàng, tự nhiên cầm nắm đồ vật.
-* **Trang phục:** Vải dệt thủ công thật (lanh, len dạ) may đo vừa vặn bọc ngoài thân tượng, viền chỉ thêu to bản mộc mạc. Tay áo dài che kín cổ tay, vạt áo phủ dài tới ủng.
-* **Độ tuổi:** Người trẻ mặt nhẵn mịn, tươi tắn. Người già có vài nét cười nhẹ ở khóe mắt, toát lên vẻ phúc hậu hiền từ.
+* **Tượng điêu khắc thủ công (Figurine - Tuyệt đối không dùng doll/puppet):** Định danh nhân vật luôn là `carved wooden figurine` (tượng gỗ tạc thủ công liền khối). Tuyệt đối không dùng chữ `doll`, `puppet`, hay `mannequin` vì AI sẽ vẽ khớp bi (ball-and-socket joints) như tượng ma-nơ-canh vẽ tranh.
+* **Vải mềm gánh độ mềm (Chống lộ khớp):** Trang phục vải dệt thủ công thật (lanh, len) luôn có tay áo dài che kín toàn bộ cánh tay tới tận cổ tay (`long fabric sleeves covering arms to wrists`). Chỉ để lộ bàn tay gỗ tạc mềm mại. Vải mềm rủ tự nhiên vừa tạo độ sống động, vừa che hoàn toàn thân gỗ để AI không có chỗ vẽ khớp.
+* **Tóc & Râu buông rủ tự nhiên (Chống hói & chống xù):** Luôn có cụm `full head of hair covering the scalp` để chống khuôn mẫu hói đầu ở người già. Tóc và râu làm từ sợi chỉ lanh mềm buông rủ tự nhiên theo trọng lực (`soft natural thread hair draping naturally`), ôm nhẹ đầu và cằm, không ép thẳng đơ và không xù bông gòn.
+* **Biểu cảm ấm áp, có thần (Chống mặt đơ ma-nơ-canh):** Mặt gỗ gọt nhẵn mịn mờ lì, toát lên nét hiền từ, tươi vui, mắt mở to tròn hiền hòa có nét cười (`warm friendly carved face with gentle smiling eyes`). Tránh mổ xẻ vụn vặt từng chi tiết mắt mũi miệng như thông số kỹ thuật.
+* **Dáng người có trọng lực (Chống đơ cọc gỗ):** Tỉ lệ dong dỏng cao ráo, nhưng tư thế luôn có độ chùng tự nhiên của đời thực: vai thả lỏng, đầu hơi nghiêng, tỳ tay lên bàn, tựa lưng hoặc dồn trọng tâm (`relaxed posture, resting forearms on table, slight natural tilt`).
+* **Không nhồi nhét từ khóa (Tả thoáng để AI sáng tạo):** Mô tả nhân vật bằng văn miêu tả tự nhiên, gợi mở thần thái và không gian thay vì nhồi một chuỗi từ khóa rời rạc. Càng ép tiểu tiết vụn vặt, AI càng nghẽn token và khóa chết sự sống động của nhân vật.
 
 ---
 
@@ -53,25 +52,19 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Tall slender wooden folk doll with small proportionate head and long limbs in tailored cloth clothing. Solid seamless wood body with long sleeves covering wrists. Clean smoothly carved wooden head, gentle open eyes, small petite nose, straight combed thread hair and beard falling flat and neat. Carved wooden hands with distinct curved fingers.",
+    "dna": "Slender handcrafted carved wooden figurine in soft tailored linen clothes, solid seamless wood body under long fabric sleeves, warm friendly carved face with gentle smiling eyes, and a full head of soft natural thread hair covering the scalp.",
     "figures": [
       {
         "id": "figure_1",
         "role": "<role_and_age>",
-        "build": "<posture_and_build>",
-        "head": "<head_hair_eyes_expression>",
-        "attire": "<clothing_and_fabrics>",
-        "action": "<hands_and_activity>",
-        "gaze": "<look_direction>"
+        "look": "<appearance_attire_hair_and_expression_in_natural_prose>",
+        "action": "<natural_posture_and_activity_with_relaxed_gravity>"
       },
       {
         "id": "figure_2",
         "role": "<optional_second_figure_role>",
-        "build": "<posture_and_build>",
-        "head": "<head_hair_eyes_expression>",
-        "attire": "<clothing_and_fabrics>",
-        "action": "<hands_and_activity>",
-        "gaze": "<look_direction>"
+        "look": "<appearance_attire_hair_and_expression_in_natural_prose>",
+        "action": "<natural_posture_and_activity_with_relaxed_gravity>"
       }
     ],
     "background_figures": "<optional_tiny_distant_silhouettes_for_scale>"
@@ -126,17 +119,14 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
 * **`aspect_ratio`**: Tỷ lệ khung hình (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Có khi có người)
-* **`dna`**: Câu định nghĩa gốc cho nhân vật: tượng búp bê gỗ dáng cao ráo thanh mảnh, đầu nhỏ đúng tỉ lệ, chân tay dài, mặc đồ vải may đo; thân gỗ liền khối không khớp nối, ống tay dài che kín cổ tay; đầu gỗ đẽo gọt sạch sẽ nhẵn mịn mờ lì, nét mặt mộc mạc biểu cảm duyên dáng, mũi nhỏ xinh, mắt mở to tròn hiền hòa, mái tóc và râu bằng sợi chỉ thẳng buông suôn ôm sát đầu và cằm (chải mượt, không xù bông), bàn tay gỗ chạm ngón cong tự nhiên.
-* **`figures`**: Danh sách nhân vật trong cảnh:
+* **`dna`**: Câu định nghĩa gốc chuẩn hóa cho tượng gỗ tạc thủ công (`carved wooden figurine`), thân liền khối giấu kín dưới tay áo vải dài, mặt ấm áp có nét cười hiền dịu, tóc sợi chỉ buông rủ tự nhiên phủ kín da đầu.
+* **`figures`**: Danh sách nhân vật trong cảnh (tối giản còn 2 trường mô tả tự nhiên để AI sáng tạo dáng, không mổ xẻ vụn vặt):
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để `staging` gọi tên.
   - *`role`*: Vai trò và lứa tuổi cụ thể của nhân vật.
-  - *`build`*: Dáng người dong dỏng cao ráo, đầu nhỏ cân đối, tư thế tự nhiên (đầu hơi nghiêng, vai thả lỏng, người hơi chùng nhẹ theo hành động).
-  - *`head`*: Đầu gỗ nhẵn mịn trau chuốt, nét mặt cách điệu hiền từ, tóc và râu sợi chỉ chải thẳng buông suôn phủ kín đầu (không hói, không xù bông), mũi nhỏ xinh, mắt mở to tròn hiền từ (người già thêm vài nét cười nhẹ ở khóe mắt).
-  - *`attire`*: Trang phục vải dệt thật có viền thêu, ống tay dài che kín cổ tay, vạt áo phủ dài tới ủng.
-  - *`action`*: Hành động cụ thể, miêu tả bàn tay gỗ chạm rõ ngón đang uốn cong cầm nắm đồ vật.
-  - *`gaze`*: Hướng nhìn có chủ đích của đôi mắt mở, nhìn vào việc đang làm hoặc bạn đồng hành, không nhìn vào ống kính máy quay.
-* **Quy tắc trọn vẹn hình thể:** Dù máy quay cận cảnh thao tác tay, vẫn mô tả đầy đủ từ đầu, tóc, áo quần đến dáng điệu để AI giữ giải phẫu thống nhất, tránh lỗi bàn tay trôi nổi một mình.
-* **Tham chiếu thực thể:** Mọi đối tượng tương tác trong `action`, `gaze`, `staging` phải có ID rõ ràng (`figure_*`, `creature_*`, `prop_*`).
+  - *`look`*: Diện mạo, thần thái, trang phục và râu tóc viết thành 1 câu văn xuôi gợi cảm tự nhiên. Bắt buộc có: `full head of hair covering scalp` (chống hói), `long fabric sleeves covering arms to wrists` (áo dài tay che kín tay chống lộ khớp bi), và biểu cảm ấm áp có nét cười (`warm friendly face with gentle smiling eyes`). Tuyệt đối không nhồi nhét chuỗi từ khóa kỹ thuật rời rạc.
+  - *`action`*: Tư thế toàn thân tự nhiên có trọng lực đời thực (vai thả lỏng, tỳ cùi chỏ lên bàn, đầu hơi nghiêng, chùng lưng tự nhiên) kèm theo việc đang làm.
+* **Quy tắc trọn vẹn hình thể:** Dù máy quay cận cảnh thao tác tay, vẫn giữ đủ `look` và `action` để AI giữ giải phẫu thống nhất, tránh lỗi bàn tay trôi nổi một mình.
+* **Tham chiếu thực thể:** Mọi đối tượng tương tác trong `action`, `staging` phải có ID rõ ràng (`figure_*`, `creature_*`, `prop_*`).
 * **`background_figures` (Tùy chọn):** Chấm bóng người tí hon mờ ở hậu cảnh xa để đo tỷ lệ không gian, không tả chi tiết.
 
 #### Khối 3: `CREATURES` (Có khi có động vật)
