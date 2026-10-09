@@ -18,6 +18,7 @@ Sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên thật, chụp
 * **Tóc & Râu buông rủ tự nhiên (Chống hói & chống xù):** Luôn có cụm `full head of hair covering the scalp` để chống khuôn mẫu hói đầu ở người già. Tóc và râu làm từ sợi chỉ lanh mềm buông rủ tự nhiên theo trọng lực (`soft natural thread hair draping naturally`), ôm nhẹ đầu và cằm, không ép thẳng đơ và không xù bông gòn.
 * **Thả rông biểu cảm theo cảnh (Chống mặt đơ ma-nơ-canh):** Mặt gỗ gọt nhẵn mịn mờ lì, đôi mắt mở sáng linh hoạt (`expressive carved wooden face with open eyes reflecting the mood`). Không đóng đinh một biểu cảm cười hiền từ cho mọi hoàn cảnh; người viết được tự do thả rông biểu cảm tùy theo tình huống từng cảnh (tò mò, tập trung cao độ, ngạc nhiên, suy tư, thư thái, mơ màng, mỉm cười...).
 * **Dáng người có trọng lực (Chống đơ cọc gỗ):** Tỉ lệ dong dỏng cao ráo, nhưng tư thế luôn có độ chùng tự nhiên của đời thực: vai thả lỏng, đầu hơi nghiêng, tỳ tay lên bàn, tựa lưng hoặc dồn trọng tâm (`relaxed posture, resting forearms on table, slight natural tilt`).
+* **Khóa số lượng nhân vật đơn (Chống đẻ thêm người lạ):** Khung hình 16:9 rất rộng, khi cảnh chỉ có 1 người già thì AI thường tự vẽ thêm một đứa bé đứng cạnh để lấp khoảng trống. Khi cảnh chỉ có 1 người, bắt buộc mở đầu `figures.look` bằng: `"A single solitary figurine, the sole human character in the scene..."` và lấp khoảng trống đối trọng bằng đạo cụ sa bàn (`props`) hoặc thiên nhiên thật, tuyệt đối không để trống nửa khung hình.
 * **Không nhồi nhét từ khóa (Tả thoáng để AI sáng tạo):** Mô tả nhân vật bằng văn miêu tả tự nhiên, gợi mở thần thái và không gian thay vì nhồi một chuỗi từ khóa rời rạc. Càng ép tiểu tiết vụn vặt, AI càng nghẽn token và khóa chết sự sống động của nhân vật.
 
 ---
@@ -123,7 +124,11 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
 * **`figures`**: Danh sách nhân vật trong cảnh (tối giản còn 2 trường mô tả tự nhiên để AI sáng tạo dáng, không mổ xẻ vụn vặt):
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để `staging` gọi tên.
   - *`role`*: Vai trò và lứa tuổi cụ thể của nhân vật.
-  - *`look`*: Diện mạo, thần thái, trang phục và râu tóc viết thành 1 câu văn xuôi gợi cảm tự nhiên. Bắt buộc có: `full head of hair covering scalp` (chống hói), `dressed fully in tailored cloth with long sleeves and flowing skirt/trousers covering down to ankles` (áo dài tay che kín tay chống khớp bi và váy/quần vải mềm che kín chân chống đẽo gỗ thành váy), và biểu cảm thả rông tự do theo tâm trạng cảnh (`expressive face with open eyes reflecting mood: curious, focused, tranquil, amused, astonished, smiling...`). Tuyệt đối không nhồi nhét chuỗi từ khóa kỹ thuật rời rạc.
+  - *`look`*: Diện mạo, thần thái, trang phục và râu tóc viết thành 1 câu văn xuôi gợi cảm tự nhiên. Bắt buộc có:
+    - Khi chỉ có 1 nhân vật: Bắt buộc mở đầu bằng `A single solitary figurine, the sole human character in the scene...` (chống AI tự vẽ thêm đứa trẻ lấp chỗ trống).
+    - `full head of hair covering scalp` (chống hói).
+    - `dressed fully in tailored cloth with long sleeves and flowing skirt/trousers covering down to ankles` (áo dài tay che kín tay chống khớp bi và váy/quần vải mềm che kín chân chống đẽo gỗ thành váy).
+    - Biểu cảm thả rông tự do theo tâm trạng cảnh (`expressive face with open eyes reflecting mood: curious, focused, tranquil, amused, astonished, smiling...`). Tuyệt đối không nhồi nhét chuỗi từ khóa kỹ thuật rời rạc.
   - *`action`*: Tư thế toàn thân tự nhiên có trọng lực đời thực (vai thả lỏng, tỳ cùi chỏ lên bàn, đầu hơi nghiêng, chùng lưng tự nhiên) kèm theo việc đang làm.
 * **Quy tắc trọn vẹn hình thể:** Dù máy quay cận cảnh thao tác tay, vẫn giữ đủ `look` và `action` để AI giữ giải phẫu thống nhất, tránh lỗi bàn tay trôi nổi một mình.
 * **Tham chiếu thực thể:** Mọi đối tượng tương tác trong `action`, `staging` phải có ID rõ ràng (`figure_*`, `creature_*`, `prop_*`).
