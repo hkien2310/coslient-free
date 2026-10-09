@@ -13,10 +13,10 @@ Sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên thật, chụp
 
 ## 2. Tạo Hình Nhân Vật
 
-* **Chất liệu:** Tượng búp bê gỗ chạm tay. Đầu, cổ và bàn tay là gỗ mộc để mờ lì.
-* **Tỉ lệ & Dáng vẻ:** Tỉ lệ người trưởng thành cao ráo, cân đối. Tư thế đứng hoặc ngồi tự nhiên theo việc đang làm, đầu hơi nghiêng nhẹ.
+* **Chất liệu gỗ thô mộc:** Tượng búp bê chạm từ gỗ mộc khô ráp, mờ lì không vec-ni (`raw unvarnished timber, porous matte texture`). Bề mặt thấy rõ vân gỗ mờ, có xước dăm gỗ li ti và vết gọt đẽo mộc mạc của dao khắc (`subtle visible wood grain, tactile micro-splinters, rustic whittling chisel marks`), sờ vào cảm nhận được thớ gỗ thật.
+* **Cách điệu khuôn mặt (Stylized Folk Face):** Khuôn mặt gọt khối cách điệu dân gian tối giản và giàu tính tạo hình biểu trưng (`stylized folk art face with simplified carved planes`), không mô phỏng tả thực cơ mặt người thật. Đầu gỗ đẽo khối tròn mộc mạc, sống mũi nhỏ tạc chìm êm ái, tóc len sợi dày dặn phủ kín đầu.
+* **Tỉ lệ & Dáng vẻ:** Dáng người dong dỏng cao ráo cách điệu, đứng hoặc ngồi tự nhiên theo việc đang làm, đầu hơi nghiêng nhẹ.
 * **Trang phục:** Vải dệt thật (lanh thô, len, nỉ ép) may đo bọc ngoài thân tượng, viền chỉ thêu to bản. Tay áo dài che kín cổ tay, vạt áo phủ dài tới ủng.
-* **Khuôn mặt:** Đầu gỗ đẽo tròn mịn màng. Sống mũi nhỏ tạc chìm êm ái trên mặt gỗ. Tóc len sợi dày dặn phủ kín đầu.
 * **Đôi mắt:** Mắt khắc rãnh nông hình hạnh nhân, bên trong vẽ tròng mắt màu than mở to hiền lành, nhìn rõ việc đang làm.
 * **Nếp nhăn:** Người trẻ mặt nhẵn mộc mạc. Người già có vài rãnh khắc cười nông ở khóe mắt, toát lên vẻ phúc hậu.
 * **Bàn tay:** Bàn tay gỗ chạm khắc rõ từng ngón cong tự nhiên theo động tác cầm nắm.
@@ -54,7 +54,7 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Hand-carved wooden folk doll in miniature tailored linen clothing. Smooth carved wooden head, small natural nose, warm open eyes carved and painted with dark pupils, thick yarn hair. Carved wooden hands with distinct curved fingers.",
+    "dna": "Hand-carved stylized wooden folk doll in miniature tailored linen clothing. Raw dry timber with subtle wood grain, tactile micro-splinters, and rustic whittling marks. Simplified stylized carved face, small natural nose, warm open eyes carved and painted with dark pupils, thick yarn hair. Carved wooden hands with distinct curved fingers.",
     "figures": [
       {
         "id": "figure_1",
@@ -127,12 +127,12 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
 * **`aspect_ratio`**: Tỷ lệ khung hình (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Có khi có người)
-* **`dna`**: Câu định nghĩa gốc cho nhân vật trong toàn bộ cảnh. Giữ nguyên câu ngắn gọn khẳng định: tượng gỗ búp bê thủ công mặc đồ vải may đo, đầu gỗ nhẵn, mũi nhỏ tự nhiên, mắt mở ấm áp vừa khắc vừa vẽ, tóc len dày, bàn tay chạm ngón cong.
+* **`dna`**: Câu định nghĩa gốc cho nhân vật: tượng búp bê gỗ cách điệu dân gian, chất gỗ mộc khô nhám có vân gỗ mờ, xước dăm li ti và vết dao đẽo gọt mộc; khuôn mặt tối giản cách điệu, mũi nhỏ tự nhiên, mắt mở ấm áp vừa khắc vừa vẽ, tóc len dày, bàn tay chạm ngón cong, bọc ngoài bằng đồ vải may đo.
 * **`figures`**: Danh sách nhân vật trong cảnh:
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để `staging` gọi tên.
   - *`role`*: Vai trò và lứa tuổi cụ thể của nhân vật.
   - *`build`*: Vóc dáng cao ráo và tư thế tự nhiên (đầu hơi nghiêng, vai thả lỏng, người hơi chùng nhẹ theo hành động).
-  - *`head`*: Hình khối đầu, kiểu tóc len dày phủ kín đầu, mũi nhỏ mộc mạc, mắt mở tỉnh táo hiền lành nhìn chăm chú vào việc làm (người già thêm rãnh cười mộc ở khóe mắt).
+  - *`head`*: Đầu gỗ cách điệu mộc mạc (không tả thực người thật), kiểu tóc len dày phủ kín đầu, mũi nhỏ tạc chìm êm, mắt mở tỉnh táo hiền lành nhìn chăm chú vào việc làm (người già thêm rãnh cười mộc ở khóe mắt).
   - *`attire`*: Trang phục vải dệt thật có viền thêu, ống tay dài che kín cổ tay, vạt áo phủ dài tới ủng.
   - *`action`*: Hành động cụ thể, miêu tả bàn tay gỗ chạm rõ ngón đang uốn cong cầm nắm đồ vật.
   - *`gaze`*: Hướng nhìn có chủ đích của đôi mắt mở, nhìn vào việc đang làm hoặc bạn đồng hành, không nhìn vào ống kính máy quay.
