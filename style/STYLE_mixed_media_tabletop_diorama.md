@@ -11,12 +11,11 @@ Sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên thật, chụp
 
 ---
 
-## 2. Tạo Hình Nhân Vật (Whimsical Wooden Doll)
+## 2. Tạo Hình Nhân Vật (Folk Art Wooden Doll)
 
-* **Thân gỗ liền khối không khớp:** Tượng búp bê gỗ đẽo liền khối nguyên thân, không có khớp nối cơ khí. Tay áo dài che kín cổ tay, bàn tay gỗ nối liền tự nhiên.
-* **Phong cách tạo hình:** Búp bê gỗ mang phong cách hoạt hình mộng mơ ấm áp (`whimsical stylized wooden doll`). Dáng dấp duyên dáng, sinh động, biểu cảm giàu cảm xúc.
+* **Tỉ lệ người lớn dong dỏng cao (Chống Chibi):** Tỉ lệ cơ thể người trưởng thành cao ráo (`tall slender adult human proportions`), đầu nhỏ cân đối đúng tỉ lệ với thân người, chân tay dài (`small proportionate head, long slender limbs`). Thân tượng đẽo liền khối không khớp nối, tay áo dài che kín cổ tay.
+* **Tóc & Râu dạng sợi thẳng suôn mượt (Chống xù bông):** Tóc và râu làm từ các sợi chỉ lanh hoặc chỉ thêu chải thẳng buông suôn (`straight combed linen thread strands falling flat and neat`), ôm sát đầu và cằm tự nhiên. Phủ kín toàn bộ đầu (không hói), không dùng sợi bông xù phồng như cục bông gòn.
 * **Khuôn mặt trau chuốt:** Đầu gỗ đẽo gọt sạch sẽ, bề mặt nhẵn mịn mờ lì (`clean, smoothly finished matte wooden face`), không vết dao băm vằm trên mặt. Mũi nhỏ nhắn xinh xắn tạc êm ái trên mặt gỗ.
-* **Tóc phủ kín đầu (chống hói):** Mái tóc bằng sợi len dày dặn phủ kín toàn bộ đầu (`full thick hair completely covering the head`), kể cả người già.
 * **Đôi mắt có hồn:** Mắt to tròn mở sáng, vẽ cọ tỉ mỉ bên trong rãnh khắc nông, toát lên vẻ ngây thơ, hiền hòa, ấm áp kiểu hoạt hình cổ điển.
 * **Bàn tay:** Bàn tay gỗ chạm khắc thanh thoát, các ngón tay cong nhẹ nhàng, tự nhiên cầm nắm đồ vật.
 * **Trang phục:** Vải dệt thủ công thật (lanh, len dạ) may đo vừa vặn bọc ngoài thân tượng, viền chỉ thêu to bản mộc mạc. Tay áo dài che kín cổ tay, vạt áo phủ dài tới ủng.
@@ -55,7 +54,7 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Whimsical stylized wooden doll in tailored cloth clothing. Solid seamless wood body with long sleeves covering wrists. Clean smoothly carved wooden head, charming expressive face, gentle open eyes, small petite nose, full thick yarn hair covering the head. Carved wooden hands with distinct curved fingers.",
+    "dna": "Tall slender wooden folk doll with small proportionate head and long limbs in tailored cloth clothing. Solid seamless wood body with long sleeves covering wrists. Clean smoothly carved wooden head, gentle open eyes, small petite nose, straight combed thread hair and beard falling flat and neat. Carved wooden hands with distinct curved fingers.",
     "figures": [
       {
         "id": "figure_1",
@@ -128,12 +127,12 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
 * **`aspect_ratio`**: Tỷ lệ khung hình (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Có khi có người)
-* **`dna`**: Câu định nghĩa gốc cho nhân vật: tượng búp bê gỗ cách điệu hoạt hình mộng mơ, mặc đồ vải may đo; thân gỗ liền khối không khớp nối, ống tay dài che kín cổ tay; đầu gỗ đẽo gọt sạch sẽ nhẵn mịn mờ lì, nét mặt cách điệu biểu cảm duyên dáng, mũi nhỏ xinh, mắt mở to tròn hiền hòa, mái tóc len dày dặn phủ kín toàn bộ đầu, bàn tay gỗ chạm ngón cong tự nhiên.
+* **`dna`**: Câu định nghĩa gốc cho nhân vật: tượng búp bê gỗ dáng cao ráo thanh mảnh, đầu nhỏ đúng tỉ lệ, chân tay dài, mặc đồ vải may đo; thân gỗ liền khối không khớp nối, ống tay dài che kín cổ tay; đầu gỗ đẽo gọt sạch sẽ nhẵn mịn mờ lì, nét mặt mộc mạc biểu cảm duyên dáng, mũi nhỏ xinh, mắt mở to tròn hiền hòa, mái tóc và râu bằng sợi chỉ thẳng buông suôn ôm sát đầu và cằm (chải mượt, không xù bông), bàn tay gỗ chạm ngón cong tự nhiên.
 * **`figures`**: Danh sách nhân vật trong cảnh:
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để `staging` gọi tên.
   - *`role`*: Vai trò và lứa tuổi cụ thể của nhân vật.
-  - *`build`*: Dáng búp bê gỗ sinh động và tư thế tự nhiên (đầu hơi nghiêng, vai thả lỏng, người hơi chùng nhẹ theo hành động).
-  - *`head`*: Đầu gỗ nhẵn mịn trau chuốt, nét mặt hoạt hình cách điệu dễ thương, mái tóc len dày phủ kín toàn bộ đầu, mũi nhỏ xinh, mắt mở to tròn hiền từ (người già thêm vài nét cười nhẹ ở khóe mắt).
+  - *`build`*: Dáng người dong dỏng cao ráo, đầu nhỏ cân đối, tư thế tự nhiên (đầu hơi nghiêng, vai thả lỏng, người hơi chùng nhẹ theo hành động).
+  - *`head`*: Đầu gỗ nhẵn mịn trau chuốt, nét mặt cách điệu hiền từ, tóc và râu sợi chỉ chải thẳng buông suôn phủ kín đầu (không hói, không xù bông), mũi nhỏ xinh, mắt mở to tròn hiền từ (người già thêm vài nét cười nhẹ ở khóe mắt).
   - *`attire`*: Trang phục vải dệt thật có viền thêu, ống tay dài che kín cổ tay, vạt áo phủ dài tới ủng.
   - *`action`*: Hành động cụ thể, miêu tả bàn tay gỗ chạm rõ ngón đang uốn cong cầm nắm đồ vật.
   - *`gaze`*: Hướng nhìn có chủ đích của đôi mắt mở, nhìn vào việc đang làm hoặc bạn đồng hành, không nhìn vào ống kính máy quay.
