@@ -36,12 +36,11 @@ Sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên thật, chụp
 Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả bằng tiếng Anh tự nhiên.
 
 ### Quy Tắc Điều Kiện Khối
-* **Bắt buộc:** `STYLE` và `ENVIRONMENT` luôn có ở mọi prompt.
+* **Bắt buộc (100% mọi prompt):** `STYLE`, `ENVIRONMENT`, và `SURREAL`. Mọi cảnh trong dự án bắt buộc phải có yếu tố phi lý mộc mạc (Surreal diorama).
 * **Có điều kiện:**
   * **`CHARACTERS`**: Chỉ xuất hiện khi cảnh có con người. Đã có người thì mô tả đầy đủ (`dna`, `figures` hoặc `background_figures`). Cảnh không có người thì bỏ khối này.
   * **`CREATURES`**: Chỉ xuất hiện khi cảnh có động vật (`role`, `build`, `material`, `action`, `gaze`). Cảnh không có động vật thì bỏ khối này.
   * **`motion`**: Chỉ xuất hiện khi có chuyển động môi trường (lá bay, khói bốc, gió lay...).
-  * **`SURREAL`**: Chỉ xuất hiện ở cảnh phi lý (~20%–30% tổng số cảnh). Gồm `type` và `description`.
 
 ### 4.1. Khung Cấu Trúc Prompt
 
@@ -155,11 +154,11 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
 * **`lighting`**: Hướng rọi sáng tự nhiên (ánh nắng cửa sổ, ánh lửa ấm), tạo bóng đổ mềm êm.
 * **`motion` (Tùy chọn):** Chuyển động môi trường (vệt khói bốc, lá khô bay, gió lay nhẹ).
 
-#### Khối 5: `SURREAL` (Có ở cảnh phi lý — Chiếm ~20%–30% tổng số cảnh)
-* **Bản chất:** Đưa một đồ vật hoặc hành động bình thường vào hoàn cảnh bất thường bằng vật liệu sa bàn thủ công. Nhân vật luôn giữ thái độ an nhiên, bình thản làm việc.
+#### Khối 5: `SURREAL` (Bắt buộc 100% mọi prompt)
+* **Bản chất:** Mọi cảnh bắt buộc phải có một chi tiết phi lý mộc mạc — đưa đồ vật hoặc hành động bình thường vào hoàn cảnh bất thường bằng vật liệu sa bàn thủ công. Nhân vật luôn giữ thái độ an nhiên, bình thản làm việc.
 * **`type`**: 1 trong 4 dạng phi lý:
-  - `displacement`: Thay thế bộ phận đồ vật bằng vật thể tự nhiên (bánh răng bằng quả thông, giọt nước bằng hạt cườm).
-  - `macro_interaction`: Tương tác với vật thể tự nhiên phóng đại hoặc siêu nhỏ (lá làm đèn bàn, vỏ hạt dẻ làm ghế).
-  - `absurd_setting`: Đặt sinh hoạt đời thường vào vị trí bất thường (tiệm bánh trong hốc rễ cây, đọc sách trên nhánh nấm).
+  - `displacement`: Thay thế bộ phận đồ vật bằng vật thể tự nhiên (bánh răng bằng quả thông/hạt dẻ, giọt nước bằng hạt cườm, mái chèo bằng cành cây).
+  - `macro_interaction`: Tương tác với vật thể tự nhiên phóng đại hoặc siêu nhỏ (lá làm đèn bàn/thuyền bơi, vỏ hạt dẻ làm ghế, vỏ trứng làm bồn cây).
+  - `absurd_setting`: Đặt sinh hoạt đời thường vào vị trí bất thường (tiệm bánh trong hốc rễ cây, đọc sách trên nhánh nấm, câu cá trong tách trà).
   - `scale_contrast`: Tương phản tỷ lệ giữa các đồ vật mộc mạc.
 * **`description`**: Mô tả chi tiết tình huống phi lý bằng vật liệu thủ công (gỗ, nỉ, đất nung, gốm). Cấm hiệu ứng phát sáng neon hay CGI ma quái.
