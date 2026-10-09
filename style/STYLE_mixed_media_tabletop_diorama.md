@@ -12,22 +12,25 @@ Phong cách sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên th
 ---
 
 ## 2. Tạo Hình Nhân Vật (Character Craftsmanship)
-* **Hình thể liền khối:** Nhân vật là tượng gỗ thu nhỏ điêu khắc nguyên khối toàn thân (full-body), vóc dáng thon dài cách điệu (`stylized slender elongated folk art proportions`), không bị lùn tịt chibi, không phải giải phẫu người thật. Thân tượng liền mạch không khớp bi, không bản lề hay khe hở cơ khí (`no ball-joints, no wrist joints, no hinge pins, no doll joints`). Chân chạm sàn hoặc ngồi vững trên ghế đẩu/bề mặt. Không tả bán thân (waist-up) để tránh lỗi cụt người. Tỷ lệ và vóc dáng tùy theo nhân vật.
-* **Trang phục vải thật Mixed-Media:** Quần áo may đo vi mô từ vải dệt thủ công thật 100% (lanh, cotton twill, dạ nỉ ép) phủ kín da thịt, có đường thêu viền chỉ nổi to bản (`blanket stitching`), rủ nếp mềm mại tự nhiên bọc ngoài thân tượng gỗ; đi giày/ủng. Tuyệt đối không điêu khắc quần áo bằng gỗ rồi sơn lên (`no carved wooden clothing, no painted wooden fabric`). Ống tay áo dài phủ kín cổ tay để giấu ranh giới giữa vải và bàn tay.
-* **Khuôn mặt bo tròn mộc mạc & Sống mũi chạm khắc liền khối (Cấm mũi cắm rời, cấm mũi chú hề, cấm góc nhọn Pinocchio):** Đầu tượng điêu khắc bo tròn mịn màng với các đường lượn chà nhám tự nhiên (`softly rounded wooden head with organic sanded contours`). Mũi phải được **chạm khắc liền khối từ thân gỗ của đầu tượng, có sống mũi thoai thoải chuyển tiếp tự nhiên từ trán xuống (`subtle wooden nose bridge sculpted seamlessly from the single head block, flowing naturally from the brow with a gentle rounded tip`)**. Tỷ lệ mũi hài hòa, thanh tú, chìm nhẹ vào cấu trúc mặt. Tuyệt đối cấm mũi gắn/dán rời như núm gỗ hay quả cầu dán lên mặt phẳng (`strictly NO glued-on peg nose, NO stuck-on bulb, NO clown nose, NO spherical protrusion attached to a flat face`); cấm các mặt vát góc cạnh sắc nhọn tam giác (`NO angular geometric facets, NO sharp chisel wedges`); cấm sống mũi dài nhọn hoắt như mỏ chim hay Pinocchio (`strictly NO sharp pointy nose, NO long beak-like nose`).
-* **Mắt cọ mờ lì hiền hậu (Cấm phát sáng, cấm trợn trừng):** Mắt vẽ cọ 2D phẳng bằng màu than mờ lì (`flat matte dark charcoal painted eyes`), ưu tiên tạo hình **mắt cười cong hiền từ dạng trăng khuyết (`kind gentle crescent-curved smiling eyes`)** hoặc hai chấm cọ mộc nhỏ nhắn, toát lên vẻ an nhiên, ấm áp. Tuyệt đối cấm mắt phát sáng, cấm tròng mắt phát quang hay ánh nhìn trợn trừng dữ tợn (`strictly NO glowing eyes, NO luminous pupils, NO glowing irises, NO piercing stare`). Miệng là một vệt kẻ cọ mảnh hiền từ; không răng, không má hồng, không hốc mắt sâu.
-* **Tóc phủ kín đỉnh đầu (Chống lỗi hói đầu):** Tóc chế tác từ sợi len, sợi dệt thô hoặc chỉ thêu bện phải phủ kín 100% toàn bộ đỉnh đầu, sọ gỗ và gáy (`full thick head of hair completely covering the entire wooden crown, scalp, and back of head`). Tuyệt đối cấm để trơ trọi đỉnh đầu hay để lộ chỏm gỗ tròn biến thành đầu hói (`zero bald spots, zero exposed wooden scalp on the crown`).
+* **Hình thể thon thả & Dáng mềm tự nhiên:** Tượng gỗ thu nhỏ điêu khắc nguyên khối toàn thân (full-body), vóc dáng thon dài cách điệu (`slender elongated folk art proportions`), không bị lùn tịt chibi. Tư thế thả lỏng mềm mại, có độ chùng tự nhiên của cơ thể; cấm tư thế đứng thẳng đơ như khúc gỗ chào cờ (`relaxed natural posture, strictly NO stiff rigid standing pose, NO wooden soldier posture`). Thân tượng liền mạch, không khớp bi, không bản lề cơ khí (`no ball-joints, no wrist joints, no hinge pins`). Không tả bán thân (waist-up).
+* **Trang phục vải thật Mixed-Media:** Quần áo may đo vi mô từ vải dệt thủ công thật 100% (lanh, cotton twill, dạ nỉ ép) phủ kín da thịt, viền chỉ thêu to bản (`blanket stitching`), rủ nếp mềm mại bọc ngoài thân tượng gỗ; đi giày/ủng. Tuyệt đối không điêu khắc quần áo bằng gỗ (`no carved wooden clothing`). Ống tay dài che kín cổ tay.
+* **Khuôn mặt bo tròn & Sống mũi tạc liền khối:** Đầu tượng gọt bo tròn mịn màng (`softly rounded wooden head with organic sanded contours`). Mũi phải được **chạm khắc liền khối từ thân đầu tượng, có sống mũi thoai thoải chuyển tiếp tự nhiên từ trán xuống với đầu mũi bo tròn tự nhiên (`subtle wooden nose bridge sculpted seamlessly from the single head block flowing from brow with a gentle rounded tip`)**. Cấm tiệt mũi cắm/dán rời như núm gỗ hay mũi chú hề (`strictly NO glued-on peg nose, NO stuck-on bulb, NO clown nose`); cấm sống mũi nhọn hoắt như Pinocchio/mỏ chim (`strictly NO sharp pointy nose, NO beak-like nose`); cấm mặt vát đa giác góc cạnh sắc nhọn.
+* **Mắt vừa khắc vừa vẽ (Mở mắt hiền từ, có hồn):** Kết hợp hai kỹ thuật:
+  - *Vết khắc mộc:* Rãnh khắc nông hình hạnh nhân trên mặt gỗ tạo hốc mắt tự nhiên (`shallow hand-carved almond-shaped eye contour grooves into the wood`).
+  - *Nét vẽ cọ:* Bên trong rãnh khắc là tròng mắt mở vẽ cọ bằng màu than mờ lì có chấm bắt sáng nhỏ (`gentle open eyes painted in matte charcoal with a tiny soft catchlight dot`).
+  - *Hiệu ứng:* Mắt mở tỉnh táo, hiền lành, có thần (`awake, clear, soulful open gaze`). Cấm tiệt mắt nhắm nghiền/ngủ gật (`strictly NO closed sleeping eyes`), cấm mắt phát sáng (`strictly NO glowing eyes`), không răng, không má hồng.
+* **Tóc phủ kín đỉnh đầu:** Tóc sợi len/chỉ thêu bện phải phủ kín 100% toàn bộ đỉnh đầu, sọ gỗ và gáy (`full thick hair completely covering the wooden crown and scalp, zero bald spots`).
 * **Nếp nhăn điêu khắc theo lứa tuổi:**
-  - *Người trẻ / thanh niên:* Mặt gỗ phẳng nhẵn tối giản, hoàn toàn không nếp nhăn (`smooth unlined wooden planes, zero wrinkles`).
-  - *Người lớn tuổi / cụ già:* Cho phép khắc các rãnh nhăn cười mộc mạc bằng kỹ thuật điêu khắc gỗ quanh đuôi mắt và trán (`delicate stylized hand-carved laugh lines and subtle micro-grooves around the eyes, suggesting kind elderly wisdom`), toát lên vẻ hiền từ phúc hậu; tuyệt đối không vẽ da thịt nhăn nheo sinh học hay bọng mắt sầu não.
-* **Chất gỗ "Gỗ thô đục xịn":** Thớ gỗ tự nhiên khô ráp mộc mạc, mờ lì không vec-ni (`dry raw natural timber with authentic tactile wood grain and porous matte texture, unvarnished`). Kỹ thuật đục gọt tinh xảo, chuyển tiếp êm ái giữa các diện vát, không để lại vết chém đục thô thiển (`silky-smooth plane transitions, zero crude gouges, zero harsh facet cuts`).
-* **Bàn tay tách ngón tinh xảo:** Bàn tay gỗ điêu khắc tỉ mỉ với từng ngón tay thon thả tách bạch riêng biệt (ngón cái và 4 ngón cong tự nhiên, có ngấn khớp gỗ chạm khắc nhẹ nhàng), thò ra trực tiếp từ cổ tay áo dài phủ kín. Cấm tiệt bàn tay dính chùm dạng mái chèo hay găng tay len liền ngón (`no mitten hands, no fused paddle hands, no blunt club hands`).
+  - *Người trẻ:* Mặt gỗ phẳng nhẵn tối giản, không nếp nhăn (`smooth unlined wooden planes, zero wrinkles`).
+  - *Người già:* Rãnh nhăn cười mộc mạc khắc nhẹ quanh mắt và trán (`subtle hand-carved laugh line grooves around eyes`), toát lên vẻ hiền hậu; cấm da thịt nhăn nheo sinh học chảy xệ.
+* **Bàn tay tách ngón cong tự nhiên:** Bàn tay gỗ điêu khắc tỉ mỉ với từng ngón tay thon thả tách bạch riêng biệt, uốn cong tự nhiên theo cử chỉ thao tác (`slender separated fingers with gentle natural curves`). Cấm tiệt bàn tay dính chùm dạng mái chèo hay găng tay len liền ngón (`no mitten hands, no fused paddle hands`).
 
 ---
 
 ## 3. Biểu Cảm & Dáng Điệu (Expressions & Postures)
-* **Biểu cảm qua dáng dấp (Pose over Face):** Cảm xúc thể hiện qua tư thế, độ nghiêng đầu và hành động dở dang; không dựa vào cử động cơ mặt sinh học.
-* **Hướng nhìn (Intentional Gaze):** Mắt nhìn vào bạn đồng hành, đồ vật trên tay hoặc cảnh quan; không nhìn thẳng vào máy quay.
+* **Độ nghiêng & Bất đối xứng tự nhiên (Organic Tilt & Asymmetry - Chống cứng nhắc):** Nhân vật luôn có độ nghiêng tự nhiên: đầu hơi nghiêng tò mò/trầm tư (`subtle head tilt`), hai vai thả lỏng hơi lệch nhẹ một bên theo động tác tay (`relaxed asymmetric shoulders`), trọng tâm dồn nhẹ về một bên. Tránh hoàn toàn tư thế đứng nghiêm đối xứng thẳng đơ.
+* **Biểu cảm qua dáng dấp (Pose over Face):** Cảm xúc thể hiện qua độ nghiêng người, tư thế tay và hành động dở dang; không dựa vào cử động cơ mặt sinh học.
+* **Hướng nhìn có chủ đích (Intentional Gaze):** Mắt mở nhìn vào bạn đồng hành, đồ vật trên tay hoặc cảnh quan; không nhìn thẳng vào máy quay.
 
 ---
 
@@ -63,22 +66,22 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị (values) 
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Stylized wooden folk art figurine: slender elongated folk art proportions (neither chibi nor realistic human anatomy); solid carved wood armature, long fabric sleeves cover wrists completely; hand-carved wooden hands with individually sculpted, slender, separated fingers (distinct thumb and four delicate curved fingers, no mitten hands, no fused paddle hands); softly rounded wooden head with organic sanded contours, subtle wooden nose bridge sculpted seamlessly from the single head block flowing naturally from the brow with a gentle rounded tip (strictly NO glued-on peg nose, NO stuck-on bulb, NO clown nose, NO sharp pointy nose, NO angular geometric facets, NO chisel wedges); full hair completely covering the entire head and crown (zero bald spots, zero exposed scalp); flat painted folk art face with gentle matte painted crescent-curved smiling eyes, fine single-line mouth (optional subtle hand-carved laugh lines for elderly characters, strictly NO glowing eyes, NO luminous pupils, zero biological sagging skin, no eye sockets, no teeth); genuine miniature tailored textile clothing made of real woven fabrics (not carved wood, not painted wood)",
+    "dna": "Slender wooden folk art figurine with relaxed natural posture (neither chibi nor stiff statue); long sleeves concealing wrists; hand-carved hands with slender separated curved fingers (no mitten hands); softly rounded wooden head with a seamlessly carved subtle nose bridge and gentle rounded tip (no glued-on peg nose, no pointy nose); full hair covering the crown; combination carved-and-painted eyes: shallow carved almond contours with gentle open matte charcoal painted pupils (awake, soulful, no closed eyes, no glowing eyes); genuine miniature tailored textile clothing (not carved wood)",
     "figures": [
       {
         "id": "figure_1",
         "role": "<Vai trò & lứa tuổi của nhân vật>",
-        "build": "<Vóc dáng thon dài cách điệu, tư thế ngồi/đứng vững vàng, không chibi>",
-        "head": "<Đầu gỗ bo tròn mịn + tóc sợi dệt phủ kín 100% đỉnh đầu (không hói) + sống mũi chạm khắc liền khối thoai thoải từ trán xuống với đầu mũi bo tròn tự nhiên (cấm mũi cắm rời, cấm mũi chú hề, không nhọn) + mắt vẽ cọ màu than mờ lì hiền từ hình trăng khuyết (không phát sáng) + miệng vẽ mảnh (cho phép rãnh nhăn cười mộc mạc nếu là người già)>",
+        "build": "<Vóc dáng thon dài thanh thoát, tư thế thả lỏng tự nhiên có độ nghiêng nhẹ, không cứng đơ, không chibi>",
+        "head": "<Đầu gỗ bo tròn mịn + tóc phủ kín đỉnh đầu + sống mũi tạc liền khối với đầu mũi tròn tự nhiên (không gắn rời, không nhọn) + mắt vừa khắc rãnh nông vừa vẽ cọ mở mắt hiền từ (không nhắm, không phát sáng) + miệng mảnh (người già có rãnh cười mộc)>",
         "attire": "<Trang phục vải dệt thật có viền chỉ thêu to bản, ống tay dài che kín cổ tay, phủ kín chân tới giày/ủng>",
-        "action": "<Hành động cụ thể, bàn tay tách ngón thon thả thao tác>",
-        "gaze": "<Hướng nhìn có chủ đích>"
+        "action": "<Hành động cụ thể, bàn tay tách ngón cong mềm mại thao tác>",
+        "gaze": "<Hướng nhìn có chủ đích của đôi mắt mở>"
       },
       {
         "id": "figure_2",
         "role": "<Tùy chọn: Vai trò nhân vật thứ hai>",
-        "build": "<Vóc dáng & tỷ lệ hình thể tương quan>",
-        "head": "<Đầu gỗ bo tròn mịn + tóc phủ kín đỉnh đầu + mũi tròn nhỏ + mắt cọ mờ lì hiền hậu>",
+        "build": "<Vóc dáng & tỷ lệ hình thể tương quan, tư thế tự nhiên>",
+        "head": "<Đầu gỗ bo tròn + tóc phủ kín + mũi liền khối + mắt khắc vẽ mở hiền từ>",
         "attire": "<Trang phục vải dệt thật che kín da thịt>",
         "action": "<Hành động tương tác>",
         "gaze": "<Hướng nhìn đối ứng>"
@@ -136,15 +139,15 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị (values) 
 * **`aspect_ratio`**: Tỷ lệ khung hình (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Có khi có người)
-* **`dna`**: Định nghĩa gốc cho nhân vật: tượng gỗ điêu khắc mộc thu nhỏ dáng thon dài cách điệu (không chibi, không giải phẫu người thật), thân liền khối không khớp nối cơ khí (`no ball-joints, no wrist joints, no hinge pins`), ống tay áo dài che kín cổ tay, bàn tay điêu khắc tách ngón thon thả (`no mitten hands, no fused paddle hands`), đầu gỗ bo tròn mượt mà (`softly rounded wooden head`), sống mũi gỗ chạm khắc liền khối từ thân đầu tượng thoai thoải chuyển tiếp từ trán xuống với đầu mũi bo tròn tự nhiên (`subtle wooden nose bridge sculpted seamlessly from the single head block, flowing naturally from the brow with a gentle rounded tip`, cấm tiệt mũi cắm/dán rời, cấm mũi chú hề, cấm mũi nhọn dài hay các mặt vát đa giác góc cạnh sắc nhọn), tóc sợi dệt phủ kín 100% đỉnh đầu và sọ gỗ (chống lỗi hói đầu), mặt vẽ cọ màu than mờ lì hiền từ hình trăng khuyết (người trẻ mặt nhẵn thín; người già cho phép có rãnh nhăn cười điêu khắc mộc mạc quanh mắt; tuyệt đối cấm mắt phát sáng, cấm mắt trợn trừng, cấm da thịt nhăn nheo sinh học chảy xệ), không răng, không má hồng; quần áo may đo từ vải dệt thật bọc ngoài (`not carved wood`).
+* **`dna`**: Định nghĩa gốc cho nhân vật: tượng gỗ điêu khắc mộc thu nhỏ dáng thon dài có tư thế thả lỏng tự nhiên (không đứng đơ như khúc gỗ, không chibi), thân liền khối không khớp nối cơ khí (`no ball-joints, no wrist joints`), ống tay áo dài che kín cổ tay, bàn tay tách ngón cong tự nhiên (`no mitten hands`), đầu gỗ bo tròn mịn, sống mũi tạc liền khối từ trán với đầu mũi tròn tự nhiên (cấm mũi cắm rời, cấm mũi chú hề, không nhọn), tóc sợi dệt phủ kín 100% đỉnh đầu (không hói), mắt vừa khắc rãnh nông hình hạnh nhân vừa vẽ đồng tử than mờ lì mở mắt hiền từ có thần (không nhắm mắt, không phát sáng, không răng), quần áo may đo từ vải dệt thật bọc ngoài (`not carved wood`).
 * **`figures`**: Danh sách nhân vật trong cảnh:
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để `staging` gọi tên.
   - *`role`*: Vai trò và lứa tuổi của nhân vật.
-  - *`build`*: Vóc dáng và tỷ lệ tương quan giữa các nhân vật (giúp AI phân biệt chiều cao và thể trạng, tránh đầu to chibi).
-  - *`head`*: Đầu gỗ bo tròn mịn + chất liệu tóc len/sợi phủ kín 100% đỉnh đầu (không hói) + phụ kiện + sống mũi chạm khắc liền khối thoai thoải từ trán xuống có đầu mũi bo tròn tự nhiên (cấm mũi cắm rời, cấm mũi chú hề, không nhọn) + mặt vẽ cọ màu than mờ lì hiền từ hình trăng khuyết (không phát sáng, không trợn trừng) + miệng mảnh (người già có rãnh nhăn cười điêu khắc mộc mạc quanh mắt; người trẻ không nếp nhăn), không răng.
+  - *`build`*: Vóc dáng thon dài và tư thế tự nhiên có độ nghiêng bất đối xứng nhẹ (đầu hơi nghiêng, vai thả lỏng, không đứng đơ đối xứng, không chibi).
+  - *`head`*: Đầu gỗ bo tròn + tóc len/sợi phủ kín đỉnh đầu (không hói) + sống mũi tạc liền khối từ trán (không cắm rời, không nhọn) + mắt vừa khắc rãnh nông vừa vẽ cọ mở mắt hiền từ (không nhắm mắt, không phát sáng) + miệng mảnh (người già có rãnh cười mộc).
   - *`attire`*: Trang phục vải dệt thật có viền chỉ thêu to bản, ống tay dài che kín cổ tay, phủ kín chân tới giày/ủng.
-  - *`action`*: Hành động của nhân vật (đặc tả bàn tay gỗ tách ngón thon thả thao tác).
-  - *`gaze`*: Hướng nhìn có chủ đích, không nhìn vào máy quay.
+  - *`action`*: Hành động của nhân vật (đặc tả bàn tay gỗ tách ngón cong mềm mại thao tác).
+  - *`gaze`*: Hướng nhìn có chủ đích của đôi mắt mở, không nhìn vào máy quay.
 * **Quy tắc giải phẫu:** Khi có người xuất hiện, dù máy quay cận cảnh thao tác tay, vẫn phải mô tả trọn vẹn nhân vật từ đầu, tóc, trang phục đến hướng nhìn để giữ giải phẫu thống nhất, tránh lỗi bàn tay trôi nổi (disembodied hands).
 * **Tham chiếu thực thể:** Mọi đối tượng tương tác trong `action`, `gaze`, `staging` phải có ID (`figure_*`, `creature_*`, `prop_*`), không dùng danh từ chung không rõ nguồn gốc.
 * **`background_figures` (Tùy chọn):** Chấm bóng người tí hon ở hậu cảnh xa để đo tỷ lệ, không tả chi tiết mặt hay trang phục.
