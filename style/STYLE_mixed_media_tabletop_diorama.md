@@ -14,7 +14,10 @@ Phong cách sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên th
 ## 2. Tạo Hình Nhân Vật (Character Craftsmanship)
 * **Hình thể liền khối:** Nhân vật là tượng gỗ thu nhỏ điêu khắc nguyên khối toàn thân (full-body), vóc dáng thon dài cách điệu (`stylized slender elongated folk art proportions`), không bị lùn tịt chibi, không phải giải phẫu người thật. Thân tượng liền mạch không khớp bi, không bản lề hay khe hở cơ khí (`no ball-joints, no wrist joints, no hinge pins, no doll joints`). Chân chạm sàn hoặc ngồi vững trên ghế đẩu/bề mặt. Không tả bán thân (waist-up) để tránh lỗi cụt người. Tỷ lệ và vóc dáng tùy theo nhân vật.
 * **Trang phục vải thật Mixed-Media:** Quần áo may đo vi mô từ vải dệt thủ công thật 100% (lanh, cotton twill, dạ nỉ ép) phủ kín da thịt, có đường thêu viền chỉ nổi to bản (`blanket stitching`), rủ nếp mềm mại tự nhiên bọc ngoài thân tượng gỗ; đi giày/ủng. Tuyệt đối không điêu khắc quần áo bằng gỗ rồi sơn lên (`no carved wooden clothing, no painted wooden fabric`). Ống tay áo dài phủ kín cổ tay để giấu ranh giới giữa vải và bàn tay.
-* **Khuôn mặt hình khối tối giản & Khối mũi 3D:** Đầu tượng gọt các diện hình học mộc mạc, sạch sẽ (`stylized minimalist wooden head with clean geometric planes`). Mũi có khối điêu khắc 3D gãy gọn thanh tú (`clean sculpted 3D geometric nose bridge with dimensional profile`). Mặt vẽ cọ 2D phẳng mộc mạc, mắt vẽ đơn giản có đồng tử đen và chấm bắt sáng nhỏ có thần (`simple yet soulful painted eyes with distinct soft pupils and a tiny catchlight dot`), miệng là một vệt kẻ cọ mảnh. Tuyệt đối không mô phỏng giải phẫu người thật (không hốc mắt người, không mí mắt, không nếp nhăn da thịt, không răng, không má hồng).
+* **Khuôn mặt hình khối tối giản & Khối mũi 3D:** Đầu tượng gọt các diện hình học mộc mạc, sạch sẽ (`stylized minimalist wooden head with clean geometric planes`). Mũi có khối điêu khắc 3D gãy gọn thanh tú (`clean sculpted 3D geometric nose bridge with dimensional profile`). Mặt vẽ cọ 2D phẳng mộc mạc, mắt vẽ đơn giản có đồng tử đen và chấm bắt sáng nhỏ có thần (`simple yet soulful painted eyes with distinct soft pupils and a tiny catchlight dot`), miệng là một vệt kẻ cọ mảnh. Tuyệt đối cấm mô phỏng giải phẫu người thật (không hốc mắt sâu, không mí mắt người thật, không răng, không má hồng, không da thịt chảy xệ).
+* **Nếp nhăn điêu khắc theo lứa tuổi:**
+  - *Người trẻ / thanh niên:* Mặt gỗ phẳng nhẵn tối giản, hoàn toàn không nếp nhăn (`smooth unlined wooden planes, zero wrinkles`).
+  - *Người lớn tuổi / cụ già:* Cho phép khắc các rãnh nhăn cười mộc mạc bằng kỹ thuật điêu khắc gỗ quanh đuôi mắt và trán (`delicate stylized hand-carved laugh lines and subtle micro-grooves around the eyes, suggesting kind elderly wisdom`), toát lên vẻ hiền từ phúc hậu; tuyệt đối không vẽ da thịt nhăn nheo sinh học hay bọng mắt sầu não.
 * **Chất gỗ "Gỗ thô đục xịn":** Thớ gỗ tự nhiên khô ráp mộc mạc, mờ lì không vec-ni (`dry raw natural timber with authentic tactile wood grain and porous matte texture, unvarnished`). Kỹ thuật đục gọt tinh xảo, chuyển tiếp êm ái giữa các diện vát, không để lại vết chém đục thô thiển (`silky-smooth plane transitions, zero crude gouges, zero harsh facet cuts`).
 * **Bàn tay tách ngón tinh xảo:** Bàn tay gỗ điêu khắc tỉ mỉ với từng ngón tay thon thả tách bạch riêng biệt (ngón cái và 4 ngón cong tự nhiên, có ngấn khớp gỗ chạm khắc nhẹ nhàng), thò ra trực tiếp từ cổ tay áo dài phủ kín. Cấm tiệt bàn tay dính chùm dạng mái chèo hay găng tay len liền ngón (`no mitten hands, no fused paddle hands, no blunt club hands`).
 
@@ -58,13 +61,13 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị (values) 
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Stylized wooden folk art figurine: slender elongated folk art proportions (neither chibi nor realistic human anatomy); solid carved wood armature, long fabric sleeves cover wrists completely; hand-carved wooden hands with individually sculpted, slender, separated fingers (distinct thumb and four delicate curved fingers, no mitten hands, no fused paddle hands); simple stylized wooden head with clean minimalist planes, sculpted 3D geometric nose bridge, flat painted minimalist face with simple painted eyes and fine single-line mouth (not a realistic human face, zero wrinkles, no eye sockets, no teeth); genuine miniature tailored textile clothing made of real woven fabrics (not carved wood, not painted wood)",
+    "dna": "Stylized wooden folk art figurine: slender elongated folk art proportions (neither chibi nor realistic human anatomy); solid carved wood armature, long fabric sleeves cover wrists completely; hand-carved wooden hands with individually sculpted, slender, separated fingers (distinct thumb and four delicate curved fingers, no mitten hands, no fused paddle hands); simple stylized wooden head with clean minimalist planes, sculpted 3D geometric nose bridge, flat painted minimalist face with simple painted eyes and fine single-line mouth (optional delicate hand-carved laugh lines for elderly characters, zero biological sagging skin, no eye sockets, no teeth); genuine miniature tailored textile clothing made of real woven fabrics (not carved wood, not painted wood)",
     "figures": [
       {
         "id": "figure_1",
         "role": "<Vai trò & lứa tuổi của nhân vật>",
         "build": "<Vóc dáng thon dài cách điệu, tư thế ngồi/đứng vững vàng, không chibi>",
-        "head": "<Hình khối đầu tối giản + chất liệu tóc sợi dệt + phụ kiện + mặt phẳng 2D có mũi khối 3D, không nếp nhăn, không răng>",
+        "head": "<Hình khối đầu tối giản + chất liệu tóc sợi dệt + phụ kiện + mặt phẳng 2D có mũi khối 3D (cho phép rãnh nhăn cười mộc mạc nếu là người già, người trẻ không nếp nhăn), không răng>",
         "attire": "<Trang phục vải dệt thật có viền chỉ thêu to bản, ống tay dài che kín cổ tay, phủ kín chân tới giày/ủng>",
         "action": "<Hành động cụ thể, bàn tay tách ngón thon thả thao tác>",
         "gaze": "<Hướng nhìn có chủ đích>"
@@ -131,12 +134,12 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị (values) 
 * **`aspect_ratio`**: Tỷ lệ khung hình (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Có khi có người)
-* **`dna`**: Định nghĩa gốc cho nhân vật: tượng gỗ điêu khắc mộc thu nhỏ dáng thon dài cách điệu (không chibi, không giải phẫu người thật), thân liền khối không khớp nối cơ khí (`no ball-joints, no wrist joints, no hinge pins`), ống tay áo dài che kín cổ tay, bàn tay điêu khắc tách ngón thon thả (`no mitten hands, no fused paddle hands`), mặt vẽ cọ phẳng 2D trên khối đầu gỗ tối giản có sống mũi 3D thanh tú, mắt có chấm sáng có thần, nhẵn thín không nếp nhăn, không răng, không má hồng; quần áo may đo từ vải dệt thật bọc ngoài (`not carved wood`).
+* **`dna`**: Định nghĩa gốc cho nhân vật: tượng gỗ điêu khắc mộc thu nhỏ dáng thon dài cách điệu (không chibi, không giải phẫu người thật), thân liền khối không khớp nối cơ khí (`no ball-joints, no wrist joints, no hinge pins`), ống tay áo dài che kín cổ tay, bàn tay điêu khắc tách ngón thon thả (`no mitten hands, no fused paddle hands`), mặt vẽ cọ phẳng 2D trên khối đầu gỗ tối giản có sống mũi 3D thanh tú, mắt có chấm sáng có thần (người trẻ mặt nhẵn thín; người già cho phép có rãnh nhăn cười điêu khắc mộc mạc quanh mắt, cấm da thịt nhăn nheo sinh học chảy xệ), không răng, không má hồng; quần áo may đo từ vải dệt thật bọc ngoài (`not carved wood`).
 * **`figures`**: Danh sách nhân vật trong cảnh:
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để `staging` gọi tên.
   - *`role`*: Vai trò và lứa tuổi của nhân vật.
   - *`build`*: Vóc dáng và tỷ lệ tương quan giữa các nhân vật (giúp AI phân biệt chiều cao và thể trạng, tránh đầu to chibi).
-  - *`head`*: Hình khối đầu gỗ tối giản + chất liệu tóc len/sợi + phụ kiện + mặt vẽ 2D phẳng có khối mũi 3D, không nếp nhăn, không răng.
+  - *`head`*: Hình khối đầu gỗ tối giản + chất liệu tóc len/sợi + phụ kiện + mặt vẽ 2D phẳng có khối mũi 3D (người già có rãnh nhăn cười điêu khắc mộc mạc quanh mắt; người trẻ không nếp nhăn), không răng.
   - *`attire`*: Trang phục vải dệt thật có viền chỉ thêu to bản, ống tay dài che kín cổ tay, phủ kín chân tới giày/ủng.
   - *`action`*: Hành động của nhân vật (đặc tả bàn tay gỗ tách ngón thon thả thao tác).
   - *`gaze`*: Hướng nhìn có chủ đích, không nhìn vào máy quay.
