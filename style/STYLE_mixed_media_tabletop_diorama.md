@@ -14,9 +14,9 @@ Sa bàn thu nhỏ kết hợp đồ thủ công và thiên nhiên thật, chụp
 ## 2. Tạo Hình Nhân Vật (Handcrafted Carved Wooden Figurine)
 
 * **Tượng điêu khắc thủ công (Figurine - Tuyệt đối không dùng doll/puppet):** Định danh nhân vật luôn là `carved wooden figurine` (tượng gỗ tạc thủ công liền khối). Tuyệt đối không dùng chữ `doll`, `puppet`, hay `mannequin` vì AI sẽ vẽ khớp bi (ball-and-socket joints) như tượng ma-nơ-canh vẽ tranh.
-* **Vải mềm gánh độ mềm (Chống lộ khớp):** Trang phục vải dệt thủ công thật (lanh, len) luôn có tay áo dài che kín toàn bộ cánh tay tới tận cổ tay (`long fabric sleeves covering arms to wrists`). Chỉ để lộ bàn tay gỗ tạc mềm mại. Vải mềm rủ tự nhiên vừa tạo độ sống động, vừa che hoàn toàn thân gỗ để AI không có chỗ vẽ khớp.
+* **Trang phục vải may đo toàn thân từ cổ tới chân (Chống lộ khớp & chống đẽo váy gỗ):** Thân tượng luôn được mặc kín bằng vải dệt thủ công thật từ cổ xuống tận mắt cá chân (`dressed fully in tailored cloth from neck to ankles`). Luôn gồm cả áo dài tay che kín cổ tay (`long fabric sleeves covering arms to wrists`) VÀ váy/quần vải mềm rủ phủ kín chân (`flowing fabric skirt or trousers covering legs`). Tuyệt đối không để sót phần thân dưới khiến AI tiện thành khúc gỗ đẽo hình cái váy. Chỉ để lộ đầu gỗ và bàn tay gỗ tạc mềm mại.
 * **Tóc & Râu buông rủ tự nhiên (Chống hói & chống xù):** Luôn có cụm `full head of hair covering the scalp` để chống khuôn mẫu hói đầu ở người già. Tóc và râu làm từ sợi chỉ lanh mềm buông rủ tự nhiên theo trọng lực (`soft natural thread hair draping naturally`), ôm nhẹ đầu và cằm, không ép thẳng đơ và không xù bông gòn.
-* **Biểu cảm ấm áp, có thần (Chống mặt đơ ma-nơ-canh):** Mặt gỗ gọt nhẵn mịn mờ lì, toát lên nét hiền từ, tươi vui, mắt mở to tròn hiền hòa có nét cười (`warm friendly carved face with gentle smiling eyes`). Tránh mổ xẻ vụn vặt từng chi tiết mắt mũi miệng như thông số kỹ thuật.
+* **Thả rông biểu cảm theo cảnh (Chống mặt đơ ma-nơ-canh):** Mặt gỗ gọt nhẵn mịn mờ lì, đôi mắt mở sáng linh hoạt (`expressive carved wooden face with open eyes reflecting the mood`). Không đóng đinh một biểu cảm cười hiền từ cho mọi hoàn cảnh; người viết được tự do thả rông biểu cảm tùy theo tình huống từng cảnh (tò mò, tập trung cao độ, ngạc nhiên, suy tư, thư thái, mơ màng, mỉm cười...).
 * **Dáng người có trọng lực (Chống đơ cọc gỗ):** Tỉ lệ dong dỏng cao ráo, nhưng tư thế luôn có độ chùng tự nhiên của đời thực: vai thả lỏng, đầu hơi nghiêng, tỳ tay lên bàn, tựa lưng hoặc dồn trọng tâm (`relaxed posture, resting forearms on table, slight natural tilt`).
 * **Không nhồi nhét từ khóa (Tả thoáng để AI sáng tạo):** Mô tả nhân vật bằng văn miêu tả tự nhiên, gợi mở thần thái và không gian thay vì nhồi một chuỗi từ khóa rời rạc. Càng ép tiểu tiết vụn vặt, AI càng nghẽn token và khóa chết sự sống động của nhân vật.
 
@@ -52,7 +52,7 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Slender handcrafted carved wooden figurine in soft tailored linen clothes, solid seamless wood body under long fabric sleeves, warm friendly carved face with gentle smiling eyes, and a full head of soft natural thread hair covering the scalp.",
+    "dna": "Slender handcrafted carved wooden figurine dressed fully in tailored cloth from neck to ankles, solid seamless wood body under long fabric sleeves and flowing fabric skirt or trousers, expressive carved face with open eyes reflecting the scene's mood, and a full head of soft natural thread hair covering the scalp.",
     "figures": [
       {
         "id": "figure_1",
@@ -119,11 +119,11 @@ Mỗi prompt là một JSON Object độc lập. Toàn bộ giá trị mô tả 
 * **`aspect_ratio`**: Tỷ lệ khung hình (luôn là `"16:9"`).
 
 #### Khối 2: `CHARACTERS` (Có khi có người)
-* **`dna`**: Câu định nghĩa gốc chuẩn hóa cho tượng gỗ tạc thủ công (`carved wooden figurine`), thân liền khối giấu kín dưới tay áo vải dài, mặt ấm áp có nét cười hiền dịu, tóc sợi chỉ buông rủ tự nhiên phủ kín da đầu.
+* **`dna`**: Câu định nghĩa gốc chuẩn hóa cho tượng gỗ tạc thủ công (`carved wooden figurine`), mặc kín trang phục vải may đo từ cổ xuống chân (`dressed fully in tailored cloth from neck to ankles`), thân liền khối giấu kín dưới tay áo vải dài và váy/quần vải mềm rủ, mặt gỗ chạm khắc giàu biểu cảm với đôi mắt mở sáng linh hoạt phản chiếu tâm trạng cảnh, tóc sợi chỉ buông rủ tự nhiên phủ kín da đầu.
 * **`figures`**: Danh sách nhân vật trong cảnh (tối giản còn 2 trường mô tả tự nhiên để AI sáng tạo dáng, không mổ xẻ vụn vặt):
   - *`id`*: Mã định danh (`figure_1`, `figure_2`...) để `staging` gọi tên.
   - *`role`*: Vai trò và lứa tuổi cụ thể của nhân vật.
-  - *`look`*: Diện mạo, thần thái, trang phục và râu tóc viết thành 1 câu văn xuôi gợi cảm tự nhiên. Bắt buộc có: `full head of hair covering scalp` (chống hói), `long fabric sleeves covering arms to wrists` (áo dài tay che kín tay chống lộ khớp bi), và biểu cảm ấm áp có nét cười (`warm friendly face with gentle smiling eyes`). Tuyệt đối không nhồi nhét chuỗi từ khóa kỹ thuật rời rạc.
+  - *`look`*: Diện mạo, thần thái, trang phục và râu tóc viết thành 1 câu văn xuôi gợi cảm tự nhiên. Bắt buộc có: `full head of hair covering scalp` (chống hói), `dressed fully in tailored cloth with long sleeves and flowing skirt/trousers covering down to ankles` (áo dài tay che kín tay chống khớp bi và váy/quần vải mềm che kín chân chống đẽo gỗ thành váy), và biểu cảm thả rông tự do theo tâm trạng cảnh (`expressive face with open eyes reflecting mood: curious, focused, tranquil, amused, astonished, smiling...`). Tuyệt đối không nhồi nhét chuỗi từ khóa kỹ thuật rời rạc.
   - *`action`*: Tư thế toàn thân tự nhiên có trọng lực đời thực (vai thả lỏng, tỳ cùi chỏ lên bàn, đầu hơi nghiêng, chùng lưng tự nhiên) kèm theo việc đang làm.
 * **Quy tắc trọn vẹn hình thể:** Dù máy quay cận cảnh thao tác tay, vẫn giữ đủ `look` và `action` để AI giữ giải phẫu thống nhất, tránh lỗi bàn tay trôi nổi một mình.
 * **Tham chiếu thực thể:** Mọi đối tượng tương tác trong `action`, `staging` phải có ID rõ ràng (`figure_*`, `creature_*`, `prop_*`).
