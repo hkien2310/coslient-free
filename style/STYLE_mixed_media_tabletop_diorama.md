@@ -40,6 +40,7 @@ Nhân vật là tượng gỗ tạc thủ công liền khối, giữ vững cấ
 ### Bố cục sân khấu thu nhỏ (Proscenium & Diorama Framing)
 * **Tràn viền tuyệt đối (Full-bleed):** Ống kính macro đặt chìm hẳn vào bên trong bối cảnh sa bàn (`camera immersed within the miniature scene`). Địa hình, sàn nhà, vách đá tràn ra ngoài cả 4 cạnh khung hình 16:9 (`seamless edge-to-edge frame`). Tuyệt đối không để lộ mép bàn, gờ khay, bệ đỡ hay căn phòng studio bên ngoài.
 * **Mặt cắt sân khấu (Frontal Cutaway):** Góc máy ngang tầm mắt nhìn thẳng vào mặt cắt không gian như một ngôi nhà búp bê hoặc lát cắt viện bảo tàng.
+* **Đường nét bo tròn mộc mạc:** Mọi vật thể trong sa bàn (kiến trúc, bàn ghế, đạo cụ, dụng cụ, địa hình) đều bo tròn mép mộc mạc, tránh các góc nhọn sắc hay mũi nhọn chông gai.
 * **Tỷ lệ & Nhịp điệu đồ họa:** Bố cục cân bằng, sắp xếp nhân vật và đạo cụ theo hàng ngang ngay ngắn, mang hơi thở trật tự và tĩnh tại đặc trưng của Wes Anderson và Laika Studios.
 * **Ống kính Macro Tilt-shift:** Độ sâu trường ảnh nông làm mờ dịu tiền cảnh và hậu cảnh xa, dồn toàn bộ sự sắc nét vào chi tiết chế tác của chủ thể trung tâm.
 
@@ -148,6 +149,7 @@ Mỗi prompt là một JSON Object độc lập, toàn bộ mô tả bằng ti�
     - Biểu cảm cơ mặt sống động, mắt mở linh hoạt theo tâm trạng cảnh (`expressive, soulful face with open lively eyes reflecting mood...`).
   * *`action`*: Tư thế toàn thân tự nhiên có trọng lực đời thực (vai thả lỏng, tỳ cùi chỏ lên bàn, đầu hơi nghiêng, chùng lưng tự nhiên) kèm theo hành động đang làm.
 * **Quy tắc trọn vẹn hình thể:** Dù máy quay cận cảnh thao tác tay, vẫn giữ đủ `look` và `action` để AI giữ giải phẫu thống nhất, tránh lỗi bàn tay trôi nổi một mình.
+* **Tham chiếu thực thể:** Mọi đối tượng tương tác trong `action`, `staging` phải có ID rõ ràng (`figure_*`, `creature_*`, `prop_*`).
 * **`background_figures` (Tùy chọn):** Chấm bóng người tí hon mờ ở hậu cảnh xa để đo tỷ lệ không gian, không tả chi tiết.
 
 ### Khối 3: `CREATURES` (Có khi có động vật)
