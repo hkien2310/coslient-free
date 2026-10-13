@@ -66,16 +66,21 @@ Không gian kín và cảnh đêm duy trì sự hòa quyện giữa hai nguồn 
 Nhân vật định hình theo ngôn ngữ tượng gỗ tạc thủ công châu Âu (Carved Wooden Figurine):
 
 ### 1. Tỷ Lệ & Cấu Trúc Khung Xương
-* **Khung xương vóc dáng trưởng thành:** Tỷ lệ đầu và thân đạt mức 1:6 đến 1:7, vóc dáng cao ráo thanh mảnh, sống lưng thẳng vững chãi hoặc uốn lượn nhịp nhàng theo tư thế đứng hoặc ngồi đĩnh đạc.
-* **Bề mặt da thịt bằng gỗ mộc giàu thớ vân:** Thớ gỗ mộc tự nhiên mang độ nhám xúc giác mờ lì (tactile raw tooth) đại diện cho phần da thịt lộ diện gồm đầu, khuôn mặt và bàn tay. Chi thể tạo hình liền khối hữu cơ mềm mại, các ngón tay điêu khắc thuôn dài tự nhiên.
+* **Khung xương vóc dáng trưởng thành cao ráo:** Tỷ lệ đầu và thân đạt mức 1:7 đến 1:7.5, vóc dáng cao ráo, mảnh khảnh, thanh thoát, dáng đứng đĩnh đạc kiêu hãnh. Nhân vật lớn tuổi sở hữu nét cách điệu trang nhã, dáng điệu quắc thước hoặc thư thái đượm vẻ lịch duyệt.
+* **Bề mặt da thịt bằng gỗ mộc sáng mịn màng:** Thớ gỗ bồ đề hoặc gỗ tần bì sáng màu ngà tự nhiên chà mịn màng đại diện cho phần da thịt lộ diện gồm đầu, khuôn mặt và bàn tay. Chi thể tạo hình liền khối hữu cơ mềm mại, các ngón tay điêu khắc thuôn dài thanh mảnh.
 
-### 2. Điêu Khắc Diện Mạo & Nội Tâm Sống Động
-* **Đường nét chạm khắc biểu cảm:** Khuôn mặt truyền tải cảm xúc sống động qua độ nâng ấm áp của chân mày, khóe miệng khẽ mỉm cười dịu dàng hoặc nét mặt tập trung say mê, đôi mắt mở sáng đọng ánh nhìn có hồn kết nối chặt chẽ với bạn đồng hành và hành động đang thực hiện.
-* **Sắc diện gỗ mộc sáng màu ngà tự nhiên:** Bề mặt da thịt mang sắc ngà sáng mịn tự nhiên của gỗ bồ đề hoặc gỗ tần bì chà mịn, đón nhận luồng quang thông mát dịu của khí quyển và tạo bóng đổ êm dịu, nổi bật thanh thoát trên nền trang phục.
-* **Mái tóc sợi tự nhiên:** Mái tóc bồng bềnh bao phủ trọn vẹn toàn bộ diện tích da đầu và trán, tạo hình từ các sợi chỉ lanh hoặc sợi tơ tự nhiên buông rủ theo nếp.
+### 2. Điêu Khắc Diện Mạo & Thẩm Mỹ Đương Đại
+* **Chuẩn mực thẩm mỹ đương đại thanh lịch:** Khuôn mặt sở hữu vẻ đẹp trang nhã theo mỹ cảm hiện đại toàn cầu, đường nét hài hòa cân đối, cấu trúc xương hàm thon gọn, sống mũi thanh tú thẳng tắp, đôi mắt mở sáng linh hoạt phản chiếu ánh sáng môi trường.
+* **Biểu cảm đa dạng giàu xúc cảm:** Nét mặt biến chuyển phong phú theo mạch truyện và hành động (ánh nhìn tò mò lấp lánh, nụ cười nhẹ nhõm ấm áp, nét tập trung trầm ngâm, thần thái tự tin thư thái, hoặc vẻ ngạc nhiên tinh nghịch).
+* **Mái tóc sợi tự nhiên bồng bềnh:** Mái tóc bao phủ trọn vẹn toàn bộ da đầu và vầng trán, tạo hình từ các sợi chỉ lanh hoặc tơ tự nhiên buông rủ nhịp nhàng. Nhân vật lớn tuổi điểm xuyết các lọn sợi màu khói bạc, hoa râm hoặc tro sáng trang nhã.
 
-### 3. Cấu Trúc Trang Phục & Toàn Vẹn Chi Thể (Sartorial & Full-Length Anatomy Shield)
-* **Trang phục chữ ký Vàng Nghệ & Đen Than (Signature Sartorial Palette):** Trang phục nhân vật ưu tiên kết hợp cặp màu chữ ký nhận diện gồm sắc vàng nghệ ấm áp (saffron-mustard) phối cùng sắc đen than hoặc lam đen chàm (charcoal-black / deep midnight-slate) thông qua các chất liệu may đo thủ công như áo khoác dạ tweed, khăn len đan sợi lớn, tạp dề vải lanh hoặc áo len dệt thô. Cặp màu chữ ký xác lập độ tương phản đồ họa mạnh mẽ, giữ vững độ no màu của hệ sắc tố và tạo dấu ấn thị giác nhất quán.
+### 3. Cấu Trúc Trang Phục & Chất Liệu Dệt May Đo Đa Dạng (Sartorial Structure & Diverse Woven Textiles)
+* **Chất liệu dệt may đo biến thiên theo câu chuyện:** Trang phục cấu thành hoàn toàn từ các loại vải dệt may đo với độ dày biến thiên linh hoạt theo bối cảnh câu chuyện:
+  - *Chất vải mỏng nhẹ:* Vải poplin cotton mịn, vải lanh giặt mềm (washed linen), vải lụa thô mờ (raw matte silk), vải phin nõn cotton thoáng mát.
+  - *Chất vải đầm tay:* Vải twill cotton, vải denim mềm, vải Oxford dệt nổi, vải kaki mềm mại.
+  - *Chất vải dày dặn đứng dáng:* Vải gabardine dệt chéo đanh chắc, vải canvas cotton dệt dày, vải bạt phủ sáp mờ, vải kaki tráng bền bỉ.
+* **Chi tiết hoa văn phong phú sắc sảo:** Bề mặt vải điểm xuyết các họa tiết dệt tinh tế như hoa văn răng sói (houndstooth), kẻ ô micro-check, sọc phấn mảnh (chalk-stripe), kẻ ô cửa sổ (windowpane grid), vân dệt xương cá (herringbone), đường diềm hình học dệt chìm, kết hợp đường may lé tương phản và hàng cúc sừng hoặc xà cừ bóng mờ.
+* **Trang phục chữ ký Vàng Nghệ & Đen Than (Signature Sartorial Palette):** Trang phục nhân vật ưu tiên phân bổ cặp màu chữ ký gồm sắc vàng nghệ ấm áp (saffron-mustard) phối cùng sắc đen than hoặc lam đen chàm (charcoal-black / deep midnight-slate) trên các mảng áo khoác dáng dài, áo gilê, sơ mi dệt họa tiết hoặc quần ống suông. Cặp màu chữ ký xác lập độ tương phản đồ họa mạnh mẽ, giữ vững độ no màu của hệ sắc tố và tạo dấu ấn thị giác nhất quán.
 * **Kín khít khớp chi thể:** Trang phục vải dệt may đo rời bao bọc toàn bộ cơ thể từ cổ xuống cổ chân. Tay áo dài che phủ kín hoàn toàn cổ tay.
 * **Toàn vẹn chi thể hạ thân:** Cấu trúc chi dưới thể hiện trọn vẹn từ hông, đùi, cẳng chân đến bàn chân. Ống quần may đo buông dài đứng dáng hoặc vạt váy rủ dài tiếp xúc trực tiếp trên giày da thủ công hoặc giày vải khâu tay, xác lập tư thế đứng vững trên mặt sàn bối cảnh.
 
@@ -112,7 +117,7 @@ Sinh vật đồng hành hiện diện với vai trò thực thể sống mang l
     "aspect_ratio": "16:9"
   },
   "CHARACTERS": {
-    "dna": "Slender handcrafted carved wooden figurine with 1:7 adult human proportions where warm seasoned linden wood with a smooth natural ivory tone strictly represents skin and flesh of head, face, and hands, seamless continuous organic limb anatomy, expressive storytelling face brimming with interior warmth and subtle micro-expressions, gentle brow arches, refined straight nose, soulful lively open eyes reflecting ambient light, full head of soft natural thread hair generously covering the entire scalp and forehead, dressed fully in separately tailored coarse-weave textiles from neck to ankles featuring signature saffron-yellow and charcoal-black woolen attire with continuous long sleeves covering wrists and fitted trousers draping over miniature stitched leather shoes firmly grounded on the set floor",
+    "dna": "Tall slender handcrafted carved wooden figurine with 1:7.5 adult human proportions, contemporary refined aesthetic beauty, sculpted jawline, straight elegant nose, soulful lively open eyes reflecting ambient light with natural nuanced micro-expressions, where warm seasoned linden wood with a smooth natural ivory tone strictly represents skin and flesh of head, face, and hands, full head of soft natural thread hair generously covering the entire scalp and forehead, dressed fully in separately tailored woven textiles ranging from lightweight crisp poplin and washed linen to heavy structured gabardine and canvas, enriched with diverse textile patterns of houndstooth, micro-grid checks, subtle pinstripes, and herringbone weaves in signature saffron-yellow and charcoal-black palettes, with continuous long sleeves covering wrists and tailored full-length trousers or skirts draping over miniature stitched leather shoes firmly grounded on the set floor",
     "interaction": "<interpersonal_resonance: direct_physical_contact | shared_tactile_material_surface | synchronized_collective_rhythm>",
     "figures": [
       {
@@ -171,7 +176,7 @@ Sinh vật đồng hành hiện diện với vai trò thực thể sống mang l
 * **`aspect_ratio`**: Cố định `"16:9"`.
 
 ### Khối 2: `CHARACTERS`
-* **`dna`**: Định nghĩa giải phẫu tượng gỗ tạc thủ công châu Âu vóc dáng người trưởng thành cao ráo 1:7, chất liệu gỗ mộc sáng màu ngà tự nhiên đại diện cho phần da thịt gồm đầu, khuôn mặt và bàn tay, chi thể liền khối hữu cơ mềm mại, toàn vẹn chi thể từ đầu đến chân mang giày da cắm chắc trên sàn bối cảnh, đường nét khuôn mặt truyền tải cảm xúc ấm áp qua độ nâng của chân mày, sống mũi thanh tú, đôi mắt mở sáng linh hoạt phản chiếu ánh sáng môi trường, cấu trúc tay áo dài che phủ kín cổ tay, trang phục vải dệt may đo rời mang cặp màu chữ ký vàng nghệ và đen than bọc kín cơ thể từ cổ xuống chân, mái tóc tạo hình từ sợi chỉ tự nhiên dày dặn phủ trán.
+* **`dna`**: Định nghĩa giải phẫu tượng gỗ tạc thủ công châu Âu vóc dáng người trưởng thành cao ráo 1:7.5, diện mạo mang vẻ đẹp thanh lịch đương đại, cấu trúc xương hàm thon gọn, sống mũi thanh tú, đôi mắt mở sáng linh hoạt biểu cảm tự nhiên, chất liệu gỗ mộc sáng màu ngà tự nhiên đại diện cho phần da thịt gồm đầu, khuôn mặt và bàn tay, chi thể liền khối hữu cơ mềm mại, toàn vẹn chi thể từ đầu đến chân mang giày da cắm chắc trên sàn bối cảnh, cấu trúc tay áo dài che phủ kín cổ tay, trang phục vải dệt may đo rời biến thiên từ mỏng nhẹ đến dày dặn cấu trúc, giàu hoa văn răng sói, kẻ ô micro-check, sọc mảnh hoặc vân xương cá, mang cặp màu chữ ký vàng nghệ và đen than bọc kín cơ thể từ cổ xuống chân, mái tóc tạo hình từ sợi chỉ tự nhiên dày dặn phủ trán.
 * **`interaction`**: Phương thức gắn kết giữa các nhân vật: điểm chạm vật lý trực tiếp, diện tích vật chất thao tác dùng chung, hoặc trục hành vi đồng điệu tập thể.
 * **`figures`**: Danh sách nhân vật độc lập hoặc tập thể (`figure_1`, `figure_2`...): gồm *`id`*, *`role`* (vai trò và độ tuổi trưởng thành), *`look`* (diện mạo gỗ mộc giàu thớ vân, thần thái sống động giàu nội tâm kết nối chặt chẽ với bối cảnh, mái tóc sợi chỉ lanh phủ kín đầu, trang phục vải may đo dài tay che phủ cổ tay, chi dưới toàn vẹn đứng vững trên mặt sàn), *`action`* (thao tác thực tế, cơ thể dồn trọng tâm tự nhiên, duy trì nhịp điệu tương tác đồng điệu).
 
