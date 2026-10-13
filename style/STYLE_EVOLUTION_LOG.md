@@ -50,3 +50,23 @@ Tài liệu ghi lại toàn bộ quá trình thử nghiệm thực tế (A/B tes
 1. **Nguyên tắc "Mỏ neo tương phản" (Visual Anchors):** Mọi khung hình nên có ít nhất một chi tiết đen tuyền (kính râm, đĩa than vinyl, vali da, lốp cao su, khung sắt đen) kết hợp ánh sáng vàng ngà/đồng thau để ghim độ tương phản, chống bạc màu.
 2. **Nguyên tắc "Hành vi quang học của chất liệu":** Không gắn nhãn danh mục khô cứng. Luôn mô tả cách vật liệu tương tác với ánh sáng (đồng xỉn phản quang mờ, giấy da xuyên sáng, nhựa resin trong vắt).
 3. **Nguyên tắc "Che phủ giải phẫu":** Muốn nhân vật stop-motion không bị lỗi dị tật cơ học, luôn cho mặc trang phục may đo rời che kín cổ tay và cổ chân.
+
+---
+
+## [2026-10-13 Trưa] — Đúc Kết 5 Trụ Cột Thẩm Mỹ Mới (The 5 Core Pillars)
+
+Sau khi rà soát lại toàn bộ 15 ảnh chuẩn và 10 ảnh test thực nghiệm, 5 nguyên lý tối thượng được chuẩn hóa vào tài liệu:
+
+1. **Bãi bỏ hoàn toàn đồ bóng bẩy (Zero Shiny Metal):**
+   * *Sai lầm cũ:* Dùng `gleaming brass`, `polished chrome` khiến AI vẽ ra kim loại bóng loáng như đồ nhựa công nghiệp mới tinh.
+   * *Chuẩn mới:* Toàn bộ bề mặt phải là `weathered, oxidized, rusted, flaking matte paint, aged patina` (phong hóa, xỉn màu, tróc sơn vảy, phủ bụi nhẹ).
+2. **Bố cục "Phẳng" 2.5D mặt cắt diorama (Planar 2.5D Theatrical Staging):**
+   * Không hút sâu theo phối cảnh 3D. Tất cả nhân vật, bàn ghế, xe cộ xếp dàn hàng ngang trên một trục duy nhất ở **Lớp Giữa (Midground Layer)**.
+   * Lớp trước phẳng và lớp sau là phông nền phẳng (mặt biển, tường, chân trời phẳng).
+3. **Sự kỳ quặc duyên dáng & Tỉnh queo (Whimsical & Deadpan Charm):**
+   * Hoàn cảnh siêu thực (ôm hải âu phát sáng, mây bông neo xe buýt, tiệm đĩa than trong bể bơi cạn, ăn tiệc dưới mưa với ô treo lơ lửng), nhưng nhân vật giữ thái độ thản nhiên, an nhiên làm việc (`deadpan composure`).
+4. **Số lượng nhân vật linh hoạt theo kịch bản:**
+   * Xóa bỏ việc ép 1 nhân vật đơn độc. Số lượng nhân vật tự do (1 người, cặp đôi, nhóm 4 người ở xe buýt, lớp học 8 người, bàn tiệc 12 người).
+5. **Lát cắt ngẫu nhiên, không tạo dáng (Unposed Candid Slice-of-Life):**
+   * Cấm nhân vật nhìn vào camera tạo dáng. Nhân vật luôn đang làm dở việc của mình.
+   * Ưu tiên đôi mắt tĩnh lặng / hướng nội (`introspective, closed or downward-looking eyes`) để triệt tiêu lỗi mắt đờ đẫn của AI và tạo chiều sâu tâm hồn.
