@@ -23,7 +23,7 @@ Mọi quy chuẩn, điều khoản và đặc tả prompt trong tài liệu tuâ
 Mọi chi tiết trong cảnh trí sa bàn mang tính chất vật lý cụ thể ở tỷ lệ macro.
 
 ### Đặc Tính Bề Mặt & Phản Quang Vật Lý
-* **Kim loại thủ công:** Sắt đen tôi dầu (blackened iron), thép rèn nguội, thiếc mờ (pewter) và thép chải satin mang lớp oxit phong hóa tự nhiên. Các diện tích bề mặt kim loại giữ vệt phản quang êm dịu phản chiếu nguồn sáng lân cận.
+* **Vật liệu chế tác thanh mảnh & Kim loại tinh vi (Delicate Craft & Slender Accents):** Ưu tiên các vật liệu mang trọng lượng thị giác nhẹ nhõm, thanh thoát và bay bổng: gỗ sáng màu chà mịn (gỗ bồ đề, gỗ tần bì, gỗ phong, gỗ lê), gốm sứ trắng mờ lì thành mỏng, thủy tinh thổi trong suốt, giấy bồi sợi tự nhiên ép mỏng. Các chi tiết kim loại hiện diện ở dạng vi mô thanh mảnh tinh xảo như sợi thép mảnh, chốt cài nhỏ nhắn, ngòi bút, nhíp gắp vi phẫu, khung dây uốn cong nhẹ nhàng hoặc bề mặt thép chải satin sáng dịu, giữ trọn vẹn nét thanh tú, tao nhã cho toàn bộ đạo cụ bối cảnh.
 * **Vải dệt may đo:** Vải lanh giặt mềm (washed linen), vải cotton poplin, vải twill, vải canvas dệt thô mộc, vải gabardine đanh chắc. Trọng lực vật lý định hình nếp gấp và độ rủ tự nhiên của cấu trúc sợi dệt.
 * **Vật liệu xuyên sáng:** Giấy bồi, giấy da, vải mỏng cho phép quang thông xuyên qua các thớ vật liệu, hình thành quầng sáng ấm tỏa đều từ bên trong lòng khối thể.
 * **Môi trường lỏng & Bề mặt phản chiếu:** Nhựa đúc resin trong suốt và gel tạo mặt phẳng phản xạ quang học, thu nhận bóng đổ và vệt sáng môi trường.
@@ -149,7 +149,7 @@ Sinh vật đồng hành hiện diện với vai trò thực thể sống mang l
       {
         "id": "element_1",
         "name": "<primary_subject_name>",
-        "material_and_texture": "<weathered_patina_matte_surface_or_burnished_hammered_metal>",
+        "material_and_texture": "<slender_delicate_craft_material_fine_lightweight_wood_matte_porcelain_or_thin_satin_steel>",
         "details": "<craft_details_and_tactile_surfaces>"
       }
     ],
@@ -190,7 +190,7 @@ Sinh vật đồng hành hiện diện với vai trò thực thể sống mang l
 ### Khối 4: `ENVIRONMENT`
 * **`camera`**: Ống kính macro tilt-shift, lấy nét chọn lọc, trường ảnh nông, bố cục tràn viền bốn cạnh.
 * **`setting`**: Cảnh trí sa bàn ước lệ cấu thành từ các phân mảnh vật chất đặc trưng, trải dài liên tục qua các mép khung hình.
-* **`focal_elements`**: Thành phần trọng tâm mang bề mặt mờ lì, kim loại phong hóa hoặc kim loại gò búa giữ điểm phản quang ấm.
+* **`focal_elements`**: Thành phần trọng tâm mang cấu trúc thanh mảnh, nhẹ nhõm, ưu tiên gỗ sáng màu chà mịn, gốm sứ mỏng mờ lì, thủy tinh trong suốt hoặc kim loại dạng thanh/dây mảnh tinh vi, giữ nét tao nhã thanh thoát.
 * **`staging`**: Sắp đặt các thành phần bối cảnh theo cấu trúc hình học định hình tiêu điểm thị giác.
 * **`real_nature`**: Vật liệu tự nhiên thật (rêu khô, vỏ cây nứt nẻ, khoáng thạch, bông gòn sợi).
 * **`lighting`**: Lựa chọn phương thức phân bổ quang học: quang thông tự nhiên trực diện góc cao tạo bóng đổ đồ họa, quang thông tán xạ qua khẩu độ lớn, hoặc quang phổ nhiệt nội cảnh kết hợp ánh sáng ngược viền vàng.
