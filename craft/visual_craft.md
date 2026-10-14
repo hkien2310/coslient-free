@@ -1,94 +1,68 @@
-# VISUAL CRAFT — NGHỆ THUẬT DÀN DỰNG CHUỖI ẢNH
+# VISUAL CRAFT: NGHỆ THUẬT DÀN DỰNG ẢNH ĐẸP & ĐẸP LIÊN TỤC
 
-> **Phân định ranh giới cốt lõi:**
-> - **Style (`style/STYLE_*.md`):** Quy định *chất liệu & cách render của từng pixel* (chất liệu thủ công, khối nhân vật, bề mặt, ánh sáng). Đó là "luật vẽ 1 bức ảnh".
-> - **Visual Craft (file này):** Quy định *sự chuyển động, nhịp điệu, câu chuyện và sự đa dạng giữa 50–70 bức ảnh*. Làm sao để chuỗi ảnh không bao giờ gây chán hay đơ cứng.
+> **GHI CHÚ CỐ ĐỊNH (CẤM XÓA KHI CHỈNH SỬA FILE):**
+> 1. **Phân định ranh giới:** File `style/STYLE_*.md` quy định *chất liệu, tỷ lệ, bề mặt, ống kính và cấu trúc JSON của 1 bức ảnh*. File `craft/visual_craft.md` này quy định *cách tạo ra một cảnh có hồn (Ảnh Đẹp) và cách điều phối nhịp điệu giữa 50–70 bức ảnh (Ảnh Đẹp Liên Tục)*.
+> 2. **Sửa đúng chỗ (`/ponytail`):** Chỉ sửa đúng dòng cần thay đổi bằng công cụ chỉnh sửa cục bộ, ưu tiên ngắn gọn, không ghi đè toàn bộ file.
+> 3. **Chỉ viết quy luật, không đưa use case riêng lẻ:** Rút ra quy tắc chung áp dụng cho mọi bài nhạc, không liệt kê bối cảnh chỉ dùng cho một dự án đơn lẻ.
+> 4. **Viết tự nhiên, đi thẳng vào kỹ thuật (`/humanizer` & `stop-slop`):** Bỏ văn phong đao to búa lớn, từ ngữ sáo rỗng và cấu trúc câu rập khuôn của AI.
 
-Viết thẳng danh sách prompt độc lập vào file `image.json` (mỗi prompt là một JSON Object). Số lượng prompt tùy theo độ dài bài hát (trung bình 45–65 prompts cho bài 3–4 phút). Quy chuẩn chi tiết tra cứu tại `style/STYLE_*.md`.
+## 1. Nguyên tắc lát cắt cảm xúc độc lập
 
----
+- **Xoay quanh trục cảm xúc cốt lõi:** Mỗi prompt trong `image.json` là một lát cắt độc lập phản chiếu câu chuyện và cảm xúc trong `1-idea.md`. Các lát cắt tự do thay đổi nhân vật và bối cảnh thay vì đi theo hành trình tuyến tính của một nhân vật duy nhất.
+- **Khung hình tự đứng vững:** Khi tách bất kỳ bức ảnh nào ra khỏi chuỗi video, người xem vẫn nhận ra ngay câu chuyện, cảm xúc và điểm hút thị giác của riêng bức ảnh đó mà không cần xem ảnh trước hay sau.
+- **Tự do ghép nhịp khi dựng phim:** Khi mỗi ảnh tự đứng vững và mang chung mạch cảm xúc, khâu dựng có thể ghép ảnh theo nhịp nhạc (`timestamps.txt`) mà không làm gãy mạch truyện.
 
-## 1. Nguyên Tắc Tranh Khảm Lát Cắt (The Mosaic / Vignette Principle)
-- **Mở rộng thế giới, không tịnh tiến tuyến tính:** Mỗi prompt là một lát cắt đời sống độc lập (vignette) của cả một thế giới thu nhỏ, không bị trói buộc vào hành trình tuyến tính (A $\rightarrow$ B $\rightarrow$ C) của một nhân vật duy nhất.
-- **Tính tự thân của mỗi frame (Self-contained Micro-story):** Mỗi bức ảnh tự thân nó chứa đựng một câu chuyện nhỏ hoàn chỉnh (một khoảnh khắc dở dang, một góc sinh hoạt, một tương tác bất ngờ), biến video thành một hành trình khám phá thế giới phong phú thay vì bám đuổi 1 nhân vật đi bộ.
-- **Tiêu chuẩn "Frame tự đứng vững" (Standalone Frame):** Khi tách bất kỳ bức ảnh nào ra khỏi video, người xem vẫn cảm nhận được trọn vẹn sức sống, cảm xúc và câu chuyện ẩn chứa bên trong mà không cần phải xem bức ảnh trước hay sau đó mới hiểu được.
-- **Tự do tối đa cho phòng dựng Montage:** Khi mỗi ảnh là một lát cắt độc lập, phòng dựng có thể tự do xáo trộn, sắp đặt và tạo sự va chạm hình ảnh (juxtaposition) theo nhịp nhạc (`timestamps.txt`) mà không sợ bị đứt gãy mạch truyện hay ngược dòng thời gian.
+## 2. Năm trụ cột tạo nên một bức ảnh đẹp
 
-### 💡 Bảng đối chiếu tư duy dàn dựng:
+Mọi khung hình đều phải kết hợp đủ 5 yếu tố dưới đây thay vì chỉ mô tả sinh hoạt đời thường:
 
-| Tiêu chí | ❌ Bẫy Tịnh Tiến Tuyến Tính (Linear Railroad) |  Tranh Khảm Lát Cắt Thế Giới (Mosaic Principle) |
-|---|---|---|
-| **Mạch hình ảnh** | Bám riết lấy 1 nhân vật: thức dậy $\rightarrow$ bước ra cửa $\rightarrow$ đi trên đường $\rightarrow$ lên đồi $\rightarrow$ ngắm hoàng hôn. | Mở rộng biên độ thế giới: thợ rèn gõ búa $\rightarrow$ chú mèo sưởi nắng $\rightarrow$ bà cụ nướng bánh $\rightarrow$ lũ trẻ thả thuyền giấy $\rightarrow$ đàn chim bay về tổ. |
-| **Gắn kết với bài hát** | Minh họa thô kệch từng chữ trong lời hát như từ điển tranh. | Cộng hưởng không gian & cảm xúc: lời hát ngân lên một nốt êm đềm, hình ảnh đưa người xem chạm vào một khoảnh khắc bình yên của thế giới. |
-| **Cảm giác người xem** | Đơn điệu, dễ đoán, nhàm chán sau 15–20 giây đầu. | Bất ngờ, lôi cuốn, luôn tò mò muốn biết góc tiếp theo của thế giới này có gì kỳ diệu. |
+### 2.1. Năm thủ pháp siêu thực và đường cong thủ công tại `focal_elements` và `setting`
+Mọi kiến trúc, phương tiện và đạo cụ đều ưu tiên đường lượn cong mềm mại, hơi phồng hoặc nghiêng liêu xiêu bất đối xứng của đồ làm tay, loại bỏ hoàn toàn các đường thẳng tắp công nghiệp. Lấy một hành động đời thường làm gốc, sau đó cài vào cảnh ít nhất một trong năm thủ pháp siêu thực:
+1. **Nét cắt sa bàn và kiến trúc mất tường giữa thiên nhiên:** Không gian nội thất được cắt mặt phẳng trực diện hoặc mở toang vách tường, đặt trực tiếp giữa thiên nhiên rộng lớn.
+2. **Đánh tráo công năng không gian và đồ vật:** Đưa một hoạt động hoặc đồ vật quen thuộc vào một không gian hoàn toàn trái ngược với công năng gốc, hoặc dùng đồ vật này để thực hiện chức năng của đồ vật khác.
+3. **Đóng gói và thuần hóa khí quyển:** Các hiện tượng thời tiết, âm thanh hoặc khí quyển vô hình được vật chất hóa bằng chất liệu thủ công để con người có thể cầm nắm, buộc giữ, đóng lọ hoặc gắn lên cơ thể.
+4. **Biến hình vật chất và lệch tỷ lệ sinh vật:** Một chất liệu thủ công đang thao tác biến đổi trực tiếp thành sinh vật sống hoặc địa hình thu nhỏ; hoặc các sinh vật tự nhiên mang kích thước lớn bất thường xuất hiện sát cạnh con người.
+5. **Lệch pha thời đại:** Đặt các thiết bị âm thanh hoặc cơ khí hiện đại vào trong bối cảnh kiến trúc và trang phục cổ điển.
 
----
+### 2.2. Bốn kỹ thuật khóa tâm điểm thị giác
+Không để hậu cảnh tranh chấp chi tiết với chủ thể. Mỗi khung hình phải dùng ít nhất một trong bốn kỹ thuật sau để dẫn mắt người xem vào tâm điểm:
+1. **Cô lập trên bệ đỡ giữa khoảng trống âm lớn:** Gom toàn bộ nhân vật và đạo cụ lên một mặt sàn hoặc cấu trúc có ranh giới rõ ràng, bao quanh bởi 60% đến 70% mảng nền đồng nhất và ít chi tiết.
+2. **Đặt tại ranh giới nền hoặc lọt trong khung kiến trúc:** Đặt nhân vật ngay ranh giới chuyển tiếp giữa mảng kiến trúc và mảng nền thoáng để tách khối, hoặc dùng chính khung cửa, vòm kiến trúc làm khung phụ bao quanh nhân vật.
+3. **Dìm tối xung quanh và gom chóp sáng trực tiếp:** Với cảnh nội thất hoặc cảnh có nhiều chi tiết xung quanh, dìm tối vùng biên và dùng một nguồn sáng chiếu chóp trực tiếp từ trên xuống đúng vị trí nhân vật và vật thể siêu thực.
+4. **Hội tụ hướng nhìn và đường dẫn vật lý:** Điều hướng ánh mắt của sinh vật và các đường dẫn vật lý trong cảnh chỉ về tâm điểm.
 
-## 2. Hệ Thống 7 Trục Đa Dạng Hóa (The 7 Diversity Axes)
+### 2.3. Hai chế độ dàn dựng, phân hóa hình khối và biểu cảm hiền từ
+Nhân vật luôn có mái tóc dày bồng bềnh (không bao giờ bị hói) và nét mặt hiền từ, ấm áp, bình yên hoặc vui vẻ nhẹ nhàng (không bao giờ u buồn, khắc khổ hay hốc hác). Để các nhân vật trong cùng một ảnh không bị giống nhau, phải tạo độ lệch giữa dáng cao thanh mảnh và dáng thấp tròn trịa, bầu bĩnh, kết hợp khác biệt kiểu tóc, râu bông, mũ, kính và chia theo hai chế độ:
+- **Chế độ có nhân vật chính (từ 1 đến 4 người trung tâm):** Tách riêng từng nhân vật chính trong `figures[]` với vóc dáng, độ tuổi, góc mặt và màu trang phục đối lập nhau. Nếu có thêm người phụ, đẩy họ ra lớp tiền cảnh hoặc hậu cảnh xóa phông mờ.
+- **Chế độ không có nhân vật chính (đại cảnh nhóm đông người):** Lấy cấu trúc không gian siêu thực có đường cong thủ công làm tâm điểm. Đặt toàn bộ nhân vật đứng hoặc ngồi trọn vẹn trên mặt phẳng sàn (không cắt cụt nửa dưới cơ thể trong hộp kín), chia thành các cụm nhỏ bất đối xứng ở các độ cao khác nhau. Các nhân vật tương tác tự nhiên thả lỏng với nhau (trò chuyện mỉm cười, nhắm mắt nghe nhạc, tựa lưng thư giãn) thay vì cùng đứng đơ nhìn cứng nhắc về một điểm.
 
-Khi viết prompt thứ $N$, phải chủ động xoay vòng tối thiểu **3 trong 7 trục** so với prompt $N-1$:
+### 2.4. Điểm nổ màu 10% trên nền 70%
+- Khi 70% màu khí quyển và bối cảnh mang tông lạnh đậm, đặt 10% điểm màu nóng tương phản ngay tại tâm điểm thị giác.
+- Khi 70% màu nền mang tông ấm sáng, đặt 10% điểm màu lạnh đậm hoặc đỏ sẫm tại tâm điểm để giữ mắt người xem.
+- Kết hợp viền sáng ấm tách khối nhân vật khỏi hậu cảnh.
 
-### Trục 1 — Nhân vật & Số lượng:
-- Xoay vòng linh hoạt: 1 người làm việc một mình $\leftrightarrow$ 2 người tương tác thân tình $\leftrightarrow$ Trẻ con/người già $\leftrightarrow$ Muông thú/thú cưng làm nhân vật chính $\leftrightarrow$ Hoàn toàn không có người (tĩnh vật/cảnh vật).
-- Đa dạng nhân vật & vóc dáng: Thợ đĩnh đạc $\leftrightarrow$ Thanh niên cao ráo thanh mảnh $\leftrightarrow$ Cụ già phong sương $\leftrightarrow$ Trẻ nhỏ nhanh nhẹn.
+### 2.5. Trạng thái đắm chìm ấm áp và một chuyển động bắt dính
+- **Đắm chìm ấm áp:** Nhân vật không đứng tạo dáng nhìn vào ống kính mà tận hưởng khoảnh khắc với vẻ mặt hiền hòa, mỉm cười nhẹ, nhắm mắt cảm nhận hoặc chăm chú thao tác.
+- **Chuyển động bắt dính:** Mỗi bức ảnh tĩnh phải giữ lại một chuyển động vật lý đang diễn ra giữa chừng tại trường `motion`.
 
-### Trục 2 — Bối cảnh & Không gian (Ưu tiên ngoài trời):
-- **Ưu tiên ngoại thất khoáng đạt:** Tận dụng tối đa không gian ngoài trời rộng mở (sân phơi, bờ suối, triền đồi, mỏm đá, cầu uốn lượn) gắn với hoạt động thực tế.
-- **Nội thất phải mở toang:** Khi nhân vật ở trong xưởng nghề hay studio cá nhân, căn phòng luôn có vòm kính panorama hoặc ban công mở toang nhìn ra cảnh quan hùng vĩ bên ngoài. Không bao giờ nhốt nhân vật vào phòng kín tối tăm.
+## 3. Ba cơ chế giữ ảnh đẹp liên tục qua 50 đến 70 cảnh
 
-### Trục 3 — Thông số máy ảnh & Góc quay:
-- **Cỡ cảnh:** Cận cảnh macro (đôi bàn tay, đồ vật) $\leftrightarrow$ Trung cảnh (nhân vật thao tác) $\leftrightarrow$ Viễn cảnh (đại cảnh thiên nhiên/thị trấn).
-- **Góc máy:** Ngước nhìn lên (`low-angle`) $\leftrightarrow$ Ngang tầm mắt (`eye-level`) $\leftrightarrow$ Nhìn từ trên cao xuống (`high-angle bird's-eye view`, luôn có thước tỷ lệ) $\leftrightarrow$ Góc nghiêng 3/4 (`three-quarter profile`) $\leftrightarrow$ Góc ngang hai người song hành (`side-by-side profile`). **CẤM TUYỆT ĐỐI GÓC QUA VAI (Over-the-shoulder / OTS)** vì là nguyên nhân số một gây lỗi dính thân, vỡ đầu và biến dạng giải phẫu (morphing).
-- **Khẩu độ:** Luôn giữ `moderate depth of field, background softly readable` để hậu cảnh mờ êm dịu nhưng vẫn đọc rõ kiến trúc, tránh bẫy xóa phông nhòe nhoẹt của tilt-shift.
+### 3.1. Cấm ảnh lấp chỗ trống và xoay vòng 5 thủ pháp siêu thực
+Không tạo các khung hình chỉ đứng hoặc ngồi sinh hoạt bình thường. Các cảnh kế tiếp nhau phải luân chuyển qua lại giữa 5 thủ pháp siêu thực ở Mục 2.1.
 
-### Trục 4 — Hành vi vi mô & Khoảnh khắc lỡ cỡ (Micro-actions):
-- Bắt lấy những khoảnh khắc sinh hoạt tự nhiên, dở dang thay vì tạo dáng chụp ảnh:
-  + Người thợ lấy mu bàn tay quệt mồ hôi, xỏ sợi chỉ qua kim, kiễng chân với hũ gia vị trên kệ cao.
-  + Chú mèo giẫm lên góc bản vẽ, chim sẻ mổ vụn bánh trên mũi giày, chú chó thò mũi ngửi vạt tạp dề dính bột.
-  + Bột mì bay trong vệt nắng, giọt trà vừa rỏ xuống mặt tách, cuộn len đang lăn dở trên sàn.
+### 3.2. Luật đảo nhịp tương phản liền kề
+Giữa ảnh thứ $N$ và ảnh thứ $N+1$, phải thay đổi tối thiểu 3 trong 5 yếu tố sau:
+1. **Bảng màu chủ đạo (70%):** Không để quá 2 ảnh liên tiếp dùng chung một tông màu nền.
+2. **Quy mô và chế độ nhân vật:** Luân chuyển giữa cảnh 1 người, cảnh 2 người, cảnh 3 đến 4 người và đại cảnh nhóm đông người (tối thiểu 70% tổng số ảnh có con người).
+3. **Độ tuổi và cặp hình khối:** Thay đổi tổ hợp độ tuổi và vóc dáng giữa các cảnh kế tiếp.
+4. **Không gian và kỹ thuật khóa tâm điểm:** Đảo giữa cảnh ngoài trời có khoảng trống âm lớn, cảnh kiến trúc mở thông thiên nhiên và cảnh nội thất mặt cắt ngang dùng chóp sáng.
+5. **Thời gian và nguồn sáng:** Luân chuyển giữa nắng sớm, nắng trưa, ngược sáng hoàng hôn, chạng vạng và ánh đèn ban đêm.
 
-### Trục 5 — Tiêu điểm thị giác (Subject Hierarchy):
-Ai hoặc cái gì là "nhân vật chính" của frame ảnh này?
-- **Gương mặt:** Thần thái trầm tĩnh, an nhiên, ánh mắt có hồn (không cười đông cứng).
-- **Bộ phận cơ thể:** Đôi bàn tay gân guốc đang chuốt gỗ, nắn gốm, xâu kim (không thấy mặt).
-- **Đồ vật có linh hồn (Still-life with Soul):** Chiếc ghế trống có vệt nắng rọi qua, đôi ủng để góc cửa, chiếc đàn cũ (người chỉ là bóng mờ lướt qua).
-- **Thiên nhiên bao la (Negative Space):** Cả khung hình là triền cỏ rêu và bầu trời mở, con người chỉ là một chấm nhỏ thanh thản ở góc 1/3.
+### 3.3. Đồng bộ cỡ cảnh và kiểm duyệt trên `image-index.md`
+- **Thấy gì tả nấy:** Chỉ mô tả những bộ phận cơ thể và vật thể nằm trong khung cắt của máy quay. Cấm góc máy qua vai (`over-the-shoulder`) để tránh biến dạng tỷ lệ.
+- **Kiểm duyệt trên `image-index.md` trước khi viết JSON:**
+  Mỗi cảnh trong `image-index.md` ghi trên 1 dòng gồm 5 cột:
+  `- **ID** | [Cỡ cảnh & Không gian/Thời gian] | [Bảng màu: 70% Nền - 10% Điểm nổ] | [Chế độ nhân vật & Tương phản hình khối] | [Thủ pháp siêu thực & Kỹ thuật khóa tâm điểm]`
+  Trước khi viết batch mới vào `image.json`, kiểm tra `image-index.md` để đảm bảo mọi cảnh đều có thủ pháp siêu thực, kỹ thuật khóa tâm điểm rõ ràng, và hai dòng liền kề đã đảo đủ tối thiểu 3 yếu tố. Sau khi hoàn thành project, cập nhật tóm tắt vào [`ref/image-index.md`](../ref/image-index.md).
 
-### Trục 6 — Dòng chảy thời gian & Thời tiết (Temporal Arc):
-Cả video phải là một hành trình ánh sáng và thời gian chuyển động, không đóng băng ở một thời điểm:
-- **Khởi đầu:** Sáng sớm sương mai (`soft misty dawn light`), hơi lạnh, mở cánh cửa chớp.
-- **Phát triển:** Nắng ngày trong trẻo (`clear warm natural daylight`), nhịp sống rộn ràng, bụi phấn hoa bay trong nắng.
-- **Chuyển biến thời tiết:** Cơn mưa rào bất chợt vừa tạnh, mặt đá ướt bóng lấp lánh sương mai, gió lộng lay tà áo.
-- **Lắng đọng & Trở về:** Hoàng hôn vàng mật (`warm low golden-hour backlight`) $\rightarrow$ Chạng vạng xanh lam (`blue dusk`) $\rightarrow$ Đèn lồng hổ phách bừng sáng trong các ô cửa sổ khi đêm xuống.
 
-### Trục 7 — Đồng bộ nhịp động lực học bài nhạc (Musical Dynamics Sync):
-- **Khúc dạo đầu / Verse (Tự sự, nhỏ nhẹ):** Cảnh hẹp, cận cảnh, chuyển động chậm, đồ vật riêng tư, nhịp thở êm đềm.
-- **Khúc Điệp khúc / Chorus (Âm nhạc bùng nổ):** Lập tức bung ra **đại cảnh góc rộng (panoramic wide shot)**, gió thổi mạnh, không gian mở toang, bầy chim cất cánh, ánh sáng rực rỡ để thị giác bùng nổ cùng thính giác.
-- **Khúc Bridge (Lắng đọng):** Dùng góc máy nhìn từ sau lưng (back-view), hình bóng ngược sáng (silhouette), hoặc cảnh tĩnh lặng không bóng người để tạo khoảng lặng cảm xúc.
-
----
-
-## 3. Diệt Trừ 3 Bẫy Làm Video Bị Cứng
-
-1. **Bẫy Ma-nơ-canh tạo dáng (Posing Mannequin):** Cấm tuyệt đối nhân vật chỉ đứng nhìn vào máy ảnh hoặc tạo dáng chụp ảnh lưu niệm. Nhân vật phải luôn đắm chìm trong công việc, vận động hoặc có tương tác tự nhiên với môi trường xung quanh.
-2. **Bẫy Minh họa nghĩa đen (Literal Illustration):** Lời hát nhắc từ A thì prompt phải mở rộng thế giới xung quanh A (trước, sau, bên cạnh, ngoài cửa sổ), tuyệt đối không vẽ minh họa cơ học từng chữ một như cuốn từ điển tranh.
-3. **Bẫy Đóng băng thời gian:** Cấm toàn bộ 50 ảnh đều có chung một ánh hoàng hôn tĩnh lặng. Phải có nhịp thở thời gian từ sáng sớm tới chiều muộn.
-
----
-
-## 4. Quy Chuẩn Khung & Format Kỹ Thuật
-
-- **2 Trụ Cột Viết Prompt (Bắt buộc):**
-  + **Tả máy quay chụp cái gì:** Mở đầu luôn định vị cỡ cảnh, góc máy và tiêu điểm máy quay đang bắt trọn (`[Shot type] focusing on / framing [focal target]`). Mọi vật thể treo/đung đưa/chịu lực phải có điểm neo vật lý rõ ràng.
-  + **Luôn tả người (Host Entity):** Không bao giờ để bộ phận cơ thể (tay, chân) hay trang phục đứng lẻ loi làm chủ ngữ. Mọi chi tiết cận cảnh đều phải gắn chặt với một nhân vật búp bê cụ thể (`an elderly woman as a stylized storybook miniature figure, her hands emerging from wool sleeves...`). Mọi nhân vật phụ ở hậu cảnh đều phải bọc nhãn `companion miniature figure`.
-- **Quy Chuẩn Tạo Hình Búp Bê Dân Gian:**
-  + *Đầu & Mũ:* Đầu gỗ tiện nhẵn đa dạng phom dáng, có tóc len và luôn đội mũ/nón che kín đỉnh đầu.
-  + *Bàn tay:* Bàn tay gỗ chạm khắc ngón thon dài, luôn gắn liền với ống tay áo và thao tác dở dang trên đồ vật.
-  + *Thân thể tiếp đất:* Búp bê nguyên khối cắm rễ tiếp đất với trang phục suông dài phủ kín ủng da (quần len may đo suông dài hoặc váy dạ rủ). Tuyệt đối không dùng `waist-up`. Cho phép an toàn tuyệt đối với cận cảnh bàn tay thao tác (`macro hands`) hoặc góc nhìn sau lưng (`back-view`).
-  + *Gương mặt mộc:* Mặt mộc vẽ cọ tối giản với đôi mắt đen nét cọ mảnh và biểu cảm an nhiên, tuyệt đối không vẽ má hồng son phấn.
-- **Tỷ lệ sinh khí (Vitality Ratio):**
-  + Tối thiểu 70% số ảnh có nhân vật chuyển động hoặc tương tác tình cảm.
-  + Tối đa 10–15% cảnh tĩnh vật; không xếp 2 cảnh tĩnh vật liên tiếp.
-- **Tần suất lặp lại:** Một đồ vật hoặc một góc bối cảnh cụ thể chỉ xuất hiện tối đa 2 lần trong cả video. Không 3 ảnh liên tiếp giống nhau ở cùng một trục.
-- **Tâm điểm màu sắc:** Luôn có 1 điểm nhấn màu vàng mù tạt (`saffron mustard`) hoặc ánh hổ phách (`blazing warm amber`) để neo giữ nhận diện.
-- **Format lưu trữ kịch bản:** Lưu trữ trực tiếp trong `image.json` theo cấu trúc JSON Object độc lập (Standalone Self-Contained) chuẩn quy định tại `style/STYLE_*.md`.
