@@ -2,101 +2,75 @@
 
 ## Mục lục nhanh
 
-- **PHẦN I — DÀNH CHO AI VẬN HÀNH (PRODUCTION)**
-  - [1. Bản chất thế giới, chất liệu và Điểm nhấn Siêu thực](#1-bản-chất-thế-giới-chất-liệu-và-điểm-nhấn-siêu-thực)
-  - [2. Hệ thống cỡ cảnh, góc máy và điều tiết mật độ chi tiết](#2-hệ-thống-cỡ-cảnh-góc-máy-và-điều-tiết-mật-độ-chi-tiết)
-  - [3. Tạo hình nhân vật, Điểm nhấn Trang phục/Tóc/Phụ kiện và Hành động Đời thường](#3-tạo-hình-nhân-vật-điểm-nhấn-trang-phụctócphụ-kiện-và-hành-động-đời-thường)
-  - [4. Ánh sáng một nguồn thuận tự nhiên và bảng màu](#4-ánh-sáng-một-nguồn-thuận-tự-nhiên-và-bảng-màu)
+- **PHẦN I: DÀNH CHO AI VẬN HÀNH (PRODUCTION)**
+  - [1. Chất liệu thế giới và yếu tố siêu thực](#1-chất-liệu-thế-giới-và-yếu-tố-siêu-thực)
+  - [2. Cỡ cảnh, góc máy và mật độ chi tiết](#2-cỡ-cảnh-góc-máy-và-mật-độ-chi-tiết)
+  - [3. Tạo hình nhân vật, điểm nhấn và hành động đời thường](#3-tạo-hình-nhân-vật-điểm-nhấn-và-hành-động-đời-thường)
+  - [4. Ánh sáng một nguồn và màu sắc](#4-ánh-sáng-một-nguồn-và-màu-sắc)
   - [5. Cấu trúc Output Text Thuần (Mặc định cho AI Vận Hành)](#5-cấu-trúc-output-text-thuần-mặc-định-cho-ai-vận-hành)
-  - [6. Quy trình tự kiểm tra trước khi xuất Prompt](#6-quy-trình-tự-kiểm-tra-trước-khi-xuất-prompt)
-- **PHẦN II — DÀNH RIÊNG CHO NHÀ PHÁT TRIỂN (DEVELOPER R&D — AI VẬN HÀNH BỎ QUA)**
+  - [6. Bảng kiểm trước khi xuất Prompt](#6-bảng-kiểm-trước-khi-xuất-prompt)
+- **PHẦN II: DÀNH RIÊNG CHO NHÀ PHÁT TRIỂN (DEVELOPER R&D)**
   - [7. Khung cấu trúc JSON nghiên cứu](#7-khung-cấu-trúc-json-nghiên-cứu)
   - [8. Giải thích nhiệm vụ từng trường JSON](#8-giải-thích-nhiệm-vụ-từng-trường-json)
   - [9. Quy tắc bảo trì tài liệu gốc](#9-quy-tắc-bảo-trì-tài-liệu-gốc)
 
 ---
 
-# PHẦN I — DÀNH CHO AI VẬN HÀNH (PRODUCTION)
+# PHẦN I: DÀNH CHO AI VẬN HÀNH (PRODUCTION)
 
-## 1. Bản chất thế giới, chất liệu và Điểm nhấn Siêu thực
+## 1. Chất liệu thế giới và yếu tố siêu thực
 
-Phong cách này dựng lại khung hình phim hoạt hình stop-motion nghệ thuật châu Âu (`Cinematic European arthouse stop-motion animation film still`) trên nền màu phim nhựa 35mm Kodak (`rich saturated Kodak analog 35mm film color grading with deep chromatic density`). Bối cảnh là thế giới sống rộng mở tràn qua bốn cạnh khung hình.
+Phong cách này dựng lại khung hình phim hoạt hình stop-motion nghệ thuật châu Âu (`Cinematic European arthouse stop-motion animation film still`) trên nền màu phim nhựa 35mm Kodak (`rich saturated Kodak analog 35mm film color grading with deep chromatic density`). Bối cảnh là không gian mở tràn qua bốn cạnh khung hình.
 
-- **Điểm nhấn Môi trường Siêu thực & Tâm thái Thản nhiên (`Unbothered Surrealism`):** Mỗi bức ảnh tích hợp cơ chế siêu thực theo [`craft/plugins/plugin_surreal_whimsy.md`](../craft/plugins/plugin_surreal_whimsy.md) (Đảo lộn bối cảnh, Hoán đổi tỷ lệ vĩ mô, Thản nhiên giữa phi lý, Phương tiện hoài niệm, hoặc Vật chất hóa điều kỳ ảo). Điểm cốt lõi xuyên suốt gần như mọi bức ảnh là **sự thản nhiên trước điều phi lý**: khung cảnh mang yếu tố siêu thực kỳ lạ, nhưng nhân vật bên trong luôn thực hiện những cử chỉ, công việc sinh hoạt đời thường một cách bình thản như chuyện hiển nhiên hàng ngày.
-- **Độ mềm bề mặt và độ trong không khí:** Toàn bộ bề mặt mang độ mịn mờ như nhung (`velvety matte surfaces with sfumato soft edges`), khóa `crystal-clear air` (hoặc `zero milky haze`) để giữ ống kính trong vắt và bảo toàn độ đậm màu.
+- **Yếu tố siêu thực và thái độ bình thản:** Mỗi bức ảnh tích hợp một cơ chế siêu thực theo [`craft/plugins/plugin_surreal_whimsy.md`](../craft/plugins/plugin_surreal_whimsy.md). Bối cảnh mang yếu tố siêu thực kỳ lạ, nhưng con người bên trong luôn làm những công việc sinh hoạt đời thường với vẻ bình thản tự nhiên.
+- **Bề mặt và không khí:** Toàn bộ bề mặt mang độ mịn mờ như nhung với đường viền chuyển êm (`velvety matte surfaces with sfumato soft edges`), giữ không khí trong vắt (`crystal-clear air` hoặc `zero milky haze`) để bảo toàn độ đậm màu.
 
-## 2. Hệ thống cỡ cảnh, góc máy và điều tiết mật độ chi tiết
+## 2. Cỡ cảnh, góc máy và mật độ chi tiết
 
-Hệ thống máy quay mở toàn bộ biên độ góc nhìn điện ảnh để phục vụ đúng ý đồ từng cảnh:
-- **Đa dạng cỡ cảnh và góc máy:**
-  - **Đại cảnh & Toàn cảnh rộng (`Extreme wide shot`, `Wide landscape / architectural shot`):** Mở rộng không gian nhiều lớp chiều sâu (tiền cảnh - trung cảnh - hậu cảnh), tôn vinh sự hùng vĩ của thiên nhiên, phố xá, công trình cùng hiện tượng siêu thực quy mô lớn.
-  - **Cảnh toàn thân & Cảnh trung (`Full-body shot`, `Medium shot`, `Stage-planar shot`, `Orthographic front-on cross-section`):** Phù hợp cho tương tác nhân vật hoặc góc cắt ngang trực diện nhìn xuyên vào cấu trúc bên trong căn phòng, ngôi nhà, toa tàu.
-  - **Cận cảnh & Đặc tả chi tiết (`Close-up`, `Extreme close-up / Macro detail shot`):** Tập trung vào biểu cảm gương mặt, đôi bàn tay đang thao tác, hoặc kết cấu vi mô của vật thể thủ công.
-  - **Góc máy linh hoạt (`Eye-level`, `High-angle looking down`, `Low-angle looking up`, `Over-the-shoulder`, `Deep perspective`):** Tự do chọn góc đặt máy theo cảm xúc và bố cục không gian của từng cảnh.
-- **Điều tiết mật độ chi tiết & Tách lớp chủ thể (`Optical Depth Separation`):**
-  - Cho phép dựng cả những **không gian tối giản nhiều khoảng thở** lẫn những **không gian giàu chi tiết** (xưởng chế tác, thư viện ngập sách, khu vườn rậm rạp, góc bếp ấm cúng).
-  - Luôn dùng tiêu cự quang học (`natural optical depth of field`, `creamy lens bokeh`) kết hợp độ tương phản sáng - tối để tách bật chủ thể chính và điểm nhấn siêu thực khỏi lớp nền phía sau.
+Sử dụng linh hoạt mọi cỡ cảnh và góc máy điện ảnh theo đúng ý đồ của từng cảnh:
+- **Đại cảnh và toàn cảnh rộng (`Extreme wide shot`, `Wide landscape / architectural shot`):** Mở rộng không gian nhiều lớp chiều sâu (tiền cảnh, trung cảnh, hậu cảnh), lấy trọn thiên nhiên, kiến trúc và hiện tượng siêu thực lớn.
+- **Cảnh toàn thân, cảnh trung và mặt cắt ngang (`Full-body shot`, `Medium shot`, `Orthographic front-on cross-section`):** Phù hợp cho tương tác nhân vật hoặc góc cắt ngang nhìn thẳng vào cấu trúc bên trong không gian nội thất.
+- **Cận cảnh và đặc tả (`Close-up`, `Macro extreme close-up`) cùng góc máy đa chiều (`Eye-level`, `High-angle`, `Low-angle`, `Over-the-shoulder`, `Deep perspective`):** Tập trung vào biểu cảm gương mặt, đôi bàn tay hoặc chi tiết bề mặt đồ vật.
+- **Mật độ chi tiết và tách lớp chủ thể:** Cho phép dựng cả không gian thoáng tối giản lẫn không gian giàu chi tiết. Dùng độ sâu trường ảnh quang học (`natural optical depth of field`, `creamy lens bokeh`) kết hợp tương phản sáng tối để tách chủ thể chính và điểm nhấn siêu thực khỏi nền.
 
-## 3. Tạo hình nhân vật, Điểm nhấn Trang phục/Tóc/Phụ kiện và Hành động Đời thường
+## 3. Tạo hình nhân vật, điểm nhấn và hành động đời thường
 
-- **Linh hoạt số lượng chủ thể (Từ 0 đến nhiều nhân vật):** Khung hình có thể là cảnh tĩnh vật/kiến trúc/phong cảnh (không có người), cảnh 1 nhân vật, hoặc cảnh nhiều nhân vật tương tác.
-- **Khung DNA chất liệu chung (Khi cảnh có người):** Nhân vật mang tỷ lệ cơ thể thanh mảnh kéo dài (`1:7.5 stylized arthouse proportions, never doll-like`), làn da bột giấy đúc mịn mờ mang sắc da ấm tự nhiên (`natural warm velvety matte molded paper-pulp skin with zero wrinkles`), mái tóc dày bồng bềnh nhiều sợi (`voluminous soft fibrous hair`), dáng điệu tự nhiên và chất vải mờ không đan len thô (`smooth matte clothing with zero chunky knitwear`). Định danh nhân vật bằng hình dáng và độ tuổi ước lượng bằng chữ (`slender young woman`, `compact-shouldered older man`, `taller softly rounded older woman`).
-- **Hành động đời thường bình thản giữa khung cảnh phi lý (`Mundane Action in Surreal Setting`):** Nhân vật luôn thực hiện các hành động sinh hoạt đời thường, quen thuộc và điềm nhiên (`calm, unbothered everyday actions` như uống trà, đọc sách, cắt tóc, may vá, ôm nhau, ghi chép, phơi đồ, trò chuyện nhẹ nhàng), hoàn toàn coi hiện tượng siêu thực xung quanh là điều bình thường của cuộc sống.
-- **Điểm nhấn Thị giác trên Nhân vật (`Character Visual Hook` — Linh hoạt giữa Trang phục, Tóc hoặc Phụ kiện):**
-  - Mỗi nhân vật cần có ít nhất 1 điểm nhấn tạo hình thu hút ánh nhìn, chọn linh hoạt từ một hoặc kết hợp các yếu tố sau tùy theo ngữ cảnh:
-    - **Điểm nhấn trên Trang phục (`Statement Garment`):** Phom dáng trang phục bay bổng (như tà váy dài vải lanh bung rộng trong gió, áo măng-tô dáng dài, tạp dề thợ thủ công, quần yếm vải thô) hoặc mảng màu trang phục tương phản nổi bật trên nền bối cảnh.
-    - **Điểm nhấn ở Mái tóc & Mũ/Kính (`Hair & Headwear`):** Mái tóc sợi dày tạo khối ấn tượng (tóc xoăn xù lớn, tóc bạc pha đen gợn sóng, tóc tết bím dài) đi cùng mũ cói, mũ nồi dạ, khăn trùm đầu hoặc kính gọng mảnh.
-    - **Điểm nhấn Phụ kiện gắn kết (`Storytelling Accessory`):** Phụ kiện mang tính kể chuyện hoặc kết nối tương tác tự nhiên theo đúng tình huống cảnh (dây tai nghe nghe chung, khăn choàng dài, máy ảnh cổ, túi đeo, nhạc cụ, giỏ mây...).
-- **Tả chi tiết nhân vật thích ứng theo Cỡ cảnh (`Scale-Adaptive Character Detail`):**
-  - **Ở cảnh Cận & Cảnh Trung (`Close-up` / `Medium shot`):** Tả rõ đường nét gương mặt cùng điểm nhấn trang phục/tóc/phụ kiện. Khi có từ 2 nhân vật trở lên, thiết kế mỗi người một cấu trúc xương mặt, dáng mũi, cằm và khung vai đối lập rõ rệt.
-  - **Ở Toàn cảnh & Đại cảnh (`Wide` / `Extreme wide shot`):** Tập trung mô tả **phom dáng tổng thể (`silhouette`), chênh lệch chiều cao, mảng màu/chuyển động của trang phục, kiểu tóc/mũ lớn** để máy quay giữ đúng góc rộng, đồng thời giữ lộ rõ trọn vẹn đôi chân dài tỷ lệ `1:7.5` và bàn chân chạm mặt sàn (`with full legs and shoes clearly visible`).
+- **Số lượng chủ thể linh hoạt:** Cảnh có thể không có người (tĩnh vật, phong cảnh, kiến trúc, sinh vật), có 1 người, hoặc nhiều người tương tác.
+- **Khung DNA chất liệu (Khi cảnh có người):** Tỷ lệ cơ thể thanh mảnh kéo dài (`1:7.5 stylized proportions, never doll-like`), da bột giấy đúc mịn mờ màu tự nhiên (`natural warm velvety matte molded paper-pulp skin with zero wrinkles`), tóc dày nhiều sợi (`voluminous soft fibrous hair`), chất vải mờ không đan len thô (`smooth matte clothing with zero chunky knitwear`). Gọi nhân vật bằng hình dáng và độ tuổi ước lượng bằng chữ.
+- **Hành động đời thường bình thản:** Nhân vật thực hiện các cử chỉ, công việc quen thuộc hàng ngày (`calm, unbothered everyday actions`), đón nhận hiện tượng siêu thực xung quanh như điều hiển nhiên.
+- **Điểm nhấn tạo hình trên nhân vật:** Mỗi nhân vật có ít nhất một điểm nhấn thị giác tự nhiên gắn với ngữ cảnh cảnh quay, nằm ở **Trang phục** (phom dáng bay bổng, kiểu đồ đặc trưng hoặc màu sắc tương phản nổi bật trên nền cảnh), **Mái tóc / Mũ / Kính**, hoặc **Phụ kiện kể chuyện**.
+- **Chi tiết nhân vật thích ứng theo cỡ cảnh:**
+  - **Cảnh Cận và Trung (`Close-up` / `Medium`):** Tả rõ đường nét gương mặt cùng điểm nhấn trang phục, tóc hoặc phụ kiện. Khi có từ 2 người trở lên, mỗi người có cấu trúc xương mặt, dáng mũi, cằm và khung vai đối lập nhau.
+  - **Toàn cảnh và Đại cảnh (`Wide` / `Extreme wide`):** Tả phom dáng tổng thể (`silhouette`), chênh lệch chiều cao, mảng màu và chuyển động của trang phục, kiểu tóc để máy quay giữ đúng góc rộng; cảnh toàn thân lộ rõ đôi chân dài tỷ lệ `1:7.5` và bàn chân chạm sàn (`with full legs and shoes clearly visible`).
 
-## 4. Ánh sáng một nguồn thuận tự nhiên và bảng màu
+## 4. Ánh sáng một nguồn và màu sắc
 
-- **Một nguồn sáng vật lý duy nhất (`Single Directional Key Light`):**
-  - Toàn bộ khung hình chỉ dùng **duy nhất 1 nguồn sáng chính chiếu từ 1 hướng cố định**, tạo 1 hướng bóng đổ đồng nhất: phần hướng về nguồn sáng đón sáng trực tiếp, phần khuất sáng chuyển êm vào vùng bóng râm tự nhiên (`casting a single coherent natural shadow toward the unlit side`).
-  - Cảnh ban ngày dùng hoàn toàn ánh nắng mặt trời hoặc ánh sáng trời tự nhiên (kèm khóa `with zero artificial lamps`). Cảnh ban đêm hoặc phòng kín dùng 1 nguồn đèn thực tế chính chiếu từ một hướng cố định.
-- **Màu ánh sáng thuận theo nguồn sáng thực tế:**
-  - Sắc độ vùng sáng (`highlights`) trên da nhân vật, trang phục và bối cảnh đi theo đúng bản chất vật lý của nguồn sáng trong cảnh: nắng ban ngày trong trẻo mang sắc trắng kem ấm (`crisp warm-ivory daylight`); ánh sáng cửa sổ ngày/mùa đông mang sắc trắng dịu tự nhiên (`soft natural window daylight`); hoàng hôn/bình minh mang sắc cam đào/hổ phách; đèn đêm mang sắc vàng ấm; ánh trăng mang sắc bạc xanh dịu.
-  - Bảng màu phân bổ theo tỷ lệ 70-20-10 với độ đậm sắc độ cao (`deep chromatic density`): 70% màu khí quyển và bối cảnh chủ đạo; 20% màu bổ trợ của kiến trúc, đồ vật và trang phục; 10% điểm nhấn màu tương phản và viền sáng tại tâm điểm.
+- **Một nguồn sáng chính duy nhất:** Toàn bộ khung hình chỉ dùng **1 nguồn sáng chính chiếu từ 1 hướng cố định**, tạo 1 hướng bóng đổ đồng nhất: phần đón sáng rõ nét, phần khuất sáng chuyển êm vào vùng bóng râm tự nhiên. Cảnh ban ngày dùng ánh sáng tự nhiên kèm khóa `with zero artificial lamps`; cảnh đêm hoặc phòng kín dùng 1 nguồn đèn chính từ 1 hướng cố định.
+- **Màu ánh sáng đúng với nguồn sáng thực:** Sắc độ vùng sáng (`highlights`) đi theo đúng nguồn sáng trong cảnh (nắng ngày trắng kem ấm, cửa sổ ngày trắng dịu, hoàng hôn cam đào/hổ phách, đèn đêm vàng ấm, ánh trăng bạc xanh) trên nền màu đậm sắc độ (`deep chromatic density`).
 
 ## 5. Cấu trúc Output Text Thuần (Mặc định cho AI Vận Hành)
 
-Khi vận hành thực tế để sinh ảnh, AI xuất trực tiếp **1 đoạn văn tiếng Anh liền mạch (khoảng 110–140 từ)** ghép từ **5 khối câu theo đúng thứ tự cố định** dưới đây:
+Khi vận hành thực tế để sinh ảnh, AI xuất trực tiếp **1 đoạn văn tiếng Anh liền mạch (khoảng 100–135 từ)** ghép từ **5 khối câu theo thứ tự cố định**:
 
 ### 5.1. Khung mẫu Output Text Thuần
 ```text
-Cinematic European arthouse stop-motion animation film still, rich saturated Kodak analog 35mm film color grading with deep chromatic density, vintage lens with natural optical depth of field and crystal-clear air. [Khối 2: Cỡ cảnh & Góc máy + Bối cảnh không gian + Điểm nhấn Môi trường / Siêu thực (theo plugin_surreal_whimsy.md)]. [Khối 3: Chủ thể trung tâm + Phân hóa ngoại hình theo cỡ cảnh + Điểm nhấn Nhân vật (Trang phục / Tóc / Phụ kiện) + Hành động đời thường thản nhiên giữa cảnh phi lý]. [Khối 4: Khóa DNA chất liệu nhân vật và bề mặt thủ công]. [Khối 5: 1 Nguồn sáng duy nhất + Sắc độ thuận nguồn sáng + Hướng bóng đổ đồng nhất]. No text.
+Cinematic European arthouse stop-motion animation film still, rich saturated Kodak analog 35mm film color grading with deep chromatic density, velvety matte surfaces with sfumato soft edges, vintage lens with natural optical depth of field and crystal-clear air. [Khối 2: Cỡ cảnh & Góc máy + Bối cảnh + Yếu tố siêu thực (theo plugin_surreal_whimsy.md)]. [Khối 3: Chủ thể trung tâm + Ngoại hình theo cỡ cảnh + Điểm nhấn (Trang phục / Tóc / Phụ kiện) + Hành động đời thường bình thản]. [Khối 4: Khóa DNA nhân vật (bỏ qua nếu cảnh không có người)]. [Khối 5: 1 Nguồn sáng duy nhất + Màu ánh sáng thuận nguồn sáng + 1 hướng bóng đổ đồng nhất]. No text.
 ```
 
-### 5.2. Giải thích nhiệm vụ từng khối cho AI Vận Hành
-1. **Khối 1 – Mỏ neo Chất phim & Ống kính (Câu 1 cố định):**
-   - Luôn mở đầu nguyên văn: `Cinematic European arthouse stop-motion animation film still, rich saturated Kodak analog 35mm film color grading with deep chromatic density, vintage lens with natural optical depth of field and crystal-clear air.`
-   - Nhiệm vụ: Khóa chất liệu hoạt hình stop-motion nghệ thuật châu Âu, độ đậm màu phim nhựa Kodak 35mm và độ trong của ống kính ngay từ đầu đoạn.
-2. **Khối 2 – Cỡ cảnh, Góc máy, Bối cảnh & Điểm nhấn Siêu thực (Câu 2):**
-   - Mở đầu bằng cỡ cảnh và góc máy chính xác (`Extreme wide landscape shot`, `Wide full-body shot`, `Wide high-angle shot`, `Low-angle wide shot`, `Wide orthographic front-on cross-section`, `Medium-full shot`, `Medium waist-up shot`, `Close-up portrait`, hoặc `Macro extreme close-up shot`).
-   - Mô tả không gian bối cảnh gắn liền với điểm nhấn thị giác / cơ chế siêu thực tham chiếu từ [`craft/plugins/plugin_surreal_whimsy.md`](../craft/plugins/plugin_surreal_whimsy.md).
-3. **Khối 3 – Chủ thể trung tâm, Điểm nhấn Nhân vật & Hành động Đời thường Thản nhiên (Câu 3):**
-   - **Nếu cảnh có nhân vật:** Tả vị trí, ngoại hình thích ứng theo cỡ cảnh (Cận/Trung tả rõ cấu trúc mặt đối lập; Toàn/Rộng tả phom dáng `silhouette` và lộ rõ đôi chân `with full legs and shoes clearly visible`), kết hợp **Điểm nhấn Nhân vật linh hoạt trên Trang phục, Mái tóc hoặc Phụ kiện**, và luôn đặt nhân vật vào **một hành động sinh hoạt đời thường, bình thản (`calm, unbothered everyday action`)** giữa khung cảnh phi lý.
-   - **Nếu cảnh tĩnh vật / phong cảnh không có người:** Mô tả chi tiết kết cấu chất liệu thủ công và chuyển động tương tác giữa sinh vật/đồ vật tại tâm điểm.
-4. **Khối 4 – Khóa DNA chất liệu (Câu 4):**
-   - **Khi cảnh có nhân vật:** `All figures have 1:7.5 stylized proportions (never doll-like), natural warm velvety matte molded paper-pulp skin with zero wrinkles, voluminous soft fibrous hair, and smooth matte clothing with zero chunky knitwear.`
-   - **Khi cảnh không có người:** `All crafted elements feature tactile velvety matte surfaces, finely sculpted miniature textures, and sfumato soft edges with zero plastic sheen.`
-5. **Khối 5 – Nguồn sáng duy nhất, Sắc độ thuận nguồn sáng & Kết câu (Câu 5 + `No text.`):**
-   - Chỉ định **duy nhất 1 nguồn sáng chính chiếu từ 1 hướng cố định** với sắc độ thuận theo đúng thời gian/không gian của cảnh (kèm `with zero artificial lamps` cho cảnh ban ngày).
-   - Nêu rõ phía đón sáng trên chủ thể, trang phục/phụ kiện và tâm điểm môi trường, khóa 1 hướng bóng đổ tự nhiên về phía khuất sáng (`illuminating the [lit side] of [subjects and focal element] while casting a single coherent natural shadow toward the [unlit side] against [background].`). Kết thúc bằng `No text.`
+### 5.2. Nhiệm vụ từng khối
+1. **Khối 1 (Câu 1 cố định):** Sao chép nguyên văn câu mở đầu ở khung mẫu 5.1 để khóa chất phim stop-motion châu Âu, màu Kodak 35mm, bề mặt mịn mờ `sfumato` và độ trong của ống kính ngay từ đầu đoạn.
+2. **Khối 2 (Câu 2):** Mở đầu bằng cỡ cảnh và góc máy chính xác, tiếp nối bằng bối cảnh không gian và yếu tố siêu thực tham chiếu từ [`craft/plugins/plugin_surreal_whimsy.md`](../craft/plugins/plugin_surreal_whimsy.md).
+3. **Khối 3 (Câu 3):** Nếu cảnh có người, tả ngoại hình thích ứng theo cỡ cảnh (cảnh gần tả cấu trúc mặt đối lập; cảnh rộng tả phom dáng `silhouette` và lộ rõ đôi chân), kèm điểm nhấn tự nhiên ở trang phục, tóc hoặc phụ kiện và hành động đời thường bình thản. Nếu cảnh không có người, tả chi tiết hình khối và chuyển động của đồ vật hoặc sinh vật tại tâm điểm.
+4. **Khối 4 (Câu 4 cố định khi có người):** Điền nguyên văn: `All figures have 1:7.5 stylized proportions (never doll-like), natural warm velvety matte molded paper-pulp skin with zero wrinkles, voluminous soft fibrous hair, and smooth matte clothing with zero chunky knitwear.` (Nếu cảnh không có người thì bỏ qua câu này).
+5. **Khối 5 (Câu cuối + `No text.`):** Chỉ định 1 nguồn sáng chính từ 1 hướng cố định với màu sắc đúng nguồn sáng thực tế (thêm `with zero artificial lamps` nếu là ban ngày), nêu rõ phía đón sáng và 1 hướng bóng đổ tự nhiên về phía khuất sáng. Kết thúc bằng `No text.`
 
-## 6. Quy trình tự kiểm tra trước khi xuất Prompt
+## 6. Bảng kiểm trước khi xuất Prompt
 
-Trước khi trả kết quả cho người dùng, AI vận hành tự đối chiếu 6 điểm sau:
-1. **Định dạng đầu ra:** Xuất đúng **Output Text Thuần 5 khối (Mục 5)** theo mặc định; chỉ xuất JSON (Mục 7) khi người dùng yêu cầu đích danh định dạng JSON.
-2. **Bối cảnh Siêu thực & Hành động Đời thường Thản nhiên:**
-   - *Môi trường (Khối 2):* Ứng dụng linh hoạt các cơ chế chất thơ siêu thực từ [`craft/plugins/plugin_surreal_whimsy.md`](../craft/plugins/plugin_surreal_whimsy.md).
-   - *Nhân vật (Khối 3):* Có điểm nhấn tạo hình tự nhiên nằm ở **Trang phục, Mái tóc hoặc Phụ kiện**, và luôn thực hiện **hành động đời thường với tâm thái thản nhiên, bình yên** giữa khung cảnh phi lý.
-3. **Đúng cỡ cảnh và độ chi tiết thích ứng:** Chọn đúng cỡ cảnh/góc máy. Cảnh rộng tả phom dáng (`silhouette`), mảng màu trang phục và lộ rõ đôi chân; cảnh gần tả cấu trúc mặt đối lập và chi tiết chất liệu.
-4. **Một nguồn sáng và đúng sắc độ:** Toàn cảnh có duy nhất 1 nguồn sáng chiếu từ 1 hướng cố định, màu ánh sáng thuận theo nguồn sáng thực tế của cảnh và tạo 1 hướng bóng đổ đồng nhất.
-5. **Tính toàn vẹn tạo hình:** Định danh tuổi bằng chữ, giữ màu da tự nhiên `natural warm velvety matte molded paper-pulp skin`, và lộ trọn đôi chân tỷ lệ `1:7.5` ở các cảnh toàn thân.
-6. **Đủ các cụm khóa kỹ thuật:** Giữ đủ `crystal-clear air` / `zero milky haze`, `with zero artificial lamps` (cho cảnh ban ngày), và `never doll-like`, `zero wrinkles`, `zero chunky knitwear` (khi cảnh có người).
+1. **Định dạng:** Xuất **Output Text Thuần (Mục 5)** theo mặc định; chỉ xuất JSON (Mục 7) khi người dùng yêu cầu rõ định dạng JSON.
+2. **Siêu thực & Đời thường:** Bối cảnh có yếu tố siêu thực theo [`plugin_surreal_whimsy.md`](../craft/plugins/plugin_surreal_whimsy.md); nhân vật có điểm nhấn ở trang phục/tóc/phụ kiện và thực hiện hành động đời thường bình thản.
+3. **Cỡ cảnh & Tạo hình:** Cảnh rộng tả phom dáng (`silhouette`) và lộ rõ đôi chân tỷ lệ `1:7.5`; cảnh gần tả cấu trúc mặt đối lập; định danh tuổi bằng chữ và dùng màu da tự nhiên `natural warm velvety matte molded paper-pulp skin`.
+4. **Ánh sáng:** Duy nhất 1 nguồn sáng từ 1 hướng cố định, màu ánh sáng thuận theo nguồn sáng thực tế và tạo 1 hướng bóng đổ đồng nhất.
+5. **Chốt khóa kỹ thuật:** Đủ `crystal-clear air` / `zero milky haze`, `with zero artificial lamps` (ban ngày), và `never doll-like`, `zero wrinkles`, `zero chunky knitwear` (khi có người).
 
 ---
 

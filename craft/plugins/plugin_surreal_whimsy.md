@@ -10,37 +10,45 @@ v2.0 — Modular Visual Extension
 
 ---
 
-## 🚀 1. BỐN ĐỘNG CƠ SIÊU THỰC (4 SURREAL ENGINES)
+## 🚀 1. NĂM ĐỘNG CƠ SIÊU THỰC (5 SURREAL ENGINES)
 
-Khi một shot cần tạo điểm nhấn thị giác lạ mắt, áp dụng 1 trong 4 công thức sau:
+Khi một shot cần tạo điểm nhấn thị giác lạ mắt, áp dụng 1 trong 5 công thức sau:
 
 ### Động cơ 1: Đảo lộn bối cảnh (Displacement of Intimacy)
 * **Ý niệm:** Đưa đồ vật hoặc hoạt động sinh hoạt ấm cúng đời thường ra đặt giữa thiên nhiên kỳ vĩ, bao la.
 * **Ví dụ:**
-  - Một chiếc giường gỗ trải nệm êm ái treo lơ lửng trên cành cây sồi giữa cánh đồng hoa dại.
-  - Bàn ăn sáng với ấm trà bốc khói đặt cheo leo ngay sát mép vách đá ngắm biển.
-  - Một bồn tắm cổ điển đặt giữa triền đồi ngắm mây trôi.
+  - Một chiếc giường gỗ trải nệm êm ái mở toang vách nhìn ra vực biển mênh mông (`11_ref_open_sea_bedroom`).
+  - Lớp học sàn gỗ cắm cọc giữa biển khơi đón hoàng hôn (`03_ref_ocean_classroom`).
+  - Tiệm đĩa than retro bố trí dưới đáy sâu của hồ bơi cạn gạch men xanh (`14_ref_dry_pool_records`).
 
-### Động cơ 2: Tương tác vĩ mô (Cosmic Scale Interaction)
-* **Ý niệm:** Con người giao tiếp hoặc chỉ huy thiên nhiên bao la như một người bạn tri kỷ, xóa nhòa ranh giới nhỏ bé của con người trước vũ trụ.
+### Động cơ 2: Tương tác vĩ mô & Hoán đổi tỷ lệ (Cosmic Scale & Macro Discrepancy)
+* **Ý niệm:** Xóa nhòa ranh giới giữa con người tí hon và thiên nhiên bao la; hoặc hoán đổi tỷ lệ macro giữa sinh vật đời thực và nhân vật sa bàn.
 * **Ví dụ:**
-  - Một ông già đứng trên bệ đá ven biển, cầm chiếc que nhỏ vung tay chỉ huy từng đợt sóng vỗ như một nhạc trưởng điều khiển dàn giao hưởng.
+  - Con chim mòng biển khổng lồ to bằng thân người đậu trên ghế làm mẫu vẽ cho nữ họa sĩ tí hon (`20_ref_terrace_seagull_painter`).
   - Đôi bạn già ngồi vắt vẻo trên những cọc gỗ cắm giữa biển khơi, im lặng ngắm chân trời như bầy hải âu.
-  - Một người ôm chiếc thang gỗ ngắm trăng như thể chuẩn bị trèo lên bầu trời.
+  - Một ông già đứng trên bệ đá ven biển, cầm chiếc que nhỏ vung tay chỉ huy từng đợt sóng vỗ như một nhạc trưởng điều khiển dàn giao hưởng.
 
 ### Động cơ 3: Thản nhiên giữa phi lý (Unbothered Absurdism)
-* **Ý niệm:** Thực hiện một hành vi đời thường, tĩnh lặng trong một hoàn cảnh phi lý nhưng với tâm thái an nhiên tuyệt đối.
+* **Ý niệm:** Thực hiện một hành vi đời thường, tĩnh lặng trong một hoàn cảnh phi lý hoặc thời tiết khắc nghiệt nhưng với tâm thái an nhiên tuyệt đối.
 * **Ví dụ:**
-  - Hai người ngồi ghế xếp gỗ ngâm chân dưới làn sóng biển dập dềnh, thong thả mở tờ báo buổi sáng ra đọc.
-  - Một người thợ mộc ngồi mài dũa chiếc thuyền gỗ tí hon ngay trên mỏm đá giữa biển khi thủy triều đang lên.
-  - Uống cà phê giữa một dòng suối cạn chảy qua rừng.
+  - Bữa tiệc dạ hội trang trọng diễn ra dưới mưa rào trên sân thượng ngập nước, thực khách dùng bữa điềm nhiên dưới những chiếc ô lơ lửng (`08_ref_rainy_rooftop_umbrellas`).
+  - Viên thư ký mũi nhọn mẫn cán ngồi đóng dấu tài liệu bên khung cửa sổ nhìn thẳng ra tâm bão biển cuộn sóng (`16_ref_stormy_sea_clerk`).
+  - Cụ bà thong thả uống trà trong hang đá ẩm ướt với bầy cua lân tinh quây quần dưới chân (`05_ref_cave_teatime_crabs`).
 
 ### Động cơ 4: Phương tiện hoài niệm tí hon (Whimsical Retro Vehicles)
 * **Ý niệm:** Những phương tiện giao thông cổ điển, nhỏ nhắn lướt qua bối cảnh thiên nhiên rộng mở, mang lại cảm giác tự do và nụ cười ấm áp.
 * **Ví dụ:**
+  - Chiếc xe buýt retro cũ kỹ chạy qua sa mạc muối trắng muốt, neo giữ một đám mây bông gòn trên mui làm dù che nắng (`06_ref_desert_cloud_bus`).
   - Chiếc xe máy Vespa cổ màu pastel chở đôi bạn già, giỏ xe chở chú cún nhỏ thò đầu đón gió, chiếc khăn lụa bay phấp phới ven đường bờ biển.
-  - Chiếc xe hơi Fiat 500 màu vàng chất đầy vali hành lý trên nóc, chạy chầm chậm qua khúc cua lưng chừng đồi.
   - Đôi xe đạp cổ gắn chùm bóng bay lướt song song bên bờ kè đá lúc hoàng hôn buông.
+
+### Động cơ 5: Vật chất hóa điều kỳ ảo & Chuyển hóa chất liệu (Tangible Metaphor & Matter Metamorphosis)
+* **Ý niệm:** Biến hiện tượng thiên nhiên vô hình (mây trời, gió, ánh sáng) thành vật chất thủ công hữu hình có thể cầm nắm, chứa đựng; hoặc chuyển hóa vật chất đời thường thành sinh vật sống mà không dùng hiệu ứng kỹ xảo số (anti-CGI glow).
+* **Ví dụ:**
+  - Mây trời được làm bằng bông gòn sợi thô, được đóng vào các lọ thủy tinh nút bấc xếp trên kệ tiệm thuốc cổ (`17_ref_apothecary_cloud_jars`).
+  - Những sợi tóc bạc rụng xuống từ chiếc kéo của người thợ cắt tóc lập tức hóa thành đàn bồ câu trắng bay qua khung cửa sổ mùa đông (`07_ref_barber_dove_hair`).
+  - Tấm bản đồ hàng hải bằng giấy da mọc lên núi non đắp nổi bằng đất sét 3D và có thuyền buồm gỗ nhỏ thả neo trong vịnh (`09_ref_map_cartographer`).
+  - Hành khách ôm những chú hải âu ngủ say bọc khăn len ấm áp, lông vũ tỏa ánh sáng mộc từ bóng đèn dây tóc giấu bên trong (`01_ref_tram_seagull`).
 
 ---
 

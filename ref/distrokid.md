@@ -26,7 +26,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
 | A Place Back Home | 2 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
-| Kettle & Light | 3 | Americana Country-Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
+| Kettle & Light | 5 | Americana & Scottish Borders Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
 
 ---
 
@@ -46,10 +46,10 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
-| Silver & Silk | 3 | High-Fashion Blues-Pop · Dark Tribal Pop · Female Power | 🔒 KHÓA (`🔴 unreleased archive`) |
-| Still Water | 3 | Indie Folk Ballad · Lo-Fi Nocturnal Folk · Porch Reflections | 🔒 KHÓA (`🔴 unreleased archive`) |
-| The Mended Thread | 3 | Indie Folk Ballad · Chamber Pop Waltz · Handcrafted Warmth | 🔒 KHÓA (`🔴 unreleased archive`) |
-| The Resonance | 2 | Gospel Folk-Rock · Soul-Inflected Indie Rock · Choir | 🔒 KHÓA (`🔴 unreleased archive`) |
+| Silver & Silk | 3 | High-Fashion Blues-Pop · Dark Tribal Pop · Female Power | 🔒 KHÓA (`🟢 released`) |
+| Still Water | 3 | Indie Folk Ballad · Lo-Fi Nocturnal Folk · Porch Reflections | 🔒 KHÓA (`🟢 released`) |
+| The Mended Thread | 3 | Indie Folk Ballad · Chamber Pop Waltz · Handcrafted Warmth | 🔒 KHÓA (`🟢 released`) |
+| The Resonance | 2 | Gospel Folk-Rock · Soul-Inflected Indie Rock · Choir | 🔒 KHÓA (`🟢 released`) |
 | Empty Stage | 3 | Indie Folk · Americana · Void Stage Trilogy | 🔒 KHÓA (`🟢 released`) |
 | Passing Cloud | 3 | Cinematic Folk-Pop · Stomp-Clap Anthem · Healing | 🔒 KHÓA (`🟢 released`) |
 
@@ -380,7 +380,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 **Mood:** Peaceful, tender, heartwarming, unhurried sanctuary, lifelong companionship  
 **Signature Sound:** Fingerpicked acoustic guitar, subtle upright bass, soft pedal steel swells, warm soaring fiddle, lived-in warm baritone, 68–72 BPM  
 **Cultural Anchors:** John Prine, Guy Clark, Townes Van Zandt, Gregory Alan Isakov  
-**Tracks:** 3 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
+**Tracks:** 5 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
 
 ### 1. Learning to Sit Still
 - **Project:** [020](file:///Users/hoangkien/Youtube/coslient-free/projects/020)
@@ -418,9 +418,35 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Cultural Anchor:** Romantic autumn walk home × Playful enduring marriage
 - **Date Added:** 2026-10-08
 
+### 4. The Sheep Stand Still
+- **Project:** [022](file:///Users/hoangkien/Youtube/coslient-free/projects/022) (Track 1)
+- **About:** Bác chăn cừu già cùng cô chó border collie trung thành dẫn 4 chú cún con đưa đàn lên đồi. Nửa đường mỏi gối đứng nghỉ, cô cừu đầu đàn đeo chuông đồng dừng cả đàn đứng yên kiên nhẫn đợi hai bạn già bắt kịp
+- **Genre:** Scottish Borders folk ballad, gentle acoustic, traditional ballad
+- **BPM / Time:** 68 BPM, 4/4 unhurried walking tempo
+- **Key:** D Major
+- **Duration:** ~4:00
+- **Instrumentation:** Warm fingerpicked acoustic guitar, wooden cello, subtle weeping fiddle, low wooden flute / tin whistle, soft sheep bell accents
+- **Vocal:** Weathered lived-in male baritone, quiet conversational delivery, unhurried Scottish Borders folk tone
+- **Cultural Anchor:** Dick Gaughan, Archie Fisher, Scottish Borders hill farming ballads
+- **Date Added:** 2026-10-11
+
+### 5. On My Left Side
+- **Project:** [022](file:///Users/hoangkien/Youtube/coslient-free/projects/022) (Track 2)
+- **About:** Buổi chiều lùa cừu về chuồng trong ráng hoàng hôn, lũ cún con lùa cừu thành vòng tròn méo mó vụng về rồi chạy vào hốc thỏ. Chó già không còn chạy mép đồi nữa mà đi sát ống quần bên trái của bác, về đến bếp lò cùng ngồi nghỉ bình yên
+- **Genre:** Scottish Borders folk ballad, gentle acoustic, traditional ballad
+- **BPM / Time:** 64 BPM, 4/4 slow evening walk
+- **Key:** G Major
+- **Duration:** ~4:00
+- **Instrumentation:** Warm acoustic guitar strumming, soaring expressive fiddle, mellow wooden cello, subtle tin whistle counter-melody
+- **Vocal:** Weathered warm male baritone, conversational singing, affectionate tender delivery
+- **Cultural Anchor:** Lifelong companionship between hill shepherd and faithful border collie
+- **Date Added:** 2026-10-11
+
 ---
 
-## 🔴 Silver & Silk [unreleased] — 3 tracks
+## 🟢 Silver & Silk [released] — 3 tracks
+
+**Released:** 2026-10-12
 
 **Genre / Vibe:** High-Fashion Blues-Pop, Dark Tribal Pop, Theatrical Folk Anthem  
 **Mood:** Defiant, swaggering, triumphant, ritualistic, sovereign, unapologetic  
@@ -466,7 +492,9 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Still Water [unreleased] — 3 tracks
+## 🟢 Still Water [released] — 3 tracks
+
+**Released:** 2026-10-12
 
 **Genre / Vibe:** Indie Folk Ballad, Lo-Fi Nocturnal Folk, Intimate Porch Reflections  
 **Mood:** Peaceful, contemplative, nostalgic, grateful, hazy midnight warmth  
@@ -512,7 +540,9 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 The Mended Thread [unreleased] — 3 tracks
+## 🟢 The Mended Thread [released] — 3 tracks
+
+**Released:** 2026-10-12
 
 **Genre / Vibe:** Indie Folk Ballad, Chamber Pop Waltz, Handcrafted Warmth  
 **Mood:** Tender, nostalgic, cozy, domestic, intimate, serene  
@@ -558,7 +588,9 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 The Resonance [unreleased] — 2 tracks
+## 🟢 The Resonance [released] — 2 tracks
+
+**Released:** 2026-10-12
 
 **Genre / Vibe:** Gospel Folk-Rock, Soul-Inflected Indie Rock, Anthemic Choir  
 **Mood:** Soulful, expansive, triumphant, reverent, celebratory, radiant  

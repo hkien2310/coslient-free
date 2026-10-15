@@ -12,6 +12,7 @@ Tuyệt đối không dùng các từ đao to búa lớn, sáo rỗng vô hồn 
 | **AI Slop đao to búa lớn** | `whisper(s)`, `echo(es)`, `symphony`, `tapestry`, `endless`, `eternity`, `ignite`, `unravel`, `entwined`, `breathless`, `rise from ashes`, `wings to fly`, `celestial`, `abyss`, `gravity`, `constellations` | Từ ngữ thi vị hóa sáo rỗng, thiếu xúc giác đời thường. Thay bằng âm thanh, hình ảnh và hành động vật lý thật. |
 | **Melodrama than khóc** | `agony`, `weeping`, `tears fall`, `shattered heart`, `sorrow`, `drowning in pain`, `broken pieces`, `aching soul` | Kể lể bi lụy rẻ tiền. Âm nhạc Coslient là sự an yên, ấm áp, hoài niệm có nụ cười hoặc sự chấp nhận thanh thản. |
 | **Trope lên lớp giảng đạo** | `you must learn to...`, `you don't have to carry the world...`, `let the heavy go`, `drop the armor`, `just breathe`, `nothing broken, nothing lost` | Biến bài hát thành buổi tham vấn tâm lý hoặc bài học đạo đức gượng ép. Để đồ vật và hành động tự nói lên cảm xúc. |
+| **Con số & Định lượng thời gian công thức** | `forty years`, `fifty years`, `thirty years`, `[N] years`, `[N] năm`, năm cụ thể (`nineteen-eighty-nine`...) | Lối viết khuôn mẫu, lười biếng của AI để đong đếm tuổi già/thời gian. Cấm đưa các con số năm tháng tùy tiện vào lời. Thay bằng biểu hiện vật lý thực tế: nước gỗ ngả sẫm, gót ủng mòn vẹt, nếp gấp vải lanh đổi màu, thúng táo qua bao mùa gặt. |
 
 ---
 

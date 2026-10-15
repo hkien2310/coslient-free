@@ -1,38 +1,29 @@
-# 💡 IDEA CRAFT — QUY CHUẨN Ý TƯỞNG COSLIENT FREE
-v5.0 — Ponytail Montage Edition: Chốn An Trú & Móc Neo Ký Ức
+# Idea craft
 
-> **Kim chỉ nam:** Ý tưởng không phải là một kịch bản drama hay một gia phả nhân vật. Ý tưởng là **MỘT KHÔNG GIAN BÌNH YÊN** để người nghe trút bỏ mệt mỏi và an lòng đi ngủ.
+> 🔒 **QUY TẮC CHỈNH SỬA TÀI LIỆU NÀY:**
+> 1. Không liệt kê lẻ tẻ sự vật sự kiện.
+> 2. Không dùng phủ định.
+> 3. Tuyệt đối không viết Use Case mà phải đúc kết thành Rule.
 
----
+## Nguyên tắc cốt lõi
 
-## 1. NGUYÊN TẮC CỐT LÕI (PONYTAIL)
-* **Tuyệt đối không ép nhân vật cố định:** Không tạo gia phả 3 thế hệ, không bắt buộc phải có ông A, bà B, chú chó X cố định từ đầu đến cuối. Nếu có con người, họ chỉ là những lát cắt bình dị thoáng qua của không gian đó (bóng lưng, đôi bàn tay, người phơi áo, người gọt táo...).
-* **Không lập kịch bản sự kiện/drama:** Khán giả 45–85+ tìm đến để an trú, không xem phim kịch tính Hollywood.
-* **Móc neo giác quan đời thực (Sensory Anchors):** Cảm xúc không thể lơ lửng vô hình. Bắt buộc phải gắn với 2–3 chi tiết vật lý có thật để AI không sinh rác trừu tượng: vé xe buýt nhàu trong túi áo, cát dính gót giày, tiếng còi phà, mùi cỏ vừa cắt, kẹo bông dính ngón tay.
-* **Chống lặp không gian:** Trước khi viết, đọc `1-idea.md` của 3 project gần nhất. Không gian mới phải khác loại (trong nhà ↔ ngoài trời, tĩnh ↔ đông người, mưa ↔ nắng/gió). Combo mặc định **mưa + cửa kính + tách cà phê/ấm nước + bếp/quán nhỏ** bị cấm trừ khi câu chuyện bắt buộc.
-* **Không khởi động lạnh (Warm Start Only — Bảo vệ Retention):** Tuyệt đối không mở đầu bằng câu chuyện buồn, bi kịch, chia cách, cãi vã hay không khí nặng nề nguội lạnh để "cố tạo tương phản". Khán giả 45–85+ tìm đến để an trú: 30 giây đầu tiên quyết định retention, phải luôn đón người nghe bằng sự ấm áp, cảm giác an toàn, một nụ cười hoặc tò mò tích cực ngay từ giây thứ 0. Chiêm nghiệm sâu sắc hay vết xước cuộc đời chỉ mở ra sau khi người nghe đã thấy an lòng.
+1. **Khởi nguồn từ cảm xúc phổ quát:** Mỗi ý tưởng bắt đầu từ một trạng thái cảm xúc hoặc sự thấu hiểu đời sống ở tuổi trung niên và cao tuổi. Cảm xúc có độ mở đủ lớn để chạm tới trải nghiệm chung của nhiều người ở nhiều hoàn cảnh sống.
+2. **Cấu trúc câu chuyện đa lát cắt:** Câu chuyện đóng vai trò trục tâm lý chung. Hình ảnh và bối cảnh là những lát cắt đời sống độc lập cùng soi chiếu vào trục cảm xúc đó, cho phép thay đổi nhân vật và không gian tự nhiên xuyên suốt video.
+3. **Khởi động ấm áp (Warm Start):** Mở đầu ý tưởng và 30 giây đầu tiên của bài hát bằng cảm giác an toàn, sự ấm lòng, nụ cười hoặc niềm vui bình dị trước khi đi vào chiều sâu chiêm nghiệm.
+4. **Cụ thể hóa bằng cử chỉ vật lý:** Mọi cảm xúc đều được chuyển hóa thành hành động, tương tác đời thường và dấu vết hữu hình của thời gian để làm chất liệu cho ca từ và hình ảnh.
+5. **Đa dạng hóa bối cảnh giữa các dự án:** Đối chiếu `1-idea.md` của 3 dự án liền kề để luân chuyển màu sắc cảm xúc, thời tiết và biên độ không gian.
 
----
+## Cấu trúc file `1-idea.md`
 
-## 2. CẤU TRÚC FILE `1-idea.md` (ĐÚNG 4 GẠCH ĐẦU DÒNG)
-
-File `projects/XXX/1-idea.md` chỉ cần đúng 4 thành phần sau:
+File `projects/XXX/1-idea.md` gồm 4 thành phần:
 
 ```markdown
-# [MÃ PROJECT]: [TÊN KHÔNG GIAN / Ý TƯỞNG]
+# [MÃ PROJECT]: [TÊN Ý TƯỞNG]
 
-- Không gian: [Mô tả không gian trong 1 câu — vd: Thị trấn ven biển những ngày cuối thu, đường lát đá dốc thoai thoải]
-- Cảm xúc: [Nhu cầu cảm xúc cốt lõi — vd: Bình yên, buông bỏ áp lực, cảm giác an toàn sau một ngày dài mệt mỏi]
-- Móc neo giác quan: [2–3 chi tiết xúc giác/âm thanh/mùi vị có thật — vd: Mùi bánh nướng, ngọn hải đăng xa, tiếng chuông gió hiên nhà]
-- Câu chốt: [1 câu tiếng Việt gói trọn idea, làm kim chỉ nam cho nhạc, ảnh và chuyển động. KHÔNG phải lời hát — vd: "Nghỉ hưu rồi mới học được cách ngồi yên bên vợ mà không thấy có lỗi."]
+- Cảm xúc cốt lõi: [Trạng thái tình cảm chủ đạo và nhu cầu an trú tâm hồn của người nghe, bắt đầu từ sự ấm áp]
+- Câu chuyện & Lát cắt: [Mạch chuyện chung có độ mở rộng để nhiều nhân vật và bối cảnh khác nhau cùng phản chiếu]
+- Móc neo giác quan: [2–3 cử chỉ tương tác hoặc dấu vết vật lý đời thực thể hiện trực tiếp cảm xúc cốt lõi]
+- Câu chốt: [1 câu tiếng Việt gói trọn nghiệm sinh của ý tưởng, làm hạt nhân cho câu Hook chính của bài hát và kim chỉ nam cho toàn bộ khâu sản xuất]
 ```
 
-*Câu chốt là kim chỉ nam của idea, là hạt nhân sinh ra **Hook chính** của bài hát. Móc neo giác quan là chất liệu sinh ra các **Mini-hook**. Mọi bước sau (lời, ảnh, animate) đều đối chiếu với câu này: chi tiết nào không phục vụ nó thì cắt. Test: che hết phần còn lại, chỉ đọc câu chốt, vẫn biết video kể chuyện gì và muốn nói gì.*
-
----
-
-## 3. CHECK ĐẠT / TRƯỢT TRONG 5 GIÂY
-* [ ] Có bị dính bẫy drama/kịch tính/gia phả nhân vật không? *(Nếu có: XÓA NGAY).*
-* [ ] Có bị khởi động lạnh/buồn/nặng nề tụt mood 30s đầu không? *(Nếu có: đổi sang mở đầu ấm áp ngay).*
-* [ ] Đã có ít nhất 2 chi tiết vật lý đời thực chạm vào giác quan chưa? *(Chất liệu cho Mini-hook).*
-* [ ] Kể lại cả video trong 1 câu được chưa? *(Hạt nhân cho Hook chính của bài hát).*
+Khi dự án có 2 bài hát, phần định hướng 2 track chia theo hai góc nhìn hoặc hai cung bậc của cùng một mạch cảm xúc.

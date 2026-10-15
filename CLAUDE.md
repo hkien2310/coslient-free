@@ -19,32 +19,33 @@
 ## 2. WORKFLOW LÀM VIỆC (QUY TRÌNH MONTAGE 4 BƯỚC — PONYTAIL)
 Mỗi project = 1 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** Đúng 4 gạch đầu dòng: Không gian + Cảm xúc cốt lõi + 2–3 Móc neo giác quan đời thực + Câu chốt (1 câu tiếng Việt gói trọn idea, kim chỉ nam cho mọi bước sau) (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)). Tuyệt đối không ép nhân vật cố định, không tạo gia phả hay kịch bản biến cố.
+1. **Idea (`1-idea.md`):** Đúng 4 gạch đầu dòng: Cảm xúc cốt lõi + Câu chuyện & Lát cắt + 2–3 Móc neo giác quan đời thực + Câu chốt (1 câu tiếng Việt gói trọn idea, kim chỉ nam cho mọi bước sau) (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)).
 2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát Folk & xuất lời sạch DistroKid (tuân thủ [`craft/music_craft.md`](./craft/music_craft.md)).
    * *Bộ lọc Anti-Slop:* Diệt triệt để từ ngữ trừu tượng vô hồn, nhưng **tôn trọng cổ mẫu và móc neo giác quan đời thực**.
    * *Trích xuất mốc thời gian:* Sau khi có file audio `.wav` và `3-lyrics.txt`, chạy:
      `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav>`
      để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, khớp từng câu hát).
-3. **Visual Pool (`image.json`):** 
-   * **BẮT BUỘC ĐỌC TRƯỚC:** Rà soát ngay file phong cách tương ứng trong `style/` (ví dụ [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md)) để áp dụng đúng cấu trúc JSON 4 khối chuẩn mực.
-   * Dựa trên không gian ở `1-idea.md` và phong cách trong `style/`, viết trực tiếp danh sách prompt ảnh độc lập (mỗi prompt là một JSON Object) vào `image.json` (tuân thủ nghiêm ngặt **nguyên tắc tranh khảm lát cắt (The Mosaic Principle)**, **7 trục đa dạng hóa** và diệt 3 bẫy cứng trong [`craft/visual_craft.md`](./craft/visual_craft.md)).
-   * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh. Hoàn toàn không qua bảng storyboard trung gian.
+3. **Visual Pool (`image-index.md` & `image.json`):** 
+   * **BẮT BUỘC ĐỌC TRƯỚC:** Rà soát [`ref/image-index.md`](./ref/image-index.md), file `image-index.md` của track hiện tại (nếu đang viết tiếp batch) và file phong cách tương ứng trong `style/` (ví dụ [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md)).
+   * Dựa trên mạch cảm xúc ở `1-idea.md` cùng phong cách trong `style/`, viết danh sách prompt ảnh độc lập vào `image.json` (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)), đồng thời **cập nhật song song vào `image-index.md` (1 dòng tóm tắt / 1 cảnh: `ID | Cỡ cảnh & Không gian/Thời gian | Bảng màu (70% Nền - 10% Điểm nổ) | Nhân vật & Tương phản hình khối | Ý niệm Thơ ca (Focal Twist) & Chuyển động bắt dính`)** để kiểm soát độ đẹp và sự đa dạng liên tục mà không cần đọc lại hàng nghìn dòng JSON.
+   * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh.
 4. **Montage & Animation (`prompt-animate.txt`):**
    * *Phòng dựng tự do (Montage):* Thả nhạc và kho ảnh vào timeline (Premiere/CapCut/DaVinci), ghép ảnh theo nhịp nhạc (`timestamps.txt`) bằng rung cảm trực tiếp. Tự do quyết định nhịp cắt và sự va chạm hình ảnh (juxtaposition).
-   * *Chuyển động video:* Với các ảnh đã được chọn trên timeline, viết prompt chuyển động vào `prompt-animate.txt` (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)) để đưa vào tool render video.
+   * *Chuyển động video:* Với các ảnh đã được chọn trên timeline, tra cứu `image-index.md` và viết prompt chuyển động vào `prompt-animate.txt` (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)) để đưa vào tool render video.
 
 ---
 
 ## 3. QUY CHUẨN THƯ MỤC (`projects/XXX/` hoặc `projects-<tên>/XXX/`)
-Chỉ chứa các file thực tế được tool và phòng dựng sử dụng. Tuyệt đối không tạo file trung gian thừa (`storyboard.md`, `character.txt`):
+Chỉ chứa các file thực tế được tool và phòng dựng sử dụng:
 
 ```text
 projects/XXX/
-├── 1-idea.md              (3 dòng không gian & cảm xúc)
+├── 1-idea.md              (4 dòng cảm xúc, câu chuyện lát cắt, móc neo & câu chốt)
 ├── 2-music.md             (Ý tưởng phối âm & Suno prompt)
 ├── 3-lyrics.txt           (Lời sạch DistroKid)
 ├── <audio>.wav            (File âm thanh master)
 ├── timestamps.json, timestamps.txt, lyrics.srt (Bộ mốc thời gian)
+├── image-index.md         (Bản đồ tóm tắt 1 dòng/cảnh để kiểm soát đa dạng & tra cứu nhanh)
 ├── image.json             (Kho prompts ảnh JSON độc lập)
 ├── prompt-animate.txt     (Kho prompts chuyển động cho tool video)
 ├── 6-seo.md               (Tiêu đề, mô tả YouTube)
@@ -63,6 +64,7 @@ Khi một Project phát triển từ **2 bài hát trở lên**:
   │   ├── <audio>.wav
   │   ├── timestamps.json, timestamps.txt, lyrics.srt
   │   ├── 3-lyrics.txt
+  │   ├── image-index.md     (bản đồ tóm tắt 1 dòng/cảnh của track)
   │   ├── image.json         (prompts ảnh JSON riêng theo style)
   │   ├── prompt-animate.txt (prompts chuyển động riêng)
   │   └── 6-seo.md
@@ -72,10 +74,20 @@ Khi một Project phát triển từ **2 bài hát trở lên**:
 
 ---
 
-## 4. NGUYÊN TẮC PONYTAIL (BẮT BUỘC)
-Bắt buộc áp dụng tư duy [ponytail](file:///Users/hoangkien/.gemini/config/skills/ponytail/SKILL.md) xuyên suốt toàn bộ dự án:
-* **YAGNI & Tối giản:** Không sinh thêm file, abstraction hay prompt thừa thãi. Giải pháp ít bước nhất, ngắn nhất là giải pháp thắng.
+## 4. NGUYÊN TẮC PONYTAIL & HUMANIZER (BẮT BUỘC TOÀN DỰ ÁN)
+Bắt buộc kích hoạt và tuân thủ 2 kỹ năng cốt lõi trên mọi tác vụ:
+
+### 4.1. Ponytail (`/ponytail` — Lazy Senior Dev Mode):
+Áp dụng tư duy [ponytail](file:///Users/hoangkien/.gemini/config/skills/ponytail/SKILL.md) trên toàn bộ code, script, cấu trúc thư mục, quy trình và prompt:
+* **YAGNI & Tối giản tuyệt đối:** Không sinh thêm file, abstraction hay prompt thừa thãi. Giải pháp ít bước nhất, ít file nhất, diff ngắn nhất là giải pháp thắng.
+* **Xóa bỏ thay vì thêm mới:** Boring over clever, deletion over addition.
 * **Dọn dẹp định kỳ:** Sử dụng `/ponytail-audit` và `/ponytail-review` để rà soát và triệt tiêu phình to dự án.
+
+### 4.2. Humanizer (`/humanizer` — Diệt Triệt Để Văn Phong AI):
+Áp dụng tư duy [humanizer](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/humanizer/SKILL.md) trên toàn bộ văn bản (ý tưởng, tài liệu, kịch bản, lời bài hát, mô tả SEO, câu trả lời):
+* **Xóa bỏ 25 dấu hiệu AI (AI tells):** Không dùng cấu trúc tương phản sáo rỗng (*not X but Y*), không dùng câu chốt đao to búa lớn một dòng, không dùng bộ 3 ép buộc (*forced triads*), không lạm dụng dấu gạch ngang (—), không dùng văn phong bán hàng/quảng cáo.
+* **Diệt danh sách từ AI slop:** Cấm tuyệt đối các từ trừu tượng vô hồn (`tapestry`, `whispers`, `testament`, `vibrant`, `beacon`, `interplay`, `delve`, `landscape`...).
+* **Giọng văn con người:** Luôn neo vào giác quan vật lý có thật, câu từ tự nhiên, có nhịp thở, độ dài câu luân chuyển tự nhiên như người thật trò chuyện.
 
 ---
 

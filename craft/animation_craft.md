@@ -16,6 +16,11 @@ v6.0 — The Living Surreal World Architecture (Optimized for Veo 3 / VideoFX & 
   * Dùng: `two people`, `the young man`, `the woman`, `the couple`, `the barn owl`, `the tea master`.
   * AI Video được huấn luyện trên hàng triệu video người thật. Khi nghe từ `two people`, nó lập tức nạp toàn bộ **tri thức động học cơ thể người (Human Biomechanics)**: bước đi uyển chuyển, vung tay tự nhiên, cơ mặt biểu cảm sinh động!
 
+### ❌ Cái bẫy "Ánh sáng siêu thực" (The Tacky Glow Trap — "Phèn Chúa"):
+* Nếu trong prompt animation xuất hiện: `glowing light, magical sparks, luminous trail, glowing footprints, fairy dust, aura`:
+  * AI Video sẽ lập tức chèn các hiệu ứng hạt CGI neon, tia sáng hoạt hình rẻ tiền, phá tan chất liệu điện ảnh thủ công hữu cơ.
+* **Quy tắc thép:** CẤM TUYỆT ĐỐI mô tả ánh sáng phát quang hay vệt sáng thần tiên. Chuyển động video chỉ tập trung vào **động học cơ thể tự nhiên** (`walking, stroking, turning, sniffing, resting`) và **chuyển động camera lướt êm ái**.
+
 ---
 
 ## 2. CÂU THẦN CHÚ KHÓA ĐẦU BẤT BIẾN: `Alive Surreal World`
