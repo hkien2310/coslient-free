@@ -1,9 +1,11 @@
 # 🌿 COSLIENT FREE (V2 — KỶ NGUYÊN SỐNG ĐỘNG)
 
-> 🔒 **PHÂN KỲ KHO DỮ LIỆU:**
-> - **Coslient Video:** ĐÃ KHÓA (Season trước / Legacy archive).
-> - **Coslient Free V1 (Projects 001–017):** ĐÃ KHÓA (giai đoạn cũ).
-> - **Coslient Free V2 (Active):** Khởi động từ **Project 018** trở đi. Định hướng: Thế giới sống động, nhân vật sinh hoạt tự nhiên, chuyển động sinh học mượt mà (không stopmotion con rối).
+> 🔒 **GHI CHÚ CỐ ĐỊNH — CHỨC NĂNG FILE & PHÂN KỲ KHO DỮ LIỆU (TUYỆT ĐỐI KHÔNG CHỈNH SỬA / XÓA MỤC NÀY):**
+> - **Chức năng duy nhất của `CLAUDE.md`:** Là bản đồ điều phối trung tâm của dự án, quy định định vị kênh, trình tự các bước sản xuất, danh mục file chuẩn trong thư mục dự án và các nguyên tắc vận hành cốt lõi (`/ponytail`, `/humanizer`, `adversarial-verifier`, Git branch). Mọi quy tắc chuyên sâu của từng khâu đều nằm độc lập trong thư mục `craft/` và `style/`; file này chỉ điều hướng, không sao chép lặp lại quy tắc chi tiết của các file con.
+> - **Phân kỳ kho dữ liệu:**
+>   - **Coslient Video:** ĐÃ KHÓA (Season trước / Legacy archive).
+>   - **Coslient Free V1 (Projects 001–017):** ĐÃ KHÓA (giai đoạn cũ).
+>   - **Coslient Free V2 (Active):** Khởi động từ **Project 018** trở đi. Định hướng: Thế giới giàu chất thơ đời thường, nhân vật có hồn, bố cục điện ảnh thoáng rộng và chuyển động I2V tự nhiên mượt mà.
 
 ## 1. ĐỊNH VỊ KÊNH
 * **Khán giả mục tiêu:** Người nghe 45–85+ (Trung niên & Cao tuổi, người tìm kiếm sự an ủi, hồi ức và chốn nương náu tâm hồn).
@@ -16,22 +18,26 @@
 
 ---
 
-## 2. WORKFLOW LÀM VIỆC (QUY TRÌNH MONTAGE 4 BƯỚC — PONYTAIL)
-Mỗi project = 1 video hoàn chỉnh:
+## 2. WORKFLOW LÀM VIỆC (QUY TRÌNH 6 BƯỚC — PONYTAIL)
+Mỗi project = 1 hoặc 2 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** Đúng 4 gạch đầu dòng: Cảm xúc cốt lõi + Câu chuyện & Lát cắt + 2–3 Móc neo giác quan đời thực + Câu chốt (1 câu tiếng Việt gói trọn idea, kim chỉ nam cho mọi bước sau) (tuân thủ [`craft/idea_craft.md`](./craft/idea_craft.md)).
-2. **Music (`2-music.md` & `3-lyrics.txt`):** Sáng tác bài hát Folk & xuất lời sạch DistroKid (tuân thủ [`craft/music_craft.md`](./craft/music_craft.md)).
-   * *Bộ lọc Anti-Slop:* Diệt triệt để từ ngữ trừu tượng vô hồn, nhưng **tôn trọng cổ mẫu và móc neo giác quan đời thực**.
+1. **Idea (`1-idea.md`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/idea_craft.md`](./craft/idea_craft.md) và `1-idea.md` của 3 dự án liền kề. Viết đúng 4 gạch đầu dòng: Cảm xúc cốt lõi + Trục câu chuyện & Lát cắt (chốt rõ **Chế độ 1 — Kể chuyện Cá nhân** hoặc **Chế độ 2 — Ý niệm / Đa diện 100% Lát cắt**) + 2–3 Móc neo giác quan đời thực + Câu chốt (1 câu tiếng Việt gói trọn idea, kim chỉ nam cho mọi bước sau).
+   * *Nghiên cứu ký ức thực tế (Tùy chọn `last30days`):* Khi làm chủ đề theo mùa/dịp lễ hoặc cần chất liệu mới, dùng `last30days` quét các cộng đồng người lớn tuổi để lấy kỷ niệm và chi tiết xúc giác đời thực.
+2. **Music (`2-music.md` & `3-lyrics.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/music_craft.md`](./craft/music_craft.md), [`ref/lyrics-index.md`](./ref/lyrics-index.md) và [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md). Sáng tác bài hát Folk theo đúng Chế độ Kể chuyện đã chọn ở `1-idea.md` & xuất lời sạch DistroKid.
+   * *Nguyên tắc Phân vai Nhạc & Hình:* Đặt tâm tình, tín hiệu gợi mở (Subtle Cues) và chiêm nghiệm có độ mở cao vào lời bài hát theo quy định của Chế độ 1 hoặc Chế độ 2 tại [`craft/music_craft.md`](./craft/music_craft.md); giao phần diễn giải trực diện hoạt cảnh và thao tác cụ thể cho bảng phân cảnh hình ảnh (`storyboard.md`).
    * *Trích xuất mốc thời gian:* Sau khi có file audio `.wav` và `3-lyrics.txt`, chạy:
      `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav>`
      để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, khớp từng câu hát).
-3. **Visual Pool (`image-index.md` & `image.json`):** 
-   * **BẮT BUỘC ĐỌC TRƯỚC:** Rà soát [`ref/image-index.md`](./ref/image-index.md), file `image-index.md` của track hiện tại (nếu đang viết tiếp batch) và file phong cách tương ứng trong `style/` (ví dụ [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md)).
-   * Dựa trên mạch cảm xúc ở `1-idea.md` cùng phong cách trong `style/`, viết danh sách prompt ảnh độc lập vào `image.json` (tuân thủ [`craft/visual_craft.md`](./craft/visual_craft.md)), đồng thời **cập nhật song song vào `image-index.md` (1 dòng tóm tắt / 1 cảnh: `ID | Cỡ cảnh & Không gian/Thời gian | Bảng màu (70% Nền - 10% Điểm nổ) | Nhân vật & Tương phản hình khối | Ý niệm Thơ ca (Focal Twist) & Chuyển động bắt dính`)** để kiểm soát độ đẹp và sự đa dạng liên tục mà không cần đọc lại hàng nghìn dòng JSON.
+3. **Characters & Storyboard (`character.md` & `storyboard.md`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/visual_craft.md`](./craft/visual_craft.md), [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md) và kiểm toán đầu ra bằng [`craft/retention_review.md`](./craft/retention_review.md).
+   * Lập file `character.md` theo đúng chế độ của bài hát (Chế độ 1: định nghĩa các nhân vật cố định `@Tên_nhân_vật` kèm Prompt tạo hình gốc chuẩn Stop-Motion; Chế độ 2: ghi chú không có nhân vật cố định, 100% nhân vật ở mỗi cảnh đều riêng lẻ khác nhau).
+   * Dựa trên `1-idea.md`, `character.md` và `timestamps.txt`, lập bảng đạo diễn 4 cột bằng tiếng Việt trong `storyboard.md` (~5s/cảnh). Áp dụng tỷ lệ **70% đời thường phóng khoáng : 30% điểm nhấn chất ngông thơ mộng (4 động cơ thăng hoa)**, ngôn ngữ cơ thể tự do bất quy tắc, bảng màu khoáng chất 70-20-10 tươi trong không ám vàng, cỡ cảnh (`35mm`/`50mm`), ma trận góc máy và quỹ đạo I2V trước khi xuất prompt tiếng Anh.
+4. **Visual Prompts (`image.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** file phong cách tương ứng trong `style/` (ví dụ [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md)) và [`craft/visual_craft.md`](./craft/visual_craft.md).
+   * Dịch 1:1 từng dòng đã duyệt trong `storyboard.md` sang prompt ảnh tiếng Anh giàu chất thơ vào `image.txt` (Chế độ 1 dùng `@Tên_nhân_vật` cho nhân vật chính + tư thế/biểu cảm/hành động/sự kiện, và mô tả trực tiếp nếu có thêm nhân vật ngoài luồng / cảnh đông người; Chế độ 2 mô tả trực tiếp nhân vật mới hoàn toàn ở từng dòng).
    * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh.
-4. **Montage & Animation (`prompt-animate.txt`):**
-   * *Phòng dựng tự do (Montage):* Thả nhạc và kho ảnh vào timeline (Premiere/CapCut/DaVinci), ghép ảnh theo nhịp nhạc (`timestamps.txt`) bằng rung cảm trực tiếp. Tự do quyết định nhịp cắt và sự va chạm hình ảnh (juxtaposition).
-   * *Chuyển động video:* Với các ảnh đã được chọn trên timeline, tra cứu `image-index.md` và viết prompt chuyển động vào `prompt-animate.txt` (tuân thủ [`craft/animation_craft.md`](./craft/animation_craft.md)) để đưa vào tool render video.
+5. **Animation Prompts (`prompt-animate.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/animation_craft.md`](./craft/animation_craft.md).
+   * Đọc trực tiếp câu prompt gốc của từng cảnh trong `image.txt` để xác định đúng chủ thể, tư thế đang diễn ra và đạo cụ/phương tiện đang trực tiếp thao tác, sau đó viết prompt chuyển động khớp 1:1 vào `prompt-animate.txt`.
+6. **SEO & Packaging (`6-seo.md`):**
+   * Viết tiêu đề, mô tả và từ khóa YouTube. Tùy chọn dùng `last30days` để tham khảo cấu trúc tiêu đề và từ khóa đang thu hút tương tác cao trong 30 ngày qua trên các kênh nhạc cùng ngách.
 
 ---
 
@@ -40,14 +46,15 @@ Chỉ chứa các file thực tế được tool và phòng dựng sử dụng:
 
 ```text
 projects/XXX/
-├── 1-idea.md              (4 dòng cảm xúc, câu chuyện lát cắt, móc neo & câu chốt)
+├── 1-idea.md              (4 dòng: cảm xúc, trục câu chuyện/lát cắt [Chế độ 1 hoặc 2], móc neo & câu chốt)
 ├── 2-music.md             (Ý tưởng phối âm & Suno prompt)
 ├── 3-lyrics.txt           (Lời sạch DistroKid)
 ├── <audio>.wav            (File âm thanh master)
 ├── timestamps.json, timestamps.txt, lyrics.srt (Bộ mốc thời gian)
-├── image-index.md         (Bản đồ tóm tắt 1 dòng/cảnh để kiểm soát đa dạng & tra cứu nhanh)
-├── image.json             (Kho prompts ảnh JSON độc lập)
-├── prompt-animate.txt     (Kho prompts chuyển động cho tool video)
+├── character.md           (Hồ sơ @Tên_nhân_vật cố định [Chế độ 1] hoặc Ghi chú 100% lát cắt độc lập [Chế độ 2])
+├── storyboard.md          (Bảng phân cảnh tối giản 1 dòng/shot ~5s để duyệt trước)
+├── image.txt              (Kho prompts ảnh phẳng khớp 1:1 với storyboard.md)
+├── prompt-animate.txt     (Kho prompts chuyển động khớp 1:1 với image.txt)
 ├── 6-seo.md               (Tiêu đề, mô tả YouTube)
 └── dola-auto-download/    (Thư mục ảnh tải về)
 ```
@@ -64,8 +71,9 @@ Khi một Project phát triển từ **2 bài hát trở lên**:
   │   ├── <audio>.wav
   │   ├── timestamps.json, timestamps.txt, lyrics.srt
   │   ├── 3-lyrics.txt
-  │   ├── image-index.md     (bản đồ tóm tắt 1 dòng/cảnh của track)
-  │   ├── image.json         (prompts ảnh JSON riêng theo style)
+  │   ├── character.md       (Hồ sơ nhân vật riêng của track theo Chế độ 1 hoặc Chế độ 2)
+  │   ├── storyboard.md      (bảng phân cảnh tối giản riêng của track)
+  │   ├── image.txt          (prompts ảnh phẳng riêng theo storyboard.md)
   │   ├── prompt-animate.txt (prompts chuyển động riêng)
   │   └── 6-seo.md
   └── track-2-<tên_slug>/
@@ -88,6 +96,16 @@ Bắt buộc kích hoạt và tuân thủ 2 kỹ năng cốt lõi trên mọi t�
 * **Xóa bỏ 25 dấu hiệu AI (AI tells):** Không dùng cấu trúc tương phản sáo rỗng (*not X but Y*), không dùng câu chốt đao to búa lớn một dòng, không dùng bộ 3 ép buộc (*forced triads*), không lạm dụng dấu gạch ngang (—), không dùng văn phong bán hàng/quảng cáo.
 * **Diệt danh sách từ AI slop:** Cấm tuyệt đối các từ trừu tượng vô hồn (`tapestry`, `whispers`, `testament`, `vibrant`, `beacon`, `interplay`, `delve`, `landscape`...).
 * **Giọng văn con người:** Luôn neo vào giác quan vật lý có thật, câu từ tự nhiên, có nhịp thở, độ dài câu luân chuyển tự nhiên như người thật trò chuyện.
+
+### 4.3. Quy tắc Chỉnh sửa Tài liệu Quy chuẩn Toàn Dự án (`Universal File Editing Rules`):
+Mọi thao tác chỉnh sửa các file tài liệu trong `craft/`, `style/`, `CLAUDE.md` và `projects/` bắt buộc tuân thủ 5 nguyên tắc bất biến:
+1. **Bảo toàn tuyệt đối mục `🔒 GHI CHÚ CỐ ĐỊNH` và ranh giới chức năng file:** Tuyệt đối không chỉnh sửa hoặc xóa khối `🔒 GHI CHÚ CỐ ĐỊNH` ở đầu mỗi file; giữ đúng chức năng độc lập của từng file, không sao chép chồng chéo quy tắc giữa các khâu.
+2. **Chỉnh sửa cục bộ đúng chỗ (`Surgical Edit`), bảo toàn dữ liệu:** Luôn dùng công cụ chỉnh sửa cục bộ (`replace_file_content`) tại đúng dòng cần cập nhật; ưu tiên làm giàu và tinh chỉnh quy tắc, tuyệt đối không ghi đè toàn bộ file gây mất mát các quy tắc kỹ thuật, chất liệu và từ vựng cấu trúc đã đúc kết.
+3. **Ưu tiên dùng câu khẳng định hơn câu phủ định (`Affirmative over Negative`):** Hướng dẫn trực tiếp những gì cần thiết kế, cần vẽ và cần đạt được bằng câu khẳng định rõ ràng. Chỉ liệt kê từ khóa cấm (`Hard Bans`) đối với các lỗi kỹ thuật đặc thù của AI không thể xử lý bằng cách khác.
+4. **Luôn Rule hóa thông tin (`Rule-First`) & Hạn chế tối đa thiên kiến liệt kê:** Khái quát hóa mọi ý tưởng thành quy tắc chung hoạt động cho mọi video và mọi bối cảnh. Tránh liệt kê danh sách sự vật, đạo cụ, chủ đề hay sự kiện cụ thể trong tài liệu quy tắc để không tạo mồi nhử (`Use Case bias`) khiến AI lặp lại máy móc.
+5. **Chạy Review Rule trước khi Commit & Tự động Commit ngay khi sửa Docs gốc (`Review-Before-Commit`):** Mỗi khi chỉnh sửa bất kỳ file tài liệu gốc nào của dự án (`CLAUDE.md`, `AGENTS.md`, `craft/*.md`, `style/*.md`), bắt buộc thực hiện ngay quy trình 2 bước:
+   - **Bước 1 (Review Rule):** Kiểm tra lại toàn bộ `git diff` đối chiếu với 4 nguyên tắc trên và khối `🔒 GHI CHÚ CỐ ĐỊNH` của chính file đó (đảm bảo đã rút thành quy tắc chung `Rule-First`, không liệt kê `Use Case` gây thiên kiến, câu khẳng định ngắn gọn chuẩn `/ponytail` và `/humanizer`, không làm mất dữ liệu cũ). Nếu vi phạm phải sửa lại ngay.
+   - **Bước 2 (Commit ngay kèm Ngày, Giờ và Nội dung chỉnh sửa):** Ngay sau khi vượt qua bước Review Rule, tự động thực thi `git commit` cho các file tài liệu gốc vừa sửa với commit message ghi rõ ngày, giờ và nội dung chỉnh sửa theo định dạng: `docs(<phạm-vi>): [YYYY-MM-DD HH:MM] <Tóm tắt nội dung chỉnh sửa>`.
 
 ---
 

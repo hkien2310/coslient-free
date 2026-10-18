@@ -1,0 +1,12 @@
+# 024: HIỆP SĨ BÌA CÁC-TÔNG VÀ NHỮNG HIÊN NHÀ THẮP SÁNG
+
+- Cảm xúc cốt lõi: Sự ấm áp, dịu dàng và biết ơn khi tuổi già cho ta cơ hội sống lại những mùa thu cũ với nhịp bước thong thả, nhìn lũ trẻ lớn lên trong những bộ đồ hóa trang tự làm và tìm thấy niềm vui bình dị khi giữ ánh đèn hiên nhà luôn sáng cho cả khu phố.
+- Trục câu chuyện & Lát cắt: [Chế độ 1 — Kể chuyện Cá nhân] Tuyến chính theo chân hai ông bà cùng đứa cháu nhỏ từ buổi chiều nắng ấm ngoài hiên nhà gỗ cắt thùng giấy làm giáp hiệp sĩ, đến buổi tối đội chiếc mũ phù thủy vải dạ cũ dắt cháu đi dọc con phố dốc rợp lá sồi; đan xen với lát cắt của những người hàng xóm lớn tuổi sống dọc con phố đang ngồi đợi bên đèn lồng bí ngô, giả vờ giật mình trước những chú ma vải trắng và cài lại chiếc kim băng trên tà áo choàng cho lũ trẻ.
+- Móc neo giác quan: Muỗng sắt cạo ruột bí ngô tươi trên bậc thềm gỗ, giấy bạc nhà bếp miết phẳng lên chiếc khiên bìa các-tông, chiếc kim băng cài lại tà áo choàng bị tuột dưới ánh đèn hiên vàng ấm, và bàn tay nhỏ xíu nắm chặt ngón tay trỏ nhăn nheo khi bước qua thảm lá khô.
+- Câu chốt: Hồi còn trẻ ta vội vã khâu áo cho con giữa bộn bề lo toan, đến khi tóc bạc mới đủ thong thả để bước thật chậm theo đôi chân nhỏ xíu dưới ánh đèn hiên cuối tháng Mười.
+
+---
+
+### Cấu trúc 2 track (cùng nền nhạc Warm Americana Country-Folk)
+* **Track 1 (`track-1-cardboard-knight`):** *The Cardboard Knight* (~4:15): Buổi chiều nắng vàng mật ong trên hiên nhà gỗ và khoảng sân rộng. Ông ngồi trên bậc thềm cắt thùng giấy cũ làm mũ hiệp sĩ, bà lấy giấy bạc nhà bếp bọc chiếc khiên và ghim lại tà áo choàng. Đứa cháu đội chiếc mũ rộng thùng thình che khuất mắt chạy quanh sân. Nhìn đôi tay đồi mồi miết từng dải băng dính giấy, ông nhớ lại những buổi chiều thời trẻ đi làm ca về muộn, vội vã khâu đồ hóa trang cho mẹ của đứa bé khi cô còn đứng chưa tới bậu cửa.
+* **Track 2 (`track-2-porch-light-on`):** *Leave the Porch Light On* (~4:15): Chập tối se lạnh khi những quả bí ngô thắp nến bắt đầu sáng rực dọc con phố dốc. Ông bà đội mũ vải dạ cũ, nắm tay cháu hòa vào những tốp trẻ con mặc áo ma bằng vỏ chăn trắng. Qua từng hiên nhà là những lát cắt ấm lòng: ông cụ Thomas sống một mình ngồi trên ghế gỗ giả vờ giơ hai tay đầu hàng trước thanh kiếm bìa cứng, bà Evelyn nhà bên cúi xuống cài lại chiếc kim băng và bỏ thêm hai viên kẹo sô-cô-la vào xô nhựa. Đêm khuya dần, đứa trẻ mỏi chân tựa cằm vào vai áo ông, còn những ánh đèn hiên trên phố vẫn sáng ấm áp.

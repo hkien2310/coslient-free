@@ -1,0 +1,58 @@
+# TIMESTAMPS: The Cardboard Knight.wav
+# Duration: 03:57 (237.52s) | Sections: 54 | Vocal lines: 48
+# Model: base.en | Language: en | Lyrics: 3-lyrics.txt | Zero-Gap Mode: ON
+
+00:00 - 00:11  (11.78s)  [INSTRUMENTAL]   [Intro / Instrumental Opening]
+00:11 - 00:15  ( 3.74s)  [VOCAL]          Afternoon falls a little slower now
+00:15 - 00:19  ( 3.54s)  [VOCAL]          Same old porch, I sit right down
+00:19 - 00:22  ( 3.62s)  [VOCAL]          Sun leans warm against the stair
+00:22 - 00:25  ( 2.72s)  [VOCAL]          Like it always did back then
+00:25 - 00:28  ( 3.46s)  [VOCAL]          A little cape beside the door
+00:28 - 00:32  ( 3.68s)  [VOCAL]          Small steps tapping on the floor
+00:32 - 00:36  ( 3.46s)  [VOCAL]          Before I even say a word
+00:36 - 00:38  ( 2.58s)  [VOCAL]          You reach and take my hand
+00:38 - 00:40  ( 2.30s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+00:40 - 00:44  ( 3.36s)  [VOCAL]          Used to rush through every day
+00:44 - 00:47  ( 3.00s)  [VOCAL]          Now I got the time to stay
+00:47 - 00:51  ( 3.78s)  [VOCAL]          You take your time, I'll take mine too
+00:51 - 00:53  ( 2.46s)  [VOCAL]          Every step I walk with you
+00:53 - 00:57  ( 4.06s)  [VOCAL]          I spent too long running fast
+00:57 - 01:00  ( 3.34s)  [VOCAL]          Missing things that couldn't last
+01:00 - 01:03  ( 2.94s)  [VOCAL]          Now the sun is warm and low
+01:03 - 01:06  ( 2.92s)  [VOCAL]          You take your time, I'll take it slow
+01:06 - 01:18  (11.68s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:18 - 01:22  ( 4.22s)  [VOCAL]          Days don't run like they used to do
+01:22 - 01:26  ( 3.36s)  [VOCAL]          I let the afternoon pass through
+01:26 - 01:29  ( 3.16s)  [VOCAL]          Used to watch the kitchen clock
+01:29 - 01:31  ( 2.72s)  [VOCAL]          Always running out of light
+01:31 - 01:35  ( 3.94s)  [VOCAL]          That paper crown, that crooked fold
+01:35 - 01:39  ( 3.82s)  [VOCAL]          A small, familiar thing to hold
+01:39 - 01:41  ( 2.26s)  [VOCAL]          Funny how the smallest laugh
+01:41 - 01:47  ( 5.48s)  [VOCAL]          Can set the whole world right
+01:47 - 01:51  ( 3.62s)  [VOCAL]          No need to ask where we should go
+01:51 - 01:54  ( 3.14s)  [VOCAL]          You already seem to know
+01:54 - 01:57  ( 3.78s)  [VOCAL]          You take your time, I'll take mine too
+01:57 - 02:00  ( 2.56s)  [VOCAL]          Every step I walk with you
+02:00 - 02:04  ( 4.34s)  [VOCAL]          I spent too long running fast
+02:04 - 02:08  ( 3.22s)  [VOCAL]          Missing things that couldn't last
+02:08 - 02:11  ( 3.14s)  [VOCAL]          Now the sun is warm and low
+02:11 - 02:13  ( 2.56s)  [VOCAL]          You take your time, I'll take it slow
+02:13 - 02:27  (13.64s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+02:27 - 02:33  ( 6.30s)  [VOCAL]          I've had the years come and go
+02:33 - 02:40  ( 7.12s)  [VOCAL]          This quiet step is all I need to know
+02:40 - 02:45  ( 4.58s)  [VOCAL]          You take your time, I'll take mine too
+02:45 - 02:47  ( 2.48s)  [VOCAL]          Every step I walk with you
+02:47 - 02:52  ( 4.14s)  [VOCAL]          I spent too long running fast
+02:52 - 02:55  ( 3.26s)  [VOCAL]          Missing things that couldn't last
+02:55 - 02:58  ( 3.32s)  [VOCAL]          Now the sun is warm and low
+02:58 - 03:01  ( 2.52s)  [VOCAL]          You take your time, I'll take it slow
+03:01 - 03:05  ( 4.20s)  [VOCAL]          You take your time, I'll take mine too
+03:05 - 03:08  ( 3.68s)  [VOCAL]          No other place I'd rather be with you
+03:08 - 03:12  ( 3.30s)  [VOCAL]          I don't count what's left behind
+03:12 - 03:15  ( 3.70s)  [VOCAL]          Every hour has been so kind
+03:15 - 03:21  ( 5.28s)  [VOCAL]          Now the sun is warm and low
+03:21 - 03:26  ( 5.62s)  [VOCAL]          You take your time, I'll take it slow
+03:26 - 03:32  ( 5.22s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:32 - 03:37  ( 5.32s)  [VOCAL]          Same old porch, same small hand
+03:37 - 03:40  ( 3.20s)  [VOCAL]          Still right here
+03:40 - 03:57  (16.90s)  [INSTRUMENTAL]   [Outro / Instrumental Ending]

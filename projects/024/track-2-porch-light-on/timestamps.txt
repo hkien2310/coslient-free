@@ -1,0 +1,60 @@
+# TIMESTAMPS: Leave the Porch Light On.wav
+# Duration: 04:13 (253.20s) | Sections: 56 | Vocal lines: 48
+# Model: base.en | Language: en | Lyrics: 3-lyrics.txt | Zero-Gap Mode: ON
+
+00:00 - 00:13  (13.46s)  [INSTRUMENTAL]   [Intro / Instrumental Opening]
+00:13 - 00:17  ( 4.28s)  [VOCAL]          Evening settles a little slower now
+00:17 - 00:21  ( 3.86s)  [VOCAL]          Same old lane, we walk on down
+00:21 - 00:25  ( 3.54s)  [VOCAL]          Dry leaves rustle by the gate
+00:25 - 00:28  ( 3.46s)  [VOCAL]          Like they always did back then
+00:28 - 00:31  ( 2.88s)  [VOCAL]          Candle glowing on the step
+00:31 - 00:35  ( 4.12s)  [VOCAL]          That same warm light we always kept
+00:35 - 00:38  ( 2.56s)  [VOCAL]          Then I hear it down the hill
+00:38 - 00:41  ( 3.44s)  [VOCAL]          That little laugh again
+00:41 - 00:45  ( 3.80s)  [VOCAL]          No matter how the seasons roll
+00:45 - 00:50  ( 5.18s)  [VOCAL]          Some small things don't grow old
+00:50 - 00:54  ( 4.02s)  [VOCAL]          Leave the porch light on tonight
+00:54 - 00:57  ( 2.92s)  [VOCAL]          Let it shine across the yard
+00:57 - 01:01  ( 3.94s)  [VOCAL]          We have walked a winding road
+01:01 - 01:04  ( 2.92s)  [VOCAL]          Some of it was long and hard
+01:04 - 01:08  ( 4.14s)  [VOCAL]          Now we step into the glow
+01:08 - 01:11  ( 3.14s)  [VOCAL]          Leave the porch light on, we're home
+01:11 - 01:32  (20.60s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:32 - 01:35  ( 3.52s)  [VOCAL]          Kids still laughing down the street
+01:35 - 01:39  ( 3.44s)  [VOCAL]          Soft steps passing by the tree
+01:39 - 01:43  ( 4.30s)  [VOCAL]          Nothing here runs all too fast
+01:43 - 01:47  ( 3.70s)  [VOCAL]          That's why the good things stay
+01:47 - 01:49  ( 2.52s)  [VOCAL]          A wooden chair beside the door
+01:49 - 01:53  ( 3.78s)  [VOCAL]          Same friendly wave we knew before
+01:53 - 01:57  ( 4.00s)  [VOCAL]          You lean your head against my coat
+01:57 - 02:00  ( 2.90s)  [VOCAL]          At the closing of the day
+02:00 - 02:03  ( 3.10s)  [VOCAL]          They don't count the passing time
+02:03 - 02:09  ( 5.76s)  [VOCAL]          Just a warm hand holding mine
+02:09 - 02:13  ( 4.24s)  [VOCAL]          Leave the porch light on tonight
+02:13 - 02:16  ( 2.84s)  [VOCAL]          Let it shine across the yard
+02:16 - 02:19  ( 3.56s)  [VOCAL]          We have walked a winding road
+02:19 - 02:23  ( 3.88s)  [VOCAL]          Some of it was long and hard
+02:23 - 02:27  ( 3.66s)  [VOCAL]          Now we step into the glow
+02:27 - 02:30  ( 3.22s)  [VOCAL]          Leave the porch light on, we're home
+02:30 - 02:36  ( 5.60s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+02:36 - 02:40  ( 4.44s)  [VOCAL]          I don't need much these days
+02:40 - 02:43  ( 2.80s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+02:43 - 02:49  ( 6.40s)  [VOCAL]          Just a quiet light that always stays
+02:49 - 02:53  ( 4.00s)  [VOCAL]          Leave the porch light on tonight
+02:53 - 02:56  ( 2.82s)  [VOCAL]          Let it shine across the yard
+02:56 - 03:00  ( 3.95s)  [VOCAL]          We have walked a winding road
+03:00 - 03:03  ( 3.01s)  [VOCAL]          Some of it was long and hard
+03:03 - 03:07  ( 4.09s)  [VOCAL]          Now we step into the glow
+03:07 - 03:10  ( 3.13s)  [VOCAL]          Leave the porch light on, we're home
+03:10 - 03:15  ( 5.04s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:15 - 03:19  ( 4.02s)  [VOCAL]          Leave the porch light on tonight
+03:19 - 03:23  ( 3.80s)  [VOCAL]          Keep it burning warm and clear
+03:23 - 03:27  ( 3.80s)  [VOCAL]          Every mile I ever walked
+03:27 - 03:30  ( 2.92s)  [VOCAL]          Was leading me right here
+03:30 - 03:33  ( 2.94s)  [VOCAL]          Now we step into the glow
+03:33 - 03:39  ( 6.21s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:39 - 03:42  ( 3.05s)  [VOCAL]          Leave the porch light on, we're home
+03:42 - 03:47  ( 5.05s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:47 - 03:54  ( 6.87s)  [VOCAL]          Same warm light, same quiet door
+03:54 - 03:56  ( 1.74s)  [VOCAL]          Still around
+03:56 - 04:13  (16.84s)  [INSTRUMENTAL]   [Outro / Instrumental Ending]

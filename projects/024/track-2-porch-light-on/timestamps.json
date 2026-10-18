@@ -1,0 +1,574 @@
+{
+  "audio_file": "Leave the Porch Light On.wav",
+  "language": "en",
+  "model": "base.en",
+  "lyrics_file": "3-lyrics.txt",
+  "duration_seconds": 253.2,
+  "duration_formatted": "04:13",
+  "gap_threshold": 2.0,
+  "max_shot_duration": 6.5,
+  "total_sections": 56,
+  "vocal_lines_count": 48,
+  "sequence": [
+    {
+      "index": 1,
+      "type": "INSTRUMENTAL",
+      "section": "Intro",
+      "start": 0.0,
+      "end": 13.46,
+      "duration": 13.46,
+      "time_range": "00:00 - 00:13",
+      "text": "[Intro / Instrumental Opening]"
+    },
+    {
+      "index": 2,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 13.46,
+      "end": 17.74,
+      "duration": 4.28,
+      "time_range": "00:13 - 00:17",
+      "text": "Evening settles a little slower now"
+    },
+    {
+      "index": 3,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 17.74,
+      "end": 21.6,
+      "duration": 3.86,
+      "time_range": "00:17 - 00:21",
+      "text": "Same old lane, we walk on down"
+    },
+    {
+      "index": 4,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 21.6,
+      "end": 25.14,
+      "duration": 3.54,
+      "time_range": "00:21 - 00:25",
+      "text": "Dry leaves rustle by the gate"
+    },
+    {
+      "index": 5,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 25.14,
+      "end": 28.6,
+      "duration": 3.46,
+      "time_range": "00:25 - 00:28",
+      "text": "Like they always did back then"
+    },
+    {
+      "index": 6,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 28.6,
+      "end": 31.48,
+      "duration": 2.88,
+      "time_range": "00:28 - 00:31",
+      "text": "Candle glowing on the step"
+    },
+    {
+      "index": 7,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 31.48,
+      "end": 35.6,
+      "duration": 4.12,
+      "time_range": "00:31 - 00:35",
+      "text": "That same warm light we always kept"
+    },
+    {
+      "index": 8,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 35.6,
+      "end": 38.16,
+      "duration": 2.56,
+      "time_range": "00:35 - 00:38",
+      "text": "Then I hear it down the hill"
+    },
+    {
+      "index": 9,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 38.16,
+      "end": 41.6,
+      "duration": 3.44,
+      "time_range": "00:38 - 00:41",
+      "text": "That little laugh again"
+    },
+    {
+      "index": 10,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 41.6,
+      "end": 45.4,
+      "duration": 3.8,
+      "time_range": "00:41 - 00:45",
+      "text": "No matter how the seasons roll"
+    },
+    {
+      "index": 11,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 45.4,
+      "end": 50.58,
+      "duration": 5.18,
+      "time_range": "00:45 - 00:50",
+      "text": "Some small things don't grow old"
+    },
+    {
+      "index": 12,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 50.58,
+      "end": 54.6,
+      "duration": 4.02,
+      "time_range": "00:50 - 00:54",
+      "text": "Leave the porch light on tonight"
+    },
+    {
+      "index": 13,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 54.6,
+      "end": 57.52,
+      "duration": 2.92,
+      "time_range": "00:54 - 00:57",
+      "text": "Let it shine across the yard"
+    },
+    {
+      "index": 14,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 57.52,
+      "end": 61.46,
+      "duration": 3.94,
+      "time_range": "00:57 - 01:01",
+      "text": "We have walked a winding road"
+    },
+    {
+      "index": 15,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 61.46,
+      "end": 64.38,
+      "duration": 2.92,
+      "time_range": "01:01 - 01:04",
+      "text": "Some of it was long and hard"
+    },
+    {
+      "index": 16,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 64.38,
+      "end": 68.52,
+      "duration": 4.14,
+      "time_range": "01:04 - 01:08",
+      "text": "Now we step into the glow"
+    },
+    {
+      "index": 17,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 68.52,
+      "end": 71.66,
+      "duration": 3.14,
+      "time_range": "01:08 - 01:11",
+      "text": "Leave the porch light on, we're home"
+    },
+    {
+      "index": 18,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 71.66,
+      "end": 92.26,
+      "duration": 20.6,
+      "time_range": "01:11 - 01:32",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 19,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 92.26,
+      "end": 95.78,
+      "duration": 3.52,
+      "time_range": "01:32 - 01:35",
+      "text": "Kids still laughing down the street"
+    },
+    {
+      "index": 20,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 95.78,
+      "end": 99.22,
+      "duration": 3.44,
+      "time_range": "01:35 - 01:39",
+      "text": "Soft steps passing by the tree"
+    },
+    {
+      "index": 21,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 99.22,
+      "end": 103.52,
+      "duration": 4.3,
+      "time_range": "01:39 - 01:43",
+      "text": "Nothing here runs all too fast"
+    },
+    {
+      "index": 22,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 103.52,
+      "end": 107.22,
+      "duration": 3.7,
+      "time_range": "01:43 - 01:47",
+      "text": "That's why the good things stay"
+    },
+    {
+      "index": 23,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 107.22,
+      "end": 109.74,
+      "duration": 2.52,
+      "time_range": "01:47 - 01:49",
+      "text": "A wooden chair beside the door"
+    },
+    {
+      "index": 24,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 109.74,
+      "end": 113.52,
+      "duration": 3.78,
+      "time_range": "01:49 - 01:53",
+      "text": "Same friendly wave we knew before"
+    },
+    {
+      "index": 25,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 113.52,
+      "end": 117.52,
+      "duration": 4.0,
+      "time_range": "01:53 - 01:57",
+      "text": "You lean your head against my coat"
+    },
+    {
+      "index": 26,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 117.52,
+      "end": 120.42,
+      "duration": 2.9,
+      "time_range": "01:57 - 02:00",
+      "text": "At the closing of the day"
+    },
+    {
+      "index": 27,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 120.42,
+      "end": 123.52,
+      "duration": 3.1,
+      "time_range": "02:00 - 02:03",
+      "text": "They don't count the passing time"
+    },
+    {
+      "index": 28,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 123.52,
+      "end": 129.28,
+      "duration": 5.76,
+      "time_range": "02:03 - 02:09",
+      "text": "Just a warm hand holding mine"
+    },
+    {
+      "index": 29,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 129.28,
+      "end": 133.52,
+      "duration": 4.24,
+      "time_range": "02:09 - 02:13",
+      "text": "Leave the porch light on tonight"
+    },
+    {
+      "index": 30,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 133.52,
+      "end": 136.36,
+      "duration": 2.84,
+      "time_range": "02:13 - 02:16",
+      "text": "Let it shine across the yard"
+    },
+    {
+      "index": 31,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 136.36,
+      "end": 139.92,
+      "duration": 3.56,
+      "time_range": "02:16 - 02:19",
+      "text": "We have walked a winding road"
+    },
+    {
+      "index": 32,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 139.92,
+      "end": 143.8,
+      "duration": 3.88,
+      "time_range": "02:19 - 02:23",
+      "text": "Some of it was long and hard"
+    },
+    {
+      "index": 33,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 143.8,
+      "end": 147.46,
+      "duration": 3.66,
+      "time_range": "02:23 - 02:27",
+      "text": "Now we step into the glow"
+    },
+    {
+      "index": 34,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 147.46,
+      "end": 150.68,
+      "duration": 3.22,
+      "time_range": "02:27 - 02:30",
+      "text": "Leave the porch light on, we're home"
+    },
+    {
+      "index": 35,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 150.68,
+      "end": 156.28,
+      "duration": 5.6,
+      "time_range": "02:30 - 02:36",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 36,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 156.28,
+      "end": 160.72,
+      "duration": 4.44,
+      "time_range": "02:36 - 02:40",
+      "text": "I don't need much these days"
+    },
+    {
+      "index": 37,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 160.72,
+      "end": 163.52,
+      "duration": 2.8,
+      "time_range": "02:40 - 02:43",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 38,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 163.52,
+      "end": 169.92,
+      "duration": 6.4,
+      "time_range": "02:43 - 02:49",
+      "text": "Just a quiet light that always stays"
+    },
+    {
+      "index": 39,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 169.92,
+      "end": 173.92,
+      "duration": 4.0,
+      "time_range": "02:49 - 02:53",
+      "text": "Leave the porch light on tonight"
+    },
+    {
+      "index": 40,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 173.92,
+      "end": 176.74,
+      "duration": 2.82,
+      "time_range": "02:53 - 02:56",
+      "text": "Let it shine across the yard"
+    },
+    {
+      "index": 41,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 176.74,
+      "end": 180.69,
+      "duration": 3.95,
+      "time_range": "02:56 - 03:00",
+      "text": "We have walked a winding road"
+    },
+    {
+      "index": 42,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 180.69,
+      "end": 183.7,
+      "duration": 3.01,
+      "time_range": "03:00 - 03:03",
+      "text": "Some of it was long and hard"
+    },
+    {
+      "index": 43,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 183.7,
+      "end": 187.79,
+      "duration": 4.09,
+      "time_range": "03:03 - 03:07",
+      "text": "Now we step into the glow"
+    },
+    {
+      "index": 44,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 187.79,
+      "end": 190.92,
+      "duration": 3.13,
+      "time_range": "03:07 - 03:10",
+      "text": "Leave the porch light on, we're home"
+    },
+    {
+      "index": 45,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 190.92,
+      "end": 195.96,
+      "duration": 5.04,
+      "time_range": "03:10 - 03:15",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 46,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 195.96,
+      "end": 199.98,
+      "duration": 4.02,
+      "time_range": "03:15 - 03:19",
+      "text": "Leave the porch light on tonight"
+    },
+    {
+      "index": 47,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 199.98,
+      "end": 203.78,
+      "duration": 3.8,
+      "time_range": "03:19 - 03:23",
+      "text": "Keep it burning warm and clear"
+    },
+    {
+      "index": 48,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 203.78,
+      "end": 207.58,
+      "duration": 3.8,
+      "time_range": "03:23 - 03:27",
+      "text": "Every mile I ever walked"
+    },
+    {
+      "index": 49,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 207.58,
+      "end": 210.5,
+      "duration": 2.92,
+      "time_range": "03:27 - 03:30",
+      "text": "Was leading me right here"
+    },
+    {
+      "index": 50,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 210.5,
+      "end": 213.44,
+      "duration": 2.94,
+      "time_range": "03:30 - 03:33",
+      "text": "Now we step into the glow"
+    },
+    {
+      "index": 51,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 213.44,
+      "end": 219.65,
+      "duration": 6.21,
+      "time_range": "03:33 - 03:39",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 52,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 219.65,
+      "end": 222.7,
+      "duration": 3.05,
+      "time_range": "03:39 - 03:42",
+      "text": "Leave the porch light on, we're home"
+    },
+    {
+      "index": 53,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 222.7,
+      "end": 227.75,
+      "duration": 5.05,
+      "time_range": "03:42 - 03:47",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 54,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 227.75,
+      "end": 234.62,
+      "duration": 6.87,
+      "time_range": "03:47 - 03:54",
+      "text": "Same warm light, same quiet door"
+    },
+    {
+      "index": 55,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 234.62,
+      "end": 236.36,
+      "duration": 1.74,
+      "time_range": "03:54 - 03:56",
+      "text": "Still around"
+    },
+    {
+      "index": 56,
+      "type": "INSTRUMENTAL",
+      "section": "Outro",
+      "start": 236.36,
+      "end": 253.2,
+      "duration": 16.84,
+      "time_range": "03:56 - 04:13",
+      "text": "[Outro / Instrumental Ending]"
+    }
+  ]
+}

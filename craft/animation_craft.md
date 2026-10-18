@@ -1,151 +1,57 @@
-# 🎬 ANIMATION CRAFT — QUY CHUẨN KỸ THUẬT CHUYỂN ĐỘNG VEO 3
-v6.0 — The Living Surreal World Architecture (Optimized for Veo 3 / VideoFX & Modern I2V)
+# ANIMATION CRAFT — KỸ THUẬT CHUYỂN ĐỘNG VIDEO (I2V)
 
-> **TƯ DUY CỐT LÕI (CORE PHILOSOPHY):**  
-> **"ĐỪNG COI HỌ LÀ CON RỐI / TƯỢNG GỖ. HỌ LÀ CON NGƯỜI TRONG THẾ GIỚI SIÊU THỰC."**  
-> Ảnh tĩnh đã định hình 100% chất liệu sa bàn thủ công. Prompt Animation sinh ra **KHÔNG PHẢI ĐỂ TẢ LẠI ẢNH**, mà để **THỔI HỒN SỰ SỐNG CON NGƯỜI** và điều khiển camera đồng hành bám theo mượt mà. Càng ngắn gọn, súc tích, AI càng mượt và tự nhiên.
+> 🔒 **GHI CHÚ CỐ ĐỊNH — CHỨC NĂNG FILE & QUY TẮC BẤT BIẾN (TUYỆT ĐỐI KHÔNG CHỈNH SỬA / XÓA MỤC NÀY):**
+> - **Chức năng duy nhất của file:** Nhận đầu vào trực tiếp từ `image.txt` để xuất file `prompt-animate.txt`, chỉ điều khiển **chuyển động của ống kính 1 trục và hành động tiếp diễn của chủ thể trong 5 giây tiếp theo**. File `image.txt` đã khóa 100% tạo hình, tư thế gốc, đạo cụ, màu sắc, chất liệu và bối cảnh ở giây 0; file này không can thiệp lại các yếu tố tĩnh đó.
+> - **Quy tắc chỉnh sửa tài liệu này:**
+>   1. **Sửa đúng chỗ (`/ponytail`):** Chỉ sửa đúng dòng cần thay đổi bằng công cụ chỉnh sửa cục bộ, ưu tiên ngắn gọn, không ghi đè toàn bộ file.
+>   2. **Chỉ viết quy luật, không đưa ví dụ bối cảnh cụ thể:** Tránh làm mồi nhử khiến AI lặp lại đạo cụ hoặc bối cảnh mẫu.
 
----
+## 1. Quy chuẩn file `prompt-animate.txt` & 2 Lớp quản lý của I2V
 
-## 1. NGUYÊN LÝ BẢN THỂ: CON NGƯỜI TRONG THẾ GIỚI SIÊU THỰC
+- **Định dạng:** Mỗi prompt nằm trọn vẹn trên **1 dòng duy nhất** trong `prompt-animate.txt` (không đánh số thứ tự, không tiêu đề, không dòng trống), khớp đúng thứ tự các bức ảnh cần tạo chuyển động từ `image.txt`.
+- **Chỉ quản lý đúng 2 lớp + 1 câu chốt tự do:**
 
-### ❌ Cái bẫy "Tượng gỗ vô tri" (The Figurine Trap):
-* Nếu trong prompt animation xuất hiện các từ: `puppet, wooden figurine, whittled, carved doll, statue`:
-  * AI hiểu đây là **đồ chơi bằng gỗ vô tri** $\rightarrow$ AI sẽ giữ tượng **đứng đơ bất động** (chỉ có gió lay lá), hoặc giật cục như hoạt hình đất sét stop-motion.
-* **Quy tắc thép:** CẤM TUYỆT ĐỐI các từ chỉ gỗ/rối trong Animation Prompt. Luôn định danh bản thể là **CON NGƯỜI / SINH THỂ SỐNG**:
-  * Dùng: `two people`, `the young man`, `the woman`, `the couple`, `the barn owl`, `the tea master`.
-  * AI Video được huấn luyện trên hàng triệu video người thật. Khi nghe từ `two people`, nó lập tức nạp toàn bộ **tri thức động học cơ thể người (Human Biomechanics)**: bước đi uyển chuyển, vung tay tự nhiên, cơ mặt biểu cảm sinh động!
+1. **Lớp 1 — 7 Quỹ đạo Ống kính theo Ý đồ Cảnh (Motivated 1-Axis Camera) & Nhịp thở Khung hình:**
+   - **Nguyên tắc chọn máy (Motivated Camera & Cân bằng nhịp điệu):** Mỗi câu chỉ chọn **1 hướng đơn nhất** lấy nhân vật/tâm điểm làm tâm, khớp với hành động trong ảnh. Phân bổ đa dạng các kiểu máy trên toàn video (không lặp cùng 1 kiểu máy ở 2 câu liên tiếp):
+     1. **Giữ khung quan sát (`holds on X` / `lingers on X`):** Máy đứng yên tại chỗ như ánh mắt người nhìn, nhường trọn sự chú ý cho cử chỉ và nét mặt của chủ thể.
+     2. **Tiến lại gần (`moves closer to X`):** Đẩy vào cảm xúc gương mặt hoặc chi tiết thao tác của chủ thể.
+     3. **Lùi ra xa (`pulls back from X`):** Mở rộng không gian xung quanh chủ thể.
+     4. **Trượt ngang Parallax (`glides sideways past X` / `drifts laterally past X`):** Trượt ngang qua chủ thể tạo chiều sâu 3D giữa tiền cảnh và hậu cảnh.
+     5. **Nâng theo chiều dọc (`rises alongside X` / `cranes up past X`):** Nâng máy lên theo chuyển động hướng lên hoặc mở toàn cảnh.
+     6. **Xoay vòng cung (`arcs around X`):** Đi vòng cung quanh chủ thể để mở góc nhìn không gian ba chiều.
+     7. **Bám song song (`moves alongside X`):** Đi kèm cùng tốc độ khi chủ thể hoặc phương tiện đang di chuyển.
+   - **Nhịp thở khung hình đúng vật lý đời thực (Không dùng từ vựng cơ thể người, không ép cảnh đứng yên phải nhấp nhô `bobbing`):**
+     - *Khi giữ khung tại chỗ (`holds on` / `lingers on`):* `Unstabilized camera [holds on / lingers on] [X], the frame breathing with natural motion.`
+     - *Khi di chuyển máy 1 trục (`moves closer to` / `pulls back from` / `glides sideways past` / `rises alongside` / `arcs around`):* `Unstabilized camera [động từ 1 trục] [X], the frame swaying with natural motion.`
+     - *Khi bám song song theo chủ thể đang di chuyển (`moves alongside`):* `Unstabilized tracking camera moves alongside [X], the frame visibly bobbing and swaying.`
+   - **Cấm** gộp 2 trục (`arcs around AND tilts up`, `moves closer AND pans`) và **cấm** lia từ đạo cụ nhỏ sang người (`from [đạo cụ A] to [người B]`).
 
-### ❌ Cái bẫy "Ánh sáng siêu thực" (The Tacky Glow Trap — "Phèn Chúa"):
-* Nếu trong prompt animation xuất hiện: `glowing light, magical sparks, luminous trail, glowing footprints, fairy dust, aura`:
-  * AI Video sẽ lập tức chèn các hiệu ứng hạt CGI neon, tia sáng hoạt hình rẻ tiền, phá tan chất liệu điện ảnh thủ công hữu cơ.
-* **Quy tắc thép:** CẤM TUYỆT ĐỐI mô tả ánh sáng phát quang hay vệt sáng thần tiên. Chuyển động video chỉ tập trung vào **động học cơ thể tự nhiên** (`walking, stroking, turning, sniffing, resting`) và **chuyển động camera lướt êm ái**.
+2. **Lớp 2 — Hành động Tiếp diễn, Biểu cảm Điềm tĩnh Tự nhiên & Đuôi Tự nhiên (Mid-Action & Natural Tail):**
+   - **Với cảnh có người:** Gọi chủ thể bằng danh từ chỉ người thật theo đúng ảnh gốc (`the man`, `the woman`, `the artisan`, `the couple`). Chỉ tả sự tiếp diễn của đúng hành động và đạo cụ/phương tiện mà nhân vật đang trực tiếp thao tác trong ảnh, kết hợp động từ biểu cảm điềm đạm, chừng mực (`nods warmly`, `watches attentively`, `glances over and smiles`, `gazes out serenely`, `shares a calm smile` — tránh các động từ biểu cảm lố gây méo miệng). Kết câu bằng đuôi cố định: **`, while facial expressions and everything around move naturally.`**
+   - **Với cảnh tĩnh vật / không gian không người:** Lấy vật thể trung tâm hoặc khung cảnh thiên nhiên trong ảnh làm chủ thể. Tả chuyển động vật lý tự nhiên đang diễn ra của vật thể đó và đóng lại bằng đuôi: **`, while everything around moves naturally.`** (bỏ chữ `facial expressions` vì cảnh không có người).
+   - **Cấm** bịa thêm đạo cụ/nhân vật không có trong ảnh gốc, **cấm** hành động tuần tự đổi đạo cụ (*làm việc A rồi chuyển sang làm việc B*), và **cấm** tả lại từ đầu một trạng thái đã hoàn tất trong ảnh.
 
----
+## 2. Khu vực cấm tối thiểu (Hard Bans)
 
-## 2. CÂU THẦN CHÚ KHÓA ĐẦU BẤT BIẾN: `Alive Surreal World`
+- **Cấm từ vựng cơ thể người trong Camera & Cấm chỉ đạo chi tiết tay / ngón tay (Chặn lỗi thò tay POV & mọc thêm tay):** Tuyệt đối không dùng `hand`, `hands`, `handheld`, `hand-in-hand`, `hand over hand`, `raw hand movement`, `with one hand`, `with the other`, `with both hands`, `fingers`, `palms`, `thumb`, `arm`, `arms`, `arm-in-arm`, `left arm`, `right arm`, `elbow`, `elbows`, `footstep`, `footsteps`.
+- **Cấm từ khóa biểu cảm lố / cường điệu làm biến dạng miệng và hàm trong I2V:** Không dùng `laughs aloud`, `laughs heartily`, `laughs cheerfully`, `grins wide`, `wide grin`, `beams with joy`, `cheers`, `shouts`, `screams`, `excitedly`, `wildly`, `throws head back`.
+- **Cấm động từ biến hình trong I2V (Chặn lỗi chảy nhão vật thể có sẵn):** Tuyệt đối không dùng `transforms into`, `unfurls into`, `unfolds into`, `folds into`, `shapes itself into`, `blossoms into`, `materializes into`, `forms`, `turns into`.
+- **Cấm từ giảm lực làm đơ ảnh & Cấm từ rung giật cực đoan gây nhòe nét:** Không dùng `light`, `very light`, `slightly`, `subtly`, `subtle`, `gently`, `slowly`, `quietly`, `standing still`, `steady`, `smooth`, `smoothly`; không dùng `shaking heavily`, `tilting heavily`, `shaky`, `shaking`.
+- **Cấm tả lại chất liệu & màu sắc tĩnh của ảnh:** Không nhắc lại chất liệu thủ công (`paper-pulp`, `clay`, `felt`, `cotton-fiber`, `linen`, `oak`, `brass`, `wooden`, `ceramic`, `leather`, `stone`, `canvas`, `silk`) hay màu sắc trong prompt animation.
+- **Cấm thiết bị điện tử & công nghệ cao:** Không dùng `smartphone, tablet, iPad, laptop, digital, electronic, headphones, microphone, espresso machine, laser, wireless`.
+- **Cấm trượt ray máy móc, con rối, ánh sáng phép thuật & câu phủ định:** Không dùng `steadycam, dolly, drone`; không dùng `puppet, figurine, doll, statue, stop-motion`; không dùng `glowing, sparkles, fairy dust, magical aura, bioluminescent`; không viết câu phủ định (`no cuts, no morphing`).
 
-Mọi prompt animation bắt buộc mở đầu bằng cụm từ khóa vàng:
-> 👉 **`Alive Surreal World`**
+## 3. Công thức Prompt Chuẩn I2V (Bắt buộc)
 
-### Giải mã kỹ thuật:
-1. **`Surreal World` (Thế giới siêu thực):** Giải quyết xung đột nhận thức của AI giữa chất liệu sa bàn gỗ và chuyển động người sống: *"Đây là thế giới siêu thực, nên hình hài sa bàn thủ công cử động như người thật là hoàn toàn tự nhiên!"*
-2. **`Alive` (Sống động):** Đánh thức toàn bộ khung hình và nhân vật thoát khỏi trạng thái đóng băng (freeze-state) của ảnh tĩnh.
-
----
-
-## 3. HỆ THỐNG 7 CÚ CAMERA ĐỒNG HÀNH ĐIỆN ẢNH (THE 7 COMPANION CAMERAS)
-
-* **Nguyên lý góc nhìn (Angle Locked):** Ảnh tĩnh Midjourney đã chốt góc quay và bố cục. Prompt animation **CẤM** viết lại `low-angle`, `medium-shot`, `close-up` vì sẽ gây xung đột trường nhìn của AI.
-* **Camera đồng hành, không tranh chấp:** Camera lướt nhịp nhàng bám theo nhân vật hoặc môi trường, làm nổi bật chuyển động sống động của chủ thể thay vì tự rung lắc hay lia giật cục.
-
-### Bảng phân loại 7 cú máy chuẩn điện ảnh:
-| Phân loại | Cụm từ Prompt chuẩn | Không gian & Công năng ứng dụng | Cảm giác điện ảnh mang lại |
-|---|---|---|---|
-| **1. Tracking (Bám bước)** | `smooth camera tracking` / `smooth wide camera tracking` | Nhân vật di chuyển tuyến tính: đi bộ, qua cầu, dắt lừa, tuần đêm. | Kéo người xem cùng đồng hành trên chuyến hành trình. |
-| **2. Glide (Lướt đa hướng)** | `smooth camera glide` / `smooth wide camera glide` | Dạo bước quanh phố xá, ngã rẽ, bến thuyền, không gian mở. | Mượt mà như cú máy Steadycam/Dolly trượt trên ray êm ái. |
-| **3. Dynamic (Động lực học)** | `smooth dynamic camera` | Cảnh cao trào, biên độ cơ thể lớn: đánh đu, nhảy múa, tung hứng, chạy nhảy. | Đầy sức sống, giải phóng năng lượng cao trào của âm nhạc. |
-| **4. Macro / Close-up Drift (Vi mô)** | `smooth close-up drift` / `smooth macro camera drift` | Tĩnh vật, muông thú nhỏ (cú mèo, chim sẻ, chuột đồng), khâu vá, rót trà, mầm cây. | Thơ mộng, tập trung sâu, bắt trọn từng chi tiết thủ công tinh xảo. |
-| **5. Water-level Glide (Mặt nước)** | `smooth water-level glide` / `smooth water-level drift` | Thuyền trôi, guồng nước, suối róc rách, bến cá, vịt trời bơi lội. | Góc nhìn là là mặt nước, phản chiếu lấp lánh, thi vị và êm dịu. |
-| **6. Interior Glide (Nội thất ấm cúng)** | `smooth interior glide` | Quán trọ, bếp lửa bập bùng, bàn trà, xưởng may, xưởng bánh, tiệm sách. | Không gian đóng kín nhưng ấm áp, ghi lại cử chỉ sẻ chia thân tình. |
-| **7. Panoramic / Orbital (Toàn cảnh & Quỹ đạo)** | `smooth wide panoramic glide` / `smooth orbital camera` | Đại cảnh thung lũng, lâu đài sương mù, hoàng hôn buông xuống, cánh đồng bậc thang. | Hoành tráng, kỳ vĩ, mở rộng biên độ không gian siêu thực tối đa. |
-
----
-
-## 3.1. MA TRẬN ĐA DẠNG HÓA & CHỐNG ĐƠN ĐIỆU (ANTI-MONOTONY MATRIX)
-
-Khán giả sẽ lập tức cảm thấy buồn ngủ nếu 3-4 cảnh liên tiếp cùng dùng một cú máy (ví dụ chuỗi `camera glide` lặp đi lặp lại). Để video đạt chất lượng nghệ thuật điện ảnh cao cấp:
-
-1. **Quy tắc trần tối đa (Max 2 Consecutive Shots Rule):**
-   * **Tuyệt đối không dùng cùng 1 loại camera quá 2 cảnh liên tiếp.**
-   * Nếu Scene N dùng `smooth camera glide`, Scene N+1 có thể dùng `smooth camera glide`, nhưng Scene N+2 **bắt buộc** phải chuyển sang loại khác (`smooth close-up drift`, `smooth camera tracking`, `smooth interior glide`, v.v.).
-2. **Quy tắc đối âm thị giác (Contrapuntal Visual Flow):**
-   * **Tương phản Quy mô:** Sau một đại cảnh (`panoramic glide` / `wide tracking`) $\rightarrow$ Ưu tiên cảnh cận tĩnh (`close-up drift` / `macro drift`).
-   * **Tương phản Động lực:** Sau cảnh hành động nhanh (`dynamic camera`) $\rightarrow$ Cho khán giả khoảng nghỉ bằng cú lướt êm dịu (`water-level drift` / `interior glide`).
-   * **Tương phản Môi trường:** Đan xen nhịp nhàng giữa Không gian mở ngoài trời (Outdoor trails, bridges) $\leftrightarrow$ Không gian ấm cúng trong nhà (Indoor hearths, tea taverns).
-
----
-
-## 3.2. ĐỒNG BỘ NHỊP THỞ ÂM NHẠC & ĐIỆN ẢNH (MUSICAL PACING & KINETIC TIERS)
-
-Chuyển động camera phải cộng hưởng với cấu trúc trường đoạn của bản nhạc:
-* **Đoạn Mở đầu (Intro - Khởi hành):** `smooth close-up drift`, `smooth macro camera drift`, `smooth wide panoramic glide` — khơi gợi sự tò mò, khám phá chi tiết sa bàn và thiết lập thế giới.
-* **Đoạn Thân bài (Verse / Journey - Hành trình):** `smooth camera tracking`, `smooth camera glide`, `smooth interior glide` — nhịp bước chân đều đặn, câu chuyện phát triển tự nhiên.
-* **Đoạn Cao trào (Chorus / Climax - Bùng nổ):** `smooth dynamic camera`, `smooth wide camera tracking` — giải phóng cảm xúc, nhịp điệu dồn dập, chuyển động vung tay/chạy nhảy/đánh đu bay bổng.
-* **Đoạn Lắng đọng / Kết bài (Outro - Trở về):** `smooth water-level drift`, `smooth orbital camera`, `smooth wide panoramic glide` — thu hẹp nhịp động, để lại dư âm lắng sâu và ấm áp bên lò sưởi gia đình.
-
----
-
-## 4. DÒNG CHẢY HÀNH VI TỰ NHIÊN DẠNG `-ing` (NATURAL BEHAVIOR FLOW)
-
-* **Chỉ mô tả biến cố / hành động cơ bản:** Không can thiệp vi mô (không tả góc gập đầu gối, không tả lắc cổ tay).
-* **Ưu tiên thì hiện tại tiếp diễn (`-ing`):**
-  * `talking and walking` (vừa đi vừa trò chuyện).
-  * `swinging high into the air` (đu bay vút lên bầu trời).
-  * `pouring steaming tea into the bowl` (rót trà bốc khói).
-  * `looking around and blinking alertly` (đưa mắt nhìn quanh và chớp mắt).
-* Khi nghe động từ tiếp diễn tự nhiên, AI tự động kích hoạt chuyển động nhịp nhàng của toàn bộ cơ thể người thật (miệng mấp máy, ánh mắt trao nhau, bước chân so le nhịp nhàng).
-
----
-
-## 5. BỘ LỌC DỌN RÁC 100% (ZERO-GARBAGE MANDATE)
-
-| ❌ Loại từ CẤM TUYỆT ĐỐI | Ví dụ | Hậu quả kỹ thuật trên Veo 3 |
-|---|---|---|
-| **Từ phủ định (Negative Prompt)** | `no cuts, no stutter, no morphing, no text, no watermark, no stop-motion, no freezing` | Cơ chế Attention bị hút vào các từ `stop-motion, freezing` $\rightarrow$ **Càng làm cảnh quay bị đơ cứng!** |
-| **Từ thì thào giảm lực (Damping Adjectives)** | `slow, slowly, gently, softly, faint` | Veo 3 tuân thủ tuyệt đối $\rightarrow$ **Giảm 80% biên độ, video đứng im như ảnh chết!** |
-| **Tả lại trang phục / ngoại hình tĩnh** | `wool coat, felt beret, turned wooden head, leather boots` | Phân tán sự chú ý vào vẽ lại chất liệu thay vì tính toán vector chuyển động. |
-
----
-
-## 6. CÔNG THỨC CHUẨN ĐIỆN ẢNH VEO 3 (THE VEO 3 MASTER FORMULA)
-
-Độ dài lý tưởng: **Từ 12 đến 22 từ**. Ngắn gọn, đắt giá, dứt khoát!
+Mỗi dòng trong `prompt-animate.txt` gói gọn trong 25–35 từ theo đúng mẫu vật lý ống kính:
 
 ```text
-Alive Surreal World, [Cú camera lướt êm]. [Nhân vật/Hai con người đang làm hành động cơ bản ở dạng -ing].
-```
+# 1. Giữ khung quan sát tại chỗ:
+Unstabilized camera [holds on / lingers on] [X], the frame breathing with natural motion. [Chủ thể tiếp tục chuyển động], while [facial expressions and ]everything around move[s] naturally.
 
----
+# 2. Di chuyển máy 1 trục (Tiến / Lùi / Trượt ngang / Nâng dọc / Xoay vòng):
+Unstabilized camera [moves closer to / pulls back from / glides sideways past / rises alongside / arcs around] [X], the frame swaying with natural motion. [Chủ thể tiếp tục chuyển động], while [facial expressions and ]everything around move[s] naturally.
 
-## 7. BỘ MẪU CHUẨN THỰC CHIẾN (PRODUCTION EXAMPLES)
-
-### Mẫu 1: Hai người đi dạo & trò chuyện (Walking & Talking)
-```text
-Alive Surreal World. Camera smoothly tracks with two people talking and walking along the path.
-```
-
-### Mẫu 2: Cặp đôi qua cầu gỗ (Bridge Crossing)
-```text
-Alive Surreal World, smooth camera tracking. Two people walking hand in hand across the wooden footbridge.
-```
-
-### Mẫu 3: Huých tay rủ đi & chỉ đường (Nudging & Pointing)
-```text
-Alive Surreal World, smooth camera glide. A young man nudging his companion's arm and pointing ahead as she turns to smile.
-```
-
-### Mẫu 4: Xích đu bay cất cánh (Swinging Launch)
-```text
-Alive Surreal World, smooth dynamic camera. A woman happily swinging high into the air as a man pushes from behind and laughs.
-```
-
-### Mẫu 5: Muông thú sa bàn (Lively Animal - Macro/Close-up Drift)
-```text
-Alive Surreal World, smooth close-up drift. A barn owl blinking and looking around alertly in the autumn wind.
-```
-
-### Mẫu 6: Nghệ nhân rót trà (Pouring Tea - Interior Glide)
-```text
-Alive Surreal World, smooth interior glide. A tea master pouring steaming tea into a bowl as a guest smiles warmly.
-```
-
-### Mẫu 7: Thuyền trôi mặt nước (Water-level Glide)
-```text
-Alive Surreal World, smooth water-level glide. A wooden fishing boat drifting across calm rippling water towards a lantern-lit dock.
-```
-
-### Mẫu 8: Toàn cảnh hoàng hôn thung lũng (Wide Panoramic / Orbital)
-```text
-Alive Surreal World, smooth wide panoramic glide. Evening lanterns flickering alive across rolling terraced hills and winding cobblestone lanes.
+# 3. Bám song song theo chủ thể đang di chuyển:
+Unstabilized tracking camera moves alongside [X], the frame visibly bobbing and swaying. [Chủ thể tiếp tục di chuyển], while [facial expressions and ]everything around move[s] naturally.
 ```
