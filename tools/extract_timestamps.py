@@ -9,12 +9,13 @@ Uses Faster-Whisper with Word-level Timestamps + Lyrics Alignment:
 - Liền mạch 100% (Zero-Gap): các khoảng nghỉ/solo được điền [INSTRUMENTAL],
   không làm rơi rụng bất kỳ giây nào của bài hát.
 - Xuất 3 file chuẩn:
-  1. timestamps.json  (Machine-readable cho AI agents / automation)
-  2. timestamps.txt   (Human-readable phân bổ bài hát)
-  3. lyrics.srt       (Phụ đề chuẩn Premiere / CapCut / DaVinci)
+  1. timestamps.json  (Machine-readable cho AI agents / Palmier Pro MCP automation)
+  2. timestamps.txt   (Human-readable phân bổ bài hát, đã chia sẵn cảnh nhạc dạo & snap beat)
+  3. lyrics.srt       (Phụ đề chuẩn Palmier Pro / Premiere / CapCut - giữ 100% mốc giọng hát gốc)
 
 Usage:
     uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio_path>
+    uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio_path> --beats beats.json
     uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio_path> --lyrics 3-lyrics.txt
     uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio_path> --lang vi --gap 2.0
 """
@@ -80,6 +81,93 @@ def find_lyrics_file(audio_path: Path, output_dir: Path = None, explicit_lyrics:
     return None
 
 
+def split_instrumental_shots(
+    section: str,
+    text: str,
+    start: float,
+    end: float,
+    downbeats: list[float],
+    beats: list[float],
+    max_shot_duration: float = 6.5,
+) -> list[dict]:
+    """Split long instrumental sections into ~5s shots aligned to Palmier downbeats (Beat 1)."""
+    dur = end - start
+    if dur <= max_shot_duration:
+        return [{
+            "type": "INSTRUMENTAL",
+            "section": section,
+            "start": round(start, 2),
+            "end": round(end, 2),
+            "duration": round(dur, 2),
+            "time_range": f"{format_time_mmss(start)} - {format_time_mmss(end)}",
+            "text": text,
+        }]
+
+    n_shots = max(2, round(dur / 5.2))
+    cuts = [start]
+    for k in range(1, n_shots):
+        ideal_t = start + k * (dur / n_shots)
+        prev_cut = cuts[-1]
+        # Prefer Palmier downbeats (Beat 1) within ±1.8s that keep shot >= 2.8s
+        candidates = [db for db in downbeats if prev_cut + 2.8 <= db <= end - 2.8 and abs(db - ideal_t) <= 1.8]
+        if not candidates:
+            candidates = [b for b in beats if prev_cut + 2.8 <= b <= end - 2.8 and abs(b - ideal_t) <= 1.2]
+        cut_t = min(candidates, key=lambda x: abs(x - ideal_t)) if candidates else ideal_t
+        cuts.append(round(cut_t, 2))
+    cuts.append(round(end, 2))
+
+    shots = []
+    for idx in range(len(cuts) - 1):
+        s, e = cuts[idx], cuts[idx + 1]
+        shots.append({
+            "type": "INSTRUMENTAL",
+            "section": section,
+            "start": round(s, 2),
+            "end": round(e, 2),
+            "duration": round(e - s, 2),
+            "time_range": f"{format_time_mmss(s)} - {format_time_mmss(e)}",
+            "text": f"{text} (Part {idx + 1}/{len(cuts) - 1})" if len(cuts) > 2 else text,
+        })
+    return shots
+
+
+def apply_hybrid_beat_snap(
+    sequence: list[dict],
+    downbeats: list[float],
+    beats: list[float],
+    snap_tolerance: float = 0.25,
+) -> int:
+    """Snap shot cut boundaries to nearest Palmier downbeat/beat within snap_tolerance (Zero-Gap)."""
+    if not downbeats and not beats:
+        return 0
+    snapped_count = 0
+    for i in range(1, len(sequence)):
+        prev_item = sequence[i - 1]
+        curr_item = sequence[i]
+        t = curr_item["start"]
+        # Check downbeats first (Beat 1), then regular beats
+        db_hits = [db for db in downbeats if abs(db - t) <= snap_tolerance]
+        b_hits = [b for b in beats if abs(b - t) <= snap_tolerance]
+        target = (
+            min(db_hits, key=lambda x: abs(x - t))
+            if db_hits
+            else (min(b_hits, key=lambda x: abs(x - t)) if b_hits else None)
+        )
+        if target is not None:
+            new_t = round(target, 2)
+            if new_t - prev_item["start"] >= 2.0 and curr_item["end"] - new_t >= 2.0:
+                if new_t != curr_item["start"]:
+                    snapped_count += 1
+                prev_item["end"] = new_t
+                prev_item["duration"] = round(prev_item["end"] - prev_item["start"], 2)
+                prev_item["time_range"] = f"{format_time_mmss(prev_item['start'])} - {format_time_mmss(prev_item['end'])}"
+                curr_item["start"] = new_t
+                curr_item["duration"] = round(curr_item["end"] - curr_item["start"], 2)
+                curr_item["time_range"] = f"{format_time_mmss(curr_item['start'])} - {format_time_mmss(curr_item['end'])}"
+                curr_item["beat_snapped"] = True
+    return snapped_count
+
+
 def extract_audio_timestamps(
     audio_path: str,
     output_dir: str = None,
@@ -88,6 +176,8 @@ def extract_audio_timestamps(
     lang: str = "en",
     gap_threshold: float = 2.0,
     max_shot_duration: float = 6.5,
+    beats_path: str = None,
+    snap_tolerance: float = 0.25,
 ):
     from faster_whisper import WhisperModel
 
@@ -102,10 +192,20 @@ def extract_audio_timestamps(
     detected_lyrics = find_lyrics_file(audio_file, target_dir, lyrics_path)
     model_name = pick_model_name(model_size, lang)
 
+    downbeats, beats, bpm = [], [], None
+    if beats_path and Path(beats_path).exists():
+        with open(beats_path, "r", encoding="utf-8") as bf:
+            bdata = json.load(bf)
+            downbeats = bdata.get("downbeats", [])
+            beats = bdata.get("beats", [])
+            bpm = bdata.get("bpm")
+
     print(f"🎵 Audio: {audio_file.name}")
     print(f"📂 Output: {target_dir}")
     print(f"📜 Lyrics: {detected_lyrics.name if detected_lyrics else 'Not provided (transcribe only)'}")
     print(f"🧠 Model: {model_name} | Language: {lang} | Gap threshold: {gap_threshold}s | Max shot: {max_shot_duration}s")
+    if downbeats or beats:
+        print(f"🥁 Palmier Beats loaded: BPM={bpm} | Downbeats={len(downbeats)} | Beats={len(beats)} | Snap={snap_tolerance}s")
 
     model = WhisperModel(model_name, device="cpu", compute_type="int8")
 
@@ -132,52 +232,78 @@ def extract_audio_timestamps(
             lyrics_lines = [line.strip() for line in f if line.strip()]
 
         print(f"🔗 Aligning {len(lyrics_lines)} lyrics lines with audio...")
-        seg_idx = 0
-        for l_idx, line in enumerate(lyrics_lines):
-            line_norm = normalize(line)
-            best_seg_count = 1
-            best_match_ratio = 0.0
+        words = [w for s in segments for w in (s.words or []) if normalize(w.word)]
+        l_chars, l_map = [], []
+        for idx, line in enumerate(lyrics_lines):
+            c = normalize(line)
+            l_chars.append(c)
+            l_map.extend([idx] * len(c))
+        w_chars, w_map = [], []
+        for idx, w in enumerate(words):
+            c = normalize(w.word)
+            w_chars.append(c)
+            w_map.extend([idx] * len(c))
 
-            # Scan ahead 1 to 3 segments to group sub-phrases
-            for count in [1, 2, 3]:
-                if seg_idx + count > len(segments):
-                    continue
-                cand_text = normalize(" ".join(s.text for s in segments[seg_idx : seg_idx + count]))
-                ratio = difflib.SequenceMatcher(None, line_norm, cand_text).ratio()
-                if ratio > best_match_ratio:
-                    best_match_ratio = ratio
-                    best_seg_count = count
-
-            matched_segs = segments[seg_idx : seg_idx + best_seg_count]
-            if not matched_segs:
+        matcher = difflib.SequenceMatcher(None, "".join(l_chars), "".join(w_chars), autojunk=False)
+        word_votes = {}
+        for i, j, n in matcher.get_matching_blocks():
+            if n < 2:
                 continue
+            for k in range(n):
+                li, wi = l_map[i + k], w_map[j + k]
+                word_votes.setdefault(wi, {})[li] = word_votes.get(wi, {}).get(li, 0) + 1
 
-            start_t = matched_segs[0].words[0].start if matched_segs[0].words else matched_segs[0].start
-            end_t = matched_segs[-1].words[-1].end if matched_segs[-1].words else matched_segs[-1].end
-            dur = end_t - start_t
+        line_words = {i: [] for i in range(len(lyrics_lines))}
+        last_li = 0
+        for wi in sorted(word_votes):
+            li = max(word_votes[wi], key=word_votes[wi].get)
+            if li >= last_li:
+                line_words[li].append(wi)
+                last_li = li
 
-            # Smart Intra-line Split: If longer than max_shot_duration and has multiple sub-segments
-            if dur > max_shot_duration and len(matched_segs) > 1:
-                for sub_s in matched_segs:
-                    sub_st = sub_s.words[0].start if sub_s.words else sub_s.start
-                    sub_et = sub_s.words[-1].end if sub_s.words else sub_s.end
-                    matched_lines.append({
-                        "text": sub_s.text.strip(),
-                        "start": round(sub_st, 2),
-                        "end": round(sub_et, 2),
-                        "duration": round(sub_et - sub_st, 2),
-                        "is_split": True,
-                    })
+        # Fill any internal unmatched lines using words between neighboring matched lines
+        for idx in range(len(lyrics_lines)):
+            if not line_words[idx]:
+                prev_w = max((max(line_words[p]) for p in range(idx - 1, -1, -1) if line_words[p]), default=-1)
+                next_w = min((min(line_words[n]) for n in range(idx + 1, len(lyrics_lines)) if line_words[n]), default=-1)
+                if prev_w != -1 and next_w != -1 and next_w > prev_w + 1:
+                    line_words[idx] = list(range(prev_w + 1, next_w))
+
+        for l_idx, line in enumerate(lyrics_lines):
+            ws = sorted(set(line_words[l_idx]))
+            if not ws:
+                matched_lines.append({"text": line, "start": None, "end": None, "duration": 0.0, "is_split": False})
+                continue
+            start_t = words[ws[0]].start
+            end_t = min(words[ws[-1]].end, words[ws[-1]].start + 1.5)
+            matched_lines.append({
+                "text": line,
+                "start": round(start_t, 2),
+                "end": round(end_t, 2),
+                "duration": round(end_t - start_t, 2),
+                "is_split": False,
+            })
+
+        # Interpolate any internal unmatched lines into the time window between matched neighbors
+        i = 0
+        while i < len(matched_lines):
+            if matched_lines[i]["start"] is None:
+                j = i
+                while j < len(matched_lines) and matched_lines[j]["start"] is None:
+                    j += 1
+                if i > 0 and j < len(matched_lines) and matched_lines[i - 1]["end"] is not None:
+                    t1 = matched_lines[j]["start"]
+                    start_idx = i - 1 if (t1 - matched_lines[i - 1]["end"]) < 2.0 * (j - i) else i
+                    t0 = matched_lines[start_idx]["start"] if start_idx == i - 1 else matched_lines[i - 1]["end"]
+                    step = max(0.5, (t1 - t0) / (j - start_idx))
+                    for k in range(start_idx, j):
+                        st = round(t0 + (k - start_idx) * step, 2)
+                        et = round(t0 + (k - start_idx + 1) * step, 2)
+                        matched_lines[k].update(start=st, end=et, duration=round(et - st, 2))
+                i = j
             else:
-                matched_lines.append({
-                    "text": line,
-                    "start": round(start_t, 2),
-                    "end": round(end_t, 2),
-                    "duration": round(dur, 2),
-                    "is_split": False,
-                })
-
-            seg_idx += best_seg_count
+                i += 1
+        matched_lines = [m for m in matched_lines if m["start"] is not None]
     else:
         # --- Mode 2: Pure Whisper Segments ---
         for s in segments:
@@ -196,23 +322,14 @@ def extract_audio_timestamps(
 
     # --- Build Zero-Gap Continuous Timeline ---
     full_sequence = []
-    seq_index = 1
     current_time = 0.0
 
     # Intro (Instrumental)
     if matched_lines and matched_lines[0]["start"] > 1.5:
         intro_end = matched_lines[0]["start"]
-        full_sequence.append({
-            "index": seq_index,
-            "type": "INSTRUMENTAL",
-            "section": "Intro",
-            "start": 0.0,
-            "end": intro_end,
-            "duration": round(intro_end, 2),
-            "time_range": f"00:00 - {format_time_mmss(intro_end)}",
-            "text": "[Intro / Instrumental Opening]",
-        })
-        seq_index += 1
+        full_sequence.extend(
+            split_instrumental_shots("Intro", "[Intro / Instrumental Opening]", 0.0, intro_end, downbeats, beats, max_shot_duration)
+        )
         current_time = intro_end
 
     for line in matched_lines:
@@ -220,17 +337,17 @@ def extract_audio_timestamps(
 
         # Real instrumental gap
         if gap >= gap_threshold:
-            full_sequence.append({
-                "index": seq_index,
-                "type": "INSTRUMENTAL",
-                "section": "Solo / Interlude",
-                "start": round(current_time, 2),
-                "end": line["start"],
-                "duration": round(gap, 2),
-                "time_range": f"{format_time_mmss(current_time)} - {format_time_mmss(line['start'])}",
-                "text": "[Instrumental Solo / Musical Break]",
-            })
-            seq_index += 1
+            full_sequence.extend(
+                split_instrumental_shots(
+                    "Solo / Interlude",
+                    "[Instrumental Solo / Musical Break]",
+                    round(current_time, 2),
+                    line["start"],
+                    downbeats,
+                    beats,
+                    max_shot_duration,
+                )
+            )
             current_time = line["start"]
         elif gap > 0:
             # Micro breath gap (< threshold): smoothly absorb into previous section to maintain 100% zero-gap
@@ -243,31 +360,42 @@ def extract_audio_timestamps(
             current_time = line["start"]
 
         full_sequence.append({
-            "index": seq_index,
             "type": "VOCAL",
             "section": "Lyrics",
             "start": line["start"],
             "end": line["end"],
+            "vocal_start": line["start"],
+            "vocal_end": line["end"],
             "duration": line["duration"],
             "time_range": f"{format_time_mmss(line['start'])} - {format_time_mmss(line['end'])}",
             "text": line["text"],
         })
-        seq_index += 1
         current_time = line["end"]
 
     # Outro (Instrumental)
     if current_time < duration - 1.0:
-        outro_dur = duration - current_time
-        full_sequence.append({
-            "index": seq_index,
-            "type": "INSTRUMENTAL",
-            "section": "Outro",
-            "start": round(current_time, 2),
-            "end": round(duration, 2),
-            "duration": round(outro_dur, 2),
-            "time_range": f"{format_time_mmss(current_time)} - {format_time_mmss(duration)}",
-            "text": "[Outro / Instrumental Ending]",
-        })
+        full_sequence.extend(
+            split_instrumental_shots(
+                "Outro",
+                "[Outro / Instrumental Ending]",
+                round(current_time, 2),
+                round(duration, 2),
+                downbeats,
+                beats,
+                max_shot_duration,
+            )
+        )
+
+    # Preserve contiguous vocal SRT windows BEFORE beat-snapping video cuts
+    for item in full_sequence:
+        if item["type"] == "VOCAL":
+            item["srt_start"] = item["start"]
+            item["srt_end"] = item["end"]
+
+    # Apply Hybrid Vocal + Palmier Beat-Snap to video cut boundaries
+    snapped_cuts = apply_hybrid_beat_snap(full_sequence, downbeats, beats, snap_tolerance)
+    for idx, item in enumerate(full_sequence, 1):
+        item["index"] = idx
 
     # --- Write Outputs ---
     json_path = target_dir / "timestamps.json"
@@ -278,6 +406,8 @@ def extract_audio_timestamps(
         "lyrics_file": detected_lyrics.name if detected_lyrics else None,
         "duration_seconds": round(duration, 2),
         "duration_formatted": format_time_mmss(duration),
+        "bpm": bpm,
+        "beat_snapped_cuts": snapped_cuts,
         "gap_threshold": gap_threshold,
         "max_shot_duration": max_shot_duration,
         "total_sections": len(full_sequence),
@@ -290,8 +420,8 @@ def extract_audio_timestamps(
     txt_path = target_dir / "timestamps.txt"
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write(f"# TIMESTAMPS: {audio_file.name}\n")
-        f.write(f"# Duration: {format_time_mmss(duration)} ({duration:.2f}s) | Sections: {len(full_sequence)} | Vocal lines: {json_data['vocal_lines_count']}\n")
-        f.write(f"# Model: {model_name} | Language: {lang} | Lyrics: {detected_lyrics.name if detected_lyrics else 'None'} | Zero-Gap Mode: ON\n\n")
+        f.write(f"# Duration: {format_time_mmss(duration)} ({duration:.2f}s) | Shots: {len(full_sequence)} | Vocal lines: {json_data['vocal_lines_count']} | BPM: {bpm or 'N/A'}\n")
+        f.write(f"# Model: {model_name} | Language: {lang} | Lyrics: {detected_lyrics.name if detected_lyrics else 'None'} | Zero-Gap Hybrid Beat-Snap: ON\n\n")
         for item in full_sequence:
             tag = f"[{item['type']}]".ljust(15)
             f.write(f"{item['time_range']}  ({item['duration']:5.2f}s)  {tag}  {item['text']}\n")
@@ -301,30 +431,27 @@ def extract_audio_timestamps(
     with open(srt_path, "w", encoding="utf-8") as f:
         for idx, item in enumerate(vocal_items, 1):
             f.write(f"{idx}\n")
-            f.write(f"{format_time_srt(item['start'])} --> {format_time_srt(item['end'])}\n")
+            f.write(f"{format_time_srt(item['srt_start'])} --> {format_time_srt(item['srt_end'])}\n")
             f.write(f"{item['text']}\n\n")
 
-    print(f"\n✅ Done! 3 files generated at {target_dir}:")
-    print(f"   timestamps.json  (Agent / Code automation)")
-    print(f"   timestamps.txt   (Human review - Zero Gap)")
-    print(f"   lyrics.srt       (Subtitle editor)")
+    print(f"\n✅ Done! 3 files generated at {target_dir} (Shots: {len(full_sequence)}, Beat-snapped cuts: {snapped_cuts}):")
+    print(f"   timestamps.json  (Agent / Palmier Pro MCP automation)")
+    print(f"   timestamps.txt   (Human review - Zero Gap & Downbeat Split)")
+    print(f"   lyrics.srt       (Subtitle editor - Exact Vocal Timing)")
 
     return json_data
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Extract vocal & instrumental timestamps aligned with song lyrics (Zero-Gap Whisper)",
+        description="Extract vocal & instrumental timestamps aligned with song lyrics + Palmier Pro Beats (Zero-Gap)",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""Examples:
   # Auto-detects 3-lyrics.txt in same folder:
   uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py song.wav
 
-  # Specify lyrics explicitly:
-  uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py song.wav --lyrics 3-lyrics.txt
-
-  # Vietnamese song with custom max shot duration:
-  uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py song.wav --lang vi --max-shot 6.0
+  # Hybrid Vocal + Palmier Pro Beat-Snap:
+  uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py song.wav --beats beats.json
 """,
     )
     parser.add_argument("audio", help="Audio file path (.wav, .mp3, .m4a, .flac)")
@@ -334,6 +461,8 @@ if __name__ == "__main__":
     parser.add_argument("--lang", help="Language code: en, vi, fr, ja... (default: en)", default="en")
     parser.add_argument("--gap", help="Min silence (seconds) to mark as instrumental solo (default: 2.0)", type=float, default=2.0)
     parser.add_argument("--max-shot", help="Max duration (seconds) before splitting long line (default: 6.5)", type=float, default=6.5)
+    parser.add_argument("--beats", help="Path to JSON file containing Palmier Pro detect_beats output (beats & downbeats)", default=None)
+    parser.add_argument("--snap-tolerance", help="Max seconds to snap vocal cut to nearest beat (default: 0.25)", type=float, default=0.25)
 
     args = parser.parse_args()
     extract_audio_timestamps(
@@ -344,4 +473,7 @@ if __name__ == "__main__":
         lang=args.lang,
         gap_threshold=args.gap,
         max_shot_duration=args.max_shot,
+        beats_path=args.beats,
+        snap_tolerance=args.snap_tolerance,
     )
+

@@ -25,19 +25,20 @@ Mỗi project = 1 hoặc 2 video hoàn chỉnh:
    * *Nghiên cứu ký ức thực tế (Tùy chọn `last30days`):* Khi làm chủ đề theo mùa/dịp lễ hoặc cần chất liệu mới, dùng `last30days` quét các cộng đồng người lớn tuổi để lấy kỷ niệm và chi tiết xúc giác đời thực.
 2. **Music (`2-music.md` & `3-lyrics.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/music_craft.md`](./craft/music_craft.md), [`ref/lyrics-index.md`](./ref/lyrics-index.md) và [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md). Sáng tác bài hát Folk theo đúng Chế độ Kể chuyện đã chọn ở `1-idea.md` & xuất lời sạch DistroKid.
    * *Nguyên tắc Phân vai Nhạc & Hình:* Đặt tâm tình, tín hiệu gợi mở (Subtle Cues) và chiêm nghiệm có độ mở cao vào lời bài hát theo quy định của Chế độ 1 hoặc Chế độ 2 tại [`craft/music_craft.md`](./craft/music_craft.md); giao phần diễn giải trực diện hoạt cảnh và thao tác cụ thể cho bảng phân cảnh hình ảnh (`storyboard.md`).
-   * *Trích xuất mốc thời gian:* Sau khi có file audio `.wav` và `3-lyrics.txt`, chạy:
-     `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav>`
-     để sinh bộ file `timestamps.json`, `timestamps.txt`, `lyrics.srt` (chuẩn Zero-Gap, khớp từng câu hát).
+   * *Trích xuất mốc thời gian & Nhịp Beat (Hybrid Vocal + Palmier Beat-Snap):* Sau khi có file audio `.wav` và `3-lyrics.txt`, gọi `import_media` + `detect_beats` qua MCP của **Palmier Pro** để lấy mảng `beats`/`downbeats`, sau đó chạy:
+     `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav> --beats <beats.json>`
+     để sinh bộ 3 file chuẩn Zero-Gap: `timestamps.json` và `timestamps.txt` (tự động chia các đoạn nhạc dạo dài thành các cảnh ~5s rơi đúng `downbeats` Beat 1 và hút nhẹ các điểm cắt cảnh có lời vào phách nhạc trong ngưỡng `±0.25s`) cùng `lyrics.srt` (giữ nguyên 100% mốc giọng hát gốc cho phụ đề).
 3. **Characters & Storyboard (`character.md` & `storyboard.md`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/visual_craft.md`](./craft/visual_craft.md), [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md) và kiểm toán đầu ra bằng [`craft/retention_review.md`](./craft/retention_review.md).
    * Lập file `character.md` theo đúng chế độ của bài hát (Chế độ 1: định nghĩa các nhân vật cố định `@Tên_nhân_vật` kèm Prompt tạo hình gốc chuẩn Stop-Motion; Chế độ 2: ghi chú không có nhân vật cố định, 100% nhân vật ở mỗi cảnh đều riêng lẻ khác nhau).
-   * Dựa trên `1-idea.md`, `character.md` và `timestamps.txt`, lập bảng đạo diễn 4 cột bằng tiếng Việt trong `storyboard.md` (~5s/cảnh). Áp dụng tỷ lệ **70% đời thường phóng khoáng : 30% điểm nhấn chất ngông thơ mộng (4 động cơ thăng hoa)**, ngôn ngữ cơ thể tự do bất quy tắc, bảng màu khoáng chất 70-20-10 tươi trong không ám vàng, cỡ cảnh (`35mm`/`50mm`), ma trận góc máy và quỹ đạo I2V trước khi xuất prompt tiếng Anh.
+   * Dựa trên `1-idea.md`, `character.md` và `timestamps.txt`, lập bảng đạo diễn 4 cột bằng tiếng Việt trong `storyboard.md` (~5s/cảnh, khớp 1:1 với các dòng cảnh trong `timestamps.txt`). Áp dụng tỷ lệ **70% đời thường phóng khoáng : 30% điểm nhấn chất ngông thơ mộng (4 động cơ thăng hoa)**, ngôn ngữ cơ thể tự do bất quy tắc, bảng màu khoáng chất 70-20-10 tươi trong không ám vàng, cỡ cảnh (`35mm`/`50mm`), ma trận góc máy và quỹ đạo I2V trước khi xuất prompt tiếng Anh.
 4. **Visual Prompts (`image.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** file phong cách tương ứng trong `style/` (ví dụ [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md)) và [`craft/visual_craft.md`](./craft/visual_craft.md).
    * Dịch 1:1 từng dòng đã duyệt trong `storyboard.md` sang prompt ảnh tiếng Anh giàu chất thơ vào `image.txt` (Chế độ 1 dùng `@Tên_nhân_vật` cho nhân vật chính + tư thế/biểu cảm/hành động/sự kiện, và mô tả trực tiếp nếu có thêm nhân vật ngoài luồng / cảnh đông người; Chế độ 2 mô tả trực tiếp nhân vật mới hoàn toàn ở từng dòng).
    * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh.
 5. **Animation Prompts (`prompt-animate.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/animation_craft.md`](./craft/animation_craft.md).
    * Đọc trực tiếp câu prompt gốc của từng cảnh trong `image.txt` để xác định đúng chủ thể, tư thế đang diễn ra và đạo cụ/phương tiện đang trực tiếp thao tác, sau đó viết prompt chuyển động khớp 1:1 vào `prompt-animate.txt`.
-6. **SEO & Packaging (`6-seo.md`):**
-   * Viết tiêu đề, mô tả và từ khóa YouTube. Tùy chọn dùng `last30days` để tham khảo cấu trúc tiêu đề và từ khóa đang thu hút tương tác cao trong 30 ngày qua trên các kênh nhạc cùng ngách.
+6. **Palmier Pro Assembly & SEO Packaging (`6-seo.md`):**
+   * *Dựng Timeline tự động qua Palmier Pro MCP:* Dùng bộ công cụ MCP (`import_media`, `add_clips`, `add_captions`, `manage_markers`, `manage_tracks`, `inspect_timeline`) để xếp nối tiếp toàn bộ video clips theo đúng khung frame của `timestamps.json` trên track `Main` (`includeAudio: false`), đồng bộ phụ đề từ `lyrics.srt` trên track `Captions` nằm trên cùng (`index: 0`), đặt nhạc nền gốc trên track `Music` và gắn Range Markers phân đoạn theo chương nhạc.
+   * *Viết tiêu đề, mô tả và từ khóa YouTube (`6-seo.md`):* Tùy chọn dùng `last30days` để tham khảo cấu trúc tiêu đề và từ khóa đang thu hút tương tác cao trong 30 ngày qua trên các kênh nhạc cùng ngách.
 
 ---
 
