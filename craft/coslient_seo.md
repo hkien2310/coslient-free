@@ -46,16 +46,16 @@ coslient, a dream town, original music, stop motion, handcrafted animation, mini
 
 ---
 
-## 3. QUY CHUẨN THUMBNAIL (3 PROMPTS TUYỂN CHỌN 1) & SHORTS
+## 3. QUY CHUẨN THUMBNAIL (3 PROMPTS POSTER TUYỂN CHỌN 1) & SHORTS
 
-### 3.1. Bốn nguyên tắc thiết kế Thumbnail tối ưu CTR (Khán giả 45–85+ trên TV 4K & Mobile)
-1. **Bố cục 3 lớp thông tin và quy mô chủ thể lớn (Qua bài kiểm tra thu nhỏ 150px):** Mỗi khung hình Thumbnail tập trung vào tối đa 3 lớp thông tin để mắt người lớn tuổi nhận diện tức thì trong 0.3 giây: **(1) Chủ thể chính chiếm 45%–60% diện tích khung hình**, **(2) Đúng 1 đạo cụ hoặc điểm nhấn câu chuyện trung tâm**, và **(3) Hậu cảnh thoáng sạch xóa phông dịu (`50mm bokeh`) hoặc mảng không gian khoáng đạt tách lớp rõ rệt**.
-2. **Khoảng trống tò mò song hành cùng Title (`Curiosity Gap`):** Chọn khoảnh khắc đắt giá nhất của bài hát có sự kết hợp khác thường mà ấm áp để mở ra câu hỏi thị giác trong tâm trí người xem, bổ trợ trực tiếp cho ý niệm trong Title.
-3. **Tương phản Nóng – Lạnh tách khối và Vùng an toàn (`Safe Zone`):** Đánh nguồn sáng ấm rõ nét lên chủ thể và đạo cụ ở tiền cảnh (vàng hổ phách, cam đất, đỏ trầm, ánh bạc của mái tóc) đặt tại trục 1/3 bên trái hoặc chính giữa lệch trái, nổi bật hoàn toàn trên nền 2/3 gam màu khoáng chất lạnh/thẫm có chiều sâu (xanh biển coban đậm, xanh sapphire, xanh chàm đêm, xanh đá phiến, xanh ngọc bích). Giữ thoáng góc dưới bên phải để tránh nhãn thời lượng video (`MM:SS`) của YouTube và chừa khoảng nền sạch cho 2–3 chữ lớn nếu cần chèn ngoài.
-4. **Quy trình xuất 3 Prompt độc lập để tạo và chọn 1 ảnh tốt nhất:** Mỗi bài hát trong `6-seo.md` xuất sẵn **3 câu lệnh tiếng Anh hoàn chỉnh** (tuân thủ đầy đủ chất liệu Stop-Motion, giải phẫu tỷ lệ theo độ tuổi, gọi mã `@Tên_nhân_vật` nếu thuộc Chế độ 1 hoặc mô tả trực tiếp nếu thuộc Chế độ 2, và khóa hậu tố `no text --ar 16:9` ở cuối câu theo [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)) tương ứng với 3 góc tiếp cận tâm lý tách biệt:
-   - **Prompt 1 — Trung cận Biểu cảm & Đạo cụ (`50mm` Portrait & Single Hero Prop):** Cắt từ ngực hoặc thắt lưng trở lên (`Intimate medium close-up chest-up / waist-up shot`), nhân vật chính chiếm 50%–60% khung hình với ánh mắt và biểu cảm sâu lắng đang tương tác trực tiếp với 1 đạo cụ biểu tượng của bài hát trước hậu cảnh xóa phông mịn.
-   - **Prompt 2 — Khoảnh khắc Kết nối Ấm áp (`50mm` Emotional Connection):** Đặc tả tương tác gần giàu tình cảm giữa các nhân vật (ở Chế độ 1) hoặc lát cắt con người ấm áp đắt giá nhất (ở Chế độ 2) dưới nguồn sáng dịu, khơi gợi sự đồng cảm và cảm giác bình yên.
-   - **Prompt 3 — Điểm neo Chất ngông & Tò mò (`Poetic Story Hook`):** Khung hình trung cảnh hoặc toàn cảnh cô đọng đặt chủ thể cùng điểm tựa hoặc đạo cụ thuộc 1 trong 4 động cơ chất ngông thơ mộng nổi bật giữa không gian khoáng đạt với độ tương phản sáng–tối mạnh như một poster phim điện ảnh 4K.
+### 3.1. Bốn nguyên tắc thiết kế Thumbnail chuẩn Poster Phim Điện Ảnh (Đẹp hơn cảnh thường & Tối ưu CTR)
+1. **Giữ nguyên 100% cú pháp nghệ thuật của `image.txt` (Không chèn từ khóa bố cục kỹ thuật máy móc):** Câu lệnh Thumbnail dùng chính xác 100% khung câu lệnh chuẩn của [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) để giữ trọn vẻ đẹp điêu khắc, ánh sáng phim nhựa Kodak 35mm và chiều sâu không gian của thế giới Stop-Motion (không chèn các cụm từ kỹ thuật khô cứng như `% diện tích khung hình`, `góc dưới bên phải` hay `vị trí 1/3` vào câu lệnh tiếng Anh vì sẽ làm AI vẽ phẳng và mất chất điện ảnh).
+2. **Nâng cấp ý tưởng lên tầm "Poster Phim Độc Bản" (Hội tụ đỉnh cao chất thơ của cả video):** Thay vì chỉ minh họa một câu hát chuyển tiếp như cảnh thường, mỗi Thumbnail là một bức Poster độc lập gói trọn linh hồn của cả video: kết hợp trực tiếp **Nhân vật chính + Đạo cụ biểu tượng đắt giá nhất + Bối cảnh kiến trúc/thiên nhiên choáng ngợp** để người xem vừa bị hút mắt bởi vẻ đẹp hội họa vừa tự hỏi *"Câu chuyện phía sau khung hình này là gì?"*.
+3. **Đẩy kịch trần độ tương phản màu khoáng chất và ánh sáng (`70% - 20% - 10%`):** Chọn thời khắc ánh sáng đẹp và kịch tính nhất (hoàng hôn đỏ cam rực rỡ trên nền biển xanh sapphire thẫm, nắng chiều vàng hổ phách xiên qua vách đá biển coban, hoặc ánh đèn lồng/ánh nến vàng ấm giữa đêm xanh chàm) để chủ thể và đạo cụ tự động bật sáng rực rỡ trên giao diện YouTube.
+4. **Quy trình xuất 3 Prompt Poster cho mỗi Video YouTube để tạo và chọn 1 tấm xuất sắc nhất:** Dù dự án có 1 hay 2 bài hát gộp chung thành 1 video, mỗi video chỉ dùng **1 bộ SEO thống nhất** trong `6-seo.md` và xuất **3 câu lệnh tiếng Anh hoàn chỉnh** (`no text --ar 16:9`) đại diện cho 3 ý tưởng Poster đắt giá nhất:
+   - **Prompt 1 — Poster Chất Ngông Chân Trời (`35mm` Iconic Poetic Horizon):** Khung hình trung-rộng toàn thân (`Spacious full-body wide shot`) đặt nhân vật và đạo cụ biểu tượng trên một điểm tựa kiến trúc hoặc địa hình cao khoáng đạt trước biển/trời bao la (Động cơ 1 & 2), tạo sự đối sánh tỷ lệ đầy chất thơ như một poster phim hoạt hình nghệ thuật.
+   - **Prompt 2 — Poster Phép Màu Ánh Sáng & Ẩn Dụ (`35mm` Dramatic Light & Metaphor):** Khung hình trung cảnh hoặc trung-rộng khai thác phép màu thị giác mạnh nhất của video: bóng đổ khổng lồ in lên tường đá dưới nắng xiên thấp, phương tiện cổ điển lướt gió, hoặc nguồn sáng đèn lồng/ánh nến ấm rực thắp lên giữa không gian chạng vạng xanh coban sâu thẫm (Động cơ 3 & 4).
+   - **Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`50mm` Soulful Storyteller Mid-Shot):** Khung hình trung cảnh cắt ngang thắt lưng (`Intimate medium waist-up shot`) đặt trong không gian kiến trúc mở nhìn ra cảnh sắc thiên nhiên có chiều sâu bokeh dịu, bắt trọn biểu cảm lắng đọng và cử chỉ gắn kết tình cảm sâu sắc nhất giữa các nhân vật cùng đạo cụ trung tâm.
 
 ### 3.2. Shorts
 - **Shorts:** Dưới 30 giây, trích đoạn hook âm nhạc mạnh nhất, đăng trước video full 1–2 ngày.
@@ -68,12 +68,12 @@ coslient, a dream town, original music, stop motion, handcrafted animation, mini
 
 ---
 
-## 5. SEO FILE TEMPLATE (1-CLICK COPY READY)
+## 5. SEO FILE TEMPLATE (1-CLICK COPY READY — 1 BỘ SEO THỐNG NHẤT CHO 1 VIDEO)
 
-File `6-seo.md` chuẩn cho mỗi project:
+File `6-seo.md` chuẩn cho mỗi project (khi project gồm 2 bài hát ghép thành 1 video YouTube, gộp chung trong 1 bộ SEO duy nhất kèm `⏱ CHAPTERS` trong Description và tách 2 bài ở mục DistroKid cuối file):
 
 ````markdown
-# SEO: [TÊN BÀI]
+# SEO: [TÊN VIDEO / DỰ ÁN]
 
 ## 1. FILE NAME (TRƯỚC KHI UPLOAD)
 
@@ -87,31 +87,31 @@ File `6-seo.md` chuẩn cho mỗi project:
 [story-hook-slug]-thumbnail.jpg
 ```
 
-## 2. TITLE
+## 2. TITLE (DƯỚI 70 KÝ TỰ)
 ```text
-[1 câu chuyện — ai, làm gì, thiếu mảnh gì] | A Dream Town
+[1 câu chuyện hoặc tên bài thơ mộng] | Surreal AI Folk Film (4K)
 ```
 
-*(Dự phòng 1: `[Story Hook dự phòng 1] | A Dream Town`)*  
-*(Dự phòng 2: `[Story Hook dự phòng 2] | A Dream Town`)*
+*(Dự phòng 1: `[Story Hook dự phòng 1] | A Dream Town (4K)`)*  
+*(Dự phòng 2: `[Story Hook dự phòng 2] | Surreal Folk Film (4K)`)*
 
-## 3. THUMBNAIL (3 PROMPTS TUYỂN CHỌN 1)
-- **Ý tưởng & Tương phản chủ đạo:** [Tóm tắt ngắn gọn điểm neo thị giác ăn khớp với Title và cặp tương phản Nóng – Lạnh]
+## 3. THUMBNAIL (3 PROMPTS POSTER TUYỂN CHỌN 1)
+- **Ý tưởng Poster & Tương phản chủ đạo:** [Tóm tắt 3 ý tưởng Poster hội tụ linh hồn của video và cặp tương phản ánh sáng – màu sắc]
 - **Text gợi ý (nếu chèn ngoài, 2-3 từ):** `[2-3 TỪ LỚN GỌN GÀNG]` *(hoặc để trống như Poster phim)*
 
-### Prompt 1 — Trung cận Biểu cảm & Đạo cụ (`50mm` Portrait & Single Hero Prop):
+### Prompt 1 — Poster Chất Ngông Chân Trời (`35mm` Iconic Poetic Horizon):
 ```text
-Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Intimate medium close-up waist-up shot from an eye-level three-quarter view positioned on the left third with an airy uncluttered softly defocused scenic background [bối cảnh gọn sạch] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp vóc dáng, cấu trúc mặt tròn mềm, tóc dày và trang phục], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], filling 55% of the frame in a [carefree unbuttoned bohemian / relaxed natural asymmetrical] posture with [biểu cảm ánh mắt rõ nét + hành động tương tác trực tiếp với 1 đạo cụ trung tâm duy nhất]. Single directional [nguồn sáng ấm chiếu rõ chủ thể] casting a single coherent shadow direction across a high-contrast mineral palette of 70% [nền màu khoáng chất lạnh/thẫm xóa phông sâu], 20% [màu ấm của trang phục/đạo cụ chủ thể], and 10% [điểm nhấn sáng + charcoal-black and saffron-yellow accents] with 50mm natural optical depth of field and soft background bokeh, clean uncluttered bottom-right corner, no text --ar 16:9
+Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Spacious full-body wide shot from a [low-angle upward / 45-degree high-angle] three-quarter view with generous open scenic space on an expansive open-air [điểm tựa kiến trúc/vách đá/bến cảng ấn tượng nhất nhìn ra thiên nhiên bao la] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a carefree unbuttoned bohemian posture [hành động chất ngông thơ mộng và tương tác đạo cụ biểu tượng đắt giá nhất của video]. Single directional [nguồn sáng ấm rực rỡ: warm amber-gold afternoon sunlight / blazing orange-gold sunset light] casting a single coherent shadow direction across a mineral palette of 70% [màu biển/trời xanh sâu thẫm: deep cobalt / deep sapphire], 20% [màu kiến trúc/địa hình và trang phục], and 10% [màu điểm nhấn đạo cụ rực rỡ + charcoal-black and saffron-yellow accents] with 35mm crisp deep environmental focus and clear horizon, no text --ar 16:9
 ```
 
-### Prompt 2 — Khoảnh khắc Kết nối Ấm áp (`50mm` Emotional Connection):
+### Prompt 2 — Poster Phép Màu Ánh Sáng & Ẩn Dụ (`35mm` Dramatic Light & Metaphor):
 ```text
-Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Intimate medium waist-up shot from an [eye-level / low-angle] three-quarter view with an airy uncluttered softly defocused scenic background [bối cảnh ấm áp thoáng mở] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a [relaxed natural asymmetrical / carefree unbuttoned] posture [khoảnh khắc gắn kết tình cảm hoặc cử chỉ vỗ về đắt giá nhất bài]. Single directional [nguồn sáng ấm áp] casting a single coherent shadow direction across a high-contrast mineral palette of 70% [màu nền khoáng chất sâu], 20% [màu bổ trợ ấm], and 10% [điểm nhấn màu + charcoal-black and saffron-yellow accents] with 50mm natural optical depth of field and soft background bokeh, clean uncluttered bottom-right corner, no text --ar 16:9
+Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Spacious [full-body wide / medium] shot from a [low-angle upward / eye-level] three-quarter view with generous open scenic space on an expansive open-air [bối cảnh mang phép màu ánh sáng/bóng đổ hoặc chạng vạng phố biển] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a carefree unbuttoned bohemian posture [khoảnh khắc thắp sáng đèn lồng/ánh nến hoặc phóng đại bóng đổ ẩn dụ trên bề mặt đá cổ]. Single directional [warm candle and brass lantern glow against cool twilight / low golden sunset light casting giant metaphorical shadows] casting a single coherent shadow direction across a mineral palette of 70% [deep twilight-indigo sky and cobalt sea / warm sunlit stone wall and cerulean sky], 20% [màu kiến trúc và trang phục], and 10% [glowing amber light / crimson accent + charcoal-black and saffron-yellow accents] with 35mm crisp deep environmental focus and clear horizon, no text --ar 16:9
 ```
 
-### Prompt 3 — Điểm neo Chất ngông & Tò mò (`Poetic Story Hook`):
+### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`50mm` Soulful Storyteller Mid-Shot):
 ```text
-Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Spacious medium-wide shot from a [low-angle upward / elevated 45-degree] three-quarter view with generous open scenic space on an expansive open-air [điểm tựa cao / bối cảnh thiên nhiên khoáng đạt] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a carefree unbuttoned bohemian posture [khoảnh khắc chất ngông thơ mộng hoặc điểm neo câu chuyện gây tò mò tức thì]. Single directional [nguồn sáng tương phản mạnh] casting a single coherent shadow direction across a high-contrast mineral palette of 70% [màu khí quyển/biển/trời sâu thẫm], 20% [màu điểm tựa kiến trúc và trang phục], and 10% [điểm nhấn đạo cụ + charcoal-black and saffron-yellow accents] with 35mm crisp deep environmental focus and clear horizon, clean uncluttered bottom-right corner, no text --ar 16:9
+Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Intimate medium waist-up shot from an eye-level three-quarter view with an airy uncluttered softly defocused scenic background on an expansive open-air [hiên gỗ/bậc thềm đá cổ nhìn ra vịnh biển hoặc đồi thông] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a relaxed natural asymmetrical posture [cử chỉ gắn kết tình cảm ấm áp nhất cùng đạo cụ trung tâm của câu chuyện]. Single directional [warm amber-gold sunlight / warm brass porch lantern light] casting a single coherent shadow direction across a mineral palette of 70% [deep sapphire ocean / twilight cobalt bay in the background], 20% [weathered timber/stone and woven linen clothing], and 10% [hero prop color + charcoal-black and saffron-yellow accents] with 50mm natural optical depth of field and soft background bokeh, no text --ar 16:9
 ```
 
 ## 4. DESCRIPTION
