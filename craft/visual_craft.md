@@ -85,7 +85,7 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
 2. **Rộng và trung rộng toàn thân:** Lấy trọn toàn thân từ đầu đến giày đặt trên điểm tựa trước không gian thoáng mở (ống kính 35mm nét sâu).
 3. **Trung cảnh:** Lấy nhân vật ở mặt phẳng trung cảnh khi phần chân được che tự nhiên bởi địa hình hoặc điểm tựa phía trước.
 4. **Trung cận:** Lấy từ thắt lưng hoặc ngực trở lên để đặc tả biểu cảm gương mặt, ánh mắt và đôi tay cắt trực tiếp qua eo trước hậu cảnh mở thoáng mờ dịu (ống kính 50mm).
-5. **Cận cảnh tĩnh vật (`B-roll`):** Đặc tả 1 đến 2 đồ vật thủ công đơn khối ở cự ly gần đặt trước hậu cảnh thoáng mở, hoàn toàn không có người (ống kính 50mm).
+5. **Cận cảnh:** Đặc tả chi tiết chủ thể, bước chân, cử chỉ hoặc 1 đến 2 đồ vật thủ công đơn khối (`B-roll`) ở cự ly gần đặt trước hậu cảnh thoáng mở (ống kính 50mm; dừng ở mức cận cảnh, không dùng siêu cận).
 
 ### 4.2. Ma trận góc máy: 4 Độ cao trục dọc $\times$ 4 Hướng xoay ngang
 Mọi cảnh trong `storyboard.md` và `image.txt` luôn ghép rõ **1 Độ cao trục dọc** với **1 Hướng xoay ngang**, luân chuyển linh hoạt để hai cảnh liền kề ($N \to N+1$) không trùng góc đặt máy (không dùng góc thẳng đứng 90 độ từ đỉnh đầu xuống vì gây rối mắt và mất đường chân trời):
