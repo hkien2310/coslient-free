@@ -12,24 +12,25 @@
 ## 1. Đầu Vào & Quy Trình Thực Thi Tự Động 100%
 
 ### 1.1. Đầu vào từ Người dùng
-- Người dùng cung cấp **Link YouTube** (kèm dữ liệu SEO/Top Comments từ `youtube-scraper` nếu có) hoặc bỏ trực tiếp các file nhạc/video viral (`.mp3`, `.wav`, `.m4a`, `.mp4`) vào `projects/XXX/doi-thu/`.
+- Người dùng cung cấp **1 hoặc nhiều Link YouTube** (dán trực tiếp vào chat hoặc lưu trong file `.md`/`.txt`) hoặc bỏ các file nhạc/video viral (`.mp3`, `.wav`, `.m4a`, `.mp4`) vào `projects/XXX/doi-thu/`.
+- Hỗ trợ 2 chế độ: **Chế độ Chỉ Phân tích Nhạc Hàng loạt (Multi-Link Audio Batch — mặc định khi ném nhiều link nhạc)** và **Chế độ Giải phẫu Toàn diện cả Nhạc & MV**.
 
 ### 1.2. Các bước AI tự động thực thi
-1. **Lưu dữ liệu đầu vào:** Nếu người dùng dán nội dung SEO và Link YouTube vào chat, tạo thư mục `projects/XXX/doi-thu/` và lưu vào `projects/XXX/doi-thu/seo.md`.
-2. **Đo thông số kỹ thuật Âm thanh (DSP — Bắt buộc cho mọi bài nhạc/video mẫu):**
+1. **Lưu dữ liệu đầu vào:** Tạo thư mục `projects/XXX/doi-thu/` và lưu danh sách link (kèm thông tin SEO/Comments nếu có) vào `projects/XXX/doi-thu/links.txt` (hoặc `seo.md`).
+2. **Tự động tải Audio & Đo thông số kỹ thuật DSP hàng loạt (Bắt buộc cho mọi link/file nhạc):**
    ```bash
    python3 tools/analyze_audio.py projects/XXX/doi-thu
    ```
-   - Thu thập chính xác: `Duration`, `BPM` (kèm `Half-time BPM` và `Beat Stability`), `Key & Scale`, `Crest Factor (Dynamic Range)`, `Tỷ lệ năng lượng 6 dải tần số`, `Energy Sections` và file nhẹ `*_listen.mp3`.
-3. **Tách cảnh & Cắt lưới hình ảnh 4K (Khi phân tích cả MV hình ảnh của đối thủ):**
+   - Script tự động quét toàn bộ link YouTube trong thư mục (hoặc nhận danh sách link truyền thẳng qua CLI `python3 tools/analyze_audio.py <url1> <url2> --out-dir projects/XXX/doi-thu`), tải luồng audio nhẹ kèm metadata (`title`, `channel`, `view_count`, `like_count`) và xuất báo cáo JSON tổng hợp cho tất cả các bài: `Duration`, `BPM` (`Half-time BPM`, `Beat Stability`), `Key & Scale`, `Crest Factor (Dynamic Range)`, `Tỷ lệ năng lượng 6 dải tần số`, `Energy Sections` và file `*_listen.mp3`.
+3. **Tách cảnh & Cắt lưới hình ảnh 4K (Chỉ chạy khi người dùng yêu cầu phân tích cả hình ảnh/chuyển động MV):**
    ```bash
    python3 tools/analyze_motion.py projects/XXX/doi-thu
    ```
-   - Xuất bộ **4K Shot Sheets** (`projects/XXX/doi-thu/shot_sheets/shots_*.jpg` — lưới `3x3 @ 1280x720`) để soi bố cục/tạo hình và **4K Motion Grids** (`projects/XXX/doi-thu/grids/grid_*.jpg` — lưới `6x10 @ 4 FPS`) cùng `motion_metadata.json` để soi nhịp dựng.
-4. **Nghe trực tiếp & Đọc dữ liệu đa phương thức:**
-   - Dùng công cụ đọc file mở trực tiếp `*_listen.mp3` để nghe màu giọng, cách nhả chữ, nhạc cụ dẫn dắt, vòng hòa thanh và khoảng thở solo; đồng thời đọc `shot_sheets/`, `grids/` (nếu có) và `seo.md`.
-5. **Xuất Báo cáo Giải phẫu (`projects/XXX/phan-tich.md`):**
-   - Tổng hợp kết quả theo cấu trúc 4 tầng dưới đây và rút ra phương án chuyển hóa sang bản sắc Folk của kênh.
+   - Xuất bộ **4K Shot Sheets** (`projects/XXX/doi-thu/shot_sheets/shots_*.jpg` — lưới `3x3 @ 1280x720`) và **4K Motion Grids** (`projects/XXX/doi-thu/grids/grid_*.jpg` — lưới `6x10 @ 4 FPS`) cùng `motion_metadata.json`.
+4. **Nghe trực tiếp & So sánh mẫu số chung (Khi phân tích nhiều bài nhạc):**
+   - Dùng công cụ đọc file mở trực tiếp các file `*_listen.mp3` để nghe màu giọng, cách nhả chữ, nhạc cụ dẫn dắt, vòng hòa thanh, cấu trúc câu Hook và khoảng thở solo; lập bảng so sánh ngang giữa các bài để tìm **Mẫu số chung ăn đề xuất (Viral Audio Denominator)**.
+5. **Xuất Báo cáo Giải phẫu (`projects/XXX/doi-thu/phan-tich.md` hoặc `projects/XXX/phan-tich.md`):**
+   - Tổng hợp kết quả (bỏ qua Tầng 3 nếu chỉ phân tích nhạc) và rút ra phương án chuyển hóa sang bản sắc Folk của kênh.
 
 ---
 

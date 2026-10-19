@@ -175,36 +175,131 @@ def analyze_file(target: Path) -> dict:
     }
 
 
-def resolve_input(path_str: str) -> Path:
-    p = Path(path_str)
-    if p.is_file():
-        return p
-    if p.is_dir():
-        candidates = [
-            f for f in sorted(p.iterdir())
-            if f.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS) and not f.stem.endswith("_listen")
-        ]
-        if candidates:
-            return candidates[0]
-        # Nếu chưa có file nhạc/video nhưng có link YouTube trong .md/.txt, tự tải audio về
-        for f in sorted(p.iterdir()):
-            if f.is_file() and f.suffix.lower() in (".md", ".txt"):
-                text = f.read_text(encoding="utf-8", errors="ignore")
-                m_url = re.search(r"https?://(?:www\.)?(?:youtube\.com/watch\?v=|youtu\.be/)([A-Za-z0-9_-]{11})", text)
-                if m_url:
-                    yt_url = m_url.group(0)
-                    out_m4a = p / "competitor_audio.m4a"
-                    ytdlp_cmd = ["yt-dlp"] if shutil.which("yt-dlp") else ["uvx", "yt-dlp"]
-                    subprocess.run(ytdlp_cmd + ["-f", "bestaudio[ext=m4a]/bestaudio", "-o", str(out_m4a), yt_url], check=True)
-                    return out_m4a
-        raise FileNotFoundError(f"Không tìm thấy file nhạc/video hoặc link YouTube trong thư mục: {p}")
-    raise FileNotFoundError(f"Không tìm thấy đường dẫn: {p}")
+def download_yt_audio(yt_url: str, vid_id: str, out_dir: Path) -> tuple[Path, dict]:
+    out_dir.mkdir(parents=True, exist_ok=True)
+    meta_path = out_dir / f"{vid_id}_meta.json"
+    existing = [f for f in out_dir.glob(f"{vid_id}*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
+    ytdlp_cmd = ["yt-dlp"] if shutil.which("yt-dlp") else ["uvx", "yt-dlp"]
+
+    meta = {}
+    if meta_path.exists():
+        try:
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+
+    if not existing or not meta:
+        proc = subprocess.run(
+            ytdlp_cmd + ["--dump-single-json", "--no-playlist", yt_url],
+            capture_output=True, text=True, check=False
+        )
+        if proc.returncode == 0 and proc.stdout.strip():
+            raw = json.loads(proc.stdout.splitlines()[-1])
+            meta = {
+                "video_id": vid_id,
+                "url": f"https://www.youtube.com/watch?v={vid_id}",
+                "title": raw.get("title", ""),
+                "channel": raw.get("uploader") or raw.get("channel", ""),
+                "view_count": raw.get("view_count"),
+                "like_count": raw.get("like_count"),
+                "upload_date": raw.get("upload_date"),
+            }
+            meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    if existing:
+        return existing[0], meta
+
+    out_tmpl = str(out_dir / f"{vid_id}.%(ext)s")
+    subprocess.run(
+        ytdlp_cmd + ["--no-playlist", "-f", "bestaudio[ext=m4a]/bestaudio", "-o", out_tmpl, yt_url],
+        stdout=subprocess.DEVNULL, check=True
+    )
+    downloaded = [f for f in out_dir.glob(f"{vid_id}.*") if f.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS)]
+    if not downloaded:
+        raise FileNotFoundError(f"Không tải được audio cho {yt_url}")
+    return downloaded[0], meta
+
+
+YT_REGEX = re.compile(r"https?://(?:www\.)?(?:youtube\.com/watch\?v=|youtu\.be/|youtube\.com/shorts/)([A-Za-z0-9_-]{11})")
+
+
+def resolve_inputs(args: list[str]) -> list[tuple[Path, dict]]:
+    out_dir = Path("projects/025/doi-thu")
+    raw_items = []
+    i = 0
+    while i < len(args):
+        if args[i] in ("-o", "--out-dir") and i + 1 < len(args):
+            out_dir = Path(args[i + 1])
+            i += 2
+        else:
+            raw_items.append(args[i])
+            i += 1
+
+    results: list[tuple[Path, dict]] = []
+    seen_ids = set()
+
+    for item in raw_items:
+        # 1. Direct YouTube URL(s) in argument string
+        matches = list(YT_REGEX.finditer(item))
+        if matches:
+            for m in matches:
+                vid_id = m.group(1)
+                if vid_id not in seen_ids:
+                    seen_ids.add(vid_id)
+                    results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+            continue
+
+        p = Path(item)
+        if p.is_file():
+            if p.suffix.lower() in (".md", ".txt"):
+                out_dir = p.parent
+                text = p.read_text(encoding="utf-8", errors="ignore")
+                for m in YT_REGEX.finditer(text):
+                    vid_id = m.group(1)
+                    if vid_id not in seen_ids:
+                        seen_ids.add(vid_id)
+                        results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+            elif p.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS):
+                results.append((p, {}))
+        elif p.is_dir():
+            out_dir = p
+            # Check text files for YouTube URLs first
+            for f in sorted(p.iterdir()):
+                if f.is_file() and f.suffix.lower() in (".md", ".txt") and f.name != "phan-tich.md":
+                    text = f.read_text(encoding="utf-8", errors="ignore")
+                    for m in YT_REGEX.finditer(text):
+                        vid_id = m.group(1)
+                        if vid_id not in seen_ids:
+                            seen_ids.add(vid_id)
+                            results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+            # Also include any standalone local audio/video files not already added
+            added_paths = {r[0].resolve() for r in results}
+            for f in sorted(p.iterdir()):
+                if (
+                    f.is_file()
+                    and f.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS)
+                    and not f.stem.endswith("_listen")
+                    and f.resolve() not in added_paths
+                ):
+                    meta_f = p / f"{f.stem}_meta.json"
+                    meta = json.loads(meta_f.read_text(encoding="utf-8")) if meta_f.exists() else {}
+                    results.append((f, meta))
+
+    if not results:
+        raise FileNotFoundError("Không tìm thấy link YouTube hoặc file audio hợp lệ.")
+    return results
 
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python3 tools/analyze_audio.py <file_or_folder_path>", file=sys.stderr)
+        print("Usage: python3 tools/analyze_audio.py <url1> [url2 ...] [--out-dir <folder>]", file=sys.stderr)
         sys.exit(1)
-    target_file = resolve_input(sys.argv[1])
-    result = analyze_file(target_file)
-    print(json.dumps(result, indent=2, ensure_ascii=False))
+    targets = resolve_inputs(sys.argv[1:])
+    all_reports = []
+    for target_file, yt_meta in targets:
+        rep = analyze_file(target_file)
+        if yt_meta:
+            rep["youtube_meta"] = yt_meta
+        all_reports.append(rep)
+    output = all_reports[0] if len(all_reports) == 1 else {"count": len(all_reports), "tracks": all_reports}
+    print(json.dumps(output, indent=2, ensure_ascii=False))
