@@ -36,9 +36,9 @@ Mỗi project = 1 hoặc 2 video hoàn chỉnh:
    * Chạy tool tự động tải ảnh (`dola-auto-download`) về thư mục ảnh.
 5. **Animation Prompts (`prompt-animate.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/animation_craft.md`](./craft/animation_craft.md).
    * Đọc trực tiếp câu prompt gốc của từng cảnh trong `image.txt` để xác định đúng chủ thể, tư thế đang diễn ra và đạo cụ/phương tiện đang trực tiếp thao tác, sau đó viết prompt chuyển động khớp 1:1 vào `prompt-animate.txt`.
-6. **Palmier Pro Assembly & SEO Packaging (`6-seo.md`):**
+6. **Palmier Pro Assembly & SEO Packaging (`6-seo.md`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/coslient_seo.md`](./craft/coslient_seo.md).
    * *Dựng Timeline tự động qua Palmier Pro MCP:* Dùng bộ công cụ MCP (`import_media`, `add_clips`, `add_captions`, `manage_markers`, `manage_tracks`, `inspect_timeline`) để xếp nối tiếp toàn bộ video clips theo đúng khung frame của `timestamps.json` trên track `Main` (`includeAudio: false`), đồng bộ phụ đề từ `lyrics.srt` trên track `Captions` nằm trên cùng (`index: 0`), đặt nhạc nền gốc trên track `Music` và gắn Range Markers phân đoạn theo chương nhạc.
-   * *Viết tiêu đề, mô tả và từ khóa YouTube (`6-seo.md`):* Tùy chọn dùng `last30days` để tham khảo cấu trúc tiêu đề và từ khóa đang thu hút tương tác cao trong 30 ngày qua trên các kênh nhạc cùng ngách.
+   * *Đóng gói siêu dữ liệu & 3 Prompt Thumbnail (`6-seo.md`):* Xuất đầy đủ tiêu đề, bộ 3 Prompt Thumbnail tiếng Anh chuyên biệt tối ưu CTR (để tạo ảnh và chọn lấy 1 tấm tốt nhất), mô tả, từ khóa, Shorts và phân phối Playlist/DistroKid theo mẫu tại [`craft/coslient_seo.md`](./craft/coslient_seo.md). Tùy chọn dùng `last30days` để tham khảo cấu trúc tiêu đề và từ khóa đang thu hút tương tác cao trong 30 ngày qua trên các kênh nhạc cùng ngách.
 
 ---
 
@@ -56,7 +56,7 @@ projects/XXX/
 ├── storyboard.md          (Bảng phân cảnh tối giản 1 dòng/shot ~5s để duyệt trước)
 ├── image.txt              (Kho prompts ảnh phẳng khớp 1:1 với storyboard.md)
 ├── prompt-animate.txt     (Kho prompts chuyển động khớp 1:1 với image.txt)
-├── 6-seo.md               (Tiêu đề, mô tả YouTube)
+├── 6-seo.md               (Tiêu đề, 3 prompts Thumbnail, mô tả & từ khóa YouTube)
 └── dola-auto-download/    (Thư mục ảnh tải về)
 ```
 
