@@ -28,9 +28,9 @@
      - *Khi di chuyển máy một trục:* `Unstabilized camera [1-axis verb] [X], the frame swaying with natural motion.`
      - *Khi bám song song theo chủ thể đang bước đi hoặc di chuyển:* `Unstabilized tracking camera moves alongside [X], the frame visibly bobbing and swaying.`
 
-2. **Lớp 2 — Hành động tiếp diễn liên tục và biểu cảm điềm tĩnh tự nhiên (`Continuous Mid-Action & Calm Natural Tail`):**
-   - **Với cảnh có người:** Gọi chủ thể bằng danh từ chỉ người ngắn gọn khớp với ảnh gốc. Mô tả trực tiếp sự tiếp diễn mượt mà của đúng hoạt động thực tế và tương tác nhân-quả đang diễn ra tại vị trí hiện tại suốt 5 giây, kết hợp động từ biểu cảm điềm đạm, ấm áp và khép câu bằng đuôi cố định: **`, while facial expressions and everything around move naturally.`**
-   - **Với cảnh cận cảnh tĩnh vật (`B-roll`):** Lấy vật thể trung tâm trong ảnh làm chủ thể, mô tả chuyển động vật lý tự nhiên tại chỗ của vật thể cùng môi trường và khép câu bằng đuôi: **`, while everything around moves naturally.`**
+2. **Lớp 2 — Triển khai hành động từ tư thế khởi đầu và biểu cảm điềm tĩnh tự nhiên (`Action Execution from Onset & Calm Natural Tail`):**
+   - **Với cảnh có người:** Gọi chủ thể bằng danh từ chỉ người ngắn gọn khớp với ảnh gốc. Từ tư thế khởi đầu ở giây 0 trong ảnh, mô tả trực tiếp quá trình thực hiện mượt mà thao tác thực tế và tương tác phối hợp đó diễn ra suốt 5 giây tiếp theo, kết hợp động từ biểu cảm điềm đạm, ấm áp và khép câu bằng đuôi cố định: **`, while facial expressions and everything around move naturally.`**
+   - **Với cảnh cận cảnh tĩnh vật (`B-roll`):** Lấy vật thể trung tâm trong ảnh làm chủ thể, mô tả chuyển động vật lý tự nhiên phát triển từ trạng thái mở đầu của vật thể cùng môi trường và khép câu bằng đuôi: **`, while everything around moves naturally.`**
 
 ---
 

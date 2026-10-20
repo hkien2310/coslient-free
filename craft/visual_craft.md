@@ -47,13 +47,13 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
 
 ---
 
-## 2. Nguyên lý động năng cơ thể, tương tác bổ trợ và bốn động cơ thăng hoa (70/30)
+## 2. Nguyên lý khung tĩnh khởi đầu hành động, tương tác phối hợp và bốn động cơ thăng hoa (70/30)
 
-1. **Động năng cơ thể giữa chừng và hệ quả vật lý hữu hình (`Mid-Action Body Mechanics & Kinetic Consequence`):**
-   - Mỗi khung hình bắt trọn khoảnh khắc nhân vật đang ở giữa một thao tác lao động, chăm sóc hoặc sinh hoạt có biên độ vận động cơ thể rõ rệt, tạo ra hệ quả vật lý nhìn thấy được ngay trong không gian.
+1. **Khung tĩnh khởi đầu hành động ở giây 0 (`Action-Onset Posture & Physical Readiness`):**
+   - Mỗi bức ảnh tĩnh đóng vai trò là khung hình mở đầu (`t = 0s`) của cảnh quay 5 giây: bắt trọn tư thế cơ thể ngay khoảnh khắc vừa bắt đầu bước vào một thao tác lao động, chăm sóc hoặc sinh hoạt có mục đích thực tế rõ ràng, giúp người xem nhận diện ngay hành động sắp diễn ra.
    - Mọi hoạt động và vật dụng sinh hoạt đương đại đều đặt đúng không gian công năng tự nhiên và tuân thủ tỷ lệ vật lý thực tế của người trưởng thành.
-2. **Phân tách hai tư thế vận động bổ trợ trong cùng khung hình (`Differentiated Complementary Actions`):**
-   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đảm nhận một tư thế cơ thể riêng biệt và một thao tác vận động khác nhau nhưng phối hợp nhịp nhàng trong cùng một mục đích chung.
+2. **Phân tách hai tư thế khởi đầu bổ trợ trong cùng khung hình (`Complementary Starting Postures`):**
+   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đứng hoặc ngồi ở một tư thế khởi đầu riêng biệt và chuẩn bị thực hiện một thao tác phối hợp nhịp nhàng với người kia trong cùng một công việc chung.
 3. **Tỷ lệ 70% Sinh hoạt đời thực ấm áp : 30% Điểm nhấn thăng hoa giàu chất thơ:**
    - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật thực hiện các hoạt động chăm sóc, chế tác, sẻ chia và trò chuyện đời thường với sự gắn kết ấm áp trong không gian sống gần gũi.
    - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Nâng hoạt động thực tế có mục đích lên một điểm nhìn khoáng đạt hoặc giàu chất thơ thông qua **1 trong 4 động cơ thăng hoa**:
