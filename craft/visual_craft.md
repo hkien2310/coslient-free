@@ -1,98 +1,98 @@
 # VISUAL CRAFT: NGHỆ THUẬT ĐẠO DIỄN STORYBOARD & CHUỖI KHUNG HÌNH (`character.md` & `storyboard.md`)
 
 > 🔒 **GHI CHÚ CỐ ĐỊNH — CHỨC NĂNG FILE & QUY TẮC BẤT BIẾN (TUYỆT ĐỐI KHÔNG CHỈNH SỬA / XÓA MỤC NÀY):**
-> - **Chức năng duy nhất của file:** Nhận đầu vào từ `1-idea.md` và `timestamps.txt` để thiết lập hồ sơ nhân vật `character.md` và đạo diễn bảng phân cảnh `storyboard.md` (ý niệm thị giác, đường cong năng lượng theo cấu trúc nhạc, tỷ lệ 70/30 cùng 4 động cơ thăng hoa, bố cục không gian, ma trận góc máy và luật đảo nhịp $N \to N+1$). Toàn bộ thông số chất ảnh, giải phẫu tạo hình chi tiết và khung câu lệnh tiếng Anh cho `character.md` / `image.txt` nằm độc lập tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md).
+> - **Chức năng duy nhất của file:** Nhận đầu vào từ `1-idea.md` và `timestamps.txt` để thiết lập hồ sơ nhân vật `character.md` và đạo diễn bảng phân cảnh `storyboard.md` (hoạt động sống có mục đích thực tế, tương tác nhân-quả trong khung hình, đường cong năng lượng theo cấu trúc nhạc, tỷ lệ 70/30 cùng 4 động cơ thăng hoa, bố cục không gian, ma trận góc máy và luật đảo nhịp $N \to N+1$). Toàn bộ nguyên lý chất liệu stop-motion, ma trận 7 trục đa dạng hóa nhân vật và khung câu lệnh 4 khối tiếng Anh cho `character.md` / `image.txt` nằm độc lập tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md).
 > - **Quy tắc chỉnh sửa tài liệu này:**
->   1. **Ưu tiên dùng khẳng định hơn phủ định:** Hướng dẫn trực tiếp những gì cần thiết kế, cần vẽ và cần đạt được bằng câu khẳng định rõ ràng. Chỉ liệt kê từ khóa cần tránh đối với các trường hợp lỗi kỹ thuật đặc thù của AI không thể xử lý bằng cách khác.
->   2. **Luôn Rule hóa thông tin (`Rule-First`) & Hạn chế tối đa thiên kiến liệt kê:** Khái quát hóa mọi ý tưởng thành quy tắc chung hoạt động cho mọi video và mọi bối cảnh. Hạn chế tối đa việc liệt kê danh sách sự vật, chủ đề hay sự kiện cụ thể (vì liệt kê chính là một dạng của `Use Case` gây thiên kiến lặp lại cho AI); chỉ nêu trường hợp cụ thể (`Use Case`) khi đó là ngoại lệ đặc biệt không thể làm khác.
->   3. **Ưu tiên thêm mới và làm giàu quy tắc, hạn chế tối đa việc xóa / mất dữ liệu:** Khi nâng cấp quy trình, luôn bảo toàn các quy tắc kỹ thuật, bố cục, động cơ sáng tạo và từ vựng cấu trúc đã đúc kết; chỉ chỉnh sửa cục bộ đúng chỗ cần thiết (`/ponytail`, `/humanizer`).
+>   1. Không liệt kê lẻ tẻ sự vật sự kiện.
+>   2. Không dùng phủ định.
+>   3. Tuyệt đối không viết Use Case mà phải đúc kết thành Rule.
 
 ---
 
 ## 1. Quy trình đạo diễn `character.md` và `storyboard.md`
 
 ### Bước 1: Thiết lập `character.md` theo hai chế độ kể chuyện
-Dựa vào chế độ đã chốt tại `1-idea.md`, lập file `character.md` trước khi chia cảnh (mẫu câu lệnh tiếng Anh quy định tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)):
+Dựa vào chế độ đã chốt tại `1-idea.md`, lập file `character.md` trước khi chia cảnh (theo mẫu câu lệnh 4 khối tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)):
 1. **Chế độ 1 (Kể chuyện cá nhân):**
-   - `character.md` định nghĩa các nhân vật trung tâm xuyên suốt bằng mã `@Tên_nhân_vật`, kèm một câu lệnh tạo hình tham chiếu gốc (ví dụ mặc định) chuẩn stop-motion cho mỗi người. Khi đi vào mạch chuyện dài trong `storyboard.md` và `image.txt`, chỉ giữ cố định **vóc dáng hình thể** và **đường nét cấu trúc gương mặt nhận diện**; **biểu cảm nét mặt tuyệt đối không khóa cứng** mà phải biến chuyển tự nhiên theo cảm xúc từng cảnh, đồng thời **trang phục, kiểu tóc (nếu có) và phụ kiện có thể thay đổi linh hoạt** tùy theo diễn biến câu chuyện và từng prompt.
-   - Khi kịch bản có thêm nhân vật phụ ngoài luồng hoặc đám đông cư dân trong không gian chung, mô tả trực tiếp ngoại hình của họ ngay trong dòng kịch bản của cảnh đó. Đan xen nhịp nhàng giữa cảnh có `@Tên_nhân_vật`, cảnh có nhân vật ngoài luồng và cảnh tĩnh vật (`B-roll`) theo mạch chuyện.
+   - `character.md` định nghĩa các nhân vật trung tâm xuyên suốt bằng mã `@Tên_nhân_vật`, kèm một câu lệnh tạo hình tham chiếu gốc nén đủ 7 trục nhận diện chuẩn stop-motion cho mỗi người. Khi đi vào mạch chuyện dài trong `storyboard.md` và `image.txt`, giữ cố định **khung dáng** và **khối mặt nhận diện**; linh hoạt biến chuyển biểu cảm ánh mắt, cử chỉ và trang phục theo diễn biến thực tế của từng cảnh.
+   - Khi kịch bản có thêm nhân vật phụ tương tác trong hành trình, mô tả trực tiếp nhân vật đó bằng công thức nén 7 trục đối lập với nhân vật chính ngay trong dòng kịch bản. Đan xen nhịp nhàng giữa cảnh có `@Tên_nhân_vật`, cảnh tương tác cộng đồng và cảnh tĩnh vật (`B-roll`) theo mạch chuyện.
 2. **Chế độ 2 (Ý niệm đa diện, 100% lát cắt độc lập):**
-   - `character.md` ghi chú bài hát thuộc Chế độ 2, không có nhân vật cố định.
-   - Toàn bộ 50 đến 70 cảnh trong `storyboard.md` là các lát cắt độc lập mở rộng ra nhiều con người, độ tuổi, nghề nghiệp và gia đình khác nhau cùng sống trong một đại địa điểm, được mô tả trực tiếp ở từng dòng lệnh. Khi lời hát lặp lại từ khóa hoặc điệp khúc, chuyển hóa cảm xúc câu hát sang những con người mới, tiểu bối cảnh mới và ý tưởng thị giác mới.
+   - `character.md` ghi chú bài hát thuộc Chế độ 2.
+   - Toàn bộ các cảnh trong `storyboard.md` là những lát cắt độc lập mở rộng ra nhiều con người, thế hệ và mảnh đời khác nhau cùng sống trong một đại địa điểm, được định danh trực tiếp bằng công thức nén 7 trục ở từng dòng lệnh. Khi lời hát lặp lại điệp khúc, chuyển hóa cảm xúc câu hát sang những con người mới, tiểu bối cảnh mới và hoạt động tương tác mới.
 
 ### Bước 2: Đạo diễn `storyboard.md` theo cấu trúc âm nhạc
-`storyboard.md` tập trung vào ý niệm thị giác, ẩn dụ cảm xúc từ lời hát, động cơ thăng hoa, đường cong năng lượng, móc nối chuyển cảnh, cỡ cảnh, góc máy và bảng màu của từng khung hình:
-1. **Intro (0:00 đến 0:15, Cú chặn thị giác 5 giây đầu):** Cảnh 01 (00:00 đến 00:05) mở màn trực tiếp bằng một khoảnh khắc chất ngông thơ mộng hoặc một điểm neo đơn khối có sức hút thị giác tức thì để giữ chân người xem và xác lập không khí đại địa điểm.
-2. **Verse (Tự sự gần gũi):** Các lát cắt đời sống ấm áp, nhịp máy chậm rãi, đan cài những chi tiết tinh tế phản chiếu nội tâm bài hát.
-3. **Chorus (Mở bừng không gian và giải phóng năng lượng):** Chủ động mở rộng quy mô khung hình bằng các góc toàn cảnh từ điểm nhìn cao xa, góc nghiêng từ trên cao 45 độ hoặc góc thấp ngước lên bầu trời, đẩy mạnh chuyển động của thiên nhiên và giải phóng những cử chỉ tự do, bay bổng.
-4. **Bridge / Nhạc dạo (Đỉnh thị giác và bước ngoặt cảm xúc):** Đặt các ý tưởng thị giác táo bạo, tĩnh lặng mà giàu chất thơ ở mốc 2/3 bài, kết hợp bước chuyển pha ánh sáng rõ nét.
-5. **Outro (Dư âm và đồng vọng):** Lắng đọng cảm xúc, tạo sự đồng vọng thị giác với khung hình mở đầu ở trạng thái thời gian và ánh sáng đã viên mãn.
+`storyboard.md` tập trung vào hoạt động thực tế có mục đích, tương tác nhân-quả giữa các nhân vật, động cơ thăng hoa, đường cong năng lượng, cỡ cảnh, góc máy và ánh sáng của từng khung hình:
+1. **Intro (0:00 đến 0:15, Cú chặn thị giác mở màn):** Cảnh 01 (00:00 đến 00:05) mở màn trực tiếp bằng một hoạt động đón nhận hoặc sẻ chia giàu chất thơ trên không gian mở khoáng đạt để thu hút ánh nhìn tức thì và xác lập không khí đại địa điểm.
+2. **Verse (Tự sự gần gũi):** Các lát cắt sinh hoạt, lao động và chăm sóc ấm áp với mục đích thực tế rõ ràng, phản chiếu chiều sâu nội tâm bài hát.
+3. **Chorus (Mở bừng không gian và kết nối):** Chủ động mở rộng quy mô khung hình bằng các góc toàn cảnh từ điểm nhìn cao xa, góc nghiêng từ trên cao 45 độ hoặc góc thấp ngước lên bầu trời, kết nối các nhân vật trong những hoạt động đồng hành tràn đầy sinh khí.
+4. **Bridge / Nhạc dạo (Đỉnh thị giác và bước ngoặt cảm xúc):** Đặt các khoảnh khắc giao thoa tĩnh lặng mà sâu lắng ở mốc 2/3 bài, kết hợp bước chuyển pha ánh sáng tự nhiên rõ nét.
+5. **Outro (Dư âm và đồng vọng):** Lắng đọng cảm xúc, tạo sự đồng vọng thị giác với khung hình mở đầu ở trạng thái thời gian đã viên mãn và sum vầy.
 
-Các cảnh liền kề được khâu nối mượt mà bằng sự đồng điệu hình khối, tiếp nối hướng chuyển động của gió và máy quay, hoặc đối cực quy mô từ đại cảnh xuống cận cảnh.
+Các cảnh liền kề được khâu nối mượt mà bằng sự đồng điệu hình khối, tiếp nối hướng chuyển động của nhân vật và máy quay, hoặc đối cực quy mô từ đại cảnh xuống cận cảnh.
 
 ```markdown
 # STORYBOARD: [TÊN TRACK]
-- Chế độ kể chuyện: [Chế độ 1 (Kể chuyện cá nhân, dùng @Tên_nhân_vật + tả trực tiếp nhân vật ngoài luồng) | Chế độ 2 (Ý niệm đa diện, 100% lát cắt độc lập)]
-- Thời lượng: [MM:SS] | Số cảnh: [N] shots (~5s/shot)
+- Chế độ kể chuyện: [Chế độ 1 (Kể chuyện cá nhân, dùng @Tên_nhân_vật + nén 7 trục cho nhân vật phụ) | Chế độ 2 (Ý niệm đa diện, 100% lát cắt độc lập nén 7 trục)]
+- Thời lượng: [MM:SS] | Số cảnh: [N] shots (~4s/shot)
 - Đại địa điểm: [Không gian lớn bao trùm toàn bài lấy từ 1-idea.md và 3-lyrics.txt]
-- Hành trình ánh sáng và bảng màu: [Sự biến thiên tự nhiên của ánh sáng và các gam màu khoáng chất tươi trong qua từng đoạn nhạc]
-- Điểm nhấn chữ ký: Mỗi cảnh gài 1 chi tiết nhỏ mang cặp màu Đen than và Vàng nghệ.
+- Hành trình ánh sáng: [Sự biến thiên tự nhiên của ánh sáng mặt trời qua từng đoạn nhạc]
 
-| Shot & Giờ | Đoạn nhạc & Lời hát | Thông số đạo diễn (Cỡ cảnh, Độ cao + Hướng máy, Tiểu bối cảnh, I2V) | Ý tưởng thị giác, Động cơ thăng hoa, Biểu cảm & Bảng màu (Móc nối cảnh) |
+| Shot & Giờ | Đoạn nhạc & Lời hát | Thông số đạo diễn (Cỡ cảnh, Độ cao + Hướng máy, Tiểu bối cảnh, I2V) | Tạo hình 7 trục đối lập, Hoạt động thực & Tương tác Nhân-Quả |
 | :--- | :--- | :--- | :--- |
-| 01 (00:00-00:05) | [Intro] | Cỡ: [Cỡ cảnh + Tiêu cự]<br>Góc: [Độ cao trục dọc + Hướng ngang]<br>Bối cảnh: [Tiểu bối cảnh]<br>I2V: [Quỹ đạo máy] | **[Tên ý tưởng / Động cơ]:** [Khoảnh khắc ẩn dụ khớp câu hát, vị trí và hành động của chủ thể hoặc tĩnh vật B-roll, chuyển động hậu cảnh, biểu cảm, chi tiết đen-vàng và bảng màu 70-20-10 của cảnh]. |
+| 01 (00:00-00:04) | [Intro] | Cỡ: [Cỡ cảnh]<br>Góc: [Độ cao trục dọc + Hướng ngang]<br>Bối cảnh: [Tiểu bối cảnh tự nhiên đúng công năng]<br>I2V: [Quỹ đạo máy] | **[Tên ý tưởng / Động cơ]:** [Mô tả 7 trục đối lập của các nhân vật + Hoạt động sống có mục đích thực tế và tương tác nhân-quả trực tiếp giữa các chủ thể + Nguồn sáng tự nhiên]. |
 ```
 
 ### Bước 3: Biên dịch 1:1 sang `image.txt`
-Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng Anh trong `image.txt` theo khung câu chuẩn của Chế độ 1 hoặc Chế độ 2 tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md).
+Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng Anh 4 khối trong `image.txt` theo khung chuẩn tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md).
 
 ---
 
-## 2. Quy luật tỷ lệ 70/30 và bốn động cơ chất ngông nghệ thuật
+## 2. Nguyên lý hoạt động thực tế, tương tác nhân-quả và bốn động cơ thăng hoa (70/30)
 
-- **Nguyên lý làm quá lên một nấc từ hành động có mục đích:** Chất ngông thơ mộng xuất phát từ một hành động con người bình thường, có mục đích cảm xúc rõ ràng, sau đó nâng điểm tựa không gian hoặc độ phiêu lãng của cử chỉ lên một nấc tự do, phóng khoáng hơn ngay trong những cấu trúc kiến trúc và địa hình thuộc về thế giới đó. Luôn dịch ẩn ý cảm xúc của lời hát thành hành động tương tác thực tế với môi trường.
-- **Ngôn ngữ cơ thể lãng tử, bất quy tắc:** Nhân vật mang thái độ sống tự do, phóng khoáng, thoát khỏi sự lịch thiệp cứng nhắc. Tư thế cơ thể luôn thả lỏng, bất đối xứng hoặc bung mở theo cảm xúc (ngả lưng tự nhiên, co một chân lên điểm tựa, đung đưa chân trên cao, tháo giày đi chân trần, mở cúc áo đón gió, đội mũ/phụ kiện lệch).
-- **Tỷ lệ 70% Đời thường phóng khoáng : 30% Điểm nhấn chất ngông:**
-  - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật sinh hoạt, chế tác thủ công, trò chuyện và di chuyển ở những vị trí tự nhiên với tư thế thoải mái, giàu hơi thở đời sống; vẻ đẹp điện ảnh đến từ dấu ấn thời gian của chất liệu, góc máy, ánh sáng và chiều sâu không gian thoáng đãng.
-  - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Mỗi cảnh chọn **đúng 1 điểm nhấn duy nhất** thuộc 1 trong 4 động cơ dưới đây:
-
-1. **Động cơ 1 (Điểm tựa cao phóng khoáng và cử chỉ phiêu lãng):** Đưa một hoạt động giao tiếp, vui chơi hoặc thưởng thức đời thường lên một điểm tựa kiến trúc hoặc địa hình cao tách biệt khỏi mặt đất thông thường, mở ra đường chân trời rộng lớn để nhân vật thực hiện những cử chỉ tự do, lãng mạn như những nghệ sĩ giữa đất trời.
-2. **Động cơ 2 (Kiến trúc hoặc điểm neo đơn khối giữa thiên nhiên bao la):** Đặt một công trình kiến trúc duyên dáng vốn thuộc về cảnh quan hoặc 1 đến 2 vật dụng nghỉ ngơi, sinh hoạt đơn khối nằm tách biệt một mình giữa không gian thiên nhiên lộ thiên rộng lớn để tạo sự đối sánh tỷ lệ tĩnh lặng và giàu chất thơ.
-3. **Động cơ 3 (Phóng đại tỷ lệ bóng đổ và đổi công năng đạo cụ):** Dùng ánh nắng chiếu xiên góc thấp để biến bóng đổ của nhân vật và đạo cụ thủ công nhỏ bé thành một hình bóng ẩn dụ khổng lồ in lên bề mặt kiến trúc hoặc mặt đất; hoặc biến một vật dụng, chi tiết tự nhiên gần gũi thành đạo cụ chơi đùa, chỉ huy nhịp điệu thiên nhiên.
-4. **Động cơ 4 (Phương tiện hoài niệm lướt gió và tâm thế tự tại):** Đưa các phương tiện di chuyển cổ điển nhỏ nhắn lướt qua địa hình thiên nhiên rộng mở với phục trang bay căng theo luồng gió mạnh; hoặc đặt nhân vật tận hưởng một thói quen đời thường với tâm thái điềm nhiên, tự tại giữa thiên nhiên chuyển động mạnh.
+1. **Trạng thái hoạt động thực và logic công năng vật lý (`Purposeful Real-Life Activity & Physical Logic`):**
+   - Mỗi khung hình bắt trọn một hoạt động đời sống, lao động, chuẩn bị hoặc giao tiếp đang diễn ra với mục đích thực tế rõ ràng, giúp người xem hiểu ngay câu chuyện trong giây đầu tiên.
+   - Mọi hoạt động và vật dụng đều đặt đúng không gian công năng tự nhiên và tuân thủ tỷ lệ vật lý thực tế của người trưởng thành.
+2. **Tương tác nhân-quả trong cùng khung hình (`Action-Reaction & Give-Receive Micro-Story`):**
+   - Trong các cảnh có từ hai nhân vật trở lên, thiết lập mối liên hệ nhân-quả trực tiếp giữa các chủ thể: hành động trao tặng, chuẩn bị, mời gọi hoặc dẫn dắt của người này gắn kết chặt chẽ với ánh mắt, bước chân hoặc cử chỉ đón nhận của người kia.
+3. **Tỷ lệ 70% Sinh hoạt đời thực ấm áp : 30% Điểm nhấn thăng hoa giàu chất thơ:**
+   - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật thực hiện các công việc chăm sóc, chế tác, sẻ chia và trò chuyện đời thường với sự gắn kết ấm áp trong không gian sống gần gũi.
+   - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Nâng hoạt động thực tế có mục đích lên một điểm nhìn khoáng đạt hoặc giàu chất thơ thông qua **1 trong 4 động cơ thăng hoa**:
+     1. **Động cơ 1 (Hoạt động sẻ chia trên điểm nhìn khoáng đạt):** Đưa một hoạt động đón đợi, trò chuyện hoặc thưởng thức có mục đích thực tế lên một điểm tựa cảnh quan cao mở ra đường chân trời rộng lớn.
+     2. **Động cơ 2 (Điểm neo đơn khối giữa thiên nhiên bao la):** Đặt một điểm dừng chân hoặc vật dụng sinh hoạt đúng công năng nằm nổi bật giữa không gian thiên nhiên lộ thiên rộng lớn để tạo sự đối sánh tỷ lệ tĩnh lặng và giàu chất thơ khi con người tìm đến.
+     3. **Động cơ 3 (Hòa điệu ánh sáng xiên dài và nhịp điệu thiên nhiên):** Sử dụng ánh nắng chiếu xiên góc thấp tạo bóng đổ dài giàu tính biểu tượng trên bề mặt địa hình, hoặc kết nối cử chỉ thực tế của nhân vật với chuyển động của cảnh vật phía xa.
+     4. **Động cơ 4 (Hành trình đồng hành qua cảnh quan rộng mở):** Đưa nhân vật di chuyển hoặc sánh bước cùng nhau trên những cung đường cảnh quan thoáng đãng phù hợp với địa hình thực tế, hòa cùng làn gió và nhịp điệu âm nhạc.
 
 ---
 
-## 3. Sáu quy luật bố cục không gian, bảng màu và điều phối nhịp điệu
+## 3. Sáu quy luật bố cục không gian, ánh sáng và điều phối nhịp điệu
 
-1. **Thống nhất đại địa điểm và đa dạng hóa công trình:** Mỗi bài hát neo vào một đại địa điểm xuyên suốt lấy từ `1-idea.md` và `3-lyrics.txt`, mang dấu ấn thời gian ấm áp, có hồn. Giữa các cảnh kế tiếp, chủ động biến hóa hình khối, chất liệu và cao độ của các tiểu bối cảnh; kết hợp hài hòa giữa không gian sinh hoạt đời thường gần gũi (ở 70% cảnh đời thường) và các điểm mốc kiến trúc, địa hình cảnh quan khoáng đạt (ở 30% cảnh chất ngông).
-2. **Khoảng thở không gian và tiết chế đạo cụ theo bối cảnh:** Giữ bố cục thoáng sạch để tách bật đường viền chủ thể khỏi hậu cảnh (mở rộng 50% đến 70% khoảng thở bầu trời, mặt nước hoặc địa hình ở các đại cảnh ngoài trời; giữ chiều sâu ngăn nắp, không bày biện rối mắt ở các cảnh xưởng nghề, phố thị hoặc trong nhà). Mỗi khung hình tập trung vào 1 tâm điểm thị giác rõ ràng.
-3. **Cân bằng không gian trong nhà, bán nội thất và ngoài trời:** Đặt các hoạt động sinh hoạt, chế tác tỉ mỉ trong không gian nội thất hoặc bán nội thất ấm cúng, và bung mở các hoạt động di chuyển, phiêu lãng ra đại cảnh ngoài trời. Cảnh nội thất hoặc hiên nhà luôn có chiều sâu không gian và nguồn sáng rõ hướng qua khung cửa sổ, ô thoáng hoặc cửa mở kết nối với thế giới bên ngoài (không nhốt nhân vật trong phòng kín bức bối không cửa sổ). Chuyển động của môi trường (gió, sóng, mây, lá rơi, nắng) co giãn nhịp nhàng theo âm nhạc: êm dịu ở đoạn tự sự lắng đọng và bung mở mạnh mẽ ở đoạn điệp khúc cao trào.
-4. **Một nguồn sáng chính mềm mại và bảng màu khoáng chất 70-20-10 đa sắc thái, có chiều sâu:** Mỗi cảnh sử dụng 1 nguồn sáng chính chiếu từ 1 hướng rõ ràng với độ chuyển sáng êm dịu (nắng chiều ấm áp, nắng hổ phách dịu, ánh sáng tán xạ mềm qua mây, hoàng hôn đỏ cam rực rỡ trên nền biển thẫm, hoặc ánh sáng ấm hắt ra từ hiên nhà và khung cửa sổ trong chạng vạng xanh chàm), tránh ánh nắng trưa trắng gắt gây chói lóa. Chủ động biến thiên 70% mảng màu môi trường chủ đạo qua các gam màu khoáng chất có chiều sâu (xanh biển coban đậm, xanh sapphire, xanh da trời cerulean, xanh ngọc bích, xanh lục bảo, xanh đá phiến, cam vàng hoàng hôn đối lập biển xanh thẫm, xanh chàm) và ưu tiên bề mặt đá/gỗ nhuốm màu thời gian tự nhiên thay vì tường đá trắng lốp để khung hình vừa mềm mại, đa dạng vừa trong trẻo.
-5. **Bố cục bất đối xứng 1/3, lệch tầng cao thấp và biểu cảm điềm tĩnh chừng mực:** Đặt chủ thể lệch về trục 1/3 khung hình, hướng mặt về phía 2/3 khoảng mở của khung cảnh. Khi có từ 2 nhân vật trở lên, ưu tiên sắp đặt lệch tầng cao thấp theo đường chéo và để các chủ thể hướng mặt trực tiếp vào nhau qua khoảng không sạch. Hiển thị trọn vẹn đôi chân chạm điểm tựa hoặc đung đưa tự nhiên trên cao khi cảnh lộ mặt nền. Mô tả biểu cảm tinh tế, điềm đạm qua ánh mắt lắng đọng, đôi môi thả lỏng tự nhiên hoặc nụ cười mỉm khép môi nhẹ nhàng khớp với tâm trạng từng câu hát (tránh các biểu cảm cường điệu lố như cười ngoác miệng, ngửa cổ cười lớn hay reo hò quá đà).
-6. **Luật độc bản ý tưởng toàn bài và đảo nhịp liền kề ($N \to N+1$):** Mỗi ý tưởng chất ngông, mỗi điểm tựa cao, phương tiện hoặc đạo cụ đổi công năng chỉ xuất hiện đúng 1 lần trong toàn bài (trừ cảnh kết đồng vọng với cảnh mở đầu). Giữa hai cảnh liền kề ($N \to N+1$), bắt buộc thay đổi tối thiểu 3 trong 4 yếu tố:
-   - *Chủ thể, hành động và biểu cảm:* Ở Chế độ 1, nhân vật `@Tên_nhân_vật` chuyển sang hành động, sự kiện, tư thế và biểu cảm mới, kết hợp tách/gộp nhân vật, đan xen nhân vật ngoài luồng hoặc cảnh tĩnh vật (`B-roll`). Ở Chế độ 2, đổi sang nhân vật mới hoàn toàn cùng số lượng người và trạng thái biểu cảm mới.
-   - *Tiểu bối cảnh và độ cao không gian:* Luân chuyển giữa không gian nội thất/bán nội thất thoáng sáng, mặt đất/mép nước ngoài trời và điểm tựa cao nhìn ra chân trời.
-   - *Bảng màu chủ đạo (70%) và sắc thái ánh sáng:* Luân chuyển gam màu khoáng chất 70% của môi trường và sắc thái ánh sáng mềm mại sau mỗi 1 đến 2 cảnh.
-   - *Cỡ cảnh, độ cao trục dọc của máy và động cơ sáng tạo:* Xoay vòng cỡ cảnh, độ cao đặt máy và trục bố cục 1/3.
+1. **Thống nhất đại địa điểm và đa dạng hóa tiểu bối cảnh công năng:** Mỗi bài hát neo vào một đại địa điểm xuyên suốt lấy từ `1-idea.md` và `3-lyrics.txt`. Giữa các cảnh kế tiếp, chủ động biến hóa các tiểu bối cảnh đúng với công năng của hoạt động đang diễn ra.
+2. **Khoảng thở không gian và sự tập trung vào tâm điểm tương tác:** Giữ bố cục thoáng sạch để làm nổi bật đường viền chủ thể và tương tác nhân-quả ở trung tâm (mở rộng khoảng thở bầu trời, mặt nước hoặc địa hình ở đại cảnh; làm mờ dịu hậu cảnh ở cảnh trung cận và cận cảnh).
+3. **Cân bằng không gian bán nội thất và ngoài trời:** Đặt các hoạt động chuẩn bị, chăm sóc tỉ mỉ tại hiên nhà, sân đá hoặc không gian bán nội thất có cửa mở thoáng nhìn ra cảnh sắc bên ngoài, và bung mở các hoạt động đồng hành, gặp gỡ ra đại cảnh ngoài trời.
+4. **Hành trình ánh sáng tự nhiên trong trẻo:** Mỗi cảnh sử dụng một nguồn sáng mặt trời hoặc ánh sáng chạng vạng tự nhiên chiếu theo hướng nhất quán, chuyển pha mượt mà từ buổi sớm trong trẻo sang chiều ấm và hoàng hôn sâu lắng theo tiến trình bài hát.
+5. **Bố cục kết nối ánh nhìn và sự đa dạng diện mạo 7 trục:** Đặt các chủ thể ở vị trí kết nối trực tiếp với nhau qua ánh mắt và cử chỉ trao-nhận. Áp dụng công thức nén 7 trục đối lập để các nhân vật đứng cạnh nhau luôn mang khung dáng, khối mặt, mái tóc sợi và trang phục vải dệt hoàn toàn riêng biệt ở cùng tỷ lệ chiều cao người lớn cân đối.
+6. **Luật độc bản hoạt cảnh toàn bài và đảo nhịp liền kề ($N \to N+1$):** Mỗi hoạt cảnh tương tác và mỗi tiểu bối cảnh xuất hiện độc bản trong bài (cảnh kết tạo vòng tròn đồng vọng với cảnh mở đầu ở trạng thái sum vầy). Giữa hai cảnh liền kề ($N \to N+1$), chủ động xoay vòng đồng thời cả 4 yếu tố:
+   - *Chủ thể và hoạt động tương tác:* Chuyển sang hoạt động thực tế mới và tổ hợp nhân vật 7 trục mới (hoặc bước tiến triển sự kiện mới của `@Tên_nhân_vật` ở Chế độ 1).
+   - *Tiểu bối cảnh và cao độ không gian:* Luân chuyển giữa hiên nhà/sân đá, mặt đường/mép nước và điểm nhìn cao nhìn ra chân trời.
+   - *Cỡ cảnh và độ sâu trường ảnh:* Đan xen nhịp nhàng giữa cảnh rộng nét sâu và cảnh trung/cận hậu cảnh mờ dịu.
+   - *Độ cao trục dọc và hướng đặt máy:* Xoay vòng độ cao máy và góc nhìn ngang ở mỗi lần chuyển cảnh.
 
 ---
 
 ## 4. Năm cỡ cảnh và ma trận góc máy hai chiều
 
 ### 4.1. Năm cỡ cảnh linh hoạt
-1. **Siêu rộng:** Đại cảnh thiên nhiên và kiến trúc rộng lớn, luôn có sinh khí của các bóng người nhỏ thấy trọn từ đầu đến giày cùng chuyển động của môi trường (ống kính 35mm nét sâu).
-2. **Rộng và trung rộng toàn thân:** Lấy trọn toàn thân từ đầu đến giày đặt trên điểm tựa trước không gian thoáng mở (ống kính 35mm nét sâu).
-3. **Trung cảnh:** Lấy nhân vật ở mặt phẳng trung cảnh khi phần chân được che tự nhiên bởi địa hình hoặc điểm tựa phía trước.
-4. **Trung cận:** Lấy từ thắt lưng hoặc ngực trở lên để đặc tả biểu cảm gương mặt, ánh mắt và đôi tay cắt trực tiếp qua eo trước hậu cảnh mở thoáng mờ dịu (ống kính 50mm).
-5. **Cận cảnh:** Đặc tả chi tiết chủ thể, bước chân, cử chỉ hoặc 1 đến 2 đồ vật thủ công đơn khối (`B-roll`) ở cự ly gần đặt trước hậu cảnh thoáng mở (ống kính 50mm; dừng ở mức cận cảnh, không dùng siêu cận).
+1. **Siêu rộng (`Extreme wide panoramic shot`):** Đại cảnh thiên nhiên và kiến trúc rộng lớn, thấy trọn toàn thân các nhân vật đang hoạt động trong môi trường rộng mở.
+2. **Rộng và trung rộng toàn thân (`Wide shot` / `Medium-wide shot`):** Lấy trọn toàn thân nhân vật cùng không gian hoạt động và tương tác xung quanh.
+3. **Trung cảnh (`Medium shot`):** Lấy nhân vật ở mặt phẳng trung cảnh gắn với bàn ghế hoặc điểm tựa kiến trúc.
+4. **Trung cận (`Medium waist-up shot`):** Lấy từ thắt lưng trở lên để đặc tả rõ nét mặt điêu khắc 7 trục, ánh mắt giao tiếp và cử chỉ đôi tay trước hậu cảnh mờ dịu (`softly blurred background`).
+5. **Cận cảnh (`Close-up shot`):** Đặc tả chi tiết cử chỉ bàn tay tương tác hoặc 1 vật dụng đời thực đúng công năng (`B-roll`) đặt trước hậu cảnh mở thoáng mờ dịu.
 
 ### 4.2. Ma trận góc máy: 4 Độ cao trục dọc $\times$ 4 Hướng xoay ngang
-Mọi cảnh trong `storyboard.md` và `image.txt` luôn ghép rõ **1 Độ cao trục dọc** với **1 Hướng xoay ngang**, luân chuyển linh hoạt để hai cảnh liền kề ($N \to N+1$) không trùng góc đặt máy (không dùng góc thẳng đứng 90 độ từ đỉnh đầu xuống vì gây rối mắt và mất đường chân trời):
+Mọi cảnh trong `storyboard.md` và `image.txt` ghép rõ **1 Độ cao trục dọc** với **1 Hướng xoay ngang**, luân chuyển liên tục giữa hai cảnh liền kề ($N \to N+1$):
 - **4 Độ cao trục dọc:**
-  1. Từ trên cao chúc xuống 35-45 độ (`Elevated high-angle`).
-  2. Toàn cảnh từ điểm nhìn cao xa (`High-vantage panoramic`).
+  1. Từ trên cao chúc xuống 35-45 độ (`High-angle`).
+  2. Toàn cảnh từ điểm nhìn cao xa (`High-angle panoramic`).
   3. Góc thấp sát mặt nền ngước lên (`Low-angle`).
   4. Ngang tầm mắt (`Eye-level`).
-- **4 Hướng xoay ngang:** Góc chéo 3/4, góc nghiêng 90 độ, nhìn từ sau lưng cùng hướng về phía chân trời, hoặc nhìn xuyên qua khung cửa mở / lớp tiền cảnh mờ. Khi hai nhân vật tương tác, đặt cả hai trên cùng mặt phẳng trung cảnh ở góc chéo 3/4 hoặc góc nghiêng 90 độ.
-
+- **4 Hướng xoay ngang:** Góc chéo 3/4 (`three-quarter view`), góc nghiêng 90 độ (`side-profile view`), nhìn từ sau lưng hướng về phía chân trời (`view from behind`), hoặc nhìn qua khung cửa mở (`framed through an open doorway`).
