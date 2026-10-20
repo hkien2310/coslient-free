@@ -111,17 +111,17 @@ File `6-seo.md` chuẩn cho mỗi project (khi project gồm 2 bài hát ghép t
 
 ### Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Poetic Horizon`):
 ```text
-Cinematic handcrafted stop-motion animation still on a natural [điểm tựa cảnh quan cao thoáng] with real [chất liệu bề mặt và vật dụng tự nhiên] overlooking [đường chân trời rộng mở rõ nét]. Wide [low-angle / high-angle] shot. Whimsical stylized stop-motion characters of matching adult height with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + hoạt động sẻ chia thực tế] with [Nhân vật B nén 7 trục đối lập + cử chỉ đón nhận]. [Nguồn sáng tự nhiên rực rỡ] --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [điểm tựa cảnh quan cao thoáng] with real [chất liệu bề mặt và vật dụng tự nhiên] overlooking [đường chân trời rộng mở rõ nét]. Full-body wide [low-angle / high-angle] shot. Stylized handcrafted stop-motion characters of matching adult height with softly proportioned heads, calm natural facial expressions, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + tư thế khởi đầu hoạt động sẻ chia] with [Nhân vật B nén 7 trục đối lập + tư thế phối hợp]. [Nguồn sáng tự nhiên rực rỡ] --ar 16:9
 ```
 
 ### Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Light & Journey`):
 ```text
-Cinematic handcrafted stop-motion animation still on a natural [cung đường hoặc cảnh quan rộng mở] with real [chất liệu địa hình và thiên nhiên] overlooking [hậu cảnh sâu rộng]. Extreme wide high-angle panoramic shot. Whimsical stylized stop-motion characters of balanced adult height with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + hành động đồng hành] alongside [Nhân vật B nén 7 trục đối lập + cử chỉ kết nối]. [Nguồn sáng hoàng hôn hoặc chạng vạng ấm áp] --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [cung đường hoặc cảnh quan rộng mở] with real [chất liệu địa hình và thiên nhiên] overlooking [hậu cảnh sâu rộng]. Full-body extreme wide high-angle panoramic shot. Stylized handcrafted stop-motion characters of balanced adult height with softly proportioned heads, calm natural facial expressions, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + tư thế khởi đầu hành trình] alongside [Nhân vật B nén 7 trục đối lập + tư thế đồng hành]. [Nguồn sáng hoàng hôn hoặc chạng vạng ấm áp] --ar 16:9
 ```
 
 ### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium Waist-Up Soulful Connection`):
 ```text
-Cinematic handcrafted stop-motion animation still on a natural [không gian kiến trúc bán nội thất hoặc điểm dừng chân] with real [chất liệu tự nhiên] overlooking a softly blurred [hậu cảnh thiên nhiên]. Medium waist-up shot. Whimsical stylized stop-motion characters with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + cử chỉ trao tặng ấm áp] to [Nhân vật B nén 7 trục đối lập + ánh mắt và cử chỉ đón nhận]. [Nguồn sáng tự nhiên ấm dịu] --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [không gian kiến trúc bán nội thất hoặc điểm dừng chân] with real [chất liệu tự nhiên] overlooking a softly blurred [hậu cảnh thiên nhiên]. Medium waist-up shot. Stylized handcrafted stop-motion characters with softly proportioned heads, calm natural facial expressions, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + tư thế khởi đầu cử chỉ gắn kết] with [Nhân vật B nén 7 trục đối lập + ánh nhìn điềm tĩnh ấm áp]. [Nguồn sáng tự nhiên ấm dịu] --ar 16:9
 ```
 
 ## 4. DESCRIPTION
