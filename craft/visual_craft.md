@@ -47,13 +47,13 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
 
 ---
 
-## 2. Nguyên lý hoạt động thực tế, tương tác nhân-quả và bốn động cơ thăng hoa (70/30)
+## 2. Nguyên lý động năng cơ thể, tương tác bổ trợ và bốn động cơ thăng hoa (70/30)
 
-1. **Trạng thái hoạt động thực và logic công năng vật lý (`Purposeful Real-Life Activity & Physical Logic`):**
-   - Mỗi khung hình bắt trọn một hoạt động đời sống, lao động, chuẩn bị hoặc giao tiếp đang diễn ra với mục đích thực tế rõ ràng, giúp người xem hiểu ngay câu chuyện trong giây đầu tiên.
-   - Mọi hoạt động và vật dụng đều đặt đúng không gian công năng tự nhiên và tuân thủ tỷ lệ vật lý thực tế của người trưởng thành.
-2. **Tương tác nhân-quả trong cùng khung hình (`Action-Reaction & Give-Receive Micro-Story`):**
-   - Trong các cảnh có từ hai nhân vật trở lên, thiết lập mối liên hệ nhân-quả trực tiếp giữa các chủ thể: hành động khởi xướng, trao tặng hoặc dẫn dắt của người này gắn kết chặt chẽ với ánh mắt, bước chân hoặc cử chỉ đón nhận của người kia.
+1. **Động năng cơ thể giữa chừng và hệ quả vật lý hữu hình (`Mid-Action Body Mechanics & Kinetic Consequence`):**
+   - Mỗi khung hình bắt trọn khoảnh khắc nhân vật đang ở giữa một thao tác lao động, chăm sóc hoặc sinh hoạt có biên độ vận động cơ thể rõ rệt, tạo ra hệ quả vật lý nhìn thấy được ngay trong không gian.
+   - Mọi hoạt động và vật dụng sinh hoạt đương đại đều đặt đúng không gian công năng tự nhiên và tuân thủ tỷ lệ vật lý thực tế của người trưởng thành.
+2. **Phân tách hai tư thế vận động bổ trợ trong cùng khung hình (`Differentiated Complementary Actions`):**
+   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đảm nhận một tư thế cơ thể riêng biệt và một thao tác vận động khác nhau nhưng phối hợp nhịp nhàng trong cùng một mục đích chung.
 3. **Tỷ lệ 70% Sinh hoạt đời thực ấm áp : 30% Điểm nhấn thăng hoa giàu chất thơ:**
    - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật thực hiện các hoạt động chăm sóc, chế tác, sẻ chia và trò chuyện đời thường với sự gắn kết ấm áp trong không gian sống gần gũi.
    - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Nâng hoạt động thực tế có mục đích lên một điểm nhìn khoáng đạt hoặc giàu chất thơ thông qua **1 trong 4 động cơ thăng hoa**:

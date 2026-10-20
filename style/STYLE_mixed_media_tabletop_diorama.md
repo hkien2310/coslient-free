@@ -40,8 +40,10 @@
      - **Trục 7 — Trang phục vải dệt đời thường dài tay (`Casual Long-Sleeved Woven Attire`):** Phối hợp trang phục vải dệt đời thường dài tay hoặc hai lớp nhẹ cùng tông màu hài hòa với bối cảnh.
 2. **Nguyên tắc đảo chéo đối lập khi có từ 2 nhân vật trong cùng khung hình (`Contrastive Pairing`):**
    - Khi hai nhân vật xuất hiện chung trong một cảnh, thiết lập sự đối lập trực diện trên cả khung dáng, khối mặt, kiểu tóc/râu và trang phục để tạo sự tương phản thị giác sinh động ở cùng tỷ lệ chiều cao người lớn.
-3. **Trọng tâm hoạt động thực và tương tác nhân-quả (`Purposeful Activity & Action-Reaction Core`):**
-   - Đặt trọng tâm câu lệnh vào việc mô tả trực tiếp hoạt động sống có mục đích thực tế và mối liên hệ nhân-quả giữa các nhân vật: hành động khởi xướng của người thứ nhất luôn gắn liền với cử chỉ đón nhận, ánh nhìn hoặc hành động hưởng ứng của người thứ hai.
+3. **Động năng cơ thể toàn thân và hệ quả vật lý hữu hình (`Mid-Action Body Mechanics & Visible Kinetic Consequence`):**
+   - Đặt trọng tâm câu lệnh vào khoảnh khắc cơ thể đang ở giữa một thao tác có biên độ vận động lớn kèm hệ quả vật lý hiển hiện trực tiếp trong không gian.
+   - Khi khung hình có từ hai nhân vật trở lên, phân bổ cho mỗi người một tư thế cơ thể khác biệt và một thao tác đang vận động bổ trợ lẫn nhau trong cùng một công việc chung.
+   - Ở các cảnh rộng và trung-rộng, khóa rõ cụm từ lấy trọn toàn thân (`Full-body wide shot` / `Full-body medium-wide shot`) kết hợp mô tả tư thế vận động của cả thân mình và bước chân.
 
 ---
 
