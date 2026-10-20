@@ -47,20 +47,20 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
 
 ---
 
-## 2. Nguyên lý khung tĩnh khởi đầu hành động, tương tác phối hợp và bốn động cơ thăng hoa (70/30)
+## 2. Nguyên lý khung tĩnh khởi đầu hành động, ngôn ngữ cơ thể lãng tử và bốn động cơ chất ngông nghệ thuật (70/30)
 
-1. **Khung tĩnh khởi đầu hành động ở giây 0 (`Action-Onset Posture & Physical Readiness`):**
-   - Mỗi bức ảnh tĩnh đóng vai trò là khung hình mở đầu (`t = 0s`) của cảnh quay 5 giây: bắt trọn tư thế cơ thể ngay khoảnh khắc vừa bắt đầu bước vào một thao tác lao động, chăm sóc hoặc sinh hoạt có mục đích thực tế rõ ràng, giúp người xem nhận diện ngay hành động sắp diễn ra.
-   - Mọi hoạt động và vật dụng sinh hoạt đương đại đều đặt đúng không gian công năng tự nhiên và tuân thủ tỷ lệ vật lý thực tế của người trưởng thành.
+1. **Định nghĩa Chất ngông nghệ thuật (`Poetic Eccentricity & Calm Bohemian Audacity`):**
+   - **Chất ngông** là sự kết hợp giữa **gương mặt điềm nhiên, tự tại (`calm natural facial expression`)** với **một hành động có mục đích cảm xúc rõ ràng nhưng được nâng lên một nấc phiêu lãng, tự do và vượt khỏi quy ước không gian thông thường**.
+   - Nhân vật mang ngôn ngữ cơ thể phóng khoáng, thả lỏng và bất đối xứng tự nhiên ngay từ tư thế khởi đầu ở giây 0 (`t = 0s`), tạo sức hút thị giác tức thì và mở sẵn quỹ đạo cho 5 giây chuyển động tiếp theo.
 2. **Phân tách hai tư thế khởi đầu bổ trợ trong cùng khung hình (`Complementary Starting Postures`):**
-   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đứng hoặc ngồi ở một tư thế khởi đầu riêng biệt và chuẩn bị thực hiện một thao tác phối hợp nhịp nhàng với người kia trong cùng một công việc chung.
-3. **Tỷ lệ 70% Sinh hoạt đời thực ấm áp : 30% Điểm nhấn thăng hoa giàu chất thơ:**
-   - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật thực hiện các hoạt động chăm sóc, chế tác, sẻ chia và trò chuyện đời thường với sự gắn kết ấm áp trong không gian sống gần gũi.
-   - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Nâng hoạt động thực tế có mục đích lên một điểm nhìn khoáng đạt hoặc giàu chất thơ thông qua **1 trong 4 động cơ thăng hoa**:
-     1. **Động cơ 1 (Hoạt động sẻ chia trên điểm nhìn khoáng đạt):** Đưa một hoạt động đón đợi, trò chuyện hoặc thưởng thức có mục đích thực tế lên một điểm tựa cảnh quan cao mở ra đường chân trời rộng lớn.
-     2. **Động cơ 2 (Điểm neo đơn khối giữa thiên nhiên bao la):** Đặt một điểm dừng chân hoặc vật dụng sinh hoạt đúng công năng nằm nổi bật giữa không gian thiên nhiên lộ thiên rộng lớn để tạo sự đối sánh tỷ lệ tĩnh lặng và giàu chất thơ khi con người tìm đến.
-     3. **Động cơ 3 (Hòa điệu ánh sáng xiên dài và nhịp điệu thiên nhiên):** Sử dụng ánh nắng chiếu xiên góc thấp tạo bóng đổ dài giàu tính biểu tượng trên bề mặt địa hình, hoặc kết nối cử chỉ thực tế của nhân vật với chuyển động của cảnh vật phía xa.
-     4. **Động cơ 4 (Hành trình đồng hành qua cảnh quan rộng mở):** Đưa nhân vật di chuyển hoặc sánh bước cùng nhau trên những cung đường cảnh quan thoáng đãng phù hợp với địa hình thực tế, hòa cùng làn gió và nhịp điệu âm nhạc.
+   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đứng hoặc ngồi ở một tư thế khởi đầu riêng biệt, lệch tầng cao thấp tự nhiên và chuẩn bị thực hiện một thao tác phối hợp ăn ý với người kia.
+3. **Tỷ lệ 70% Đời thường phóng khoáng : 30% Điểm nhấn Chất ngông nghệ thuật:**
+   - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật sinh hoạt, chế tác thủ công, chăm sóc và trò chuyện ở những vị trí tự nhiên với tư thế thoải mái, giàu hơi thở đời sống.
+   - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Nâng hoạt động có mục đích lên tầm vóc nghệ thuật thông qua **1 trong 4 động cơ chất ngông**:
+     1. **Động cơ 1 — Điểm tựa cao phóng khoáng và cử chỉ phiêu lãng (`Elevated Bohemian Vantage`):** Đưa một hoạt động giao tiếp, thưởng thức hoặc trình diễn đời thường lên một điểm tựa kiến trúc hoặc địa hình cao tách biệt khỏi mặt đất thông thường, mở ra đường chân trời rộng lớn để nhân vật thực hiện những cử chỉ tự do như những nghệ sĩ giữa đất trời.
+     2. **Động cơ 2 — Điểm neo đơn khối giữa thiên nhiên bao la (`Monolithic Solitude in Vast Nature`):** Đặt một công trình kiến trúc duyên dáng hoặc một vật dụng nghỉ ngơi, sinh hoạt đơn khối nằm tách biệt một mình giữa không gian thiên nhiên lộ thiên rộng lớn để tạo sự đối sánh tỷ lệ tĩnh lặng và giàu chất thơ.
+     3. **Động cơ 3 — Phóng đại tỷ lệ bóng đổ và đổi công năng đạo cụ (`Giant Metaphorical Shadow & Poetic Prop Inversion`):** Dùng ánh nắng chiếu xiên góc thấp để biến bóng đổ của nhân vật và vật dụng nhỏ bé thành một hình bóng ẩn dụ khổng lồ in lên bề mặt địa hình; hoặc biến một vật dụng sinh hoạt gần gũi thành đạo cụ nghệ thuật chỉ huy nhịp điệu thiên nhiên.
+     4. **Động cơ 4 — Phương tiện hoài niệm lướt gió và tâm thế tự tại (`Wind-Swept Motion & Serene Composure`):** Đưa phương tiện di chuyển cổ điển nhỏ nhắn lướt qua địa hình thiên nhiên rộng mở với phục trang vải dệt bay theo làn gió; hoặc đặt nhân vật tận hưởng một thói quen đời thường với tâm thái điềm nhiên, tự tại giữa thiên nhiên đang chuyển động mạnh mẽ.
 
 ---
 
