@@ -20,17 +20,24 @@
 7. **Đa dạng hóa bối cảnh giữa các dự án:** Đối chiếu `1-idea.md` của 3 dự án liền kề và `ref/idea-index.md` để luân chuyển hạt nhân ý niệm, màu sắc cảm xúc, thời tiết và biên độ không gian.
 8. **Khai thác chất liệu ký ức thực tế theo thời điểm (`last30days` & `ref/doi-thu/` tùy chọn):** Khi phát triển ý tưởng mới hoặc theo mùa, kết hợp tham khảo kho giải phẫu đối thủ tại `ref/doi-thu/RANKING.md` và sử dụng kỹ năng `last30days` quét các cộng đồng người trưởng thành và cao tuổi để thu thập những hoài niệm, tâm sự và chi tiết xúc giác đời thực làm chất liệu cho ý tưởng.
 
-## Cấu trúc file `1-idea.md`
+## Cấu trúc file `1-idea.md` & Quy tắc Định danh
 
-File `projects/XXX/1-idea.md` gồm 4 thành phần:
+1. **Tiêu đề Dự án (`# [MÃ PROJECT]: [TÊN Ý TƯỞNG TIẾNG VIỆT]`):** Đặt bằng một cụm từ hoặc mệnh đề tiếng Việt cô đọng, giàu chất thơ đời thường, phản ánh trực tiếp hạt nhân ý niệm của dự án.
+2. **Định danh Bài hát và Thư mục Track (`Track Title` & `track-N-<slug>`):** Khi dự án gồm 2 bài hát, phần định hướng 2 track chia theo hai góc nhìn hoặc hai cung bậc thời gian của cùng một mạch cảm xúc và ghi rõ Chế độ (`Chế độ 1` hoặc `Chế độ 2`) cho từng track. Mỗi track có một tên bài hát tiếng Anh ngắn gọn (3 đến 6 từ) giàu nhạc tính và sử dụng từ vựng vượt thời gian; mã thư mục `track-N-<slug>` được chuyển đổi trực tiếp 1:1 từ chính tên bài hát tiếng Anh đó sang chữ thường nối gạch ngang (`kebab-case`).
+
+File `projects/XXX/1-idea.md` gồm 4 thành phần chính và định hướng 2 track:
 
 ```markdown
-# [MÃ PROJECT]: [TÊN Ý TƯỞNG]
+# [MÃ PROJECT]: [TÊN Ý TƯỞNG TIẾNG VIỆT]
 
 - Cảm xúc cốt lõi: [Trạng thái tình cảm chủ đạo, phẩm giá tuổi già và nhu cầu an trú tâm hồn của người nghe, bắt đầu từ sự ấm áp]
 - Trục câu chuyện & Lát cắt: [Ghi rõ Chế độ 1 (Kể chuyện Cá nhân) hoặc Chế độ 2 (Ý niệm / Đa diện 100% Lát cắt) + Xác lập rõ Hạt nhân ý niệm thống nhất và điểm chạm thơ mộng xuyên suốt cho tuyến nhân vật hoặc chuỗi lát cắt]
 - Móc neo giác quan: [2–3 cử chỉ tương tác hoặc dấu vết vật lý đời thực thể hiện trực tiếp hạt nhân ý niệm và cảm xúc cốt lõi]
 - Câu chốt: [1 câu tiếng Việt gói trọn nghiệm sinh của ý tưởng, làm hạt nhân cho câu Hook chính của bài hát và kim chỉ nam cho toàn bộ khâu sản xuất]
-```
 
-Khi dự án có 2 bài hát, phần định hướng 2 track chia theo hai góc nhìn hoặc hai cung bậc của cùng một mạch cảm xúc và ghi rõ Chế độ (`Chế độ 1` hoặc `Chế độ 2`) cho từng track.
+---
+
+### Cấu trúc 2 track (Theo cung bậc `Two-Track Sanctuary Arc`)
+* **Track 1 (`track-1-<track-1-title-slug>`):** *[Track 1 English Title]* (~4:15 — `[Chế độ 1 hoặc Chế độ 2]`): [Nhịp điệu buổi sớm/ban ngày và diễn tiến cảm xúc của Track 1].
+* **Track 2 (`track-2-<track-2-title-slug>`):** *[Track 2 English Title]* (~4:15 — `[Chế độ 1 hoặc Chế độ 2]`): [Nhịp điệu chiều muộn/lắng đọng và diễn tiến cảm xúc của Track 2].
+```

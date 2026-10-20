@@ -21,13 +21,16 @@
 8. **Phân bổ vai trò giữa Lời hát và Hình ảnh:** Đặt tâm tình, nhịp sống, tín hiệu gợi mở và những câu chiêm nghiệm phổ quát vào lời bài hát, đồng thời giao phần diễn giải trực diện hoạt cảnh và chuỗi thao tác cụ thể cho bảng phân cảnh hình ảnh (`storyboard.md`).
 9. **Bộ chuẩn hóa văn phong:** Áp dụng bắt buộc các nguyên lý từ [humanizer](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/humanizer/SKILL.md), [stop-slop](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/stop-slop/SKILL.md), [avoid-ai-writing](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/avoid-ai-writing/SKILL.md) và [`ref/banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/ref/banned_lyrics_motifs.md) nhằm giữ trọn thanh âm mộc mạc và nhịp điệu chân thực của con người.
 
-## Input / Output
+## Input / Output & Quy tắc Định danh Bài hát
 
 - **Input:** `1-idea.md`, `ref/lyrics-index.md`, `ref/banned_lyrics_motifs.md`.
 - **Output:**
   - `projects/XXX/2-music.md`: 2 track, mỗi track gồm tên bài, style prompt, exclude, lyrics có thẻ điều phối.
-  - `track-N-<slug>/3-lyrics.txt`: lời sạch cho DistroKid.
+  - `track-N-<track-title-slug>/3-lyrics.txt`: lời sạch cho DistroKid.
   - Cập nhật `ref/lyrics-index.md`.
+- **Quy tắc Đặt tên Bài hát & Đồng bộ Slug (`Track Title & Slug Synchronization`):**
+  1. **Tên bài hát (`Track Title`):** Đặt tên tiếng Anh cô đọng từ 3 đến 6 từ, sử dụng từ vựng giản dị, giàu chất thơ và có sức gợi vượt thời gian; trích xuất trực tiếp từ mệnh đề trọng tâm của câu `Hook` trong `Chorus` để giai điệu và tên bài khắc sâu vào trí nhớ người nghe.
+  2. **Đồng bộ Định danh 1:1:** Tên bài hát tại `1-idea.md`, tiêu đề `## Track N: [Track Title]` trong `2-music.md`, tên thư mục con `track-N-<track-title-slug>/` (chuyển sang chữ thường nối gạch ngang `kebab-case`) và trường `Track Title` trong bảng `ref/lyrics-index.md` đồng nhất hoàn toàn với nhau.
 
 ## Dự án & Kiến trúc thời lượng
 
