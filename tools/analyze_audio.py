@@ -190,19 +190,40 @@ def download_yt_audio(yt_url: str, vid_id: str, out_dir: Path) -> tuple[Path, di
 
     if not existing or not meta:
         proc = subprocess.run(
-            ytdlp_cmd + ["--dump-single-json", "--no-playlist", yt_url],
+            ytdlp_cmd + [
+                "--dump-single-json",
+                "--no-playlist",
+                "--write-comments",
+                "--extractor-args", "youtube:max_comments=15,15,0,0;comment_sort=top",
+                yt_url,
+            ],
             capture_output=True, text=True, check=False
         )
         if proc.returncode == 0 and proc.stdout.strip():
             raw = json.loads(proc.stdout.splitlines()[-1])
+            raw_comments = raw.get("comments") or []
+            top_comments = [
+                {
+                    "author": c.get("author", ""),
+                    "likes": c.get("like_count", 0),
+                    "text": (c.get("text") or "").strip(),
+                }
+                for c in sorted(raw_comments, key=lambda x: x.get("like_count") or 0, reverse=True)[:12]
+                if (c.get("text") or "").strip()
+            ]
             meta = {
                 "video_id": vid_id,
                 "url": f"https://www.youtube.com/watch?v={vid_id}",
                 "title": raw.get("title", ""),
                 "channel": raw.get("uploader") or raw.get("channel", ""),
+                "channel_follower_count": raw.get("channel_follower_count"),
                 "view_count": raw.get("view_count"),
                 "like_count": raw.get("like_count"),
+                "comment_count": raw.get("comment_count"),
                 "upload_date": raw.get("upload_date"),
+                "description": (raw.get("description") or "")[:1500],
+                "tags": (raw.get("tags") or [])[:25],
+                "top_comments": top_comments,
             }
             meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
 
