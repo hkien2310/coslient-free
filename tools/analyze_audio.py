@@ -208,17 +208,54 @@ def write_seo_md(folder: Path, meta: dict) -> Path:
     return seo_path
 
 
+def write_technical_md(raw_dir: Path, rep: dict) -> Path:
+    tech_md = raw_dir / "audio_technical.md"
+    t = rep.get("tempo", {})
+    h = rep.get("harmony", {})
+    d = rep.get("dynamics_and_mix", {})
+    f = d.get("frequency_energy_pct", {})
+    lines = [
+        "# Phân Tích Kỹ Thuật Âm Thanh Bằng Code (DSP Raw Data)",
+        "",
+        f"- **Thời lượng:** `{rep.get('duration_formatted')}` (`{rep.get('duration_sec')}s`)",
+        f"- **Tempo (BPM):** `{t.get('bpm')} BPM` (Half-time: `{t.get('half_time_bpm')} BPM`, Double-time: `{t.get('double_time_bpm')} BPM`)",
+        f"- **Beat Stability:** `{t.get('beat_stability')}`",
+        f"- **Tone chính (Primary Key):** `{h.get('primary_key')}` (Confidence: `{h.get('confidence')}`)",
+        f"- **Tone phụ (Secondary Key):** `{h.get('secondary_key')}` (Confidence: `{h.get('secondary_confidence')}`)",
+        f"- **Các nốt chủ đạo (Dominant Notes):** `{', '.join(h.get('dominant_notes') or [])}`",
+        f"- **Loudness & Dynamic Range:** Mean RMS `{d.get('mean_rms_db')} dB` | Peak `{d.get('peak_db')} dB` | Crest Factor `{d.get('crest_factor_db')} dB` ({d.get('compression_character')})",
+        "",
+        "## Phân bổ năng lượng 6 dải tần (Spectral Energy)",
+        f"- **Sub-bass (20–60Hz):** `{f.get('sub_bass_20_60Hz_pct')}%`",
+        f"- **Bass (60–250Hz):** `{f.get('bass_60_250Hz_pct')}%`",
+        f"- **Low-mid (250–500Hz):** `{f.get('low_mid_250_500Hz_pct')}%`",
+        f"- **Mid (500–2000Hz):** `{f.get('mid_500_2000Hz_pct')}%`",
+        f"- **High-mid (2k–6kHz):** `{f.get('high_mid_2k_6kHz_pct')}%`",
+        f"- **High (>6kHz):** `{f.get('high_6k_plus_pct')}%`",
+        "",
+        "## Cấu trúc phân đoạn năng lượng (Energy Sections)",
+        "| Khoảng thời gian | Độ dài (s) | Điểm năng lượng | Mức năng lượng |",
+        "| :--- | :--- | :--- | :--- |",
+    ]
+    for s in rep.get("energy_sections") or []:
+        lines.append(
+            f"| `{s.get('time_range')}` | `{s.get('duration_sec')}s` | `{s.get('energy_score')}` | {s.get('energy_level')} |"
+        )
+    tech_md.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return tech_md
+
+
 def download_yt_audio(yt_url: str, vid_id: str, base_out_dir: Path) -> tuple[Path, dict]:
     base_out_dir.mkdir(parents=True, exist_ok=True)
     ytdlp_cmd = ["yt-dlp"] if shutil.which("yt-dlp") else ["uvx", "yt-dlp"]
 
-    # Check if already downloaded in any channel/video subfolder via video_id marker
-    for existing_meta in base_out_dir.rglob("seo_meta.json"):
+    # Check if already downloaded in any channel/video/raw subfolder
+    for existing_meta in base_out_dir.rglob("raw/seo_meta.json"):
         try:
             m = json.loads(existing_meta.read_text(encoding="utf-8"))
             if m.get("video_id") == vid_id:
-                v_dir = existing_meta.parent
-                aud = [f for f in v_dir.glob("audio.*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
+                raw_dir = existing_meta.parent
+                aud = [f for f in raw_dir.glob("audio.*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
                 if aud:
                     return aud[0], m
         except Exception:
@@ -264,22 +301,22 @@ def download_yt_audio(yt_url: str, vid_id: str, base_out_dir: Path) -> tuple[Pat
 
     channel_slug = slugify(meta.get("channel") or "unknown-channel", max_len=40)
     video_slug = slugify(meta.get("title") or vid_id, max_len=65)
-    video_dir = base_out_dir / channel_slug / video_slug
-    video_dir.mkdir(parents=True, exist_ok=True)
+    raw_dir = base_out_dir / channel_slug / video_slug / "raw"
+    raw_dir.mkdir(parents=True, exist_ok=True)
 
-    (video_dir / "seo_meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
-    write_seo_md(video_dir, meta)
+    (raw_dir / "seo_meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_seo_md(raw_dir, meta)
 
-    existing = [f for f in video_dir.glob("audio.*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
+    existing = [f for f in raw_dir.glob("audio.*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
     if existing:
         return existing[0], meta
 
-    out_tmpl = str(video_dir / "audio.%(ext)s")
+    out_tmpl = str(raw_dir / "audio.%(ext)s")
     subprocess.run(
         ytdlp_cmd + ["--no-playlist", "-f", "bestaudio[ext=m4a]/bestaudio", "-o", out_tmpl, yt_url],
         stdout=subprocess.DEVNULL, check=True
     )
-    downloaded = [f for f in video_dir.glob("audio.*") if f.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS)]
+    downloaded = [f for f in raw_dir.glob("audio.*") if f.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS)]
     if not downloaded:
         raise FileNotFoundError(f"Không tải được audio cho {yt_url}")
     return downloaded[0], meta
@@ -363,10 +400,14 @@ if __name__ == "__main__":
     all_reports = []
     for target_file, yt_meta in targets:
         rep = analyze_file(target_file)
-        rep["folder"] = str(target_file.parent)
+        raw_dir = target_file.parent if target_file.parent.name == "raw" else target_file.parent / "raw"
+        raw_dir.mkdir(parents=True, exist_ok=True)
+        rep["video_folder"] = str(raw_dir.parent)
+        rep["raw_folder"] = str(raw_dir)
+        write_technical_md(raw_dir, rep)
         if yt_meta:
             rep["youtube_meta"] = yt_meta
-        (target_file.parent / "dsp.json").write_text(
+        (raw_dir / "audio_technical.json").write_text(
             json.dumps(rep, indent=2, ensure_ascii=False), encoding="utf-8"
         )
         all_reports.append(rep)

@@ -20,16 +20,16 @@
    ```bash
    python3 tools/analyze_audio.py <url1> <url2> ... --out-dir projects/XXX/doi-thu
    ```
-   - Script tự động lấy metadata từ YouTube và tạo cấu trúc thư mục chuẩn theo **Kênh $\rightarrow$ Tên Video**:
+   - Script tự động lấy metadata từ YouTube và tạo cấu trúc thư mục chuẩn theo **Kênh $\rightarrow$ Tên Video $\rightarrow$ `raw/`**:
      ```text
      projects/XXX/doi-thu/
      └── <ten-kenh-slug>/
          └── <ten-video-slug>/
-             ├── audio.m4a            (File âm thanh gốc tải về)
-             ├── audio_listen.mp3     (File âm thanh nhẹ để AI nghe trực tiếp)
-             ├── seo.md               (Tiêu đề, sub, views, likes, tags, mô tả & top comments)
-             ├── dsp.json             (Thông số kỹ thuật âm thanh tự động từ librosa)
-             └── phan-tich.md         (Báo cáo giải phẫu chi tiết của video đó)
+             ├── phan-tich.md               (Bản phân tích tổng hợp bằng AI dựa trên bộ dữ liệu raw)
+             └── raw/
+                 ├── seo.md & seo_meta.json (1. Thông tin SEO, sub, views, likes, tags, mô tả & top comments)
+                 ├── audio.m4a              (2. File nhạc gốc tải về & audio_listen.mp3 để AI nghe)
+                 └── audio_technical.md     (3. Thông số phân tích nhạc thuần kỹ thuật bằng code + .json)
      ```
 2. **Tách cảnh & Cắt lưới hình ảnh 4K (Chỉ chạy khi người dùng yêu cầu phân tích cả hình ảnh/chuyển động MV):**
    ```bash
