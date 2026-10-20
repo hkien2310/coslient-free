@@ -1,11 +1,11 @@
 # COSLIENT SEO — QUY CHUẨN SIÊU DỮ LIỆU & THUMBNAIL YOUTUBE (`6-seo.md`)
 
 > 🔒 **GHI CHÚ CỐ ĐỊNH — CHỨC NĂNG FILE & QUY TẮC BẤT BIẾN (TUYỆT ĐỐI KHÔNG CHỈNH SỬA / XÓA MỤC NÀY):**
-> - **Chức năng duy nhất của file:** Đóng gói siêu dữ liệu phát hành YouTube và DistroKid (`6-seo.md`), bao gồm Title, bộ 3 Prompt Thumbnail chuyên biệt tối ưu CTR, Description, Tags, Pinned Comment, Shorts và phân phối Playlist. Toàn bộ thông số chất liệu tạo hình Stop-Motion tham chiếu từ [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md).
+> - **Chức năng duy nhất của file:** Đóng gói siêu dữ liệu phát hành YouTube và DistroKid (`6-seo.md`), bao gồm Title, bộ 3 Prompt Thumbnail chuyên biệt tối ưu CTR, Description, Tags, Pinned Comment, Shorts và phân phối Playlist. Toàn bộ thông số chất liệu tạo hình Stop-Motion và khung câu lệnh 4 khối tham chiếu từ [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md).
 > - **Quy tắc chỉnh sửa tài liệu này:**
->   1. **Ưu tiên dùng khẳng định hơn phủ định:** Hướng dẫn trực tiếp cấu trúc tiêu đề, bố cục khung hình Thumbnail và thông số cần đạt bằng câu khẳng định rõ ràng.
->   2. **Luôn Rule hóa thông tin (`Rule-First`) & Hạn chế tối đa thiên kiến liệt kê:** Khái quát hóa mọi nguyên lý thành quy tắc chung hoạt động cho mọi bài hát và mọi bối cảnh toàn kênh; tránh liệt kê danh sách đạo cụ hay tình huống cụ thể gây thiên kiến lặp lại cho AI.
->   3. **Ưu tiên thêm mới và làm giàu quy tắc, bảo toàn dữ liệu:** Chỉnh sửa cục bộ đúng chỗ cần thiết (`/ponytail`, `/humanizer`), giữ nguyên mọi trường nhập YouTube Studio trong ô code block (` ```text `) để copy 1-click.
+>   1. Không liệt kê lẻ tẻ sự vật sự kiện.
+>   2. Không dùng phủ định.
+>   3. Tuyệt đối không viết Use Case mà phải đúc kết thành Rule.
 
 ---
 
@@ -22,7 +22,7 @@
 - **Bốn khuôn mẫu mệnh đề tiêu đề kích hoạt đồng cảm ở khán giả trưởng thành (45–85+):**
   1. **Mệnh đề Chốn về & Cộng đồng An nhiên (`Sanctuary & Quiet Folk Clause`):** Khẳng định một không gian sống tĩnh tại hoặc một cộng đồng người hiền hòa đang gìn giữ nhịp sống bình yên, đánh thức khát khao tìm nơi trú ẩn tinh thần.
   2. **Mệnh đề Chứng nhân Bền bỉ theo Năm tháng (`Enduring Witness Clause`):** Nhân hóa một không gian gắn bó hoặc một sinh linh đồng hành thành người chứng kiến trung thành đi cùng nhân vật qua trọn một đời người.
-  3. **Mệnh đề Thủ thỉ Mở Đa tầng nghĩa (`Dual-Meaning Intimate Confession`):** Sử dụng ngôi xưng trực tiếp cùng dấu chấm lửng (`…`) để mở ra hai lớp nghĩa đồng thời, giúp người đang hạnh phúc bên bạn đời và người đang hoài niệm người thương đi xa đều nhìn thấy câu chuyện của chính mình.
+  3. **Mệnh đề Thủ thỉ Mở Đa tầng nghĩa (`Dual-Meaning Intimate Confession`):** Sử dụng ngôi xưng trực tiếp cùng dấu chấm lửng (`…`) để mở ra hai lớp nghĩa đồng thời, giúp người đang hạnh phúc bên bạn đời và người đang hoài niệm người thương đều nhìn thấy câu chuyện của chính mình.
   4. **Mệnh đề Đối xứng Chăm sóc – Gắn bó (`Past Care – Present Loyalty Symmetry`):** Ghép nối hai mệnh đề khẳng định ngắn gọn: vế đầu ghi nhận một cử chỉ chở che trong quá khứ, vế sau khẳng định sự hiện diện ấm áp ở hiện tại, mang lại cảm giác an tâm trọn vẹn cho người xem.
 
 ---
@@ -30,7 +30,7 @@
 ## 2. QUY CHUẨN DESCRIPTION, TAGS & PINNED COMMENT
 
 ### 2.1. Cấu trúc Mô tả 4 Trụ cột (`Four-Pillar Description`)
-1. **Lời mở đầu tâm tình như thư tay (`Epistolary Opening` — 2 đến 3 dòng đầu):** Viết 2–3 câu thủ thỉ chân thành chia sẻ trực tiếp cảm hứng đời sống hoặc chiêm nghiệm lắng đọng của bài hát như lời trò chuyện giữa những người bạn tri kỷ ở phần hiển thị trước nút xem thêm.
+1. **Lời mở đầu tâm tình như thư tay (`Epistolary Opening` — 2 đến 3 dòng đầu):** Viết 2–3 câu thủ thỉ chân thành chia sẻ trực tiếp cảm hứng đời sống hoặc chiêm nghiệm lắng đọng của bài hát như lời trò chuyện giữa những người bạn tri kỷ ở phần hiển thị đầu tiên.
 2. **Mốc thời gian chính xác tuyệt đối (`Frame-Accurate Chapters`):** Khi video kết hợp từ hai bài hát trở lên hoặc chia chương rõ rệt, niêm yết danh sách mốc thời gian (`00:00`, `MM:SS`) khớp từng giây với điểm bắt đầu thực tế của từng bản nhạc trong file âm thanh xuất bản.
 3. **Toàn văn lời bài hát chuẩn xác (`Complete Verified Lyrics`):** Đăng tải đầy đủ lời bài hát đã hiệu đính khớp hoàn toàn với giọng hát thực tế, trình bày thoáng sạch theo từng phân đoạn để khán giả lớn tuổi vừa nghe nhạc vừa đọc suy ngẫm, gia tăng thời gian lưu lại trang xem.
 4. **Tuyên ngôn Cảm xúc Con người Dẫn dắt Nghệ thuật (`Human-Heart Craft Statement`):** Khẳng định rõ tác phẩm được khởi nguồn từ những rung động đời thực và những ký ức do chính cộng đồng người nghe chia sẻ, qua đó tạo dựng sự trân trọng và gắn kết sâu sắc với khán giả.
@@ -43,7 +43,7 @@ coslient, a dream town, original music, stop motion, handcrafted animation, mini
 - **Quy tắc bổ sung 6–9 cụm từ khóa riêng cho từng video theo 3 tầng ngữ nghĩa:**
   1. **Tầng Tâm lý & Giai đoạn cuộc đời (3 cụm):** Các cụm từ khóa mô tả trực tiếp tâm thế sống chậm, sự bình yên tuổi trưởng thành, tình nghĩa vợ chồng lâu năm, tình bạn tri kỷ và sự chiêm nghiệm ấm áp của lứa tuổi 55–85+.
   2. **Tầng Thể loại & Nhạc cụ Mộc (2–3 cụm):** Các cụm từ khóa xác định chính xác nhánh nhạc Folk tự sự và hệ nhạc cụ mộc chủ đạo thực tế vang lên trong bản thu.
-  3. **Tầng Mỹ học Thị giác & Không gian (2–3 cụm):** Các cụm từ khóa mô tả phong cách hoạt hình thủ công trên bàn và bối cảnh không gian trung tâm của câu chuyện.
+  3. **Tầng Mỹ học Thị giác & Không gian (2–3 cụm):** Các cụm từ khóa mô tả phong cách hoạt hình thủ công và bối cảnh không gian trung tâm của câu chuyện.
 
 ### 2.3. Hashtags (Cuối Description)
 ```text
@@ -59,13 +59,13 @@ coslient, a dream town, original music, stop motion, handcrafted animation, mini
 ## 3. QUY CHUẨN THUMBNAIL (3 PROMPTS POSTER TUYỂN CHỌN 1) & SHORTS
 
 ### 3.1. Bốn nguyên tắc thiết kế Thumbnail chuẩn Poster Phim Điện Ảnh (Tối ưu CTR)
-1. **Bảo toàn 100% cú pháp nghệ thuật của `image.txt`:** Câu lệnh Thumbnail sử dụng trọn vẹn khung câu lệnh chuẩn của [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) để giữ nguyên vẻ đẹp điêu khắc thủ công, ánh sáng phim nhựa Kodak 35mm và chiều sâu quang học tự nhiên của thế giới Stop-Motion.
-2. **Thiết kế theo tầm vóc "Poster Phim Độc Bản" (`Iconic Film Poster`):** Mỗi Thumbnail là một bức Poster độc lập gói trọn linh hồn của cả tác phẩm bằng sự hội tụ của ba yếu tố: **Nhân vật trung tâm + Đạo cụ biểu tượng giàu sức gợi + Không gian kiến trúc/thiên nhiên khoáng đạt**, khơi dậy sự tò mò tự nhiên về câu chuyện phía sau khung hình.
-3. **Đẩy tối đa độ tương phản màu khoáng chất và ánh sáng định hướng (`70% - 20% - 10%`):** Lựa chọn thời khắc ánh sáng định hướng giàu cảm xúc nhất để đặt chủ thể và điểm nhấn sắc độ ấm nổi bật rõ nét trên nền không gian sâu rộng, giúp hình thu nhỏ thu hút ánh nhìn ngay lập tức trên trang chủ YouTube.
-4. **Quy trình xuất 3 Prompt Poster cho mỗi Video YouTube để tuyển chọn 1 tấm xuất sắc nhất:** Mỗi video xuất bản sử dụng **1 bộ SEO thống nhất** trong `6-seo.md` kèm **3 câu lệnh tiếng Anh hoàn chỉnh** (`no text --ar 16:9`) đại diện cho 3 góc tiếp cận Poster đắt giá nhất:
-   - **Prompt 1 — Poster Chất Ngông Chân Trời (`35mm` Iconic Poetic Horizon):** Khung hình trung-rộng toàn thân (`Spacious full-body wide shot`) đặt nhân vật và đạo cụ biểu tượng trên một điểm tựa địa hình hoặc kiến trúc cao thoáng trước đường chân trời rộng mở (Động cơ 1 & 2), tạo sự đối sánh tỷ lệ đầy chất thơ chuẩn poster phim nghệ thuật.
-   - **Prompt 2 — Poster Phép Màu Ánh Sáng & Ẩn Dụ (`35mm` Dramatic Light & Metaphor):** Khung hình trung cảnh hoặc trung-rộng khai thác phép màu thị giác mạnh nhất của tác phẩm qua tương phản bóng đổ giàu tính biểu tượng, chuyển động khoáng đạt hoặc nguồn sáng điểm ấm áp rực lên giữa không gian chạng vạng sâu thẫm (Động cơ 3 & 4).
-   - **Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`50mm` Soulful Storyteller Mid-Shot):** Khung hình trung cảnh cắt ngang thắt lưng (`Intimate medium waist-up shot`) đặt trong không gian mở có hậu cảnh thiên nhiên dịu nét (`50mm` bokeh), bắt trọn biểu cảm lắng đọng và cử chỉ gắn kết tình cảm sâu sắc nhất giữa nhân vật cùng đạo cụ trung tâm.
+1. **Bảo toàn 100% cú pháp 4 khối của `image.txt`:** Câu lệnh Thumbnail sử dụng trọn vẹn khung câu lệnh 4 khối chuẩn và công thức nén 7 trục của [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) để giữ nguyên vẻ đẹp nhân vật stop-motion cách điệu trên nền thiên nhiên chân thực.
+2. **Thiết kế theo tầm vóc "Poster Phim Độc Bản" (`Iconic Film Poster`):** Mỗi Thumbnail là một bức Poster độc lập gói trọn linh hồn của cả tác phẩm bằng sự hội tụ của ba yếu tố: **Nhân vật stop-motion 7 trục + Hoạt động tương tác giàu sức gợi + Không gian kiến trúc/thiên nhiên khoáng đạt**, khơi dậy sự tò mò tự nhiên về câu chuyện phía sau khung hình.
+3. **Độ tương phản ánh sáng tự nhiên và điểm nhấn sắc độ:** Lựa chọn thời khắc ánh sáng tự nhiên giàu cảm xúc nhất để đặt chủ thể và trang phục vải dệt dài tay nổi bật rõ nét trên nền không gian sâu rộng, giúp hình thu nhỏ thu hút ánh nhìn ngay lập tức trên trang chủ YouTube.
+4. **Quy trình xuất 3 Prompt Poster cho mỗi Video YouTube để tuyển chọn 1 tấm xuất sắc nhất:** Mỗi video xuất bản sử dụng **1 bộ SEO thống nhất** trong `6-seo.md` kèm **3 câu lệnh tiếng Anh 4 khối hoàn chỉnh** (`--ar 16:9`) đại diện cho 3 góc tiếp cận Poster đắt giá nhất:
+   - **Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Low-Angle / High-Angle Poetic Horizon`):** Khung hình rộng hoặc trung-rộng toàn thân đặt các nhân vật stop-motion trong một hoạt động sẻ chia có mục đích thực tế trên điểm tựa địa hình cao thoáng trước đường chân trời rộng mở (Động cơ 1 & 2).
+   - **Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Golden Light & Journey`):** Khung hình toàn cảnh khai thác khoảnh khắc đồng hành của các nhân vật dưới ánh sáng vàng rực rỡ hoặc chạng vạng ấm áp giữa không gian rộng lớn (Động cơ 3 & 4).
+   - **Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium Waist-Up Soulful Connection`):** Khung hình trung cận cắt ngang thắt lưng đặt trước hậu cảnh thiên nhiên mờ dịu (`softly blurred background`), bắt trọn biểu cảm lắng đọng và cử chỉ trao-nhận tình cảm sâu sắc nhất giữa các nhân vật.
 
 ### 3.2. Shorts Mở Đường (`Pre-Release Teaser Shorts`)
 - **Độ dài và điểm rơi:** Trích xuất phân đoạn 15–30 giây hội tụ câu hát điệp khúc hoặc khoảnh khắc chuyển đổi nhạc cụ đắt giá nhất cùng khung hình giàu chất thơ nhất để đăng tải dẫn luồng khán giả về video chính.
@@ -109,19 +109,19 @@ File `6-seo.md` chuẩn cho mỗi project (khi project gồm 2 bài hát ghép t
 - **Ý tưởng Poster & Tương phản chủ đạo:** [Tóm tắt 3 ý tưởng Poster hội tụ linh hồn của video và cặp tương phản ánh sáng – màu sắc]
 - **Text gợi ý (2-3 từ cô đọng khi cần thiết kế ngoài):** `[2-3 TỪ LỚN GỌN GÀNG]`
 
-### Prompt 1 — Poster Chất Ngông Chân Trời (`35mm` Iconic Poetic Horizon):
+### Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Poetic Horizon`):
 ```text
-Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Spacious full-body wide shot from a [low-angle upward / 45-degree high-angle] three-quarter view with generous open scenic space on an expansive open-air [điểm tựa kiến trúc/địa hình thoáng rộng nhìn ra chân trời bao la] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a carefree unbuttoned bohemian posture [hành động chất ngông thơ mộng và tương tác đạo cụ biểu tượng đắt giá nhất của video]. Single directional [nguồn sáng định hướng ấm rực rỡ] casting a single coherent shadow direction across a mineral palette of 70% [màu nền không gian sâu rộng chủ đạo], 20% [màu kiến trúc/địa hình và trang phục], and 10% [màu điểm nhấn đạo cụ rực rỡ + charcoal-black and saffron-yellow accents] with 35mm crisp deep environmental focus and clear horizon, no text --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [điểm tựa cảnh quan cao thoáng] with real [chất liệu bề mặt và vật dụng tự nhiên] overlooking [đường chân trời rộng mở rõ nét]. Wide [low-angle / high-angle] shot. Whimsical stylized stop-motion characters of matching adult height with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + hoạt động sẻ chia thực tế] with [Nhân vật B nén 7 trục đối lập + cử chỉ đón nhận]. [Nguồn sáng tự nhiên rực rỡ] --ar 16:9
 ```
 
-### Prompt 2 — Poster Phép Màu Ánh Sáng & Ẩn Dụ (`35mm` Dramatic Light & Metaphor):
+### Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Light & Journey`):
 ```text
-Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Spacious [full-body wide / medium] shot from a [low-angle upward / eye-level] three-quarter view with generous open scenic space on an expansive open-air [bối cảnh mang phép màu ánh sáng/bóng đổ hoặc chạng vạng] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a carefree unbuttoned bohemian posture [khoảnh khắc thắp sáng nguồn sáng ấm hoặc tạo bóng đổ ẩn dụ giàu chất thơ]. Single directional [nguồn sáng điểm ấm áp đối lập nền chạng vạng / nắng xiên thấp tạo bóng đổ nghệ thuật] casting a single coherent shadow direction across a mineral palette of 70% [màu nền không gian chủ đạo], 20% [màu kiến trúc và trang phục], and 10% [màu điểm nhấn ánh sáng/đạo cụ + charcoal-black and saffron-yellow accents] with 35mm crisp deep environmental focus and clear horizon, no text --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [cung đường hoặc cảnh quan rộng mở] with real [chất liệu địa hình và thiên nhiên] overlooking [hậu cảnh sâu rộng]. Extreme wide high-angle panoramic shot. Whimsical stylized stop-motion characters of balanced adult height with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + hành động đồng hành] alongside [Nhân vật B nén 7 trục đối lập + cử chỉ kết nối]. [Nguồn sáng hoàng hôn hoặc chạng vạng ấm áp] --ar 16:9
 ```
 
-### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`50mm` Soulful Storyteller Mid-Shot):
+### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium Waist-Up Soulful Connection`):
 ```text
-Cinematic European arthouse stop-motion animation film still, rich Kodak 35mm analog film color grading, crystal-clear air, tactile handcrafted surfaces with lived-in timeless patina and sfumato soft edges. Intimate medium waist-up shot from an eye-level three-quarter view with an airy uncluttered softly defocused scenic background on an expansive open-air [không gian mở có chiều sâu nhìn ra cảnh sắc thiên nhiên] of stylized 1:7.5 figure(s) with warm natural hand-molded matte paper-pulp skin: [Chế độ 1 gọi @Tên_nhân_vật | Chế độ 2 tả trực tiếp nhân vật], with a subtle charcoal-black and saffron-yellow accent on [chi tiết nhỏ], in a relaxed natural asymmetrical posture [cử chỉ gắn kết tình cảm ấm áp nhất cùng đạo cụ trung tâm của câu chuyện]. Single directional [nguồn sáng ấm dịu định hướng] casting a single coherent shadow direction across a mineral palette of 70% [màu hậu cảnh thiên nhiên sâu dịu], 20% [màu bề mặt chất liệu và trang phục], and 10% [hero prop color + charcoal-black and saffron-yellow accents] with 50mm natural optical depth of field and soft background bokeh, no text --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [không gian kiến trúc bán nội thất hoặc điểm dừng chân] with real [chất liệu tự nhiên] overlooking a softly blurred [hậu cảnh thiên nhiên]. Medium waist-up shot. Whimsical stylized stop-motion characters with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + cử chỉ trao tặng ấm áp] to [Nhân vật B nén 7 trục đối lập + ánh mắt và cử chỉ đón nhận]. [Nguồn sáng tự nhiên ấm dịu] --ar 16:9
 ```
 
 ## 4. DESCRIPTION
@@ -183,7 +183,3 @@ Album / EP: [Tên Album/EP — tra từ đầu file distrokid.md]
 Genre: Singer-Songwriter / Folk
 ```
 ````
-
----
-
-*Một mệnh đề chạm đúng ký ức người nghe mở ra cánh cửa cho toàn bộ tác phẩm.*
