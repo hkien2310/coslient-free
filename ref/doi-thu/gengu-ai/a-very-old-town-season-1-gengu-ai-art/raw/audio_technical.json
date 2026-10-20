@@ -1,0 +1,193 @@
+{
+  "source_file": "ref/doi-thu/gengu-ai/a-very-old-town-season-1-gengu-ai-art/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/gengu-ai/a-very-old-town-season-1-gengu-ai-art/raw/audio_listen.mp3",
+  "duration_sec": 2194.0,
+  "duration_formatted": "36:34",
+  "tempo": {
+    "bpm": 123.0,
+    "bpm_rounded": 123,
+    "half_time_bpm": 61.5,
+    "double_time_bpm": 246.1,
+    "beat_stability": 0.95
+  },
+  "harmony": {
+    "primary_key": "D Minor",
+    "confidence": 0.934,
+    "secondary_key": "A Minor",
+    "secondary_confidence": 0.646,
+    "dominant_notes": [
+      "D",
+      "A",
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  "sub_tracks": [
+    {
+      "track_index": 1,
+      "time_range": "0:00 - 19:33",
+      "start_sec": 0.1,
+      "end_sec": 1172.7,
+      "duration_formatted": "19:33",
+      "duration_sec": 1172.5,
+      "bpm": 123.0,
+      "half_time_bpm": 61.5,
+      "primary_key": "D Minor",
+      "secondary_key": "D Major"
+    },
+    {
+      "track_index": 2,
+      "time_range": "19:36 - 27:32",
+      "start_sec": 1175.7,
+      "end_sec": 1652.5,
+      "duration_formatted": "7:57",
+      "duration_sec": 476.8,
+      "bpm": 107.7,
+      "half_time_bpm": 53.8,
+      "primary_key": "D Minor",
+      "secondary_key": "A Minor"
+    },
+    {
+      "track_index": 3,
+      "time_range": "27:35 - 36:34",
+      "start_sec": 1654.9,
+      "end_sec": 2194.0,
+      "duration_formatted": "8:59",
+      "duration_sec": 539.1,
+      "bpm": 117.5,
+      "half_time_bpm": 58.7,
+      "primary_key": "D Minor",
+      "secondary_key": "A Minor"
+    }
+  ],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 85.0,
+    "percussive_energy_pct": 15.0,
+    "harmonic_to_percussive_ratio": 5.66,
+    "spectral_centroid_mean_hz": 2165,
+    "spectral_rolloff_85_hz": 4690
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -14.7,
+    "loudness_range_lu": 6.8,
+    "true_peak_dbtp": -0.3,
+    "mean_rms_db": -20.1,
+    "peak_db": -1.9,
+    "crest_factor_db": 18.2,
+    "stereo_width_pct": 25.0,
+    "stereo_correlation": 0.801,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 7.6,
+      "bass_60_250Hz_pct": 50.6,
+      "low_mid_250_500Hz_pct": 20.4,
+      "mid_500_2000Hz_pct": 15.7,
+      "high_mid_2k_6kHz_pct": 4.0,
+      "high_6k_plus_pct": 1.7
+    }
+  },
+  "video_folder": "ref/doi-thu/gengu-ai/a-very-old-town-season-1-gengu-ai-art",
+  "raw_folder": "ref/doi-thu/gengu-ai/a-very-old-town-season-1-gengu-ai-art/raw",
+  "youtube_meta": {
+    "video_id": "m1Q-uWCMM-I",
+    "url": "https://www.youtube.com/watch?v=m1Q-uWCMM-I",
+    "title": "A Very Old Town Season 1 | Gengu AI Art",
+    "channel": "Gengu AI",
+    "channel_follower_count": 18600,
+    "view_count": 202341,
+    "like_count": 6806,
+    "comment_count": 15,
+    "upload_date": "20260521",
+    "description": "🎧 Welcome to Gengu AI – your ultimate destination for AI-generated music and next-generation sound experiences. 🚀 This channel is dedicated to creating unique, high-quality tracks powered by artificial intelligence 🤖, blending creativity and technology to deliver music that feels fresh, emotional, and immersive.\n\n🎶 At Gengu AI, you will find a wide variety of genres including lofi hip hop, chill beats, ambient music, cinematic soundtracks, electronic music, relaxing music, study music, sleep music, and background music for videos. Every track is carefully crafted using advanced AI tools to bring you smooth melodies 🎹, deep atmospheres 🌌, and inspiring vibes.\n\n🎬 How This Film Was Made\n• Midjourney – Original visual world\n• Veo 3 – Gentle cinematic motion in 4K\n• Suno – Original music production\n• Story, pacing, and emotional direction – Human-led\n\nAI was the tool. The story came from human feeling.\n\nIf this film gave you a quiet breath, a memory, or a moment of peace, thank you for being here.\n\n© Gengu AI, 2026. All rights reserved.\nThis Video is an original creation and may not be copied, redistributed, or reused without permission.\n#averyunusualtown #surrealaifilm #aifilm #aimusic #stopmotion #cinematic #4k",
+    "tags": [
+      "AI music",
+      "AI generated music",
+      "lofi hip hop",
+      "chill beats",
+      "relaxing music",
+      "study music",
+      "focus music",
+      "sleep music",
+      "ambient music",
+      "cinematic music",
+      "background music",
+      "instrumental music",
+      "electronic music",
+      "chill vibes",
+      "lo fi beats",
+      "music for sleep",
+      "no copyright music",
+      "royalty free music",
+      "futuristic music",
+      "calm music",
+      "meditation music",
+      "stress relief music",
+      "creative commons music",
+      "youtube background music",
+      "gengu art"
+    ],
+    "top_comments": [
+      {
+        "author": "@somr1972",
+        "likes": 68,
+        "text": "If we're going to have AI, this is the only way I'll accept it."
+      },
+      {
+        "author": "@ruzenas.3052",
+        "likes": 59,
+        "text": "Při sledování a poslechu mám krásné povznášející pocity. Děkuji autorům za nový druh umění.  Je mi 79 let a jsem z České republiky.❣️"
+      },
+      {
+        "author": "@Любовь-л1в3ж",
+        "likes": 48,
+        "text": "Невозможно сказать, что больше очаровывает, изображение или музыка! Сочетание того и другого безупречно!"
+      },
+      {
+        "author": "@OrisTinyPlanet",
+        "likes": 48,
+        "text": "The way the music matches the visuals is chef's kiss 🤌"
+      },
+      {
+        "author": "@giseleaubin148",
+        "likes": 47,
+        "text": "artisan's are the ones who help you think outside the box. the writers or creators bring you to yourself.😀❤🙆‍♀💁💁‍♂🧑‍🎓👩‍🔧🧑‍💻🧑‍🚒👷‍♂👰‍♂🧚‍♂don,t let them take who you are.....♥"
+      },
+      {
+        "author": "@Phillip-z1k6h",
+        "likes": 40,
+        "text": "Ok, I am not an AI fan,but his has been generated with human love.Well done."
+      },
+      {
+        "author": "@LisaSiebert-b2h",
+        "likes": 31,
+        "text": "I love this music and the visuals are so sweet & adorable!!"
+      },
+      {
+        "author": "@tramdang8999",
+        "likes": 29,
+        "text": "Wonderful, soothing melodies and beautiful visuals"
+      },
+      {
+        "author": "@bellahlangford7676",
+        "likes": 28,
+        "text": "I want to live there, made me cry it’s so beautiful"
+      },
+      {
+        "author": "@CharlesBainter",
+        "likes": 28,
+        "text": "Had to share this one Facebook this is a masterpiece.  Love it......thank you for sharing this blessing started my day with a smile. Ohio USA"
+      },
+      {
+        "author": "@АллаПопова-и6ь",
+        "likes": 21,
+        "text": "Спасибо за такое чудо, смотрю каждый день, мне 70 лет, Москва"
+      },
+      {
+        "author": "@Katie-e6p",
+        "likes": 14,
+        "text": "You said it’s AI. Of which it do not understand, and I her it is bad. But what I’m seeing here does not scare me, it makes me smile from enjoyment and look for ward to the. next one. Thank you. ❤"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "source_file": "ref/doi-thu/three-quarter-town/will-he-ever-return-the-dog-at-the-station-three-quarter-town/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/three-quarter-town/will-he-ever-return-the-dog-at-the-station-three-quarter-town/raw/audio_listen.mp3",
+  "duration_sec": 276.1,
+  "duration_formatted": "4:36",
+  "tempo": {
+    "bpm": 123.0,
+    "bpm_rounded": 123,
+    "half_time_bpm": 61.5,
+    "double_time_bpm": 246.1,
+    "beat_stability": 0.96
+  },
+  "harmony": {
+    "primary_key": "D Minor",
+    "confidence": 0.885,
+    "secondary_key": "D Major",
+    "secondary_confidence": 0.777,
+    "dominant_notes": [
+      "D",
+      "A",
+      "G",
+      "E",
+      "C#"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 86.2,
+    "percussive_energy_pct": 13.8,
+    "harmonic_to_percussive_ratio": 6.23,
+    "spectral_centroid_mean_hz": 1809,
+    "spectral_rolloff_85_hz": 3945
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -13.0,
+    "loudness_range_lu": 5.7,
+    "true_peak_dbtp": 0.4,
+    "mean_rms_db": -18.0,
+    "peak_db": -0.3,
+    "crest_factor_db": 17.6,
+    "stereo_width_pct": 26.2,
+    "stereo_correlation": 0.776,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 15.7,
+      "bass_60_250Hz_pct": 52.2,
+      "low_mid_250_500Hz_pct": 18.1,
+      "mid_500_2000Hz_pct": 11.6,
+      "high_mid_2k_6kHz_pct": 1.8,
+      "high_6k_plus_pct": 0.6
+    }
+  },
+  "video_folder": "ref/doi-thu/three-quarter-town/will-he-ever-return-the-dog-at-the-station-three-quarter-town",
+  "raw_folder": "ref/doi-thu/three-quarter-town/will-he-ever-return-the-dog-at-the-station-three-quarter-town/raw",
+  "youtube_meta": {
+    "video_id": "0IhB02iP0cY",
+    "url": "https://www.youtube.com/watch?v=0IhB02iP0cY",
+    "title": "Will He Ever Return? The Dog at the Station | Three-Quarter Town",
+    "channel": "Three-Quarter Town",
+    "channel_follower_count": 29000,
+    "view_count": 204871,
+    "like_count": 2949,
+    "comment_count": 15,
+    "upload_date": "20260610",
+    "description": "Every morning, an old man and his faithful dog came to the little village station.\nThe dog watched him board the train.\nAnd every evening, it waited on the wooden platform until he came home.\n\nFor years, this was their quiet routine.\n\nThen one evening, the train returned without him.\n\nStill, the old dog kept coming back to the same place, waiting beside the lamp, watching the tracks, listening for the sound of the train.\n\nA quiet, emotional story from Three-Quarter Town about loyalty, memory, and the gentle way a whole village learns to care for one faithful dog.\n\n- Three-Quarter Town",
+    "tags": [
+      "three-quarter town",
+      "three quarter town",
+      "the dog who waited at the station",
+      "loyal dog story",
+      "faithful dog",
+      "old dog",
+      "emotional dog story",
+      "heartwarming dog story",
+      "sad dog story",
+      "dog and owner",
+      "dog lovers",
+      "animal story",
+      "pet story",
+      "loyalty story",
+      "bittersweet story",
+      "emotional animation",
+      "animated short",
+      "stop motion style",
+      "miniature animation",
+      "cozy animation",
+      "wholesome story",
+      "tearjerker",
+      "small town story",
+      "european village",
+      "night series"
+    ],
+    "top_comments": [
+      {
+        "author": "@sciencenotsrigma",
+        "likes": 44,
+        "text": "This is the saddest thing ever.  I don’t know how anyone could ever abandon an animal.  They are so dear and innocent."
+      },
+      {
+        "author": "@SANDYMN2011",
+        "likes": 33,
+        "text": "Oh this broke my heart. I had so many best friends gone to heaven. I hope to meet them all again some day 😢❤"
+      },
+      {
+        "author": "@motown3825",
+        "likes": 23,
+        "text": "The dogs expressions are so accurate and realistic that they convey his feelings perfectly 😞"
+      },
+      {
+        "author": "@victoriamorris446",
+        "likes": 14,
+        "text": "This is similar to the dog & his master in Japan where the master never came back for him because he passed away… The dogs name was Hachi. Faithful, but sad… Thank you for such evoking emotional videos & music."
+      },
+      {
+        "author": "@steveneast8572",
+        "likes": 13,
+        "text": "Awe this has made a old man cry 😢"
+      },
+      {
+        "author": "@ourdaisy",
+        "likes": 12,
+        "text": "Ohhh nooo.just to sad 😢😢😢 it's like that film based on a true story where his daddy never came home 😢😢"
+      },
+      {
+        "author": "@lynderherberts2828",
+        "likes": 7,
+        "text": "Beautiful and sweet."
+      },
+      {
+        "author": "@ricoz2016",
+        "likes": 6,
+        "text": "His unwavering devotion was eventually rewarded."
+      },
+      {
+        "author": "@elena-y7m-5vCyprus",
+        "likes": 6,
+        "text": "Very touching they leave footprints in our hears ❤❤❤"
+      },
+      {
+        "author": "@Lehanary",
+        "likes": 6,
+        "text": "You made me cry😢😢😢😢"
+      },
+      {
+        "author": "@panidakluansungnoen1575",
+        "likes": 4,
+        "text": "This song is very to match with story, it makes me so sad every time to listen."
+      },
+      {
+        "author": "@UFOReseacher",
+        "likes": 4,
+        "text": "Made me cry 😢"
+      }
+    ]
+  }
+}

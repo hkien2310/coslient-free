@@ -1,0 +1,156 @@
+{
+  "source_file": "ref/doi-thu/golden-quiet-things/a-beautiful-world-emotional-folk-travel-song-with-stunning-landsc/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/golden-quiet-things/a-beautiful-world-emotional-folk-travel-song-with-stunning-landsc/raw/audio_listen.mp3",
+  "duration_sec": 249.8,
+  "duration_formatted": "4:10",
+  "tempo": {
+    "bpm": 117.5,
+    "bpm_rounded": 117,
+    "half_time_bpm": 58.7,
+    "double_time_bpm": 234.9,
+    "beat_stability": 0.97
+  },
+  "harmony": {
+    "primary_key": "G Major",
+    "confidence": 0.948,
+    "secondary_key": "D Major",
+    "secondary_confidence": 0.75,
+    "dominant_notes": [
+      "G",
+      "D",
+      "C",
+      "A",
+      "B"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 80.5,
+    "percussive_energy_pct": 19.5,
+    "harmonic_to_percussive_ratio": 4.13,
+    "spectral_centroid_mean_hz": 2369,
+    "spectral_rolloff_85_hz": 5598
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -13.6,
+    "loudness_range_lu": 6.0,
+    "true_peak_dbtp": -0.2,
+    "mean_rms_db": -18.9,
+    "peak_db": -2.3,
+    "crest_factor_db": 16.6,
+    "stereo_width_pct": 32.4,
+    "stereo_correlation": 0.625,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 20.0,
+      "bass_60_250Hz_pct": 45.5,
+      "low_mid_250_500Hz_pct": 14.4,
+      "mid_500_2000Hz_pct": 14.8,
+      "high_mid_2k_6kHz_pct": 3.7,
+      "high_6k_plus_pct": 1.5
+    }
+  },
+  "video_folder": "ref/doi-thu/golden-quiet-things/a-beautiful-world-emotional-folk-travel-song-with-stunning-landsc",
+  "raw_folder": "ref/doi-thu/golden-quiet-things/a-beautiful-world-emotional-folk-travel-song-with-stunning-landsc/raw",
+  "youtube_meta": {
+    "video_id": "w0ZOqzvGjUA",
+    "url": "https://www.youtube.com/watch?v=w0ZOqzvGjUA",
+    "title": "A Beautiful World 🌄 | Emotional Folk Travel Song with Stunning Landscapes",
+    "channel": "Golden Quiet Things",
+    "channel_follower_count": 408,
+    "view_count": 446324,
+    "like_count": 7587,
+    "comment_count": 15,
+    "upload_date": "20260531",
+    "description": "Experience Beautiful World, a heartwarming cinematic folk ballad celebrating the wonders of nature, adventure, and a life well lived.\n\nFollow an older traveler as he journeys through majestic mountains, emerald forests, golden fields, starlit skies, and endless oceans. With warm acoustic guitar, gentle cello, rich harmonies, and nostalgic storytelling, this song is a tribute to the breathtaking beauty that surrounds us every day.\n\nWhether you love folk music, travel songs, nature documentaries, relaxing acoustic melodies, or inspirational storytelling, this journey is for you.\n\n🌄 Mountains and canyons\n🌲 Emerald forests and flowing rivers\n🌌 Northern lights and starry skies\n🌊 Endless oceans and coastal horizons\n✨ A celebration of life, gratitude, and wonder\n___________________________\nLyric\n[Verse 1]\nI stood on the edge of the canyon deep\nWatching the secrets the mountains keep\nThe sun was a fire burning in the sky\nPainting a picture that could make you cry\nThe wind was a whisper, a gentle embrace\nI smiled to myself in that sacred place\n\n[Verse 2]\nRemember the valley where the rivers flow?\nThe emerald forests where the wild things grow\nWe walked through the mist, we conquered the heights\nGuided by the glow of the northern lights\nMy boots may be worn, but my heart is so light\nEvery single road led me here tonight\n\n[Chorus]\nOh, we’ve seen the golden fields under the starlight\nWe’ve chased the ocean waves into the midnight\nEvery mountain high, every valley low\nA breathtaking magic",
+    "tags": [
+      "beautiful world",
+      "folk music",
+      "cinematic folk",
+      "acoustic folk",
+      "travel music",
+      "nature music",
+      "inspirational music",
+      "relaxing folk music",
+      "adventure song",
+      "storytelling song",
+      "acoustic guitar",
+      "folk ballad",
+      "cinematic music",
+      "wanderlust",
+      "forest music",
+      "life journey",
+      "peaceful music",
+      "indie folk",
+      "country folk",
+      "emotional folk song",
+      "travel soundtrack",
+      "nature soundtrack",
+      "road trip music",
+      "northern lights",
+      "beautiful landscapes"
+    ],
+    "top_comments": [
+      {
+        "author": "@taichiwolfman",
+        "likes": 122,
+        "text": "I seldom leave comments, only for magical clips.  This video is magical, it made my eyes leak.  Sitting here with my wife of 57 years.  We've lived in many different places and seen some beautiful scenery.  Divert your attention from news and current events and see the beauty.  It's all around us."
+      },
+      {
+        "author": "@kikaha56",
+        "likes": 27,
+        "text": "Thank you thank you. 70 now have the hair no beard though. This is me now in the mountains. You make this ol Aussie smile❤"
+      },
+      {
+        "author": "@barbnd1512",
+        "likes": 24,
+        "text": "This is absolutely stunning!  One of my top favorites.  ❤"
+      },
+      {
+        "author": "@SuperMainegirl",
+        "likes": 15,
+        "text": "What a beautiful world we live in and so much to see  especially the auroras!!!!! This couched my soul!!!"
+      },
+      {
+        "author": "@tammiettt",
+        "likes": 13,
+        "text": "Thank you!"
+      },
+      {
+        "author": "@HowardArt2323",
+        "likes": 9,
+        "text": "This made me want to pack a bag and just start exploring. The landscapes were breathtaking, and the folk music gave every scene so much heart. By the end, it felt less like a video and more like a journey I didn't want to leave. 🌄"
+      },
+      {
+        "author": "@MaryFeia",
+        "likes": 7,
+        "text": "See the world a different way . See what you see. Beautiful world."
+      },
+      {
+        "author": "@tclamb",
+        "likes": 6,
+        "text": "This is THE most gorgeous and heartfelt live performance ever."
+      },
+      {
+        "author": "@HalfwayAIArtTown",
+        "likes": 2,
+        "text": "Every landscape in this felt like an invitation to slow down and simply take it all in. The emotional folk music paired perfectly with the breathtaking scenery, making the journey feel both peaceful and inspiring. By the end, I just wanted to keep traveling. 🌄"
+      },
+      {
+        "author": "@calarosbay",
+        "likes": 0,
+        "text": "Thanks you so much for this performance. It takes me back to the wonderful 20 years that my wife and I spent in California, taking every opportunity to visit the Sierras, valleys and lakes (even swimming in Lake Tahoe and Lake Alpine), and beyond in Arizona (Grand Canyon) and Utah (Monument Valley).  Those were the richest times of our life. We're now retired in western France, and those sweet memories remind us everyday how lucky we are."
+      },
+      {
+        "author": "@agneskenny479",
+        "likes": 0,
+        "text": "Makes me feel warm ."
+      },
+      {
+        "author": "@johnthompson8278",
+        "likes": 0,
+        "text": "There are more than a few times, I decided the moment was so perfect that I need to always remember it:  An eatherial rainbow caused by a full moon; breathing air in a Balsam grove that had just come off a mountain glacier -- fresh as when God made it; the perfect quiet of a December snowfall in a Cedar forest; an August night sky with the Northern Lights, a full moon, and a meteor-shower!  Sitting by a camp fire on a canoe trip listening to calls of the Loons -- and the howl of a wolf; seeing dozens of American Kestrels on an old abandoned telephone line in rippling long prairie grass.  These and so many other perfect moments..."
+      }
+    ]
+  }
+}

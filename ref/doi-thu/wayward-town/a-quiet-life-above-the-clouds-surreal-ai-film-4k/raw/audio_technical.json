@@ -1,0 +1,139 @@
+{
+  "source_file": "ref/doi-thu/wayward-town/a-quiet-life-above-the-clouds-surreal-ai-film-4k/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/wayward-town/a-quiet-life-above-the-clouds-surreal-ai-film-4k/raw/audio_listen.mp3",
+  "duration_sec": 456.9,
+  "duration_formatted": "7:37",
+  "tempo": {
+    "bpm": 123.0,
+    "bpm_rounded": 123,
+    "half_time_bpm": 61.5,
+    "double_time_bpm": 246.1,
+    "beat_stability": 0.95
+  },
+  "harmony": {
+    "primary_key": "D# Major",
+    "confidence": 0.882,
+    "secondary_key": "C Minor",
+    "secondary_confidence": 0.804,
+    "dominant_notes": [
+      "D#",
+      "A#",
+      "C",
+      "G",
+      "F"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 91.0,
+    "percussive_energy_pct": 9.0,
+    "harmonic_to_percussive_ratio": 10.16,
+    "spectral_centroid_mean_hz": 1721,
+    "spectral_rolloff_85_hz": 3900
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -12.8,
+    "loudness_range_lu": 4.3,
+    "true_peak_dbtp": -0.3,
+    "mean_rms_db": -17.4,
+    "peak_db": -2.0,
+    "crest_factor_db": 15.4,
+    "stereo_width_pct": 28.8,
+    "stereo_correlation": 0.718,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 10.2,
+      "bass_60_250Hz_pct": 47.9,
+      "low_mid_250_500Hz_pct": 28.3,
+      "mid_500_2000Hz_pct": 11.7,
+      "high_mid_2k_6kHz_pct": 1.2,
+      "high_6k_plus_pct": 0.7
+    }
+  },
+  "video_folder": "ref/doi-thu/wayward-town/a-quiet-life-above-the-clouds-surreal-ai-film-4k",
+  "raw_folder": "ref/doi-thu/wayward-town/a-quiet-life-above-the-clouds-surreal-ai-film-4k/raw",
+  "youtube_meta": {
+    "video_id": "_aiEnMbaC4M",
+    "url": "https://www.youtube.com/watch?v=_aiEnMbaC4M",
+    "title": "A Quiet Life Above the Clouds  | Surreal AI Film 4K",
+    "channel": "Wayward Town",
+    "channel_follower_count": 806,
+    "view_count": 160914,
+    "like_count": 1449,
+    "comment_count": 15,
+    "upload_date": "20260625",
+    "description": "Welcome to Wayward Town.\n\n**A Quiet Life Above the Clouds  | Surreal AI Film (4K)** is a peaceful cinematic story about friendship, hope, kindness, and finding comfort while walking through life's uncertain paths above a world of endless clouds.\n\nAccompanied by the original soundtrack **\"The Sweetest Journey\"**, this film follows a gentle emotional journey through dreamlike landscapes, floating paths, warm light, and quiet moments of connection. Created in a surreal fairytale atmosphere, the story celebrates trust, compassion, and the simple beauty of walking forward together.\n\nEvery scene in this film is an original AI-assisted artistic creation produced for storytelling and entertainment purposes. No real events, people, or locations are depicted.\n\n**Creative Production Credits**\n• Story Development: ChatGPT\n• Visual Design & Image Creation: Midjourney, AI Art Tools\n• Video Generation & Animation: Google Veo, Runway\n• Editing & Post Production: Original Creative Workflow\n• Original Music: Suno AI (Licensed and owned by the creator)\n• Channel: Wayward Town\n\nThis video is part of an ongoing collection of original surreal cinematic stories exploring nostalgic villages, timeless friendships, peaceful countryside life, and imaginative dream worlds.\n\nAll visual assets, editing, story structure, scene direction, music selection, and final creative decisions were produced and curated by the channel creator.\n\nThis content is not reused content, copied content, or repurposed material",
+    "tags": [
+      "SurrealAIFilm",
+      "StopMotionStyle",
+      "aifilm",
+      "aimusic",
+      "Claymation",
+      "Nostalgia",
+      "DreamyAnimation",
+      "Cinematic"
+    ],
+    "top_comments": [
+      {
+        "author": "@tjwhitehead2955",
+        "likes": 10,
+        "text": "Blessed are those who got it right the first time"
+      },
+      {
+        "author": "@VelmaWitkowski-gn7wu",
+        "likes": 4,
+        "text": "Love of an everlasting type. Nostalgic  memories!!!"
+      },
+      {
+        "author": "@JaneDoe-kh3he",
+        "likes": 2,
+        "text": "Wat een prachtige droom voor twee zielen op aarde die samen het leven vieren in onvoorwaardelijke liefde❤"
+      },
+      {
+        "author": "@Xenie-p2p",
+        "likes": 2,
+        "text": "Спасибо дорогой автор,это чудесно!🩷"
+      },
+      {
+        "author": "@marelizegreeff-garcia1753",
+        "likes": 2,
+        "text": "Heartwarming"
+      },
+      {
+        "author": "@starrlehner1881",
+        "likes": 2,
+        "text": "Thankful there's such beauty in a world such as today."
+      },
+      {
+        "author": "@MartinArtTV",
+        "likes": 2,
+        "text": "🐾 This was truly heartwarming. The touching story and beautiful animation celebrated the unconditional love and unwavering loyalty that only a faithful companion can give. ❤"
+      },
+      {
+        "author": "@JjuneyDays",
+        "likes": 1,
+        "text": "멋져요\n응원합니다."
+      },
+      {
+        "author": "@Mimi-yc9iq",
+        "likes": 1,
+        "text": "Made me cry 😢 ❤"
+      },
+      {
+        "author": "@jammuna1",
+        "likes": 1,
+        "text": "Such amazing art work, story and lyrics. Thank you ❤"
+      },
+      {
+        "author": "@3dzoa",
+        "likes": 0,
+        "text": "영상을 보니 괜히 눈물이 납니다. (50대 중반 남성)"
+      },
+      {
+        "author": "@seaderam",
+        "likes": 0,
+        "text": "너무 멋져요"
+      }
+    ]
+  }
+}

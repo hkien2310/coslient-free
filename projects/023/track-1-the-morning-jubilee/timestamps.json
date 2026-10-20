@@ -1,0 +1,714 @@
+{
+  "audio_file": "The Morning Jubilee_Master.wav",
+  "language": "en",
+  "model": "base.en",
+  "lyrics_file": "3-lyrics.txt",
+  "duration_seconds": 276.65,
+  "duration_formatted": "04:36",
+  "gap_threshold": 2.0,
+  "max_shot_duration": 6.5,
+  "total_sections": 70,
+  "vocal_lines_count": 66,
+  "sequence": [
+    {
+      "index": 1,
+      "type": "INSTRUMENTAL",
+      "section": "Intro",
+      "start": 0.0,
+      "end": 14.58,
+      "duration": 14.58,
+      "time_range": "00:00 - 00:14",
+      "text": "[Intro / Instrumental Opening]"
+    },
+    {
+      "index": 2,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 14.58,
+      "end": 18.14,
+      "duration": 3.56,
+      "time_range": "00:14 - 00:18",
+      "text": "Mist is lifting off the water"
+    },
+    {
+      "index": 3,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 18.14,
+      "end": 21.56,
+      "duration": 3.42,
+      "time_range": "00:18 - 00:21",
+      "text": "First wooden boat bumps on the pier"
+    },
+    {
+      "index": 4,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 21.56,
+      "end": 24.52,
+      "duration": 2.96,
+      "time_range": "00:21 - 00:24",
+      "text": "Heaped right up with yellow pumpkins"
+    },
+    {
+      "index": 5,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 24.52,
+      "end": 27.54,
+      "duration": 3.02,
+      "time_range": "00:24 - 00:27",
+      "text": "And the biggest apples of the year"
+    },
+    {
+      "index": 6,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 27.54,
+      "end": 30.94,
+      "duration": 3.4,
+      "time_range": "00:27 - 00:30",
+      "text": "Henry down at his workbench"
+    },
+    {
+      "index": 7,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 30.94,
+      "end": 34.88,
+      "duration": 3.94,
+      "time_range": "00:30 - 00:34",
+      "text": "Shaving curls of white pine thin"
+    },
+    {
+      "index": 8,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 34.88,
+      "end": 37.6,
+      "duration": 2.72,
+      "time_range": "00:34 - 00:37",
+      "text": "Blows the sawdust off his knuckles"
+    },
+    {
+      "index": 9,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 37.6,
+      "end": 41.42,
+      "duration": 3.82,
+      "time_range": "00:37 - 00:41",
+      "text": "With a broad and easy grin"
+    },
+    {
+      "index": 10,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 41.42,
+      "end": 44.24,
+      "duration": 2.82,
+      "time_range": "00:41 - 00:44",
+      "text": "Take my arm and watch your footing"
+    },
+    {
+      "index": 11,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 44.24,
+      "end": 48.12,
+      "duration": 3.88,
+      "time_range": "00:44 - 00:48",
+      "text": "Smell the baker's cinnamon sweet"
+    },
+    {
+      "index": 12,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 48.12,
+      "end": 50.9,
+      "duration": 2.78,
+      "time_range": "00:48 - 00:50",
+      "text": "Old wood carts with yellow daisies"
+    },
+    {
+      "index": 13,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 50.9,
+      "end": 54.04,
+      "duration": 3.14,
+      "time_range": "00:50 - 00:54",
+      "text": "Parked along the cobblestone street"
+    },
+    {
+      "index": 14,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 54.04,
+      "end": 57.34,
+      "duration": 3.3,
+      "time_range": "00:54 - 00:57",
+      "text": "Don't you leave your Sunday jacket"
+    },
+    {
+      "index": 15,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 57.34,
+      "end": 61.56,
+      "duration": 4.22,
+      "time_range": "00:57 - 01:01",
+      "text": "Hanging on the closet door"
+    },
+    {
+      "index": 16,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 61.56,
+      "end": 63.86,
+      "duration": 2.3,
+      "time_range": "01:01 - 01:03",
+      "text": "Put your bright red sweater on"
+    },
+    {
+      "index": 17,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 63.86,
+      "end": 67.98,
+      "duration": 4.12,
+      "time_range": "01:03 - 01:07",
+      "text": "And walk along the river shore"
+    },
+    {
+      "index": 18,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 67.98,
+      "end": 71.38,
+      "duration": 3.4,
+      "time_range": "01:07 - 01:11",
+      "text": "We spent too long staying home"
+    },
+    {
+      "index": 19,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 71.38,
+      "end": 74.62,
+      "duration": 3.24,
+      "time_range": "01:11 - 01:14",
+      "text": "Let the river run on by"
+    },
+    {
+      "index": 20,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 74.62,
+      "end": 77.64,
+      "duration": 3.02,
+      "time_range": "01:14 - 01:17",
+      "text": "Come on down to the jubilee"
+    },
+    {
+      "index": 21,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 77.64,
+      "end": 80.46,
+      "duration": 2.82,
+      "time_range": "01:17 - 01:20",
+      "text": "Underneath this morning sky"
+    },
+    {
+      "index": 22,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 80.46,
+      "end": 87.42,
+      "duration": 6.96,
+      "time_range": "01:20 - 01:27",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 23,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 87.42,
+      "end": 91.38,
+      "duration": 3.96,
+      "time_range": "01:27 - 01:31",
+      "text": "Clara sits behind her pottery wheel"
+    },
+    {
+      "index": 24,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 91.38,
+      "end": 93.6,
+      "duration": 2.22,
+      "time_range": "01:31 - 01:33",
+      "text": "Grey hair twisted in a knot"
+    },
+    {
+      "index": 25,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 93.6,
+      "end": 97.76,
+      "duration": 4.16,
+      "time_range": "01:33 - 01:37",
+      "text": "Spinning wet clay through her fingers"
+    },
+    {
+      "index": 26,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 97.76,
+      "end": 100.88,
+      "duration": 3.12,
+      "time_range": "01:37 - 01:40",
+      "text": "Turning mud into a honey pot"
+    },
+    {
+      "index": 27,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 100.88,
+      "end": 104.58,
+      "duration": 3.7,
+      "time_range": "01:40 - 01:44",
+      "text": "Arthur brings an apple turnover"
+    },
+    {
+      "index": 28,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 104.58,
+      "end": 108.0,
+      "duration": 3.42,
+      "time_range": "01:44 - 01:48",
+      "text": "Steaming hot right off the tray"
+    },
+    {
+      "index": 29,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 108.0,
+      "end": 111.0,
+      "duration": 3.0,
+      "time_range": "01:48 - 01:51",
+      "text": "Says, Clara, wipe your apron off"
+    },
+    {
+      "index": 30,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 111.0,
+      "end": 113.42,
+      "duration": 2.42,
+      "time_range": "01:51 - 01:53",
+      "text": "Take a bite and come and play"
+    },
+    {
+      "index": 31,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 113.42,
+      "end": 116.96,
+      "duration": 3.54,
+      "time_range": "01:53 - 01:56",
+      "text": "Neighbors in their heavy flannels"
+    },
+    {
+      "index": 32,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 116.96,
+      "end": 120.56,
+      "duration": 3.6,
+      "time_range": "01:56 - 02:00",
+      "text": "Trading loaves and garden greens"
+    },
+    {
+      "index": 33,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 120.56,
+      "end": 123.98,
+      "duration": 3.42,
+      "time_range": "02:00 - 02:03",
+      "text": "You took a warm crust off the tray"
+    },
+    {
+      "index": 34,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 123.98,
+      "end": 127.38,
+      "duration": 3.4,
+      "time_range": "02:03 - 02:07",
+      "text": "Best thing that you ever seen"
+    },
+    {
+      "index": 35,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 127.38,
+      "end": 130.26,
+      "duration": 2.88,
+      "time_range": "02:07 - 02:10",
+      "text": "Don't you leave your Sunday jacket"
+    },
+    {
+      "index": 36,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 130.26,
+      "end": 134.38,
+      "duration": 4.12,
+      "time_range": "02:10 - 02:14",
+      "text": "Hanging on the closet door"
+    },
+    {
+      "index": 37,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 134.38,
+      "end": 136.8,
+      "duration": 2.42,
+      "time_range": "02:14 - 02:16",
+      "text": "Put your bright red sweater on"
+    },
+    {
+      "index": 38,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 136.8,
+      "end": 139.88,
+      "duration": 3.08,
+      "time_range": "02:16 - 02:19",
+      "text": "And walk along the river shore"
+    },
+    {
+      "index": 39,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 139.88,
+      "end": 143.96,
+      "duration": 4.08,
+      "time_range": "02:19 - 02:23",
+      "text": "We spent too long staying home"
+    },
+    {
+      "index": 40,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 143.96,
+      "end": 147.26,
+      "duration": 3.3,
+      "time_range": "02:23 - 02:27",
+      "text": "Let the river run on by"
+    },
+    {
+      "index": 41,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 147.26,
+      "end": 150.34,
+      "duration": 3.08,
+      "time_range": "02:27 - 02:30",
+      "text": "Come on down to the jubilee"
+    },
+    {
+      "index": 42,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 150.34,
+      "end": 154.44,
+      "duration": 4.1,
+      "time_range": "02:30 - 02:34",
+      "text": "Underneath this morning sky"
+    },
+    {
+      "index": 43,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 154.44,
+      "end": 157.22,
+      "duration": 2.78,
+      "time_range": "02:34 - 02:37",
+      "text": "Sparrows hopping on the stones"
+    },
+    {
+      "index": 44,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 157.22,
+      "end": 160.64,
+      "duration": 3.42,
+      "time_range": "02:37 - 02:40",
+      "text": "Pecking crusts beside my shoe"
+    },
+    {
+      "index": 45,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 160.64,
+      "end": 163.12,
+      "duration": 2.48,
+      "time_range": "02:40 - 02:43",
+      "text": "You push your old cap back a bit"
+    },
+    {
+      "index": 46,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 163.12,
+      "end": 166.44,
+      "duration": 3.32,
+      "time_range": "02:43 - 02:46",
+      "text": "And I lean my arm on you"
+    },
+    {
+      "index": 47,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 166.44,
+      "end": 170.64,
+      "duration": 4.2,
+      "time_range": "02:46 - 02:50",
+      "text": "Every grey hair in the sunshine"
+    },
+    {
+      "index": 48,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 170.64,
+      "end": 173.98,
+      "duration": 3.34,
+      "time_range": "02:50 - 02:53",
+      "text": "Every laugh line had to earn"
+    },
+    {
+      "index": 49,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 173.98,
+      "end": 176.34,
+      "duration": 2.36,
+      "time_range": "02:53 - 02:56",
+      "text": "We’ve got all day on our boots"
+    },
+    {
+      "index": 50,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 176.34,
+      "end": 180.36,
+      "duration": 4.02,
+      "time_range": "02:56 - 03:00",
+      "text": "And we got no place to return"
+    },
+    {
+      "index": 51,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 180.36,
+      "end": 183.78,
+      "duration": 3.42,
+      "time_range": "03:00 - 03:03",
+      "text": "Take that heavy woolen muffler off"
+    },
+    {
+      "index": 52,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 183.78,
+      "end": 187.14,
+      "duration": 3.36,
+      "time_range": "03:03 - 03:07",
+      "text": "Drape it right across the pine"
+    },
+    {
+      "index": 53,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 187.14,
+      "end": 189.96,
+      "duration": 2.82,
+      "time_range": "03:07 - 03:09",
+      "text": "Feel the warm sun on your shoulders"
+    },
+    {
+      "index": 54,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 189.96,
+      "end": 193.06,
+      "duration": 3.1,
+      "time_range": "03:09 - 03:13",
+      "text": "As you put your hand in mine"
+    },
+    {
+      "index": 55,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 193.06,
+      "end": 197.1,
+      "duration": 4.04,
+      "time_range": "03:13 - 03:17",
+      "text": "Let the fiddle take the tune now"
+    },
+    {
+      "index": 56,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 197.1,
+      "end": 200.36,
+      "duration": 3.26,
+      "time_range": "03:17 - 03:20",
+      "text": "Let the guitars start to play"
+    },
+    {
+      "index": 57,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 200.36,
+      "end": 202.8,
+      "duration": 2.44,
+      "time_range": "03:20 - 03:22",
+      "text": "There’s a whole lot of living left"
+    },
+    {
+      "index": 58,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 202.8,
+      "end": 205.98,
+      "duration": 3.18,
+      "time_range": "03:22 - 03:25",
+      "text": "Down along the dock today"
+    },
+    {
+      "index": 59,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 205.98,
+      "end": 219.36,
+      "duration": 13.38,
+      "time_range": "03:25 - 03:39",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 60,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 219.36,
+      "end": 222.78,
+      "duration": 3.42,
+      "time_range": "03:39 - 03:42",
+      "text": "Don't you leave your Sunday jacket"
+    },
+    {
+      "index": 61,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 222.78,
+      "end": 226.84,
+      "duration": 4.06,
+      "time_range": "03:42 - 03:46",
+      "text": "Hanging on the closet door"
+    },
+    {
+      "index": 62,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 226.84,
+      "end": 229.16,
+      "duration": 2.32,
+      "time_range": "03:46 - 03:49",
+      "text": "Put your bright red sweater on"
+    },
+    {
+      "index": 63,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 229.16,
+      "end": 232.32,
+      "duration": 3.16,
+      "time_range": "03:49 - 03:52",
+      "text": "And walk along the river shore"
+    },
+    {
+      "index": 64,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 232.32,
+      "end": 235.68,
+      "duration": 3.36,
+      "time_range": "03:52 - 03:55",
+      "text": "We spent too long staying home"
+    },
+    {
+      "index": 65,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 235.68,
+      "end": 239.78,
+      "duration": 4.1,
+      "time_range": "03:55 - 03:59",
+      "text": "Let the river run on by"
+    },
+    {
+      "index": 66,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 239.78,
+      "end": 242.06,
+      "duration": 2.28,
+      "time_range": "03:59 - 04:02",
+      "text": "Come on down to the jubilee"
+    },
+    {
+      "index": 67,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 242.06,
+      "end": 246.32,
+      "duration": 4.26,
+      "time_range": "04:02 - 04:06",
+      "text": "Underneath this morning sky"
+    },
+    {
+      "index": 68,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 246.32,
+      "end": 250.9,
+      "duration": 4.58,
+      "time_range": "04:06 - 04:10",
+      "text": "Down along the river shore"
+    },
+    {
+      "index": 69,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 250.9,
+      "end": 259.48,
+      "duration": 8.58,
+      "time_range": "04:10 - 04:19",
+      "text": "We spent too long staying home"
+    },
+    {
+      "index": 70,
+      "type": "INSTRUMENTAL",
+      "section": "Outro",
+      "start": 259.48,
+      "end": 276.65,
+      "duration": 17.17,
+      "time_range": "04:19 - 04:36",
+      "text": "[Outro / Instrumental Ending]"
+    }
+  ]
+}

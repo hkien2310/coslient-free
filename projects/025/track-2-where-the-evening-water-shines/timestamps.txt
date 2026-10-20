@@ -1,0 +1,68 @@
+# TIMESTAMPS: Where the Evening Water Shines.wav
+# Duration: 04:13 (253.56s) | Shots: 64 | Vocal lines: 46 | BPM: 136.0
+# Model: base.en | Language: en | Lyrics: 3-lyrics.txt | Zero-Gap Hybrid Beat-Snap: ON
+
+00:00 - 00:05  ( 5.55s)  [INSTRUMENTAL]   [Intro / Instrumental Opening] (Part 1/3)
+00:05 - 00:08  ( 3.41s)  [INSTRUMENTAL]   [Intro / Instrumental Opening] (Part 2/3)
+00:08 - 00:14  ( 5.58s)  [INSTRUMENTAL]   [Intro / Instrumental Opening] (Part 3/3)
+00:14 - 00:19  ( 4.73s)  [VOCAL]          The evening sun is sinking low
+00:19 - 00:22  ( 3.44s)  [VOCAL]          Across the quiet bay
+00:22 - 00:26  ( 3.44s)  [VOCAL]          And leaves a warm and golden glow
+00:26 - 00:29  ( 3.43s)  [VOCAL]          To end the gentle day
+00:29 - 00:32  ( 3.07s)  [VOCAL]          Two wooden chairs upon the stone
+00:32 - 00:36  ( 3.85s)  [VOCAL]          Are turned toward the sea
+00:36 - 00:38  ( 2.14s)  [VOCAL]          So anyone who walks alone
+00:38 - 00:42  ( 3.90s)  [VOCAL]          Can sit a while with me
+00:42 - 00:46  ( 4.36s)  [VOCAL]          Now the wind grows soft along the shore
+00:46 - 00:49  ( 2.61s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+00:49 - 00:53  ( 4.13s)  [VOCAL]          And no one has to hurry anymore
+00:53 - 00:55  ( 2.02s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+00:55 - 00:59  ( 3.43s)  [VOCAL]          Come and rest beside the quiet bay
+00:59 - 01:02  ( 3.51s)  [VOCAL]          Let the busy hours fade away
+01:02 - 01:06  ( 4.32s)  [VOCAL]          All the boats are tied along the pier
+01:06 - 01:09  ( 2.65s)  [VOCAL]          And the harbor lights are warm and clear
+01:09 - 01:13  ( 3.90s)  [VOCAL]          Sit with me beneath the coastal pines
+01:13 - 01:16  ( 3.09s)  [VOCAL]          Where the evening water shines
+01:16 - 01:20  ( 3.90s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:20 - 01:23  ( 3.09s)  [VOCAL]          Where the water shines
+01:23 - 01:30  ( 6.54s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:30 - 01:34  ( 3.93s)  [VOCAL]          Down by the steps along the side
+01:34 - 01:37  ( 3.48s)  [VOCAL]          Where all the boats come in
+01:37 - 01:40  ( 3.02s)  [VOCAL]          They tie the ropes against the tide
+01:40 - 01:44  ( 3.97s)  [VOCAL]          As evening stars begin
+01:44 - 01:48  ( 3.51s)  [VOCAL]          A steaming bowl is passed by hand
+01:48 - 01:51  ( 3.48s)  [VOCAL]          To warm the harbor chill
+01:51 - 01:54  ( 3.50s)  [VOCAL]          As quiet settles on the land
+01:54 - 01:57  ( 2.61s)  [VOCAL]          And all the waves grow still
+01:57 - 02:03  ( 6.10s)  [VOCAL]          Now the first pale star begins to rise
+02:03 - 02:10  ( 6.99s)  [VOCAL]          Across the quiet of the evening skies
+02:10 - 02:14  ( 3.51s)  [VOCAL]          Come and rest beside the quiet bay
+02:14 - 02:18  ( 3.92s)  [VOCAL]          Let the busy hours fade away
+02:18 - 02:22  ( 3.93s)  [VOCAL]          All the boats are tied along the pier
+02:22 - 02:24  ( 2.62s)  [VOCAL]          And the harbor lights are warm and clear
+02:24 - 02:29  ( 4.37s)  [VOCAL]          Sit with me beneath the coastal pines
+02:29 - 02:31  ( 2.64s)  [VOCAL]          Where the evening water shines
+02:31 - 02:36  ( 5.25s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break] (Part 1/5)
+02:36 - 02:42  ( 5.25s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break] (Part 2/5)
+02:42 - 02:49  ( 6.99s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break] (Part 3/5)
+02:49 - 02:54  ( 5.25s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break] (Part 4/5)
+02:54 - 02:59  ( 5.27s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break] (Part 5/5)
+02:59 - 03:04  ( 5.27s)  [VOCAL]          The waves roll in and softly go
+03:04 - 03:08  ( 3.46s)  [VOCAL]          Against the harbor stone
+03:08 - 03:12  ( 3.92s)  [VOCAL]          And in the twilight's gentle glow
+03:12 - 03:15  ( 2.67s)  [VOCAL]          You never sit alone
+03:15 - 03:19  ( 4.04s)  [VOCAL]          Come and rest beside the quiet bay
+03:19 - 03:22  ( 3.48s)  [VOCAL]          Let the busy hours fade away
+03:22 - 03:26  ( 3.53s)  [VOCAL]          Two old chairs are waiting on the pier
+03:26 - 03:29  ( 3.46s)  [VOCAL]          And the harbor lights are warm and clear
+03:29 - 03:32  ( 2.65s)  [VOCAL]          Side by side beneath the coastal pines
+03:32 - 03:34  ( 2.69s)  [VOCAL]          Beneath the pines
+03:34 - 03:38  ( 3.56s)  [VOCAL]          Where the evening water shines
+03:38 - 03:41  ( 3.06s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:41 - 03:45  ( 4.00s)  [VOCAL]          Where the evening water shines
+03:45 - 03:50  ( 5.29s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break] (Part 1/2)
+03:50 - 03:54  ( 3.43s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break] (Part 2/2)
+03:54 - 03:56  ( 2.00s)  [VOCAL]          Sit a while with me
+03:56 - 04:01  ( 5.32s)  [INSTRUMENTAL]   [Outro / Instrumental Ending] (Part 1/3)
+04:01 - 04:07  ( 6.20s)  [INSTRUMENTAL]   [Outro / Instrumental Ending] (Part 2/3)
+04:07 - 04:13  ( 5.85s)  [INSTRUMENTAL]   [Outro / Instrumental Ending] (Part 3/3)

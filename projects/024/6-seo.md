@@ -214,11 +214,68 @@ Did you ever make a sword, shield, or castle out of an old cardboard box when yo
 
 ---
 
-## 7. SHORTS (DƯỚI 30 GIÂY)
-- **Đoạn lấy:** `0:47 - 1:06` (19 giây: *"You take your time, I'll take mine too / Every step I walk with you / I spent too long running fast..."*)
-- **Title Shorts:**
+## 7. SHORTS (DƯỚI 30 GIÂY — BỘ ĐÔI 2 SHORTS)
+
+### Short 1: `Short 1 - The Cardboard Knight (9:16)` (`19.4s` — Chorus 1: `00:47 - 01:07`)
+- **Title Shorts 1:**
 ```text
-I spent too long running fast... now I take my time with you 🛡️ #shorts #adreamtown
+I spent too long running fast... now I take my time with you 🛡️👑 #shorts #adreamtown
+```
+- **Description Shorts 1:**
+```text
+From our 2-part stop-motion folk film "The Cardboard Knight & Leave the Porch Light On" 🌾
+Tap the Related Video link above the title to watch the full 8-minute story.
+
+🎵 Lyrics:
+You take your time, I'll take mine too
+Every step I walk with you
+I spent too long running fast
+Missing things that couldn't last
+Now the sun is warm and low
+You take your time, I'll take it slow
+
+Original Music & Stop-Motion Visuals by Coslient
+#shorts #adreamtown #coslient #stopmotion #americanafolk #grandpaandgrandson #thecardboardknight #folkmusic
+```
+- **Tags Shorts 1 (Thêm ngoài Default):**
+```text
+the cardboard knight, grandpa and grandson song, you take your time i'll take mine too, americana folk shorts, stop motion animation shorts, slowing down in life, acoustic storytelling song
+```
+- **Pinned Comment Shorts 1:**
+```text
+Did you ever build a cardboard sword or castle when you were little? Tap the related video above to watch the full 2-part film 🛡️🌾
+```
+
+---
+
+### Short 2: `Short 2 - Leave the Porch Light On (9:16)` (`21.0s` — Chorus 1: `00:50 - 01:11`)
+- **Title Shorts 2:**
+```text
+We walked a winding road... leave the porch light on, we're home 🕯️🏡 #shorts #adreamtown
+```
+- **Description Shorts 2:**
+```text
+Part 2 of our stop-motion folk film "The Cardboard Knight & Leave the Porch Light On" 🕯️
+Tap the Related Video link above the title to watch the full 8-minute story.
+
+🎵 Lyrics:
+Leave the porch light on tonight
+Let it shine across the yard
+We have walked a winding road
+Some of it was long and hard
+Now we step into the glow
+Leave the porch light on, we're home
+
+Original Music & Stop-Motion Visuals by Coslient
+#shorts #adreamtown #coslient #stopmotion #americanafolk #leavetheporchlighton #porchfolk #folkmusic
+```
+- **Tags Shorts 2 (Thêm ngoài Default):**
+```text
+leave the porch light on, porch light folk song, coming home song, grandpa and grandson, warm acoustic folk shorts, stop motion folk video, peaceful evening music
+```
+- **Pinned Comment Shorts 2:**
+```text
+Who always left the porch light on waiting for you to come home? Tap the related video above to listen to the full song 🕯️🏡
 ```
 
 ---

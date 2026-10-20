@@ -1,0 +1,156 @@
+{
+  "source_file": "ref/doi-thu/three-quarter-town/what-the-rain-found-them-doing-three-quarter-town/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/three-quarter-town/what-the-rain-found-them-doing-three-quarter-town/raw/audio_listen.mp3",
+  "duration_sec": 330.1,
+  "duration_formatted": "5:30",
+  "tempo": {
+    "bpm": 136.0,
+    "bpm_rounded": 136,
+    "half_time_bpm": 68.0,
+    "double_time_bpm": 272.0,
+    "beat_stability": 0.94
+  },
+  "harmony": {
+    "primary_key": "A# Major",
+    "confidence": 0.958,
+    "secondary_key": "G Minor",
+    "secondary_confidence": 0.766,
+    "dominant_notes": [
+      "A#",
+      "F",
+      "C",
+      "D",
+      "G"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 90.0,
+    "percussive_energy_pct": 10.0,
+    "harmonic_to_percussive_ratio": 9.0,
+    "spectral_centroid_mean_hz": 2124,
+    "spectral_rolloff_85_hz": 4809
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -13.3,
+    "loudness_range_lu": 6.8,
+    "true_peak_dbtp": -0.2,
+    "mean_rms_db": -19.1,
+    "peak_db": -0.9,
+    "crest_factor_db": 18.1,
+    "stereo_width_pct": 30.2,
+    "stereo_correlation": 0.685,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 12.0,
+      "bass_60_250Hz_pct": 46.4,
+      "low_mid_250_500Hz_pct": 28.0,
+      "mid_500_2000Hz_pct": 9.7,
+      "high_mid_2k_6kHz_pct": 2.3,
+      "high_6k_plus_pct": 1.7
+    }
+  },
+  "video_folder": "ref/doi-thu/three-quarter-town/what-the-rain-found-them-doing-three-quarter-town",
+  "raw_folder": "ref/doi-thu/three-quarter-town/what-the-rain-found-them-doing-three-quarter-town/raw",
+  "youtube_meta": {
+    "video_id": "2NukObvswlY",
+    "url": "https://www.youtube.com/watch?v=2NukObvswlY",
+    "title": "What the Rain Found Them Doing | Three-Quarter Town",
+    "channel": "Three-Quarter Town",
+    "channel_follower_count": 29000,
+    "view_count": 213054,
+    "like_count": 2572,
+    "comment_count": 15,
+    "upload_date": "20260526",
+    "description": "In Three-Quarter Town, rain never arrives in a hurry.\nIt finds an old woman by the window, a black cat curled on a blanket, sheep waiting patiently beneath the eaves, and quiet hands still busy with tea, music, letters, and small familiar work.\n\nSome stay inside by the fire. Some step out to check the barn. Some simply watch the rain move across the rooftops until evening comes.\n\nA gentle rainy-day story about solitude, companionship, and the little things people keep doing when the world turns soft and gray.\n\n— Three-Quarter Town\n\n#ThreeQuarterTown #RainyDay #BlackCat #CozyAnimation #StopMotionStyle",
+    "tags": [
+      "three-quarter town",
+      "three quarter town",
+      "rainy day story",
+      "rain ambience",
+      "cozy rainy day",
+      "black cat story",
+      "sheep story",
+      "quiet village",
+      "rainy village",
+      "cozy village",
+      "rainy window",
+      "dreamy animation",
+      "stop motion style",
+      "claymation style",
+      "cozy fantasy",
+      "gentle story",
+      "peaceful ambience",
+      "slow living",
+      "nostalgic animation",
+      "emotional ai film",
+      "ai short film",
+      "cinematic ai video",
+      "bedtime story",
+      "rainy night",
+      "black cat"
+    ],
+    "top_comments": [
+      {
+        "author": "@angelapietras1235",
+        "likes": 32,
+        "text": "Just love these and the singing is amazing,someone commented that even the singing is AI ,well if it is I would sooner listen to this than real people.Well done."
+      },
+      {
+        "author": "@TheCritterKingdom1995",
+        "likes": 21,
+        "text": "✨ Wow… the atmosphere, the visuals, and the soft music are simply magical 🌌🎶💫"
+      },
+      {
+        "author": "@steveneast8572",
+        "likes": 21,
+        "text": "Beautiful in it's simplicity ❤"
+      },
+      {
+        "author": "@lindamarie6574",
+        "likes": 19,
+        "text": "Makes me think happy things, comfort on a rainy day and relaxing with my cat😊😻"
+      },
+      {
+        "author": "@curtiswhite656",
+        "likes": 14,
+        "text": "It may be just as well that the singing is done by AI. Personally, I would never be able to get through the music without breaking down, unable to continue. This is truly beautiful."
+      },
+      {
+        "author": "@DanutaSadowska-l6t",
+        "likes": 10,
+        "text": "Sluchajac tej muzyki wracaja najpiękniejsze wspomnienia ❤❤❤❤"
+      },
+      {
+        "author": "@michel2292",
+        "likes": 5,
+        "text": "Beautiful ❤"
+      },
+      {
+        "author": "@CharlesAIArt",
+        "likes": 4,
+        "text": "I love how this town can turn something as ordinary as rain into a story. Every scene felt quiet, mysterious, and surprisingly emotional."
+      },
+      {
+        "author": "@AndreaM77",
+        "likes": 4,
+        "text": "These are incredibly soothing, heart warming and soulful. Bless you for these. \nExquisite ❤❤"
+      },
+      {
+        "author": "@MariettaHeinrich-b9z",
+        "likes": 3,
+        "text": "🙏🏼🙏🏼🙏🏼🫶🏻🫶🏻🫶🏻❤️❤️❤️Mein Herz gehörte schon immer den Tieren und dem Einsatz für deren Schutz und Wohlergehen...Mein Sohn ist genauso geprägt 🫶🏻❤️... geprägt mit Liebe für Tiere und Natur🙏🏼🙏🏼🙏🏼 Es bedeutet zwar auch, dass man sehr viel Leid sieht, mitempfindet, aber die Freude, diese wunderschönen Geschöpfe aller Art wahrzunehmen, in der Not ihnen zur 2. Chance verhelfen und deren Liebe empfangen zu dürfen ist unbezahlbar ❤.    Dieser Kommentar gehört eigentlich zu dem wunderschönen Video über gerettete und gepeppelte Tiere😅 aber hier ist man immer richtig...voller Liebe❤"
+      },
+      {
+        "author": "@michazube4254",
+        "likes": 2,
+        "text": "In ihren Augen lebt die Zeit,voll Weisheit, Liebe, Zärtlichkeit.Die Hände rau, vom Leben schwer,doch schenken sie uns noch so viel mehr.Ein sanfter Blick, ein offenes Ohr,sie holen uns das Gestern vor.Wir halten sie mit starker Hand,geknüpft im tiefen Herzensband.  ❤"
+      },
+      {
+        "author": "@greyflanel",
+        "likes": 2,
+        "text": "J'adore cette ville et sa population. Les gens en sont plein d'amour ,de tendresse avec une grande amitié qui fait rêver.Les animaux donnent leur complicité en tout temps ,sans hésitation.L'harmonie de la musique avec le clip donne l'envie d'y déménager pour y rester."
+      }
+    ]
+  }
+}

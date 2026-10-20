@@ -1,0 +1,148 @@
+{
+  "source_file": "ref/doi-thu/surreal-ai/i-leave-my-worries-at-the-hive-a-gentle-surreal-ai-music-film-4k/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/surreal-ai/i-leave-my-worries-at-the-hive-a-gentle-surreal-ai-music-film-4k/raw/audio_listen.mp3",
+  "duration_sec": 480.2,
+  "duration_formatted": "8:00",
+  "tempo": {
+    "bpm": 152.0,
+    "bpm_rounded": 152,
+    "half_time_bpm": 76.0,
+    "double_time_bpm": 304.0,
+    "beat_stability": 0.95
+  },
+  "harmony": {
+    "primary_key": "A# Minor",
+    "confidence": 1.012,
+    "secondary_key": "D# Minor",
+    "secondary_confidence": 0.634,
+    "dominant_notes": [
+      "A#",
+      "C#",
+      "F",
+      "F#",
+      "D#"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 88.3,
+    "percussive_energy_pct": 11.7,
+    "harmonic_to_percussive_ratio": 7.53,
+    "spectral_centroid_mean_hz": 1856,
+    "spectral_rolloff_85_hz": 3976
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -14.7,
+    "loudness_range_lu": 6.8,
+    "true_peak_dbtp": -3.0,
+    "mean_rms_db": -20.8,
+    "peak_db": -3.5,
+    "crest_factor_db": 17.3,
+    "stereo_width_pct": 22.0,
+    "stereo_correlation": 0.852,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 16.3,
+      "bass_60_250Hz_pct": 30.1,
+      "low_mid_250_500Hz_pct": 30.0,
+      "mid_500_2000Hz_pct": 20.1,
+      "high_mid_2k_6kHz_pct": 3.1,
+      "high_6k_plus_pct": 0.3
+    }
+  },
+  "video_folder": "ref/doi-thu/surreal-ai/i-leave-my-worries-at-the-hive-a-gentle-surreal-ai-music-film-4k",
+  "raw_folder": "ref/doi-thu/surreal-ai/i-leave-my-worries-at-the-hive-a-gentle-surreal-ai-music-film-4k/raw",
+  "youtube_meta": {
+    "video_id": "-l1G0Fkfksw",
+    "url": "https://www.youtube.com/watch?v=-l1G0Fkfksw",
+    "title": "I Leave My Worries at the Hive - A Gentle Surreal AI Music Film (4K)",
+    "channel": "Surreal AI",
+    "channel_follower_count": 77200,
+    "view_count": 471193,
+    "like_count": 12104,
+    "comment_count": 15,
+    "upload_date": "20251227",
+    "description": "I made this film as a soft whisper from the Hive — from nature, from the bees — for anyone who’s lived long enough to carry a few quiet burdens and still deserves a place to set them down. In this surreal Bee-Human world, the Hive isn’t just a hive… it’s a gentle sanctuary where time slows, dignity stays intact, and worry can finally rest. If the world has been moving too fast, I hope this feels like a warm chair by the window — a calm moment that honors what you’ve been through.\n\nI Leave My Worries at the Hive is a gentle surreal AI music film created from 305 original images that I designed and shaped into one cohesive cinematic world, then brought to life in fluid motion to match the music. The songs are original and written by me, made to feel warm, timeless, and easy to return to — like a quiet place you can visit again.\n\n🎵 Tracks on Bandcamp (Surreal AI)\n00:00 — WHERE THE HONEY LEARNS TO BREATHE\n04:08 — I LEAVE MY WORRIES AT THE HIVE\n\n🎬 How it was made (original work, AI-assisted)\nThis film is an original creation directed and edited by me, using AI as a creative instrument:\n\nMidjourney: crafted the original Bee-Human world visuals and concepts (305 images)\n\nVeo 3: transformed still images into gentle cinematic motion (4K)\n\nSuno: produced the original music from my lyrics and creative direction\nAI was the tool — but the storytelling, pacing, visual choices, music writing, and final authorship are human-made.\n\nIf this video brought you peace, a deep breath, or even a sma",
+    "tags": [
+      "surreal ai video",
+      "ai surreal video",
+      "surreal ai",
+      "ai art video",
+      "ai surreal art",
+      "ai short film",
+      "ai storytelling",
+      "ai animation",
+      "ai animated surreal scenes",
+      "ai dreamlike visuals",
+      "veo surreal experiments",
+      "suno x surreal ai",
+      "ai surreal music video",
+      "generative ai",
+      "ai keyframe video",
+      "surreal ai short films",
+      "dream logic"
+    ],
+    "top_comments": [
+      {
+        "author": "@francescocosta-r4h",
+        "likes": 450,
+        "text": "As a beekeeper who has lost millions of bees recently I can't begin to tell you how much this touched me. Save the honey bee, without them we're all doomed."
+      },
+      {
+        "author": "@sumoonsand2680",
+        "likes": 182,
+        "text": "Thank you so very much for this beautiful piece of calm. I am 71 and was beginning to think I had lost my creativity and joy due to the horrors being committed in this country every day. And then there this was and I was mesmerized. I imagine I'll view it many many times. May God bless you in all ways."
+      },
+      {
+        "author": "@sandrabeck8788",
+        "likes": 171,
+        "text": "Breathtakingly beautiful. Thank you for finding visual value in older people.  Stunning."
+      },
+      {
+        "author": "@EVELYNCARTER-p5y",
+        "likes": 110,
+        "text": "I am a 91 year old who loves everything about the dance videos on You Tube.  It's nice to see that even older humans are in such beautiful settings."
+      },
+      {
+        "author": "@Hanburycross",
+        "likes": 110,
+        "text": "I am 77 years old and i have a youtube channel been producing, directing and editing my own shows for years with over 4000 half hour shows.  i even run the camera.  I've won 15 silver Telly Awards.  however never never have I seen anything like these AI videos and the amazing creativity of those using it.  Amazing, unbelievably spiritual and healing. Welcome to the future world.  And here I leave my worries at the foot of your heart.  Thank you so Much. lototo"
+      },
+      {
+        "author": "@karinandersson7949",
+        "likes": 86,
+        "text": "Absolutely beautiful. And so true. Without the bees we would not only starve, we would be lost in space and time. They have senses we don't have. And if we respect them they will share that with us. \n\nSpacetime is more complex and convoluted than we humans, with our limited understanding of science, think. There are other ways of navigating through the multiverse. \n\nAlso, in a very real sense, honey is liquid light. The bees make it from nectar that the flowers make from photosynthesis. From the sun. And if they are treated fairly, the bees are willing to share that with us. There is something fundamental in that. Something we should appreciate for what it is."
+      },
+      {
+        "author": "@IrisDemarco77",
+        "likes": 59,
+        "text": "Nature gives us gifts every day that we take for granted. No wonder I get my greatest peace when I connect with nature. 🙏"
+      },
+      {
+        "author": "@AzanMann-m6w",
+        "likes": 57,
+        "text": "@SurrealAIart - Beautifully done. A truely breathtaking marriage of music lyrics and art. 100% relaxing and thoroughly enjoyable."
+      },
+      {
+        "author": "@lydiarowe491",
+        "likes": 53,
+        "text": "If we were more aligned with nature wouldn't our life be more fulfilled..   🐝 🐝 🐝"
+      },
+      {
+        "author": "@nrgltwrkr2225",
+        "likes": 37,
+        "text": "Thank you so much. I really needed to \"leave my worries at the hive\" right now."
+      },
+      {
+        "author": "@nad3020",
+        "likes": 36,
+        "text": "Wonderful! The music is very relaxing and the visuals are uniquely beautiful."
+      },
+      {
+        "author": "@a3muller52",
+        "likes": 34,
+        "text": "Very very beautiful!! And loving. And peaceful. I also lóve the beautiful older people that are in the video. I am 74. It made me a bit emotional."
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "source_file": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-4-gengu-ai-art-4k/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-4-gengu-ai-art-4k/raw/audio_listen.mp3",
+  "duration_sec": 3830.0,
+  "duration_formatted": "63:50",
+  "tempo": {
+    "bpm": 136.0,
+    "bpm_rounded": 136,
+    "half_time_bpm": 68.0,
+    "double_time_bpm": 272.0,
+    "beat_stability": 0.93
+  },
+  "harmony": {
+    "primary_key": "A# Major",
+    "confidence": 0.851,
+    "secondary_key": "D Minor",
+    "secondary_confidence": 0.816,
+    "dominant_notes": [
+      "A#",
+      "D",
+      "C",
+      "F",
+      "A"
+    ]
+  },
+  "sub_tracks": [
+    {
+      "track_index": 1,
+      "time_range": "0:00 - 3:40",
+      "start_sec": 0.2,
+      "end_sec": 219.8,
+      "duration_formatted": "3:40",
+      "duration_sec": 219.6,
+      "bpm": 152.0,
+      "half_time_bpm": 76.0,
+      "primary_key": "F Major",
+      "secondary_key": "C Major"
+    },
+    {
+      "track_index": 2,
+      "time_range": "3:42 - 21:05",
+      "start_sec": 222.0,
+      "end_sec": 1265.1,
+      "duration_formatted": "17:23",
+      "duration_sec": 1043.0,
+      "bpm": 129.2,
+      "half_time_bpm": 64.6,
+      "primary_key": "A# Major",
+      "secondary_key": "D Minor"
+    },
+    {
+      "track_index": 3,
+      "time_range": "21:07 - 30:51",
+      "start_sec": 1266.9,
+      "end_sec": 1851.1,
+      "duration_formatted": "9:44",
+      "duration_sec": 584.2,
+      "bpm": 136.0,
+      "half_time_bpm": 68.0,
+      "primary_key": "A# Major",
+      "secondary_key": "F Major"
+    },
+    {
+      "track_index": 4,
+      "time_range": "30:54 - 46:48",
+      "start_sec": 1853.7,
+      "end_sec": 2807.7,
+      "duration_formatted": "15:54",
+      "duration_sec": 953.9,
+      "bpm": 161.5,
+      "half_time_bpm": 80.7,
+      "primary_key": "D Minor",
+      "secondary_key": "G Minor"
+    },
+    {
+      "track_index": 5,
+      "time_range": "46:50 - 51:04",
+      "start_sec": 2809.9,
+      "end_sec": 3064.2,
+      "duration_formatted": "4:14",
+      "duration_sec": 254.4,
+      "bpm": 143.6,
+      "half_time_bpm": 71.8,
+      "primary_key": "A# Major",
+      "secondary_key": "F Major"
+    },
+    {
+      "track_index": 6,
+      "time_range": "51:07 - 55:47",
+      "start_sec": 3066.8,
+      "end_sec": 3347.1,
+      "duration_formatted": "4:40",
+      "duration_sec": 280.3,
+      "bpm": 143.6,
+      "half_time_bpm": 71.8,
+      "primary_key": "A# Major",
+      "secondary_key": "G Minor"
+    },
+    {
+      "track_index": 7,
+      "time_range": "55:50 - 59:49",
+      "start_sec": 3349.8,
+      "end_sec": 3589.3,
+      "duration_formatted": "4:00",
+      "duration_sec": 239.6,
+      "bpm": 129.2,
+      "half_time_bpm": 64.6,
+      "primary_key": "A# Major",
+      "secondary_key": "F Major"
+    },
+    {
+      "track_index": 8,
+      "time_range": "59:52 - 63:49",
+      "start_sec": 3592.5,
+      "end_sec": 3829.2,
+      "duration_formatted": "3:57",
+      "duration_sec": 236.7,
+      "bpm": 129.2,
+      "half_time_bpm": 64.6,
+      "primary_key": "A Major",
+      "secondary_key": "E Major"
+    }
+  ],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 87.0,
+    "percussive_energy_pct": 13.0,
+    "harmonic_to_percussive_ratio": 6.67,
+    "spectral_centroid_mean_hz": 1898,
+    "spectral_rolloff_85_hz": 4227
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -14.4,
+    "loudness_range_lu": 7.8,
+    "true_peak_dbtp": -0.3,
+    "mean_rms_db": -20.3,
+    "peak_db": -0.6,
+    "crest_factor_db": 19.8,
+    "stereo_width_pct": 28.5,
+    "stereo_correlation": 0.725,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 14.0,
+      "bass_60_250Hz_pct": 47.7,
+      "low_mid_250_500Hz_pct": 19.8,
+      "mid_500_2000Hz_pct": 15.0,
+      "high_mid_2k_6kHz_pct": 2.4,
+      "high_6k_plus_pct": 1.1
+    }
+  },
+  "video_folder": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-4-gengu-ai-art-4k",
+  "raw_folder": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-4-gengu-ai-art-4k/raw",
+  "youtube_meta": {
+    "video_id": "XPGiUElMzXA",
+    "url": "https://www.youtube.com/watch?v=XPGiUElMzXA",
+    "title": "A Very Old Town Album No 4  | Gengu AI Art (4K)",
+    "channel": "Gengu AI",
+    "channel_follower_count": 18600,
+    "view_count": 203762,
+    "like_count": 4739,
+    "comment_count": 15,
+    "upload_date": "20260717",
+    "description": "🎧 Welcome to Gengu AI – your ultimate destination for AI-generated music and next-generation sound experiences. 🚀 This channel is dedicated to creating unique, high-quality tracks powered by artificial intelligence 🤖, blending creativity and technology to deliver music that feels fresh, emotional, and immersive.\n\n\nAI was the tool. The story came from human feeling.\n\nIf this film gave you a quiet breath, a memory, or a moment of peace, thank you for being here.\n\n© Gengu AI, 2026. All rights reserved.\nThis Video is an original creation and may not be copied, redistributed, or reused without permission.\n#averyunusualtown #surrealaifilm #animation #suno #stopmotion #cinematic #4k",
+    "tags": [
+      "AI music",
+      "AI generated music",
+      "lofi hip hop",
+      "chill beats",
+      "relaxing music",
+      "study music",
+      "focus music",
+      "sleep music",
+      "ambient music",
+      "cinematic music",
+      "background music",
+      "instrumental music",
+      "electronic music",
+      "chill vibes",
+      "lo fi beats",
+      "music for sleep",
+      "no copyright music",
+      "royalty free music",
+      "futuristic music",
+      "calm music",
+      "meditation music",
+      "stress relief music",
+      "creative commons music",
+      "youtube background music",
+      "gengu ai"
+    ],
+    "top_comments": [
+      {
+        "author": "@HalfwayAIArtTown",
+        "likes": 42,
+        "text": "This felt like opening a photo album filled with memories from a place that exists only in dreams. Every street, building, and quiet corner carried its own sense of history and nostalgia. The music tied it all together beautifully. A wonderfully peaceful journey. ❤🏘✨"
+      },
+      {
+        "author": "@Englishroserebecca",
+        "likes": 28,
+        "text": "These videos cheer my heart and help me to remember whats important in life.  The songs are beautiful and meaningful. It makes me slow down.  ❤️🌹"
+      },
+      {
+        "author": "@MartinAIArt",
+        "likes": 14,
+        "text": "This felt like flipping through a beautiful collection of memories. Every scene had its own quiet story, and together they created such a peaceful experience."
+      },
+      {
+        "author": "@laraoneal7284",
+        "likes": 10,
+        "text": "These little towns make me so wanting & wishing I lived there."
+      },
+      {
+        "author": "@MarinaUralskaya",
+        "likes": 6,
+        "text": "Смотришь  и хочеться оказаться в этой сказке где нет зла а есть любовь . Спасибо автору . Браво ."
+      },
+      {
+        "author": "@張-j4w",
+        "likes": 6,
+        "text": "史记以来都是因为有良好的导演和附含盖着情感动人的方式剧情故事传达一种更深入追查真相探讨研究😅人类与动物发声管道取得更多的欣赏和分享畅销作家写作让导演李安导演的时间拍摄电影精彩内容～❤❤❤❤❤❤🎉"
+      },
+      {
+        "author": "@irenapalkowska5818",
+        "likes": 5,
+        "text": "Jak miło jest pobyć w takim magicznym świecie ❤"
+      },
+      {
+        "author": "@marjoriegarner5369",
+        "likes": 3,
+        "text": "Thank you for your beautiful, calm creative stories."
+      },
+      {
+        "author": "@はなはな-u2o1e",
+        "likes": 1,
+        "text": "この夏、イギリスの知人を訪ねました\nひとり暮らしの高齢のイギリス紳士で、\n穏やかに丁寧に毎日を生きる姿がこの映像と共に蘇って来ます　\n涙があふれます　\n歳を重ねるのもわるくないな\nと幸せな気持ちになりました\nありがとう"
+      },
+      {
+        "author": "@tclamb",
+        "likes": 1,
+        "text": "I play these videos around the clock on my TV no matter what I'm doing. Their messages, sung so beautifully with meaningful lyrics and adorable characters, both animal and human, give me a sense of calm and serenity. The surroundings and scenery are awesome. Thank you for creating them. 💖"
+      },
+      {
+        "author": "@IzildaLoTurco",
+        "likes": 1,
+        "text": "Amo tudo isso, parece que estou viajando."
+      },
+      {
+        "author": "@danutasherwood-dp9qg",
+        "likes": 1,
+        "text": "I can lose my self here it’s really wonderful❤"
+      }
+    ]
+  }
+}

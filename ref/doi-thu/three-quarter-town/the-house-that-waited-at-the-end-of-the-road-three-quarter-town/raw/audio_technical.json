@@ -1,0 +1,156 @@
+{
+  "source_file": "ref/doi-thu/three-quarter-town/the-house-that-waited-at-the-end-of-the-road-three-quarter-town/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/three-quarter-town/the-house-that-waited-at-the-end-of-the-road-three-quarter-town/raw/audio_listen.mp3",
+  "duration_sec": 282.9,
+  "duration_formatted": "4:43",
+  "tempo": {
+    "bpm": 117.5,
+    "bpm_rounded": 117,
+    "half_time_bpm": 58.7,
+    "double_time_bpm": 234.9,
+    "beat_stability": 0.96
+  },
+  "harmony": {
+    "primary_key": "D Minor",
+    "confidence": 0.885,
+    "secondary_key": "D Major",
+    "secondary_confidence": 0.759,
+    "dominant_notes": [
+      "D",
+      "A",
+      "E",
+      "G",
+      "F"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 76.7,
+    "percussive_energy_pct": 23.3,
+    "harmonic_to_percussive_ratio": 3.3,
+    "spectral_centroid_mean_hz": 2263,
+    "spectral_rolloff_85_hz": 5280
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -13.8,
+    "loudness_range_lu": 6.3,
+    "true_peak_dbtp": -1.0,
+    "mean_rms_db": -19.5,
+    "peak_db": -2.4,
+    "crest_factor_db": 17.0,
+    "stereo_width_pct": 25.0,
+    "stereo_correlation": 0.8,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 15.9,
+      "bass_60_250Hz_pct": 48.7,
+      "low_mid_250_500Hz_pct": 20.3,
+      "mid_500_2000Hz_pct": 10.9,
+      "high_mid_2k_6kHz_pct": 2.7,
+      "high_6k_plus_pct": 1.5
+    }
+  },
+  "video_folder": "ref/doi-thu/three-quarter-town/the-house-that-waited-at-the-end-of-the-road-three-quarter-town",
+  "raw_folder": "ref/doi-thu/three-quarter-town/the-house-that-waited-at-the-end-of-the-road-three-quarter-town/raw",
+  "youtube_meta": {
+    "video_id": "rFWiFmqmQXc",
+    "url": "https://www.youtube.com/watch?v=rFWiFmqmQXc",
+    "title": "The House That Waited at the End of the Road | Three-Quarter Town",
+    "channel": "Three-Quarter Town",
+    "channel_follower_count": 29000,
+    "view_count": 707696,
+    "like_count": 9917,
+    "comment_count": 15,
+    "upload_date": "20260523",
+    "description": "In Three-Quarter Town, some houses do not forget.\nAn old road leads back to a quiet country home, where the door still opens, the chairs still wait, the garden still grows, and the apples still fall beneath the same tree. Every room seems to remember a life that has already passed through it.\n\nA soft, nostalgic story about returning home, opening old doors, and finding that some places hold our memories better than we do.\n\nCome in for a few minutes. The house has been waiting.\n\n— Three-Quarter Town\n\n🎧 Official song from this story:\nSpotify: https://open.spotify.com/track/3cLre1i6l9BaG06oTrXFwB?si=a511d3a9805f4fea\n\n\n#ThreeQuarterTown #DreamyAnimation #OldHouse #NostalgicStory #StopMotionStyle",
+    "tags": [
+      "three-quarter town",
+      "three quarter town",
+      "old house story",
+      "returning home",
+      "childhood home",
+      "nostalgic animation",
+      "emotional short film",
+      "dreamy animation",
+      "claymation style",
+      "cozy fantasy",
+      "country house",
+      "abandoned house",
+      "memory story",
+      "childhood memories",
+      "old key",
+      "porch light",
+      "apple tree",
+      "swing tree",
+      "country road",
+      "sentimental story",
+      "gentle story",
+      "quiet village",
+      "cinematic ai video",
+      "ai short film",
+      "surreal ai film"
+    ],
+    "top_comments": [
+      {
+        "author": "@richardlafrance57",
+        "likes": 108,
+        "text": "I can only write that this is pure art. Probably the most incredible video I've seen on Ytube. Great production, great song, great performance for the singers, great recording...the animation and the sound track are wonderful. You are very talented, Thank you for sharing your work with us. Keep on!!! 😊"
+      },
+      {
+        "author": "@OrisTinyPlanet",
+        "likes": 93,
+        "text": "The amount of detail in every scene is breathtaking 😍"
+      },
+      {
+        "author": "@billdouglas2936",
+        "likes": 61,
+        "text": "As a young man, I took soooo much for granted, I was so sure that death was centuries away. Now, I’m 83 and not quite so cocky.😒"
+      },
+      {
+        "author": "@donaldgrooms7127",
+        "likes": 52,
+        "text": "Memories sure do go a very long way."
+      },
+      {
+        "author": "@pattallant2398",
+        "likes": 51,
+        "text": "These videos are deep. Love them."
+      },
+      {
+        "author": "@AndreaHall-k8v",
+        "likes": 40,
+        "text": "Sweet memories go a long long way, don't they.. Lovely."
+      },
+      {
+        "author": "@gloriamadaffari5404",
+        "likes": 36,
+        "text": "I am a mess of tears. As an old woman I relate to this video."
+      },
+      {
+        "author": "@sattooh",
+        "likes": 32,
+        "text": "Thank you for these amazing videos. \nI now have a place to come for calm.\nThank you for sharing them 🙏🫶🐾🐾🦋"
+      },
+      {
+        "author": "@engelefeu7544",
+        "likes": 26,
+        "text": "Ich bin so dankbar für die lyriks und die Bilder. Sie machen das Altern leichter. Ganz herzlichen Dank ❤Gaby"
+      },
+      {
+        "author": "@gittan_k-sson3074",
+        "likes": 23,
+        "text": "Lots of memories is popping up here,  when I'm listening on this wonderful tune. 🥰🥰"
+      },
+      {
+        "author": "@diegobraun9215",
+        "likes": 16,
+        "text": "Touch my heart! Thank for sharing! 🙂👍🍀🙏"
+      },
+      {
+        "author": "@uri-c6z",
+        "likes": 12,
+        "text": "What a beautiful song!!! And a painfully beautiful video!!!"
+      }
+    ]
+  }
+}

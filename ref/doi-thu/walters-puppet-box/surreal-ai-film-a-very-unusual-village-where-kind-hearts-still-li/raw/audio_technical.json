@@ -1,0 +1,130 @@
+{
+  "source_file": "ref/doi-thu/walters-puppet-box/surreal-ai-film-a-very-unusual-village-where-kind-hearts-still-li/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/walters-puppet-box/surreal-ai-film-a-very-unusual-village-where-kind-hearts-still-li/raw/audio_listen.mp3",
+  "duration_sec": 248.4,
+  "duration_formatted": "4:08",
+  "tempo": {
+    "bpm": 123.0,
+    "bpm_rounded": 123,
+    "half_time_bpm": 61.5,
+    "double_time_bpm": 246.1,
+    "beat_stability": 0.95
+  },
+  "harmony": {
+    "primary_key": "D Minor",
+    "confidence": 0.907,
+    "secondary_key": "A Minor",
+    "secondary_confidence": 0.724,
+    "dominant_notes": [
+      "D",
+      "A",
+      "G",
+      "C",
+      "E"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 83.6,
+    "percussive_energy_pct": 16.4,
+    "harmonic_to_percussive_ratio": 5.1,
+    "spectral_centroid_mean_hz": 2355,
+    "spectral_rolloff_85_hz": 5245
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -15.3,
+    "loudness_range_lu": 5.1,
+    "true_peak_dbtp": -3.9,
+    "mean_rms_db": -20.4,
+    "peak_db": -4.6,
+    "crest_factor_db": 15.8,
+    "stereo_width_pct": 14.1,
+    "stereo_correlation": 0.947,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 4.1,
+      "bass_60_250Hz_pct": 51.5,
+      "low_mid_250_500Hz_pct": 23.8,
+      "mid_500_2000Hz_pct": 15.0,
+      "high_mid_2k_6kHz_pct": 3.6,
+      "high_6k_plus_pct": 2.0
+    }
+  },
+  "video_folder": "ref/doi-thu/walters-puppet-box/surreal-ai-film-a-very-unusual-village-where-kind-hearts-still-li",
+  "raw_folder": "ref/doi-thu/walters-puppet-box/surreal-ai-film-a-very-unusual-village-where-kind-hearts-still-li/raw",
+  "youtube_meta": {
+    "video_id": "twbJXlxTD94",
+    "url": "https://www.youtube.com/watch?v=twbJXlxTD94",
+    "title": "Surreal AI Film • A Very Unusual Village | Where Kind Hearts Still Live and Goodness Remains (4K)",
+    "channel": "Walter’s Puppet Box ",
+    "channel_follower_count": 33000,
+    "view_count": 281885,
+    "like_count": 3531,
+    "comment_count": 15,
+    "upload_date": "20260420",
+    "description": "A quiet story about warmth, care, and human connection.\n\nIn a small world where time moves slowly, every moment matters.\nThis film invites you into a gentle place filled with soft light, calm rhythms, and quiet beauty.\n\nThis is not just an animation.\nIt’s a feeling.\n\nIn this story, life is built around simple, honest work.\nPeople care for their cows with patience and love, waking up early, moving slowly, and living close to nature.\nMilk becomes cheese, work becomes tradition, and everyday routines turn into something meaningful.\n\nBut this is not only about work.\n\nIt is about people with kind hearts.\nAbout helping each other.\nAbout quiet smiles, warm hands, and a life where goodness still exists.\n\nHere, happiness is simple.\nAnd love lives in small things.\n\n🌙 About the Film  \nA surreal AI cinematic story inspired by handcrafted folk worlds, rural life, and slow living.  \nCreated to evoke warmth, kindness, and emotional stillness.  \n\n🎵 Music in this video  \nOriginal music created to follow the emotional rhythm of the story.  \n\n🎬 How This Film Was Made  \n• Midjourney – visual world creation  \n• Veo 3 – cinematic motion (4K)  \n• Suno – original music  \n• Story & emotion – human-led  \n\nAI was the tool.  \nThe feeling is human.\n\nIf this film reminded you that goodness still exists — you’re always welcome here.\n\n\n#SurrealAIFilm #AVeryUnusualTown #CinematicAI #AIArt #AIFilm #SimpleLife #VillageLife #SlowLiving #WarmMoments #KindPeople #GoodStillExists #FarmLife #Cows #CheeseMaking #Cou",
+    "tags": [],
+    "top_comments": [
+      {
+        "author": "@baukjevandenbosch7661",
+        "likes": 33,
+        "text": "A world full of care, love and kindness that’s what we need nowadays! Thank you for making such a good work❤"
+      },
+      {
+        "author": "@PLS.54",
+        "likes": 24,
+        "text": "Just the cutest, heartwarming, and uplifting video. ❤"
+      },
+      {
+        "author": "@GanarfGeorgie",
+        "likes": 23,
+        "text": "Thank you for creating these gentle, kind, and  wonderful beings and their beautiful world!"
+      },
+      {
+        "author": "@pierreverschueren8382",
+        "likes": 19,
+        "text": "So peaceful I wish I lived there."
+      },
+      {
+        "author": "@ronayeryon1696",
+        "likes": 17,
+        "text": "Real chocolate milk,  creamy farmers cheese and sausages from a \"real farm\" and owners! Sunday dinners with relatives 😢😢😢❤❤"
+      },
+      {
+        "author": "@SANDYMN2011",
+        "likes": 16,
+        "text": "These little sweet movies warm my heart so much. God bless you."
+      },
+      {
+        "author": "@zoolyzounds",
+        "likes": 12,
+        "text": "This is so incredibly moving... Such a warm and soulful video that I just couldn't look away. 😭 Watching these sincere moments truly brightens the soul. Thank you for sharing such genuine emotions—it’s exactly what the world needs right now. An incredible story! ❤✨"
+      },
+      {
+        "author": "@starshiptrooper4455",
+        "likes": 11,
+        "text": "If only I could live in that world, beautiful peace. Thank you! ❤"
+      },
+      {
+        "author": "@nawamalikakulasinghe4889",
+        "likes": 9,
+        "text": "\"Nothing rushing nothing hurting... only hearts that gently glow.\" ❤\n\"Simple days and softer evenings....turning gently into night.\"😍\nBeautiful! 💐👍"
+      },
+      {
+        "author": "@arezouhoseinali282",
+        "likes": 4,
+        "text": "Lucky you, being able to live such a peaceful life. Here in the Middle East, we have no peace, no prosperity, and no comfort"
+      },
+      {
+        "author": "@greyflanel",
+        "likes": 2,
+        "text": "Superbe vidéo plein de simplicité,tellement chaleureux,on aimerait y passer la journée ou y rester."
+      },
+      {
+        "author": "@MargritPiepes",
+        "likes": 1,
+        "text": "You know what People of this Earth, that seek solitude and Peace at Heart andxa easuef Life, kets make our Own village. I am all for it"
+      }
+    ]
+  }
+}

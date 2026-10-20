@@ -1,0 +1,130 @@
+{
+  "source_file": "ref/doi-thu/john-ai-art/the-little-things-that-make-life-beautiful/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/john-ai-art/the-little-things-that-make-life-beautiful/raw/audio_listen.mp3",
+  "duration_sec": 358.1,
+  "duration_formatted": "5:58",
+  "tempo": {
+    "bpm": 143.6,
+    "bpm_rounded": 144,
+    "half_time_bpm": 71.8,
+    "double_time_bpm": 287.1,
+    "beat_stability": 0.96
+  },
+  "harmony": {
+    "primary_key": "D# Major",
+    "confidence": 0.947,
+    "secondary_key": "C Minor",
+    "secondary_confidence": 0.72,
+    "dominant_notes": [
+      "D#",
+      "A#",
+      "G#",
+      "C",
+      "D"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 81.7,
+    "percussive_energy_pct": 18.3,
+    "harmonic_to_percussive_ratio": 4.47,
+    "spectral_centroid_mean_hz": 1256,
+    "spectral_rolloff_85_hz": 2323
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -16.1,
+    "loudness_range_lu": 8.1,
+    "true_peak_dbtp": -2.6,
+    "mean_rms_db": -21.6,
+    "peak_db": -4.2,
+    "crest_factor_db": 17.4,
+    "stereo_width_pct": 21.4,
+    "stereo_correlation": 0.864,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 20.7,
+      "bass_60_250Hz_pct": 56.9,
+      "low_mid_250_500Hz_pct": 15.5,
+      "mid_500_2000Hz_pct": 6.3,
+      "high_mid_2k_6kHz_pct": 0.3,
+      "high_6k_plus_pct": 0.3
+    }
+  },
+  "video_folder": "ref/doi-thu/john-ai-art/the-little-things-that-make-life-beautiful",
+  "raw_folder": "ref/doi-thu/john-ai-art/the-little-things-that-make-life-beautiful/raw",
+  "youtube_meta": {
+    "video_id": "nceqJmwCmf0",
+    "url": "https://www.youtube.com/watch?v=nceqJmwCmf0",
+    "title": "The Little Things That Make Life Beautiful",
+    "channel": "John AI Art",
+    "channel_follower_count": 8790,
+    "view_count": 333103,
+    "like_count": 6972,
+    "comment_count": 15,
+    "upload_date": "20260919",
+    "description": "#surrealai #a very unusual town #veo3 #sunoai #averyunusualtown",
+    "tags": [],
+    "top_comments": [
+      {
+        "author": "@kamillayuldasheva4080",
+        "likes": 68,
+        "text": "All you need is a loving heart by your side and the simple little things that bring you true happiness.👌☀️ P. S. - Let our hearts beat in love and true passion define every moment.👊❤️"
+      },
+      {
+        "author": "@TheSomniaAtlas",
+        "likes": 46,
+        "text": "This is the gentlest company I've had all day. Wishing calm and warmth to whoever made it, and to everyone out there who could use some right now. 🍂"
+      },
+      {
+        "author": "@rildobatista5342",
+        "likes": 38,
+        "text": "Essa música é um oásis de paz de espírito ❤simplicidade é tudo que precisamos"
+      },
+      {
+        "author": "@amina1838",
+        "likes": 27,
+        "text": "Very soothing 😊"
+      },
+      {
+        "author": "@mayraromero3745",
+        "likes": 26,
+        "text": "La poesía de la vida en una canción...¡Preciosa! Gracias Gracias Gracias 💜🙏"
+      },
+      {
+        "author": "@jeshie61882",
+        "likes": 22,
+        "text": "Beautiful ❤"
+      },
+      {
+        "author": "@user-vg5in8ue8c",
+        "likes": 20,
+        "text": "I felt like I was in a dream. Very soothing music and heartwarming video. ❤"
+      },
+      {
+        "author": "@rosemarysanders1105",
+        "likes": 19,
+        "text": "I love these! ❤ It makes me think about being retired. Spend more time in the garden, learn to play the guitar, some easy days with my old hubby! Good Lord willing....✝️🙏"
+      },
+      {
+        "author": "@guadaluperivadeneyra1715",
+        "likes": 9,
+        "text": "ASÍ ES: MUCHAS COSAS SENCILLAS NO PUEDEN HACER FELICES!\nGRACIAS A DIOS POR TANTO AMOR!"
+      },
+      {
+        "author": "@dorishieble6175",
+        "likes": 6,
+        "text": "Danke für diesen wunderbaren Momente um zu Entspannen und Runter zu kommen.❤"
+      },
+      {
+        "author": "@JackFelker",
+        "likes": 5,
+        "text": "This is what music should be. Too bad there isn’t more music like this. It’s true and honest."
+      },
+      {
+        "author": "@jutakis",
+        "likes": 5,
+        "text": "I absolutely love these little town videos. All of it is incredibly charming.❤"
+      }
+    ]
+  }
+}

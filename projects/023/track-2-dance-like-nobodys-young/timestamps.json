@@ -1,0 +1,744 @@
+{
+  "audio_file": "Dance Like Nobody's Young_Master.wav",
+  "language": "en",
+  "model": "base.en",
+  "lyrics_file": "3-lyrics.txt",
+  "duration_seconds": 287.57,
+  "duration_formatted": "04:47",
+  "gap_threshold": 2.0,
+  "max_shot_duration": 6.5,
+  "total_sections": 73,
+  "vocal_lines_count": 67,
+  "sequence": [
+    {
+      "index": 1,
+      "type": "INSTRUMENTAL",
+      "section": "Intro",
+      "start": 0.0,
+      "end": 14.54,
+      "duration": 14.54,
+      "time_range": "00:00 - 00:14",
+      "text": "[Intro / Instrumental Opening]"
+    },
+    {
+      "index": 2,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 14.54,
+      "end": 18.72,
+      "duration": 4.18,
+      "time_range": "00:14 - 00:18",
+      "text": "Sun is slipping in the willows"
+    },
+    {
+      "index": 3,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 18.72,
+      "end": 22.4,
+      "duration": 3.68,
+      "time_range": "00:18 - 00:22",
+      "text": "Water turning orange and grey"
+    },
+    {
+      "index": 4,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 22.4,
+      "end": 25.14,
+      "duration": 2.74,
+      "time_range": "00:22 - 00:25",
+      "text": "Paper lanterns down the railing"
+    },
+    {
+      "index": 5,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 25.14,
+      "end": 29.2,
+      "duration": 4.06,
+      "time_range": "00:25 - 00:29",
+      "text": "Lighting up the end of day"
+    },
+    {
+      "index": 6,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 29.2,
+      "end": 32.74,
+      "duration": 3.54,
+      "time_range": "00:29 - 00:32",
+      "text": "Miller sets his cider cup down"
+    },
+    {
+      "index": 7,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 32.74,
+      "end": 36.2,
+      "duration": 3.46,
+      "time_range": "00:32 - 00:36",
+      "text": "Draws the bow across the string"
+    },
+    {
+      "index": 8,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 36.2,
+      "end": 39.82,
+      "duration": 3.62,
+      "time_range": "00:36 - 00:39",
+      "text": "Folks are packing up the benches"
+    },
+    {
+      "index": 9,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 39.82,
+      "end": 43.66,
+      "duration": 3.84,
+      "time_range": "00:39 - 00:43",
+      "text": "Waiting for the tune to sing"
+    },
+    {
+      "index": 10,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 43.66,
+      "end": 46.68,
+      "duration": 3.02,
+      "time_range": "00:43 - 00:46",
+      "text": "Crates are loaded on the pickup"
+    },
+    {
+      "index": 11,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 46.68,
+      "end": 50.14,
+      "duration": 3.46,
+      "time_range": "00:46 - 00:50",
+      "text": "Shadows leaning on the sand"
+    },
+    {
+      "index": 12,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 50.14,
+      "end": 53.38,
+      "duration": 3.24,
+      "time_range": "00:50 - 00:53",
+      "text": "You walk right up through the clover"
+    },
+    {
+      "index": 13,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 53.38,
+      "end": 56.74,
+      "duration": 3.36,
+      "time_range": "00:53 - 00:56",
+      "text": "Red fall leaf inside your hand"
+    },
+    {
+      "index": 14,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 56.74,
+      "end": 59.06,
+      "duration": 2.32,
+      "time_range": "00:56 - 00:59",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 15,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 59.06,
+      "end": 62.88,
+      "duration": 3.82,
+      "time_range": "00:59 - 01:02",
+      "text": "Let the young folks go running down the road"
+    },
+    {
+      "index": 16,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 62.88,
+      "end": 65.96,
+      "duration": 3.08,
+      "time_range": "01:02 - 01:05",
+      "text": "Let them race until they tire"
+    },
+    {
+      "index": 17,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 65.96,
+      "end": 68.4,
+      "duration": 2.44,
+      "time_range": "01:05 - 01:08",
+      "text": "We’ll just take this wooden floor"
+    },
+    {
+      "index": 18,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 68.4,
+      "end": 72.8,
+      "duration": 4.4,
+      "time_range": "01:08 - 01:12",
+      "text": "And warm our hands beside the fire"
+    },
+    {
+      "index": 19,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 72.8,
+      "end": 76.62,
+      "duration": 3.82,
+      "time_range": "01:12 - 01:16",
+      "text": "Two old boots in the pine sawdust"
+    },
+    {
+      "index": 20,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 76.62,
+      "end": 79.94,
+      "duration": 3.32,
+      "time_range": "01:16 - 01:19",
+      "text": "Holding on and stepping light"
+    },
+    {
+      "index": 21,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 79.94,
+      "end": 83.08,
+      "duration": 3.14,
+      "time_range": "01:19 - 01:23",
+      "text": "We’re dancing like nobody’s"
+    },
+    {
+      "index": 22,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 83.08,
+      "end": 84.68,
+      "duration": 1.6,
+      "time_range": "01:23 - 01:24",
+      "text": "Young tonight"
+    },
+    {
+      "index": 23,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 84.68,
+      "end": 92.9,
+      "duration": 8.22,
+      "time_range": "01:24 - 01:32",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 24,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 92.9,
+      "end": 97.58,
+      "duration": 4.68,
+      "time_range": "01:32 - 01:37",
+      "text": "You don't ask me if I want to"
+    },
+    {
+      "index": 25,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 97.58,
+      "end": 99.88,
+      "duration": 2.3,
+      "time_range": "01:37 - 01:39",
+      "text": "No, you never ask at all"
+    },
+    {
+      "index": 26,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 99.88,
+      "end": 103.82,
+      "duration": 3.94,
+      "time_range": "01:39 - 01:43",
+      "text": "Just reach out and take my fingers"
+    },
+    {
+      "index": 27,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 103.82,
+      "end": 108.0,
+      "duration": 4.18,
+      "time_range": "01:43 - 01:48",
+      "text": "Pull me right off of the wall"
+    },
+    {
+      "index": 28,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 108.0,
+      "end": 111.56,
+      "duration": 3.56,
+      "time_range": "01:48 - 01:51",
+      "text": "You took off that tight old necktie"
+    },
+    {
+      "index": 29,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 111.56,
+      "end": 114.94,
+      "duration": 3.38,
+      "time_range": "01:51 - 01:54",
+      "text": "Hung it right across the post"
+    },
+    {
+      "index": 30,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 114.94,
+      "end": 118.58,
+      "duration": 3.64,
+      "time_range": "01:54 - 01:58",
+      "text": "You’re the one I picked for dancing"
+    },
+    {
+      "index": 31,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 118.58,
+      "end": 121.73,
+      "duration": 3.15,
+      "time_range": "01:58 - 02:01",
+      "text": "The one that I still love the most"
+    },
+    {
+      "index": 32,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 121.73,
+      "end": 124.89,
+      "duration": 3.16,
+      "time_range": "02:01 - 02:04",
+      "text": "You step right upon my shoe sole"
+    },
+    {
+      "index": 33,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 124.89,
+      "end": 128.04,
+      "duration": 3.15,
+      "time_range": "02:04 - 02:08",
+      "text": "Then you just look down and grin"
+    },
+    {
+      "index": 34,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 128.04,
+      "end": 131.9,
+      "duration": 3.86,
+      "time_range": "02:08 - 02:11",
+      "text": "Say you lost your count of three"
+    },
+    {
+      "index": 35,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 131.9,
+      "end": 136.08,
+      "duration": 4.18,
+      "time_range": "02:11 - 02:16",
+      "text": "So you just turn us round again"
+    },
+    {
+      "index": 36,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 136.08,
+      "end": 139.84,
+      "duration": 3.76,
+      "time_range": "02:16 - 02:19",
+      "text": "Let the young folks go running down the road"
+    },
+    {
+      "index": 37,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 139.84,
+      "end": 142.68,
+      "duration": 2.84,
+      "time_range": "02:19 - 02:22",
+      "text": "Let them race until they tire"
+    },
+    {
+      "index": 38,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 142.68,
+      "end": 145.46,
+      "duration": 2.78,
+      "time_range": "02:22 - 02:25",
+      "text": "We’ll just take this wooden floor"
+    },
+    {
+      "index": 39,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 145.46,
+      "end": 149.47,
+      "duration": 4.01,
+      "time_range": "02:25 - 02:29",
+      "text": "And warm our hands beside the fire"
+    },
+    {
+      "index": 40,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 149.47,
+      "end": 153.47,
+      "duration": 4.0,
+      "time_range": "02:29 - 02:33",
+      "text": "Two old boots in the pine sawdust"
+    },
+    {
+      "index": 41,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 153.47,
+      "end": 157.48,
+      "duration": 4.01,
+      "time_range": "02:33 - 02:37",
+      "text": "Holding on and stepping light"
+    },
+    {
+      "index": 42,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 157.48,
+      "end": 160.1,
+      "duration": 2.62,
+      "time_range": "02:37 - 02:40",
+      "text": "We’re dancing like nobody’s"
+    },
+    {
+      "index": 43,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 160.1,
+      "end": 161.62,
+      "duration": 1.52,
+      "time_range": "02:40 - 02:41",
+      "text": "Young tonight"
+    },
+    {
+      "index": 44,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 161.62,
+      "end": 167.08,
+      "duration": 5.46,
+      "time_range": "02:41 - 02:47",
+      "text": "Look at all them little crow's feet"
+    },
+    {
+      "index": 45,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 167.08,
+      "end": 171.14,
+      "duration": 4.06,
+      "time_range": "02:47 - 02:51",
+      "text": "Crinkling round your grey-green eyes"
+    },
+    {
+      "index": 46,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 171.14,
+      "end": 174.78,
+      "duration": 3.64,
+      "time_range": "02:51 - 02:54",
+      "text": "Every winter that we made it through"
+    },
+    {
+      "index": 47,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 174.78,
+      "end": 177.76,
+      "duration": 2.98,
+      "time_range": "02:54 - 02:57",
+      "text": "None of it told any lies"
+    },
+    {
+      "index": 48,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 177.76,
+      "end": 181.16,
+      "duration": 3.4,
+      "time_range": "02:57 - 03:01",
+      "text": "Still that same look in your face"
+    },
+    {
+      "index": 49,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 181.16,
+      "end": 184.98,
+      "duration": 3.82,
+      "time_range": "03:01 - 03:04",
+      "text": "Hasn't changed a single bit"
+    },
+    {
+      "index": 50,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 184.98,
+      "end": 188.76,
+      "duration": 3.78,
+      "time_range": "03:04 - 03:08",
+      "text": "Like a stove pipe in the cabin"
+    },
+    {
+      "index": 51,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 188.76,
+      "end": 191.9,
+      "duration": 3.14,
+      "time_range": "03:08 - 03:11",
+      "text": "When the evening wood is lit"
+    },
+    {
+      "index": 52,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 191.9,
+      "end": 195.56,
+      "duration": 3.66,
+      "time_range": "03:11 - 03:15",
+      "text": "Water's splashing on the dock pilings"
+    },
+    {
+      "index": 53,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 195.56,
+      "end": 199.02,
+      "duration": 3.46,
+      "time_range": "03:15 - 03:19",
+      "text": "Stars are coming through the blue"
+    },
+    {
+      "index": 54,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 199.02,
+      "end": 201.66,
+      "duration": 2.64,
+      "time_range": "03:19 - 03:21",
+      "text": "You pull me in by the elbow"
+    },
+    {
+      "index": 55,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 201.66,
+      "end": 206.18,
+      "duration": 4.52,
+      "time_range": "03:21 - 03:26",
+      "text": "I smell the cider on you too"
+    },
+    {
+      "index": 56,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 206.18,
+      "end": 209.64,
+      "duration": 3.46,
+      "time_range": "03:26 - 03:29",
+      "text": "Let the night come down the valley"
+    },
+    {
+      "index": 57,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 209.64,
+      "end": 213.04,
+      "duration": 3.4,
+      "time_range": "03:29 - 03:33",
+      "text": "Let the breeze begin to blow"
+    },
+    {
+      "index": 58,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 213.04,
+      "end": 216.76,
+      "duration": 3.72,
+      "time_range": "03:33 - 03:36",
+      "text": "We got plenty of wood under our feet"
+    },
+    {
+      "index": 59,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 216.76,
+      "end": 219.5,
+      "duration": 2.74,
+      "time_range": "03:36 - 03:39",
+      "text": "And nowhere we have to go"
+    },
+    {
+      "index": 60,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 219.5,
+      "end": 233.64,
+      "duration": 14.14,
+      "time_range": "03:39 - 03:53",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 61,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 233.64,
+      "end": 238.02,
+      "duration": 4.38,
+      "time_range": "03:53 - 03:58",
+      "text": "Let the young folks go running down the road"
+    },
+    {
+      "index": 62,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 238.02,
+      "end": 240.76,
+      "duration": 2.74,
+      "time_range": "03:58 - 04:00",
+      "text": "Let them race until they tire"
+    },
+    {
+      "index": 63,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 240.76,
+      "end": 243.62,
+      "duration": 2.86,
+      "time_range": "04:00 - 04:03",
+      "text": "We’ll just take this wooden floor"
+    },
+    {
+      "index": 64,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 243.62,
+      "end": 248.06,
+      "duration": 4.44,
+      "time_range": "04:03 - 04:08",
+      "text": "And warm our hands beside the fire"
+    },
+    {
+      "index": 65,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 248.06,
+      "end": 251.38,
+      "duration": 3.32,
+      "time_range": "04:08 - 04:11",
+      "text": "Two old boots in the pine sawdust"
+    },
+    {
+      "index": 66,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 251.38,
+      "end": 255.24,
+      "duration": 3.86,
+      "time_range": "04:11 - 04:15",
+      "text": "Holding on and stepping light"
+    },
+    {
+      "index": 67,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 255.24,
+      "end": 258.32,
+      "duration": 3.08,
+      "time_range": "04:15 - 04:18",
+      "text": "We’re dancing like nobody’s"
+    },
+    {
+      "index": 68,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 258.32,
+      "end": 260.76,
+      "duration": 2.44,
+      "time_range": "04:18 - 04:20",
+      "text": "Young tonight"
+    },
+    {
+      "index": 69,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 260.76,
+      "end": 267.06,
+      "duration": 6.3,
+      "time_range": "04:20 - 04:27",
+      "text": "Dancing like nobody's young tonight"
+    },
+    {
+      "index": 70,
+      "type": "INSTRUMENTAL",
+      "section": "Solo / Interlude",
+      "start": 267.06,
+      "end": 269.68,
+      "duration": 2.62,
+      "time_range": "04:27 - 04:29",
+      "text": "[Instrumental Solo / Musical Break]"
+    },
+    {
+      "index": 71,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 269.68,
+      "end": 273.22,
+      "duration": 3.54,
+      "time_range": "04:29 - 04:33",
+      "text": "One more turn before we leave"
+    },
+    {
+      "index": 72,
+      "type": "VOCAL",
+      "section": "Lyrics",
+      "start": 273.22,
+      "end": 276.68,
+      "duration": 3.46,
+      "time_range": "04:33 - 04:36",
+      "text": "Down along the river shore"
+    },
+    {
+      "index": 73,
+      "type": "INSTRUMENTAL",
+      "section": "Outro",
+      "start": 276.68,
+      "end": 287.57,
+      "duration": 10.89,
+      "time_range": "04:36 - 04:47",
+      "text": "[Outro / Instrumental Ending]"
+    }
+  ]
+}

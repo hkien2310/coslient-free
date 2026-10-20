@@ -1,0 +1,173 @@
+{
+  "source_file": "ref/doi-thu/surreal-ai/elderly-fashion-dance-we-are-the-late-light-surreal-ai-music-vide/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/surreal-ai/elderly-fashion-dance-we-are-the-late-light-surreal-ai-music-vide/raw/audio_listen.mp3",
+  "duration_sec": 514.2,
+  "duration_formatted": "8:34",
+  "tempo": {
+    "bpm": 112.3,
+    "bpm_rounded": 112,
+    "half_time_bpm": 56.2,
+    "double_time_bpm": 224.7,
+    "beat_stability": 0.97
+  },
+  "harmony": {
+    "primary_key": "A# Minor",
+    "confidence": 0.814,
+    "secondary_key": "A# Major",
+    "secondary_confidence": 0.578,
+    "dominant_notes": [
+      "A#",
+      "C#",
+      "C",
+      "D#",
+      "F"
+    ]
+  },
+  "sub_tracks": [
+    {
+      "track_index": 1,
+      "time_range": "0:00 - 3:47",
+      "start_sec": 0.0,
+      "end_sec": 227.3,
+      "duration_formatted": "3:47",
+      "duration_sec": 227.3,
+      "bpm": 112.3,
+      "half_time_bpm": 56.2,
+      "primary_key": "A# Minor",
+      "secondary_key": "A# Major"
+    },
+    {
+      "track_index": 2,
+      "time_range": "3:49 - 8:27",
+      "start_sec": 228.9,
+      "end_sec": 506.7,
+      "duration_formatted": "4:38",
+      "duration_sec": 277.7,
+      "bpm": 112.3,
+      "half_time_bpm": 56.2,
+      "primary_key": "A# Minor",
+      "secondary_key": "A# Major"
+    }
+  ],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 73.9,
+    "percussive_energy_pct": 26.1,
+    "harmonic_to_percussive_ratio": 2.83,
+    "spectral_centroid_mean_hz": 2579,
+    "spectral_rolloff_85_hz": 5673
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -13.6,
+    "loudness_range_lu": 5.6,
+    "true_peak_dbtp": -0.8,
+    "mean_rms_db": -19.3,
+    "peak_db": -1.3,
+    "crest_factor_db": 18.1,
+    "stereo_width_pct": 20.8,
+    "stereo_correlation": 0.871,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 24.8,
+      "bass_60_250Hz_pct": 42.6,
+      "low_mid_250_500Hz_pct": 7.8,
+      "mid_500_2000Hz_pct": 17.8,
+      "high_mid_2k_6kHz_pct": 5.6,
+      "high_6k_plus_pct": 1.4
+    }
+  },
+  "video_folder": "ref/doi-thu/surreal-ai/elderly-fashion-dance-we-are-the-late-light-surreal-ai-music-vide",
+  "raw_folder": "ref/doi-thu/surreal-ai/elderly-fashion-dance-we-are-the-late-light-surreal-ai-music-vide/raw",
+  "youtube_meta": {
+    "video_id": "jxanYglRnCY",
+    "url": "https://www.youtube.com/watch?v=jxanYglRnCY",
+    "title": "Elderly Fashion Dance • We Are The Late Light | Surreal AI Music Video 4K",
+    "channel": "Surreal AI",
+    "channel_follower_count": 77200,
+    "view_count": 1133792,
+    "like_count": 32699,
+    "comment_count": 15,
+    "upload_date": "20260616",
+    "description": "I’ve missed you.\n\nOne of my favorite parts of making these films is reading your comments. No matter where you live, we somehow keep meeting in the same place - somewhere between music, memory, and imagination.\n\nFor this episode, I wanted to create something joyful.\n\nI combined surreal fashion, dance, and two original songs that stayed with me long after I finished writing them. In fact, I wrote three songs for this project, but only used two. The third is waiting quietly for another day.\n\nThis film took longer than most. I spent countless hours adjusting light, movement, and camera angles because I wanted the dancers to glow from within. I wanted every face, every wrinkle, every flowing piece of fabric to feel alive.\n\nOne morning while working on the music, I started dancing around my kitchen with my two dogs. They immediately joined in. Watching them bounce around the room reminded me of something simple:\n\nJoy doesn’t belong to youth.\n\nIt belongs to anyone willing to feel it.\n\nThis film is for everyone who has lived a little, loved a lot, and still believes there is something beautiful ahead.\n\nThank you for being here. I hope these songs, these dancers, and this strange little world bring a smile to your day.\n\n—\n\nThis surreal AI music video is a celebration of ageless beauty - older dancers wearing massive avant-garde couture, bold earthy colors, and warm golden light, moving to a slow, hypnotic, ritual-inspired groove. Every frame was designed to celebrate movement, indivi",
+    "tags": [
+      "surreal ai video",
+      "ai surreal video",
+      "surreal ai",
+      "ai art video",
+      "ai surreal art",
+      "ai short film",
+      "ai surreal music video",
+      "elderly fashion dance",
+      "senior style",
+      "cinematic dance",
+      "senior fashion",
+      "ai music video",
+      "ageless beauty",
+      "ai dance video",
+      "surreal ai music video",
+      "surreal ai dance",
+      "elderly fashion"
+    ],
+    "top_comments": [
+      {
+        "author": "@suh4771",
+        "likes": 727,
+        "text": "I am not a fan of AI, most videos irritate me immensely, especially when people comment thinking what they watched was reality. It feels like we are being fooled. \nBut this is what AI is created for, honesty, beauty and joy. Well done, just brilliant imagining. I keep thinking what on earth you told it  to create those amazing outfits. Love it. More please."
+      },
+      {
+        "author": "@idillard",
+        "likes": 419,
+        "text": "OMG that was amazing! The beauty, the elegance, the smiles, the absolute joy came through! Loved every second!"
+      },
+      {
+        "author": "@Audrey-i3m4d",
+        "likes": 356,
+        "text": "I still can't believe what I watched. The costumes are from a far off planet and the movement is so aligned to them.... breathtaking, mystical, stunning."
+      },
+      {
+        "author": "@therealhellkitty5388",
+        "likes": 202,
+        "text": "Happy Juneteenth! I am a 65yo WW. Yesterday, wearing a matching linen jacket and dress, I was shopping for a few items. Went to the register and the young male cashier looked at me and said, “I really love your vibe”. In the parking lot of my local grocery, a young couple said I must be the “cool grandma”. I’m not doing anything special but I guess it’s something done well. All you have to do is think about presentation a tiny bit. Love this video, I need a few of these outfits, especially the ones with big, flowing skirts."
+      },
+      {
+        "author": "@SaBaBiKo",
+        "likes": 195,
+        "text": "\"Joy doesn't belong to youth\" Love this 💖"
+      },
+      {
+        "author": "@SuzPicard",
+        "likes": 186,
+        "text": "All I can say is this was a brilliant work of art. The music, the memorizing clothing and most of all the happiness shown bright on all their faces which was ageless. May all the work be praised by all people no matter what age or nationality. ❤"
+      },
+      {
+        "author": "@danawilliams2450",
+        "likes": 97,
+        "text": "I don’t care it’s AI l love the fact that they are beautiful Elderly women and men representing ❤❤❤"
+      },
+      {
+        "author": "@ontheotherhand...112",
+        "likes": 94,
+        "text": "I'm 74.  I slowed the video down to 90% and danced along with it.  It totally energised me!  Thank you so much . . .!"
+      },
+      {
+        "author": "@ChrisCooperXmarksthespot",
+        "likes": 87,
+        "text": "How Refreshing to see elders celebrated!"
+      },
+      {
+        "author": "@newreality17",
+        "likes": 79,
+        "text": "Hymn, beauty, and style at a mature age"
+      },
+      {
+        "author": "@Ellee0827",
+        "likes": 72,
+        "text": "Your imagination is spectacular"
+      },
+      {
+        "author": "@123slyvester",
+        "likes": 44,
+        "text": "I can’t even describe the joy I feel after watching this. I believe I’ve watched this video four times since last night and I don’t feel old any longer. I just don’t know how to share it with all my friends. It’s so beautiful. I wish you were on Broadway for more people to see.  I don’t know how you do that with AI, but your imagination is just incredible."
+      }
+    ]
+  }
+}

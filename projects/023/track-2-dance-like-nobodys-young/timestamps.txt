@@ -1,0 +1,77 @@
+# TIMESTAMPS: Dance Like Nobody's Young_Master.wav
+# Duration: 04:47 (287.57s) | Sections: 73 | Vocal lines: 67
+# Model: base.en | Language: en | Lyrics: 3-lyrics.txt | Zero-Gap Mode: ON
+
+00:00 - 00:14  (14.54s)  [INSTRUMENTAL]   [Intro / Instrumental Opening]
+00:14 - 00:18  ( 4.18s)  [VOCAL]          Sun is slipping in the willows
+00:18 - 00:22  ( 3.68s)  [VOCAL]          Water turning orange and grey
+00:22 - 00:25  ( 2.74s)  [VOCAL]          Paper lanterns down the railing
+00:25 - 00:29  ( 4.06s)  [VOCAL]          Lighting up the end of day
+00:29 - 00:32  ( 3.54s)  [VOCAL]          Miller sets his cider cup down
+00:32 - 00:36  ( 3.46s)  [VOCAL]          Draws the bow across the string
+00:36 - 00:39  ( 3.62s)  [VOCAL]          Folks are packing up the benches
+00:39 - 00:43  ( 3.84s)  [VOCAL]          Waiting for the tune to sing
+00:43 - 00:46  ( 3.02s)  [VOCAL]          Crates are loaded on the pickup
+00:46 - 00:50  ( 3.46s)  [VOCAL]          Shadows leaning on the sand
+00:50 - 00:53  ( 3.24s)  [VOCAL]          You walk right up through the clover
+00:53 - 00:56  ( 3.36s)  [VOCAL]          Red fall leaf inside your hand
+00:56 - 00:59  ( 2.32s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+00:59 - 01:02  ( 3.82s)  [VOCAL]          Let the young folks go running down the road
+01:02 - 01:05  ( 3.08s)  [VOCAL]          Let them race until they tire
+01:05 - 01:08  ( 2.44s)  [VOCAL]          We’ll just take this wooden floor
+01:08 - 01:12  ( 4.40s)  [VOCAL]          And warm our hands beside the fire
+01:12 - 01:16  ( 3.82s)  [VOCAL]          Two old boots in the pine sawdust
+01:16 - 01:19  ( 3.32s)  [VOCAL]          Holding on and stepping light
+01:19 - 01:23  ( 3.14s)  [VOCAL]          We’re dancing like nobody’s
+01:23 - 01:24  ( 1.60s)  [VOCAL]          Young tonight
+01:24 - 01:32  ( 8.22s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:32 - 01:37  ( 4.68s)  [VOCAL]          You don't ask me if I want to
+01:37 - 01:39  ( 2.30s)  [VOCAL]          No, you never ask at all
+01:39 - 01:43  ( 3.94s)  [VOCAL]          Just reach out and take my fingers
+01:43 - 01:48  ( 4.18s)  [VOCAL]          Pull me right off of the wall
+01:48 - 01:51  ( 3.56s)  [VOCAL]          You took off that tight old necktie
+01:51 - 01:54  ( 3.38s)  [VOCAL]          Hung it right across the post
+01:54 - 01:58  ( 3.64s)  [VOCAL]          You’re the one I picked for dancing
+01:58 - 02:01  ( 3.15s)  [VOCAL]          The one that I still love the most
+02:01 - 02:04  ( 3.16s)  [VOCAL]          You step right upon my shoe sole
+02:04 - 02:08  ( 3.15s)  [VOCAL]          Then you just look down and grin
+02:08 - 02:11  ( 3.86s)  [VOCAL]          Say you lost your count of three
+02:11 - 02:16  ( 4.18s)  [VOCAL]          So you just turn us round again
+02:16 - 02:19  ( 3.76s)  [VOCAL]          Let the young folks go running down the road
+02:19 - 02:22  ( 2.84s)  [VOCAL]          Let them race until they tire
+02:22 - 02:25  ( 2.78s)  [VOCAL]          We’ll just take this wooden floor
+02:25 - 02:29  ( 4.01s)  [VOCAL]          And warm our hands beside the fire
+02:29 - 02:33  ( 4.00s)  [VOCAL]          Two old boots in the pine sawdust
+02:33 - 02:37  ( 4.01s)  [VOCAL]          Holding on and stepping light
+02:37 - 02:40  ( 2.62s)  [VOCAL]          We’re dancing like nobody’s
+02:40 - 02:41  ( 1.52s)  [VOCAL]          Young tonight
+02:41 - 02:47  ( 5.46s)  [VOCAL]          Look at all them little crow's feet
+02:47 - 02:51  ( 4.06s)  [VOCAL]          Crinkling round your grey-green eyes
+02:51 - 02:54  ( 3.64s)  [VOCAL]          Every winter that we made it through
+02:54 - 02:57  ( 2.98s)  [VOCAL]          None of it told any lies
+02:57 - 03:01  ( 3.40s)  [VOCAL]          Still that same look in your face
+03:01 - 03:04  ( 3.82s)  [VOCAL]          Hasn't changed a single bit
+03:04 - 03:08  ( 3.78s)  [VOCAL]          Like a stove pipe in the cabin
+03:08 - 03:11  ( 3.14s)  [VOCAL]          When the evening wood is lit
+03:11 - 03:15  ( 3.66s)  [VOCAL]          Water's splashing on the dock pilings
+03:15 - 03:19  ( 3.46s)  [VOCAL]          Stars are coming through the blue
+03:19 - 03:21  ( 2.64s)  [VOCAL]          You pull me in by the elbow
+03:21 - 03:26  ( 4.52s)  [VOCAL]          I smell the cider on you too
+03:26 - 03:29  ( 3.46s)  [VOCAL]          Let the night come down the valley
+03:29 - 03:33  ( 3.40s)  [VOCAL]          Let the breeze begin to blow
+03:33 - 03:36  ( 3.72s)  [VOCAL]          We got plenty of wood under our feet
+03:36 - 03:39  ( 2.74s)  [VOCAL]          And nowhere we have to go
+03:39 - 03:53  (14.14s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:53 - 03:58  ( 4.38s)  [VOCAL]          Let the young folks go running down the road
+03:58 - 04:00  ( 2.74s)  [VOCAL]          Let them race until they tire
+04:00 - 04:03  ( 2.86s)  [VOCAL]          We’ll just take this wooden floor
+04:03 - 04:08  ( 4.44s)  [VOCAL]          And warm our hands beside the fire
+04:08 - 04:11  ( 3.32s)  [VOCAL]          Two old boots in the pine sawdust
+04:11 - 04:15  ( 3.86s)  [VOCAL]          Holding on and stepping light
+04:15 - 04:18  ( 3.08s)  [VOCAL]          We’re dancing like nobody’s
+04:18 - 04:20  ( 2.44s)  [VOCAL]          Young tonight
+04:20 - 04:27  ( 6.30s)  [VOCAL]          Dancing like nobody's young tonight
+04:27 - 04:29  ( 2.62s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+04:29 - 04:33  ( 3.54s)  [VOCAL]          One more turn before we leave
+04:33 - 04:36  ( 3.46s)  [VOCAL]          Down along the river shore
+04:36 - 04:47  (10.89s)  [INSTRUMENTAL]   [Outro / Instrumental Ending]

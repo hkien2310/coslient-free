@@ -1,0 +1,181 @@
+{
+  "source_file": "ref/doi-thu/eloria-art/quiet-morning-vibe-a-very-old-town-eloria-art-4k/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/eloria-art/quiet-morning-vibe-a-very-old-town-eloria-art-4k/raw/audio_listen.mp3",
+  "duration_sec": 482.1,
+  "duration_formatted": "8:02",
+  "tempo": {
+    "bpm": 143.6,
+    "bpm_rounded": 144,
+    "half_time_bpm": 71.8,
+    "double_time_bpm": 287.1,
+    "beat_stability": 0.95
+  },
+  "harmony": {
+    "primary_key": "C Major",
+    "confidence": 0.852,
+    "secondary_key": "F Major",
+    "secondary_confidence": 0.781,
+    "dominant_notes": [
+      "C",
+      "G",
+      "D",
+      "F",
+      "A#"
+    ]
+  },
+  "sub_tracks": [
+    {
+      "track_index": 1,
+      "time_range": "0:01 - 4:16",
+      "start_sec": 0.6,
+      "end_sec": 256.4,
+      "duration_formatted": "4:16",
+      "duration_sec": 255.8,
+      "bpm": 71.8,
+      "half_time_bpm": 35.9,
+      "primary_key": "C Major",
+      "secondary_key": "E Minor"
+    },
+    {
+      "track_index": 2,
+      "time_range": "4:18 - 8:00",
+      "start_sec": 258.0,
+      "end_sec": 480.1,
+      "duration_formatted": "3:42",
+      "duration_sec": 222.1,
+      "bpm": 152.0,
+      "half_time_bpm": 76.0,
+      "primary_key": "A# Major",
+      "secondary_key": "F Major"
+    }
+  ],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 89.1,
+    "percussive_energy_pct": 10.9,
+    "harmonic_to_percussive_ratio": 8.18,
+    "spectral_centroid_mean_hz": 1522,
+    "spectral_rolloff_85_hz": 3120
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -13.8,
+    "loudness_range_lu": 6.4,
+    "true_peak_dbtp": 0.1,
+    "mean_rms_db": -19.9,
+    "peak_db": -1.3,
+    "crest_factor_db": 18.6,
+    "stereo_width_pct": 28.9,
+    "stereo_correlation": 0.717,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 5.0,
+      "bass_60_250Hz_pct": 63.0,
+      "low_mid_250_500Hz_pct": 23.9,
+      "mid_500_2000Hz_pct": 6.4,
+      "high_mid_2k_6kHz_pct": 0.9,
+      "high_6k_plus_pct": 0.9
+    }
+  },
+  "video_folder": "ref/doi-thu/eloria-art/quiet-morning-vibe-a-very-old-town-eloria-art-4k",
+  "raw_folder": "ref/doi-thu/eloria-art/quiet-morning-vibe-a-very-old-town-eloria-art-4k/raw",
+  "youtube_meta": {
+    "video_id": "_c8l-_Z8-Bo",
+    "url": "https://www.youtube.com/watch?v=_c8l-_Z8-Bo",
+    "title": "Quiet Morning Vibe | A Very Old Town | Eloria Art (4K)",
+    "channel": "Eloria Art",
+    "channel_follower_count": 11400,
+    "view_count": 325221,
+    "like_count": 1809,
+    "comment_count": 15,
+    "upload_date": "20260824",
+    "description": "🎧 Welcome to Eloria Art — a cinematic space where music, atmosphere, and visual storytelling come together. ✨\nThis channel is dedicated to creating immersive AI-assisted music and emotional audio experiences, blending art, imagination, and technology into unique cinematic worlds.\n\n\n🎬 How These Films & Soundscapes Are Created\n• Midjourney – Cinematic visual creation\n• Veo 3 – Smooth atmospheric motion in 4K\n• Suno – Original AI-assisted music production\n• Storytelling, emotional pacing, and creative direction – Human-guided\n\nTechnology helps shape the world.\nEmotion gives it meaning.\n\nIf these films, melodies, or atmospheres brought you peace, inspiration, nostalgia, or even a quiet moment to breathe — thank you for being part of Eloria Art.\n\n© Eloria Art, 2026. All rights reserved.\nAll videos, music, and visual creations on this channel are original works and may not be copied, redistributed, or reused without permission.\n\n#EloriaArt #CinematicMusic #FantasyMusic #AmbientMusic #AIFilm #Cinematic #4K #sea",
+    "tags": [
+      "AI music",
+      "AI generated music",
+      "lofi hip hop",
+      "chill beats",
+      "relaxing music",
+      "study music",
+      "sleep music",
+      "ambient music",
+      "instrumental music",
+      "electronic music",
+      "chill vibes",
+      "lo fi beats",
+      "no copyright music",
+      "royalty free music",
+      "futuristic music",
+      "calm music",
+      "meditation music",
+      "stress relief music",
+      "creative commons music",
+      "Eloria art",
+      "farmer",
+      "vlog",
+      "tea",
+      "coffee",
+      "vibe"
+    ],
+    "top_comments": [
+      {
+        "author": "@AskNana9",
+        "likes": 11,
+        "text": "So peaceful. Thank you.  This is what we need as a society. ❤"
+      },
+      {
+        "author": "@이정순-i3p",
+        "likes": 10,
+        "text": "❤천국 같아요 🎉"
+      },
+      {
+        "author": "@SapphireAiArt",
+        "likes": 6,
+        "text": "What a peaceful and nostalgic atmosphere! Quiet Morning Vibe feels like stepping into a forgotten old town where every street, window, and quiet moment carries its own story. So beautiful and calming. 🌅🏘✨🎨🌿💫"
+      },
+      {
+        "author": "@PetraSachs-l7p",
+        "likes": 5,
+        "text": "Das Video und die Musik, sind Balsam für meine Seele. \nIch kann den Machern nur danken und  freue mich auf neue. \nDANKE❤❤❤❤"
+      },
+      {
+        "author": "@mariamercy7317",
+        "likes": 4,
+        "text": "Soothing, comforting, mesmerizing, nostalgic. All combined! It reaches down to the soul! \nThank you! God bless you! 👏 🙌 ❤"
+      },
+      {
+        "author": "@مینابهرامپور",
+        "likes": 3,
+        "text": "Living truly authentic life"
+      },
+      {
+        "author": "@MartinArtTV",
+        "likes": 3,
+        "text": "🌅✨ This felt like the perfect escape into a slower, simpler morning. The peaceful old-town atmosphere, soft visuals, and gentle nostalgic mood made everything feel warm, familiar, and beautifully timeless. ☕🏡❤"
+      },
+      {
+        "author": "@Marcel-q9i9c",
+        "likes": 3,
+        "text": "How peaceful and relaxing ☺️"
+      },
+      {
+        "author": "@kerrycusack9262",
+        "likes": 3,
+        "text": "thank you for your beautiful singing....."
+      },
+      {
+        "author": "@barbaraacosta1322",
+        "likes": 1,
+        "text": "Im getting old❤"
+      },
+      {
+        "author": "@nicloujaninejoel3705",
+        "likes": 1,
+        "text": "Une ambiance si paisible de toutes beautés tout comme cette voix si douce en accompagnement des jours que nous vivons à un âge avancé  fait de sérénité.  Merci infiniment de nous entourer de tendresses. ❤❤❤❤❤❤❤"
+      },
+      {
+        "author": "@kim-yx3hq",
+        "likes": 1,
+        "text": "❤ thank you for this beautiful song just the hurricane  my heart and soul such a great comfort comes in the right time."
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "source_file": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-5-winter-cozy-nostalgic-music-gengu-ai-a/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-5-winter-cozy-nostalgic-music-gengu-ai-a/raw/audio_listen.mp3",
+  "duration_sec": 3990.2,
+  "duration_formatted": "66:30",
+  "tempo": {
+    "bpm": 143.6,
+    "bpm_rounded": 144,
+    "half_time_bpm": 71.8,
+    "double_time_bpm": 287.1,
+    "beat_stability": 0.93
+  },
+  "harmony": {
+    "primary_key": "D Minor",
+    "confidence": 0.862,
+    "secondary_key": "F Major",
+    "secondary_confidence": 0.773,
+    "dominant_notes": [
+      "D",
+      "C",
+      "F",
+      "G",
+      "A"
+    ]
+  },
+  "sub_tracks": [
+    {
+      "track_index": 1,
+      "time_range": "0:00 - 9:57",
+      "start_sec": 0.1,
+      "end_sec": 596.7,
+      "duration_formatted": "9:57",
+      "duration_sec": 596.6,
+      "bpm": 95.7,
+      "half_time_bpm": 47.9,
+      "primary_key": "F Major",
+      "secondary_key": "C Major"
+    },
+    {
+      "track_index": 2,
+      "time_range": "9:58 - 14:09",
+      "start_sec": 598.4,
+      "end_sec": 848.7,
+      "duration_formatted": "4:10",
+      "duration_sec": 250.4,
+      "bpm": 107.7,
+      "half_time_bpm": 53.8,
+      "primary_key": "D Minor",
+      "secondary_key": "D Major"
+    },
+    {
+      "track_index": 3,
+      "time_range": "14:11 - 42:32",
+      "start_sec": 851.0,
+      "end_sec": 2552.2,
+      "duration_formatted": "28:21",
+      "duration_sec": 1701.1,
+      "bpm": 123.0,
+      "half_time_bpm": 61.5,
+      "primary_key": "D Minor",
+      "secondary_key": "C Major"
+    },
+    {
+      "track_index": 4,
+      "time_range": "42:34 - 60:50",
+      "start_sec": 2553.8,
+      "end_sec": 3650.3,
+      "duration_formatted": "18:16",
+      "duration_sec": 1096.5,
+      "bpm": 152.0,
+      "half_time_bpm": 76.0,
+      "primary_key": "A# Major",
+      "secondary_key": "G Minor"
+    },
+    {
+      "track_index": 5,
+      "time_range": "60:52 - 66:30",
+      "start_sec": 3652.0,
+      "end_sec": 3990.1,
+      "duration_formatted": "5:38",
+      "duration_sec": 338.1,
+      "bpm": 143.6,
+      "half_time_bpm": 71.8,
+      "primary_key": "A# Major",
+      "secondary_key": "F Major"
+    }
+  ],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 87.3,
+    "percussive_energy_pct": 12.7,
+    "harmonic_to_percussive_ratio": 6.85,
+    "spectral_centroid_mean_hz": 1944,
+    "spectral_rolloff_85_hz": 4293
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -14.8,
+    "loudness_range_lu": 6.6,
+    "true_peak_dbtp": -0.1,
+    "mean_rms_db": -20.2,
+    "peak_db": -0.7,
+    "crest_factor_db": 19.5,
+    "stereo_width_pct": 26.5,
+    "stereo_correlation": 0.77,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 9.2,
+      "bass_60_250Hz_pct": 48.0,
+      "low_mid_250_500Hz_pct": 23.8,
+      "mid_500_2000Hz_pct": 15.6,
+      "high_mid_2k_6kHz_pct": 2.2,
+      "high_6k_plus_pct": 1.2
+    }
+  },
+  "video_folder": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-5-winter-cozy-nostalgic-music-gengu-ai-a",
+  "raw_folder": "ref/doi-thu/gengu-ai/a-very-old-town-album-no-5-winter-cozy-nostalgic-music-gengu-ai-a/raw",
+  "youtube_meta": {
+    "video_id": "Mx3yNMkbS-w",
+    "url": "https://www.youtube.com/watch?v=Mx3yNMkbS-w",
+    "title": "A Very Old Town Album No 5 |  Winter & Cozy Nostalgic Music  | Gengu AI Art (4K)",
+    "channel": "Gengu AI",
+    "channel_follower_count": 18600,
+    "view_count": 70122,
+    "like_count": 1297,
+    "comment_count": 15,
+    "upload_date": "20260911",
+    "description": "🎧 Welcome to Gengu AI – your ultimate destination for AI-generated music and next-generation sound experiences. 🚀 This channel is dedicated to creating unique, high-quality tracks powered by artificial intelligence 🤖, blending creativity and technology to deliver music that feels fresh, emotional, and immersive.\n\n\nAI was the tool. The story came from human feeling.\n\nIf this film gave you a quiet breath, a memory, or a moment of peace, thank you for being here.\n\n© Gengu AI, 2026. All rights reserved.\nThis Video is an original creation and may not be copied, redistributed, or reused without permission.\n#averyunusualtown #surrealaifilm #animation #suno #stopmotion #cinematic #4k",
+    "tags": [
+      "AI music",
+      "AI generated music",
+      "lofi hip hop",
+      "chill beats",
+      "relaxing music",
+      "study music",
+      "focus music",
+      "sleep music",
+      "ambient music",
+      "cinematic music",
+      "background music",
+      "instrumental music",
+      "electronic music",
+      "chill vibes",
+      "lo fi beats",
+      "music for sleep",
+      "no copyright music",
+      "royalty free music",
+      "futuristic music",
+      "calm music",
+      "meditation music",
+      "stress relief music",
+      "creative commons music",
+      "youtube background music",
+      "gengu ai"
+    ],
+    "top_comments": [
+      {
+        "author": "@tinaczepluch6076",
+        "likes": 7,
+        "text": "The videos and music are so soothing and peaceful. They are very helpful on a stressful day or if you're feeling a bit down. I love them.😍"
+      },
+      {
+        "author": "@GenguAI",
+        "likes": 5,
+        "text": "Winter has a way of slowing down time and unlocking quiet memories. Thank you for spending this frosty day with us in this little nostalgic corner. What memory did this piece bring back for you today?"
+      },
+      {
+        "author": "@ЮлияКунцевич-щ8в",
+        "likes": 4,
+        "text": "Очаровательно все и и музыка голос.  Мульт  потресающий."
+      },
+      {
+        "author": "@burkerteva5133",
+        "likes": 4,
+        "text": "Bei uns ist Herbstanfang. Mein Abendfeuerchen brennt sacht und ich seh mir dieses Video an.Tolles Leben."
+      },
+      {
+        "author": "@jodyporter6086",
+        "likes": 3,
+        "text": "The female singer sounds like Allison Krause.  Very pretty music.❤❤❤❤❤"
+      },
+      {
+        "author": "@AnnetteRead-m4k",
+        "likes": 2,
+        "text": "I sooooo want to live in this world, absolutely wonderful and at the same time heartbreaking❤❤"
+      },
+      {
+        "author": "@N·R·AK",
+        "likes": 2,
+        "text": "今日は久しぶりに早く帰れたので、少し手の込んだお料理作っています。\n実は落ち込んでいましたが、少し元気を出します👌"
+      },
+      {
+        "author": "@irenapalkowska5818",
+        "likes": 1,
+        "text": "Jak cudownie jest pobyć w KRAINIE CZEKOLADY,UMMMM...JAK PACHNIE ❤"
+      },
+      {
+        "author": "@SilviaSanchezE",
+        "likes": 1,
+        "text": "Thank you! I love it! ❤️🍁☕️  this “whispers of the heart” really warmth mine. ❤️✨🍓"
+      },
+      {
+        "author": "@cristinabrogna5913",
+        "likes": 1,
+        "text": "Questa melodia e straordinaria molto dolce rilassante ❤❤❤"
+      },
+      {
+        "author": "@Rory-h1l1u",
+        "likes": 1,
+        "text": "This is Lovely ❤ iam going to watch the rest tonight 😊"
+      },
+      {
+        "author": "@oldaymusic",
+        "likes": 1,
+        "text": "음악이 넘 감미로워요~^^"
+      }
+    ]
+  }
+}

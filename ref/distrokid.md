@@ -26,7 +26,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
 | A Place Back Home | 2 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
-| Kettle & Light | 5 | Americana & Scottish Borders Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
+| Kettle & Light | 9 | Americana & Scottish Borders Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
 
 ---
 
@@ -373,14 +373,14 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Kettle & Light [unreleased] — 3 tracks
+## 🔴 Kettle & Light [unreleased] — 9 tracks
 
 **Album:** Kettle & Light (Coslient Free V2 Americana Ballad Release)  
 **Genre / Vibe:** Americana Country-Folk Ballad, Slow Unhurried Mornings & Evenings, Lived-in Acoustic Warmth  
 **Mood:** Peaceful, tender, heartwarming, unhurried sanctuary, lifelong companionship  
-**Signature Sound:** Fingerpicked acoustic guitar, subtle upright bass, soft pedal steel swells, warm soaring fiddle, lived-in warm baritone, 68–72 BPM  
+**Signature Sound:** Fingerpicked acoustic guitar, subtle upright bass, soft pedal steel swells, warm soaring fiddle, lived-in warm baritone / alto, 68–76 BPM  
 **Cultural Anchors:** John Prine, Guy Clark, Townes Van Zandt, Gregory Alan Isakov  
-**Tracks:** 5 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
+**Tracks:** 9 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
 
 ### 1. Learning to Sit Still
 - **Project:** [020](file:///Users/hoangkien/Youtube/coslient-free/projects/020)
@@ -441,6 +441,54 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Vocal:** Weathered warm male baritone, conversational singing, affectionate tender delivery
 - **Cultural Anchor:** Lifelong companionship between hill shepherd and faithful border collie
 - **Date Added:** 2026-10-11
+
+### 6. The Morning Jubilee
+- **Project:** [023](file:///Users/hoangkien/Youtube/coslient-free/projects/023) (Track 1)
+- **About:** Đôi vợ chồng già mặc áo len đỏ tươi thả bộ dọc bến sông đi hội chợ mùa thu: ngắm thuyền chở bí ngô cập bến, Henry bào gỗ thông, Clara xoay gốm và Arthur bê khay bánh táo nướng nóng hổi
+- **Genre:** Americana Acoustic Porch Folk
+- **BPM / Time:** 76 BPM, 4/4 rolling groove
+- **Key:** Major
+- **Duration:** 4:36
+- **Instrumentation:** Fingerpicked acoustic guitar lead, singing fiddle, subtle warm pedal steel, steady upright bass, wooden foot taps
+- **Vocal:** Lived-in female alto, joyful conversational delivery
+- **Cultural Anchor:** Riverside autumn market morning × Front-porch Americana storytelling
+- **Date Added:** 2026-10-16
+
+### 7. Dance Like Nobody's Young
+- **Project:** [023](file:///Users/hoangkien/Youtube/coslient-free/projects/023) (Track 2)
+- **About:** Chợ chiều vãn người, chồng tháo cà vạt vắt lên cọc gỗ, kéo tay vợ ra sàn mùn cưa thông xoay tròn theo điệu waltz 3/4 dưới ánh đèn lồng giấy và hương cider ấm bên sông
+- **Genre:** Americana Acoustic Folk Waltz
+- **BPM / Time:** 68 BPM, 3/4 waltz
+- **Key:** Major
+- **Duration:** 4:47
+- **Instrumentation:** Fingerpicked acoustic guitar, singing fiddle waltz melodies, warm pedal steel swells, upright bass
+- **Vocal:** Lived-in female alto, tender smiling conversational delivery
+- **Cultural Anchor:** Twilight riverside dance pavilion × Enduring playful marriage
+- **Date Added:** 2026-10-16
+
+### 8. The Cardboard Knight
+- **Project:** [024](file:///Users/hoangkien/Youtube/coslient-free/projects/024) (Track 1)
+- **About:** Người ông cắt thùng giấy các-tông làm mũ giáp hiệp sĩ, bà bọc giấy bạc nhà bếp lên tấm khiên tròn và cài lại chiếc áo choàng đỏ cho cháu trai nhỏ bên hiên nhà — học cách bước chậm lại theo nhịp chân trẻ thơ sau những năm tháng vội vã
+- **Genre:** Americana, Classic Country-Folk, Acoustic Singer-Songwriter
+- **BPM / Time:** 69 BPM, 4/4 unhurried pocket
+- **Key:** Major
+- **Duration:** 3:57
+- **Instrumentation:** Warm fingerpicked acoustic guitar, subtle upright bass, soft pedal steel swells, warm singing fiddle
+- **Vocal:** Weathered lived-in male baritone, smiling conversational storytelling delivery
+- **Cultural Anchor:** John Prine & Guy Clark front-porch storytelling × Grandparent and grandchild afternoon craft
+- **Date Added:** 2026-10-19
+
+### 9. Leave the Porch Light On
+- **Project:** [024](file:///Users/hoangkien/Youtube/coslient-free/projects/024) (Track 2)
+- **About:** Chập tối mùa thu, ông bà đội chiếc mũ vải dạ cũ dắt cháu trai mặc giáp hiệp sĩ bìa cứng đi dọc con phố dốc rợp lá sồi qua những hiên nhà thắp đèn bí ngô ấm áp — đến khi đêm khuya đứa trẻ mỏi chân tựa cằm vào vai áo ông và những ánh đèn hiên vẫn sáng
+- **Genre:** Americana, Classic Country-Folk Ballad, Acoustic Singer-Songwriter
+- **BPM / Time:** 68.2 BPM, 4/4 steady evening walk
+- **Key:** Major
+- **Duration:** 4:13
+- **Instrumentation:** Warm acoustic guitar strumming and fingerpicking, singing fiddle, soft pedal steel swells, subtle upright bass
+- **Vocal:** Weathered lived-in male baritone, tender affectionate delivery
+- **Cultural Anchor:** Autumn evening neighborhood walk × Warm porch light sanctuary
+- **Date Added:** 2026-10-19
 
 ---
 

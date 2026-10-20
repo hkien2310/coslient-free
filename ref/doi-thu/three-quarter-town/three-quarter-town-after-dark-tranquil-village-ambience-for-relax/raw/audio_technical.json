@@ -1,0 +1,151 @@
+{
+  "source_file": "ref/doi-thu/three-quarter-town/three-quarter-town-after-dark-tranquil-village-ambience-for-relax/raw/audio.m4a",
+  "listen_file": "ref/doi-thu/three-quarter-town/three-quarter-town-after-dark-tranquil-village-ambience-for-relax/raw/audio_listen.mp3",
+  "duration_sec": 218.8,
+  "duration_formatted": "3:39",
+  "tempo": {
+    "bpm": 117.5,
+    "bpm_rounded": 117,
+    "half_time_bpm": 58.7,
+    "double_time_bpm": 234.9,
+    "beat_stability": 0.96
+  },
+  "harmony": {
+    "primary_key": "D Minor",
+    "confidence": 0.897,
+    "secondary_key": "D Major",
+    "secondary_confidence": 0.711,
+    "dominant_notes": [
+      "D",
+      "A",
+      "E",
+      "G",
+      "F"
+    ]
+  },
+  "sub_tracks": [],
+  "timbre_and_texture": {
+    "harmonic_energy_pct": 75.7,
+    "percussive_energy_pct": 24.3,
+    "harmonic_to_percussive_ratio": 3.12,
+    "spectral_centroid_mean_hz": 1792,
+    "spectral_rolloff_85_hz": 3919
+  },
+  "dynamics_and_mix": {
+    "integrated_lufs": -12.9,
+    "loudness_range_lu": 5.1,
+    "true_peak_dbtp": -0.6,
+    "mean_rms_db": -17.7,
+    "peak_db": -1.5,
+    "crest_factor_db": 16.2,
+    "stereo_width_pct": 24.4,
+    "stereo_correlation": 0.812,
+    "compression_character": "Wide Dynamic / Breathing & Cinematic",
+    "frequency_energy_pct": {
+      "sub_bass_20_60Hz_pct": 14.4,
+      "bass_60_250Hz_pct": 58.0,
+      "low_mid_250_500Hz_pct": 18.5,
+      "mid_500_2000Hz_pct": 7.2,
+      "high_mid_2k_6kHz_pct": 1.2,
+      "high_6k_plus_pct": 0.7
+    }
+  },
+  "video_folder": "ref/doi-thu/three-quarter-town/three-quarter-town-after-dark-tranquil-village-ambience-for-relax",
+  "raw_folder": "ref/doi-thu/three-quarter-town/three-quarter-town-after-dark-tranquil-village-ambience-for-relax/raw",
+  "youtube_meta": {
+    "video_id": "RheInoDWm0g",
+    "url": "https://www.youtube.com/watch?v=RheInoDWm0g",
+    "title": "Three Quarter Town After Dark | Tranquil Village Ambience for Relaxing",
+    "channel": "Three-Quarter Town",
+    "channel_follower_count": 29000,
+    "view_count": 124359,
+    "like_count": 1670,
+    "comment_count": 15,
+    "upload_date": "20260430",
+    "description": "Welcome to Three Quarter Town 🕰️✨\n\nWhen the amber light spills across the slate roofs, the magic of our unusual town truly awakens. The golden sun goes down, but the sweet hour is never wasted.\n\nJoin the little black cat as it takes a quiet stroll across the rooftops, watching the stars appear one by one. Down below, the blacksmith strikes a new match, kindling the spark to push back the dark. \n\nThe old baker checks her warm, steaming bread, and a traveler stops to admire the stone clock tower.\n\nAs the river of gold fades, the lanterns glow, and the whole town rests safely under the beautiful night sky. If your world is moving too fast today, stay here for a while. Sit in the warmth of the beautiful flame. You are safe here. 🐈‍⬛🍞\n🌌\n\n\n\n#ThreeQuarterTown #StopMotion #Claymation #CozyFantasy #TimBurtonStyle #BlackCat #MiniatureTown #RelaxingMusic #SleepAmbience #ShortFilm",
+    "tags": [
+      "oldies playing in another room",
+      "oldies sleep music",
+      "1940s music",
+      "stop motion animation",
+      "oldies music playing in another room",
+      "fireplace crackling",
+      "clay",
+      "cozy winter ambience",
+      "stopmotion",
+      "vintage oldies",
+      "stop motion cooking",
+      "aardman",
+      "cozy vintage oldies",
+      "vintage oldies playing in another room",
+      "stop motion tutorial",
+      "oldies in another room",
+      "music in another room",
+      "1940s oldies music",
+      "1940s vintage music",
+      "music from another room"
+    ],
+    "top_comments": [
+      {
+        "author": "@juliepaulsen7306",
+        "likes": 32,
+        "text": "I shed a few tears listening to this . My 19 year old cat is deaf and follows me every where . She comforted me when my husband died . A better companion one couldn't have . ❤❤"
+      },
+      {
+        "author": "@sharonhall6518",
+        "likes": 23,
+        "text": "I truly love these videos with the beautiful peaceful scenery and gorgeous music!  Instantly calming!"
+      },
+      {
+        "author": "@gingerbrewer7093",
+        "likes": 14,
+        "text": "Love the song and the video is so cute."
+      },
+      {
+        "author": "@lindamarie6574",
+        "likes": 11,
+        "text": "Love the cat at the beginning!😊"
+      },
+      {
+        "author": "@Valorian-v6y",
+        "likes": 8,
+        "text": "Bonito video , esas noches tranquilas , una puerta abierta sin más , ese paisaje urbano con las luces encendidas . Rebosa serenidad ."
+      },
+      {
+        "author": "@ilzerobinson7080",
+        "likes": 6,
+        "text": "So peaceful and beautiful ❤️❤️🤗💫💫"
+      },
+      {
+        "author": "@peliculas216",
+        "likes": 6,
+        "text": "So peaceful, relaxing and beautiful ❤love the music❤thank you, more with cats pls😊"
+      },
+      {
+        "author": "@mireyagaray5692",
+        "likes": 5,
+        "text": "Hermoso hermoso 🫂🇲🇽☯️☮️💜"
+      },
+      {
+        "author": "@amparobrito6952",
+        "likes": 5,
+        "text": "Tenho a impressão que vivi essa história 🎉❤❤🎉"
+      },
+      {
+        "author": "@karinaclota",
+        "likes": 3,
+        "text": "Que dulzura de animaciones y voces interpretando está canción 😢❤"
+      },
+      {
+        "author": "@hieloantartico9000",
+        "likes": 3,
+        "text": "Sus voces, la música, las animaciones, es todo muy hermoso! ❤️"
+      },
+      {
+        "author": "@susanperreira8895",
+        "likes": 2,
+        "text": "❤️"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+# TIMESTAMPS: The Morning Jubilee_Master.wav
+# Duration: 04:36 (276.65s) | Sections: 70 | Vocal lines: 66
+# Model: base.en | Language: en | Lyrics: 3-lyrics.txt | Zero-Gap Mode: ON
+
+00:00 - 00:14  (14.58s)  [INSTRUMENTAL]   [Intro / Instrumental Opening]
+00:14 - 00:18  ( 3.56s)  [VOCAL]          Mist is lifting off the water
+00:18 - 00:21  ( 3.42s)  [VOCAL]          First wooden boat bumps on the pier
+00:21 - 00:24  ( 2.96s)  [VOCAL]          Heaped right up with yellow pumpkins
+00:24 - 00:27  ( 3.02s)  [VOCAL]          And the biggest apples of the year
+00:27 - 00:30  ( 3.40s)  [VOCAL]          Henry down at his workbench
+00:30 - 00:34  ( 3.94s)  [VOCAL]          Shaving curls of white pine thin
+00:34 - 00:37  ( 2.72s)  [VOCAL]          Blows the sawdust off his knuckles
+00:37 - 00:41  ( 3.82s)  [VOCAL]          With a broad and easy grin
+00:41 - 00:44  ( 2.82s)  [VOCAL]          Take my arm and watch your footing
+00:44 - 00:48  ( 3.88s)  [VOCAL]          Smell the baker's cinnamon sweet
+00:48 - 00:50  ( 2.78s)  [VOCAL]          Old wood carts with yellow daisies
+00:50 - 00:54  ( 3.14s)  [VOCAL]          Parked along the cobblestone street
+00:54 - 00:57  ( 3.30s)  [VOCAL]          Don't you leave your Sunday jacket
+00:57 - 01:01  ( 4.22s)  [VOCAL]          Hanging on the closet door
+01:01 - 01:03  ( 2.30s)  [VOCAL]          Put your bright red sweater on
+01:03 - 01:07  ( 4.12s)  [VOCAL]          And walk along the river shore
+01:07 - 01:11  ( 3.40s)  [VOCAL]          We spent too long staying home
+01:11 - 01:14  ( 3.24s)  [VOCAL]          Let the river run on by
+01:14 - 01:17  ( 3.02s)  [VOCAL]          Come on down to the jubilee
+01:17 - 01:20  ( 2.82s)  [VOCAL]          Underneath this morning sky
+01:20 - 01:27  ( 6.96s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+01:27 - 01:31  ( 3.96s)  [VOCAL]          Clara sits behind her pottery wheel
+01:31 - 01:33  ( 2.22s)  [VOCAL]          Grey hair twisted in a knot
+01:33 - 01:37  ( 4.16s)  [VOCAL]          Spinning wet clay through her fingers
+01:37 - 01:40  ( 3.12s)  [VOCAL]          Turning mud into a honey pot
+01:40 - 01:44  ( 3.70s)  [VOCAL]          Arthur brings an apple turnover
+01:44 - 01:48  ( 3.42s)  [VOCAL]          Steaming hot right off the tray
+01:48 - 01:51  ( 3.00s)  [VOCAL]          Says, Clara, wipe your apron off
+01:51 - 01:53  ( 2.42s)  [VOCAL]          Take a bite and come and play
+01:53 - 01:56  ( 3.54s)  [VOCAL]          Neighbors in their heavy flannels
+01:56 - 02:00  ( 3.60s)  [VOCAL]          Trading loaves and garden greens
+02:00 - 02:03  ( 3.42s)  [VOCAL]          You took a warm crust off the tray
+02:03 - 02:07  ( 3.40s)  [VOCAL]          Best thing that you ever seen
+02:07 - 02:10  ( 2.88s)  [VOCAL]          Don't you leave your Sunday jacket
+02:10 - 02:14  ( 4.12s)  [VOCAL]          Hanging on the closet door
+02:14 - 02:16  ( 2.42s)  [VOCAL]          Put your bright red sweater on
+02:16 - 02:19  ( 3.08s)  [VOCAL]          And walk along the river shore
+02:19 - 02:23  ( 4.08s)  [VOCAL]          We spent too long staying home
+02:23 - 02:27  ( 3.30s)  [VOCAL]          Let the river run on by
+02:27 - 02:30  ( 3.08s)  [VOCAL]          Come on down to the jubilee
+02:30 - 02:34  ( 4.10s)  [VOCAL]          Underneath this morning sky
+02:34 - 02:37  ( 2.78s)  [VOCAL]          Sparrows hopping on the stones
+02:37 - 02:40  ( 3.42s)  [VOCAL]          Pecking crusts beside my shoe
+02:40 - 02:43  ( 2.48s)  [VOCAL]          You push your old cap back a bit
+02:43 - 02:46  ( 3.32s)  [VOCAL]          And I lean my arm on you
+02:46 - 02:50  ( 4.20s)  [VOCAL]          Every grey hair in the sunshine
+02:50 - 02:53  ( 3.34s)  [VOCAL]          Every laugh line had to earn
+02:53 - 02:56  ( 2.36s)  [VOCAL]          We’ve got all day on our boots
+02:56 - 03:00  ( 4.02s)  [VOCAL]          And we got no place to return
+03:00 - 03:03  ( 3.42s)  [VOCAL]          Take that heavy woolen muffler off
+03:03 - 03:07  ( 3.36s)  [VOCAL]          Drape it right across the pine
+03:07 - 03:09  ( 2.82s)  [VOCAL]          Feel the warm sun on your shoulders
+03:09 - 03:13  ( 3.10s)  [VOCAL]          As you put your hand in mine
+03:13 - 03:17  ( 4.04s)  [VOCAL]          Let the fiddle take the tune now
+03:17 - 03:20  ( 3.26s)  [VOCAL]          Let the guitars start to play
+03:20 - 03:22  ( 2.44s)  [VOCAL]          There’s a whole lot of living left
+03:22 - 03:25  ( 3.18s)  [VOCAL]          Down along the dock today
+03:25 - 03:39  (13.38s)  [INSTRUMENTAL]   [Instrumental Solo / Musical Break]
+03:39 - 03:42  ( 3.42s)  [VOCAL]          Don't you leave your Sunday jacket
+03:42 - 03:46  ( 4.06s)  [VOCAL]          Hanging on the closet door
+03:46 - 03:49  ( 2.32s)  [VOCAL]          Put your bright red sweater on
+03:49 - 03:52  ( 3.16s)  [VOCAL]          And walk along the river shore
+03:52 - 03:55  ( 3.36s)  [VOCAL]          We spent too long staying home
+03:55 - 03:59  ( 4.10s)  [VOCAL]          Let the river run on by
+03:59 - 04:02  ( 2.28s)  [VOCAL]          Come on down to the jubilee
+04:02 - 04:06  ( 4.26s)  [VOCAL]          Underneath this morning sky
+04:06 - 04:10  ( 4.58s)  [VOCAL]          Down along the river shore
+04:10 - 04:19  ( 8.58s)  [VOCAL]          We spent too long staying home
+04:19 - 04:36  (17.17s)  [INSTRUMENTAL]   [Outro / Instrumental Ending]

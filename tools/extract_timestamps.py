@@ -274,6 +274,14 @@ def extract_audio_timestamps(
             if not ws:
                 matched_lines.append({"text": line, "start": None, "end": None, "duration": 0.0, "is_split": False})
                 continue
+            # Keep only the main contiguous word cluster (prevent spanning across >2.5s instrumental solos/echoes)
+            clusters = [[ws[0]]]
+            for w_i in ws[1:]:
+                if words[w_i].start - words[clusters[-1][-1]].end > 2.5:
+                    clusters.append([w_i])
+                else:
+                    clusters[-1].append(w_i)
+            ws = max(clusters, key=len)
             start_t = words[ws[0]].start
             end_t = min(words[ws[-1]].end, words[ws[-1]].start + 1.5)
             matched_lines.append({
