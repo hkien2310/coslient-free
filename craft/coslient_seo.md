@@ -59,13 +59,13 @@ coslient, a dream town, original music, stop motion, handcrafted animation, mini
 ## 3. QUY CHUẨN THUMBNAIL (3 PROMPTS POSTER TUYỂN CHỌN 1) & SHORTS
 
 ### 3.1. Bốn nguyên tắc thiết kế Thumbnail chuẩn Poster Phim Điện Ảnh (Tối ưu CTR)
-1. **Bảo toàn 100% cú pháp 4 khối của `image.txt`:** Câu lệnh Thumbnail sử dụng trọn vẹn khung câu lệnh 4 khối chuẩn và công thức nén 7 trục của [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) để giữ nguyên vẻ đẹp nhân vật stop-motion cách điệu trên nền thiên nhiên chân thực.
-2. **Thiết kế theo tầm vóc "Poster Phim Độc Bản" (`Iconic Film Poster`):** Mỗi Thumbnail là một bức Poster độc lập gói trọn linh hồn của cả tác phẩm bằng sự hội tụ của ba yếu tố: **Nhân vật stop-motion 7 trục + Hoạt động tương tác giàu sức gợi + Không gian kiến trúc/thiên nhiên khoáng đạt**, khơi dậy sự tò mò tự nhiên về câu chuyện phía sau khung hình.
-3. **Độ tương phản ánh sáng tự nhiên và điểm nhấn sắc độ:** Lựa chọn thời khắc ánh sáng tự nhiên giàu cảm xúc nhất để đặt chủ thể và trang phục vải dệt dài tay nổi bật rõ nét trên nền không gian sâu rộng, giúp hình thu nhỏ thu hút ánh nhìn ngay lập tức trên trang chủ YouTube.
-4. **Quy trình xuất 3 Prompt Poster cho mỗi Video YouTube để tuyển chọn 1 tấm xuất sắc nhất:** Mỗi video xuất bản sử dụng **1 bộ SEO thống nhất** trong `6-seo.md` kèm **3 câu lệnh tiếng Anh 4 khối hoàn chỉnh** (`--ar 16:9`) đại diện cho 3 góc tiếp cận Poster đắt giá nhất:
-   - **Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Low-Angle / High-Angle Poetic Horizon`):** Khung hình rộng hoặc trung-rộng toàn thân đặt các nhân vật stop-motion trong một hoạt động sẻ chia có mục đích thực tế trên điểm tựa địa hình cao thoáng trước đường chân trời rộng mở (Động cơ 1 & 2).
-   - **Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Golden Light & Journey`):** Khung hình toàn cảnh khai thác khoảnh khắc đồng hành của các nhân vật dưới ánh sáng vàng rực rỡ hoặc chạng vạng ấm áp giữa không gian rộng lớn (Động cơ 3 & 4).
-   - **Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium Waist-Up Soulful Connection`):** Khung hình trung cận cắt ngang thắt lưng đặt trước hậu cảnh thiên nhiên mờ dịu (`softly blurred background`), bắt trọn biểu cảm lắng đọng và cử chỉ trao-nhận tình cảm sâu sắc nhất giữa các nhân vật.
+1. **Bảo toàn 100% cú pháp trực quan 4 khối của `image.txt`:** Câu lệnh Thumbnail sử dụng trọn vẹn khung câu lệnh 4 khối trực quan và công thức nén 4 trục vật lý của [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) để giữ nguyên vẻ đẹp thế giới mô hình stop-motion thủ công đồng bộ.
+2. **Thiết kế theo tầm vóc "Poster Phim Độc Bản" (`Iconic Film Poster`):** Mỗi Thumbnail là một bức Poster độc lập gói trọn linh hồn của cả tác phẩm bằng sự hội tụ của ba yếu tố: **Nhân vật stop-motion 4 trục vật lý + Hoạt động tương tác giàu sức gợi + Không gian mô hình kiến trúc/thiên nhiên khoáng đạt**, khơi dậy sự tò mò tự nhiên về câu chuyện phía sau khung hình.
+3. **Độ tương phản ánh sáng trực quan và điểm nhấn sắc độ:** Lựa chọn thời khắc ánh sáng giàu cảm xúc nhất để đặt chủ thể và trang phục vải dệt nổi bật rõ nét trên nền không gian mô hình sâu rộng, giúp hình thu nhỏ thu hút ánh nhìn ngay lập tức trên trang chủ YouTube.
+4. **Quy trình xuất 3 Prompt Poster cho mỗi Video YouTube để tuyển chọn 1 tấm xuất sắc nhất:** Mỗi video xuất bản sử dụng **1 bộ SEO thống nhất** trong `6-seo.md` kèm **3 câu lệnh tiếng Anh 4 khối trực quan hoàn chỉnh** (`--ar 16:9`) đại diện cho 3 góc tiếp cận Poster đắt giá nhất:
+   - **Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Side-Profile / High-Angle Poetic Horizon`):** Khung hình rộng hoặc trung-rộng toàn thân đặt các nhân vật stop-motion trong một hoạt động sẻ chia có mục đích thực tế trên điểm tựa địa hình cao thoáng trước đường chân trời rộng mở (Động cơ 1 & 2).
+   - **Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Golden Light & Journey`):** Khung hình toàn cảnh khai thác khoảnh khắc đồng hành của các nhân vật dưới ánh sáng vàng rực rỡ hoặc chạng vạng ấm áp giữa không gian mô hình rộng lớn (Động cơ 3 & 4).
+   - **Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium-Wide Soulful Connection`):** Khung hình trung-rộng đặt trước hậu cảnh mô hình mờ dịu (`softly blurred background`), bắt trọn khoảnh khắc khởi đầu cử chỉ trao-nhận tình cảm sâu sắc nhất giữa các nhân vật.
 
 ### 3.2. Shorts Mở Đường (`Pre-Release Teaser Shorts`)
 - **Độ dài và điểm rơi:** Trích xuất phân đoạn 15–30 giây hội tụ câu hát điệp khúc hoặc khoảnh khắc chuyển đổi nhạc cụ đắt giá nhất cùng khung hình giàu chất thơ nhất để đăng tải dẫn luồng khán giả về video chính.
@@ -111,17 +111,17 @@ File `6-seo.md` chuẩn cho mỗi project (khi project gồm 2 bài hát ghép t
 
 ### Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Poetic Horizon`):
 ```text
-Cinematic handcrafted stop-motion animation still on a natural [điểm tựa cảnh quan cao thoáng] with real [chất liệu bề mặt và vật dụng tự nhiên] overlooking [đường chân trời rộng mở rõ nét]. Full-body wide [low-angle / high-angle] shot. Stylized handcrafted stop-motion characters of matching adult height with softly proportioned heads, calm natural facial expressions, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + tư thế khởi đầu hoạt động sẻ chia] with [Nhân vật B nén 7 trục đối lập + tư thế phối hợp]. [Nguồn sáng tự nhiên rực rỡ] --ar 16:9
+Handcrafted stop-motion miniature diorama. Wide side-profile shot on [điểm tựa địa hình cao thoáng + chất liệu bề mặt trực quan] overlooking [đường chân trời và cảnh quan mô hình phía xa]. Stop-motion figures with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A nén 4 trục vật lý + tư thế khởi đầu hoạt động sẻ chia] with [Nhân vật B nén 4 trục vật lý + tư thế phối hợp]. [Ánh sáng trực quan ấm áp] --ar 16:9
 ```
 
 ### Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Light & Journey`):
 ```text
-Cinematic handcrafted stop-motion animation still on a natural [cung đường hoặc cảnh quan rộng mở] with real [chất liệu địa hình và thiên nhiên] overlooking [hậu cảnh sâu rộng]. Full-body extreme wide high-angle panoramic shot. Stylized handcrafted stop-motion characters of balanced adult height with softly proportioned heads, calm natural facial expressions, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + tư thế khởi đầu hành trình] alongside [Nhân vật B nén 7 trục đối lập + tư thế đồng hành]. [Nguồn sáng hoàng hôn hoặc chạng vạng ấm áp] --ar 16:9
+Handcrafted stop-motion miniature diorama. Medium-wide side-profile shot along [cung đường hoặc cảnh quan mở + chất liệu bề mặt trực quan] overlooking [hậu cảnh mô hình sâu rộng]. Stop-motion figures with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A nén 4 trục vật lý + tư thế khởi đầu hành trình] alongside [Nhân vật B nén 4 trục vật lý + tư thế đồng hành]. [Ánh sáng vàng ấm hoặc chạng vạng trực quan] --ar 16:9
 ```
 
-### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium Waist-Up Soulful Connection`):
+### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium-Wide Soulful Connection`):
 ```text
-Cinematic handcrafted stop-motion animation still on a natural [không gian kiến trúc bán nội thất hoặc điểm dừng chân] with real [chất liệu tự nhiên] overlooking a softly blurred [hậu cảnh thiên nhiên]. Medium waist-up shot. Stylized handcrafted stop-motion characters with softly proportioned heads, calm natural facial expressions, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A nén 7 trục + tư thế khởi đầu cử chỉ gắn kết] with [Nhân vật B nén 7 trục đối lập + ánh nhìn điềm tĩnh ấm áp]. [Nguồn sáng tự nhiên ấm dịu] --ar 16:9
+Handcrafted stop-motion miniature diorama. Medium-wide shot inside [không gian kiến trúc bán nội thất hoặc điểm dừng chân + chất liệu đạo cụ trực quan] overlooking a softly blurred [hậu cảnh mô hình]. Stop-motion figures with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A nén 4 trục vật lý + tư thế khởi đầu cử chỉ gắn kết] with [Nhân vật B nén 4 trục vật lý + tư thế đón nhận]. [Ánh sáng ấm dịu trực quan] --ar 16:9
 ```
 
 ## 4. DESCRIPTION
