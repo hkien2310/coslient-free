@@ -47,20 +47,20 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
 
 ---
 
-## 2. Nguyên lý khung tĩnh khởi đầu hành động, ngôn ngữ cơ thể lãng tử và bốn động cơ chất ngông nghệ thuật (70/30)
+## 2. Nguyên lý khung tĩnh khởi đầu hành động, mỹ học điện ảnh và bốn động cơ chất ngông nghệ thuật (70/30)
 
-1. **Định nghĩa Chất ngông nghệ thuật (`Poetic Eccentricity & Calm Bohemian Audacity`):**
-   - **Chất ngông** là sự kết hợp giữa **gương mặt điềm nhiên, tự tại (`calm natural facial expression`)** với **một hành động có mục đích cảm xúc rõ ràng nhưng được nâng lên một nấc phiêu lãng, tự do và vượt khỏi quy ước không gian thông thường**.
-   - Nhân vật mang ngôn ngữ cơ thể phóng khoáng, thả lỏng và bất đối xứng tự nhiên ngay từ tư thế khởi đầu ở giây 0 (`t = 0s`), tạo sức hút thị giác tức thì và mở sẵn quỹ đạo cho 5 giây chuyển động tiếp theo.
+1. **Định nghĩa Chất ngông Điện ảnh (`Cinematic Poetic Paradox & Calm Bohemian Audacity`):**
+   - **Chất ngông điện ảnh** nằm ở **sự nghịch lý giàu chất thơ của không gian kiến trúc và bố cục khung hình**: đặt một hoạt động văn hóa, nghệ thuật hoặc tâm tình đời thường của con người với gương mặt điềm nhiên tự tại (`calm natural facial expression`) vào một cấu trúc không gian mở thông ra thiên nhiên hoang sơ, một điểm tựa hình học tối giản giữa đất trời, hoặc một hành trình ngược gió đầy chất lãng tử.
+   - Mỗi bức ảnh tĩnh bắt đúng tư thế khởi đầu ở giây 0 (`t = 0s`) với toàn bộ cơ thể và đôi chân đi giày đặt vững chãi trên điểm tựa (`both legs in trousers and shoes clearly resting on the surface`), kết hợp ánh sáng điện ảnh có chiều sâu tương phản ấm – lạnh hoặc ánh nắng ngược viền sáng quanh mái tóc sợi.
 2. **Phân tách hai tư thế khởi đầu bổ trợ trong cùng khung hình (`Complementary Starting Postures`):**
-   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đứng hoặc ngồi ở một tư thế khởi đầu riêng biệt, lệch tầng cao thấp tự nhiên và chuẩn bị thực hiện một thao tác phối hợp ăn ý với người kia.
-3. **Tỷ lệ 70% Đời thường phóng khoáng : 30% Điểm nhấn Chất ngông nghệ thuật:**
-   - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật sinh hoạt, chế tác thủ công, chăm sóc và trò chuyện ở những vị trí tự nhiên với tư thế thoải mái, giàu hơi thở đời sống.
-   - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Nâng hoạt động có mục đích lên tầm vóc nghệ thuật thông qua **1 trong 4 động cơ chất ngông**:
-     1. **Động cơ 1 — Điểm tựa cao phóng khoáng và cử chỉ phiêu lãng (`Elevated Bohemian Vantage`):** Đưa một hoạt động giao tiếp, thưởng thức hoặc trình diễn đời thường lên một điểm tựa kiến trúc hoặc địa hình cao tách biệt khỏi mặt đất thông thường, mở ra đường chân trời rộng lớn để nhân vật thực hiện những cử chỉ tự do như những nghệ sĩ giữa đất trời.
-     2. **Động cơ 2 — Điểm neo đơn khối giữa thiên nhiên bao la (`Monolithic Solitude in Vast Nature`):** Đặt một công trình kiến trúc duyên dáng hoặc một vật dụng nghỉ ngơi, sinh hoạt đơn khối nằm tách biệt một mình giữa không gian thiên nhiên lộ thiên rộng lớn để tạo sự đối sánh tỷ lệ tĩnh lặng và giàu chất thơ.
-     3. **Động cơ 3 — Phóng đại tỷ lệ bóng đổ và đổi công năng đạo cụ (`Giant Metaphorical Shadow & Poetic Prop Inversion`):** Dùng ánh nắng chiếu xiên góc thấp để biến bóng đổ của nhân vật và vật dụng nhỏ bé thành một hình bóng ẩn dụ khổng lồ in lên bề mặt địa hình; hoặc biến một vật dụng sinh hoạt gần gũi thành đạo cụ nghệ thuật chỉ huy nhịp điệu thiên nhiên.
-     4. **Động cơ 4 — Phương tiện hoài niệm lướt gió và tâm thế tự tại (`Wind-Swept Motion & Serene Composure`):** Đưa phương tiện di chuyển cổ điển nhỏ nhắn lướt qua địa hình thiên nhiên rộng mở với phục trang vải dệt bay theo làn gió; hoặc đặt nhân vật tận hưởng một thói quen đời thường với tâm thái điềm nhiên, tự tại giữa thiên nhiên đang chuyển động mạnh mẽ.
+   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đứng hoặc ngồi ở một tư thế khởi đầu riêng biệt, hiển thị đầy đủ toàn thân cùng đôi chân trên điểm tựa và chuẩn bị thực hiện một thao tác phối hợp ăn ý với người kia.
+3. **Tỷ lệ 70% Đời thường giàu chất thơ : 30% Điểm nhấn Chất ngông Điện ảnh:**
+   - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật sinh hoạt, chế tác thủ công, chăm sóc và trò chuyện trong những không gian kiến trúc có cửa mở thoáng nhìn ra cảnh sắc thiên nhiên, tràn ngập chiều sâu ánh sáng và hơi thở đời sống.
+   - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Kiến tạo khung hình mang tầm vóc điện ảnh nghệ thuật thông qua **1 trong 4 động cơ chất ngông**:
+     1. **Động cơ 1 — Không gian nội thất mở vách ra mép thiên nhiên hoang sơ (`Open-Walled Sanctuary at Nature's Edge`):** Đặt một không gian sinh hoạt, sáng tác hoặc chăm sóc ấm cúng có ánh đèn vàng ấm và tấm rèm vải mỏng bay trong gió mở thông trực tiếp ra vách đá, bờ biển hoặc sườn đồi mênh mông.
+     2. **Động cơ 2 — Điểm tựa hình học tối giản trước đường chân trời (`Minimalist Geometric Perch Against the Horizon`):** Đặt các nhân vật ngồi hoặc đứng toàn thân (hiển thị trọn vẹn cả hai chân và giày trên điểm tựa) trên những cấu trúc kiến trúc hoặc địa hình đơn khối tách biệt giữa thiên nhiên bao la, đối diện trực tiếp với đường chân trời rộng lớn.
+     3. **Động cơ 3 — Phương tiện cổ điển lướt gió và dải chuyển động ngang (`Iconic Vintage Craft & Horizontal Wind-Swept Motion`):** Nhân vật giữ gương mặt điềm nhiên tự tại khi điều khiển phương tiện cổ điển duyên dáng lướt dọc cung đường cảnh quan lấp lánh nắng ngược, hoặc trình diễn âm nhạc trên điểm cao giữa làn gió thổi bay căng ngang dải khăn vải dệt và mái tóc sợi.
+     4. **Động cơ 4 — Hoán vị công năng kiến trúc và giao thoa thiên nhiên (`Architectural Repurposing & Poetic Visual Metaphor`):** Chuyển hóa một cấu trúc kiến trúc hoặc phương tiện cũ nằm giữa thiên nhiên thành không gian thưởng thức văn hóa và nghệ thuật ấm áp, hoặc kết nối cử chỉ tĩnh tại của nhân vật với nhịp chuyển động của đàn chim và bóng nắng chiều kéo dài.
 
 ---
 

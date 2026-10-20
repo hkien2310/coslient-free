@@ -19,11 +19,11 @@
    - Khi khung hình có nhiều người trưởng thành, giữ chiều cao người lớn cân đối tương đương nhau (`of matching / balanced adult height`); khi có trẻ nhỏ đi cùng người lớn, xác lập chiều cao của trẻ ngang thắt lưng người lớn (`a waist-high child reaching the adult's waist`).
 3. **Mái tóc và râu dạng sợi tơ dày kín đầu (`Thick Full Soft Fibrous Hair Strands`):**
    - Mọi nhân vật đều sở hữu mái tóc và râu cấu tạo từ các sợi tơ bông mảnh tách biệt, bồng bềnh tự nhiên và phủ dày kín toàn bộ đầu (`thick full soft fibrous hair strands` / `a full head of [style and age-toned] hair strands`).
-4. **Trang phục vải dệt đời thường dài tay (`Casual Long-Sleeved Woven Fabric Clothing`):**
-   - Trang phục và phụ kiện sử dụng chất liệu vải dệt đời thường mộc mạc với thiết kế dài tay hoặc phối nhẹ hai lớp đời thường (`long-sleeved woven fabric clothing`) nhằm tạo phom dáng tự nhiên và che phủ liền mạch cánh tay.
-5. **Nguồn sáng tự nhiên và độ sâu trường ảnh theo cỡ cảnh:**
-   - Sử dụng một nguồn sáng mặt trời hoặc chạng vạng tự nhiên khớp với thời điểm trong mạch bài hát (`[natural time-of-day light]`).
-   - Điều phối độ sâu trường ảnh trực tiếp ngay trong mô tả bối cảnh: giữ hậu cảnh rõ nét ở đại cảnh và trung-rộng toàn thân (`overlooking [clear background]`); làm mờ dịu hậu cảnh (`overlooking a softly blurred [background]`) ở cảnh trung cận và cận cảnh.
+4. **Trang phục vải dệt đời thường dài tay và khóa toàn thân tới giày (`Casual Long-Sleeved Woven Attire & Grounded Footwear`):**
+   - Trang phục và phụ kiện sử dụng chất liệu vải dệt đời thường mộc mạc với thiết kế dài tay hoặc phối nhẹ hai lớp đời thường (`long-sleeved woven fabric clothing`) cùng quần dài và giày rõ nét (`trousers and leather/canvas shoes clearly resting on the surface`), tạo phom dáng tự nhiên và đảm bảo cơ thể hiển thị đầy đủ từ đầu đến mũi giày ở mọi cảnh toàn thân.
+5. **Ánh sáng điện ảnh có chiều sâu và bố cục ba lớp (`Cinematic Lighting Contrast & Layered Depth`):**
+   - Tạo chiều sâu điện ảnh bằng ánh nắng ngược lấp lánh viền sáng quanh mái tóc sợi (`warm golden backlighting with glowing rim light and glittering reflections`) hoặc tương phản giữa ánh sáng vàng ấm trong không gian kiến trúc mở với sắc xanh sâu thẳm của biển trời bên ngoài (`warm interior lamp glow contrasting with cool vast ocean light`).
+   - Điều phối độ sâu trường ảnh ba lớp (tiền cảnh dịu nét, trung cảnh sắc nét vào chủ thể, hậu cảnh mở rộng hoặc bokeh mềm mại) trực tiếp trong câu lệnh.
 
 ---
 
