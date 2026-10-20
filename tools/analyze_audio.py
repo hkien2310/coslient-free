@@ -175,67 +175,111 @@ def analyze_file(target: Path) -> dict:
     }
 
 
-def download_yt_audio(yt_url: str, vid_id: str, out_dir: Path) -> tuple[Path, dict]:
-    out_dir.mkdir(parents=True, exist_ok=True)
-    meta_path = out_dir / f"{vid_id}_meta.json"
-    existing = [f for f in out_dir.glob(f"{vid_id}*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
+def slugify(text: str, max_len: int = 60) -> str:
+    s = re.sub(r"[^\w\s-]", "", text.lower(), flags=re.UNICODE)
+    s = re.sub(r"[-\s]+", "-", s).strip("-")
+    return s[:max_len].strip("-") or "untitled"
+
+
+def write_seo_md(folder: Path, meta: dict) -> Path:
+    seo_path = folder / "seo.md"
+    lines = [
+        f"# {meta.get('title', 'Untitled')}",
+        "",
+        f"- **URL:** {meta.get('url', '')}",
+        f"- **Video ID:** `{meta.get('video_id', '')}`",
+        f"- **Kênh:** {meta.get('channel', '')} ({meta.get('channel_follower_count') or 'N/A'} subscribers)",
+        f"- **Views:** {meta.get('view_count') or 0:,}",
+        f"- **Likes:** {meta.get('like_count') or 0:,}",
+        f"- **Comments:** {meta.get('comment_count') or 0:,}",
+        f"- **Ngày đăng:** {meta.get('upload_date', '')}",
+        f"- **Tags:** {', '.join(meta.get('tags') or [])}",
+        "",
+        "## Mô tả (Description)",
+        "```text",
+        (meta.get("description") or "").strip(),
+        "```",
+        "",
+        "## Top Comments",
+    ]
+    for c in meta.get("top_comments") or []:
+        lines.append(f"- **{c.get('author', '')}** ({c.get('likes', 0)} likes): {c.get('text', '')}")
+    seo_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return seo_path
+
+
+def download_yt_audio(yt_url: str, vid_id: str, base_out_dir: Path) -> tuple[Path, dict]:
+    base_out_dir.mkdir(parents=True, exist_ok=True)
     ytdlp_cmd = ["yt-dlp"] if shutil.which("yt-dlp") else ["uvx", "yt-dlp"]
 
-    meta = {}
-    if meta_path.exists():
+    # Check if already downloaded in any channel/video subfolder via video_id marker
+    for existing_meta in base_out_dir.rglob("seo_meta.json"):
         try:
-            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+            m = json.loads(existing_meta.read_text(encoding="utf-8"))
+            if m.get("video_id") == vid_id:
+                v_dir = existing_meta.parent
+                aud = [f for f in v_dir.glob("audio.*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
+                if aud:
+                    return aud[0], m
         except Exception:
             pass
 
-    if not existing or not meta:
-        proc = subprocess.run(
-            ytdlp_cmd + [
-                "--dump-single-json",
-                "--no-playlist",
-                "--write-comments",
-                "--extractor-args", "youtube:max_comments=15,15,0,0;comment_sort=top",
-                yt_url,
-            ],
-            capture_output=True, text=True, check=False
-        )
-        if proc.returncode == 0 and proc.stdout.strip():
-            raw = json.loads(proc.stdout.splitlines()[-1])
-            raw_comments = raw.get("comments") or []
-            top_comments = [
-                {
-                    "author": c.get("author", ""),
-                    "likes": c.get("like_count", 0),
-                    "text": (c.get("text") or "").strip(),
-                }
-                for c in sorted(raw_comments, key=lambda x: x.get("like_count") or 0, reverse=True)[:12]
-                if (c.get("text") or "").strip()
-            ]
-            meta = {
-                "video_id": vid_id,
-                "url": f"https://www.youtube.com/watch?v={vid_id}",
-                "title": raw.get("title", ""),
-                "channel": raw.get("uploader") or raw.get("channel", ""),
-                "channel_follower_count": raw.get("channel_follower_count"),
-                "view_count": raw.get("view_count"),
-                "like_count": raw.get("like_count"),
-                "comment_count": raw.get("comment_count"),
-                "upload_date": raw.get("upload_date"),
-                "description": (raw.get("description") or "")[:1500],
-                "tags": (raw.get("tags") or [])[:25],
-                "top_comments": top_comments,
+    proc = subprocess.run(
+        ytdlp_cmd + [
+            "--dump-single-json",
+            "--no-playlist",
+            "--write-comments",
+            "--extractor-args", "youtube:max_comments=15,15,0,0;comment_sort=top",
+            yt_url,
+        ],
+        capture_output=True, text=True, check=False
+    )
+    meta = {"video_id": vid_id, "url": f"https://www.youtube.com/watch?v={vid_id}"}
+    if proc.returncode == 0 and proc.stdout.strip():
+        raw = json.loads(proc.stdout.splitlines()[-1])
+        raw_comments = raw.get("comments") or []
+        top_comments = [
+            {
+                "author": c.get("author", ""),
+                "likes": c.get("like_count", 0),
+                "text": (c.get("text") or "").strip(),
             }
-            meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+            for c in sorted(raw_comments, key=lambda x: x.get("like_count") or 0, reverse=True)[:12]
+            if (c.get("text") or "").strip()
+        ]
+        meta = {
+            "video_id": vid_id,
+            "url": f"https://www.youtube.com/watch?v={vid_id}",
+            "title": raw.get("title", vid_id),
+            "channel": raw.get("uploader") or raw.get("channel") or "unknown-channel",
+            "channel_follower_count": raw.get("channel_follower_count"),
+            "view_count": raw.get("view_count"),
+            "like_count": raw.get("like_count"),
+            "comment_count": raw.get("comment_count"),
+            "upload_date": raw.get("upload_date"),
+            "description": (raw.get("description") or "")[:1500],
+            "tags": (raw.get("tags") or [])[:25],
+            "top_comments": top_comments,
+        }
 
+    channel_slug = slugify(meta.get("channel") or "unknown-channel", max_len=40)
+    video_slug = slugify(meta.get("title") or vid_id, max_len=65)
+    video_dir = base_out_dir / channel_slug / video_slug
+    video_dir.mkdir(parents=True, exist_ok=True)
+
+    (video_dir / "seo_meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_seo_md(video_dir, meta)
+
+    existing = [f for f in video_dir.glob("audio.*") if f.suffix.lower() in AUDIO_EXTS and not f.stem.endswith("_listen")]
     if existing:
         return existing[0], meta
 
-    out_tmpl = str(out_dir / f"{vid_id}.%(ext)s")
+    out_tmpl = str(video_dir / "audio.%(ext)s")
     subprocess.run(
         ytdlp_cmd + ["--no-playlist", "-f", "bestaudio[ext=m4a]/bestaudio", "-o", out_tmpl, yt_url],
         stdout=subprocess.DEVNULL, check=True
     )
-    downloaded = [f for f in out_dir.glob(f"{vid_id}.*") if f.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS)]
+    downloaded = [f for f in video_dir.glob("audio.*") if f.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS)]
     if not downloaded:
         raise FileNotFoundError(f"Không tải được audio cho {yt_url}")
     return downloaded[0], meta
@@ -319,8 +363,12 @@ if __name__ == "__main__":
     all_reports = []
     for target_file, yt_meta in targets:
         rep = analyze_file(target_file)
+        rep["folder"] = str(target_file.parent)
         if yt_meta:
             rep["youtube_meta"] = yt_meta
+        (target_file.parent / "dsp.json").write_text(
+            json.dumps(rep, indent=2, ensure_ascii=False), encoding="utf-8"
+        )
         all_reports.append(rep)
     output = all_reports[0] if len(all_reports) == 1 else {"count": len(all_reports), "tracks": all_reports}
     print(json.dumps(output, indent=2, ensure_ascii=False))

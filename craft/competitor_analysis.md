@@ -16,21 +16,27 @@
 - Hỗ trợ 2 chế độ: **Chế độ Chỉ Phân tích Nhạc Hàng loạt (Multi-Link Audio Batch — mặc định khi ném nhiều link nhạc)** và **Chế độ Giải phẫu Toàn diện cả Nhạc & MV**.
 
 ### 1.2. Các bước AI tự động thực thi
-1. **Lưu dữ liệu đầu vào:** Tạo thư mục `projects/XXX/doi-thu/` và lưu danh sách link (kèm thông tin SEO/Comments nếu có) vào `projects/XXX/doi-thu/links.txt` (hoặc `seo.md`).
-2. **Tự động tải Audio & Đo thông số kỹ thuật DSP hàng loạt (Bắt buộc cho mọi link/file nhạc):**
+1. **Tự động tải Audio, SEO & Phân chia Thư mục theo Kênh / Video (`analyze_audio.py`):**
    ```bash
-   python3 tools/analyze_audio.py projects/XXX/doi-thu
+   python3 tools/analyze_audio.py <url1> <url2> ... --out-dir projects/XXX/doi-thu
    ```
-   - Script tự động quét toàn bộ link YouTube trong thư mục (hoặc nhận danh sách link truyền thẳng qua CLI `python3 tools/analyze_audio.py <url1> <url2> --out-dir projects/XXX/doi-thu`), tải luồng audio nhẹ kèm metadata (`title`, `channel`, `view_count`, `like_count`) và xuất báo cáo JSON tổng hợp cho tất cả các bài: `Duration`, `BPM` (`Half-time BPM`, `Beat Stability`), `Key & Scale`, `Crest Factor (Dynamic Range)`, `Tỷ lệ năng lượng 6 dải tần số`, `Energy Sections` và file `*_listen.mp3`.
-3. **Tách cảnh & Cắt lưới hình ảnh 4K (Chỉ chạy khi người dùng yêu cầu phân tích cả hình ảnh/chuyển động MV):**
+   - Script tự động lấy metadata từ YouTube và tạo cấu trúc thư mục chuẩn theo **Kênh $\rightarrow$ Tên Video**:
+     ```text
+     projects/XXX/doi-thu/
+     └── <ten-kenh-slug>/
+         └── <ten-video-slug>/
+             ├── audio.m4a            (File âm thanh gốc tải về)
+             ├── audio_listen.mp3     (File âm thanh nhẹ để AI nghe trực tiếp)
+             ├── seo.md               (Tiêu đề, sub, views, likes, tags, mô tả & top comments)
+             ├── dsp.json             (Thông số kỹ thuật âm thanh tự động từ librosa)
+             └── phan-tich.md         (Báo cáo giải phẫu chi tiết của video đó)
+     ```
+2. **Tách cảnh & Cắt lưới hình ảnh 4K (Chỉ chạy khi người dùng yêu cầu phân tích cả hình ảnh/chuyển động MV):**
    ```bash
-   python3 tools/analyze_motion.py projects/XXX/doi-thu
+   python3 tools/analyze_motion.py projects/XXX/doi-thu/<ten-kenh-slug>/<ten-video-slug>
    ```
-   - Xuất bộ **4K Shot Sheets** (`projects/XXX/doi-thu/shot_sheets/shots_*.jpg` — lưới `3x3 @ 1280x720`) và **4K Motion Grids** (`projects/XXX/doi-thu/grids/grid_*.jpg` — lưới `6x10 @ 4 FPS`) cùng `motion_metadata.json`.
-4. **Nghe trực tiếp & So sánh mẫu số chung (Khi phân tích nhiều bài nhạc):**
-   - Dùng công cụ đọc file mở trực tiếp các file `*_listen.mp3` để nghe màu giọng, cách nhả chữ, nhạc cụ dẫn dắt, vòng hòa thanh, cấu trúc câu Hook và khoảng thở solo; lập bảng so sánh ngang giữa các bài để tìm **Mẫu số chung ăn đề xuất (Viral Audio Denominator)**.
-5. **Xuất Báo cáo Giải phẫu (`projects/XXX/doi-thu/phan-tich.md` hoặc `projects/XXX/phan-tich.md`):**
-   - Tổng hợp kết quả (bỏ qua Tầng 3 nếu chỉ phân tích nhạc) và rút ra phương án chuyển hóa sang bản sắc Folk của kênh.
+3. **Nghe trực tiếp & Xuất Báo cáo Giải phẫu (`phan-tich.md`):**
+   - Dùng công cụ đọc file mở trực tiếp `audio_listen.mp3` của từng video để nghe màu giọng, cách nhả chữ, nhạc cụ dẫn dắt, vòng hòa thanh, cấu trúc câu Hook và khoảng thở solo; ghi báo cáo chi tiết vào `phan-tich.md` ngay trong thư mục của video đó (và lập bảng so sánh tổng hợp khi chạy nhiều video cùng lúc).
 
 ---
 
