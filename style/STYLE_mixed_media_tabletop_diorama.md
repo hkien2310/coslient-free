@@ -1,7 +1,7 @@
 # Handcrafted Stop-Motion Style (`character.md` & `image.txt`)
 
 > 🔒 **GHI CHÚ CỐ ĐỊNH — CHỨC NĂNG FILE & QUY TẮC BẤT BIẾN (TUYỆT ĐỐI KHÔNG CHỈNH SỬA / XÓA MỤC NÀY):**
-> - **Chức năng duy nhất của file:** Định nghĩa nguyên lý tách bạch chất liệu stop-motion (môi trường tự nhiên chân thực, nhân vật cách điệu da giấy bồi mờ, tóc sợi tơ dày và trang phục vải dệt), ma trận nén 7 trục đa dạng hóa nhân vật, trọng tâm tương tác nhân-quả và **khung câu lệnh 4 khối tiếng Anh chuẩn** để viết `character.md` cũng như biên dịch `storyboard.md` sang `image.txt`. Nghệ thuật đạo diễn kịch bản `storyboard.md`, tỷ lệ 70/30, bố cục không gian và ma trận góc máy nằm độc lập tại [`craft/visual_craft.md`](../craft/visual_craft.md).
+> - **Chức năng duy nhất của file:** Định nghĩa nguyên lý tách bạch chất liệu stop-motion (môi trường tự nhiên chân thực, nhân vật cách điệu da giấy bồi mờ mịn, tóc sợi tơ dày và trang phục vải dệt đời thường dài tay), ma trận nén 7 trục đa dạng hóa nhân vật, trọng tâm tương tác nhân-quả và **khung câu lệnh 4 khối tiếng Anh chuẩn** để viết `character.md` cũng như biên dịch `storyboard.md` sang `image.txt`. Nghệ thuật đạo diễn kịch bản `storyboard.md`, tỷ lệ 70/30, bố cục không gian và ma trận góc máy nằm độc lập tại [`craft/visual_craft.md`](../craft/visual_craft.md).
 > - **Quy tắc chỉnh sửa tài liệu này:**
 >   1. Không liệt kê lẻ tẻ sự vật sự kiện.
 >   2. Không dùng phủ định.
@@ -12,36 +12,36 @@
 ## 1. Nguyên lý tách bạch 4 lớp chất liệu và ánh sáng tự nhiên
 
 1. **Môi trường tự nhiên và vật dụng đời thực (`Natural Environment & Real Materials`):**
-   - Toàn bộ cảnh quan, kiến trúc, thảm thực vật, mặt nước và vật dụng sinh hoạt được mô tả bằng chất liệu tự nhiên chân thực (`Cinematic handcrafted stop-motion animation still on a natural [setting] with real [wood, stone, ceramic, water, and foliage]`).
+   - Toàn bộ cảnh quan, kiến trúc, thảm thực vật, mặt nước và vật dụng sinh hoạt được mô tả bằng chất liệu tự nhiên chân thực (`Cinematic handcrafted stop-motion animation still on a natural [setting] with real [natural surface and prop materials]`).
    - Vật dụng và nội thất giữ đúng kích thước công năng người lớn và đặt tại vị trí sử dụng thực tế trong không gian sống đương đại.
 2. **Tỷ lệ nhân vật cách điệu và làn da giấy bồi đúc mờ mịn (`Whimsical Stylized Proportions & Smooth Matte Paper-Pulp Skin`):**
    - Nhân vật mang tỷ lệ hoạt hình stop-motion cách điệu duyên dáng với phần đầu hơi lớn giàu biểu cảm và làn da giấy bồi đúc thủ công mờ mịn tông ấm (`Whimsical stylized stop-motion characters with slightly oversized expressive heads and smooth warm hand-molded matte paper-pulp skin`).
    - Khi khung hình có nhiều người trưởng thành, giữ chiều cao người lớn cân đối tương đương nhau (`of matching / balanced adult height`); khi có trẻ nhỏ đi cùng người lớn, xác lập chiều cao của trẻ ngang thắt lưng người lớn (`a waist-high child reaching the adult's waist`).
 3. **Mái tóc và râu dạng sợi tơ dày kín đầu (`Thick Full Soft Fibrous Hair Strands`):**
-   - Mọi nhân vật đều sở hữu mái tóc (và râu đối với nam giới có râu) cấu tạo từ các sợi tơ bông mảnh tách biệt, bồng bềnh tự nhiên và phủ dày kín toàn bộ đầu (`thick full soft fibrous hair strands` / `a full head of [style] hair strands`).
+   - Mọi nhân vật đều sở hữu mái tóc và râu cấu tạo từ các sợi tơ bông mảnh tách biệt, bồng bềnh tự nhiên và phủ dày kín toàn bộ đầu (`thick full soft fibrous hair strands` / `a full head of [style and age-toned] hair strands`).
 4. **Trang phục vải dệt đời thường dài tay (`Casual Long-Sleeved Woven Fabric Clothing`):**
-   - Trang phục và mũ phụ kiện sử dụng chất liệu vải dệt đời thường gần gũi (`long-sleeved woven linen, cotton, corduroy, canvas, and chambray fabric clothing`), ưu tiên áo dài tay hoặc phối nhẹ hai lớp đời thường (`shirt-jacket, overshirt, corduroy vest, cotton coat, neck scarf`) để tạo phom dáng tự nhiên và che phủ liền mạch cánh tay.
+   - Trang phục và phụ kiện sử dụng chất liệu vải dệt đời thường mộc mạc với thiết kế dài tay hoặc phối nhẹ hai lớp đời thường (`long-sleeved woven fabric clothing`) nhằm tạo phom dáng tự nhiên và che phủ liền mạch cánh tay.
 5. **Nguồn sáng tự nhiên và độ sâu trường ảnh theo cỡ cảnh:**
-   - Sử dụng một nguồn sáng tự nhiên khớp với thời điểm trong mạch bài hát (`Soft morning sunlight`, `Warm afternoon sunlight`, `Golden sunset light`, `Warm twilight glow`).
-   - Điều phối độ sâu trường ảnh trực tiếp ngay trong mô tả bối cảnh: giữ hậu cảnh rõ nét ở đại cảnh và trung-rộng toàn thân; làm mờ dịu hậu cảnh (`overlooking a softly blurred [background]`) ở cảnh trung cận và cận cảnh.
+   - Sử dụng một nguồn sáng mặt trời hoặc chạng vạng tự nhiên khớp với thời điểm trong mạch bài hát (`[natural time-of-day light]`).
+   - Điều phối độ sâu trường ảnh trực tiếp ngay trong mô tả bối cảnh: giữ hậu cảnh rõ nét ở đại cảnh và trung-rộng toàn thân (`overlooking [clear background]`); làm mờ dịu hậu cảnh (`overlooking a softly blurred [background]`) ở cảnh trung cận và cận cảnh.
 
 ---
 
 ## 2. Ma trận nén 7 trục đa dạng hóa nhân vật và tương tác nhân-quả
 
 1. **Công thức nén 7 trục nhận diện bằng từ ghép ngắn (`7-Axis Micro-Token Diversity`):**
-   - Mỗi nhân vật được định danh gói gọn trong `15–20 từ` bằng cách kết hợp 7 trục từ ghép 1–2 từ, đảm bảo mỗi cá thể trong cùng khung hình và xuyên suốt toàn bài đều mang diện mạo độc bản:
-     - **Trục 1 — Khung dáng (`Body Frame`):** Xoay vòng giữa các khung xương người lớn cân đối (`lean-framed`, `broad-shouldered`, `sturdy`, `tall poised`, `graceful`).
-     - **Trục 2 — Khối mặt (`Face Shape`):** Xoay vòng các hình khối gương mặt điêu khắc (`long-faced`, `square-jawed`, `round-cheeked`, `oval-faced`, `high-cheekboned`).
-     - **Trục 3 — Nét ngũ quan đặc trưng (`Facial Feature`):** Xoay vòng điểm nhấn trên mũi, má và chân mày (`prominent-nosed`, `button-nosed`, `bushy-browed`, `dimpled`, `freckled`).
-     - **Trục 4 — Thần thái ánh mắt (`Eye Gaze`):** Xoay vòng sắc thái ánh nhìn ấm áp có hồn (`kind-eyed`, `twinkling-eyed`, `calm-eyed`, `bright-eyed`, `warm-eyed`).
-     - **Trục 5 — Râu, kính và mũ vải (`Facial Hair, Eyewear & Headwear`):** Xoay vòng giữa gương mặt nhẵn râu, các kiểu ria/râu sợi mềm, kính gọng mảnh và mũ vải (`clean-shaven`, `soft mustache`, `neat trimmed beard`, `full soft beard`, `round wire spectacles`, `tortoiseshell glasses`, `cotton flat cap`, `canvas cap`, `corduroy cap`, `cotton sunhat`).
-     - **Trục 6 — Kiểu tóc sợi dày và màu tóc theo độ tuổi (`Hair Style & Age Color`):** Kết hợp kiểu tóc đa dạng (`swept-back wavy`, `curly`, `tousled`, `side-parted`, `braided`, `high bun`, `flowing wavy`) với sắc tóc sợi phân biệt rõ thế hệ (`silver / snow-white / salt-and-pepper` cho cao niên; `auburn / chestnut with silver temples` cho trung niên; `warm chestnut / honey-brown / raven` cho thanh niên và trẻ nhỏ).
-     - **Trục 7 — Trang phục vải dệt đời thường dài tay (`Casual Long-Sleeved Woven Attire`):** Phối hợp trang phục vải dệt đời thường dài tay hoặc hai lớp nhẹ hài hòa với bối cảnh và phụ kiện vải/da mộc (`long-sleeved linen shirt-jacket`, `canvas coat over a cotton shirt`, `long-sleeved cotton shirt and corduroy vest`, `long-sleeved chambray shirt and canvas apron`, `long-sleeved cotton dress and linen vest`, `cotton neck scarf`, `suspenders`).
+   - Mỗi nhân vật được định danh gói gọn trong `15–20 từ` bằng cách kết hợp 7 trục từ ghép ngắn (1–2 từ mỗi trục), đảm bảo mỗi cá thể trong cùng khung hình và xuyên suốt toàn bài đều mang diện mạo độc bản:
+     - **Trục 1 — Khung dáng (`Body Frame`):** Xoay vòng giữa các cấu trúc khung xương người lớn cân đối.
+     - **Trục 2 — Khối mặt (`Face Shape`):** Xoay vòng các hình khối gương mặt điêu khắc.
+     - **Trục 3 — Nét ngũ quan đặc trưng (`Facial Feature`):** Xoay vòng điểm nhấn tạo hình trên sống mũi, gò má và chân mày.
+     - **Trục 4 — Thần thái ánh mắt (`Eye Gaze`):** Xoay vòng sắc thái ánh nhìn ấm áp và biểu cảm có hồn.
+     - **Trục 5 — Râu, kính và mũ vải (`Facial Hair, Eyewear & Headwear`):** Xoay vòng giữa độ nhẵn gương mặt, kiểu râu sợi mềm, gọng kính mảnh và mũ vải dệt.
+     - **Trục 6 — Kiểu tóc sợi dày và màu tóc theo độ tuổi (`Hair Style & Age Color`):** Kết hợp cấu trúc kiểu tóc sợi dày kín đầu với sắc độ màu tóc phân biệt rõ thế hệ từ trẻ nhỏ, thanh niên, trung niên đến cao niên.
+     - **Trục 7 — Trang phục vải dệt đời thường dài tay (`Casual Long-Sleeved Woven Attire`):** Phối hợp trang phục vải dệt đời thường dài tay hoặc hai lớp nhẹ cùng tông màu hài hòa với bối cảnh.
 2. **Nguyên tắc đảo chéo đối lập khi có từ 2 nhân vật trong cùng khung hình (`Contrastive Pairing`):**
-   - Khi hai nhân vật xuất hiện chung trong một cảnh, thiết lập sự đối lập trực diện trên cả khung dáng, khối mặt, kiểu tóc/râu và phụ kiện để tạo sự tương phản thị giác sinh động ở cùng tỷ lệ chiều cao người lớn.
+   - Khi hai nhân vật xuất hiện chung trong một cảnh, thiết lập sự đối lập trực diện trên cả khung dáng, khối mặt, kiểu tóc/râu và trang phục để tạo sự tương phản thị giác sinh động ở cùng tỷ lệ chiều cao người lớn.
 3. **Trọng tâm hoạt động thực và tương tác nhân-quả (`Purposeful Activity & Action-Reaction Core`):**
-   - Đặt trọng tâm câu lệnh vào việc mô tả trực tiếp hoạt động sống có mục đích thực tế và mối liên hệ nhân-quả giữa các nhân vật: hành động chuẩn bị, trao tặng, dẫn đường hoặc trò chuyện của người thứ nhất luôn gắn liền với cử chỉ đón nhận, ánh nhìn hoặc hành động hưởng ứng của người thứ hai.
+   - Đặt trọng tâm câu lệnh vào việc mô tả trực tiếp hoạt động sống có mục đích thực tế và mối liên hệ nhân-quả giữa các nhân vật: hành động khởi xướng của người thứ nhất luôn gắn liền với cử chỉ đón nhận, ánh nhìn hoặc hành động hưởng ứng của người thứ hai.
 
 ---
 
@@ -57,9 +57,9 @@
   2. Giữ cố định khung dáng và khối mặt nhận diện của `@Tên_nhân_vật`; linh hoạt biến chuyển biểu cảm ánh mắt, cử chỉ và trang phục theo diễn biến thực tế của từng cảnh.
 
 1. **@[Tên_1]** ([Vai trò & độ tuổi bằng tiếng Việt]):
-   - **Character Prompt:** `Cinematic handcrafted stop-motion animation still on a natural sunlit studio backdrop. Full-body character reference portrait from head to shoes of a whimsical stylized stop-motion character with a slightly oversized expressive head, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: a [Trục 1: Frame], [Trục 2: Face Shape], [Trục 3: Feature] [man/woman] with [Trục 4: Gaze], [Trục 5: Facial Hair / Eyewear / Headwear], and a full head of [Trục 6: Kiểu tóc + màu tóc sợi theo độ tuổi] hair strands in a [Trục 7: Trang phục vải dệt đời thường dài tay từ đầu đến giày], standing in a natural welcoming posture. Soft morning sunlight, no text --ar 16:9`
+   - **Character Prompt:** `Cinematic handcrafted stop-motion animation still on a natural sunlit studio backdrop. Full-body character reference portrait from head to shoes of a whimsical stylized stop-motion character with a slightly oversized expressive head, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: a [Trục 1: Body Frame], [Trục 2: Face Shape], [Trục 3: Facial Feature] [man/woman] with [Trục 4: Eye Gaze], [Trục 5: Facial Hair / Eyewear / Headwear], and a full head of [Trục 6: Hair Style & Age Color] hair strands in a [Trục 7: Casual Long-Sleeved Woven Attire], standing in a natural welcoming posture. [Natural time-of-day sunlight] --ar 16:9`
 2. **@[Tên_Trẻ_Nhỏ]** *(khi câu chuyện có nhân vật trẻ nhỏ)*:
-   - **Character Prompt:** `Cinematic handcrafted stop-motion animation still on a natural sunlit studio backdrop. Full-body character reference portrait from head to shoes of a whimsical stylized waist-high stop-motion child with a slightly oversized expressive head, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: a cheerful, round-cheeked, button-nosed [boy/girl] with bright eyes and a full head of [kiểu tóc + màu tóc sợi] hair strands in [trang phục vải dệt đời thường dài tay từ đầu đến giày]. Soft morning sunlight, no text --ar 16:9`
+   - **Character Prompt:** `Cinematic handcrafted stop-motion animation still on a natural sunlit studio backdrop. Full-body character reference portrait from head to shoes of a whimsical stylized waist-high stop-motion child with a slightly oversized expressive head, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: a [Trục 1: Child Frame], [Trục 2: Face Shape], [Trục 3: Facial Feature] [boy/girl] with [Trục 4: Eye Gaze] and a full head of [Trục 6: Hair Style & Color] hair strands in [Trục 7: Casual Long-Sleeved Woven Attire]. [Natural time-of-day sunlight] --ar 16:9`
 
 ---
 # Trường hợp B - Chế độ 2 (Ý niệm / Đa diện - 100% Lát cắt độc lập):
@@ -71,8 +71,8 @@
 
 ```text
 # 1. Cảnh có người (Áp dụng cho cả Chế độ 1 và Chế độ 2):
-Cinematic handcrafted stop-motion animation still on a natural [bối cảnh cụ thể] with real [chất liệu tự nhiên của bối cảnh và đồ vật: wood, stone, ceramic, water, foliage] overlooking [hậu cảnh rõ nét ở cảnh rộng | a softly blurred [hậu cảnh] ở cảnh trung/cận]. [Wide low-angle shot | Extreme wide high-angle panoramic shot | Medium-wide side-profile shot | Medium waist-up shot | Close-up shot]. Whimsical stylized stop-motion character(s) [of matching / balanced adult height khi có từ 2 người lớn] with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A (gọi @Tên_nhân_vật hoặc nén 7 trục: Frame, Face, Feature, Gaze, Detail, Fibrous Hair, Casual Long-Sleeved Woven Attire) + hành động thực tế có mục đích] [with/to Nhân vật B (nén 7 trục đối lập với A) + hành động tương tác nhân-quả đáp lại]. [Soft morning sunlight | Warm afternoon sunlight | Golden sunset light | Warm twilight glow], no text --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [bối cảnh cụ thể] with real [chất liệu bề mặt và vật dụng tự nhiên] overlooking [hậu cảnh rõ nét ở cảnh rộng | a softly blurred [hậu cảnh] ở cảnh trung/cận]. [Cỡ cảnh + Độ cao trục dọc + Hướng góc máy]. Whimsical stylized stop-motion character(s) [of matching / balanced adult height khi có từ 2 người lớn] with slightly oversized expressive heads, smooth warm hand-molded matte paper-pulp skin, thick full soft fibrous hair strands, and long-sleeved woven fabric clothing: [Nhân vật A (gọi @Tên_nhân_vật hoặc nén 7 trục: Frame, Face, Feature, Gaze, Detail, Fibrous Hair, Casual Long-Sleeved Woven Attire) + hoạt động thực tế có mục đích] [with/to Nhân vật B (nén 7 trục đối lập với A) + hành động tương tác nhân-quả đáp lại]. [Nguồn sáng tự nhiên theo thời điểm] --ar 16:9
 
 # 2. Cảnh cận cảnh tĩnh vật (Still-life close-up B-roll):
-Cinematic handcrafted stop-motion animation still on a natural [bề mặt gỗ/đá tại bối cảnh] overlooking a softly blurred [hậu cảnh thoáng mở]. Close-up [low-angle / high-angle / eye-level] shot of [1 vật dụng đời thực có mục đích sử dụng rõ ràng đặt tại vị trí công năng tự nhiên]. [Soft morning sunlight | Warm afternoon sunlight | Golden sunset light | Warm twilight glow], no text --ar 16:9
+Cinematic handcrafted stop-motion animation still on a natural [bề mặt tự nhiên tại bối cảnh] overlooking a softly blurred [hậu cảnh thoáng mở]. Close-up [độ cao trục dọc + hướng góc máy] shot of [1 vật dụng đời thực có mục đích sử dụng rõ ràng đặt tại vị trí công năng tự nhiên]. [Nguồn sáng tự nhiên theo thời điểm] --ar 16:9
 ```
