@@ -12,17 +12,17 @@
 ## 1. Đầu Vào & Quy Trình Thực Thi Tự Động 100%
 
 ### 1.1. Đầu vào từ Người dùng
-- Người dùng cung cấp **1 hoặc nhiều Link YouTube** (dán trực tiếp vào chat hoặc lưu trong file `.md`/`.txt`) hoặc bỏ các file nhạc/video viral (`.mp3`, `.wav`, `.m4a`, `.mp4`) vào `projects/XXX/doi-thu/`.
+- Người dùng cung cấp **1 hoặc nhiều Link YouTube** (dán trực tiếp vào chat hoặc lưu trong file `.md`/`.txt`) hoặc bỏ các file nhạc/video viral (`.mp3`, `.wav`, `.m4a`, `.mp4`) vào `ref/doi-thu/`.
 - Hỗ trợ 2 chế độ: **Chế độ Chỉ Phân tích Nhạc Hàng loạt (Multi-Link Audio Batch — mặc định khi ném nhiều link nhạc)** và **Chế độ Giải phẫu Toàn diện cả Nhạc & MV**.
 
 ### 1.2. Các bước AI tự động thực thi
 1. **Tự động tải Audio, SEO & Phân chia Thư mục theo Kênh / Video (`analyze_audio.py`):**
    ```bash
-   python3 tools/analyze_audio.py <url1> <url2> ... --out-dir projects/XXX/doi-thu
+   python3 tools/analyze_audio.py <url1> <url2> ... --out-dir ref/doi-thu
    ```
    - Script tự động lấy metadata từ YouTube và tạo cấu trúc thư mục chuẩn theo **Kênh $\rightarrow$ Tên Video $\rightarrow$ `raw/`**:
      ```text
-     projects/XXX/doi-thu/
+     ref/doi-thu/
      └── <ten-kenh-slug>/
          └── <ten-video-slug>/
              ├── phan-tich.md               (Bản phân tích tổng hợp bằng AI dựa trên bộ dữ liệu raw)
@@ -33,7 +33,7 @@
      ```
 2. **Tách cảnh & Cắt lưới hình ảnh 4K (Chỉ chạy khi người dùng yêu cầu phân tích cả hình ảnh/chuyển động MV):**
    ```bash
-   python3 tools/analyze_motion.py projects/XXX/doi-thu/<ten-kenh-slug>/<ten-video-slug>
+   python3 tools/analyze_motion.py ref/doi-thu/<ten-kenh-slug>/<ten-video-slug>
    ```
 3. **Đọc chéo Cả 3 Nguồn Input & Xuất Báo cáo Giải phẫu Phản biện (`phan-tich.md`):**
    - Bắt buộc dùng công cụ `read_file` đọc đồng thời **cả 3 nguồn trong `raw/`**: (1) `raw/seo.md`, (2) `raw/audio_technical.md`, và (3) **nghe trực tiếp `raw/audio_listen.mp3`**.

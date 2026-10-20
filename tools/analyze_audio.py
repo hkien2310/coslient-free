@@ -411,7 +411,7 @@ YT_REGEX = re.compile(r"https?://(?:www\.)?(?:youtube\.com/watch\?v=|youtu\.be/|
 
 
 def resolve_inputs(args: list[str]) -> list[tuple[Path, dict]]:
-    out_dir = Path("projects/025/doi-thu")
+    out_dir = Path("ref/doi-thu")
     raw_items = []
     i = 0
     while i < len(args):
