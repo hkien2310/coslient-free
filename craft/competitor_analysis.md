@@ -35,28 +35,28 @@
    ```bash
    python3 tools/analyze_motion.py projects/XXX/doi-thu/<ten-kenh-slug>/<ten-video-slug>
    ```
-3. **Nghe trực tiếp & Xuất Báo cáo Giải phẫu (`phan-tich.md`):**
-   - Dùng công cụ đọc file mở trực tiếp `audio_listen.mp3` của từng video để nghe màu giọng, cách nhả chữ, nhạc cụ dẫn dắt, vòng hòa thanh, cấu trúc câu Hook và khoảng thở solo; ghi báo cáo chi tiết vào `phan-tich.md` ngay trong thư mục của video đó (và lập bảng so sánh tổng hợp khi chạy nhiều video cùng lúc).
+3. **Đọc chéo Cả 3 Nguồn Input & Xuất Báo cáo Giải phẫu Phản biện (`phan-tich.md`):**
+   - Bắt buộc dùng công cụ `read_file` đọc đồng thời **cả 3 nguồn trong `raw/`**: (1) `raw/seo.md`, (2) `raw/audio_technical.md`, và (3) **nghe trực tiếp `raw/audio_listen.mp3`**.
+   - Tổng hợp chéo dữ liệu kỹ thuật với âm thanh nghe thực tế và tâm lý khán giả trong bình luận; tuyệt đối không chỉ tóm tắt lại file raw mà phải phân tích nhân quả, chỉ ra cả điểm mạnh lẫn hạt sạn/lỗi của đối thủ (`Adversarial Critique`) vào `phan-tich.md` (và lập bảng xếp hạng `RANKING.md` khi phân tích hàng loạt).
 
 ---
 
-## 2. Cấu Trúc Báo Cáo Giải Phẫu (`projects/XXX/phan-tich.md`)
+## 2. Cấu Trúc Báo Cáo Giải Phẫu Chuyên Sâu (`phan-tich.md`)
 
-### Tầng 1: Âm Thanh & Kỹ Thuật DSP (Sound & DSP)
-- **Bảng thông số kỹ thuật chuẩn:** Trình bày bảng gồm `Thời lượng`, `Tempo (BPM & Half-time)`, `Beat Stability`, `Key & Scale`, `Dynamic Range (Crest Factor)` và `Phân bổ năng lượng 6 dải tần`, kèm giải mã tác động thính giác đối với tệp người nghe 45–85+.
-- **Giải phẫu Âm sắc, Nhạc cụ & Giọng hát:** Xác định thể loại chính, nhánh phụ, thập niên tham chiếu, bầu không khí cảm xúc, vai trò của từng lớp nhạc cụ (nhạc cụ dẫn dắt ở Intro/Solo, nhạc cụ giữ nhịp nền, lớp đệm chiều sâu) và màu giọng hát (vị trí thu mic, độ khàn/ấm, cách xử lý bè ở Chorus).
-- **Cấu trúc bài hát & Đường cong Năng lượng (Energy Arc):** Lập bảng mốc thời gian từng phân đoạn (`Intro`, `Verse`, `Pre-Chorus`, `Chorus`, `Solo / Break`, `Bridge`, `Outro`) đối chiếu với `energy_score` và sự thay đổi phối khí (đặc biệt là các điểm rút nhạc cụ tạo khoảng thở).
+### Tầng 1: Giải Phẫu Âm Thanh, Phối Khí & Kỹ Thuật DSP (Đối Chiếu `audio_technical.md` + Nghe Thực Tế `audio_listen.mp3`)
+- **Bảng thông số kỹ thuật & Mastering (14 chỉ số) kèm giải mã thính giác thực tế:** Đối chiếu từng chỉ số code đo được (`Thời lượng & Sub-tracks`, `BPM & Half-time`, `Beat Stability`, `Key chính/phụ & Dominant Notes`, `HPR Harmonic/Percussive %`, `Spectral Centroid & Rolloff`, `EBU R128 LUFS / LRA / True Peak`, `Crest Factor`, `Stereo Width & Correlation`, `Phân bổ 6 dải tần`) với **nhạc cụ và âm thanh thực tế nghe được trong `audio_listen.mp3`** (ví dụ: nhạc cụ nào tạo nên độ dày `Low-mid`, nhạc cụ nào được pan sang 2 kênh Stereo).
+- **Giải phẫu Âm sắc, Hệ Nhạc cụ & Giọng hát (Từ `audio_listen.mp3`):** Xác định thể loại chính, nhánh phụ, nghệ sĩ/thập niên tham chiếu; bóc tách từng lớp nhạc cụ xuất hiện theo mốc giây (nhạc cụ dẫn dắt ở Intro/Verse/Solo, nhạc cụ nền & bộ gõ, không gian reverb); giải phẫu giọng hát (quãng giọng, màu giọng, vị trí đặt mic, kỹ thuật ngân/humming, cách phối bè Harmony/Duet ở Chorus & Bridge).
+- **Bảng Cấu trúc bài hát & Đường cong Năng lượng (`Song Structure & Energy Arc`):** Lập bảng chi tiết từng phân đoạn (`Intro -> Verse -> Pre-Chorus -> Chorus -> Instrumental Solo -> Bridge -> Outro`) khớp với `energy_score`, ghi rõ sự thêm/bớt nhạc cụ và cơ chế giữ chân người nghe (`Retention Hook`) tại mỗi mốc.
 
-### Tầng 2: Nội Dung Ca Từ & Công Thức Hook (Lyrical Formula)
-- **Lời bài hát đầy đủ theo phân đoạn:** Chép lại lời bài hát kèm nhãn thời gian và chỉ dẫn nhạc cụ.
-- **Giải mã công thức ca từ:** Xác định thông điệp cốt lõi, cấp độ từ vựng, cấu trúc câu Hook điệp khúc, mật độ âm tiết và cách bài mẫu giữ mạch cảm xúc thống nhất từ đầu đến cuối.
+### Tầng 2: Giải Phẫu Ca Từ, Cấu Trúc Lời & Kịch Bản Tự Sự (Đối Chiếu `Whisper` + Nghe Hiệu Đính Từ `audio_listen.mp3`)
+- **Lời bài hát đầy đủ đã hiệu đính theo phân đoạn (`Full Corrected Lyrics`):** Nghe trực tiếp `audio_listen.mp3` để hiệu đính chính xác lời bài hát (sửa lỗi nhận diện tự động của Whisper), chia rõ nhãn `[Intro]`, `[Verse]`, `[Chorus]`, `[Instrumental Solo]`, `[Bridge]`, `[Outro]` kèm mô tả nhạc cụ trong ngoặc đơn.
+- **Giải mã công thức ca từ & kịch bản:** Phân tích diễn tiến tự sự/lát cắt qua từng đoạn, hệ thống móc neo 5 giác quan (`Sensory Anchors`), sơ đồ vần, mật độ âm tiết, tốc độ nhả chữ (`WPM`), cấu trúc lặp của câu Hook điệp khúc và mổ xẻ 3 câu hát đắt giá nhất bài.
 
-### Tầng 3: Hình Ảnh, Chuyển Động & Nhịp Dựng (Khi phân tích MV)
-- **Phong cách mỹ thuật & Bảng màu:** Tạo hình nhân vật, chất liệu bề mặt và bảng màu chủ đạo.
-- **Cấu trúc cảnh cắt & Nhóm bố cục lặp lại:** Tổng số cảnh (`shots`), độ dài trung bình mỗi cảnh và các nhóm cảnh chủ đạo (`Shot Archetypes`) được đan xen theo cấu trúc nhạc.
+### Tầng 3: Giải Phẫu SEO, Tâm Lý Học Khán Giả & Phản Biện Đối Chứng (`seo.md` + `Adversarial Critique`)
+- **Chiến thuật đóng gói SEO & Hiệu suất Viral:** Phân tích cấu trúc Title, Description, Tags và giải thích nguyên nhân đạt mức `Views/Subs` cùng `Like/View %` (so sánh chéo với các bài khác trong cùng kênh).
+- **Tâm lý học khán giả qua Top Comments (`Voice of Customer`):** Bóc tách ký ức cá nhân, độ tuổi và chi tiết âm nhạc/ca từ mà khán giả nhắc tới trực tiếp trong bình luận.
+- **Phản biện đối chứng (`Adversarial Critique — Điểm Mạnh vs Điểm Yếu / Hạt Sạn Của Đối Thủ`):** Chỉ ra thẳng những điểm yếu, hạt sạn trong bản thu/lời hát/SEO của đối thủ (câu chữ lặp AI, chuyển đoạn gãy, dải tần đục/gắt, kịch bản kéo dài gây loãng) để tránh lặp lại sai lầm của họ.
 
-### Tầng 4: Tác Động Khán Giả, SEO & Phương Án Chuyển Hóa Sang Coslient Free
-- **Bằng chứng khán giả & Công thức SEO:** Phân tích ngôn ngữ, trạng thái cảm xúc trong Top Comments và cấu trúc Title/Hashtags giúp video ăn đề xuất.
-- **Bản đồ Chuyển hóa sang Coslient Free (`Adversarial Adaptation`):**
-  1. **Giữ nguyên đòn bẩy cấu trúc:** Kế thừa chính xác `BPM`, `Đường cong năng lượng (Energy Arc)`, `Tỷ lệ dải tần ấm (Bass + Low-mid)`, `Khoảng thở Solo/Bridge` và `Độ thuần khiết của mạch lời` từ bài mẫu.
-  2. **Chuyển hóa hệ nhạc cụ về chuẩn Folk của kênh:** Khi bài mẫu thuộc dòng nhạc ngoài Folk (như Electric Blues, Pop Ballad, Soft Rock, Jazz Soul), ánh xạ từng nhạc cụ dẫn dắt của bài mẫu sang nhạc cụ mộc tương đương trong hệ sinh thái Acoustic Folk / Americana của kênh (ví dụ: Guitar điện / Saxophone $\rightarrow$ Fingerpicked Acoustic Guitar, Slide Acoustic, Harmonica, Singing Fiddle, Cello, Mandolin, Upright Bass, Brushed Snare) và giữ quy tắc mở đầu ấm áp (`Warm Start`).
+### Tầng 4: Bản Đồ Chuyển Hóa & Công Thức Nâng Cấp Sang Coslient Free
+- **Bảng ánh xạ chuyển hóa (`Đối thủ -> Bản nâng cấp của Coslient Free`):** Kế thừa đòn bẩy cấu trúc (`BPM`, `Energy Arc`, `Phổ ấm <500Hz`, `Khoảng thở Solo`, `Móc neo giác quan`) và chuyển hóa hệ nhạc cụ về chuẩn Acoustic Folk / Americana cùng quy tắc mở đầu ấm áp (`Warm Start`).
+- **Mẫu Suno Prompt & Khuôn mẫu Lời/Storyboard thực chiến rút ra từ bài mẫu.**
