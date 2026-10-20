@@ -140,103 +140,6 @@ def detect_sub_tracks(y: np.ndarray, sr: int, y_harm: np.ndarray, duration: floa
     return sub_reports
 
 
-def analyze_vocals_and_lyrics(listen_mp3: Path, duration: float) -> dict:
-    """Transcribe lyrics & compute vocal entry, vocal/instrumental ratio, instrumental breaks, and WPM via faster-whisper."""
-    cache_json = listen_mp3.parent / "transcript_cache.json"
-    segments = None
-    if cache_json.exists():
-        try:
-            segments = json.loads(cache_json.read_text(encoding="utf-8"))
-        except Exception:
-            pass
-
-    if segments is None:
-        helper_code = (
-            "import json, sys\n"
-            "from faster_whisper import WhisperModel\n"
-            "model = WhisperModel('base.en', device='cpu', compute_type='int8')\n"
-            "segs, _ = model.transcribe(sys.argv[1], beam_size=5, word_timestamps=True, condition_on_previous_text=False, no_speech_threshold=0.85)\n"
-            "out = []\n"
-            "for s in segs:\n"
-            "    txt = s.text.strip()\n"
-            "    if not txt:\n"
-            "        continue\n"
-            "    st = s.words[0].start if s.words else s.start\n"
-            "    et = s.words[-1].end if s.words else s.end\n"
-            "    out.append({'start': round(st, 2), 'end': round(et, 2), 'text': txt, 'no_speech_prob': round(s.no_speech_prob, 3)})\n"
-            "print(json.dumps(out, ensure_ascii=False))\n"
-        )
-        cmd = ["uv", "run", "--with", "faster-whisper", "--with", "av<14", "python3", "-c", helper_code, str(listen_mp3)]
-        proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
-        if proc.returncode == 0 and proc.stdout.strip():
-            try:
-                segments = json.loads(proc.stdout.strip().splitlines()[-1])
-                cache_json.write_text(json.dumps(segments, indent=2, ensure_ascii=False), encoding="utf-8")
-            except Exception:
-                segments = []
-        else:
-            segments = []
-
-    valid = [s for s in segments if s.get("no_speech_prob", 0) < 0.85 and len(s.get("text", "")) > 1]
-    if not valid:
-        return {
-            "has_vocals": False,
-            "vocal_entry_sec": None,
-            "vocal_time_pct": 0.0,
-            "instrumental_time_pct": 100.0,
-            "words_per_minute": 0.0,
-            "instrumental_breaks": [],
-            "segments": [],
-        }
-
-    vocal_entry = round(float(valid[0]["start"]), 1)
-    vocal_end = round(float(valid[-1]["end"]), 1)
-    vocal_dur = sum(max(0.0, float(s["end"]) - float(s["start"])) for s in valid)
-    vocal_pct = round(min(100.0, (vocal_dur / max(1.0, duration)) * 100.0), 1)
-
-    # Find instrumental breaks / solos >= 8.0s between vocal segments
-    breaks = []
-    if vocal_entry >= 8.0:
-        breaks.append({"type": "Intro", "time_range": f"0:00 - {fmt_time(vocal_entry)}", "duration_sec": vocal_entry})
-    for i in range(len(valid) - 1):
-        g0, g1 = float(valid[i]["end"]), float(valid[i + 1]["start"])
-        if g1 - g0 >= 8.0:
-            breaks.append({
-                "type": "Instrumental Solo / Break",
-                "time_range": f"{fmt_time(g0)} - {fmt_time(g1)}",
-                "duration_sec": round(g1 - g0, 1),
-            })
-    if duration - vocal_end >= 8.0:
-        breaks.append({
-            "type": "Outro",
-            "time_range": f"{fmt_time(vocal_end)} - {fmt_time(duration)}",
-            "duration_sec": round(duration - vocal_end, 1),
-        })
-
-    total_words = sum(len(re.findall(r"\b\w+\b", s["text"])) for s in valid)
-    active_span_min = max(0.5, (vocal_end - vocal_entry) / 60.0)
-    wpm_overall = round(total_words / active_span_min, 1)
-    wpm_singing = round(total_words / max(0.25, vocal_dur / 60.0), 1)
-
-    return {
-        "has_vocals": True,
-        "vocal_entry_sec": vocal_entry,
-        "vocal_entry_formatted": fmt_time(vocal_entry),
-        "vocal_last_sec": vocal_end,
-        "outro_instrumental_sec": round(max(0.0, duration - vocal_end), 1),
-        "vocal_time_pct": vocal_pct,
-        "instrumental_time_pct": round(100.0 - vocal_pct, 1),
-        "total_words": total_words,
-        "words_per_minute_overall": wpm_overall,
-        "words_per_minute_active_singing": wpm_singing,
-        "instrumental_breaks": breaks,
-        "segments": [
-            {"time_range": f"{fmt_time(s['start'])} - {fmt_time(s['end'])}", "text": s["text"]}
-            for s in valid
-        ],
-    }
-
-
 def analyze_file(target: Path) -> dict:
     listen_mp3 = ensure_listen_mp3(target)
     y_stereo, sr = librosa.load(str(listen_mp3), sr=22050, mono=False)
@@ -302,42 +205,6 @@ def analyze_file(target: Path) -> dict:
     centroid_hz = int(round(float(np.mean(librosa.feature.spectral_centroid(S=S_mag, sr=sr)))))
     rolloff_85_hz = int(round(float(np.mean(librosa.feature.spectral_rolloff(S=S_mag, sr=sr, roll_percent=0.85)))))
 
-    # 5. Structural Segmentation & Energy Arc
-    n_segments = max(4, min(10, int(round(duration / 25))))
-    mfcc = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=13)
-    raw_frames = librosa.segment.agglomerative(mfcc, k=n_segments)
-    raw_times = list(librosa.frames_to_time(raw_frames, sr=sr))
-    bound_times = [0.0]
-    for t in raw_times:
-        if t - bound_times[-1] >= 4.0 and duration - t >= 4.0:
-            bound_times.append(float(t))
-    bound_times.append(duration)
-    rms_times = librosa.frames_to_time(np.arange(len(rms)), sr=sr)
-
-    max_rms = float(np.percentile(rms, 95)) + 1e-8
-    min_rms = float(np.percentile(rms, 10))
-    sections = []
-    for i in range(len(bound_times) - 1):
-        t0, t1 = bound_times[i], bound_times[i + 1]
-        mask = (rms_times >= t0) & (rms_times < t1)
-        sec_rms = float(np.mean(rms[mask])) if np.any(mask) else 0.0
-        norm_e = max(0.0, min(1.0, (sec_rms - min_rms) / (max_rms - min_rms + 1e-8)))
-        if norm_e >= 0.75:
-            level = "High / Peak"
-        elif norm_e >= 0.45:
-            level = "Medium / Groove"
-        else:
-            level = "Low / Atmospheric"
-        sections.append({
-            "time_range": f"{fmt_time(t0)} - {fmt_time(t1)}",
-            "duration_sec": round(t1 - t0, 1),
-            "energy_score": round(norm_e, 2),
-            "energy_level": level,
-        })
-
-    # 6. Vocals, Lyrics & Instrumental Breaks (via faster-whisper)
-    vocal_info = analyze_vocals_and_lyrics(listen_mp3, duration)
-
     return {
         "source_file": str(target),
         "listen_file": str(listen_mp3),
@@ -375,8 +242,6 @@ def analyze_file(target: Path) -> dict:
             ),
             "frequency_energy_pct": freq_profile,
         },
-        "energy_sections": sections,
-        "vocals_and_lyrics": vocal_info,
     }
 
 
@@ -420,7 +285,6 @@ def write_technical_md(raw_dir: Path, rep: dict) -> Path:
     tb = rep.get("timbre_and_texture", {})
     d = rep.get("dynamics_and_mix", {})
     f = d.get("frequency_energy_pct", {})
-    v = rep.get("vocals_and_lyrics", {})
     sub_tracks = rep.get("sub_tracks") or []
 
     lines = [
@@ -461,43 +325,6 @@ def write_technical_md(raw_dir: Path, rep: dict) -> Path:
             lines.append(
                 f"| Track {st['track_index']} | `{st['time_range']}` | `{st['duration_formatted']}` | `{st['bpm']} ({st['half_time_bpm']})` | `{st['primary_key']}` | `{st['secondary_key']}` |"
             )
-
-    lines.extend([
-        "",
-        "## 5. Cấu Trúc Phân Đoạn Năng Lượng (Energy Sections)",
-        "| Khoảng thời gian | Độ dài (s) | Điểm năng lượng | Mức năng lượng |",
-        "| :--- | :--- | :--- | :--- |",
-    ])
-    for s in rep.get("energy_sections") or []:
-        lines.append(
-            f"| `{s.get('time_range')}` | `{s.get('duration_sec')}s` | `{s.get('energy_score')}` | {s.get('energy_level')} |"
-        )
-
-    if v:
-        lines.extend([
-            "",
-            "## 6. Cấu Trúc Giọng Hát, Khoảng Nghỉ Solo & Tốc Độ Nhả Chữ (Faster-Whisper)",
-            f"- **Thời điểm vào giọng đầu tiên (Intro Length):** `{v.get('vocal_entry_formatted')}` (`{v.get('vocal_entry_sec')}s`)",
-            f"- **Thời lượng nhạc dạo kết bài (Outro Length):** `{v.get('outro_instrumental_sec')}s`",
-            f"- **Tỷ lệ Hát vs Nhạc cụ độc tấu:** `{v.get('vocal_time_pct')}%` Có lời vs `{v.get('instrumental_time_pct')}%` Nhạc dạo/Solo",
-            f"- **Tổng số từ & Tốc độ nhả chữ:** `{v.get('total_words')} từ` | `{v.get('words_per_minute_overall')} WPM` (Toàn bài) | `{v.get('words_per_minute_active_singing')} WPM` (Khi đang hát)",
-        ])
-        breaks = v.get("instrumental_breaks") or []
-        if breaks:
-            lines.extend([
-                "",
-                "### Các đoạn Nhạc dạo / Solo không lời (>= 8s)",
-                "| Loại đoạn | Khoảng thời gian | Độ dài (s) |",
-                "| :--- | :--- | :--- |",
-            ])
-            for b in breaks:
-                lines.append(f"| {b['type']} | `{b['time_range']}` | `{b['duration_sec']}s` |")
-
-        segs = v.get("segments") or []
-        if segs:
-            lines.extend(["", "### Lời bài hát bóc tự động bằng Code (Raw Whisper Transcript)"])
-            for sg in segs:
-                lines.append(f"- `[{sg['time_range']}]` {sg['text']}")
 
     tech_md.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return tech_md
@@ -606,7 +433,10 @@ def resolve_inputs(args: list[str]) -> list[tuple[Path, dict]]:
                 vid_id = m.group(1)
                 if vid_id not in seen_ids:
                     seen_ids.add(vid_id)
-                    results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+                    try:
+                        results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+                    except Exception as e:
+                        print(f"[WARN] Lỗi tải {m.group(0)}: {e}", file=sys.stderr)
             continue
 
         p = Path(item)
@@ -618,7 +448,10 @@ def resolve_inputs(args: list[str]) -> list[tuple[Path, dict]]:
                     vid_id = m.group(1)
                     if vid_id not in seen_ids:
                         seen_ids.add(vid_id)
-                        results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+                        try:
+                            results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+                        except Exception as e:
+                            print(f"[WARN] Lỗi tải {m.group(0)}: {e}", file=sys.stderr)
             elif p.suffix.lower() in (AUDIO_EXTS | VIDEO_EXTS):
                 results.append((p, {}))
         elif p.is_dir():
@@ -631,7 +464,10 @@ def resolve_inputs(args: list[str]) -> list[tuple[Path, dict]]:
                         vid_id = m.group(1)
                         if vid_id not in seen_ids:
                             seen_ids.add(vid_id)
-                            results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+                            try:
+                                results.append(download_yt_audio(m.group(0), vid_id, out_dir))
+                            except Exception as e:
+                                print(f"[WARN] Lỗi tải {m.group(0)}: {e}", file=sys.stderr)
             # Also include any standalone local audio/video files not already added
             added_paths = {r[0].resolve() for r in results}
             for f in sorted(p.iterdir()):
@@ -652,22 +488,34 @@ def resolve_inputs(args: list[str]) -> list[tuple[Path, dict]]:
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python3 tools/analyze_audio.py <url1> [url2 ...] [--out-dir <folder>]", file=sys.stderr)
+        print("Usage: python3 tools/analyze_audio.py <url1> [url2 ...] [--out-dir <folder>] [--force]", file=sys.stderr)
         sys.exit(1)
-    targets = resolve_inputs(sys.argv[1:])
+    force = "--force" in sys.argv
+    clean_args = [a for a in sys.argv[1:] if a != "--force"]
+    targets = resolve_inputs(clean_args)
     all_reports = []
     for target_file, yt_meta in targets:
-        rep = analyze_file(target_file)
-        raw_dir = target_file.parent if target_file.parent.name == "raw" else target_file.parent / "raw"
-        raw_dir.mkdir(parents=True, exist_ok=True)
-        rep["video_folder"] = str(raw_dir.parent)
-        rep["raw_folder"] = str(raw_dir)
-        write_technical_md(raw_dir, rep)
-        if yt_meta:
-            rep["youtube_meta"] = yt_meta
-        (raw_dir / "audio_technical.json").write_text(
-            json.dumps(rep, indent=2, ensure_ascii=False), encoding="utf-8"
-        )
-        all_reports.append(rep)
+        try:
+            raw_dir = target_file.parent if target_file.parent.name == "raw" else target_file.parent / "raw"
+            raw_dir.mkdir(parents=True, exist_ok=True)
+            cached_tech = raw_dir / "audio_technical.json"
+            if cached_tech.exists() and not force:
+                rep = json.loads(cached_tech.read_text(encoding="utf-8"))
+                if not (raw_dir / "audio_technical.md").exists():
+                    write_technical_md(raw_dir, rep)
+                all_reports.append(rep)
+                continue
+            rep = analyze_file(target_file)
+            rep["video_folder"] = str(raw_dir.parent)
+            rep["raw_folder"] = str(raw_dir)
+            write_technical_md(raw_dir, rep)
+            if yt_meta:
+                rep["youtube_meta"] = yt_meta
+            cached_tech.write_text(
+                json.dumps(rep, indent=2, ensure_ascii=False), encoding="utf-8"
+            )
+            all_reports.append(rep)
+        except Exception as e:
+            print(f"[WARN] Lỗi phân tích {target_file}: {e}", file=sys.stderr)
     output = all_reports[0] if len(all_reports) == 1 else {"count": len(all_reports), "tracks": all_reports}
     print(json.dumps(output, indent=2, ensure_ascii=False))
