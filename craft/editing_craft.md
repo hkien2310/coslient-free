@@ -24,9 +24,9 @@ Mọi timeline dự án trên Palmier Pro được thiết lập ở tốc độ
 
 1. **Trích xuất lưới nhịp phách (`On-Device Beat Detection`):**
    - Ngay khi đưa file nhạc master vào dự án, chạy công cụ `detect_beats` của Palmier Pro trên file nhạc gốc để trích xuất toàn bộ danh sách phách mạnh đầu ô nhịp (`downbeats` — Beat 1), phách thường (`beats`) và chỉ số nhịp độ (`BPM`).
-2. **Khóa điểm chuyển cảnh vào phách nhạc (`Beat-Snapped Cut Alignment`):**
-   - Các đoạn nhạc dạo (`Intro`, `Interlude / Solo`, `Outro`) được chia thành các cảnh đều đặn rơi chính xác vào phách mạnh đầu ô nhịp (`downbeats`).
-   - Điểm chuyển cảnh giữa các câu hát được hút về phách mạnh (`downbeat`) hoặc phách chuẩn (`beat`) gần nhất trong ngưỡng dung sai `±0.25 giây` (thông qua `tools/extract_timestamps.py --beats`) để mỗi cú chuyển hình đều khớp nhịp trống và nhịp gảy đàn mà vẫn giữ nguyên vẹn câu chữ phụ đề trên track `Captions`.
+2. **Đối chiếu và Khóa 100% điểm chuyển cảnh vào phách nhạc thực tế (`100% Beat-Locked Cut Alignment`):**
+   - Trong nhịp nhạc Folk (`BPM ~73`, chu kỳ 1 phách $\approx 0.82\text{ giây}$), khi lắp ráp timeline, bắt buộc đối chiếu trực tiếp toàn bộ điểm đầu và điểm cuối (`startFrame`, `endFrame`) của từng video clip trên track `Main` với mảng `beats` và `downbeats` vừa trích xuất từ `detect_beats` (nhân với `30fps`).
+   - Dịch chuyển 100% điểm cắt giữa các cảnh trùng khít vào khung hình của phách nhạc gần nhất trong khi giữ tổng thời lượng mỗi cảnh nằm gọn trong giới hạn nguồn video (`<= 240 frames` / `8.0 giây`) và bảo toàn nguyên vẹn mốc phụ đề gốc trên track `Captions`.
 3. **Hệ thống Điểm đánh dấu phân đoạn và nhịp chủ đạo (`Section & Downbeat Markers`):**
    - Sử dụng `manage_markers` để gắn các điểm đánh dấu vùng (`Range Markers`) phân định rõ từng chương nhạc (`Intro`, `Verse`, `Chorus`, `Solo`, `Bridge`, `Outro`) cùng các điểm nhấn phách mạnh quan trọng trên trục thời gian, giúp kiểm soát trực quan nhịp thở và cấu trúc cao trào của toàn bộ bản dựng.
 
