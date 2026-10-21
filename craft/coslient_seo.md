@@ -111,17 +111,17 @@ File `6-seo.md` chuẩn cho mỗi project (khi project gồm 2 bài hát ghép t
 
 ### Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Poetic Horizon`):
 ```text
-Handcrafted stop-motion miniature diorama. Wide side-profile shot on [điểm tựa địa hình cao thoáng + chất liệu bề mặt trực quan] overlooking [đường chân trời và cảnh quan mô hình phía xa]. Stop-motion figures with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A nén 4 trục vật lý + tư thế khởi đầu hoạt động sẻ chia] with [Nhân vật B nén 4 trục vật lý + tư thế phối hợp]. [Ánh sáng trực quan ấm áp] --ar 16:9
+Handcrafted stop-motion animation film still, clean natural daylight, shallow depth of field. Wide full-body eye-level side-profile shot on [điểm tựa địa hình cao thoáng + chất liệu bề mặt mộc mạc] overlooking a softly blurred [đường chân trời và cảnh quan phía xa]. Slender stop-motion figures with smooth matte skin, soft rounded noses, and thick full soft matte-textured hair covering the entire crown with a low forehead hairline: [Nhân vật A nén 4 trục vật lý + tư thế phóng khoáng tự nhiên] with [Nhân vật B nén 4 trục vật lý + tư thế đồng điệu]. Single directional morning sunlight casting a single coherent shadow direction --ar 16:9
 ```
 
 ### Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Light & Journey`):
 ```text
-Handcrafted stop-motion miniature diorama. Medium-wide side-profile shot along [cung đường hoặc cảnh quan mở + chất liệu bề mặt trực quan] overlooking [hậu cảnh mô hình sâu rộng]. Stop-motion figures with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A nén 4 trục vật lý + tư thế khởi đầu hành trình] alongside [Nhân vật B nén 4 trục vật lý + tư thế đồng hành]. [Ánh sáng vàng ấm hoặc chạng vạng trực quan] --ar 16:9
+Handcrafted stop-motion animation film still, clean natural golden light, shallow depth of field. Wide full-body eye-level side-profile shot along [cung đường hoặc cảnh quan mở + chất liệu bề mặt mộc mạc] overlooking a softly blurred [hậu cảnh sâu rộng]. Slender stop-motion figures with smooth matte skin, soft rounded noses, and thick full soft matte-textured hair covering the entire crown with a low forehead hairline: [Nhân vật A nén 4 trục vật lý + tư thế hành trình phóng khoáng] alongside [Nhân vật B nén 4 trục vật lý + tư thế đồng hành]. Single directional golden afternoon sunlight casting a single coherent shadow direction --ar 16:9
 ```
 
 ### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium-Wide Soulful Connection`):
 ```text
-Handcrafted stop-motion miniature diorama. Medium-wide shot inside [không gian kiến trúc bán nội thất hoặc điểm dừng chân + chất liệu đạo cụ trực quan] overlooking a softly blurred [hậu cảnh mô hình]. Stop-motion figures with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A nén 4 trục vật lý + tư thế khởi đầu cử chỉ gắn kết] with [Nhân vật B nén 4 trục vật lý + tư thế đón nhận]. [Ánh sáng ấm dịu trực quan] --ar 16:9
+Handcrafted stop-motion animation film still, clean natural sunset light, shallow depth of field. Wide full-body eye-level three-quarter shot inside [không gian kiến trúc bán nội thất hoặc điểm dừng chân mộc mạc] overlooking a softly blurred [hậu cảnh thiên nhiên]. Slender stop-motion figures with smooth matte skin, soft rounded noses, and thick full soft matte-textured hair covering the entire crown with a low forehead hairline: [Nhân vật A nén 4 trục vật lý + tư thế thư thái gắn kết] with [Nhân vật B nén 4 trục vật lý + tư thế đón nhận]. Single directional warm sunset light casting a single coherent shadow direction --ar 16:9
 ```
 
 ## 4. DESCRIPTION

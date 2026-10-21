@@ -46,3 +46,16 @@ Trước khi viết một bài mới, lướt qua `lyrics-index.md` để đảm
    - ❌ **Tránh:** Dùng chuỗi phủ định để than khóc, kể khổ triền miên biến bài hát thành lời tự thương hại.
 2. **Bridge mở đầu bằng "They say..."**: Mô thức lên lớp nhẹ — dùng trí tuệ dân gian để giảng đạo. Thay bằng khoảnh khắc cụ thể, cảm giác thể xác, hoặc hành động giữa hai nhân vật.
 3. **Hai bài cùng idea = cùng câu chuyện:** Khi viết 2 phương án cho 1 idea, phải tách biệt góc nhìn hoặc câu chuyện hoàn toàn. Nếu cả 2 đều là "hai người đi dạo nhìn cảnh đẹp rồi nhận ra hạnh phúc" → viết lại 1 bài.
+
+---
+
+## 🚫 5. BẢNG CẤM 4 VẬT THỂ & CHẤT LIỆU AI TRONG VISUAL (`storyboard.md` & `image.txt`)
+
+Bắt buộc quét và loại bỏ tuyệt đối 4 nhóm từ khóa vật thể/chất liệu dưới đây trong mọi bảng phân cảnh `storyboard.md`, hồ sơ `character.md`, câu lệnh ảnh `image.txt` và `6-seo.md`:
+
+| STT | Nhóm vật thể cấm tuyệt đối | Từ khóa tiếng Anh bị cấm (`Hard Ban Tokens`) | Hậu quả lỗi AI & Chất liệu thay thế bắt buộc |
+| :--- | :--- | :--- | :--- |
+| **1** | **Đồ đồng (`Brass / Copper`)** | `brass`, `copper`, `bronze` (đèn đồng, bình tưới đồng, ống nhòm đồng, bản lề/vòi đồng...) | Gây cảm giác giả cổ Steampunk nặng nề. **Thay bằng:** gỗ thông/gỗ sồi mộc (`pine/oak wood`), gốm mờ (`matte ceramic / terracotta`), sắt sơn mờ (`matte-painted iron`) hoặc thủy tinh (`glass`). |
+| **2** | **Đồ len & Sợi len (`Wool / Yarn / Knitted`)** | `wool`, `wool-fiber`, `yarn`, `knitted`, `cable-knit`, `crochet`, `felt` (áo len đan, khăn len, tóc sợi len...) | Từ khóa `wool / knitted` bị AI làm rò rỉ (`token bleed`) thành các cuộn len vương vãi trên sàn nhà và biến quần áo thành sợi len thô to giả tạo. **Thay bằng:** Tóc dùng `thick full soft matte-textured hair covering the entire crown with a low forehead hairline`; quần áo dùng vải dệt phẳng (`woven linen, cotton, chambray, canvas, corduroy, flannel`). |
+| **3** | **Đèn bão & Đèn lồng xách tay (`Lanterns`)** | `lantern`, `storm lantern`, `hurricane lamp`, `oil lamp`, `kerosene lamp` | Chi tiết sáo rỗng cổ tích thế kỷ 19 mà AI lạm dụng ở mọi cảnh chiều tối. **Thay bằng:** ánh sáng tự nhiên một hướng (`single directional sunlight / twilight glow`) hoặc ánh sáng hắt qua ô cửa sổ nhà. |
+| **4** | **Bánh răng & Cơ khí (`Gears / Clockwork`)** | `gears`, `clockwork`, `cogs`, `mechanical`, `pendulum` | Biến bối cảnh thành phim hoạt hình viễn tưởng Steampunk. **Thay bằng:** kiến trúc đời thường tối giản (`clean stone cottage, wooden bench, timber porch`). |

@@ -47,14 +47,14 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
 
 ---
 
-## 2. Nguyên lý khung tĩnh khởi đầu hành động, mỹ học dịch chuyển đơn biến và tỷ lệ 70/30
+## 2. Nguyên lý tư thế phóng khoáng tự nhiên, mỹ học dịch chuyển đơn biến và tỷ lệ 70/30
 
 1. **Định nghĩa Chất ngông Điện ảnh & Nguyên lý Dịch chuyển Đơn biến Siêu thực Thơ mộng (`Single-Variable Poetic Displacement`):**
-   - **Nền tảng đời thường tối giản (90% trọng lượng cảnh):** Giữ cấu trúc công trình, đạo cụ và hành động tương tác của các nhân vật stop-motion ở trạng thái đơn khối, quen thuộc và bình dị với mục đích thực tế rõ ràng.
+   - **Nền tảng đời thường mộc mạc, phóng khoáng (90% trọng lượng cảnh):** Giữ cấu trúc công trình đúng tỷ lệ thực tế, vật liệu mộc nguyên bản (theo [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) Mục 5) và tư thế của các nhân vật stop-motion ở trạng thái thư thái, phóng khoáng tự nhiên (`relaxed unhurried posture`): tựa nhẹ vào điểm tựa hoặc phương tiện để cùng ngắm cảnh quan, sóng đôi dạo bước, ngồi thả lỏng trên bậc đá/ghế gỗ hoặc thao tác nhẹ nhàng tại bàn làm việc.
    - **Một chạm dịch chuyển siêu thực thơ mộng tại bối cảnh (`Single Poetic Surreal Touch` — 10% điểm nhấn):** Chất ngông điện ảnh được kiến tạo bằng cách **dịch chuyển tự do duy nhất một biến số không gian tại Khối 2 (Bối cảnh)** theo đúng tinh thần riêng của từng bài hát, tạo nên sự giao thoa bất ngờ giữa sinh hoạt đời thực ấm áp và không gian nghệ thuật giàu sức gợi.
-   - Mỗi bức ảnh tĩnh bắt đúng tư thế khởi đầu ở giây 0 (`t = 0s`) với toàn bộ cơ thể và đôi chân đi giày đặt vững chãi trên điểm tựa (`shoes resting on the surface`), kết hợp ánh sáng điện ảnh trực quan rõ hướng chiếu.
-2. **Phân tách hai tư thế khởi đầu bổ trợ trong cùng khung hình (`Complementary Starting Postures`):**
-   - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đứng hoặc ngồi ở một tư thế khởi đầu riêng biệt, hiển thị đầy đủ toàn thân cùng đôi chân trên điểm tựa và chuẩn bị thực hiện một thao tác phối hợp ăn ý với người kia.
+   - Mỗi bức ảnh tĩnh lấy trọn khung hình toàn thân rộng (`Wide full-body shot`) ở giây 0 (`t = 0s`) với đôi chân đi giày đặt vững chãi trên điểm tựa (`shoes resting on the surface`), mái tóc dày phủ kín toàn bộ đỉnh đầu và trán thấp, kết hợp một nguồn sáng duy nhất chiếu theo một hướng nhất quán (`Single directional light casting a single coherent shadow direction`).
+2. **Sự đồng điệu thư thái và khoảng thở giữa các nhân vật (`Relaxed Harmony & Clean Silhouette Separation`):**
+   - Trong các cảnh có từ hai nhân vật trở lên, đặt các chủ thể ở tư thế thả lỏng bất đối xứng có khoảng thoáng rõ ràng giữa hai đường viền cơ thể, cùng hướng tầm mắt về phía cảnh quan mở hoặc tương tác tự nhiên.
 3. **Tỷ lệ 70% Đời thường tối giản giàu chất thơ : 30% Điểm nhấn Dịch chuyển Siêu thực Điện ảnh:**
    - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật sinh hoạt, chế tác thủ công, chăm sóc và trò chuyện trong những không gian kiến trúc sa bàn đơn khối mở thoáng ra cảnh sắc xung quanh, tràn ngập chiều sâu ánh sáng và hơi thở đời sống.
    - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Kiến tạo khung hình mang tầm vóc điện ảnh nghệ thuật bằng cách tự do vận dụng **1 trong 4 chiều dịch chuyển không gian** theo ý tưởng riêng của từng tác phẩm:
