@@ -26,7 +26,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
 | A Place Back Home | 2 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
-| Kettle & Light | 9 | Americana & Scottish Borders Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
+| Kettle & Light | 11 | Americana & Scottish Borders Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
 
 ---
 
@@ -373,14 +373,14 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Kettle & Light [unreleased] — 9 tracks
+## 🔴 Kettle & Light [unreleased] — 11 tracks
 
 **Album:** Kettle & Light (Coslient Free V2 Americana Ballad Release)  
 **Genre / Vibe:** Americana Country-Folk Ballad, Slow Unhurried Mornings & Evenings, Lived-in Acoustic Warmth  
 **Mood:** Peaceful, tender, heartwarming, unhurried sanctuary, lifelong companionship  
 **Signature Sound:** Fingerpicked acoustic guitar, subtle upright bass, soft pedal steel swells, warm soaring fiddle, lived-in warm baritone / alto, 68–76 BPM  
 **Cultural Anchors:** John Prine, Guy Clark, Townes Van Zandt, Gregory Alan Isakov  
-**Tracks:** 9 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
+**Tracks:** 11 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
 
 ### 1. Learning to Sit Still
 - **Project:** [020](file:///Users/hoangkien/Youtube/coslient-free/projects/020)
@@ -489,6 +489,30 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Vocal:** Weathered lived-in male baritone, tender affectionate delivery
 - **Cultural Anchor:** Autumn evening neighborhood walk × Warm porch light sanctuary
 - **Date Added:** 2026-10-19
+
+### 10. Keep a Seat by the Sea
+- **Project:** [025](file:///Users/hoangkien/Youtube/coslient-free/projects/025) (Track 1)
+- **About:** Buổi sáng trên vách đá vôi và cầu tàu gỗ ven vịnh, ai đó đã lau khô sương sớm trên chiếc ghế dài và đặt sẵn chiếc cốc sứ thứ hai bên ấm cà phê nóng — luôn chừa sẵn một chỗ ngồi cho người lữ khách hay hàng xóm ghé qua
+- **Genre:** Pastoral Acoustic Folk Ballad, Celtic Coastal Folk
+- **BPM / Time:** ~120 BPM (60 BPM half-time), 4/4 gentle swaying coastal pulse
+- **Key:** G Major
+- **Duration:** 4:08
+- **Instrumentation:** Warm fingerpicked acoustic guitar, expressive solo violin / fiddle, deep wooden cello, wooden flute, upright bass, soft brushed snare
+- **Vocal:** Warm intimate close-mic male baritone with airy female harmony in choruses
+- **Cultural Anchor:** Quiet coastal cliffside bench × Morning coffee hospitality
+- **Date Added:** 2026-10-21
+
+### 11. Where the Evening Water Shines
+- **Project:** [025](file:///Users/hoangkien/Youtube/coslient-free/projects/025) (Track 2)
+- **About:** Hoàng hôn buông xuống bến cảng, thuyền bè đã buộc dây neo và những bát súp nóng được chuyền tay nhau bên bậc đá — hai chiếc ghế gỗ quay mặt ra vịnh nước lấp lánh dưới rặng thông để không ai phải ngồi một mình trong bóng chiều
+- **Genre:** Warm Chamber Folk Ballad, Coastal Evening Lullaby
+- **BPM / Time:** ~128 BPM (64 BPM half-time), 4/4 unhurried evening tide pulse
+- **Key:** C Major
+- **Duration:** 4:13
+- **Instrumentation:** Fingerpicked acoustic guitar, warm felt piano, lyrical cello & violin duet, mellow accordion / harmonium pad, upright bass, soft brush percussion
+- **Vocal:** Warm expressive female alto lead with gentle male baritone harmony in choruses
+- **Cultural Anchor:** Sunset harbor pier × Shared evening warmth beneath coastal pines
+- **Date Added:** 2026-10-21
 
 ---
 
