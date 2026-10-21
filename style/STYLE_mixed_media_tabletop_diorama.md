@@ -18,25 +18,25 @@
 2. **Phôi rối cách điệu đồng nhất: da giấy bồi mờ, mũi tròn mềm và tỷ lệ thanh mảnh kéo dài (`Unified Stylized Puppet Mold: Matte Paper-Pulp Skin, Soft Rounded Noses & Slender Elongated Proportions`):**
    - Toàn bộ nhân vật trong cùng vũ trụ chia sẻ chung một phôi rối cách điệu đặc trưng của nghệ thuật stop-motion thông qua làn da giấy bồi mờ (`matte paper-pulp skin`), chiếc mũi tròn mềm mại vừa vặn (`soft rounded noses`) và tỷ lệ hình thể thanh mảnh kéo dài (`slender elongated proportions`).
    - Giữ nguyên phôi mặt con rối điềm nhiên tự tại bằng cách bảo toàn cấu trúc phôi rối chung và phân hóa từng nhân vật thông qua 4 trục tạo hình cùng một điểm nhấn nhận diện độc bản gắn trên phôi rối.
-3. **Mái tóc và râu sợi bông xù dày phủ kín đỉnh đầu kèm nét chấm phá màu sắc (`Thick Full Fluffy Cotton-Fiber Hair with Distinctive Color Accent`):**
-   - Toàn bộ nhân vật ở mọi độ tuổi luôn sở hữu mái tóc và râu bằng chất liệu sợi bông đánh tơi bồng bềnh phủ dày kín toàn bộ đỉnh đầu (`thick full fluffy cotton-fiber hair covering the crown`), kết hợp một nét chấm phá màu sắc hoặc lọn tóc khác biệt để tạo dấu ấn cá tính riêng.
-4. **Trang phục vải dệt phẳng đủ bộ Áo – Quần dài/Váy dài – Giày và điểm nhấn sắc độ (`Complete Top-to-Shoe Woven Attire & Focal Color Accent`):**
-   - Mọi nhân vật luôn mặc đầy đủ cả bộ trang phục may từ vải dệt phẳng tự nhiên (`woven linen, cotton, chambray, canvas, corduroy, flannel`) gồm **áo dài tay + quần dài tới mắt cá (`full-length trousers / overalls`) hoặc váy dài (`ankle-length dress`) + giày (`leather / canvas shoes`)** đặt vững chãi trên bề mặt điểm tựa, kết hợp một chi tiết phụ kiện lạ mắt hoặc một điểm nhấn màu sắc tươi sáng nổi bật trên nền trang phục mộc mạc.
+3. **Mái tóc và râu sợi bông xù dày phủ kín đỉnh đầu với màu sắc và kiểu dáng đa dạng (`Thick Full Fluffy Cotton-Fiber Hair with Varied Colors & Styles`):**
+   - Toàn bộ nhân vật ở mọi độ tuổi luôn sở hữu mái tóc và râu bằng chất liệu sợi bông đánh tơi bồng bềnh phủ dày kín toàn bộ đỉnh đầu (`thick full fluffy cotton-fiber hair covering the crown`), linh hoạt biến hóa màu sắc, kiểu tạo hình hoặc điểm xuyết lọn tóc khác màu tùy theo cá tính từng nhân vật.
+4. **Trang phục vải dệt phẳng đủ bộ Áo – Quần dài/Váy dài – Giày và điểm nhấn nhận diện linh hoạt (`Complete Top-to-Shoe Woven Attire & Flexible Character Accent`):**
+   - Mọi nhân vật luôn mặc đầy đủ cả bộ trang phục may từ vải dệt phẳng tự nhiên (`woven linen, cotton, chambray, canvas, corduroy, flannel`) gồm **áo dài tay + quần dài tới mắt cá (`full-length trousers / overalls`) hoặc váy dài (`ankle-length dress`) + giày (`leather / canvas shoes`)** đặt vững chãi trên bề mặt điểm tựa, kết hợp linh hoạt một điểm nhấn cá tính (phụ kiện vùng đầu/cá nhân thú vị, nét chấm phá trên tóc, hoặc một chi tiết màu sắc tươi sáng nổi bật trên nền trang phục mộc mạc).
 5. **Một nguồn sáng chính duy nhất chiếu theo một hướng nhất quán (`Single Directional Light Source`):**
    - Khóa ở cuối mỗi câu lệnh một nguồn sáng tự nhiên duy nhất chiếu từ một hướng rõ rệt tạo ra một hướng đổ bóng thống nhất trên toàn cảnh (`Single directional [morning / afternoon / sunset / twilight] light casting a single coherent shadow direction`).
 
 ---
 
-## 2. Công thức đa dạng hóa nhân vật 4 trục kèm điểm nhấn độc bản và tư thế phóng khoáng ở giây 0
+## 2. Công thức đa dạng hóa nhân vật 4 trục kèm điểm nhấn linh hoạt và tư thế phóng khoáng ở giây 0
 
-1. **Công thức nén nhận diện riêng biệt 4 trục kèm điểm nhấn độc bản trên nền phôi rối chung (`Individualized 4-Axis & Signature Accent Formula`):**
-   - Giữ nguyên phôi rối cách điệu (`matte paper-pulp skin, soft rounded noses, slender elongated proportions`) và mô tả tách biệt từng nhân vật trong `14–20 từ` thông qua sự biến thiên của 4 trục kết hợp **1 Điểm nhấn độc bản (`Signature Accent`)**:
+1. **Công thức nén nhận diện riêng biệt 4 trục kèm điểm nhấn linh hoạt trên nền phôi rối chung (`Individualized 4-Axis & Flexible Accent Formula`):**
+   - Giữ nguyên phôi rối cách điệu (`matte paper-pulp skin, soft rounded noses, slender elongated proportions`) và mô tả tách biệt từng nhân vật trong `14–20 từ` thông qua sự biến thiên của 4 trục kết hợp **1 Điểm nhấn nhận diện linh hoạt (`Flexible Character Accent` — tự do chọn giữa nét chấm phá ở tóc, phụ kiện cá nhân lạ mắt hoặc điểm nhấn màu sắc trang phục để tạo sự đa dạng tự nhiên)**:
      - **Trục 1 — Chiều cao phôi rối (`Puppet Height`):** Phân biệt rõ rệt giữa dáng cao mảnh (`tall lanky`), dáng nhỏ nhắn (`petite`) hoặc chiều cao trẻ nhỏ ngang thắt lưng người lớn (`waist-high child`).
-     - **Trục 2 — Phụ kiện vùng đầu và phụ kiện cá nhân lạ mắt (`Facial Hair, Eyewear & Quirky Personal Accessory`):** Phối hợp đa dạng giữa râu sợi bông, ria mép, kính gọng mảnh, mũ đội đầu và một phụ kiện cá nhân có hình dáng hoặc chi tiết thủ công độc đáo tạo nét duyên riêng cho nhân vật.
-     - **Trục 3 — Màu sắc, kiểu tạo hình và lọn điểm nhấn trên tóc sợi bông (`Cotton-Fiber Hair Color, Style & Streak Accent`):** Biến hóa màu sắc và kiểu dáng tóc sợi bông phủ kín đỉnh đầu, kết hợp một lọn tóc điểm xuyết khác màu nổi bật trên mái tóc để tạo dấu ấn thị giác tức thì.
-     - **Trục 4 — Bộ trang phục đủ Áo – Quần dài/Váy dài – Giày kèm điểm nhấn sắc độ (`Full Woven Outfit with Trousers/Skirt, Footwear & Color Pop`):** Ghi rõ đầy đủ áo, quần dài (`trousers / overalls`) hoặc váy dài tới mắt cá (`ankle-length dress`) và giày đặt trên điểm tựa, kết hợp một điểm nhấn màu sắc tương phản nổi bật trên một chi tiết trang phục để thu hút thị giác.
+     - **Trục 2 — Phụ kiện vùng đầu và phụ kiện cá nhân (`Facial Hair, Eyewear & Personal Accessory`):** Phối hợp đa dạng giữa râu sợi bông, ria mép, kính gọng mảnh, mũ đội đầu và phụ kiện cá nhân có chi tiết thủ công thú vị.
+     - **Trục 3 — Màu sắc và kiểu tạo hình tóc sợi bông (`Cotton-Fiber Hair Color & Style`):** Biến hóa đa dạng màu sắc và kiểu dáng tóc sợi bông phủ kín đỉnh đầu (có thể tùy chọn điểm xuyết lọn tóc khác màu khi cần tạo nét riêng).
+     - **Trục 4 — Bộ trang phục đủ Áo – Quần dài/Váy dài – Giày kèm điểm nhấn sắc độ (`Full Woven Outfit with Trousers/Skirt, Footwear & Color Pop`):** Ghi rõ đầy đủ áo, quần dài (`trousers / overalls`) hoặc váy dài tới mắt cá (`ankle-length dress`) và giày đặt trên điểm tựa, kết hợp một điểm nhấn màu sắc tươi sáng trên trang phục để thu hút thị giác.
 2. **Nguyên tắc mô tả tách biệt từng cá nhân và tạo khoảng thở hình khối (`Individual Description & Clean Silhouette Separation`):**
-   - Khi khung hình có từ hai nhân vật trở lên, mô tả riêng từng nhân vật với chiều cao, phụ kiện lạ mắt, nét chấm phá trên mái tóc sợi bông và điểm nhấn màu sắc trang phục tương phản nhau, đồng thời giữ khoảng thoáng rõ ràng giữa hai đường viền cơ thể.
+   - Khi khung hình có từ hai nhân vật trở lên, mô tả riêng từng nhân vật với chiều cao, phụ kiện, màu tóc sợi bông và điểm nhấn màu sắc trang phục tương phản nhau, đồng thời giữ khoảng thoáng rõ ràng giữa hai đường viền cơ thể.
 3. **Tư thế phóng khoáng, thư thái tự nhiên ở giây 0 (`Relaxed Unhurried Body Language at Second Zero`):**
    - Ưu tiên các tư thế thả lỏng cơ thể tự nhiên, phóng khoáng và bất đối xứng (`relaxed unhurried posture`), hướng tầm mắt hoặc cử chỉ tương tác tự nhiên với không gian xung quanh.
 
