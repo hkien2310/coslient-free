@@ -11,9 +11,9 @@
 
 ## 1. Năm nguyên lý chất liệu mộc mạc và tạo hình nhân vật cách điệu trực quan
 
-1. **Thế giới phim stop-motion mộc mạc trong trẻo, kiến trúc đúng tỷ lệ và vật liệu tự nhiên nguyên bản (`Clean Tactile Stop-Motion & Authentic Natural Materials`):**
-   - Toàn bộ khung hình được xác lập ngay từ đầu câu bằng cụm định danh trực quan `Handcrafted stop-motion animation film still, clean natural [time-of-day] light, shallow depth of field.` để giữ ánh sáng trong trẻo, chiều sâu trường ảnh điện ảnh và quy mô công trình kiến trúc đúng tỷ lệ thực tế so với con người.
-   - Các công trình và đạo cụ sử dụng chất liệu mộc nguyên bản, sạch sẽ gồm gỗ tự nhiên sáng màu (`light pine / oak wood`), đá sạch (`clean natural stone`), gốm đất nung mờ (`matte ceramic / terracotta`) và sắt sơn mờ (`matte-painted iron`), tuân thủ nghiêm ngặt danh mục vật liệu tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
+1. **Thế giới phim stop-motion mộc mạc trong trẻo, kiến trúc một phía mở bầu trời và vật liệu tự nhiên nguyên bản (`Clean Tactile Stop-Motion & Single-Sided Open-Sky Architecture`):**
+   - Toàn bộ khung hình được xác lập ngay từ đầu câu bằng cụm định danh trực quan `Handcrafted stop-motion animation film still, clean natural [time-of-day] light, shallow depth of field.` để giữ ánh sáng trong trẻo và chiều sâu trường ảnh điện ảnh.
+   - Công trình kiến trúc hoặc vách phòng chỉ đặt ở **tối đa một bên khung hình (trái hoặc phải) dưới bầu trời mở thoáng phía trên**, mang một nét biến tấu hình học hoặc hoán vị công năng hơi kỳ lạ giàu chất thơ, kết hợp chất liệu mộc nguyên bản gồm gỗ tự nhiên sáng màu (`light pine / oak wood`), đá sạch (`clean natural stone`), gốm mờ (`matte ceramic / terracotta`) và sắt sơn mờ (`matte-painted iron`), tuân thủ nghiêm ngặt danh mục vật liệu tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
    - Mỗi câu lệnh gói gọn trong `65–85 từ` bằng ngôn ngữ mô tả vật lý trực diện.
 2. **Tỷ lệ nhân vật thanh thoát: da mờ mịn, mũi tròn vừa vặn và dáng người mảnh (`Slender Figures, Smooth Matte Skin & Soft Rounded Noses`):**
    - Nhân vật mang hình khối cách điệu thanh thoát đặc trưng của nghệ thuật stop-motion thông qua dáng người mảnh khảnh cân đối (`slender stop-motion figures`), làn da mờ mịn màng (`smooth matte skin`) và chiếc mũi tròn mềm mại vừa vặn (`soft rounded noses` / `small rounded nose`).
