@@ -22,7 +22,10 @@ Dựa vào chế độ đã chốt tại `1-idea.md`, lập file `character.md` 
 
 ### Bước 2: Đạo diễn `storyboard.md` theo cấu trúc âm nhạc
 `storyboard.md` tập trung vào hoạt động thực tế có mục đích, tương tác nhân-quả giữa các nhân vật, động cơ chất ngông, đường cong năng lượng, cỡ cảnh, góc máy và ánh sáng trực quan của từng khung hình:
-1. **Chuỗi mở màn (0:00 đến 0:25, 6 cảnh đầu):** Sáu cảnh đầu tiên đi qua đoạn nhạc dạo và những câu hát mở đầu, kết hợp các chiều dịch chuyển không gian với tương tác trao-nhận và vận động có đích hướng trên điểm nhìn thoáng rộng để giữ mắt người xem và định hình đại địa điểm.
+1. **Chuỗi mở màn (Hook 30 giây đầu, 0:00 đến 0:30, 6 đến 8 cảnh đầu):**
+   - **Mở vòng lặp tương tác ngay giây 0 (`Shot 01`):** Cảnh đầu tiên đặt chủ thể trong một hoạt động chuẩn bị hoặc cử chỉ đón đợi hướng về nhân vật đang tiến vào khung hình trên nền cảnh quan mở thoáng bầu trời để tạo điểm neo tò mò ngay từ giây đầu.
+   - **Tập trung mật độ dịch chuyển không gian (`50-70%`):** Dành `50-70%` số cảnh trong 30 giây đầu cho các chiều dịch chuyển không gian (`Chiều 1-4`) để mở rộng biên độ thị giác trước khi chuyển sang nhịp sinh hoạt đời thường ở phần sau của Verse.
+   - **Động năng thao tác `100%` và độ phủ toàn diện:** Toàn bộ các cảnh trong 30 giây đầu thể hiện trạng thái vận động, đứng thao tác nghề, di chuyển hành trình hoặc trao-nhận trực tiếp; đồng thời đi qua đủ 4 cấu trúc mật độ chủ thể (đơn, đôi, nhóm đa thế hệ có trẻ nhỏ, cận cảnh `B-roll`) và đủ 5 cấp độ cỡ cảnh.
 2. **Verse (Tự sự gần gũi):** Các lát cắt sinh hoạt, lao động thủ công, chế tác và chăm sóc ấm áp với mục đích thực tế rõ ràng, gắn với mạch cảm xúc của lời hát.
 3. **Chorus (Mở rộng không gian và kết nối):** Mở rộng quy mô khung hình bằng các góc toàn cảnh từ điểm nhìn cao xa, góc nghiêng từ trên cao 45 độ hoặc góc thấp ngước lên bầu trời, kết nối các nhân vật trong những hoạt động đồng hành giàu sức sống.
 4. **Bridge / Nhạc dạo (Điểm chuyển thị giác và cảm xúc):** Đặt các khoảnh khắc giao thoa tĩnh lặng ở mốc 2/3 bài, kết hợp bước chuyển pha ánh sáng rõ nét.

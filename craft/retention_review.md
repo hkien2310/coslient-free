@@ -21,6 +21,7 @@
      - Ở **Chế độ 2 (Ý niệm / Đa diện, 100% lát cắt)**: Mỗi cảnh giới thiệu một tổ hợp nhân vật đối lập mới trong các tiểu bối cảnh sa bàn đa dạng thuộc cùng đại địa điểm.
    - **Luật đảo nhịp liền kề 6 chiều ($N \to N+1$ `Six-Axis Consecutive Rotation`):** Hai cảnh sát nhau thay đổi đồng thời cả 6 yếu tố: cỡ cảnh, độ cao đặt máy trục dọc kèm hướng xoay ngang, tiểu bối cảnh công năng, hoạt động tương tác thực tế, mật độ tổ hợp chủ thể (1 người độc lập, cặp đôi, nhóm đa thế hệ hoặc tĩnh vật `B-roll`) và bảng màu chủ đạo của trang phục.
    - **Luật hạn ngạch biểu tượng chủ đề và mở rộng chất liệu đời sống (`Thematic Motif Quota & Life-Slice Expansion`):** Đạo cụ hoặc vật thể mang nghĩa đen của tiêu đề bài hát xuất hiện trực tiếp trong `20-30%` tổng số cảnh tại các điểm nút cảm xúc (Mở màn, Câu chốt Điệp khúc và Khép vòng). `70-80%` số cảnh còn lại chuyển tinh thần bài hát sang các hoạt động lao động thủ công, chế tác, hành trình và giao lưu cộng đồng khắp đại địa điểm.
+   - **Cấu trúc chuỗi mở màn 30 giây đầu (`30-Second Opening Hook Architecture`):** Chuỗi 6 đến 8 cảnh đầu tiên (`0:00-0:30`) mở ra vòng lặp tương tác ngay tại `Shot 01`, duy trì `100%` trạng thái vận động hoặc đứng thao tác, tập trung `50-70%` số cảnh thuộc 4 chiều dịch chuyển không gian (`Chiều 1-4`), và phủ đủ 4 cấu trúc mật độ chủ thể (đơn, đôi, nhóm đa thế hệ có trẻ nhỏ, cận cảnh `B-roll`) cùng 5 cấp độ cỡ cảnh.
 2. **Tiêu chuẩn `[HIGH RISK]` (Tối ưu trực tiếp tại từng phân đoạn nhạc):**
    - **Sức nặng thị giác của 30% Điểm nhấn Dịch chuyển Không gian (`30% Spatial Displacement Impact`):** Các cảnh thuộc nhóm 30% điểm nhấn tại Mở màn, Chorus, Solo và Outro tạo ra sự hoán vị tọa độ kiến trúc, giao thoa ranh giới trong và ngoài hoặc đối cực quy mô rõ nét so với 70% cảnh sinh hoạt đời thường.
    - **Đa dạng hóa nhân trắc học, thế hệ và xoay vòng bảng màu liên cảnh (`Cross-Shot Demographic & Chromatic Rotation`):** Luân chuyển các tổ hợp độ tuổi, giới tính, chiều cao phôi rối (`tall lanky`, `petite`, `waist-high child`) và xoay vòng dải màu tự nhiên của trang phục vải dệt qua từng cảnh.
@@ -31,10 +32,10 @@
 
 ## 2. Năm cổng kiểm toán trên storyboard
 
-### Cổng 1: 25 giây mở màn và chuỗi 6 cảnh đầu
-1. **Chuỗi 6 cảnh mở màn (0:00 đến 0:25):** Sáu cảnh đầu tiên đi qua đoạn nhạc dạo và những câu hát đầu, kết hợp các chiều dịch chuyển không gian với hoạt động chuẩn bị, chế tác, hành trình và sẻ chia có đích hướng rõ ràng trên điểm nhìn thoáng rộng.
-2. **Biến thiên quy mô và mật độ mở màn:** Sáu cảnh đầu tiên luân chuyển liên tục các cấp độ quy mô khung hình, độ cao đặt máy, kỹ thuật ống kính một trục và tổ hợp nhân vật/hoạt động để mở ra chiều sâu không gian của đại địa điểm.
-3. **Đối lập hình khối và phân tách hòa sắc từ mở màn:** Các nhân vật trong 6 cảnh đầu có sự tương phản về dáng vóc, cấu trúc mũi tròn, kiểu tóc/râu sợi bông và sử dụng các bảng màu trang phục vải dệt dài tay tách biệt nhau giữa từng cảnh.
+### Cổng 1: Chuỗi mở màn 30 giây đầu (Hook `0:00-0:30`, 6 đến 8 cảnh đầu)
+1. **Vòng lặp chờ đợi ở giây 0 (`Shot 01 Open Loop`) và động năng `100%`:** `Shot 01` mở màn bằng một hành động chuẩn bị hoặc cử chỉ mời gọi hướng tới nhân vật đang tiến vào khung hình trên điểm nhìn mở thoáng bầu trời. Toàn bộ 6 đến 8 cảnh trong 30 giây đầu tiên đều ở trạng thái vận động, đứng thao tác nghề thủ công, điều khiển phương tiện hoặc trao-nhận trực tiếp.
+2. **Mật độ điểm nhấn dịch chuyển không gian đầu bài (`50-70%`):** Trong 6 đến 8 cảnh đầu tiên, dành `50-70%` số cảnh cho các chiều dịch chuyển không gian (`Chiều 1-4`: giao thoa trong và ngoài, tương phản quy mô điểm tựa và khoảng không, động năng hành trình, hoán vị tọa độ kiến trúc) để định hình thế giới sa bàn.
+3. **Độ phủ toàn diện quy mô, mật độ chủ thể và hòa sắc trong 30 giây đầu:** Chuỗi mở màn luân chuyển qua đủ 5 cấp độ cỡ cảnh (`Extreme wide panoramic`, `Wide`, `Medium-wide`, `Medium / Medium waist-up`, `Close-up`), đi qua đủ 4 cấu trúc mật độ chủ thể (1 người, 2 người, nhóm đa thế hệ có trẻ nhỏ `waist-high child`, cận cảnh xúc giác `B-roll`) và phân tách bảng màu trang phục giữa từng cảnh liền kề.
 
 ### Cổng 2: Quét nhịp điệu chuyển cảnh và hạn ngạch biểu tượng (mỗi 4 đến 5 cảnh)
 1. **Kiểm tra độ biến thiên 6 chiều liền kề ($N \to N+1$):** Mỗi cặp cảnh kế tiếp luân chuyển đồng thời giữa:
@@ -59,9 +60,10 @@
 ### Cổng 5: Độ lắng đoạn chuyển (Bridge), đồng vọng khép vòng (Outro) và Bảng đối soát định lượng
 1. **Khoảng lắng nội tâm tại Bridge:** Hạ nhịp sang không gian bán nội thất hoặc bóng mát tĩnh lặng với cỡ cảnh gần và cử chỉ chăm sóc tinh tế trước khi mở vào điệp khúc cuối.
 2. **Đồng vọng khép vòng tại Outro:** Các cảnh cuối kết nối lại với không gian hoặc điểm hẹn của `Shot 01` khi cuộc gặp gỡ và sẻ chia đã trọn vẹn.
-3. **Bảng đối soát 5 chỉ số định lượng trước khi xuất `image.txt` (`Pre-Export Quantitative Sign-Off`):** Thống kê và xác nhận bảng `storyboard.md` đạt cả 5 chỉ số định lượng trước khi biên dịch sang câu lệnh tiếng Anh:
-   - **Chỉ số 1, Hạn ngạch đạo cụ chủ đề (`20-30%`):** Số cảnh xuất hiện trực tiếp vật thể/đạo cụ nghĩa đen của tiêu đề bài hát nằm trong khoảng `20-30%` tổng số cảnh; `70-80%` số cảnh còn lại mở rộng sang các hoạt động sống đa dạng.
-   - **Chỉ số 2, Đảo nhịp 6 chiều liền kề (`100%`):** Toàn bộ các cặp cảnh sát nhau ($N \to N+1$) thay đổi đồng thời cỡ cảnh, góc máy 2 chiều, tiểu bối cảnh, hoạt động tương tác, cấu trúc tổ hợp chủ thể và bảng màu trang phục.
-   - **Chỉ số 3, Phân bổ mật độ chủ thể cân bằng:** Chuỗi cảnh luân chuyển giữa cảnh 1 nhân vật (`20-30%`), cảnh 2 nhân vật (`45-55%`), cảnh nhóm/đa thế hệ có trẻ nhỏ `waist-high child` (`10-15%`) và cảnh cận cảnh `B-roll` (`8-12%`).
-   - **Chỉ số 4, Tỷ lệ 30% Điểm nhấn Không gian (`25-30%`):** Đạt tỷ lệ `25-30%` cảnh mang cấu trúc dịch chuyển không gian/kiến trúc theo 4 chiều, đặt tại chuỗi mở màn, các kỳ Chorus, Solo/Bridge và Outro.
-   - **Chỉ số 5, Đồng bộ kỹ thuật Phôi rối và Ánh sáng (`100%`):** Mọi cảnh đều khóa phôi rối cách điệu đồng nhất, mái tóc sợi bông dày phủ kín đỉnh đầu, trang phục đủ bộ áo, quần dài/váy dài, giày kèm điểm nhấn linh hoạt, tư thế tự nhiên ở giây 0 và một nguồn sáng duy nhất chiếu một hướng bóng đổ.
+3. **Bảng đối soát 6 chỉ số định lượng trước khi xuất `image.txt` (`Pre-Export Quantitative Sign-Off`):** Thống kê và xác nhận bảng `storyboard.md` đạt cả 6 chỉ số định lượng trước khi biên dịch sang câu lệnh tiếng Anh:
+   - **Chỉ số 1, Chuỗi mở màn 30 giây đầu (`0:00-0:30`):** 6 đến 8 cảnh đầu đạt `100%` trạng thái vận động/thao tác, `50-70%` số cảnh thuộc 4 chiều dịch chuyển không gian, và phủ đủ 4 cấu trúc mật độ chủ thể cùng 5 cấp độ cỡ cảnh.
+   - **Chỉ số 2, Hạn ngạch đạo cụ chủ đề (`20-30%`) và Động năng toàn bài (`75-85%`):** Số cảnh xuất hiện trực tiếp đạo cụ nghĩa đen của tiêu đề nằm trong khoảng `20-30%` tổng số cảnh; `75-85%` tổng số cảnh toàn bài ở trạng thái đứng thao tác, di chuyển hoặc trao-nhận.
+   - **Chỉ số 3, Đảo nhịp 6 chiều liền kề (`100%`):** Toàn bộ các cặp cảnh sát nhau ($N \to N+1$) thay đổi đồng thời cỡ cảnh, góc máy 2 chiều, tiểu bối cảnh, hoạt động tương tác, cấu trúc tổ hợp chủ thể và bảng màu trang phục.
+   - **Chỉ số 4, Phân bổ mật độ chủ thể cân bằng:** Chuỗi cảnh luân chuyển giữa cảnh 1 nhân vật (`20-30%`), cảnh 2 nhân vật (`45-55%`), cảnh nhóm/đa thế hệ có trẻ nhỏ `waist-high child` (`10-15%`) và cảnh cận cảnh `B-roll` (`8-12%`).
+   - **Chỉ số 5, Tỷ lệ 30% Điểm nhấn Không gian (`25-30%`):** Đạt tỷ lệ `25-30%` cảnh mang cấu trúc dịch chuyển không gian/kiến trúc theo 4 chiều, đặt tại chuỗi mở màn, các kỳ Chorus, Solo/Bridge và Outro.
+   - **Chỉ số 6, Đồng bộ kỹ thuật Phôi rối và Ánh sáng (`100%`):** Mọi cảnh đều khóa phôi rối cách điệu đồng nhất, mái tóc sợi bông dày phủ kín đỉnh đầu, trang phục đủ bộ áo, quần dài/váy dài, giày kèm điểm nhấn linh hoạt, tư thế tự nhiên ở giây 0 và một nguồn sáng duy nhất chiếu một hướng bóng đổ.
