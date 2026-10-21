@@ -11,9 +11,10 @@
 
 ## 1. Năm nguyên lý chất liệu sa bàn và tạo hình nhân vật cách điệu trực quan
 
-1. **Thế giới sa bàn thủ công đồng nhất và từ vựng thị giác trực quan (`Handcrafted Miniature Diorama & Direct Visual Language`):**
-   - Toàn bộ khung hình được xác lập ngay từ đầu câu bằng cụm định danh trực quan `Handcrafted stop-motion miniature diorama.` để quy đồng cả không gian kiến trúc, địa hình, mây trời và đạo cụ về cùng một thế giới mô hình làm tay giàu tính nghệ thuật.
-   - Sử dụng ngôn ngữ mô tả vật lý trực diện cho hình khối, bề mặt sơn mờ (`matte-painted`) và cấu trúc vật thể trong khung hình.
+1. **Thế giới sa bàn thủ công đồng nhất, kiến trúc đơn khối và từ vựng thị giác trực quan (`Handcrafted Miniature Diorama & Direct Visual Language`):**
+   - Toàn bộ khung hình được xác lập ngay từ đầu câu bằng cụm định danh trực quan `Handcrafted stop-motion miniature diorama.` để quy đồng cả không gian kiến trúc, địa hình, mây bông gòn (`pulled white cotton-wool clouds`) và đạo cụ về cùng một thế giới mô hình làm tay giàu tính nghệ thuật.
+   - Các công trình kiến trúc và đạo cụ trong sa bàn giữ cấu trúc đơn khối, quen thuộc và tinh gọn với nét lệch thủ công duyên dáng (`slightly crooked`), đặt trong bố cục giàu khoảng thở để tôn vinh chủ thể.
+   - Mỗi câu lệnh gói gọn trong `65–85 từ` bằng ngôn ngữ mô tả vật lý trực diện cho hình khối, bề mặt sơn mờ (`matte-painted`) và tương tác thực tế.
 2. **Tỷ lệ nhân vật cách điệu: da giấy bồi mờ, mũi tròn và tay chân mảnh (`Matte Paper-Pulp Skin, Rounded Nose & Thin Limbs`):**
    - Nhân vật mang hình khối cách điệu đặc trưng của nghệ thuật stop-motion thông qua làn da giấy bồi mờ (`matte paper-pulp skin`), chiếc mũi tròn to mềm mại (`big rounded noses` / `button nose`) và tỷ lệ tay chân mảnh khảnh (`thin limbs`).
    - Giữ nguyên vẻ điềm nhiên tự tại của gương mặt điêu khắc bằng cách chỉ mô tả trực diện cấu trúc mũi, kính, râu và mái tóc.
@@ -50,25 +51,27 @@
 # Trường hợp A - Chế độ 1 (Kể chuyện Cá nhân - Nhân vật xuyên suốt):
 # CHARACTERS: [TÊN TRACK] (Chế độ 1 - Kể chuyện Cá nhân)
 - Quy tắc vận hành:
-  1. Dùng mã `@Tên_nhân_vật` dưới đây trong `storyboard.md` và `image.txt` cho nhân vật chính xuyên suốt, kết hợp mô tả trực tiếp cho các nhân vật phụ xuất hiện trong hành trình.
-  2. Giữ cố định dáng vóc, cấu trúc mũi tròn và kiểu tóc/râu sợi bông của `@Tên_nhân_vật`; linh hoạt biến chuyển cử chỉ và trang phục theo diễn biến thực tế của từng cảnh.
+  1. Dùng mã `@Tên_nhân_vật` dưới đây trong `storyboard.md`. Khi biên dịch sang `image.txt`, điền trực tiếp **Cụm 4 trục vật lý cố định (`Locked 4-Axis Phrase`)** của nhân vật đó vào từng câu lệnh để giữ đồng nhất nhận diện về dáng vóc, râu/kính, tóc sợi bông và màu sắc trang phục xuyên suốt toàn bộ các cảnh.
+  2. Giữ cố định dáng vóc, cấu trúc mũi tròn, kiểu tóc/râu sợi bông và bộ trang phục nhận diện chính; linh hoạt biến chuyển tư thế khởi đầu hành động theo diễn biến thực tế của từng cảnh.
 
 1. **@[Tên_1]** ([Vai trò & độ tuổi bằng tiếng Việt]):
-   - **Character Prompt:** `Handcrafted stop-motion miniature diorama. Full-body character reference portrait on a sunlit studio backdrop of a stop-motion figure with matte paper-pulp skin, a big rounded nose, thin limbs, and fluffy wool-fiber hair: a [Trục 1: Physical Stature] [man/woman] with [Trục 2: Eyewear / Facial Hair / Headwear] and [Trục 3: Wool-Fiber Hair & Age Tone] in [Trục 4: Woven Attire & Footwear], standing in a relaxed upright posture. [Direct studio or natural lighting] --ar 16:9`
+   - **Locked 4-Axis Phrase (Dùng trong `image.txt`):** `a [Trục 1: Physical Stature] [old man / older woman / young man / young woman] with [Trục 2: Eyewear / Facial Hair / Headwear] and [Trục 3: Wool-Fiber Hair & Age Tone] in [Trục 4: Woven Attire & Footwear]`
+   - **Character Prompt:** `Handcrafted stop-motion miniature diorama. Full-body character reference portrait on a sunlit studio backdrop of a stop-motion figure with matte paper-pulp skin, a big rounded nose, thin limbs, and fluffy wool-fiber hair: [Locked 4-Axis Phrase resting on a wooden base]. Soft warm studio sunlight --ar 16:9`
 2. **@[Tên_Trẻ_Nhỏ]** *(khi câu chuyện có nhân vật trẻ nhỏ)*:
-   - **Character Prompt:** `Handcrafted stop-motion miniature diorama. Full-body character reference portrait on a sunlit studio backdrop of a waist-high stop-motion child with matte paper-pulp skin, a button nose, thin limbs, and fluffy wool-fiber hair: a [Trục 1: Child Stature] [boy/girl] with [Trục 3: Wool-Fiber Hair & Color] in [Trục 4: Woven Attire & Footwear]. [Direct studio or natural lighting] --ar 16:9`
+   - **Locked 4-Axis Phrase (Dùng trong `image.txt`):** `a waist-high little [boy/girl] with a button nose and [Trục 3: Wool-Fiber Hair & Color] in [Trục 4: Woven Attire & Footwear]`
+   - **Character Prompt:** `Handcrafted stop-motion miniature diorama. Full-body character reference portrait on a sunlit studio backdrop of a waist-high stop-motion child with matte paper-pulp skin, a button nose, thin limbs, and fluffy wool-fiber hair: [Locked 4-Axis Phrase resting on a wooden base]. Soft warm studio sunlight --ar 16:9`
 
 ---
 # Trường hợp B - Chế độ 2 (Ý niệm / Đa diện - 100% Lát cắt độc lập):
 # CHARACTERS: [TÊN TRACK] (Chế độ 2 - Ý niệm / Đa diện: 100% Lát cắt độc lập)
-- Quy tắc vận hành: Mỗi cảnh trong `storyboard.md` và `image.txt` giới thiệu các nhân vật độc lập hoàn toàn thông qua công thức nén nhận diện trực quan ngay trong từng dòng lệnh.
+- Quy tắc vận hành: Mỗi cảnh trong `storyboard.md` và `image.txt` giới thiệu các nhân vật độc lập hoàn toàn thông qua công thức nén 4 trục vật lý trực quan ngay trong từng dòng lệnh.
 ```
 
-### 3.2. Khung câu lệnh 4 khối trực quan cho `image.txt`
+### 3.2. Khung câu lệnh 4 khối trực quan cho `image.txt` (`65–85 từ/câu`)
 
 ```text
 # 1. Cảnh có người (Áp dụng cho cả Chế độ 1 và Chế độ 2):
-Handcrafted stop-motion miniature diorama. [Cỡ cảnh + Độ cao trục dọc + Hướng góc máy] [on/inside bối cảnh sa bàn thủ công và các chi tiết kiến trúc/đạo cụ sơn mờ trực quan]. Stop-motion figure(s) with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A (gọi @Tên_nhân_vật hoặc nén 4 trục trực quan: Dáng vóc, Kính/Râu/Mũ, Tóc sợi bông, Trang phục vải dệt dài tay & Giày trên điểm tựa) + tư thế khởi đầu hành động ở giây 0] [with/while Nhân vật B (nén 4 trục đối lập hình khối với A) + tư thế khởi đầu phối hợp]. [Ánh sáng điện ảnh trực quan] --ar 16:9
+Handcrafted stop-motion miniature diorama. [Cỡ cảnh + Độ cao trục dọc + Hướng góc máy] [on/inside bối cảnh sa bàn thủ công với công trình đơn khối tối giản và đạo cụ sơn mờ trực quan]. Stop-motion figure(s) with matte paper-pulp skin, big rounded noses, thin limbs, and fluffy wool-fiber hair: [Nhân vật A nén 4 trục vật lý trực quan (Dáng vóc, Kính/Râu/Mũ, Tóc sợi bông, Trang phục vải dệt dài tay & Giày trên điểm tựa) + tư thế khởi đầu hành động ở giây 0] [with/while Nhân vật B (nén 4 trục đối lập hình khối với A) + tư thế khởi đầu phối hợp]. [Ánh sáng điện ảnh trực quan] --ar 16:9
 
 # 2. Cảnh cận cảnh tĩnh vật (Still-life close-up B-roll):
 Handcrafted stop-motion miniature diorama. Close-up [độ cao trục dọc + hướng góc máy] shot on [bề mặt sa bàn thủ công trước hậu cảnh mờ dịu] of [1 đạo cụ thủ công sơn mờ đặt tại vị trí công năng]. [Ánh sáng điện ảnh trực quan] --ar 16:9

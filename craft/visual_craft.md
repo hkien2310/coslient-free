@@ -47,20 +47,21 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
 
 ---
 
-## 2. Nguyên lý khung tĩnh khởi đầu hành động, mỹ học điện ảnh và bốn động cơ chất ngông nghệ thuật (70/30)
+## 2. Nguyên lý khung tĩnh khởi đầu hành động, mỹ học một chạm siêu thực và bốn động cơ chất ngông nghệ thuật (70/30)
 
-1. **Định nghĩa Chất ngông Điện ảnh (`Cinematic Poetic Paradox & Calm Bohemian Audacity`):**
-   - **Chất ngông điện ảnh** nằm ở **sự nghịch lý giàu chất thơ của không gian kiến trúc sa bàn và bố cục khung hình**: đặt một hoạt động văn hóa, nghệ thuật hoặc tâm tình đời thường của các nhân vật stop-motion điềm nhiên tự tại vào một cấu trúc không gian mở thông ra thiên nhiên, một điểm tựa hình học tối giản giữa đất trời, hoặc một hành trình ngược gió đầy chất lãng tử.
+1. **Định nghĩa Chất ngông Điện ảnh & Luật Một chạm Siêu thực trên nền Công trình Tối giản (`Single Poetic Surreal Touch on Minimalist Everyday Structure`):**
+   - **Công trình và hành động giữ trọn sự tối giản, bình dị (90% trọng lượng cảnh):** Mọi cấu trúc kiến trúc và vật dụng trong cảnh đều là những công trình đơn khối, quen thuộc và tinh gọn với nét lệch thủ công duyên dáng (`slightly crooked`), nơi các nhân vật stop-motion thực hiện những cử chỉ chăm sóc, sẻ chia đời thường ấm áp.
+   - **Một chạm Siêu thực thơ mộng ở vị trí bối cảnh (`Single Poetic Surreal Touch` — 10% điểm nhấn):** Chất ngông điện ảnh nằm ở việc cài đặt **duy nhất một yếu tố dịch chuyển không gian giàu chất thơ tại Khối 2 (Bối cảnh)** — đặt một công trình đơn khối quen thuộc lên điểm tựa cao thoáng sát biển mây bông gòn (`pulled white cotton-wool clouds`), mở thông một vách phòng sinh hoạt ra thẳng mép đại dương, hoặc lướt phương tiện cổ điển sơn mờ dọc cung đường chân trời.
    - Mỗi bức ảnh tĩnh bắt đúng tư thế khởi đầu ở giây 0 (`t = 0s`) với toàn bộ cơ thể và đôi chân đi giày đặt vững chãi trên điểm tựa (`shoes resting on the surface`), kết hợp ánh sáng điện ảnh trực quan tương phản ấm – lạnh hoặc ánh nắng ngược viền sáng quanh mái tóc sợi bông.
 2. **Phân tách hai tư thế khởi đầu bổ trợ trong cùng khung hình (`Complementary Starting Postures`):**
    - Trong các cảnh có từ hai nhân vật trở lên, mỗi chủ thể đứng hoặc ngồi ở một tư thế khởi đầu riêng biệt, hiển thị đầy đủ toàn thân cùng đôi chân trên điểm tựa và chuẩn bị thực hiện một thao tác phối hợp ăn ý với người kia.
-3. **Tỷ lệ 70% Đời thường giàu chất thơ : 30% Điểm nhấn Chất ngông Điện ảnh:**
-   - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật sinh hoạt, chế tác thủ công, chăm sóc và trò chuyện trong những không gian kiến trúc sa bàn có cửa mở thoáng nhìn ra cảnh sắc thiên nhiên, tràn ngập chiều sâu ánh sáng và hơi thở đời sống.
-   - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Kiến tạo khung hình mang tầm vóc điện ảnh nghệ thuật thông qua **1 trong 4 động cơ chất ngông**:
-     1. **Động cơ 1 — Không gian nội thất mở vách ra mép thiên nhiên (`Open-Walled Studio at Nature's Edge`):** Đặt một không gian sinh hoạt, sáng tác hoặc chăm sóc ấm cúng có ánh đèn vàng ấm và tấm rèm vải mỏng bay trong gió mở thông trực tiếp ra vách đá, bờ biển hoặc sườn đồi mênh mông.
-     2. **Động cơ 2 — Điểm tựa hình học tối giản trước đường chân trời (`Minimalist Geometric Perch Against the Horizon`):** Đặt các nhân vật ngồi hoặc đứng toàn thân (hiển thị trọn vẹn cả hai chân và giày trên điểm tựa) trên những cấu trúc kiến trúc hoặc địa hình đơn khối tách biệt giữa thiên nhiên bao la, đối diện trực tiếp với đường chân trời rộng lớn.
-     3. **Động cơ 3 — Phương tiện cổ điển sơn mờ lướt gió và dải chuyển động ngang (`Matte-Painted Vintage Craft & Horizontal Wind-Swept Motion`):** Nhân vật điều khiển phương tiện thủ công sơn mờ (`matte-painted`) lướt dọc cung đường cảnh quan lấp lánh nắng ngược, hoặc trình diễn âm nhạc trên điểm cao giữa làn gió thổi bay căng ngang dải khăn vải dệt và mái tóc sợi bông.
-     4. **Động cơ 4 — Hoán vị công năng kiến trúc và sa bàn trên mây (`Architectural Repurposing & Cloud-Edge Diorama`):** Chuyển hóa một cấu trúc kiến trúc mở nằm bên bờ biển hoặc trên mỏm đá giữa biển mây bông gòn (`pulled cotton-wool clouds`) thành không gian thưởng thức âm nhạc và chăm sóc nghệ thuật ấm áp.
+3. **Tỷ lệ 70% Đời thường tối giản giàu chất thơ : 30% Điểm nhấn Một chạm Siêu thực Điện ảnh:**
+   - **70% số cảnh (tập trung ở Verse và Outro):** Nhân vật sinh hoạt, chế tác thủ công, chăm sóc và trò chuyện trong những không gian kiến trúc sa bàn đơn khối có cửa mở thoáng nhìn ra cảnh sắc thiên nhiên, tràn ngập chiều sâu ánh sáng và hơi thở đời sống.
+   - **30% số cảnh (đặt tại Cảnh 01 mở màn, Chorus và Nhạc dạo / Bridge):** Kiến tạo khung hình mang tầm vóc điện ảnh nghệ thuật bằng cách cài **duy nhất 1 chạm siêu thực thơ mộng tại vị trí bối cảnh** thông qua **1 trong 4 động cơ chất ngông**:
+     1. **Động cơ 1 — Không gian nội thất mở vách ra mép thiên nhiên (`Open-Walled Studio at Nature's Edge`):** Đặt một không gian sinh hoạt, sáng tác hoặc chăm sóc ấm cúng có ánh đèn vàng ấm mở thông trực tiếp một vách tường ra vách đá, bờ biển hoặc sườn đồi mênh mông.
+     2. **Động cơ 2 — Điểm tựa đơn khối tối giản trước đường chân trời & biển mây (`Minimalist Perch Above Horizon & Cloud Sea`):** Đặt một công trình nhỏ đơn khối hoặc điểm ngồi giản dị cùng các nhân vật hiển thị trọn vẹn từ đầu tới giày trên mỏm địa hình cao thoáng trước đường chân trời hoặc tầng mây bông gòn (`pulled white cotton-wool clouds`).
+     3. **Động cơ 3 — Phương tiện cổ điển sơn mờ lướt gió và dải chuyển động ngang (`Matte-Painted Vintage Craft & Horizontal Wind-Swept Motion`):** Nhân vật điều khiển phương tiện thủ công sơn mờ (`matte-painted`) lướt dọc cung đường cảnh quan lấp lánh nắng ngược, với làn gió thổi bay căng ngang dải khăn vải dệt và mái tóc sợi bông.
+     4. **Động cơ 4 — Hoán vị công năng công trình nhỏ bên mép biển mây (`Compact Architectural Repurposing at Cloud-Edge`):** Đặt một ki-ốt hoặc trạm dừng chân nhỏ gọn có nét lệch thủ công duyên dáng (`slightly crooked`) tại mép vách đá trên biển mây bông gòn làm nơi chăm sóc và sẻ chia ấm áp giữa người với người.
 
 ---
 
