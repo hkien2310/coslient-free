@@ -39,7 +39,7 @@ Các cảnh liền kề được khâu nối mượt mà bằng sự đồng đi
 
 | Shot & Giờ | Đoạn nhạc & Lời hát | Thông số đạo diễn (Cỡ cảnh, Độ cao + Hướng máy, Tiểu bối cảnh sa bàn, I2V) | Tạo hình 4 trục đối lập, Tư thế khởi đầu hành động & Ánh sáng trực quan |
 | :--- | :--- | :--- | :--- |
-| 01 (00:00-00:04) | [Intro] | Cỡ: [Cỡ cảnh]<br>Góc: [Độ cao trục dọc + Hướng ngang]<br>Bối cảnh: [Tiểu bối cảnh sa bàn thủ công]<br>I2V: [Quỹ đạo máy] | **[Tên ý tưởng / Động cơ]:** [Mô tả 4 trục trực quan đối lập của các nhân vật + Tư thế khởi đầu hành động ở giây 0 và tương tác nhân-quả trực tiếp + Ánh sáng trực quan]. |
+| 01 (00:00-00:04) | [Intro] | Cỡ: [Cỡ cảnh]<br>Góc: [Độ cao trục dọc + Hướng ngang]<br>Bối cảnh: [Tiểu bối cảnh sa bàn thủ công]<br>I2V: [Kỹ thuật máy 1 trục & đích khung hình] | **[Tên ý tưởng / Động cơ]:** [Mô tả 4 trục trực quan đối lập của các nhân vật + Tư thế khởi đầu hành động ở giây 0 và tương tác nhân-quả trực tiếp + Ánh sáng trực quan]. |
 ```
 
 ### Bước 3: Biên dịch 1:1 sang `image.txt`
@@ -76,7 +76,7 @@ Dịch từng dòng đã duyệt trong `storyboard.md` sang câu lệnh tiếng 
    - *Chủ thể và hoạt động tương tác:* Chuyển sang hoạt động thực tế mới và tổ hợp nhân vật đối lập mới (hoặc bước tiến triển sự kiện mới của `@Tên_nhân_vật` ở Chế độ 1).
    - *Tiểu bối cảnh và cao độ không gian:* Luân chuyển giữa không gian kiến trúc gần gũi, tuyến đường cảnh quan tầm trung và điểm nhìn cao mở ra đường chân trời.
    - *Cỡ cảnh và độ sâu trường ảnh:* Đan xen nhịp nhàng giữa cảnh rộng nét sâu và cảnh trung/cận hậu cảnh mờ dịu.
-   - *Độ cao trục dọc và hướng đặt máy:* Xoay vòng độ cao máy và góc nhìn ngang ở mỗi lần chuyển cảnh.
+   - *Độ cao trục dọc, hướng đặt máy và kỹ thuật I2V:* Xoay vòng độ cao máy, góc nhìn ngang và kỹ thuật ống kính một trục ở mỗi lần chuyển cảnh.
 
 ---
 
