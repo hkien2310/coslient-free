@@ -29,8 +29,8 @@
      - *Khi tịnh tiến thân máy một trục:* `The camera [moves slowly closer to X / pulls slowly back from X to reveal Y / glides laterally past X / rises gently alongside X until Y comes into view / circles gently around X keeping them centered], the frame swaying with natural motion.`
      - *Khi bám song song theo chủ thể đang bước đi hoặc di chuyển:* `Unstabilized camera moves alongside [X] at the same pace, the frame visibly bobbing and swaying.`
 
-2. **Lớp 2 — Động học cơ thể mềm mại từ tư thế khởi đầu và biểu cảm điềm tĩnh tự nhiên (`Fluid Human Kinematics from Onset & Calm Natural Tail`):**
-   - **Với cảnh có người:** Gọi chủ thể bằng danh từ chỉ người ngắn gọn khớp với ảnh gốc. Từ tư thế khởi đầu ở giây 0 trong ảnh, mô tả một chuyển động tiếp diễn liền mạch với trọng lượng cơ thể tự nhiên, bờ vai thả lỏng và khớp tay uyển chuyển như người thật (`with fluid, unhurried motion`, `gently shifting weight`, `smoothly`) kết hợp biểu cảm ấm áp và khép câu bằng đuôi cố định: **`, while facial expressions and everything around move naturally.`**
+2. **Lớp 2 — Động học cơ thể mềm mại, tương tác cảm xúc hai chiều và biểu cảm tự nhiên (`Fluid Human Kinematics, Reciprocal Affection & Calm Natural Tail`):**
+   - **Với cảnh có người:** Gọi chủ thể bằng danh từ chỉ người ngắn gọn khớp với ảnh gốc. Từ tư thế khởi đầu ở giây 0 trong ảnh, mô tả một chuyển động tiếp diễn liền mạch với trọng lượng cơ thể tự nhiên, bờ vai thả lỏng và khớp tay uyển chuyển như người thật (`with fluid, unhurried motion`, `gently shifting weight`, `smoothly`). Khi cảnh có từ hai nhân vật trở lên, diễn tả rõ sự giao cảm và hưởng ứng qua lại giữa họ trong 5 giây (ánh mắt nhìn nhau ấm áp, nghiêng đầu lắng nghe rồi mỉm cười gật đầu thấu hiểu, bàn tay vỗ nhẹ hoặc cử chỉ yêu thương chăm sóc tiếp diễn êm ái), và khép câu bằng đuôi cố định: **`, while facial expressions and everything around move naturally.`**
    - **Với cảnh cận cảnh tĩnh vật (`B-roll`):** Lấy vật thể trung tâm trong ảnh làm chủ thể, mô tả chuyển động vật lý tự nhiên phát triển êm ái từ trạng thái mở đầu của vật thể cùng môi trường và khép câu bằng đuôi: **`, while everything around moves naturally.`**
 
 ---
