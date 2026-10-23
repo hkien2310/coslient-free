@@ -36,14 +36,14 @@
   - Đầu mỗi đoạn đặt một thẻ `[...]` tiếng Anh ngắn gọn (3 đến 10 từ) ghi rõ tên đoạn, nhạc cụ dẫn dắt, người hát (`Male vocal / Female vocal / Duet`) và độ mạnh nhẹ; đặt tín hiệu kết êm ái ở thẻ cuối bài (`[Outro: ..., gentle fade out]`).
   - Dấu ngoặc đơn `(...)` chỉ dùng cho tiếng ngân (`"Mmm...", "Ooh..."`) hoặc lời hát bè thực sự phát ra tiếng.
 - **Cách dùng từ:**
-  - Dùng từ tiếng Anh đời thường, ngắn gọn (ưu tiên từ 1 đến 2 âm tiết) để hát rõ chữ và êm tai trên nhịp chậm.
-  - Chọn danh từ có dấu vết thời gian và động từ cử chỉ nhỏ để gợi cảm xúc thật.
-  - Dùng vật dụng và không gian gần gũi với ký ức đời thực của khán giả lớn tuổi; tuân thủ [`ref/banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/ref/banned_lyrics_motifs.md), [humanizer](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/humanizer/SKILL.md), [stop-slop](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/stop-slop/SKILL.md) và [avoid-ai-writing](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/avoid-ai-writing/SKILL.md).
-  - Gợi không gian và tâm tình bằng chi tiết đắt giá; phần mô tả dây chuyền thao tác tay chân để dành cho `storyboard.md`.
-  - Diễn đạt thời gian, tuổi tác và sự vật bằng hình ảnh cùng lượng từ tự nhiên để câu hát mềm mại, giàu chất thơ.
+  - Dùng chủ đạo từ vựng tiếng Anh đời thường 1 đến 2 âm tiết, kết hợp rút gọn khẩu ngữ và từ nối câu tự nhiên để ca sĩ hát tròn vành, mềm mại như đang trò chuyện.
+  - Luôn neo các từ cảm xúc và thời gian quen thuộc vào đồ vật, bộ phận cơ thể hoặc góc không gian cụ thể kèm giới từ định vị để câu hát vừa chạm cảm xúc vừa giàu hình ảnh thực.
+  - Mỗi danh từ ưu tiên đi kèm một tính từ đơn giản (hoặc cặp tính từ chỉ dấu vết thời gian và màu sắc, chất liệu) để câu chữ gọn, thoáng.
+  - Tạo chất thơ tự nhiên bằng các động từ chuyển động khoan thai và phép nhân hóa gắn động từ hơi thở, tri giác của con người cho cảnh vật, đồ vật xung quanh.
+  - Diễn đạt thời gian và sự vật bằng hình ảnh cùng lượng từ tự nhiên, nhường phần mô tả dây chuyền thao tác tay chân cho `storyboard.md`, và tuân thủ [`ref/banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/ref/banned_lyrics_motifs.md), [humanizer](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/humanizer/SKILL.md), [stop-slop](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/stop-slop/SKILL.md), [avoid-ai-writing](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/avoid-ai-writing/SKILL.md).
 - **Nhịp câu & gieo vần:**
   - Dòng hát vừa một hơi thở (khoảng 3 đến 4 nhịp nhấn), câu chữ có nhịp điệu trôi chảy, đan xen câu dài kể chuyện và câu ngắn nghỉ hơi để người nghe dễ phiêu theo.
-  - Gieo vần tự nhiên thuận theo nghĩa câu chữ và chủ động đổi mới cặp từ gieo vần qua từng bài.
+  - Linh hoạt chọn sơ đồ vần (`ABCB`, `ABAB`, `AABB` hoặc vần bán âm) hợp với mạch cảm xúc để câu tả thực luôn tự nhiên; ưu tiên từ kết câu có âm mở hoặc âm vang êm tai và chủ động đổi mới cặp từ gieo vần qua từng bài.
 - **Cách kể chuyện (`Verse` & `Chorus`):**
   - Giữ đúng ngôi kể đã chọn ở `1-idea.md` (**Chế độ 1**: theo tuyến nhân vật xuyên suốt; **Chế độ 2**: các lát cắt đời sống độc lập cùng chụm về điệp khúc).
   - `Verse`: Câu đầu tiên vào thẳng một hành động, lời nói thân tình hoặc khung cảnh cụ thể; phát triển câu chuyện bằng chi tiết đời thực và đan cài 2 đến 3 móc neo giác quan từ `1-idea.md`.
