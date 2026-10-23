@@ -11,7 +11,8 @@
 
 - **Câu thơ nghiệm sinh 1–2 âm tiết chạm tuổi già (`Poetic Payoff Line` - `[FATAL]`):** Mỗi khổ hát (`Verse`, `Chorus`, `Bridge`) phải có ít nhất 1 câu thơ giản dị dùng từ 1 đến 2 âm tiết (nhân hóa năm tháng, ký ức, tuổi già nằm xuống nghỉ ngơi hoặc đảo chiều cử chỉ nhỏ để thiên nhiên và ánh sáng ùa vào chở che con người).
 - **Nhịp sóng mượt mà ở đoạn chậm (`Wave Cadence 6–8 âm tiết` - `[FATAL]`):** Giữ dòng hát gọn trong dải `6 đến 8 âm tiết/dòng` (đan xen dòng mở ý `7–8 âm tiết` với dòng hạ vần `6 âm tiết`), nối chữ liền hơi bằng nguyên âm mở và phụ âm vang mềm, gieo vần toàn phần sát nhau (`AABB`, `ABAB` hoặc chuỗi vần đan cài 100% có vần).
-- **Vũ đạo đổi giọng & Biến thiên điệp khúc (`Vocal Hand-off & Progressive Chorus` - `[HIGH RISK]`):** Luân phiên giọng Nam trầm và Nữ trong trẻo theo nửa khổ hát hoặc qua `[Pre-Chorus]`, phát triển lời `Chorus` theo tiến trình thời gian trong ngày và đặt câu kết lắng đọng ở cuối điệp khúc cuối.
+- **Vũ đạo đổi giọng & Điệp khúc 2 tầng (`Vocal Hand-off & Whisper-to-Bloom` - `[HIGH RISK]`):** Luân phiên giọng Nam trầm và Nữ trong trẻo theo nửa khổ hát hoặc qua `[Pre-Chorus]`, phát triển lời `Chorus` theo tiến trình thời gian trong ngày, mở đầu điệp khúc cuối bằng giọng đôi thì thầm sát mic trước khi bung nở toàn dàn nhạc và khép lại bằng câu thủ thỉ sát mic (`spoken-sung whisper`).
+- **Đồng bộ Hình – Âm độc bản (`Synesthetic Audio-Visual Signature` - `[HIGH RISK]`):** Bản phối phải có âm sắc nhạc cụ định danh hóa thân trực tiếp từ nhịp chuyển động và thanh âm đặc trưng của bối cảnh trung tâm (đặt ở mở bài, điểm rơi trước điệp khúc và đoạn dạo giữa bài kèm câu ngân có giai điệu), khớp với các từ vựng gợi thanh âm trong lời hát.
 
 ---
 

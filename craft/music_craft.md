@@ -11,7 +11,8 @@
 
 - **Câu thơ nghiệm sinh 1–2 âm tiết chạm tuổi già (`Poetic Payoff Line`):** Mỗi khổ hát (`Verse`, `Chorus`, `Bridge`) kết tinh ít nhất 1 câu thơ giản dị bằng từ vựng 1 đến 2 âm tiết theo một trong hai cơ chế: nhân hóa để năm tháng, ký ức và tuổi già được dịu dàng nghỉ ngơi, hoặc đảo chiều một cử chỉ nhỏ của con người thành việc mở lối cho thiên nhiên và ánh sáng ùa vào chở che.
 - **Nhịp sóng mượt mà ở đoạn chậm (`Wave Cadence 7–8 / 6`):** Đan xen dòng mở ý (`7 đến 8 âm tiết`) với dòng hạ vần (`6 âm tiết`) có khoảng ngân cuối câu và gieo vần toàn phần sát nhau, giúp giọng hát lướt mềm, bắt vần nhanh và giữ nhịp cuốn hút.
-- **Vũ đạo đổi giọng & Biến thiên điệp khúc (`Vocal Hand-off & Progressive Chorus`):** Luân phiên màu giọng Nam trầm và Nữ trong trẻo ngay giữa các nửa khổ hát hoặc qua cầu nối `[Pre-Chorus]`, phát triển lời `Chorus` theo dòng chảy thời gian và giao câu kết cuối bài cho giọng trầm lắng đọng sát mic.
+- **Vũ đạo đổi giọng & Biến thiên điệp khúc (`Vocal Hand-off & Whisper-to-Bloom`):** Luân phiên màu giọng Nam trầm và Nữ trong trẻo ngay giữa các nửa khổ hát hoặc qua cầu nối `[Pre-Chorus]`, phát triển lời `Chorus` theo dòng chảy thời gian, mở đầu điệp khúc cuối bằng giọng đôi thì thầm sát mic trước khi bung mở toàn dàn nhạc và khép bài bằng câu thủ thỉ sát mic (`spoken-sung whisper`).
+- **Đồng bộ Hình – Âm độc bản (`Synesthetic Audio-Visual Signature`):** Chuyển hóa nhịp chuyển động và thanh âm đặc trưng của bối cảnh trung tâm thành âm sắc nhạc cụ định danh trong bản phối (đặt ở mở bài, điểm rơi trước điệp khúc và đoạn dạo giữa bài kèm câu ngân có giai điệu), đồng bộ trực tiếp với các từ vựng gợi thanh âm trong lời hát.
 
 ## 1. Cấu trúc Input & Output
 
