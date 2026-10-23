@@ -36,10 +36,10 @@
 
 ## Dự án & Kiến trúc thời lượng
 
-- **Quy mô:** 1 hoặc 2 bài / project tùy quy mô dự án (khi gồm 2 bài, hai bài liên kết hài hòa trong cùng mạch chủ đề và thế giới âm nhạc).
-- **Thời lượng mục tiêu:** Mỗi bài đạt từ 4 phút trở lên thông qua kiến trúc âm nhạc và các khoảng thở khí nhạc.
-- **Khung cấu trúc tự do 4 phút+:** Tổ chức tự do theo mạch cảm xúc từng bài, linh hoạt số lượng khổ hát, vị trí đoạn độc tấu và cách dẫn dắt giữa các phân đoạn (ví dụ tham khảo hai hướng cấu trúc — luôn chủ động biến tấu, thêm bớt khổ hát hoặc đảo vị trí phân đoạn theo câu chuyện riêng của từng bài):
-  - *Hướng cấu trúc phát triển điệp khúc:* Mở không gian bằng nhạc dạo (`Intro` 12–20s), đi qua các khổ hát (`Verse`, có thể đi liền 2 khổ hoặc qua `Pre-Chorus`) mở vào điệp khúc (`Chorus`), đan xen khoảng thở khí nhạc (`Interlude`), đoạn độc tấu nhạc cụ đối thoại (`Instrumental Solo` 15–30s), đoạn chuyển (`Bridge`), điệp khúc kết và đoạn kết (`Outro` 20–35s lắng dần).
+- **Quy mô:** Mặc định 1 bài độc lập cho mỗi dự án, hoặc mở rộng 2 bài liên kết trong cùng thế giới âm nhạc khi chủ đích làm dự án đa bài.
+- **Thời lượng tự nhiên:** Mỗi bài vận hành theo độ dài tự nhiên của mạch truyện và giai điệu (thường gọn gàng trong khoảng `2:30` đến `3:30`, hoặc mở rộng dài hơn khi ý tưởng cần thêm không gian tự sự).
+- **Khung cấu trúc tự do:** Tổ chức tự do theo mạch cảm xúc từng bài, linh hoạt số lượng khổ hát, vị trí đoạn độc tấu và cách dẫn dắt giữa các phân đoạn (ví dụ tham khảo hai hướng cấu trúc, luôn chủ động biến tấu, thêm bớt khổ hát hoặc đảo vị trí phân đoạn theo câu chuyện riêng của từng bài):
+  - *Hướng cấu trúc phát triển điệp khúc:* Mở không gian bằng nhạc dạo (`Intro`), đi qua các khổ hát (`Verse`, có thể đi liền 2 khổ hoặc qua `Pre-Chorus`) mở vào điệp khúc (`Chorus`), đan xen khoảng thở khí nhạc (`Interlude`), đoạn độc tấu nhạc cụ đối thoại (`Instrumental Solo`), đoạn chuyển (`Bridge`), điệp khúc kết và đoạn kết (`Outro` lắng dần).
   - *Hướng cấu trúc khổ thơ dân gian:* Các khổ thơ tự sự nối tiếp nhau qua những khoảng thở khí nhạc, mỗi khổ tự khép lại bằng câu điệp chủ đề ở dòng cuối và bừng sáng hòa âm tại đoạn chuyển hoặc điệp khúc kết tinh.
 
 ## Thể loại, Hòa âm & Giọng hát
@@ -75,7 +75,7 @@
   - Tổ chức mạch lời tiến triển tự nhiên theo một trục vận động xuyên suốt (ví dụ: nhịp chuyển của ánh sáng trong ngày, nhịp đổi mùa, hoặc độ mở từ không gian chung về tâm thức riêng — luôn chủ động sáng tạo trục vận động mới theo ý tưởng bài hát).
   - Giữ vững câu chủ đề (`Hook`) định danh qua các lần lặp; ở điệp khúc cuối, linh hoạt lựa chọn giữa giữ nguyên toàn bộ lời điệp khúc để tối ưu độ bắt tai, dễ thuộc (`Sing-Along`) hoặc nâng cấp nhẹ nhàng những dòng khép lại sang trạng thái thấu suốt, trân trọng và làm chủ bình yên tùy theo mạch truyện.
 - **Kiến trúc vần, Độ uyển chuyển và Cấu trúc Dễ Hát Theo:**
-  - **Sơ đồ vần linh hoạt theo cảm xúc bài hát:** Giữ mật độ ca từ thư thả (`75–105 từ/phút` khi hát), dành tối thiểu `25%–35%` tổng thời lượng bài hát cho nhạc dạo và khoảng ngân khí nhạc. Linh hoạt lựa chọn và kết hợp sơ đồ vần phù hợp với tính chất từng bài (ví dụ: vần cách `ABCB`, vần gần âm, vần chéo `ABAB`, vần đôi `AABB`), tạo sự phân tách tự nhiên giữa nhịp tự sự ở khổ hát và độ bắt tai ở điệp khúc.
+  - **Sơ đồ vần linh hoạt theo cảm xúc bài hát:** Giữ mật độ ca từ thư thả kết hợp khoảng thở khí nhạc vừa vặn với nhịp điệu tự nhiên của tác phẩm. Linh hoạt lựa chọn và kết hợp sơ đồ vần phù hợp với tính chất từng bài (ví dụ: vần cách `ABCB`, vần gần âm, vần chéo `ABAB`, vần đôi `AABB`), tạo sự phân tách tự nhiên giữa nhịp tự sự ở khổ hát và độ bắt tai ở điệp khúc.
   - **Đồng bộ trọng âm, Từ nối mềm và Câu rơi ngắn cuối khổ:** Giữ số phách nhấn tự nhiên đồng đều giữa các dòng đối xứng, kết hợp các từ nối chuyển ý mềm mại, vần lưng và điệp cấu trúc mỏ neo ở đầu câu để dòng sau nâng đỡ dòng trước liền mạch như làn sóng. Linh hoạt đan xen các dòng tự sự đầy đặn với một câu rơi ngắn cô đọng (3 đến 6 âm tiết) ở cuối khổ để tạo khoảng ngân sâu cho nhạc cụ; ưu tiên đặt các từ có nguyên âm mở hoặc phụ âm vang (`-m, -n, -l, -r`) ở cuối câu.
   - **Khổ hát (`Verse`):** Độ dài dòng co giãn uyển chuyển theo nhịp thở trò chuyện tự nhiên (thường từ **6 đến 11 âm tiết**, kết hợp linh hoạt với câu chốt ngắn cuối khổ). Mỗi khổ hát duy trì một mạch không gian và cảm xúc thống nhất; tùy theo vai trò của từng khổ trong bài để triển khai xuyên suốt một tình huống/hành động tự sự trọn vẹn, hoặc đi từ cử chỉ, lời thoại gần gũi ở nửa đầu sang mở rộng tầm nhìn và chiều sâu tâm tình ở nửa sau nhằm tạo đà nâng vào điệp khúc.
   - **Tiền điệp khúc (`Pre-Chorus` — tùy chọn):** Co gọn trong 2 đến 4 dòng ngắn, tạo điểm tựa lắng đọng và chuyển hóa góc nhìn trước khi mở vào điệp khúc.
