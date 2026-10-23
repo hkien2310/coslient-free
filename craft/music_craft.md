@@ -44,7 +44,7 @@
 - **Nhịp câu & gieo vần:**
   - Giữ độ dài dòng hát gọn đều (`6 đến 8 âm tiết/dòng`, tương ứng `3 nhịp nhấn`) trên toàn bộ các đoạn chậm (`Verse`, `Bridge`) lẫn điệp khúc (`Chorus`), giúp ca sĩ nhả chữ gọn nảy, giữ tốc độ câu hát mượt mà và dễ hát theo ở tempo Folk thư thả.
   - Phối âm liền hơi (`Legato Singability`): Kết nối các từ bằng nguyên âm mở và phụ âm vang mềm (`l, r, m, n, w`), luân phiên nhịp nhấn và nhịp lướt đều đặn giữa các từ để giọng hát trôi mượt qua từng phách nhạc.
-  - Gieo vần dày và sát ở mọi khổ hát (`AABB` hoặc `ABAB` toàn phần, 100% các dòng đều có vần): Đặt các từ vần cách nhau trong phạm vi 1 dòng ngắn (`6 đến 8 âm tiết`) để tai người nghe bắt được vần ngay lập tức; ưu tiên từ kết câu có âm mở hoặc âm vang êm tai và chủ động đổi mới cặp từ gieo vần qua từng bài.
+  - Gieo vần dày và sát ở mọi khổ hát (`AABB`, `ABAB` hoặc chuỗi vần đan cài toàn phần nơi 100% các dòng trong khổ đều có vần ăn khớp): Đặt các từ vần cách nhau ngắn để tai người nghe bắt được vần liên tục; ưu tiên từ kết câu có âm mở hoặc âm vang êm tai và chủ động đổi mới cặp từ gieo vần qua từng bài.
 - **Cách kể chuyện (`Verse` & `Chorus`):**
   - Giữ đúng ngôi kể đã chọn ở `1-idea.md` (**Chế độ 1**: theo tuyến nhân vật xuyên suốt; **Chế độ 2**: các lát cắt đời sống độc lập cùng chụm về điệp khúc).
   - `Verse`: Câu đầu tiên vào thẳng một hành động, lời nói thân tình hoặc khung cảnh cụ thể; phát triển câu chuyện bằng chi tiết đời thực và đan cài 2 đến 3 móc neo giác quan từ `1-idea.md`.
