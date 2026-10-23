@@ -1,0 +1,4 @@
+{
+  "name": "coslient-review",
+  "description": "Adversarial red-team review subagent for Coslient 6-step workflow."
+}

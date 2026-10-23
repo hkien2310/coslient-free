@@ -111,8 +111,12 @@ Mọi thao tác chỉnh sửa các file tài liệu trong `craft/`, `style/`, `C
 
 ---
 
-## 5. NGUYÊN TẮC TỰ PHẢN BIỆN & CHỐNG NỊNH BỢ (ADVERSARIAL VERIFIER - BẮT BUỘC)
-Bắt buộc kích hoạt tư duy [`adversarial-verifier`](./.agents/skills/adversarial-verifier/SKILL.md) trên toàn bộ ý tưởng, lời nhạc, kho ảnh và kế hoạch:
+## 5. CƠ CHẾ ĐỐI KHÁNG HAI CỰC & CHỐNG NỊNH BỢ (`CREATOR` VS `ADVERSARIAL-REVIEWER` — BẮT BUỘC)
+Bắt buộc kích hoạt tư duy [`adversarial-verifier`](./.agents/skills/adversarial-verifier/SKILL.md) và cơ chế giao chiến độc lập giữa **Agent chính (Chuyên tạo)** và **Subagent [`adversarial-reviewer`](./.agents/agents/adversarial-reviewer.md) (Kẻ thù kiểm toán — Chỉ có quyền đọc & chạy lệnh đếm)**:
+* **Luật Giao Chiến 5 Cổng (`Adversarial Combat Loop`):**
+  - Ngay sau khi soạn xong bản nháp ở từng bước (`Bước 1: 1-idea.md`, `Bước 2: 2-music.md & 3-lyrics.txt`, `Bước 3-4: character.md/storyboard.md/image.txt`, `Bước 5: prompt-animate.txt`, `Bước 6: 6-seo.md`), Agent chính **bắt buộc gọi Subagent `adversarial-reviewer`** (duy trì xuyên suốt một `conversationId` qua `send_message` trong toàn dự án để Subagent lưu giữ trí nhớ đối chiếu từ Bước 1 đến Bước 6).
+  - Subagent `adversarial-reviewer` mặc định coi bản nháp đang `FAIL`, trực tiếp chạy lệnh đo đạc định lượng (`wc`, `grep`, đếm âm tiết, đếm ký tự, tính tỷ lệ `%`) và đối chiếu với 5 cổng (`idea_review.md`, `music_review.md`, `retention_review.md`, `animation_review.md`, `seo_review.md`) để ra cáo trạng `REJECT` hoặc `PASS`.
+  - Khi bị `adversarial-reviewer` bác bỏ (`REJECT`): Agent chính phải **sửa trực tiếp vào file** đối với mọi lỗi `[FATAL]` / sai số định lượng có thật và gửi lại để kiểm toán vòng tiếp theo; đồng thời **phản biện đanh thép bằng dẫn chứng từ `craft/*_craft.md`** nếu Subagent bắt bẻ sai hoặc ép khuôn đòn bẩy tùy chọn (`[HIGH RISK]`). Chỉ trình kết quả cho User sau khi đã qua cổng.
 * **Tuyệt đối không nịnh bợ:** Không khen xã giao ("Tuyệt vời", "Ý tưởng hay"). Coi mọi đề xuất như một giả thuyết cần chứng minh độc lập.
 * **Bóc trần tử huyệt:** Phân cấp rõ rủi ro (`[FATAL]` vs `[HIGH RISK]`), không giấu lỗi, không giới hạn số lượng lỗi nếu thực sự chí mạng.
 * **Phân biệt Lỗi Kỹ Thuật (Bug) vs Đặc trưng Thể loại (Feature):** `[FATAL]` CHỈ dành cho lỗi gãy vỡ dữ liệu/logic (lệch timeline, hở gap, sai character bible, trùng catalog). Tuyệt đối KHÔNG gán `[FATAL]` cho sự lặp lại êm ái, nhịp chậm, hay chuỗi lát cắt đời sống (vignettes) vốn là đặc trưng của dòng nhạc/video an trú (Soul Sanctuary).
