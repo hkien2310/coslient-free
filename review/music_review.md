@@ -7,6 +7,12 @@
 >   2. Không dùng phủ định.
 >   3. Tuyệt đối không viết Use Case mà phải đúc kết thành Rule.
 
+## Nguyên tắc cốt lõi khi Kiểm toán Bài hát WIN
+
+- **Câu thơ nghiệm sinh 1–2 âm tiết chạm tuổi già (`Poetic Payoff Line` - `[FATAL]`):** Mỗi khổ hát (`Verse`, `Chorus`, `Bridge`) phải có ít nhất 1 câu thơ giản dị dùng từ 1 đến 2 âm tiết (nhân hóa năm tháng, ký ức, tuổi già nằm xuống nghỉ ngơi hoặc đảo chiều cử chỉ nhỏ để thiên nhiên và ánh sáng ùa vào chở che con người).
+- **Nhịp sóng mượt mà ở đoạn chậm (`Wave Cadence 6–8 âm tiết` - `[FATAL]`):** Giữ dòng hát gọn trong dải `6 đến 8 âm tiết/dòng` (đan xen dòng mở ý `7–8 âm tiết` với dòng hạ vần `6 âm tiết`), nối chữ liền hơi bằng nguyên âm mở và phụ âm vang mềm, gieo vần toàn phần sát nhau (`AABB`, `ABAB` hoặc chuỗi vần đan cài 100% có vần).
+- **Vũ đạo đổi giọng & Biến thiên điệp khúc (`Vocal Hand-off & Progressive Chorus` - `[HIGH RISK]`):** Luân phiên giọng Nam trầm và Nữ trong trẻo theo nửa khổ hát hoặc qua `[Pre-Chorus]`, phát triển lời `Chorus` theo tiến trình thời gian trong ngày và đặt câu kết lắng đọng ở cuối điệp khúc cuối.
+
 ---
 
 ## 1. Cấu trúc Kiểm toán Bài hát WIN (`[FATAL]` & `[HIGH RISK]` - Đúc kết từ [`ref/doi-thu/RANKING.md`](../ref/doi-thu/RANKING.md) & [`ref-real-music/index.md`](../ref-real-music/index.md))
