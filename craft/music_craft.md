@@ -9,7 +9,7 @@
 
 ## 1. Cấu trúc Input & Output
 
-- **Input:** `1-idea.md`, `ref/lyrics-index.md`, `ref/banned_lyrics_motifs.md`, `ref/doi-thu/RANKING.md`, `ref-real-music/index.md` (tùy chọn).
+- **Input:** `1-idea.md`, `ref/lyrics-index.md`, `ref/banned_lyrics_motifs.md`.
 - **Output:**
   - `projects/XXX/2-music.md`: Gồm tên bài, `Style prompt`, `Exclude` và `Lyrics` kèm thẻ điều phối (mặc định 1 bài đơn, hoặc 2 bài liên kết khi làm dự án đa bài).
   - `3-lyrics.txt` (hoặc `track-N-<track-title-slug>/3-lyrics.txt` với dự án đa bài): Bản lời sạch chuẩn DistroKid.
@@ -32,8 +32,8 @@
 
 ### 2.3. Luật của Lyrics (`2-music.md` & `3-lyrics.txt`)
 - **Thẻ điều phối:**
-  - Chia cấu trúc bài (`Intro`, `Verse`, `Chorus`, `Interlude / Instrumental Solo`, `Bridge`, `Outro`) và một đoạn lắng nhạc cụ linh hoạt theo câu chuyện.
-  - Đầu mỗi đoạn đặt một thẻ `[...]` tiếng Anh ngắn gọn (3 đến 10 từ) ghi rõ tên đoạn, nhạc cụ dẫn dắt, người hát (`Male vocal / Female vocal / Duet`) và độ mạnh nhẹ.
+  - Chia cấu trúc bài (`Intro`, `Verse`, `Chorus`, `Interlude / Instrumental Solo`, `Bridge`, `Outro`) và một đoạn lắng nhạc cụ linh hoạt theo câu chuyện, vừa vặn trong một lần sinh nhạc trọn vẹn của Suno.
+  - Đầu mỗi đoạn đặt một thẻ `[...]` tiếng Anh ngắn gọn (3 đến 10 từ) ghi rõ tên đoạn, nhạc cụ dẫn dắt, người hát (`Male vocal / Female vocal / Duet`) và độ mạnh nhẹ; đặt tín hiệu kết êm ái ở thẻ cuối bài (`[Outro: ..., gentle fade out]`).
   - Dấu ngoặc đơn `(...)` chỉ dùng cho tiếng ngân (`"Mmm...", "Ooh..."`) hoặc lời hát bè thực sự phát ra tiếng.
 - **Cách dùng từ:**
   - Dùng từ tiếng Anh đời thường, ngắn gọn (ưu tiên từ 1 đến 2 âm tiết) để hát rõ chữ và êm tai trên nhịp chậm.
@@ -47,7 +47,7 @@
 - **Cách kể chuyện (`Verse` & `Chorus`):**
   - Giữ đúng ngôi kể đã chọn ở `1-idea.md` (**Chế độ 1**: theo tuyến nhân vật xuyên suốt; **Chế độ 2**: các lát cắt đời sống độc lập cùng chụm về điệp khúc).
   - `Verse`: Câu đầu tiên vào thẳng một hành động, lời nói thân tình hoặc khung cảnh cụ thể; phát triển câu chuyện bằng chi tiết đời thực và đan cài 2 đến 3 móc neo giác quan từ `1-idea.md`.
-  - `Chorus` & `Hook`: Gom cảm xúc chính của `1-idea.md` theo đúng chất bài hát (lời hẹn ước, nhịp bước chân giữa cảnh vật, cảm giác bình yên nơi thuộc về, hoặc suy ngẫm nhẹ nhõm); đặt câu `Hook` ngắn gọn, bắt tai và vừa một hơi thở ở vị trí đinh của điệp khúc; giữ mạch thời gian và cảm xúc liền lạc đến cuối bài.
+  - `Chorus` & `Hook`: Gom cảm xúc chính của `1-idea.md` theo đúng chất bài hát (lời hẹn ước, nhịp bước chân giữa cảnh vật, cảm giác bình yên nơi thuộc về, hoặc suy ngẫm nhẹ nhõm); đặt câu `Hook` gắn với tên bài, ngắn gọn, bắt tai và vừa một hơi thở ở vị trí đinh của điệp khúc; giữ mạch thời gian và cảm xúc liền lạc đến cuối bài.
 - **Định dạng file lời:**
   - `2-music.md`: Giữ đầy đủ thẻ `[...]`, lời bè `(...)` và dấu câu tự nhiên.
-  - `3-lyrics.txt`: Chỉ giữ lời hát thành tiếng, viết hoa chữ cái đầu dòng, để trống dấu câu cuối dòng và cách các khổ đúng 1 dòng trống.
+  - `3-lyrics.txt`: Chỉ giữ lời hát thành tiếng, ghi đầy đủ toàn văn các điệp khúc lặp lại, viết hoa chữ cái đầu dòng, để trống dấu câu cuối dòng và cách các khổ đúng 1 dòng trống.
