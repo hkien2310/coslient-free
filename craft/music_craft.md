@@ -40,7 +40,7 @@
   - Chọn danh từ có dấu vết thời gian và động từ cử chỉ nhỏ để gợi cảm xúc thật.
   - Dùng vật dụng và không gian gần gũi với ký ức đời thực của khán giả lớn tuổi; tuân thủ [`ref/banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/ref/banned_lyrics_motifs.md), [humanizer](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/humanizer/SKILL.md), [stop-slop](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/stop-slop/SKILL.md) và [avoid-ai-writing](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/avoid-ai-writing/SKILL.md).
   - Gợi không gian và tâm tình bằng chi tiết đắt giá; phần mô tả dây chuyền thao tác tay chân để dành cho `storyboard.md`.
-  - Viết mọi con số thành chữ tiếng Anh chuẩn.
+  - Diễn đạt thời gian, tuổi tác và sự vật bằng hình ảnh cùng lượng từ tự nhiên để câu hát mềm mại, giàu chất thơ.
 - **Nhịp câu & gieo vần:**
   - Dòng hát vừa một hơi thở (khoảng 3 đến 4 nhịp nhấn), câu chữ có nhịp điệu trôi chảy, đan xen câu dài kể chuyện và câu ngắn nghỉ hơi để người nghe dễ phiêu theo.
   - Gieo vần tự nhiên thuận theo nghĩa câu chữ và chủ động đổi mới cặp từ gieo vần qua từng bài.
