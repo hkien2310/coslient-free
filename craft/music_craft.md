@@ -39,7 +39,7 @@
 
 ### 2.3. Luật của Lyrics (`2-music.md` & `3-lyrics.txt`)
 - **Thẻ điều phối:**
-  - Chia cấu trúc bài (`Intro`, `Verse`, `Chorus`, `Interlude / Instrumental Solo`, `Bridge`, `Outro`) và một đoạn lắng nhạc cụ linh hoạt theo câu chuyện, vừa vặn trong một lần sinh nhạc trọn vẹn của Suno.
+  - Chia cấu trúc bài gọn gàng (khoảng `36 đến 44 dòng lời` cùng 1 đoạn dạo nhạc cụ giữa bài, tương ứng thời lượng `2:45 đến 3:30`: `Intro`, `Verse`, `Chorus`, `Instrumental Solo / Interlude`, `Bridge`, `Outro`) và một đoạn lắng nhạc cụ linh hoạt theo câu chuyện, vừa vặn trong một lần sinh nhạc trọn vẹn của Suno.
   - Đầu mỗi đoạn đặt một thẻ `[...]` tiếng Anh ngắn gọn (3 đến 10 từ) ghi rõ tên đoạn, nhạc cụ dẫn dắt, người hát (`Male vocal / Female vocal / Duet`) và độ mạnh nhẹ; đặt tín hiệu kết êm ái ở thẻ cuối bài (`[Outro: ..., gentle fade out]`).
   - Dấu ngoặc đơn `(...)` chỉ dùng cho tiếng ngân (`"Mmm...", "Ooh..."`) hoặc lời hát bè thực sự phát ra tiếng.
 - **Cách dùng từ:**
