@@ -23,7 +23,7 @@
 ## Cấu trúc file `1-idea.md` & Quy tắc Định danh
 
 1. **Tiêu đề Dự án (`# [MÃ PROJECT]: [TÊN Ý TƯỞNG TIẾNG VIỆT]`):** Đặt bằng một cụm từ hoặc mệnh đề tiếng Việt cô đọng, giàu chất thơ đời thường, phản ánh trực tiếp hạt nhân ý niệm của dự án.
-2. **Định danh Bài hát (`Track Title`):** Đặt tên bài hát tiếng Anh ngắn gọn (3 đến 6 từ) giàu nhạc tính và sử dụng từ vựng vượt thời gian. Mặc định mỗi dự án gồm 1 bài hát độc lập; khi chủ đích làm dự án đa bài, chia theo các góc nhìn hoặc cung bậc thời gian của cùng một mạch cảm xúc, ghi rõ Chế độ (`Chế độ 1` hoặc `Chế độ 2`) cho từng bài và đặt mã thư mục `track-N-<slug>` chuyển đổi 1:1 từ tên bài hát sang chữ thường nối gạch ngang (`kebab-case`).
+2. **Định danh Bài hát (`Track Title`):** Đặt tên bài hát tiếng Anh ngắn gọn, giàu nhạc tính và sử dụng từ vựng vượt thời gian. Mặc định mỗi dự án gồm 1 bài hát độc lập; khi chủ đích làm dự án đa bài, chia theo các góc nhìn hoặc cung bậc thời gian của cùng một mạch cảm xúc, ghi rõ Chế độ (`Chế độ 1` hoặc `Chế độ 2`) cho từng bài và đặt mã thư mục `track-N-<slug>` chuyển đổi 1:1 từ tên bài hát sang chữ thường nối gạch ngang (`kebab-case`).
 
 File `projects/XXX/1-idea.md` gồm 4 thành phần chính và định hướng bài hát:
 
@@ -31,8 +31,8 @@ File `projects/XXX/1-idea.md` gồm 4 thành phần chính và định hướng 
 # [MÃ PROJECT]: [TÊN Ý TƯỞNG TIẾNG VIỆT]
 
 - Cảm xúc cốt lõi: [Ghi rõ Nhãn sắc thái chủ đạo (Lưu luyến hoài niệm / Bình yên chở che / Tươi sáng yêu đời / Chiêm nghiệm từng trải) + Đường cong chuyển dịch cảm xúc từ mở đầu thân tình đến điểm lắng cuối bài]
-- Trục câu chuyện & Lát cắt: [Ghi rõ Chế độ 1 (Kể chuyện Cá nhân) hoặc Chế độ 2 (Ý niệm / Đa diện 100% Lát cắt) + Xác lập rõ Hạt nhân ý niệm thống nhất và điểm chạm thơ mộng xuyên suốt cho tuyến nhân vật hoặc chuỗi lát cắt]
-- Móc neo giác quan: [2-3 cử chỉ tương tác hoặc dấu vết vật lý đời thực thể hiện trực tiếp hạt nhân ý niệm và cảm xúc cốt lõi]
+- Trục câu chuyện & Lát cắt: [Ghi rõ Chế độ 1 (Kể chuyện Cá nhân) hoặc Chế độ 2 (Ý niệm / Đa diện) + Xác lập rõ Hạt nhân ý niệm thống nhất và điểm chạm thơ mộng xuyên suốt cho tuyến nhân vật hoặc chuỗi lát cắt]
+- Móc neo giác quan: [Các cử chỉ tương tác và dấu vết vật lý đời thực thể hiện trực tiếp hạt nhân ý niệm và cảm xúc cốt lõi]
 - Câu chốt: [1 câu tiếng Việt gói trọn nghiệm sinh của ý tưởng, làm hạt nhân cho câu Hook chính của bài hát và kim chỉ nam cho toàn bộ khâu sản xuất]
 
 ---

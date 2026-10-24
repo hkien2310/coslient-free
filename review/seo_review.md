@@ -14,16 +14,16 @@
 ### 1.1. Năm tiêu chuẩn nền tảng `[FATAL]` (Đạt 100% trước khi tạo Thumbnail và đăng tải)
 
 1. **Kiến trúc Tiêu đề dưới 70 ký tự, Câu chuyện Đứng đầu và Trung thực Nội dung (`Story-First <70-Char Title & Content Integrity`):**
-   - Tiêu đề chính và 2 tiêu đề dự phòng nằm gọn trong giới hạn **dưới 70 ký tự**, đặt trọn vẹn mệnh đề cảm xúc câu chuyện hoặc tên bài hát ở **40 đến 55 ký tự đầu tiên** trước dấu phân cách hậu tố (`| A Dream Town (4K)` hoặc `| Short Folk Film (4K)`), giúp hiển thị trọn vẹn trên cả màn hình TV và thiết bị di động.
-   - Mệnh đề tiêu đề vận dụng đúng 1 trong 4 khuôn mẫu kích hoạt đồng cảm ở khán giả 45–85+ (`Mệnh đề Chốn về & Cộng đồng An nhiên`, `Mệnh đề Chứng nhân Bền bỉ theo Năm tháng`, `Mệnh đề Thủ thỉ Mở Đa tầng nghĩa`, hoặc `Mệnh đề Đối xứng Chăm sóc – Gắn bó`) và phản ánh trung thực 100% bối cảnh, thời điểm/mùa cùng câu chuyện thực tế trong lời hát và hình ảnh.
+   - Tiêu đề chính và 2 tiêu đề dự phòng nằm gọn trong giới hạn **dưới 70 ký tự**, đặt trọn vẹn mệnh đề cảm xúc câu chuyện hoặc tên bài hát ở phần đầu trước dấu phân cách hậu tố (`| A Dream Town (4K)` hoặc `| Short Folk Film (4K)`), giúp hiển thị trọn vẹn trên cả màn hình TV và thiết bị di động.
+   - Mệnh đề tiêu đề vận dụng linh hoạt các khuôn mẫu kích hoạt đồng cảm ở khán giả 45-85+ (`Mệnh đề Chốn về & Cộng đồng An nhiên`, `Mệnh đề Chứng nhân Bền bỉ theo Năm tháng`, `Mệnh đề Thủ thỉ Mở Đa tầng nghĩa`, hoặc `Mệnh đề Đối xứng Chăm sóc và Gắn bó`) và phản ánh trung thực bối cảnh, thời điểm/mùa cùng câu chuyện thực tế trong lời hát và hình ảnh.
    - Định danh file gốc (`[story-clause-slug].mp4` và `[story-clause-slug]-thumbnail.jpg`) đồng bộ trực tiếp với mệnh đề tiêu đề chính.
 
 2. **Bộ 3 Prompt Poster Thumbnail đối lập quy mô và chuẩn Khung 4 khối Stop-Motion (`Three-Angle Iconic Poster Prompts & Full-Body Integrity`):**
    - Xuất đầy đủ **3 câu lệnh tiếng Anh 4 khối trực quan hoàn chỉnh** (`--ar 16:9`) đại diện cho 3 góc tiếp cận Poster điện ảnh rõ nét:
-     1. **Prompt 1 (`Poster Điểm Nhìn Chân Trời`):** Khung hình rộng/trung-rộng toàn thân trên điểm tựa địa hình cao thoáng trước đường chân trời mở rộng (`natural deep focus`).
+     1. **Prompt 1 (`Poster Điểm Nhìn Chân Trời`):** Khung hình rộng/trung-rộng toàn thân trên điểm tựa địa hình cao thoáng trước đường chân trời mở rộng (`expansive scenic focus`).
      2. **Prompt 2 (`Poster Ánh Sáng & Hành Trình Đồng Hành`):** Khung hình toàn cảnh khai thác khoảnh khắc đồng hành dưới ánh sáng vàng ấm hoặc chạng vạng giữa không gian mô hình rộng lớn.
      3. **Prompt 3 (`Poster Khoảnh Khắc Gắn Kết Đắt Giá`):** Khung hình trung-rộng đặt trước hậu cảnh mờ dịu (`softly blurred colorful warm background`), bắt trọn cử chỉ trao-nhận tình cảm sâu sắc nhất giữa các nhân vật.
-   - Cả 3 câu lệnh Thumbnail đều tuân thủ trọn vẹn chuẩn thế giới Stop-Motion tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5): mở đầu bằng `Handcrafted stop-motion animation film still... harmonious true-to-life scale`, khóa phôi rối thanh mảnh, tóc sợi bông phủ kín đỉnh đầu, mô tả nhân vật 4 trục đối lập mặc đủ 3 tầng trang phục (Áo + Quần dài/Váy dài + Giày đặt trên điểm tựa kèm cụm `from head to feet` khi ngồi) và khóa cuối bằng một nguồn sáng duy nhất.
+   - Cả 3 câu lệnh Thumbnail đều tuân thủ trọn vẹn chuẩn thế giới Stop-Motion tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5): mở đầu bằng `Handcrafted stop-motion animation film still set in a warm poetic surreal town with dreamlike spatial wonder... harmonious character-to-object scale`, khóa phôi rối thanh mảnh (`slender elongated proportions`), tóc sợi bông phủ kín đỉnh đầu, mô tả nhân vật 4 trục đối lập mặc đủ 3 tầng trang phục (Áo + Quần dài/Váy dài + Giày đặt trên điểm tựa kèm cụm `from head to feet` khi ngồi) và khóa cuối bằng một nguồn sáng duy nhất.
 
 3. **Mô tả 4 Trụ cột chuẩn Văn phong Con người và Khớp 1:1 Lời bài hát (`Four-Pillar Humanized Description & Verified Lyrics`):**
    - Phần `DESCRIPTION` hội tụ đủ 4 trụ cột theo đúng trật tự:
@@ -61,16 +61,16 @@ Trước khi tạo ảnh Thumbnail và xuất bản dự án, thực hiện ki�
 - Xác nhận sự đồng bộ 1:1 của `Track Title`, thời lượng `CHAPTERS`, toàn văn `LYRICS` và tên Playlist / Album DistroKid.
 
 ### Bước 2: Thẩm định từng phần theo 5 Cổng `[FATAL]` (`Empirical SEO Stress Test`)
-- **Cổng 1 (`FILE NAME` & `TITLE`):** Đếm số ký tự Title (`<70 ký tự`), kiểm tra mệnh đề câu chuyện nằm ở 40–55 ký tự đầu, đúng 1 trong 4 khuôn mẫu đồng cảm và khớp trung thực với nội dung bài hát.
+- **Cổng 1 (`FILE NAME` & `TITLE`):** Đếm số ký tự Title (`<70 ký tự`), kiểm tra mệnh đề câu chuyện nằm ở phần đầu tiêu đề, vận dụng khuôn mẫu đồng cảm và khớp trung thực với nội dung bài hát.
 - **Cổng 2 (`3 PROMPTS THUMBNAIL`):** Kiểm tra đủ 3 góc độ Poster (`Horizon`, `Journey`, `Soulful Connection`), đúng cú pháp 4 khối Stop-Motion, đủ 3 tầng trang phục, có cụm `from head to feet` khi ngồi và tuân thủ danh mục vật liệu tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
 - **Cổng 3 (`DESCRIPTION`):** Kiểm tra đủ 4 trụ cột, giọng văn thư tay tự nhiên chuẩn [`humanizer`](../.agents/skills/humanizer/SKILL.md), lời bài hát khớp 100% và đủ 6 hashtags.
-- **Cổng 4 (`TAGS`):** Đếm đủ 6 đến 9 cụm từ khóa riêng chia đều vào 3 tầng (Tâm lý 55–85+, Nhạc cụ Folk thực tế, Không gian/Mỹ học).
+- **Cổng 4 (`TAGS`):** Kiểm tra các cụm từ khóa riêng chia đều vào 3 tầng (Tâm lý 55-85+, Nhạc cụ Folk thực tế, Không gian/Mỹ học).
 - **Cổng 5 (`PINNED COMMENT`, `SHORTS` & `PLAYLISTS/DISTROKID`):** Kiểm tra câu hỏi mở ký ức, mốc thời gian Shorts (<30s) và thông tin phân phối chính xác.
 
-### Bước 3: Bảng đối soát 5 chỉ số định lượng và Phán quyết (`Pre-Publish SEO Sign-Off`)
-Thống kê và xác nhận `6-seo.md` đạt trọn vẹn 5 chỉ số trước khi xuất bản:
-- **Chỉ số 1 — Chuẩn `Title <70 ký tự` đặt câu chuyện lên đầu & File Name đồng bộ (`100%`):** Ngắn gọn, hiển thị trọn vẹn, trung thực nội dung và đúng khuôn mẫu tâm lý 45–85+.
-- **Chỉ số 2 — Bộ 3 Prompt Poster Thumbnail đối lập quy mô & Chuẩn 4 khối Stop-Motion (`100%`):** Đủ 3 góc Poster điện ảnh, bảo toàn toàn thân nhân vật 3 tầng trang phục và 1 nguồn sáng duy nhất.
-- **Chỉ số 3 — Description đủ 4 trụ cột, văn phong thư tay con người & Lyrics khớp 1:1 (`100%`):** Tự nhiên, ấm áp, đúng mốc thời gian và sạch từ sáo rỗng AI.
-- **Chỉ số 4 — Ma trận Tags phủ đủ 3 tầng ngữ nghĩa (`6–9 cụm từ khóa`):** Đủ cả từ khóa tâm lý tuổi già, nhạc cụ mộc và không gian bài hát.
-- **Chỉ số 5 — Hoàn chỉnh Pinned Comment, Shorts & Phân phối Playlist/DistroKid (`100%`):** Khớp 1:1 với danh mục hệ thống.
+### Bước 3: Bảng đối soát 5 tiêu chuẩn và Phán quyết (`Pre-Publish SEO Sign-Off`)
+Xác nhận `6-seo.md` đạt trọn vẹn 5 tiêu chuẩn trước khi xuất bản:
+- **Chỉ số 1 (Chuẩn `Title <70 ký tự` đặt câu chuyện lên đầu & File Name đồng bộ):** Ngắn gọn, hiển thị trọn vẹn, trung thực nội dung và đúng khuôn mẫu tâm lý 45-85+.
+- **Chỉ số 2 (Bộ 3 Prompt Poster Thumbnail đối lập quy mô & Chuẩn 4 khối Stop-Motion):** Đủ 3 góc Poster điện ảnh, bảo toàn toàn thân nhân vật 3 tầng trang phục và 1 nguồn sáng duy nhất.
+- **Chỉ số 3 (Description đủ 4 trụ cột, văn phong thư tay con người & Lyrics khớp 1:1):** Tự nhiên, ấm áp, đúng mốc thời gian và chuẩn văn phong con người.
+- **Chỉ số 4 (Ma trận Tags phủ đủ 3 tầng ngữ nghĩa):** Đủ cả từ khóa tâm lý tuổi già, nhạc cụ mộc và không gian bài hát.
+- **Chỉ số 5 (Hoàn chỉnh Pinned Comment, Shorts & Phân phối Playlist/DistroKid):** Khớp 1:1 với danh mục hệ thống.

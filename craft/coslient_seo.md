@@ -16,8 +16,8 @@
   - Video: `[story-clause-slug].mp4`
   - Thumbnail: `[story-clause-slug]-thumbnail.jpg`
 
-### 1.2. Kiến trúc Tiêu đề Tối ưu Tỷ lệ Nhấp (`CTR Title Architecture` — Dưới 70 ký tự)
-- **Trật tự Ưu tiên Cảm xúc Đứng đầu (`Story-First Front-Loading`):** Đặt trọn vẹn mệnh đề câu chuyện hoặc tên bài hát giàu chất thơ ở 40–55 ký tự đầu tiên để hiển thị đầy đủ trên mọi giao diện màn hình lớn và thiết bị di động, sau đó kết thúc bằng hậu tố định danh vũ trụ kênh và độ phân giải chuẩn:
+### 1.2. Kiến trúc Tiêu đề Tối ưu Tỷ lệ Nhấp (`CTR Title Architecture` - Dưới 70 ký tự)
+- **Trật tự Ưu tiên Cảm xúc Đứng đầu (`Story-First Front-Loading`):** Đặt trọn vẹn mệnh đề câu chuyện hoặc tên bài hát giàu chất thơ ở phần đầu tiêu đề để hiển thị đầy đủ trên mọi giao diện màn hình lớn và thiết bị di động, sau đó kết thúc bằng hậu tố định danh vũ trụ kênh và độ phân giải chuẩn:
   `[Mệnh đề câu chuyện / Tên bài hát] | A Dream Town (4K)` hoặc `[Mệnh đề câu chuyện / Tên bài hát] | Short Folk Film (4K)`
 - **Bốn khuôn mẫu mệnh đề tiêu đề kích hoạt đồng cảm ở khán giả trưởng thành (45–85+):**
   1. **Mệnh đề Chốn về & Cộng đồng An nhiên (`Sanctuary & Quiet Folk Clause`):** Khẳng định một không gian sống tĩnh tại hoặc một cộng đồng người hiền hòa đang gìn giữ nhịp sống bình yên, đánh thức khát khao tìm nơi trú ẩn tinh thần.
@@ -109,19 +109,19 @@ File `6-seo.md` chuẩn cho mỗi project (khi project gồm 2 bài hát ghép t
 - **Ý tưởng Poster & Tương phản chủ đạo:** [Tóm tắt 3 ý tưởng Poster hội tụ linh hồn của video và cặp tương phản ánh sáng – màu sắc]
 - **Text gợi ý (2-3 từ cô đọng khi cần thiết kế ngoài):** `[2-3 TỪ LỚN GỌN GÀNG]`
 
-### Prompt 1 — Poster Điểm Nhìn Chân Trời (`Wide Poetic Horizon`):
+### Prompt 1 - Poster Điểm Nhìn Chân Trời (`Wide Poetic Horizon`):
 ```text
-Handcrafted stop-motion animation film still, clean natural daylight, harmonious true-to-life scale. Wide full-body eye-level side-profile shot on [điểm tựa địa hình cao thoáng dưới bầu trời mở open sky] overlooking [đường chân trời và cảnh quan phía xa với natural deep focus]. Stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, balanced slender proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả riêng 4 trục + điểm nhấn linh hoạt + đủ áo-quần dài-giày + tư thế phóng khoáng tự nhiên] close beside [Nhân vật B mô tả riêng 4 trục + điểm nhấn linh hoạt ở cự ly gần gũi ấm áp + đủ áo-quần dài-giày + tư thế đồng điệu], accompanied by [sinh vật sống stop-motion tự nhiên và nhịp sống hậu cảnh]. Single directional morning sunlight casting a single coherent shadow direction --ar 16:9
+Handcrafted stop-motion animation film still set in a warm poetic surreal town with dreamlike spatial wonder, golden morning light, harmonious character-to-object scale, expansive scenic focus with gentle atmospheric depth. Wide full-body eye-level side-profile shot on [điểm tựa địa hình cao thoáng dưới bầu trời mở] overlooking [đường chân trời và cảnh quan siêu thực phía xa]. Stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả riêng 4 trục + điểm nhấn linh hoạt + đủ áo-quần dài-giày + tư thế phóng khoáng tự nhiên] close beside [Nhân vật B mô tả riêng 4 trục + điểm nhấn linh hoạt ở cự ly gần gũi ấm áp + đủ áo-quần dài-giày + tư thế đồng điệu]. Single directional morning sunlight casting a single coherent shadow direction --ar 16:9
 ```
 
-### Prompt 2 — Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Light & Journey`):
+### Prompt 2 - Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Light & Journey`):
 ```text
-Handcrafted stop-motion animation film still, clean natural golden light, harmonious true-to-life scale. Wide full-body eye-level side-profile shot along [cung đường hoặc cảnh quan dưới bầu trời mở open sky] overlooking [hậu cảnh sâu rộng với natural deep focus]. Stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, balanced slender proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả riêng 4 trục + điểm nhấn linh hoạt + đủ áo-quần dài-giày + tư thế hành trình phóng khoáng] alongside [Nhân vật B mô tả riêng 4 trục + điểm nhấn linh hoạt ở cự ly gần gũi + đủ áo-quần dài-giày + tư thế đồng hành], accompanied by [sinh vật sống đồng hành và cư dân hậu cảnh]. Single directional golden afternoon sunlight casting a single coherent shadow direction --ar 16:9
+Handcrafted stop-motion animation film still set in a warm poetic surreal town with dreamlike spatial wonder, warm golden afternoon light, harmonious character-to-object scale, expansive scenic focus with gentle atmospheric depth. Wide full-body eye-level side-profile shot along [cung đường hoặc cảnh quan siêu thực đan xen phương tiện/tiện nghi hiện tại cách điệu] overlooking [hậu cảnh sâu rộng]. Stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả riêng 4 trục + điểm nhấn linh hoạt + đủ áo-quần dài-giày + tư thế hành trình phóng khoáng] alongside [Nhân vật B mô tả riêng 4 trục + điểm nhấn linh hoạt ở cự ly gần gũi + đủ áo-quần dài-giày + tư thế đồng hành]. Single directional golden afternoon sunlight casting a single coherent shadow direction --ar 16:9
 ```
 
-### Prompt 3 — Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium-Wide Soulful Connection`):
+### Prompt 3 - Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium-Wide Soulful Connection`):
 ```text
-Handcrafted stop-motion animation film still, clean natural sunset light, harmonious true-to-life scale. Medium-wide full-body eye-level three-quarter shot beside [công trình kiến trúc một phía đúng tỷ lệ thực tế mang nét biến tấu thơ mộng dưới bầu trời mở open sky] overlooking a softly blurred [hậu cảnh thiên nhiên]. Stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, balanced slender proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả riêng 4 trục + điểm nhấn linh hoạt + đủ áo-quần dài-giày + tư thế thư thái gắn kết] close opposite [Nhân vật B mô tả riêng 4 trục + điểm nhấn linh hoạt ở cự ly gần gũi + đủ áo-quần dài-giày + tư thế đón nhận], accompanied by [sinh vật sống đồng hành tự nhiên]. Single directional warm sunset light casting a single coherent shadow direction --ar 16:9
+Handcrafted stop-motion animation film still set in a warm poetic surreal town with dreamlike spatial wonder, warm sunset light, harmonious character-to-object scale, shallow depth of field with a softly blurred colorful warm background. Medium-wide full-body eye-level three-quarter shot filling the frame beside [kiến trúc hoặc tiện nghi đời thường cách điệu] with stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả riêng 4 trục + điểm nhấn linh hoạt + đủ áo-quần dài-giày + tư thế thư thái gắn kết] close opposite [Nhân vật B mô tả riêng 4 trục + điểm nhấn linh hoạt ở cự ly gần gũi + đủ áo-quần dài-giày + tư thế đón nhận]. Single directional warm sunset light casting a single coherent shadow direction --ar 16:9
 ```
 
 ## 4. DESCRIPTION

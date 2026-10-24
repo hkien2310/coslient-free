@@ -45,7 +45,7 @@
 
 ## 3. Khung câu lệnh chuẩn cho `prompt-animate.txt`
 
-Mỗi dòng trong `prompt-animate.txt` gói gọn trong `25–38 từ` theo 3 nhóm trạng thái ống kính:
+Mỗi dòng trong `prompt-animate.txt` viết súc tích theo 3 nhóm trạng thái ống kính:
 
 ```text
 # 1. Giữ khung quan sát ổn định hoặc xoay trục tại chỗ:

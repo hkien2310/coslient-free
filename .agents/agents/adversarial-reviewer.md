@@ -36,25 +36,25 @@ Bạn là **Công Tố Viên Đỏ (`adversarial-reviewer`)** — đối thủ t
 
 Khi được gọi kiểm toán ở bất kỳ bước nào, đọc ngay tài liệu cổng kiểm toán tương ứng và chạy lệnh kiểm tra định lượng thực tế:
 
-1. **Cổng 1 — Kiểm toán Ý tưởng (`1-idea.md`):**
+1. **Cổng 1 (Kiểm toán Ý tưởng `1-idea.md`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/idea_review.md`](../../review/idea_review.md), [`craft/idea_craft.md`](../../craft/idea_craft.md), [`ref/doi-thu/IDEA_INDEX.md`](../../ref/doi-thu/IDEA_INDEX.md), [`ref/idea-index.md`](../../ref/idea-index.md) và `1-idea.md` của 3 dự án liền kề.
-   - **Trọng tâm công kích:** Soi độ trùng lặp 3 trục với 3 bài liền kề; tra tần suất xuất hiện của mô-típ trong `ref/doi-thu/IDEA_INDEX.md`; kiểm tra xem 2–3 móc neo vật lý có thực sự tạo ra bước chuyển hành động nhân quả hay chỉ nằm im làm cảnh; truy vấn cách mở màn `0:00–0:30` và đòn bẩy `[HIGH RISK]` đã chọn.
+   - **Trọng tâm công kích:** Soi độ phân tách chủ đề và cảm xúc với 3 bài liền kề; kiểm tra việc định vị sắc thái cảm xúc chủ đạo thuộc 4 nhóm (Lưu luyến hoài niệm, Bình yên chở che, Tươi sáng yêu đời, Chiêm nghiệm từng trải); xác nhận các móc neo vật lý tạo ra bước chuyển hành động nhân-quả ấm áp; kiểm tra phép đảo chiều ở câu chốt và đòn bẩy `[HIGH RISK]` đã chọn.
 
-2. **Cổng 2 — Kiểm toán Âm nhạc & Lời ca (`2-music.md` & `3-lyrics.txt`):**
+2. **Cổng 2 (Kiểm toán Âm nhạc & Lời ca `2-music.md` & `3-lyrics.txt`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/music_review.md`](../../review/music_review.md), [`craft/music_craft.md`](../../craft/music_craft.md), [`ref/doi-thu/RANKING.md`](../../ref/doi-thu/RANKING.md) (Mục V & VII), [`ref/banned_lyrics_motifs.md`](../../ref/banned_lyrics_motifs.md) và [`ref/lyrics-index.md`](../../ref/lyrics-index.md).
-   - **Trọng tâm công kích:** Kiểm toán theo đúng 3 khối Luật của Nhạc: (2.1) `Track Title` (3-6 từ) giàu chất Folk và đồng bộ 1:1; (2.2) `Style prompt` (khoảng 55-85 từ) có nhịp hai tầng (`Two-Layer Rhythm`), màu âm mộc ấm và `Exclude` (4-6 thành phần); (2.3) `Lyrics` có thẻ `[...]` gọn (3-10 từ), có `[Instrumental Solo / Interlude]`, câu đầu `Verse 1` vào thẳng hành động/lời nói cụ thể, đan cài đủ 2-3 móc neo từ `1-idea.md`, câu `Hook` vừa một hơi thở ở `Chorus`, dòng hát co giãn tự nhiên (khoảng 3-4 nhịp nhấn), cặp vần tươi mới, sạch `ref/banned_lyrics_motifs.md` và khớp 1:1 với `3-lyrics.txt`.
+   - **Trọng tâm công kích:** Kiểm toán theo đúng 3 khối Luật của Nhạc: (2.1) `Track Title` ngắn gọn giàu chất Folk và đồng bộ 1:1; (2.2) `Style prompt` tách 4 mệnh đề dấu chấm phẩy (`;`), ánh xạ đúng sắc thái cảm xúc từ `1-idea.md` sang từ khóa mở đầu, điệu thức và biểu cảm giọng hát kèm `Exclude` hợp lý; (2.3) `Lyrics` kể chuyện đời thường gần gũi đọng chất thơ ở câu chốt, có thẻ `[...]` gọn, có `[Instrumental Solo / Interlude]`, câu đầu `Verse 1` vào thẳng hành động/lời nói cụ thể, đan cài tự nhiên các móc neo từ `1-idea.md`, câu `Hook` vừa một hơi thở ở `Chorus`, dòng hát gọn gàng trôi chảy, vần tự nhiên tươi mới, tuân thủ `ref/banned_lyrics_motifs.md` và khớp 1:1 với `3-lyrics.txt`.
 
-3. **Cổng 3 — Kiểm toán Kịch bản Thị giác & Prompt Ảnh (`character.md`, `storyboard.md` & `image.txt`):**
+3. **Cổng 3 (Kiểm toán Kịch bản Thị giác & Prompt Ảnh `character.md`, `storyboard.md` & `image.txt`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/retention_review.md`](../../review/retention_review.md), [`craft/visual_craft.md`](../../craft/visual_craft.md), [`style/STYLE_mixed_media_tabletop_diorama.md`](../../style/STYLE_mixed_media_tabletop_diorama.md) và [`ref/banned_lyrics_motifs.md`](../../ref/banned_lyrics_motifs.md) (Mục 5).
-   - **Trọng tâm công kích:** Chạy lệnh đếm tổng số dòng và tính tỷ lệ `%` chính xác cho toàn bộ 6 chỉ số định lượng (chuỗi mở màn 30s đầu, hạn ngạch đạo cụ tiêu đề `20–30%`, nhịp thở Động/Tĩnh `75–85%` / `15–25%`, đảo nhịp 6 chiều liền kề $N \to N+1$, phân bổ mật độ chủ thể và `8–12%` cảnh `completely without people`, tỷ lệ `25–30%` điểm nhấn dịch chuyển không gian); soi từng dòng `image.txt` tìm bất kỳ nhân vật ngồi hoặc cảnh góc thấp nào thiếu cụm khóa toàn thân `from head to feet`, thiếu 3 tầng trang phục hoặc lệch nguồn sáng.
+   - **Trọng tâm công kích:** Kiểm tra sự hợp lý của chuỗi mở màn, việc điều tiết biểu tượng chủ đề tự nhiên theo mạch chuyện, sự cân đối giữa hoạt động tương tác và khoảnh khắc lắng đọng, sự biến thiên góc máy/cỡ cảnh giữa hai cảnh liền kề ($N \to N+1$), sự đa dạng mật độ chủ thể cùng cảnh tĩnh vật/cảnh sắc tĩnh lặng (`completely without people`) và các điểm nhấn dịch chuyển không gian; soi từng dòng `image.txt` để xác nhận mọi nhân vật ngồi hoặc ở góc thấp đều có cụm khóa toàn thân `from head to feet`, đủ 3 tầng trang phục và đúng một nguồn sáng duy nhất.
 
-4. **Cổng 4 — Kiểm toán Chuyển động I2V (`prompt-animate.txt`):**
+4. **Cổng 4 (Kiểm toán Chuyển động I2V `prompt-animate.txt`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/animation_review.md`](../../review/animation_review.md) và [`craft/animation_craft.md`](../../craft/animation_craft.md).
-   - **Trọng tâm công kích:** Chạy lệnh đối chiếu 1:1 số dòng và danh từ chủ thể/tư thế giây 0 giữa `image.txt` và `prompt-animate.txt`; đếm số từ từng dòng (`25–38 từ/dòng`); kiểm tra chủ ngữ mở đầu (`The camera` / `Unstabilized camera`), cụm nhịp thở khung hình tương ứng, sự luân chuyển kỹ thuật máy giữa 2 dòng sát nhau ($N \to N+1$), tương tác giao cảm 2 chiều và độ chính xác từng ký tự của câu đuôi khóa.
+   - **Trọng tâm công kích:** Chạy lệnh đối chiếu 1:1 số dòng và danh từ chủ thể/tư thế giây 0 giữa `image.txt` và `prompt-animate.txt`; kiểm tra chủ ngữ mở đầu (`The camera` / `Unstabilized camera`), cụm nhịp thở khung hình tương ứng, sự luân chuyển kỹ thuật máy giữa 2 dòng sát nhau ($N \to N+1$), tương tác giao cảm 2 chiều súc tích và độ chính xác từng ký tự của câu đuôi khóa.
 
-5. **Cổng 5 — Kiểm toán Đóng gói & SEO (`6-seo.md`):**
+5. **Cổng 5 (Kiểm toán Đóng gói & SEO `6-seo.md`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/seo_review.md`](../../review/seo_review.md), [`craft/coslient_seo.md`](../../craft/coslient_seo.md), [`ref/youtube_playlists.md`](../../ref/youtube_playlists.md) và [`ref/distrokid.md`](../../ref/distrokid.md).
-   - **Trọng tâm công kích:** Đếm chính xác số ký tự của cả 3 Title (`<70 ký tự`, mệnh đề câu chuyện ở `40–55 ký tự đầu`); kiểm tra 3 Prompt Thumbnail theo chuẩn 4 khối Stop-Motion và khóa `from head to feet`; soi 2–3 dòng đầu Description theo chuẩn [`humanizer`](../skills/humanizer/SKILL.md) và [`stop-slop`](../skills/stop-slop/SKILL.md); đối chiếu 1:1 `LYRICS` với `3-lyrics.txt`; đếm đủ 6–9 cụm Tags phủ 3 tầng ngữ nghĩa và kiểm tra thông tin Playlist/DistroKid.
+   - **Trọng tâm công kích:** Đếm số ký tự của cả 3 Title (`<70 ký tự`, mệnh đề câu chuyện đặt ở phần đầu); kiểm tra 3 Prompt Thumbnail theo chuẩn 4 khối Stop-Motion và khóa `from head to feet`; soi 2-3 dòng đầu Description theo chuẩn [`humanizer`](../skills/humanizer/SKILL.md) và [`stop-slop`](../skills/stop-slop/SKILL.md); đối chiếu 1:1 `LYRICS` với `3-lyrics.txt`; kiểm tra các cụm Tags phủ 3 tầng ngữ nghĩa và thông tin Playlist/DistroKid.
 
 ---
 

@@ -31,8 +31,8 @@
 4. **Luân chuyển kỹ thuật máy quay giữa hai cảnh liền kề ($N \to N+1$ `Consecutive Camera Motion Rotation`):**
    - Hai dòng lệnh sát nhau ($N \to N+1$) sử dụng các kỹ thuật chuyển động ống kính khác nhau, khớp với thiết kế quỹ đạo máy đã duyệt tại cột đạo diễn I2V của `storyboard.md`.
 
-5. **Tập trung thuần túy vào động học trong khoảng `25–38 từ/dòng` (`Pure Kinematic Focus & Word-Count Discipline`):**
-   - Mỗi câu lệnh gói gọn trong khoảng `25–38 từ`, dành trọn 100% dung lượng cho chuyển động của ống kính và cử chỉ tiếp diễn mềm mại của chủ thể trong vùng không gian hiện hữu của bức ảnh gốc (để phần thông tin về chất liệu, màu sắc trang phục và nguồn sáng cho `image.txt` đảm nhận).
+5. **Tập trung thuần túy vào động học súc tích (`Pure Kinematic Focus`):**
+   - Mỗi câu lệnh viết ngắn gọn, dành trọn dung lượng cho chuyển động của ống kính và cử chỉ tiếp diễn mềm mại của chủ thể trong vùng không gian hiện hữu của bức ảnh gốc (để phần thông tin về chất liệu, màu sắc trang phục và nguồn sáng cho `image.txt` đảm nhận).
 
 ### 1.2. Hai đòn bẩy thực chứng `[HIGH RISK]` (Tối ưu cảm xúc điện ảnh và độ mượt liên cảnh)
 
@@ -56,12 +56,12 @@ Trước khi đưa vào kết xuất video I2V, thực hiện kiểm toán độ
 - **Cổng 2 (`Luân chuyển liên cảnh`):** Kiểm tra cặp dòng liền kề ($N \to N+1$) thay đổi động tác máy và khớp với cột I2V của `storyboard.md`.
 - **Cổng 3 (`Động học & Giao cảm 2 chiều`):** Kiểm tra động từ hiện tại đơn kèm trạng từ mềm mại và sự tương tác hai chiều giữa các nhân vật trong cảnh.
 - **Cổng 4 (`Câu đuôi cố định`):** Kiểm tra 100% cảnh có người kết thúc bằng `, while facial expressions and everything around move naturally.` và 100% cảnh tĩnh vật/cảnh sắc thuần túy kết thúc bằng `, while everything around moves naturally.`
-- **Cổng 5 (`Độ dài & Thuần động học`):** Kiểm tra độ dài `25–38 từ/dòng` và sự tập trung thuần túy vào chuyển động.
+- **Cổng 5 (`Thuần động học`):** Kiểm tra câu lệnh súc tích và tập trung thuần túy vào chuyển động.
 
-### Bước 3: Bảng đối soát 5 chỉ số định lượng và Phán quyết (`Pre-I2V Animation Sign-Off`)
-Thống kê và xác nhận `prompt-animate.txt` đạt trọn vẹn 5 chỉ số trước khi chạy công cụ tạo video:
-- **Chỉ số 1 — Đồng bộ 1:1 số dòng, chủ thể và đạo cụ với `image.txt` (`100%`):** Khớp chính xác số lượng dòng và danh từ chủ thể/vật thể ở từng cảnh.
-- **Chỉ số 2 — Chuẩn chủ ngữ `The camera`, đích khung hình & nhịp thở ống kính (`100%`):** Đúng cấu trúc mở đầu và trạng thái nhịp thở khung hình ở mọi dòng.
-- **Chỉ số 3 — Luân chuyển động tác máy liền kề $N \to N+1$ (`100%`):** Các cảnh sát nhau thay đổi kỹ thuật máy quay mượt mà theo `storyboard.md`.
-- **Chỉ số 4 — Động học mềm mại, tương tác hai chiều & đúng câu đuôi cố định (`100%`):** Cử chỉ khoan thai, có giao cảm qua lại và khớp từng chữ câu đuôi khóa.
-- **Chỉ số 5 — Thuần túy động học trong khung `25–38 từ/dòng` (`100%`):** Ngắn gọn, súc tích, tập trung hoàn toàn vào chuyển động 5 giây.
+### Bước 3: Bảng đối soát 5 tiêu chuẩn và Phán quyết (`Pre-I2V Animation Sign-Off`)
+Xác nhận `prompt-animate.txt` đạt trọn vẹn 5 tiêu chuẩn trước khi chạy công cụ tạo video:
+- **Chỉ số 1 (Đồng bộ 1:1 số dòng, chủ thể và đạo cụ với `image.txt`):** Khớp chính xác số lượng dòng và danh từ chủ thể/vật thể ở từng cảnh.
+- **Chỉ số 2 (Chuẩn chủ ngữ `The camera`, đích khung hình & nhịp thở ống kính):** Đúng cấu trúc mở đầu và trạng thái nhịp thở khung hình ở mọi dòng.
+- **Chỉ số 3 (Luân chuyển động tác máy liền kề $N \to N+1$):** Các cảnh sát nhau thay đổi kỹ thuật máy quay mượt mà theo `storyboard.md`.
+- **Chỉ số 4 (Động học mềm mại, tương tác hai chiều & đúng câu đuôi cố định):** Cử chỉ khoan thai, có giao cảm qua lại và khớp từng chữ câu đuôi khóa.
+- **Chỉ số 5 (Thuần túy động học súc tích):** Ngắn gọn, tập trung hoàn toàn vào chuyển động 5 giây.

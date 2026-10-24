@@ -18,7 +18,7 @@
      - **Khi tâm điểm là Con người và Cảm xúc (`Character & Interaction Focus`):** Đặt máy gần để chủ thể lấp đầy khung hình (`filling the frame`) trước hậu cảnh mờ dịu mang sắc màu ấm áp của thị trấn siêu thực thơ mộng (`shallow depth of field with a softly blurred colorful warm background`), dồn toàn bộ điểm nhìn vào biểu cảm gương mặt và thao tác đời thường bình dị với các tiện nghi hiện tại cách điệu.
      - **Khi tâm điểm là Căn phòng hoặc Không gian kiến trúc (`Interior & Architectural Focus`):** Mở rộng chiều ngang căn phòng bằng góc máy mặt cắt trực diện lấy một vách tường đối diện sáng ấm trải dài hết khung hình với khoảng trần cao thoáng (`flat frontal stage-view, a single wide back wall spanning the frame with generous upper headroom`), mở ra khung cửa sổ lớn nhìn thấy cấu trúc không gian siêu thực thơ mộng của thị trấn bên ngoài, giữ tỷ lệ nhân vật vừa vặn ở nửa dưới khung hình (`occupying the lower half of the frame`), và bài trí ấm cúng bằng tổ hợp tiện nghi gia dụng hiện tại bo tròn sơn mờ cùng đồ đạc đa dạng màu sắc, hình dáng, kích cỡ (`decorated with a colorful eclectic asymmetrical mix of softly rounded matte-painted everyday appliances, keepsakes, and furniture of varied shapes and sizes`).
      - **Khi tâm điểm là Không gian mở, Hành trình hoặc Cảnh sắc siêu thực thơ mộng (`Open Space, Journey & Poetic Surreal Scenic Focus`):** Mở rộng độ nét cảnh quan (`expansive scenic focus with gentle atmospheric depth`) để tôn vinh sự giao thoa giữa tọa độ thiên nhiên, kiến trúc kỳ diệu đa sắc màu và các tiện nghi, phương tiện hiện tại bình dị dẫn điểm nhìn hội tụ vào hình bóng nhân vật hoặc cảnh quan tĩnh lặng thuần túy (`completely without people`).
-   - Mỗi câu lệnh gói gọn trong `65–85 từ` bằng ngôn ngữ mô tả vật lý trực diện.
+   - Mỗi câu lệnh viết súc tích, rõ ràng bằng ngôn ngữ mô tả vật lý trực diện.
 2. **Phôi rối cách điệu đồng nhất: da giấy bồi mờ, mũi tròn mềm và tỷ lệ thanh mảnh kéo dài (`Unified Stylized Puppet Mold: Matte Paper-Pulp Skin, Soft Rounded Noses & Slender Elongated Proportions`):**
    - Toàn bộ nhân vật trong cùng vũ trụ chia sẻ chung một phôi rối cách điệu thanh thoát đặc trưng của nghệ thuật stop-motion thông qua làn da giấy bồi mờ (`matte paper-pulp skin`), chiếc mũi tròn mềm mại vừa vặn (`soft rounded noses`) và tỷ lệ hình thể cao mảnh kéo dài (`slender elongated proportions`).
    - Trên nền phôi rối chung, phân hóa từng nhân vật thông qua 4 trục tạo hình kèm điểm nhấn nhận diện độc bản và làm nổi bật khả năng biểu đạt tình cảm sống động trên gương mặt cùng ngôn ngữ cơ thể (`tender affectionate gaze, looking warmly at one another, gentle listening head tilt, warm expressive smiles, or quiet heartfelt laughter`).
@@ -72,7 +72,7 @@
 - Quy tắc vận hành: Mỗi cảnh trong `storyboard.md` và `image.txt` giới thiệu các nhân vật độc lập thông qua việc mô tả 4 trục đối lập (hoặc cụm khóa tương phản nhóm) trên nền phôi rối cách điệu (`matte paper-pulp skin, soft rounded noses, slender elongated proportions`), phục vụ trực tiếp ý đồ tâm điểm của cảnh đó.
 ```
 
-### 3.2. Khung câu lệnh 4 khối trực quan cho `image.txt` (`65–85 từ/câu` — Chọn theo Ý đồ Tâm điểm trong `storyboard.md`)
+### 3.2. Khung câu lệnh 4 khối trực quan cho `image.txt` (Chọn theo Ý đồ Tâm điểm trong `storyboard.md`)
 
 ```text
 # 1A. Cảnh Tâm điểm Con người & Cảm xúc (Character & Interaction Focus — Chủ thể lấp đầy khung hình, nền mờ thị trấn siêu thực ấm áp):
