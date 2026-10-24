@@ -30,11 +30,11 @@
 
 ### 2.2. Luật của Style nhạc (`Style prompt` & `Exclude`)
 - Lấy `Acoustic Folk` mộc mạc làm gốc (thuần mộc hoặc kết hợp nhánh âm nhạc thính phòng hợp bối cảnh `1-idea.md`), tempo `68-78 BPM` tạo đà tiến nhẹ nhàng và thư thả.
-- Trình bày `Style prompt` (55 đến 85 từ tiếng Anh) tách bạch theo 4 lớp (`GLOBAL`, `MAIN LAYER`, `SUB LAYER 1`, `SUB LAYER 2`) để khóa riêng tốc độ của từng tầng âm thanh:
-  - `GLOBAL`: Thể loại, điệu thức, tempo (`68-78 BPM`), độ chuyển động tổng thể và không gian phòng thu ấm.
-  - `MAIN LAYER` (Tầng giọng hát và giai điệu ngân chậm ở trên): Giọng hát ấm thu gần mic nhả chữ liền hơi chậm rãi (`slow, smooth legato phrases`) hòa quyện cùng đàn dây kéo vĩ ngân dài (`sustained cello, lyrical fiddle`) đối đáp với câu hát và dẫn dắt đoạn nhạc dạo (`Instrumental Solo / Interlude`).
-  - `SUB LAYER 1` (Tầng đàn gảy chạy nhịp liên tục ở dưới): Đàn guitar tỉa rải hợp âm liên tục (`continuous rolling fingerpicked acoustic guitar arpeggios`) kết hợp quạt chả nhẹ tạo dòng chảy linh hoạt nâng đỡ bên dưới.
-  - `SUB LAYER 2` (Tầng trầm, bộ gõ mềm và âm sắc định danh): Bass gỗ bước nhẹ phía sau phách (`upright bass slightly behind the beat`), bộ gõ chổi quét kết hợp shaker giữ nhịp đều (`light brushed snare, steady shaker pulse`) và nhạc cụ định danh bối cảnh. Dự án 2 bài giữ chung chất nhạc mộc và đổi nhẹ BPM hoặc màu giọng giữa hai bài.
+- Trình bày `Style prompt` (55 đến 85 từ tiếng Anh) tách bạch theo 4 mệnh đề ngăn cách bằng dấu chấm phẩy (`;`) đúng chuẩn bộ đọc của Suno để khóa riêng tốc độ của từng tầng âm thanh:
+  - Mệnh đề 1 (Nhịp đàn dẫn dắt & Tempo): Thể loại, ngón đàn guitar tỉa rải hợp âm linh hoạt dẫn dắt nhịp (`nimble fingerpicked guitar arpeggios drive a gentle rolling 68-78 BPM groove`) và điệu thức.
+  - Mệnh đề 2 (Tầng nhạc cụ nền chạy đều & Tầng giai điệu ngân dài): Đàn guitar tỉa liên tục bên dưới (`continuous rolling acoustic guitar underneath`), bass gỗ bước nhẹ phía sau phách (`upright bass slightly behind the beat`), bộ gõ chổi quét kết hợp shaker giữ nhịp cùng đàn dây kéo vĩ ngân dài (`sustained legato cello, lyrical fiddle`) và nhạc cụ định danh bối cảnh.
+  - Mệnh đề 3 (Không gian âm học & Điểm nhấn cấu trúc): Không gian phòng thu analog ấm áp, đoạn nhạc dạo (`instrumental solo`) và độ nở cảm xúc ở điệp khúc cuối (`final chorus swell`).
+  - Mệnh đề 4 (Màu giọng & Lối hát liền hơi): Giọng hát ấm thu gần mic nhả chữ liền hơi thong thả (`warm, close-mic, unhurried smooth legato delivery`), chọn cách phối hợp với câu chuyện. Dự án 2 bài giữ chung chất nhạc mộc và đổi nhẹ BPM hoặc màu giọng giữa hai bài.
 - `Exclude` (4 đến 6 thành phần): Ghi các yếu tố điện tử, trống mạnh, kỹ xảo giọng hát hoặc âm tần chói cần loại bỏ, cách nhau bằng dấu phẩy; khi loại bỏ một nhạc cụ ở `Exclude`, ghi rõ nhạc cụ mộc dẫn dắt trong `Style prompt`.
 
 ### 2.3. Luật của Lyrics (`2-music.md` & `3-lyrics.txt`)
