@@ -9,10 +9,10 @@
 
 ## Nguyên tắc cốt lõi
 
-- **Câu thơ nghiệm sinh 1–2 âm tiết chạm tuổi già (`Poetic Payoff Line`):** Mỗi khổ hát (`Verse`, `Chorus`, `Bridge`) kết tinh ít nhất 1 câu thơ giản dị bằng từ vựng 1 đến 2 âm tiết theo một trong hai cơ chế: nhân hóa để năm tháng, ký ức và tuổi già được dịu dàng nghỉ ngơi, hoặc đảo chiều một cử chỉ nhỏ của con người thành việc mở lối cho thiên nhiên và ánh sáng ùa vào chở che.
-- **Nhịp sóng mượt mà ở đoạn chậm (`Wave Cadence 7–8 / 6`):** Đan xen dòng mở ý (`7 đến 8 âm tiết`) với dòng hạ vần (`6 âm tiết`) có khoảng ngân cuối câu và gieo vần toàn phần sát nhau, giúp giọng hát lướt mềm, bắt vần nhanh và giữ nhịp cuốn hút.
-- **Vũ đạo đổi giọng & Biến thiên điệp khúc (`Vocal Hand-off & Whisper-to-Bloom`):** Luân phiên màu giọng Nam trầm và Nữ trong trẻo ngay giữa các nửa khổ hát hoặc qua cầu nối `[Pre-Chorus]`, phát triển lời `Chorus` theo dòng chảy thời gian, mở đầu điệp khúc cuối bằng giọng đôi thì thầm sát mic trước khi bung mở toàn dàn nhạc và khép bài bằng câu thủ thỉ sát mic (`spoken-sung whisper`).
-- **Đồng bộ Hình – Âm độc bản (`Synesthetic Audio-Visual Signature`):** Chuyển hóa nhịp chuyển động và thanh âm đặc trưng của bối cảnh trung tâm thành âm sắc nhạc cụ định danh trong bản phối (đặt ở mở bài, điểm rơi trước điệp khúc và đoạn dạo giữa bài kèm câu ngân có giai điệu), đồng bộ trực tiếp với các từ vựng gợi thanh âm trong lời hát.
+- **Điểm chạm nghiệm sinh giản dị (`Poetic Payoff Line`):** Dành không gian `Verse` cho mạch kể chuyện đời thường tự nhiên và kết tinh các câu thơ giản dị bằng từ vựng 1 đến 2 âm tiết tại những điểm nút cảm xúc của bài hát, thông qua phép nhân hóa để năm tháng, ký ức và tuổi già được dịu dàng nghỉ ngơi hoặc đảo chiều một cử chỉ nhỏ của con người thành việc mở lối cho thiên nhiên và ánh sáng ùa vào chở che.
+- **Nhịp câu song hành mượt mà & Vần tự nhiên (`Parallel Cadence & Natural Rhyme`):** Giữ mỗi dòng hát gọn vừa một hơi thở tự nhiên (`6 đến 10 âm tiết` trọn vẹn một ý nghĩa hoặc chia hai vế cân xứng qua dấu phẩy), tạo đà lướt bằng cấu trúc song hành điệp từ đầu câu và tự do lựa chọn sơ đồ vần hợp mạch cảm xúc (`AABB`, `ABCB` thả tự do dòng lẻ, vần bán âm hoặc điệp cấu trúc giàu nhạc tính).
+- **Vũ đạo giọng hát & Điểm rơi lắng đọng hồi kết (`Vocal Choreography & Intimate Drop`):** Tự do điều phối màu giọng đơn ca hoặc song ca Nam trầm – Nữ trong trẻo đối đáp theo mạch truyện, phát triển cảm xúc điệp khúc qua các chặng của bài và tạo điểm rơi tĩnh lặng rút nhạc cụ về mộc ở phần cuối bài để giọng hát thủ thỉ sát mic (`spoken-sung whisper`) hoặc ngân vang dư âm.
+- **Đồng bộ Hình – Âm độc bản (`Synesthetic Audio-Visual Signature`):** Chuyển hóa nhịp chuyển động và thanh âm đặc trưng của bối cảnh trung tâm thành âm sắc nhạc cụ định danh trong bản phối kèm câu ngân giai điệu dễ nhớ, đồng bộ trực tiếp với các từ vựng gợi thanh âm trong lời hát.
 
 ## 1. Cấu trúc Input & Output
 
@@ -49,9 +49,9 @@
   - Tạo chất thơ tự nhiên bằng các động từ chuyển động khoan thai và phép nhân hóa gắn động từ hơi thở, tri giác của con người cho cảnh vật, đồ vật xung quanh.
   - Diễn đạt thời gian và sự vật bằng hình ảnh cùng lượng từ tự nhiên, nhường phần mô tả dây chuyền thao tác tay chân cho `storyboard.md`, và tuân thủ [`ref/banned_lyrics_motifs.md`](file:///Users/hoangkien/Youtube/coslient-free/ref/banned_lyrics_motifs.md), [humanizer](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/humanizer/SKILL.md), [stop-slop](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/stop-slop/SKILL.md), [avoid-ai-writing](file:///Users/hoangkien/Youtube/coslient-free/.agents/skills/avoid-ai-writing/SKILL.md).
 - **Nhịp câu & gieo vần:**
-  - Giữ độ dài dòng hát gọn đều (`6 đến 8 âm tiết/dòng`, tương ứng `3 nhịp nhấn`) trên toàn bộ các đoạn chậm (`Verse`, `Bridge`) lẫn điệp khúc (`Chorus`), giúp ca sĩ nhả chữ gọn nảy, giữ tốc độ câu hát mượt mà và dễ hát theo ở tempo Folk thư thả.
-  - Phối âm liền hơi (`Legato Singability`): Kết nối các từ bằng nguyên âm mở và phụ âm vang mềm (`l, r, m, n, w`), luân phiên nhịp nhấn và nhịp lướt đều đặn giữa các từ để giọng hát trôi mượt qua từng phách nhạc.
-  - Gieo vần dày và sát ở mọi khổ hát (`AABB`, `ABAB` hoặc chuỗi vần đan cài toàn phần nơi 100% các dòng trong khổ đều có vần ăn khớp): Đặt các từ vần cách nhau ngắn để tai người nghe bắt được vần liên tục; ưu tiên từ kết câu có âm mở hoặc âm vang êm tai và chủ động đổi mới cặp từ gieo vần qua từng bài.
+  - Giữ dòng hát vừa một hơi thở tự nhiên (`6 đến 10 âm tiết/dòng`, tương ứng `3 đến 4 nhịp nhấn`), mỗi dòng khép trọn một cụm mệnh đề hoặc chia hai vế cân xứng qua dấu phẩy để ca sĩ nhả chữ trôi chảy, mượt mà ở cả đoạn chậm lẫn điệp khúc.
+  - Phối âm liền hơi và nhịp song hành (`Legato & Parallel Flow`): Kết nối các từ bằng nguyên âm mở cùng phụ âm vang mềm, sử dụng phép lặp từ đầu câu hoặc cấu trúc ngữ pháp song hành giữa các cặp câu để giai điệu tự bắt nhịp cuốn hút.
+  - Linh hoạt chọn sơ đồ vần hợp mạch tự sự (`AABB` liền kề, `ABCB` thả tự do dòng lẻ, `ABAB`, vần bán âm hoặc điệp cấu trúc): Ưu tiên từ kết câu có âm mở hoặc âm vang êm tai và chủ động đổi mới cặp từ gieo vần qua từng bài.
 - **Cách kể chuyện (`Verse` & `Chorus`):**
   - Giữ đúng ngôi kể đã chọn ở `1-idea.md` (**Chế độ 1**: theo tuyến nhân vật xuyên suốt; **Chế độ 2**: các lát cắt đời sống độc lập cùng chụm về điệp khúc).
   - `Verse`: Câu đầu tiên vào thẳng một hành động, lời nói thân tình hoặc khung cảnh cụ thể; phát triển câu chuyện bằng chi tiết đời thực và đan cài 2 đến 3 móc neo giác quan từ `1-idea.md`.
