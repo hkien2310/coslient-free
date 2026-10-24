@@ -18,12 +18,12 @@
    - Mệnh đề tiêu đề vận dụng linh hoạt các khuôn mẫu kích hoạt đồng cảm ở khán giả 45-85+ (`Mệnh đề Chốn về & Cộng đồng An nhiên`, `Mệnh đề Chứng nhân Bền bỉ theo Năm tháng`, `Mệnh đề Thủ thỉ Mở Đa tầng nghĩa`, hoặc `Mệnh đề Đối xứng Chăm sóc và Gắn bó`) và phản ánh trung thực bối cảnh, thời điểm/mùa cùng câu chuyện thực tế trong lời hát và hình ảnh.
    - Định danh file gốc (`[story-clause-slug].mp4` và `[story-clause-slug]-thumbnail.jpg`) đồng bộ trực tiếp với mệnh đề tiêu đề chính.
 
-2. **Bộ 3 Prompt Poster Thumbnail đối lập quy mô và chuẩn Khung 4 khối Stop-Motion (`Three-Angle Iconic Poster Prompts & Full-Body Integrity`):**
+2. **Bộ 3 Prompt Poster Thumbnail đối lập quy mô và chuẩn Khung 4 khối Stop-Motion (`Three-Angle Iconic Poster Prompts & Art-Doll Integrity`):**
    - Xuất đầy đủ **3 câu lệnh tiếng Anh 4 khối trực quan hoàn chỉnh** (`--ar 16:9`) đại diện cho 3 góc tiếp cận Poster điện ảnh rõ nét:
-     1. **Prompt 1 (`Poster Điểm Nhìn Chân Trời`):** Khung hình rộng/trung-rộng toàn thân trên điểm tựa địa hình cao thoáng trước đường chân trời mở rộng (`expansive scenic focus`).
+     1. **Prompt 1 (`Poster Điểm Nhìn Chân Trời`):** Khung hình rộng trên điểm tựa địa hình cao thoáng với khoảng trời mở rộng (`expansive scenic focus with generous open negative space`).
      2. **Prompt 2 (`Poster Ánh Sáng & Hành Trình Đồng Hành`):** Khung hình toàn cảnh khai thác khoảnh khắc đồng hành dưới ánh sáng vàng ấm hoặc chạng vạng giữa không gian mô hình rộng lớn.
-     3. **Prompt 3 (`Poster Khoảnh Khắc Gắn Kết Đắt Giá`):** Khung hình trung-rộng đặt trước hậu cảnh mờ dịu (`softly blurred colorful warm background`), bắt trọn cử chỉ trao-nhận tình cảm sâu sắc nhất giữa các nhân vật.
-   - Cả 3 câu lệnh Thumbnail đều tuân thủ trọn vẹn chuẩn thế giới Stop-Motion tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5): mở đầu bằng `Handcrafted stop-motion animation film still set in a warm poetic surreal town... harmonious character-to-object scale`, khóa phôi rối thanh mảnh có đôi mắt biểu cảm (`warm expressive eyes, soft rounded noses, slender elongated proportions`), tóc sợi bông phủ kín đỉnh đầu, mô tả nhân vật 4 trục đối lập mặc đủ 3 tầng trang phục (Áo + Quần dài/Váy dài + Giày đặt trên điểm tựa kèm cụm `from head to feet`) và khóa cuối bằng một nguồn sáng duy nhất.
+     3. **Prompt 3 (`Poster Khoảnh Khắc Gắn Kết Đắt Giá`):** Khung hình bán thân hoặc trung-rộng đặt trước hậu cảnh mờ dịu (`softly blurred warm background`), bắt trọn cử chỉ trao-nhận tình cảm sâu sắc nhất giữa các nhân vật.
+   - Cả 3 câu lệnh Thumbnail đều tuân thủ trọn vẹn chuẩn thế giới Stop-Motion tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5): mở đầu bằng `Handcrafted stop-motion animation film still set in a warm poetic surreal town... harmonious character-to-object scale`, khóa phôi rối nghệ thuật thanh mảnh (`subtle handcrafted puppet eyes, soft rounded noses, slender elongated proportions`), tóc sợi bông phủ kín đỉnh đầu, mô tả nhân vật 4 trục tinh gọn phù hợp cỡ cảnh và khóa cuối bằng một nguồn sáng duy nhất.
 
 3. **Mô tả 4 Trụ cột chuẩn Văn phong Con người và Khớp 1:1 Lời bài hát (`Four-Pillar Humanized Description & Verified Lyrics`):**
    - Phần `DESCRIPTION` hội tụ đủ 4 trụ cột theo đúng trật tự:
@@ -62,7 +62,7 @@ Trước khi tạo ảnh Thumbnail và xuất bản dự án, thực hiện ki�
 
 ### Bước 2: Thẩm định từng phần theo 5 Cổng `[FATAL]` (`Empirical SEO Stress Test`)
 - **Cổng 1 (`FILE NAME` & `TITLE`):** Đếm số ký tự Title (`<70 ký tự`), kiểm tra mệnh đề câu chuyện nằm ở phần đầu tiêu đề, vận dụng khuôn mẫu đồng cảm và khớp trung thực với nội dung bài hát.
-- **Cổng 2 (`3 PROMPTS THUMBNAIL`):** Kiểm tra đủ 3 góc độ Poster (`Horizon`, `Journey`, `Soulful Connection`), đúng cú pháp 4 khối Stop-Motion, đủ 3 tầng trang phục, có cụm `from head to feet` khi ngồi và tuân thủ danh mục vật liệu tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
+- **Cổng 2 (`3 PROMPTS THUMBNAIL`):** Kiểm tra đủ 3 góc độ Poster (`Horizon`, `Journey`, `Soulful Connection`), đúng cú pháp 4 khối Stop-Motion, phôi rối nghệ thuật thanh mảnh, khoảng thở không gian thoáng rộng và tuân thủ danh mục vật liệu tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
 - **Cổng 3 (`DESCRIPTION`):** Kiểm tra đủ 4 trụ cột, giọng văn thư tay tự nhiên chuẩn [`humanizer`](../.agents/skills/humanizer/SKILL.md), lời bài hát khớp 100% và đủ 6 hashtags.
 - **Cổng 4 (`TAGS`):** Kiểm tra các cụm từ khóa riêng chia đều vào 3 tầng (Tâm lý 55-85+, Nhạc cụ Folk thực tế, Không gian/Mỹ học).
 - **Cổng 5 (`PINNED COMMENT`, `SHORTS` & `PLAYLISTS/DISTROKID`):** Kiểm tra câu hỏi mở ký ức, mốc thời gian Shorts (<30s) và thông tin phân phối chính xác.

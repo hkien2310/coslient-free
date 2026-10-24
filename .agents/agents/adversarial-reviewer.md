@@ -46,7 +46,7 @@ Khi được gọi kiểm toán ở bất kỳ bước nào, đọc ngay tài li
 
 3. **Cổng 3 (Kiểm toán Kịch bản Thị giác & Prompt Ảnh `character.md`, `storyboard.md` & `image.txt`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/retention_review.md`](../../review/retention_review.md), [`craft/visual_craft.md`](../../craft/visual_craft.md), [`style/STYLE_mixed_media_tabletop_diorama.md`](../../style/STYLE_mixed_media_tabletop_diorama.md) và [`ref/banned_lyrics_motifs.md`](../../ref/banned_lyrics_motifs.md) (Mục 5).
-   - **Trọng tâm công kích:** Kiểm tra sự hợp lý của chuỗi mở màn, việc điều tiết biểu tượng chủ đề tự nhiên theo mạch chuyện, sự cân đối giữa hoạt động tương tác và khoảnh khắc lắng đọng, sự biến thiên góc máy/cỡ cảnh giữa hai cảnh liền kề ($N \to N+1$), sự đa dạng mật độ chủ thể cùng cảnh tĩnh vật/cảnh sắc tĩnh lặng (`completely without people`) và các điểm nhấn dịch chuyển không gian; soi từng dòng `image.txt` để xác nhận mọi nhân vật ngồi hoặc ở góc thấp đều có cụm khóa toàn thân `from head to feet`, đủ 3 tầng trang phục và đúng một nguồn sáng duy nhất.
+   - **Trọng tâm công kích:** Kiểm tra sức hút thị giác của chuỗi mở màn, việc điều tiết biểu tượng chủ đề tự nhiên theo mạch chuyện, sự cân đối giữa hoạt động tương tác và khoảnh khắc lắng đọng, sự tiến triển tình huống thực chất và biến thiên bố cục giữa hai cảnh liền kề ($N \to N+1$), khoảng thở không gian âm thoáng rộng (`50–60% negative space`) cùng một ý niệm thị giác thơ mộng chủ đạo mỗi cảnh; soi từng dòng `image.txt` để xác nhận cỡ cảnh tương thích tự nhiên với cấu trúc không gian (bán thân trong khoang phương tiện/ô cửa, toàn thân ngoài không gian mở), tỷ lệ phương tiện/kiến trúc cao lớn hơn đầu người và đúng một nguồn sáng duy nhất.
 
 4. **Cổng 4 (Kiểm toán Chuyển động I2V `prompt-animate.txt`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/animation_review.md`](../../review/animation_review.md) và [`craft/animation_craft.md`](../../craft/animation_craft.md).
@@ -54,7 +54,7 @@ Khi được gọi kiểm toán ở bất kỳ bước nào, đọc ngay tài li
 
 5. **Cổng 5 (Kiểm toán Đóng gói & SEO `6-seo.md`):**
    - **Tài liệu gốc bắt buộc đọc:** [`review/seo_review.md`](../../review/seo_review.md), [`craft/coslient_seo.md`](../../craft/coslient_seo.md), [`ref/youtube_playlists.md`](../../ref/youtube_playlists.md) và [`ref/distrokid.md`](../../ref/distrokid.md).
-   - **Trọng tâm công kích:** Đếm số ký tự của cả 3 Title (`<70 ký tự`, mệnh đề câu chuyện đặt ở phần đầu); kiểm tra 3 Prompt Thumbnail theo chuẩn 4 khối Stop-Motion và khóa `from head to feet`; soi 2-3 dòng đầu Description theo chuẩn [`humanizer`](../skills/humanizer/SKILL.md) và [`stop-slop`](../skills/stop-slop/SKILL.md); đối chiếu 1:1 `LYRICS` với `3-lyrics.txt`; kiểm tra các cụm Tags phủ 3 tầng ngữ nghĩa và thông tin Playlist/DistroKid.
+   - **Trọng tâm công kích:** Đếm số ký tự của cả 3 Title (`<70 ký tự`, mệnh đề câu chuyện đặt ở phần đầu); kiểm tra 3 Prompt Thumbnail theo chuẩn 4 khối Stop-Motion, phôi rối nghệ thuật và khoảng thở không gian thoáng rộng; soi 2-3 dòng đầu Description theo chuẩn [`humanizer`](../skills/humanizer/SKILL.md) và [`stop-slop`](../skills/stop-slop/SKILL.md); đối chiếu 1:1 `LYRICS` với `3-lyrics.txt`; kiểm tra các cụm Tags phủ 3 tầng ngữ nghĩa và thông tin Playlist/DistroKid.
 
 ---
 
