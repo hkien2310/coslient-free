@@ -29,11 +29,11 @@
 - Đồng bộ 1:1 tên bài giữa `1-idea.md`, tiêu đề `## Track N: [Track Title]` trong `2-music.md`, tên thư mục `track-N-<track-title-slug>/` và bảng `ref/lyrics-index.md`.
 
 ### 2.2. Luật của Style nhạc (`Style prompt` & `Exclude`)
-- Lấy `Acoustic Folk` mộc mạc làm gốc (thuần mộc hoặc kết hợp nhánh âm nhạc thính phòng hợp bối cảnh `1-idea.md`), tempo `58-74 BPM` có độ đung đưa mềm mại, thư thả và dễ phiêu theo.
-- Phối nhạc 2 tầng giàu độ ngân mềm (`Legato Warmth`):
-  - Tầng nền giữ nhịp êm: Đàn guitar tỉa dây buông ngân tự nhiên (`warm fingerpicked guitar`), bass gỗ trầm ấm và bộ gõ chổi quét thật khẽ (`whisper-soft brushed snare`) nâng đỡ bài hát nhẹ nhàng như chiếc nôi.
-  - Tầng giai điệu và âm sắc định danh: Đàn dây kéo vĩ liền hơi (`legato cello, lyrical fiddle`) cùng nhạc cụ định danh bối cảnh ngân giai điệu, đối đáp với câu hát và dẫn dắt đoạn nhạc dạo (`Instrumental Solo / Interlude`).
-- Giọng hát ấm thu gần mic với lối nhả chữ liền hơi mềm mại (`warm close-mic vocal with smooth legato phrasing`), chọn cách phối hợp với câu chuyện (hát đơn có bè hòa âm ở điệp khúc, song ca Nam và Nữ đối đáp, hoặc giọng thứ hai bước vào ở nửa sau bài) kèm tiếng ngân giai điệu; âm sắc gỗ ấm, dịu dải tần cao.
+- Lấy `Acoustic Folk` mộc mạc làm gốc (thuần mộc hoặc kết hợp nhánh âm nhạc thính phòng hợp bối cảnh `1-idea.md`), thiết kế nhịp 2 tốc độ (`112-124 BPM with a half-time vocal feel` khi cần nhịp nền linh hoạt nâng đỡ giọng hát ngân chậm ở mức `~56-62 BPM`, hoặc `58-76 BPM` cho bản ballad tĩnh lặng).
+- Phối nhạc 2 tầng tách bạch tốc độ và độ ngân (`Two-Speed Layering`):
+  - Tầng nền giữ nhịp linh hoạt ở dưới: Đàn guitar tỉa dây liên tục (`continuous nimble fingerpicked guitar`), bass gỗ bước đều và bộ gõ chổi quét kết hợp shaker giữ nhịp chảy tự nhiên xuyên suốt bên dưới.
+  - Tầng giai điệu và giọng hát ngân chậm ở trên: Đàn dây kéo vĩ liền hơi (`sustained legato cello, lyrical fiddle`), nhạc cụ định danh bối cảnh và giọng hát trôi chậm rãi theo nhịp half-time mềm mại phía trên tầng nền, đối đáp với câu hát và dẫn dắt đoạn nhạc dạo (`Instrumental Solo / Interlude`).
+- Giọng hát ấm thu gần mic với lối nhả chữ liền hơi chậm rãi (`soft half-time legato flow`), chọn cách phối hợp với câu chuyện (hát đơn có bè hòa âm ở điệp khúc, song ca Nam và Nữ đối đáp, hoặc giọng thứ hai bước vào ở nửa sau bài) kèm tiếng ngân giai điệu; âm sắc gỗ ấm, dịu dải tần cao.
 - `Style prompt` (55 đến 85 từ tiếng Anh): Ghép cụm danh từ âm thanh trực quan theo 4 ý: (1) Thể loại, điệu thức, BPM và nhịp cuốn; (2) Nhạc cụ tầng nền giữ nhịp; (3) Nhạc cụ tầng giai điệu và độ mở ở điệp khúc; (4) Màu giọng, cách phối bè và chất âm bản thu ấm. Dự án 2 bài giữ chung chất nhạc mộc và đổi nhẹ BPM hoặc màu giọng giữa hai bài.
 - `Exclude` (4 đến 6 thành phần): Ghi các yếu tố điện tử, trống mạnh, kỹ xảo giọng hát hoặc âm tần chói cần loại bỏ, cách nhau bằng dấu phẩy; khi loại bỏ một nhạc cụ ở `Exclude`, ghi rõ nhạc cụ mộc dẫn dắt trong `Style prompt`.
 

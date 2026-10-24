@@ -24,9 +24,9 @@
   - Đặt tên tiếng Anh ngắn gọn (3 đến 6 từ) bằng từ vựng đời thường giản dị, giàu chất Folk và gợi ngay bối cảnh hoặc tâm tình của `1-idea.md`.
   - Đồng bộ 1:1 tên bài giữa `1-idea.md`, tiêu đề trong `2-music.md`, tên thư mục dự án và bảng [`ref/lyrics-index.md`](../ref/lyrics-index.md).
 - **Kiểm toán Style nhạc (`Style prompt` & `Exclude` - Mục 2.2):**
-  - Lấy `Acoustic Folk` mộc mạc làm gốc, tempo `58-74 BPM` có độ đung đưa mềm mại, thư thả và dễ phiêu theo.
-  - Phối nhạc 2 tầng giàu độ ngân mềm: tầng nền giữ nhịp êm bằng guitar tỉa dây buông ngân tự nhiên, bass gỗ ấm và bộ gõ chổi quét khẽ; tầng giai điệu có đàn dây kéo vĩ liền hơi (`legato cello / fiddle`) cùng nhạc cụ định danh hợp bối cảnh `1-idea.md`.
-  - Giọng hát ấm thu gần mic với lối nhả chữ liền hơi mềm mại (`smooth legato phrasing`), phối giọng hợp câu chuyện kèm tiếng ngân giai điệu; âm sắc gỗ ấm, dịu dải tần cao.
+  - Lấy `Acoustic Folk` mộc mạc làm gốc, thiết kế nhịp 2 tốc độ (`112-124 BPM with a half-time vocal feel` để tầng nền chạy linh hoạt còn giọng hát ngân chậm ở mức `~56-62 BPM`, hoặc `58-76 BPM` cho bản ballad tĩnh lặng).
+  - Phối nhạc 2 tầng tách bạch tốc độ và độ ngân: tầng nền giữ nhịp linh hoạt ở dưới bằng guitar tỉa liên tục, bass gỗ bước đều và bộ gõ chổi quét kết hợp shaker; tầng giai điệu trôi chậm ở trên bằng đàn dây kéo vĩ liền hơi (`sustained legato cello / lyrical fiddle`) cùng nhạc cụ định danh hợp bối cảnh `1-idea.md`.
+  - Giọng hát ấm thu gần mic với lối nhả chữ liền hơi chậm rãi (`soft half-time legato flow`), phối giọng hợp câu chuyện kèm tiếng ngân giai điệu; âm sắc gỗ ấm, dịu dải tần cao.
   - `Style prompt` (55 đến 85 từ) ghép đủ 4 ý trực quan; khi loại bỏ một nhạc cụ ở `Exclude` (4 đến 6 thành phần), đã ghi rõ nhạc cụ mộc dẫn dắt trong `Style prompt`.
 - **Kiểm toán Lyrics (`2-music.md` & `3-lyrics.txt` - Mục 2.3):**
   - **Thẻ điều phối:** Chia cấu trúc bài cân đối theo mạch chuyện (có đoạn `[Instrumental Solo / Interlude]`, đoạn lắng nhạc cụ và thẻ kết `[Outro: ..., gentle fade out]`); đầu mỗi đoạn có thẻ `[...]` gọn (3 đến 10 từ) ghi rõ tên đoạn, nhạc cụ dẫn dắt, người hát (`Male vocal / Female vocal / Duet`) và độ mạnh nhẹ; dấu ngoặc đơn `(...)` chỉ chứa tiếng ngân không lời hoặc lời bè hát thành tiếng.
