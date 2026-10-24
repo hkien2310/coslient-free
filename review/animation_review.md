@@ -15,31 +15,27 @@
 
 1. **Đồng bộ 1:1 số dòng, chủ thể, tư thế gốc và đạo cụ với `image.txt` (`1:1 Subject, Posture & Prop Fidelity`):**
    - Tổng số dòng lệnh trong `prompt-animate.txt` khớp chính xác 1:1 với tổng số dòng trong `image.txt`, mỗi câu lệnh nằm trọn vẹn trên một dòng duy nhất.
-   - Danh từ chỉ người (số lượng nhân vật, độ tuổi, giới tính), tư thế cơ thể ở giây 0 (`t = 0s`) và vật thể/phương tiện đang thao tác trong câu lệnh chuyển động khớp hoàn toàn với những gì đã được thiết lập tại dòng tương ứng của `image.txt`.
+   - Danh từ chỉ người (số lượng nhân vật, độ tuổi, giới tính), tư thế cơ thể ở giây 0 (`t = 0s`) và vật thể/phương tiện trong câu lệnh chuyển động khớp hoàn toàn với những gì đã được thiết lập tại dòng tương ứng của `image.txt`.
 
-2. **Chủ ngữ máy quay tường minh, Kỹ thuật ống kính một trục có đích ngắm và Nhịp thở khung hình (`Explicit Camera Subject, Motivated 1-Axis Motion & Frame Breathing`):**
-   - Mở đầu mọi câu lệnh bằng chủ ngữ tường minh `The camera` hoặc `Unstabilized camera` kết hợp động từ di chuyển một trục rõ ràng và đích mở khung hình cụ thể (`from [X] to [Y]`, `keeping [X] centered`, `at the same pace`, `until [Y] comes into view`, `to reveal [Y]`).
-   - Sử dụng đúng cụm nhịp thở khung hình tương ứng với trạng thái máy:
-     - **Khi giữ khung hoặc xoay trục tại chỗ (`holds steady / lingers / pans / tilts`):** Đi kèm cụm `, the frame breathing with natural motion.`
-     - **Khi tịnh tiến thân máy một trục (`moves slowly closer / pulls slowly back / glides laterally / rises gently / circles gently`):** Đi kèm cụm `, the frame swaying with natural motion.`
-     - **Khi bám song song cùng nhịp di chuyển của chủ thể (`Unstabilized camera moves alongside [X] at the same pace`):** Đi kèm cụm `, the frame visibly bobbing and swaying.`
+2. **Chuyển động máy quay một trục rõ hướng và mượt mà (`Clear 1-Axis Camera Motion`):**
+   - Nêu rõ ràng, ngắn gọn trạng thái hoặc hướng di chuyển một trục của máy quay (giữ tĩnh, lia ngang trái/phải, ngẩng/hạ dọc, tiến nhẹ, lùi mở cảnh, trượt ngang, nâng cao hoặc đi theo cùng hướng với chủ thể), đảm bảo quỹ đạo máy quay thuận chiều và đồng nhất với hướng vận động của cảnh.
 
-3. **Động học cơ thể mềm mại, Tương tác giao cảm hai chiều và Đuôi khóa chuẩn xác (`Fluid Human Kinematics, Reciprocal Affection & Exact Closing Tail`):**
-   - **Với cảnh có người:** Mô tả một chuyển động tiếp diễn liền mạch trong 5 giây phát triển trực tiếp từ tư thế giây 0 bằng các động từ ở thì hiện tại đơn kèm trạng từ chỉ sự khoan thai, uyển chuyển (`with fluid, unhurried motion`, `gently shifting weight`, `smoothly`); khi cảnh có từ hai nhân vật trở lên, thể hiện rõ sự hưởng ứng và giao cảm qua lại giữa các chủ thể (ánh mắt nhìn nhau ấm áp, nghiêng đầu lắng nghe rồi mỉm cười gật đầu, cử chỉ chăm sóc tiếp diễn êm ái), và kết thúc bằng đúng cụm đuôi cố định: **`, while facial expressions and everything around move naturally.`**
-   - **Với cảnh tĩnh vật (`B-roll`) hoặc cảnh sắc thiên nhiên thuần túy (`completely without people`):** Lấy vật thể trung tâm hoặc yếu tố thiên nhiên trong ảnh làm chủ ngữ, mô tả chuyển động vật lý tự nhiên êm ái trong 5 giây và kết thúc bằng đúng cụm đuôi cố định: **`, while everything around moves naturally.`**
+3. **Một chuyển động lớn duy nhất theo một hướng và Dòng chảy tự nhiên (`Single Unidirectional Macro Action & Natural Flow`):**
+   - **Với cảnh có người:** Chỉ mô tả **một hành động lớn duy nhất tiếp diễn theo một hướng nhất quán** phát triển trực tiếp từ tư thế giây `0s` (như đi thẳng dọc con đường về phía đích, trao vật dụng qua cửa, đặt đồ lên kệ), giữ vững quán tính một chiều xuyên suốt 5 giây và để biểu cảm gương mặt cùng môi trường xung quanh vận động tự nhiên.
+   - **Với cảnh tĩnh vật (`B-roll`) hoặc cảnh sắc thiên nhiên thuần túy (`completely without people`):** Lấy vật thể trung tâm hoặc yếu tố thiên nhiên trong ảnh làm chủ ngữ và mô tả một chuyển động vật lý êm ái, tự nhiên của không gian.
 
 4. **Luân chuyển kỹ thuật máy quay giữa hai cảnh liền kề ($N \to N+1$ `Consecutive Camera Motion Rotation`):**
-   - Hai dòng lệnh sát nhau ($N \to N+1$) sử dụng các kỹ thuật chuyển động ống kính khác nhau, khớp với thiết kế quỹ đạo máy đã duyệt tại cột đạo diễn I2V của `storyboard.md`.
+   - Hai dòng lệnh sát nhau ($N \to N+1$) sử dụng các kỹ thuật chuyển động ống kính khác nhau, khớp với thiết kế quỹ đạo máy tại cột đạo diễn I2V của `storyboard.md`.
 
-5. **Tập trung thuần túy vào động học súc tích (`Pure Kinematic Focus`):**
-   - Mỗi câu lệnh viết ngắn gọn, dành trọn dung lượng cho chuyển động của ống kính và cử chỉ tiếp diễn mềm mại của chủ thể trong vùng không gian hiện hữu của bức ảnh gốc (để phần thông tin về chất liệu, màu sắc trang phục và nguồn sáng cho `image.txt` đảm nhận).
+5. **Tối giản câu chữ và Gợi mở cảm xúc cảnh (`Concise Kinematic Focus & Scene Mood`):**
+   - Mỗi câu lệnh viết ngắn gọn, súc tích, chỉ tập trung vào chuyển động máy quay, một chuyển động lớn của chủ thể và sắc thái cảm xúc/bầu không khí của cảnh (diễn đạt linh hoạt, tự nhiên theo từng cảnh để mô hình tự suy diễn biểu cảm và vi chuyển động môi trường).
 
 ### 1.2. Hai đòn bẩy thực chứng `[HIGH RISK]` (Tối ưu cảm xúc điện ảnh và độ mượt liên cảnh)
 
-1. **Sự đồng điệu giữa Quỹ đạo ống kính và Đường cong năng lượng âm nhạc (`Musical-Kinematic Alignment`):**
-   - Điều tiết tốc độ và biên độ mở của ống kính ăn khớp với từng chương nhạc: ưu tiên các cú máy giữ khung ấm cúng (`holds steady`, `lingers`) hoặc tiến nhẹ (`moves slowly closer`) ở các khổ hát tự sự (`Verse`, `Bridge`), và mở rộng bằng các cú máy lùi mở cảnh quan (`pulls slowly back to reveal`), nâng dọc (`rises gently`), trượt ngang (`glides laterally`) hoặc bám hành trình (`Unstabilized camera moves alongside`) tại chuỗi mở màn, Điệp khúc (`Chorus`) và Nhạc dạo (`Solo`).
-2. **Phản ứng vật lý tinh tế của Môi trường xung quanh (`Subtle Environmental Micro-Motion`):**
-   - Kết hợp hài hòa chuyển động của chủ thể với một nhịp chuyển động tự nhiên rất khẽ của môi trường sẵn có trong ảnh gốc để toàn bộ khung hình thở cùng một nhịp sống động.
+1. **Sự đồng điệu giữa Quỹ đạo ống kính, Cảm xúc cảnh và Đường cong âm nhạc (`Musical-Mood-Kinematic Alignment`):**
+   - Điều tiết tốc độ ống kính và sắc thái cảm xúc của cảnh ăn khớp với từng chương nhạc: ưu tiên các cú máy giữ khung ấm cúng hoặc tiến nhẹ mang cảm xúc lắng đọng ở các khổ hát tự sự (`Verse`, `Bridge`), và mở rộng bằng các cú máy lùi mở cảnh quan, nâng dọc, lia ngang hoặc đi theo hành trình mang cảm xúc khoáng đạt tại chuỗi mở màn, Điệp khúc (`Chorus`) và Nhạc dạo (`Solo`).
+2. **Tính một chiều của hướng di chuyển (`Unidirectional Continuity`):**
+   - Ở các cảnh nhân vật hoặc phương tiện đang di chuyển trên đường, giữ trọn vẹn một hướng tiến về phía trước rõ ràng từ đầu đến cuối cảnh để tạo dòng chảy thị giác mượt mà.
 
 ---
 
@@ -52,16 +48,16 @@ Trước khi đưa vào kết xuất video I2V, thực hiện kiểm toán độ
 - Xác nhận tổng số dòng bằng nhau tuyệt đối và từng dòng `N` trong `prompt-animate.txt` gọi đúng số lượng người, đúng nhân vật và đúng đạo cụ/bối cảnh của dòng `N` trong `image.txt`.
 
 ### Bước 2: Thẩm định từng dòng theo 5 Cổng `[FATAL]` (`Line-by-Line I2V Stress Test`)
-- **Cổng 1 (`Chủ ngữ & Kỹ thuật máy`):** Kiểm tra mở đầu bằng `The camera` / `Unstabilized camera`, có đích ngắm rõ ràng và đúng cụm nhịp thở (`breathing` / `swaying` / `bobbing and swaying`).
+- **Cổng 1 (`Chuyển động máy quay`):** Kiểm tra hướng máy quay một trục rõ ràng, mượt mà và thuận chiều với bố cục ảnh gốc.
 - **Cổng 2 (`Luân chuyển liên cảnh`):** Kiểm tra cặp dòng liền kề ($N \to N+1$) thay đổi động tác máy và khớp với cột I2V của `storyboard.md`.
-- **Cổng 3 (`Động học & Giao cảm 2 chiều`):** Kiểm tra động từ hiện tại đơn kèm trạng từ mềm mại và sự tương tác hai chiều giữa các nhân vật trong cảnh.
-- **Cổng 4 (`Câu đuôi cố định`):** Kiểm tra 100% cảnh có người kết thúc bằng `, while facial expressions and everything around move naturally.` và 100% cảnh tĩnh vật/cảnh sắc thuần túy kết thúc bằng `, while everything around moves naturally.`
-- **Cổng 5 (`Thuần động học`):** Kiểm tra câu lệnh súc tích và tập trung thuần túy vào chuyển động.
+- **Cổng 3 (`Một chuyển động lớn một chiều`):** Kiểm tra mỗi cảnh chỉ tập trung vào 1 hành động chính theo 1 hướng duy nhất từ tư thế giây `0s`, giữ đà chuyển động mượt mà xuyên suốt 5 giây.
+- **Cổng 4 (`Biểu cảm & Môi trường tự nhiên`):** Kiểm tra mệnh đề để biểu cảm gương mặt (với cảnh có người) và vạn vật xung quanh tự vận động tự nhiên.
+- **Cổng 5 (`Ngắn gọn & Có cảm xúc cảnh`):** Kiểm tra câu lệnh súc tích và có gợi mở sắc thái cảm xúc/bầu không khí phù hợp với cảnh.
 
 ### Bước 3: Bảng đối soát 5 tiêu chuẩn và Phán quyết (`Pre-I2V Animation Sign-Off`)
 Xác nhận `prompt-animate.txt` đạt trọn vẹn 5 tiêu chuẩn trước khi chạy công cụ tạo video:
 - **Chỉ số 1 (Đồng bộ 1:1 số dòng, chủ thể và đạo cụ với `image.txt`):** Khớp chính xác số lượng dòng và danh từ chủ thể/vật thể ở từng cảnh.
-- **Chỉ số 2 (Chuẩn chủ ngữ `The camera`, đích khung hình & nhịp thở ống kính):** Đúng cấu trúc mở đầu và trạng thái nhịp thở khung hình ở mọi dòng.
+- **Chỉ số 2 (Chuyển động máy quay 1 trục rõ hướng & mượt mà):** Quỹ đạo ống kính rõ ràng, tự nhiên ở mọi dòng.
 - **Chỉ số 3 (Luân chuyển động tác máy liền kề $N \to N+1$):** Các cảnh sát nhau thay đổi kỹ thuật máy quay mượt mà theo `storyboard.md`.
-- **Chỉ số 4 (Động học mềm mại, tương tác hai chiều & đúng câu đuôi cố định):** Cử chỉ khoan thai, có giao cảm qua lại và khớp từng chữ câu đuôi khóa.
-- **Chỉ số 5 (Thuần túy động học súc tích):** Ngắn gọn, tập trung hoàn toàn vào chuyển động 5 giây.
+- **Chỉ số 4 (Đúng 1 chuyển động lớn một chiều & dòng chảy tự nhiên):** Chỉ 1 hành động chính nhất quán, để biểu cảm và môi trường tự vận động mượt mà.
+- **Chỉ số 5 (Tối giản câu chữ & giàu cảm xúc cảnh):** Ngắn gọn, có sắc thái cảm xúc để AI tự suy diễn nhịp điệu tự nhiên.
