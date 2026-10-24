@@ -25,7 +25,7 @@
 3. **Mái tóc và râu sợi bông xù dày phủ kín đỉnh đầu với màu sắc và kiểu dáng đa dạng (`Thick Full Fluffy Cotton-Fiber Hair with Varied Colors & Styles`):**
    - Nhân vật ở mọi độ tuổi sở hữu mái tóc và râu bằng chất liệu sợi bông đánh tơi bồng bềnh phủ dày kín đỉnh đầu (`thick full fluffy cotton-fiber hair covering the crown`), linh hoạt biến hóa màu sắc và kiểu tạo hình theo cá tính riêng.
 4. **Trang phục vải dệt thủ công đồng bộ theo cỡ cảnh và điểm nhấn nhận diện linh hoạt (`Handcrafted Woven Attire Adapted to Shot Framing & Flexible Character Accent`):**
-   - Nhân vật mặc trang phục may từ vải dệt phẳng tự nhiên có sắc độ hài hòa kèm điểm nhấn cá tính riêng. Ở các cỡ cảnh toàn thân (`Wide / Medium-wide full-body`), mô tả đầy đủ bộ trang phục từ áo, quần dài hoặc váy dài đến đôi giày đặt vững chãi trên bề mặt điểm tựa; ở các cỡ cảnh bán thân hoặc trung cận trong khoang xe, bên bàn hoặc sau khung cửa (`Medium close-up / Waist-up`), tập trung mô tả phần thân trên, cổ áo, phụ kiện và cử chỉ đôi tay tự nhiên.
+   - Nhân vật mặc trang phục may từ vải dệt phẳng tự nhiên có sắc độ hài hòa kèm điểm nhấn cá tính riêng. Ở các cỡ cảnh toàn thân (`Wide / Medium-wide full-body`), mô tả đầy đủ bộ trang phục từ áo, quần dài hoặc váy dài đến đôi giày theo đúng tư thế vận động của đôi chân; ở các cỡ cảnh bán thân hoặc trung cận trong không gian có vách chắn che khuất phần thân dưới (`Medium close-up / Waist-up`), tập trung mô tả phần thân trên, cổ áo, phụ kiện và cử chỉ đôi tay tự nhiên.
 5. **Một nguồn sáng chính duy nhất chiếu theo một hướng nhất quán (`Single Directional Light Source`):**
    - Khóa ở cuối mỗi câu lệnh một nguồn sáng tự nhiên duy nhất chiếu từ một hướng rõ rệt tạo ra một hướng đổ bóng thống nhất và chiều sâu khối cho toàn cảnh (`Single directional light casting a single coherent shadow direction`).
 
@@ -43,8 +43,9 @@
 2. **Cự ly gần gũi ấm áp, chiều sâu nội tâm và biên độ kết nối tự nhiên (`Warm Proximity, Soulful Presence & Natural Spectrum of Connection`):**
    - Đặt các nhân vật ở cự ly gần gũi tự nhiên (`warm conversational proximity with clean silhouette clarity`), hướng ánh mắt và độ nghiêng cơ thể về phía nhau hoặc cùng hướng về một điểm nhìn thơ mộng để truyền tải hơi ấm tình người.
    - Mở rộng tự nhiên biên độ cảm xúc và kết nối con người theo nhịp thở bài hát: **lặng yên chiêm nghiệm hoặc tận hưởng khoảnh khắc tĩnh tại** (`quiet contemplation & peaceful solitude`), **tâm tình và sẻ chia gần gũi** (`heart-to-heart conversation, tender gaze, or gentle comforting touch`), **cùng đồng hành giữa không gian rộng mở** (`shared journey & quiet companionship`), và **cùng chăm chú làm một việc đời thường** (`shared absorbed craft or daily task`).
-3. **Tư thế tự nhiên, có hồn ở giây 0 (`Authentic Grounded Body Language at Second Zero`):**
-   - Ưu tiên các tư thế đứng, ngồi, tựa bên cửa sổ hoặc thao tác đời thường thư thái, có trọng lượng vật lý tự nhiên (`relaxed authentic posture with calm contemplative warmth or a gentle understated smile`), để cử chỉ và ánh nhìn tự kể câu chuyện của khoảnh khắc đó.
+3. **Ngôn ngữ cơ thể phóng khoáng, giải phóng trọng tâm và đa dạng biên độ vận động ở giây 0 (`Expressive Free-Spirited Body Mechanics & Dynamic Posture Spectrum at Second Zero`):**
+   - Khắc họa nhân vật ở giây 0 với trọng tâm cơ thể được giải phóng tự nhiên, biến thiên linh hoạt cao độ trục cơ thể, độ nghiêng thân người và trạng thái vận động của tứ chi theo đúng cảm xúc cũng như động lực học của khoảnh khắc (`expressive free-spirited posture, natural weight distribution, and dynamic full-body engagement with the environment`).
+   - Toàn bộ dáng điệu hình thể, điểm tựa cơ thể và hướng ánh nhìn gắn kết hữu cơ với bề mặt địa hình, cấu trúc không gian, đạo cụ tương tác và vật lý môi trường xung quanh để tự kể câu chuyện sống động của cảnh đó.
 
 ---
 
@@ -57,7 +58,7 @@
 # CHARACTERS: [TÊN TRACK] (Chế độ 1 - Kể chuyện Cá nhân)
 - Quy tắc vận hành:
   1. Dùng mã `@Tên_nhân_vật` dưới đây trong `storyboard.md`. Khi biên dịch sang `image.txt`, sử dụng **Cụm 4 trục vật lý kèm điểm nhấn độc bản (`4-Axis & Accent Phrase`)** của nhân vật đó (điều chỉnh linh hoạt phần thân dưới khi cảnh lấy cỡ bán thân `Waist-up / Medium close-up`) để giữ đồng nhất nhận diện xuyên suốt.
-  2. Giữ cố định phôi rối nghệ thuật (`slender elongated proportions`), kiểu tóc/râu sợi bông, điểm nhấn nhận diện và trang phục chính; linh hoạt biến chuyển biểu cảm lắng đọng và tư thế theo không gian từng cảnh.
+  2. Giữ cố định phôi rối nghệ thuật (`slender elongated proportions`), kiểu tóc/râu sợi bông, điểm nhấn nhận diện và trang phục chính; linh hoạt biến chuyển biểu cảm lắng đọng và biên độ tư thế cơ thể phóng khoáng theo không gian từng cảnh.
 
 1. **@[Tên_1]** ([Vai trò & độ tuổi bằng tiếng Việt]):
    - **4-Axis & Accent Phrase (Dùng trong `image.txt`):** `a [tall slender / medium-height slender] [character role/age] with [Trục 2: Eyewear / Facial Hair / Headwear] and [style + color] cotton-fiber hair in [Trục 4: Trang phục vải dệt + điểm nhấn màu sắc, kèm quần dài/váy dài và giày khi lấy cảnh toàn thân]`
