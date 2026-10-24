@@ -72,9 +72,10 @@ coslient, a dream town, original music, stop motion, handcrafted animation, mini
 
 ---
 
-## 4. PHÂN PHỐI PLAYLIST & DISTROKID
+## 4. PHÂN PHỐI PLAYLIST, DISTROKID & BANDCAMP
 - **YouTube Playlists (Quy tắc 3 chạm):** Tra cứu chọn đúng 1 Mood Playlist, 1 Album Playlist và 1 Master Playlist tại [`../ref/youtube_playlists.md`](../ref/youtube_playlists.md).
-- **DistroKid Album:** Tra cứu chọn đúng Album/EP tại [`distrokid.md`](../ref/distrokid.md).
+- **DistroKid Album:** Tra cứu chọn đúng Album/EP và cập nhật bài hát mới vào [`../ref/distrokid.md`](../ref/distrokid.md).
+- **Bandcamp Album & Per-Track Metadata (Bắt buộc đồng bộ):** Tra cứu chọn đúng Album tương ứng và cập nhật bài hát mới (kèm `Track Title`, đường dẫn file `.wav`, `3-lyrics.txt` và `About this track` 1–2 câu tiếng Anh) vào [`../ref/bandcamp.md`](../ref/bandcamp.md), đồng thời xuất đầy đủ khối `Bandcamp Release` cùng liên kết Bandcamp chính thức trong `6-seo.md`.
 
 ---
 
@@ -111,17 +112,17 @@ File `6-seo.md` chuẩn cho mỗi project (khi project gồm 2 bài hát ghép t
 
 ### Prompt 1 - Poster Điểm Nhìn Chân Trời (`Wide Poetic Horizon`):
 ```text
-Handcrafted stop-motion animation film still set in a warm poetic surreal town, golden morning light, harmonious character-to-object scale, expansive scenic focus with generous open negative space and gentle atmospheric depth. Wide eye-level side-profile shot on [tọa độ địa hình kỳ lạ siêu thực cao thoáng dưới bầu trời mở] overlooking [đường chân trời và cảnh quan siêu thực phía xa]. Stylized stop-motion figures with matte paper-pulp skin, subtle handcrafted puppet eyes, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả 4 trục tinh gọn + tư thế tự nhiên có hồn] close beside [Nhân vật B mô tả 4 trục tinh gọn ở cự ly gần gũi ấm áp + tư thế đồng điệu]. Single directional morning sunlight casting a single coherent shadow direction --ar 16:9
+Handcrafted stop-motion animation film still set in a warm poetic surreal town, golden morning light, harmonious character-to-object scale, expansive scenic focus with generous open negative space and gentle atmospheric depth. Wide eye-level side-profile shot on [tọa độ địa hình kỳ lạ siêu thực cao thoáng dưới bầu trời mở] overlooking [đường chân trời và cảnh quan siêu thực phía xa]. Stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả 4 trục tinh gọn + tư thế tự nhiên có hồn] close beside [Nhân vật B mô tả 4 trục tinh gọn ở cự ly gần gũi ấm áp + tư thế đồng điệu]. Single directional morning sunlight casting a single coherent shadow direction --ar 16:9
 ```
 
 ### Prompt 2 - Poster Ánh Sáng & Hành Trình Đồng Hành (`Panoramic Light & Journey`):
 ```text
-Handcrafted stop-motion animation film still set in a warm poetic surreal town, warm golden afternoon light, harmonious character-to-object scale, expansive scenic focus with generous open negative space and gentle atmospheric depth. Wide eye-level side-profile shot along [cung đường hoặc cảnh quan thị trấn kỳ lạ siêu thực đan xen dấu ấn đời sống bình dị] overlooking [hậu cảnh sâu rộng]. Stylized stop-motion figures with matte paper-pulp skin, subtle handcrafted puppet eyes, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả 4 trục tinh gọn + tư thế hành trình tự nhiên] alongside [Nhân vật B mô tả 4 trục tinh gọn ở cự ly gần gũi + tư thế đồng hành]. Single directional golden afternoon sunlight casting a single coherent shadow direction --ar 16:9
+Handcrafted stop-motion animation film still set in a warm poetic surreal town, warm golden afternoon light, harmonious character-to-object scale, expansive scenic focus with generous open negative space and gentle atmospheric depth. Wide eye-level side-profile shot along [cung đường hoặc cảnh quan thị trấn kỳ lạ siêu thực đan xen dấu ấn đời sống bình dị] overlooking [hậu cảnh sâu rộng]. Stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả 4 trục tinh gọn + tư thế hành trình tự nhiên] alongside [Nhân vật B mô tả 4 trục tinh gọn ở cự ly gần gũi + tư thế đồng hành]. Single directional golden afternoon sunlight casting a single coherent shadow direction --ar 16:9
 ```
 
 ### Prompt 3 - Poster Khoảnh Khắc Gắn Kết Đắt Giá (`Medium-Wide Soulful Connection`):
 ```text
-Handcrafted stop-motion animation film still set in a warm poetic surreal town, warm sunset light, harmonious character-to-object scale, shallow depth of field with a softly blurred warm background. [Medium close-up waist-up / Medium-wide] eye-level three-quarter shot beside [kiến trúc hoặc vật dụng đời thường bo tròn sơn mờ ấm áp] with stylized stop-motion figures with matte paper-pulp skin, subtle handcrafted puppet eyes, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả 4 trục tinh gọn + tư thế thư thái gắn kết] close opposite [Nhân vật B mô tả 4 trục tinh gọn ở cự ly gần gũi + tư thế đón nhận]. Single directional warm sunset light casting a single coherent shadow direction --ar 16:9
+Handcrafted stop-motion animation film still set in a warm poetic surreal town, warm sunset light, harmonious character-to-object scale, shallow depth of field with a softly blurred warm background. [Medium close-up waist-up / Medium-wide] eye-level three-quarter shot beside [kiến trúc hoặc vật dụng đời thường bo tròn sơn mờ ấm áp] with stylized stop-motion figures with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Nhân vật A mô tả 4 trục tinh gọn + tư thế thư thái gắn kết] close opposite [Nhân vật B mô tả 4 trục tinh gọn ở cự ly gần gũi + tư thế đón nhận]. Single directional warm sunset light casting a single coherent shadow direction --ar 16:9
 ```
 
 ## 4. DESCRIPTION
@@ -134,6 +135,7 @@ Handcrafted stop-motion animation film still set in a warm poetic surreal town, 
 
 🎧 Spotify: https://open.spotify.com/artist/4FVU7hNPy3mc5HAm68iSB9
 🍎 Apple Music: https://music.apple.com/us/artist/coslient/1895068939
+🎹 Bandcamp: https://coslient.bandcamp.com
 
 ---
 LYRICS:
@@ -163,10 +165,11 @@ Original Music & Visuals by Coslient
 [Mệnh đề cảm xúc ngắn gọn] #shorts #adreamtown
 ```
 
-## 8. PLAYLISTS & DISTROKID (TRA CỨU & TICK CHỌN)
-> 🔗 **Hướng dẫn logic:**  
+## 8. PLAYLISTS, DISTROKID & BANDCAMP (TRA CỨU, CẬP NHẬT SỔ ĐĂNG KÝ & TICK CHỌN)
+> 🔗 **Hướng dẫn logic (Bắt buộc cập nhật đồng bộ cả 2 sổ đăng ký `distrokid.md` và `bandcamp.md`):**  
 > - YouTube Playlists: Xem logic phân bổ tại đầu file [`youtube_playlists.md`](../ref/youtube_playlists.md)  
-> - DistroKid Album/EP: Xem logic phân bổ tại đầu file [`distrokid.md`](../ref/distrokid.md)
+> - DistroKid Album/EP: Xem logic phân bổ và thêm bài mới tại [`distrokid.md`](../ref/distrokid.md)  
+> - Bandcamp Album: Xem logic phân bổ và thêm bài mới tại [`bandcamp.md`](../ref/bandcamp.md)
 
 ### YouTube Playlists (Tick chọn khi upload):
 ```text
@@ -181,5 +184,14 @@ Track Title: [Tên bài]
 Artist: Coslient
 Album / EP: [Tên Album/EP — tra từ đầu file distrokid.md]
 Genre: Singer-Songwriter / Folk
+```
+
+### Bandcamp Release (Edit Album -> Add Track):
+```text
+Track Title: [Tên bài]
+Album: [Tên Album trên Bandcamp — khớp distrokid.md & bandcamp.md]
+Bandcamp Album URL: [URL Album trên coslient.bandcamp.com]
+Track Price: $1.50 (enable individual track purchase + let fans pay more if they want)
+About this track: [1-2 câu mô tả tiếng Anh giàu cảm xúc tóm tắt câu chuyện bài hát để dán vào ô About this track trên Bandcamp]
 ```
 ````

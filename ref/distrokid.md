@@ -26,7 +26,7 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 | Album / EP | Tracks | Genre / Vibe | Trạng Thái |
 |---|---|---|---|
 | A Place Back Home | 2 | Upbeat Acoustic Folk Pop · Living World · Harmonica & Guitar | 🟡 Đang nhận track (`🔴 unreleased`) |
-| Kettle & Light | 11 | Americana & Scottish Borders Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
+| Kettle & Light | 12 | Americana & Scottish Borders Folk Ballad · Fingerpicked · Slow Unhurried Mornings | 🟡 Đang nhận track (`🔴 unreleased`) |
 
 ---
 
@@ -373,14 +373,14 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 
 ---
 
-## 🔴 Kettle & Light [unreleased] — 11 tracks
+## 🔴 Kettle & Light [unreleased] — 12 tracks
 
 **Album:** Kettle & Light (Coslient Free V2 Americana Ballad Release)  
 **Genre / Vibe:** Americana Country-Folk Ballad, Slow Unhurried Mornings & Evenings, Lived-in Acoustic Warmth  
 **Mood:** Peaceful, tender, heartwarming, unhurried sanctuary, lifelong companionship  
 **Signature Sound:** Fingerpicked acoustic guitar, subtle upright bass, soft pedal steel swells, warm soaring fiddle, lived-in warm baritone / alto, 68–76 BPM  
 **Cultural Anchors:** John Prine, Guy Clark, Townes Van Zandt, Gregory Alan Isakov  
-**Tracks:** 11 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
+**Tracks:** 12 (đang nhận thêm các bài mới thuộc kỷ nguyên V2)
 
 ### 1. Learning to Sit Still
 - **Project:** [020](file:///Users/hoangkien/Youtube/coslient-free/projects/020)
@@ -513,6 +513,18 @@ Bao gồm tracks từ **Coslient Free** (`coslient-free/`) và **Coslient Video*
 - **Vocal:** Warm expressive female alto lead with gentle male baritone harmony in choruses
 - **Cultural Anchor:** Sunset harbor pier × Shared evening warmth beneath coastal pines
 - **Date Added:** 2026-10-21
+
+### 12. The Bus That Waits for You
+- **Project:** [026](file:///Users/hoangkien/Youtube/coslient-free/projects/026)
+- **About:** Chuyến xe buýt nhỏ màu kem-xanh đi qua thung lũng từ buổi sớm mai đến lúc chạng vạng trên sống đồi: bác tài dừng xe chờ người khách già thong thả cài then cổng vườn, đỡ giỏ mận tím và hỏi thăm cái đầu gối đau; dọc sườn đồi, túi giấy nâu đựng đào chín chuyền tay nhau qua lối đi hẹp; và lúc chiều muộn, bác tài giữ nguyên đèn pha vàng ấm soi sáng lối sỏi chờ cụ bà bước lên thềm gỗ vẫy chào dưới ánh đèn hiên rồi mới khẽ nhả phanh
+- **Genre:** Chamber Acoustic Folk Ballad, Nostalgic Valley Storytelling
+- **BPM / Time:** 72 BPM, 4/4 rolling acoustic groove
+- **Key:** D minor → F Major (Chorus)
+- **Duration:** 4:09
+- **Instrumentation:** Fingerpicked acoustic guitar, sustained legato cello, lyrical fiddle, warm upright bass, light brushed snare, steady shaker, celesta chimes
+- **Vocal:** Weathered male baritone and clear female alto duet with close-mic tender nostalgic intimacy
+- **Cultural Anchor:** Valley bus route hospitality × Headlights waiting until you reach the porch
+- **Date Added:** 2026-10-24
 
 ---
 
