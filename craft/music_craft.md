@@ -63,4 +63,4 @@
   - `Chorus` & `Hook`: Gom cảm xúc chính của `1-idea.md` một cách tự nhiên; đặt câu `Hook` gắn với tên bài, ngắn gọn, bắt tai và vừa một hơi thở ở vị trí đinh của điệp khúc; giữ mạch thời gian và cảm xúc liền lạc đến cuối bài.
 - **Định dạng file lời:**
   - `2-music.md`: Giữ đầy đủ thẻ `[...]`, lời bè `(...)` và dấu câu tự nhiên.
-  - `3-lyrics.txt`: Chỉ giữ lời hát thành tiếng, ghi đầy đủ toàn văn các điệp khúc lặp lại, viết hoa chữ cái đầu dòng, để trống dấu câu cuối dòng và cách các khổ đúng 1 dòng trống.
+  - `3-lyrics.txt` (Chuẩn định dạng DistroKid): Chỉ chứa thuần túy lời hát thực tế của bài (bản văn bản thuần sạch nhãn phân đoạn, tên người hát và liên kết ngoài), viết hoa chữ cái đầu mỗi dòng, mỗi dòng chỉ chứa một câu hoặc mệnh đề đơn duy nhất, ghi đầy đủ toàn văn các câu và điệp khúc lặp lại, để trống dấu câu ở cuối dòng và cách giữa các khổ hát bằng một dòng trống.
