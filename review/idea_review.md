@@ -13,9 +13,9 @@
 
 ### 1.1. Năm tiêu chuẩn nền tảng `[FATAL]` (Đạt 100% trước khi mở khóa Bước 2 `2-music.md`)
 
-1. **Độ chạm tâm lý tuổi xế chiều và Bảo toàn sinh khí ấm áp (`Deep Senior Resonance, Warm Start & Living Sanctuary`):**
-   - Dòng `Cảm xúc cốt lõi` chạm trực diện vào tâm thế sống thật của khán giả 45–85+ theo đúng mạch cảm xúc của bài hát (từ niềm vui sống tự tại, hân hoan yêu đời, lòng tự hào còn hữu ích cho gia đình và cộng đồng, đến sự vỗ về ấm áp và tình nghĩa tri kỷ bền bỉ qua năm tháng).
-   - Toàn bộ ý tưởng đón người nghe ngay từ giây đầu tiên bằng cảm giác an toàn, nụ cười thân tình và hơi ấm con người (`Warm Start`), đồng thời giữ trọn vẹn sự sống bình an, khỏe mạnh và chở che cho mọi nhân vật cùng sinh linh đồng hành đến khung hình kết thúc.
+1. **Định vị sắc thái cảm xúc, Độ chạm tâm lý tuổi xế chiều và Bảo toàn sinh khí (`Emotional Palette, Senior Resonance & Living Sanctuary`):**
+   - Dòng `Cảm xúc cốt lõi` và `Định hướng bài hát` xác lập rõ nhãn sắc thái chủ đạo thuộc bốn nhóm (**Lưu luyến hoài niệm**, **Bình yên chở che**, **Tươi sáng yêu đời**, hoặc **Chiêm nghiệm từng trải**) cùng đường cong chuyển dịch cảm xúc từ mở đầu thân tình đến điểm lắng sâu sắc ở cuối bài.
+   - Toàn bộ ý tưởng đón người nghe ngay từ giây đầu tiên bằng cảm giác thân thuộc và hơi ấm con người (`Warm Start`), đồng thời giữ trọn vẹn sự sống bình an, khỏe mạnh và chở che cho mọi nhân vật cùng sinh linh đồng hành đến khung hình kết thúc.
 
 2. **Hạt nhân ý niệm thống nhất và Đúng quy mô Chế độ Kể chuyện (`Single Anchoring Concept & Mode Fidelity`):**
    - Dòng `Trục câu chuyện & Lát cắt` hội tụ toàn bộ ý tưởng vào một trục hoạt động, nghi thức gắn kết hoặc vật chứng hữu hình duy nhất xuyên suốt tác phẩm, giúp người xem hình dung ngay lập tức thế giới của bài hát chỉ qua câu tiêu đề và một câu tóm tắt.
