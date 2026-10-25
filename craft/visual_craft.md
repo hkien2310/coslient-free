@@ -46,7 +46,7 @@
 ## 3. Luật Hình Ảnh, Kiến Trúc Siêu Thực & Tỷ Lệ Con Người Theo Cỡ Cảnh
 
 - **Luật Kiến trúc & Địa hình Siêu thực:** Bên cạnh motif chủ đạo của thị trấn, mỗi Đại Cảnh phải có điểm nhấn kiến trúc, công trình hoặc địa hình mang cấu trúc siêu thực kỳ vĩ mọc ra từ câu chuyện bài hát, nơi con người sinh hoạt tự nhiên bên trong đó.
-- **Luật Tối giản:** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh và 1 điểm nhấn siêu thực rõ ràng trong không gian thoáng rộng, có thể xóa phông hậu cảnh khi cần làm nổi bật chủ thể.
+- **Luật Bố cục Bất đối xứng & Tối giản:** Mọi khung hình đặt theo bố cục lệch tâm phần ba (`asymmetric rule-of-thirds composition`) cùng đường dẫn chéo hoặc uốn lượn tự nhiên (`winding diagonal or S-curve layout`), tập trung vào 1 ý tưởng hình ảnh và 1 điểm nhấn siêu thực rõ ràng trong không gian thoáng rộng lệch một bên.
 - **Luật Mô tả Con người theo Cỡ cảnh (Bảo toàn Tỷ lệ & Sự đa dạng đám đông):**
   - **Ở Đại cảnh, Toàn cảnh rộng hoặc Cảnh đông người (`Extreme wide` / `Wide`):** Tập trung mô tả sự kỳ vĩ của công trình siêu thực và cảnh quan; con người chỉ gọi bằng cụm từ quy mô nhỏ (`tiny distant figures` / `small miniature townspeople in varied warm attire`), giúp giữ chuẩn tỷ lệ con người nhỏ bé trước kiến trúc đồ sộ và tạo sự đa dạng tự nhiên cho đám đông.
   - **Ở Cảnh Trung và Cận (`Medium` / `Medium close-up` / `Close-up` — 1 đến 2 người):** Mô tả rõ gương mặt, biểu cảm ánh mắt và trang phục của 1–2 nhân vật trung tâm; dùng cỡ bán thân khi có vách che phần dưới hoặc lấy cận biểu cảm, và dùng cỡ toàn thân thấy đủ đến giày chạm sàn khi ở không gian mở cự ly gần.
