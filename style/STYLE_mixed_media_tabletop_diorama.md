@@ -9,32 +9,49 @@
 
 ---
 
-## 1. Đầu Vào & Đầu Ra (`image.txt`)
+## 1. Đầu Vào & Đầu Ra (`character.md` & `image.txt`)
 
 - **Đầu vào:** `1-idea.md`, `storyboard.md` và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
-- **Đầu ra — Khung câu lệnh tiếng Anh cho `image.txt` theo 3 mẫu cỡ cảnh (1 dòng/cảnh khớp 1:1 với `storyboard.md`):**
+- **Đầu ra 1 — Cấu trúc file `character.md`:**
+  - Nhân vật xuất hiện xuyên suốt nhiều cảnh: định nghĩa mã `@Tên_nhân_vật` kèm cụm nhận diện 4 trục (`4-Axis & Accent Phrase`) và `Character Prompt` (điều chỉnh linh hoạt phần thân dưới khi cảnh lấy cỡ bán thân `Waist-up / Medium close-up`).
+  - Nhân vật xuất hiện lẻ ở từng cảnh: mô tả trực tiếp bằng công thức 4 trục tại cảnh đó trong `storyboard.md` và `image.txt`.
+
+```markdown
+# CHARACTERS: [TÊN TRACK]
+
+1. **@[Tên_1]** ([Vai trò & độ tuổi bằng tiếng Việt]):
+   - **4-Axis & Accent Phrase (Dùng trong `image.txt`):** `a [tall slender / medium-height slender] [character role/age] with [Trục 2: Eyewear / Facial Hair / Headwear] and [style + color] cotton-fiber hair in [Trục 4: Trang phục vải dệt + điểm nhấn màu sắc, kèm quần dài/váy dài và giày khi lấy cảnh toàn thân]`
+   - **Character Prompt:** `2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town where [đặc điểm kỳ lạ định danh của thị trấn], clean natural daylight, harmonious character-to-object scale, shallow depth of field with a softly blurred warm studio backdrop. Wide full-body character reference portrait of a stylized stop-motion figure with matte paper-pulp skin, a soft rounded nose, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [4-Axis & Accent Phrase with footwear resting on a wooden base], standing in a relaxed natural posture with calm gentle warmth. Single directional warm afternoon light casting a single coherent shadow direction --ar 16:9`
+
+2. **@[Tên_Trẻ_Nhỏ]** *(khi câu chuyện có nhân vật trẻ nhỏ)*:
+   - **4-Axis & Accent Phrase (Dùng trong `image.txt`):** `a waist-high little [child role] with [style + color] cotton-fiber hair and [phụ kiện nhỏ] in [Trục 4: Trang phục vải dệt + điểm nhấn màu sắc]`
+   - **Character Prompt:** `2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town where [đặc điểm kỳ lạ định danh của thị trấn], clean natural daylight, harmonious character-to-object scale, shallow depth of field with a softly blurred warm studio backdrop. Wide full-body character reference portrait of a waist-high stylized stop-motion child with matte paper-pulp skin, a soft rounded nose, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [4-Axis & Accent Phrase with footwear resting on a wooden base], standing in a relaxed natural posture with a gentle warm expression. Single directional warm afternoon light casting a single coherent shadow direction --ar 16:9`
+```
+
+- **Đầu ra 2 — Khung câu lệnh 4 khối tiếng Anh cho `image.txt` (1 dòng/cảnh khớp 1:1 với `storyboard.md`):**
 
 ```text
-# Mẫu 1 — Cảnh Trung & Cận tập trung vào Nhân vật (Medium-wide / Medium / Medium close-up / Waist-up — 1 đến 2 người):
-2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town with realistic natural water, clouds, trees, and stone, [time-of-day] light, asymmetric organic composition, shallow depth of field with a softly blurred warm background. [Medium-wide / Medium close-up waist-up + Góc máy điện ảnh luân phiên] shot at/inside [1 bối cảnh kiến trúc hoặc kết cấu bám đất có "điểm sai" siêu thực về hình khối uốn cong đa chiều, tỷ lệ hoặc vị trí xây dựng phi chuẩn mực] with stylized stop-motion figure(s) with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Mô tả nhân vật 4 trục tinh gọn phù hợp cỡ cảnh + biểu cảm ánh mắt, nụ cười + hành động gắn kết/chiêm nghiệm]. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
+# 1. Cảnh có Nhân vật:
+2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town where [đặc điểm kỳ lạ định danh của thị trấn], [time-of-day] light, harmonious character-to-object scale, [shallow depth of field with a softly blurred warm background | expansive scenic focus with generous open negative space and gentle atmospheric depth]. [Cỡ cảnh tương thích không gian + Góc máy điện ảnh luân phiên đa dạng (eye-level / low-angle / high-angle / over-the-shoulder / framing through foreground)] shot [bối cảnh không gian sống, con đường, phương tiện hoặc cảnh quan thơ mộng nguyên vẹn mọc ra từ câu chuyện bài hát] with stylized stop-motion figure(s) with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Mô tả nhân vật 4 trục tinh gọn phù hợp cỡ cảnh + trạng thái cảm xúc sâu sắc trên gương mặt, ánh mắt, dáng điệu + hành động mang ý nghĩa sẻ chia, gắn kết hoặc chiêm nghiệm]. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
 
-# Mẫu 2 — Đại cảnh & Toàn cảnh Kiến trúc/Địa hình Siêu thực có Người ở xa hoặc Đông người (Extreme wide / Wide):
-2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town with realistic natural water, clouds, trees, and stone, [time-of-day] light, asymmetric unplanned organic layout, monumental surreal scale, expansive scenic focus with generous open negative space on one side and gentle atmospheric depth. [Extreme wide panoramic / Wide + Góc máy] shot showcasing [1 kỳ quan kiến trúc hoặc kết cấu bám đất mang "điểm sai" siêu thực về hình khối uốn cong ngang-đứng, tỷ lệ hoặc vị trí địa hình kỳ vĩ], where tiny distant miniature townspeople in varied warm clothing [hoạt động sinh hoạt hoặc lễ hội nhìn từ xa hòa vào không gian]. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
-
-# Mẫu 3 — Cảnh Tĩnh vật B-Roll hoặc Cảnh Sắc Không Gian Siêu Thực (Vắng bóng người):
-2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town with realistic natural water, clouds, trees, and stone, [time-of-day] light, asymmetric organic composition, [shallow depth of field with a softly blurred warm background | expansive scenic focus with generous open negative space]. [Close-up / Extreme wide + Góc máy] shot of [1 chi tiết vật dụng hoặc công trình bám đất mang "điểm sai" siêu thực về hình khối, tỷ lệ hoặc kết cấu giữa thiên nhiên chân thực], completely without people. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
+# 2. Cảnh Tĩnh vật B-Roll hoặc Cảnh Sắc Không Gian (Vắng bóng người):
+2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town where [đặc điểm kỳ lạ định danh của thị trấn], [time-of-day] light, [shallow depth of field with a softly blurred warm background | expansive scenic focus with generous open negative space]. [Close-up / Wide + Góc máy] shot of [1 chi tiết vật dụng đời thường bo tròn sơn mờ giàu sức gợi hoặc một khung cảnh thiên nhiên/kiến trúc thơ mộng thoáng rộng], completely without people. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
 ```
 
 ---
 
-## 2. Luật Đầu Ra (`image.txt`)
+## 2. Luật Đầu Ra (`character.md` & `image.txt`)
 
-- **Thiên nhiên Chân thực, Bám đất & "Điểm Sai Kiến trúc Siêu thực" (`Khối 1`):**
-  - Mở đầu bằng `2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town with realistic natural water, clouds, trees, and stone, [time-of-day] light, asymmetric [organic composition | unplanned organic layout]`.
-  - Giữ nguyên bản chất tự nhiên chân thực của nước, mây, bầu trời, cây cối và đất đá; mọi công trình và vật thể đều bám vững trên mặt đất, vách đá hoặc mặt nước.
-  - **Mỗi câu lệnh bắt buộc phải chứa ít nhất 1 "Điểm Sai Siêu Thực" (`Surreal Architectural / Structural Paradox`)**: tự do bẻ cong hình khối kiến trúc theo cả chiều ngang lẫn chiều thẳng đứng, phá vỡ quy chuẩn tỷ lệ hoặc vị trí xây dựng thông thường để tạo sự kỳ diệu độc bản cho từng cảnh, tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
-  - Chọn `shallow depth of field with a softly blurred warm background` cho Cảnh Trung/Cận (`Mẫu 1` & `Mẫu 3 Close-up`); chọn `expansive scenic focus with generous open negative space on one side and gentle atmospheric depth` cho Đại cảnh/Toàn cảnh (`Mẫu 2` & `Mẫu 3 Wide`).
-- **Phân cấp mô tả Con người theo Cỡ cảnh (`Mẫu 1` vs `Mẫu 2`):**
-  - **Ở Đại cảnh & Toàn cảnh (`Extreme wide / Wide` — `Mẫu 2`):** Dành trọn trọng tâm mô tả cho kỳ quan kiến trúc siêu thực và thiên nhiên chân thực; chỉ gọi tên con người bằng cụm từ quy mô nhỏ ở xa (`tiny distant miniature townspeople in varied warm clothing`).
-  - **Ở Cảnh Trung & Cận (`Medium-wide / Medium close-up` — `Mẫu 1`):** Dùng phôi rối cách điệu (`matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown`) kết hợp mô tả 4 trục cho 1–2 nhân vật đang sinh hoạt tự nhiên trong bối cảnh đó.
-- **Một nguồn sáng chính duy nhất (`Khối cuối`):** Khóa ở cuối mỗi câu lệnh một nguồn sáng tự nhiên duy nhất chiếu theo một hướng bóng đổ thống nhất (`Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9`).
+- **Thế giới, Khoảng thở & Độ sâu trường ảnh (`Khối 1`):**
+  - Mở đầu bằng `2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town where [đặc điểm kỳ lạ định danh của thị trấn], [time-of-day] light, harmonious character-to-object scale` (gọi tên rõ đặc điểm kỳ lạ xuyên suốt của thị trấn đó).
+  - Chọn `shallow depth of field with a softly blurred warm background` khi tập trung vào cảm xúc con người, tương tác gần hoặc tĩnh vật chi tiết (`Close-up / Medium close-up / Waist-up / Medium-wide`).
+  - Chọn `expansive scenic focus with generous open negative space and gentle atmospheric depth` khi mở rộng không gian sinh hoạt hoặc đại cảnh hành trình (`Wide / Extreme wide panoramic`).
+  - Các công trình kiến trúc siêu thực, phương tiện và vật dụng đời thường được bo tròn sơn mờ thủ công (`softly rounded matte-painted tactile everyday objects and vehicles`), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
+- **Phôi rối cách điệu liền khối (`Khối 2`):** Mọi nhân vật có chung làn da giấy bồi mờ (`matte paper-pulp skin`), mũi tròn mềm (`soft rounded noses`), tỷ lệ hình thể thanh mảnh kéo dài (`slender elongated proportions`) và mái tóc/râu sợi bông xù dày phủ kín đỉnh đầu (`thick full fluffy cotton-fiber hair covering the crown`).
+- **Công thức nén nhận diện 4 trục & Tương phản nhóm (`Khối 3`):**
+  - **Trục 1 — Dáng vóc:** Phân biệt rõ người lớn cao mảnh (`tall slender`), người lớn tầm vóc cân đối (`medium-height slender`) và trẻ nhỏ cao ngang thắt lưng người lớn (`waist-high child`).
+  - **Trục 2 — Phụ kiện vùng đầu:** Đa dạng hóa râu, kính mắt và mũ đội đầu.
+  - **Trục 3 — Tóc sợi bông:** Đa dạng màu sắc và kiểu tạo hình tóc sợi bông phủ kín đỉnh đầu.
+  - **Trục 4 — Trang phục vải dệt & Điểm nhấn:** Trang phục vải dệt phẳng tự nhiên kèm điểm nhấn sắc độ riêng; mô tả đủ bộ từ áo, quần dài/váy dài đến giày chạm mặt phẳng khi lấy cảnh toàn thân (`Wide / Medium-wide full-body`), hoặc tập trung vào phần thân trên và cử chỉ đôi tay khi lấy cảnh bán thân có vách che (`Medium close-up / Waist-up`). Khi cảnh có nhóm người, phối hợp đa dạng cả 4 trục để mỗi nhân vật tách biệt rõ.
+- **Cự ly ấm áp, Trạng thái cảm xúc & Ý nghĩa khoảnh khắc:** Đặt nhân vật ở cự ly gần gũi tự nhiên (`warm conversational proximity with clean silhouette clarity`), làm nổi bật trạng thái cảm xúc chân thật (niềm vui sẻ chia, sự biết ơn, nỗi bâng khuâng, sự bình yên tĩnh tại) qua ánh mắt, nét mặt và ngôn ngữ cơ thể có hồn trong từng khung hình.
+- **Một nguồn sáng chính duy nhất (`Khối 4`):** Khóa ở cuối mỗi câu lệnh một nguồn sáng tự nhiên duy nhất chiếu theo một hướng bóng đổ thống nhất (`Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9`).
