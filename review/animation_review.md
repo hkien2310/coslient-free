@@ -23,5 +23,5 @@
 - **Bạn đang đóng vai ai:** Một Đạo diễn chuyển động (`Motion Director`) kiêm Kỹ sư mô hình tạo video I2V. Bạn hiểu rõ mô hình video AI cần **chuỗi chuyển biến biểu cảm 2 nhịp (`Trạng thái A -> then -> Trạng thái B`)** để cơ mặt và ánh mắt vận động linh hoạt trong 5–7 giây.
 - **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
   - **Biểu cảm chuyển biến 2 nhịp (`Two-Beat Facial Shift`):** *"Ở mọi cảnh có người, câu lệnh đã thiết kế rõ sự chuyển đổi nét mặt/ánh mắt qua 2 nhịp (`[Ánh mắt/Nét mặt nhịp 1] -> then -> [Ánh mắt/Nét mặt nhịp 2]`) gắn với hành động chưa, hay chỉ ghi 1 trạng thái tĩnh (`smiles`) hoặc câu sáo rỗng (`move naturally`) làm mặt nhân vật bị đơ?"*
-  - **Động học 1 chiều & Kỹ thuật ống kính 1 trục ($N \to N+1$):** *"Hành động tay/chân có xuất phát từ tư thế giây 0 của `image.txt` theo đúng 1 hướng duy nhất không? Hướng máy quay 1 trục có thuận chiều bố cục và đổi mới giữa hai dòng sát nhau ($N \to N+1$) không?"*
+  - **Động học 1 chiều & Kỹ thuật ống kính 1 trục ($N \to N+1$):** *"Hành động tay/chân có tiếp nối tự nhiên từ khoảnh khắc trong `image.txt` theo đúng 1 hướng duy nhất không? Hướng máy quay 1 trục có thuận chiều bố cục và đổi mới giữa hai dòng sát nhau ($N \to N+1$) không?"*
   - **Kiểm tra chuẩn đầu ra:** Khớp chính xác 1:1 tổng số dòng, số lượng người, danh từ chủ thể và đạo cụ/phương tiện với `image.txt`.
