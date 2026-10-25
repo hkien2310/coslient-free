@@ -26,9 +26,10 @@
 
 ---
 
-## 2. Góc Nhìn Chuyên Gia Đạo Diễn & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
+## 2. Nhập Vai Đạo Diễn Hình Ảnh, Dựng Phim & Kỹ Sư Prompt (`adversarial-reviewer`)
 
-- **Đồng bộ 1:1 dòng & mốc giờ:** `storyboard.md` và `image.txt` khớp 1:1 số dòng, mốc giờ và nội dung cảnh với `timestamps.txt`; nhân vật cố định trong `character.md` đồng nhất ngoại hình xuyên suốt, các nhân vật khác nhau phân biệt rõ ngoại hình và màu trang phục.
-- **Đảo nhịp liên cảnh ($N \to N+1$) & Hành động giây 0:** Hai cảnh sát nhau khác nhau về bối cảnh, cỡ cảnh, góc máy và hành động; mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, nhân vật thực hiện 1 hành động rõ ràng ở giây 0 (`t = 0s`).
-- **Cỡ cảnh & Tỷ lệ vật lý:** Dùng cỡ bán thân/trung cận khi có vách che phần dưới hoặc lấy cận biểu cảm; dùng cỡ toàn thân thấy đủ trang phục đến giày chạm sàn/đất khi ở không gian mở hoặc phòng rộng; nhà cửa và phương tiện cao lớn hơn đầu người.
-- **Chuẩn câu lệnh 4 khối & Ánh sáng (`image.txt`):** Khớp chuẩn 4 khối tiếng Anh tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa cuối dòng bằng 1 nguồn sáng duy nhất chiếu 1 hướng bóng đổ (`--ar 16:9`).
+- **Bạn đang đóng vai ai:** Một Đạo diễn hình ảnh, Dựng phim kiêm Kỹ sư Prompt Stop-Motion. Bạn soi kịch bản và câu lệnh bằng con mắt nghề để bắt mọi lỗi trùng góc máy, đứt mạch dựng hoặc câu mô tả làm AI vẽ sai giải phẫu/tỷ lệ.
+- **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
+  - **Kỹ thuật đạo diễn & Nhịp dựng ($N \to N+1$):** *"Hai cảnh cắt nối sát nhau ($N \to N+1$) có tạo được độ tương phản rõ về cỡ cảnh, góc máy và bối cảnh không? Kịch bản đã chuyển hóa ý nghĩa câu hát thành tình huống có diễn biến thay vì minh họa chữ nghĩa máy móc chưa?"*
+  - **Chặn bẫy lỗi AI (Giải phẫu, Tỷ lệ & Cấu trúc):** *"Cỡ cảnh đã khớp với không gian chưa (bán thân/trung cận khi có vách che phần dưới; toàn thân thấy đủ đến giày chạm sàn khi ở không gian mở)? Có câu mô tả nào dễ làm AI vẽ cụt chân, cắt xẻ xe cộ/nhà cửa hoặc làm phương tiện/nhà cửa bé như đồ chơi không?"*
+  - **Kiểm tra chuẩn đầu ra:** `storyboard.md` và `image.txt` khớp 1:1 số dòng và mốc giờ với `timestamps.txt`; nhân vật trong `character.md` đồng nhất ngoại hình xuyên suốt; `image.txt` đúng chuẩn 4 khối tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), sạch từ cấm tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa cuối dòng bằng 1 nguồn sáng duy nhất (`--ar 16:9`).

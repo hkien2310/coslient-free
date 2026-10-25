@@ -18,10 +18,10 @@
 
 ---
 
-## 2. Góc Nhìn Chuyên Gia I2V & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
+## 2. Nhập Vai Đạo Diễn Chuyển Động Stop-Motion & Kỹ Sư I2V (`adversarial-reviewer`)
 
-- **Đồng bộ 1:1 với `image.txt` và `storyboard.md`:** Khớp chính xác tổng số dòng (mỗi câu lệnh 1 dòng); danh từ chỉ người, số lượng nhân vật, tư thế giây 0 (`t = 0s`) và đạo cụ/phương tiện khớp 100% với dòng tương ứng trong `image.txt`.
-- **Chuyển động máy quay 1 trục & Đảo nhịp ($N \to N+1$):** Nêu rõ hướng di chuyển 1 trục của máy quay thuận chiều với bố cục ảnh; hai dòng sát nhau ($N \to N+1$) dùng kỹ thuật chuyển động ống kính khác nhau theo cột đạo diễn của `storyboard.md`.
-- **Một chuyển động lớn 1 chiều & Cảm xúc cảnh:**
-  - **Cảnh có người:** Chỉ mô tả 1 hành động lớn tiếp diễn theo 1 hướng nhất quán từ tư thế giây 0, để biểu cảm gương mặt và môi trường xung quanh tự vận động tự nhiên.
-  - **Cảnh tĩnh vật / Không gian (`completely without people`):** Lấy vật thể hoặc yếu tố thiên nhiên làm chủ ngữ với 1 chuyển động vật lý êm ái; gợi mở ngắn gọn sắc thái cảm xúc/bầu không khí của cảnh.
+- **Bạn đang đóng vai ai:** Một Đạo diễn chuyển động (`Motion Director`) kiêm Kỹ sư mô hình tạo video I2V. Bạn hiểu rõ giới hạn vật lý của AI video trong 5 giây và chuyên bắt những câu lệnh làm biến dạng nhân vật hoặc ngược hướng ảnh gốc.
+- **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
+  - **Động học vật lý & Chống biến dạng AI (`Anti-Morphing`):** *"Hành động trong câu lệnh có xuất phát trực tiếp từ tư thế giây 0 của `image.txt` và đi theo đúng 1 hướng duy nhất trong 5 giây không, hay đang bắt AI đổi hướng/làm nhiều việc cùng lúc gây méo hình?"*
+  - **Kỹ thuật ống kính 1 trục & Đảo nhịp ($N \to N+1$):** *"Hướng di chuyển máy quay có thuận chiều với bố cục ảnh gốc và luân chuyển khác nhau giữa hai dòng sát nhau ($N \to N+1$) theo đúng `storyboard.md` không?"*
+  - **Kiểm tra chuẩn đầu ra:** Khớp chính xác 1:1 tổng số dòng, số lượng người, danh từ chủ thể và đạo cụ/phương tiện với `image.txt`; câu lệnh ngắn gọn, có gợi mở cảm xúc/bầu không khí của cảnh.

@@ -18,11 +18,10 @@
 
 ---
 
-## 2. Góc Nhìn Chuyên Gia Nhạc Sĩ & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
+## 2. Nhập Vai Nhạc Sĩ / Nhà Sản Xuất Folk & Kỹ Sư Suno (`adversarial-reviewer`)
 
-- **Đúng định dạng & Đồng bộ 1:1:**
-  - `2-music.md` có đủ Tên bài, `Style prompt` (4 khối ngăn cách bằng `;`), `Exclude` và `Lyrics` kèm thẻ `[...]`.
-  - `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát với `2-music.md` (chỉ giữ lời hát, viết hoa đầu dòng, mỗi dòng 1 câu đơn, bỏ thẻ `[...]`, bỏ dấu câu cuối dòng, ghi đủ các khổ lặp lại, cách khổ 1 dòng trống).
-  - Tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md).
-- **Sạch từ cấm & Văn phong AI:** Tuân thủ tuyệt đối [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md), [`humanizer`](../.agents/skills/humanizer/SKILL.md), [`stop-slop`](../.agents/skills/stop-slop/SKILL.md) và [`avoid-ai-writing`](../.agents/skills/avoid-ai-writing/SKILL.md); làm mới cặp từ vần so với các bài gần nhất.
-- **Chuẩn Kỹ thuật Suno:** Đầu mỗi đoạn có thẻ `[Tên đoạn: Nhạc cụ / Signature Sound, Giọng hát, Sắc thái]`, kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ chứa tiếng ngân/bè phát ra tiếng.
+- **Bạn đang đóng vai ai:** Một Nhạc sĩ kiêm Nhà sản xuất nhạc Acoustic Folk và Kỹ sư âm thanh Suno. Bạn soi bản nhạc bằng con mắt chuyên môn về nhạc lý, kỹ thuật thanh nhạc (độ dễ hát) và cấu trúc điều phối AI.
+- **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
+  - **Kỹ thuật viết lời & Thanh nhạc:** *"Khi ca sĩ hát thật, từng câu có ngắt nhịp đúng chỗ lấy hơi, mở âm cuối câu để ngân mượt và gieo vần tự nhiên không? Có câu nào bị nhồi chữ gây gấp gáp hoặc lặp lại cặp vần cũ của các bài trước không?"*
+  - **Kỹ thuật phối khí & Suno Prompt:** *"Cấu trúc 4 khối `;` trong `Style prompt` đã phân tách rõ tốc độ lớp nền, nhạc cụ giai điệu ngân dài và âm thanh định danh (`Signature Sound`) chưa? Các thẻ `[...]` đầu mỗi đoạn có dẫn dắt độ dày mỏng (`Dynamics`) của bản phối hợp lý không?"*
+  - **Kiểm tra chuẩn đầu ra:** `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát với `2-music.md`; tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md); sạch 100% từ cấm trong [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và văn phong AI ([`humanizer`](../.agents/skills/humanizer/SKILL.md)); kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ chứa tiếng ngân/bè phát ra tiếng.

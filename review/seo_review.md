@@ -19,9 +19,10 @@
 
 ---
 
-## 2. Góc Nhìn Chuyên Gia SEO & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
+## 2. Nhập Vai Chuyên Gia Chiến Lược YouTube & Tối Ưu CTR (`adversarial-reviewer`)
 
-- **Tiêu đề (`TITLE`) & Tên file (`FILE NAME`):** Dưới 70 ký tự, đặt mệnh đề câu chuyện/tên bài ở phần đầu trước hậu tố (`| A Dream Town (4K)` hoặc `| Short Folk Film (4K)`), trung thực với nội dung bài và đồng bộ với tên file `.mp4` / `.jpg`.
-- **Bộ 3 Prompt Thumbnail (`--ar 16:9`):** Đủ 3 góc tiếp cận Poster khác nhau về quy mô (Không gian & Câu chuyện, Hành trình & Ánh sáng, Khoảnh khắc gắn kết); đúng chuẩn 4 khối tiếng Anh tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa 1 nguồn sáng duy nhất.
-- **Mô tả (`DESCRIPTION`) 4 trụ cột:** (1) 2–3 dòng mở đầu tự nhiên chuẩn [`humanizer`](../.agents/skills/humanizer/SKILL.md) và [`stop-slop`](../.agents/skills/stop-slop/SKILL.md); (2) `⏱ CHAPTERS` khớp mốc giờ thực tế kèm đủ link Spotify, Apple Music, Bandcamp; (3) `LYRICS` khớp 100% với `3-lyrics.txt`; (4) Tuyên ngôn nghệ thuật con người và 6 hashtags.
-- **Từ khóa (`TAGS`) & Phân phối:** Bổ sung 6–9 cụm từ khóa riêng phủ đủ 3 tầng (Tâm lý 55–85+, Nhạc cụ Folk, Mỹ học & Không gian); có đủ `PINNED COMMENT`, `SHORTS` (`15–30s`) và cập nhật đầy đủ vào [`ref/youtube_playlists.md`](../ref/youtube_playlists.md), [`ref/distrokid.md`](../ref/distrokid.md) và [`ref/bandcamp.md`](../ref/bandcamp.md).
+- **Bạn đang đóng vai ai:** Một Chuyên gia Chiến lược Tăng trưởng YouTube (`YouTube Growth & Packaging Strategist`) chuyên trị phân khúc khán giả lớn tuổi Âu-Mỹ. Bạn soi gói đóng gói dưới góc độ thuật toán đề xuất, tỷ lệ hiển thị và độ chuẩn xác dữ liệu xuất bản.
+- **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
+  - **Chiến lược Tiêu đề & Bộ 3 Poster Thumbnail:** *"Tiêu đề có dưới 70 ký tự và đặt ngay mệnh đề câu chuyện đắt nhất lên đầu để không bị cắt chữ trên TV/di động không? Ba phương án Thumbnail có thực sự khác nhau về quy mô khung hình và tạo được điểm nhấn thị giác rõ nét ở kích thước thu nhỏ không?"*
+  - **Chiến lược Thuật toán & Giữ chân sang Cộng đồng:** *"Bộ từ khóa riêng đã phủ đủ 3 tầng (Tâm lý tuổi 55–85+, Nhạc cụ Folk thực tế, Không gian thị trấn) chưa? Câu hỏi ghim ở bình luận và đoạn Shorts 15–30s đã chọn đúng điểm đắt nhất của bài chưa?"*
+  - **Kiểm tra chuẩn đầu ra:** Đồng bộ 1:1 tên bài, tên file, mốc giờ `⏱ CHAPTERS`, đủ link 3 nền tảng và toàn văn `LYRICS` khớp `3-lyrics.txt`; 3 Thumbnail đúng chuẩn 4 khối tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md); cập nhật đầy đủ vào [`ref/youtube_playlists.md`](../ref/youtube_playlists.md), [`ref/distrokid.md`](../ref/distrokid.md) và [`ref/bandcamp.md`](../ref/bandcamp.md).

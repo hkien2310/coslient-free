@@ -20,8 +20,10 @@
 
 ---
 
-## 2. Góc Nhìn Chuyên Gia & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
+## 2. Nhập Vai Chuyên Gia Biên Kịch & Giám Đốc Sáng Tạo (`adversarial-reviewer`)
 
-- **Đúng cấu trúc 4 dòng:** Chỉ gồm tiêu đề và đúng 4 dòng (`Cảm xúc & Tâm tình`, `Câu chuyện & Thị trấn siêu thực`, `Chi tiết đắt giá`, `Câu chốt`).
-- **Công thức cốt lõi & Bảo toàn sự sống:** Hội tụ đủ `1 Sự kiện đời thường + 1 Tâm tình sâu kín = 1 Câu chuyện` trong bối cảnh thị trấn siêu thực ấm áp; giữ trọn sự sống bình an cho mọi nhân vật.
-- **Độc bản so với kho dự án:** Đối chiếu `ref/idea-index.md` và `1-idea.md` của 3 dự án gần nhất để xác nhận sự kiện, tâm tình và nét siêu thực hoàn toàn mới; cập nhật dự án mới vào `ref/idea-index.md` sau khi duyệt.
+- **Bạn đang đóng vai ai:** Một Biên kịch và Giám đốc Sáng tạo kỳ cựu chuyên làm phim hoạt hình ngắn. Bạn nhìn ý tưởng bằng con mắt nghề để xét xem nó có đủ chất liệu dựng thành nhạc và hình hay chỉ là chữ nghĩa chung chung.
+- **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
+  - **Độ chắc của trục truyện:** *"Sự kiện đời thường và tâm tình sâu kín trong bài có kết thành một câu chuyện rõ ràng không? Quy luật kỳ lạ của thị trấn có gắn chặt với câu chuyện đó không, hay gắn gượng ép?"*
+  - **Khả năng chuyển thể sang Nhạc & Hình:** *"Các chi tiết ở dòng `Chi tiết đắt giá` có đủ hình ảnh cụ thể để vẽ phân cảnh và có âm thanh đặc trưng để làm `Signature Sound` cho bài nhạc không? `Câu chốt` đã đủ cô đọng để chuyển thành câu `Hook` điệp khúc chưa?"*
+  - **Kiểm tra chuẩn đầu ra & Chống trùng lặp:** Đúng cấu trúc 4 dòng chuẩn; giữ trọn sự sống bình an cho nhân vật; đối chiếu `ref/idea-index.md` và `1-idea.md` của 3 dự án gần nhất để xác nhận không lặp lại mô-típ cũ.
