@@ -15,7 +15,7 @@
 - **Đầu ra:**
   - **`character.md` *(Tùy chọn)*:** Chỉ tạo khi cần giữ một nhân vật qua một cụm cảnh; khuyến khích mô tả trực tiếp các nhân vật đa dạng ngay tại từng cảnh trong `storyboard.md` và `image.txt` để làm mới thị giác liên tục.
   - **`storyboard.md`:** Mở đầu bằng **1 dòng khóa `Địa điểm, Quy luật & Kiến trúc kỳ lạ của thị trấn`**, sau đó triển khai theo **Quy trình 2 Tầng (`Quy hoạch Đại Cảnh` $\to$ `Triển khai Tiểu Cảnh`)** khớp 1:1 số dòng và mốc giờ với `timestamps.txt` (duyệt xong dịch 1:1 sang `image.txt` theo [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)):
-    1. **Phần 1 — Quy hoạch Đại Cảnh theo Phân đoạn nhạc (`Macro-Sequence Blueprint`):** Xác lập mục tiêu cảm xúc, công trình kiến trúc siêu thực điểm nhấn, nhân vật mới và điểm `Hook / Mini-Hook` cho từng phân đoạn (`Intro`, `Verse`, `Pre-Chorus`, `Chorus`, `Vocalise / Interlude`, `Bridge`, `Outro`).
+    1. **Phần 1 — Quy hoạch Đại Cảnh theo Phân đoạn nhạc (`Macro-Sequence Blueprint`):** Xác lập mục tiêu cảm xúc, cơ chế tạo Điểm sai siêu thực, công trình kiến trúc điểm nhấn, nhân vật mới và điểm `Hook / Mini-Hook` cho từng phân đoạn (`Intro`, `Verse`, `Pre-Chorus`, `Chorus`, `Vocalise / Interlude`, `Bridge`, `Outro`).
     2. **Phần 2 — Bảng Tiểu Cảnh (`Micro-Scenes`):**
 
 | Cảnh & Giờ | Đoạn nhạc & Lời hát | Vai trò Giữ chân, Lý do nối cảnh & Thông số (Cỡ, Góc, Bối cảnh, Chuyển động) | Nhân vật, Khoảnh khắc hành động & Ánh sáng |
@@ -47,7 +47,14 @@
 
 ## 3. Luật Hình Ảnh & Thế Giới
 
-- **Luật Kiến trúc & Thế giới Siêu thực:** Bên cạnh quy luật kỳ lạ xuyên suốt của thị trấn, mỗi Đại Cảnh mở ra những công trình kiến trúc, cấu trúc không gian hoặc phương tiện siêu thực kỳ vĩ mọc ra từ tinh thần bài hát, tạo điểm nhấn thị giác choáng ngợp và mới mẻ ở từng phân đoạn.
+- **Luật Công thức Siêu thực (`1 Điểm sai + 1 Hành động thản nhiên = Siêu thực`):**
+  - **Nguyên lý cốt lõi:** Mỗi khung hình kết hợp **1 Điểm sai duy nhất** với **1 việc làm đời thường ở nhịp độ chậm**, nơi nhân vật đón nhận điều kỳ lạ bằng thái độ thản nhiên, thân thuộc và ấm áp như nhịp sống tự nhiên hàng ngày.
+  - **5 Cơ chế tạo Điểm sai (Luân phiên qua các Đại Cảnh để tạo `Hook / Mini-Hook` và kiến trúc thị trấn):**
+    1. **Lai ghép (`1 thứ lấy ngoại hình + 1 thứ lấy tính chất`):** Kết hợp hai thực thể có cùng trạng thái động học bồng bềnh hoặc gợn sóng.
+    2. **Phóng đại & Đổi công năng (`1 vật quen thuộc + phóng đại kích thước / thay đổi công năng`):** Biến vật thể hoặc thực thể tự nhiên thân thuộc thành công trình kiến trúc, không gian sinh hoạt hoặc phương tiện kỳ vĩ.
+    3. **Vật thể hóa tự nhiên (`1 hiện tượng tự nhiên + đối xử như vật cầm nắm được`):** Chuyển hóa hiện tượng tự nhiên nhẹ nhàng thành chất liệu thủ công hữu hình để nhân vật nâng niu và bầu bạn.
+    4. **Lạc quẻ không gian (`1 vật dụng riêng tư + đặt giữa thiên nhiên bao la`):** Đặt một góc nội thất đơn lẻ, tối giản và mang tính an ủi giữa cảnh quan thiên nhiên rộng lớn.
+    5. **Tọa độ siêu thực (`Tự nhiên nguyên bản + đặt ở tọa độ đặc biệt`):** Đặt cấu trúc tự nhiên hoặc công trình giữ nguyên tính chất vật lý ở cao độ lơ lửng với trọng lực tĩnh lặng.
 - **Luật Đa dạng Nhân vật theo Cụm cảnh:** Tự do đổi mới nhân vật, dáng vóc và màu sắc trang phục qua từng Đại Cảnh để bức tranh thị trấn luôn phong phú; chỉ giữ cùng một nhân vật trong cụm 2–3 Tiểu Cảnh liền kề khi cần diễn tả trọn vẹn một chuỗi hành động Nhân – Quả.
 - **Luật Tối giản:** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, có thể xóa phông hậu cảnh khi cần làm nổi bật chủ thể.
 - **Luật Đa dạng & Chiều sâu Điện ảnh:** Luân phiên đa dạng góc độ cao-thấp của máy quay (góc ngang tầm mắt kết nối cảm xúc, góc thấp hất lên, góc cao nhìn xuống, góc nhìn qua vai, góc nhìn xuyên qua tiền cảnh) cùng bố cục nhiều lớp tiền-trung-hậu cảnh và cỡ cảnh.
