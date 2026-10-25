@@ -30,16 +30,16 @@
 - **2. Trọng tâm Cảm xúc & Ý nghĩa trong từng Khung hình (`[Cảnh N + Câu hát N]`):**
   - Mỗi bức ảnh phải tự nói lên được **trạng thái cảm xúc và ý nghĩa câu chuyện** của nhân vật ở khoảnh khắc đó (niềm vui háo hức khi mang quà đi sẻ chia, sự nhẹ nhõm biết ơn khi được kiên nhẫn đợi chờ, sự ấm áp khi tâm tình cùng bạn già, vẻ tĩnh tại khi ngắm nhìn thiên nhiên), truyền tải trực tiếp cái hồn của câu hát đang vang lên.
 - **3. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
-  - Mỗi cảnh là một lát cắt cảm xúc trọn vẹn; khi chuyển từ Cảnh $N$ sang Cảnh $N+1$ phải chuyển sang vị trí không gian/điểm nhìn mới, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và đổi độ cao góc máy (Góc thấp hất lên $\leftrightarrow$ Góc cao nhìn xuống $\leftrightarrow$ Góc qua vai POV $\leftrightarrow$ Góc xuyên khung tiền cảnh), liên tục mở ra các khung cảnh kỳ diệu mới của thị trấn.
+  - Mỗi cảnh là một lát cắt cảm xúc trọn vẹn; khi chuyển từ Cảnh $N$ sang Cảnh $N+1$ phải chuyển sang vị trí không gian/điểm nhìn mới, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và luân phiên đổi độ cao góc máy (Góc ngang tầm mắt `Eye-level` $\leftrightarrow$ Góc thấp hất lên `Low-angle` $\leftrightarrow$ Góc cao nhìn xuống `High-angle` $\leftrightarrow$ Góc qua vai `Over-the-shoulder POV` $\leftrightarrow$ Góc xuyên khung tiền cảnh `Framed-through`), liên tục mở ra các khung cảnh kỳ diệu mới của thị trấn.
 - **4. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
 
 ---
 
 ## 3. Luật Hình Ảnh & Thế Giới
 
-- **Luật Siêu thực:** Nét kỳ lạ, siêu thực của thị trấn mọc ra từ câu chuyện của bài hát; nhân vật sống và sinh hoạt bên trong không gian đó.
+- **Luật Siêu thực:** Thị trấn kỳ lạ phải gọi tên rõ một đặc điểm định danh xuyên suốt mọc ra từ câu chuyện bài hát, nơi nhân vật sống và sinh hoạt tự nhiên cùng đặc điểm đó.
 - **Luật Tối giản:** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, có thể xóa phông hậu cảnh khi cần làm nổi bật chủ thể.
-- **Luật Đa dạng & Chiều sâu Điện ảnh:** Luân phiên đa dạng góc độ cao-thấp của máy quay (góc thấp hất lên, góc cao nhìn xuống, góc nhìn qua vai, góc chéo dọc chiều sâu, góc nhìn xuyên qua tiền cảnh) cùng bố cục nhiều lớp tiền-trung-hậu cảnh và cỡ cảnh; mỗi nhân vật có ngoại hình và màu trang phục riêng.
+- **Luật Đa dạng & Chiều sâu Điện ảnh:** Luân phiên đa dạng góc độ cao-thấp của máy quay (góc ngang tầm mắt kết nối cảm xúc, góc thấp hất lên, góc cao nhìn xuống, góc nhìn qua vai, góc nhìn xuyên qua tiền cảnh) cùng bố cục nhiều lớp tiền-trung-hậu cảnh và cỡ cảnh; mỗi nhân vật có ngoại hình và màu trang phục riêng.
 - **Luật Cảm xúc & Ý nghĩa:** Mỗi khung hình đặt trạng thái nội tâm, ánh mắt, nụ cười và ý nghĩa của sự gắn kết giữa người với người làm trung tâm, nơi hành động là sự bộc lộ cảm xúc tự nhiên giữa đời sống.
 - **Luật Cỡ cảnh & Tỷ lệ vật lý:**
   - Dùng cỡ bán thân hoặc trung cận khi nhân vật ở trong không gian có vách che phần dưới hoặc khi lấy cận biểu cảm.
