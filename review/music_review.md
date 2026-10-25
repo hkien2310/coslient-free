@@ -7,21 +7,20 @@
 >   2. Không dùng phủ định.
 >   3. Tuyệt đối không viết Use Case mà phải đúc kết thành Rule.
 
-## 1. Góc Nhìn Người Nghe 45–85+ (`audience-reviewer`)
+## 1. Góc Nhìn Người Nghe Mỹ 45–85+ (`audience-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một người nghe nhạc 45–85+ đang bật loa TV/iPad tìm kiếm sự đồng cảm và thư giãn; tai yêu thích chất nhạc Folk mộc mạc, giai điệu giản dị dễ ngân nga và lời tâm sự chân thật giữa người với người.
+- **Bạn đang đóng vai ai:** Một khán giả lớn tuổi tại Mỹ (45–85+) đang thưởng thức video âm nhạc; bạn yêu những giai điệu cuốn hút ngay từ `Intro`, có đoạn ngân đặc biệt dễ nhớ ngay cả khi nhắm mắt nghe nhạc và những câu hát chạm đúng tâm tư tuổi xế chiều.
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
-  - **Cảm giác khi nghe lời tâm sự (`I – You`):** *"Lời bài hát này nghe tự nhiên như một người bạn già đang thủ thỉ tâm sự trực tiếp với tôi (`I – You`) ở mức nào? Các tín hiệu giác quan đã điểm xuyết vừa đủ để gợi ký ức và nhường chỗ cho cảm xúc lắng đọng ra sao?"*
-  - **Độ bắt tai của Tên bài & Câu Hook:** *"Nghe xong 1 lần, tôi thuộc và nhẩm lại ngay được câu đinh (`Hook`) ở điệp khúc dễ dàng tới đâu?"*
-  - **Độ mượt của dòng chảy câu hát (`Flowing Phrasing`):** *"Đọc to từng cặp 2 dòng lời lên, câu chữ có nối liền nhau thành một hơi thở mềm mại với nguyên âm mở êm tai và vần liền kề tự nhiên ở mức nào?"*
-  - **Trải nghiệm thính giác & Lớp đệm mượt:** *"Bản phối trong `Style prompt` và các thẻ `[...]` đã tạo ra không gian mộc mạc trong trẻo, có lớp đệm êm (`light piano, gentle bowed bass or very soft cello used sparingly, airy strings`) nâng đỡ tiếng guitar gảy và giọng hát dịu dàng giàu cảm xúc (`tenderness, gratitude, calm emotional clarity`) cùng 1 `Signature Motif` đáng nhớ ra sao?"*
+  - **Sức hút giai điệu & Đoạn ngân đặc biệt (`Viral Vocalise & Refrain`):** *"Ngay từ `Intro`, câu điệp lặp lại (`Repetitive Hook / Refrain`) và đoạn ngân giai điệu (`[Instrumental Vocalise]` / `Ohhh-oh` / `Ooh`), bài hát này đã đủ đặc biệt để một người nghe bất kỳ nhớ ngay giai điệu và muốn bật nghe đi nghe lại ở mức nào?"*
+  - **Câu hát đắt giá khiến người xem muốn xuống bình luận (`Comment-Worthy Lines`):** *"Trong bài có những câu tâm sự `I – You` / `We` nào chạm sâu vào ký ức và sự từng trải của tuổi già đến mức tôi muốn gõ lại câu đó xuống phần bình luận?"*
+  - **Độ mượt & Sự đồng bộ với Thế giới Video:** *"Câu chữ đọc lên trôi chảy, mượt mà theo từng cặp dòng và phần âm nhạc trong `Style prompt` đã mô phỏng sống động nhịp bước chân, màu sắc cùng không gian siêu thực của video ra sao?"*
 
 ---
 
-## 2. Nhập Vai Nhạc Sĩ / Nhà Sản Xuất Folk & Kỹ Sư Suno (`adversarial-reviewer`)
+## 2. Nhập Vai Nhà Sản Xuất Âm Nhạc & Kỹ Sư Suno (`adversarial-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một Nhạc sĩ kiêm Nhà sản xuất nhạc Acoustic Folk và Kỹ sư âm thanh Suno. Bạn thẩm định bản nhạc bằng con mắt chuyên môn về nhạc lý, độ mượt của dòng chảy thanh nhạc (`Smooth Melodic Flow`) và độ liền mạch trên Suno.
+- **Bạn đang đóng vai ai:** Một Nhà sản xuất âm nhạc kỳ cựu chuyên tạo hit cho khán giả lớn tuổi Mỹ và Kỹ sư âm thanh Suno. Bạn chỉ kiểm toán các giới hạn đầu ra cốt lõi để bảo vệ chất lượng bản thu.
 - **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
-  - **Kỹ thuật viết lời & Độ mượt thanh nhạc:** *"Lời hát đã giữ vững ngôi tâm sự `I – You`, kết nối từng cặp 2 dòng thành một mạch câu liền hơi tự nhiên (`enjambment / flowing couplets`), dùng từ ngữ giàu nguyên âm mở và phụ âm mềm để ca sĩ ngân mượt và lướt chữ êm ái ở mức nào?"*
-  - **Kỹ thuật phối khí & Suno Prompt:** *"Đoạn văn `Style prompt` đã khóa rõ tiếng guitar gảy trong trẻo (`clean, open tone`), lớp đệm dây/piano êm ái tiết chế (`gentle bowed bass or very soft cello used sparingly, airy strings`), 1 giọng hát từng trải giàu sự dịu dàng (`singing with tenderness, gratitude, calm emotional clarity, expressive phrasing`) và giai điệu dễ ngân nga (`simple, hummable, soothing melody`) tới đâu? Các thẻ `[...]` đã đủ tối giản để giữ mạch nhạc liền lạc xuyên suốt bài tới mức nào?"*
-  - **Kiểm tra chuẩn đầu ra:** `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát với `2-music.md`; tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md); tuân thủ 100% [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và [`humanizer`](../.agents/skills/humanizer/SKILL.md); kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ chứa tiếng ngân hoặc lời bè phát ra tiếng.
+  - **Giới hạn kỹ thuật `Style prompt` & Thời lượng:** *"`Style prompt` tiếng Anh đã nằm gọn dưới giới hạn 1000 ký tự tính cả khoảng trắng (ưu tiên 550–850 ký tự, chỉ dùng từ vựng mô tả âm học/nhạc cụ), khóa dòng chảy liền mạch và khớp với chuyển động của `1-idea.md` tới đâu? Tổng số dòng lời hát và đoạn ngân (~34–52 dòng) đã khớp với thời lượng 3–4 phút ở mức nào?"*
+  - **Điểm nhấn Giai điệu & Độ mượt câu hát:** *"Bản thảo đã có đầy đủ câu `Hook / Refrain` lặp lại bắt tai cùng đoạn ngân giai điệu (`Vocalise` / `(Ooh)` / `(Ohhh-oh)`), kết hợp dòng chảy câu hát 2 dòng liền hơi giàu nguyên âm mở để Suno hát mượt tới mức nào?"*
+  - **Kiểm tra chuẩn đầu ra:** `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát và tiếng ngân phát ra âm thanh với `2-music.md`; tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md); tuân thủ 100% [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và [`humanizer`](../.agents/skills/humanizer/SKILL.md); chỉ dẫn kỹ thuật đặt trong ngoặc vuông `[...]`, ngoặc đơn `(...)` dành riêng cho tiếng ngân hoặc lời bè phát ra âm thanh, kết bài có `gentle fade out`.
