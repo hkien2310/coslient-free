@@ -13,7 +13,7 @@
 
 - **Đầu vào:** `1-idea.md`, `storyboard.md` và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
 - **Đầu ra 1 — Cấu trúc file `character.md` *(Tùy chọn)*:**
-  - Mô tả trực tiếp nhân vật đa dạng theo từng cảnh hoặc cụm 2–3 cảnh trong `storyboard.md` và `image.txt` bằng công thức 4 trục; chỉ tạo `character.md` khi cần lưu mẫu tham chiếu riêng.
+  - Mô tả trực tiếp nhân vật và trang phục mới ngay tại từng dòng trong `storyboard.md` và `image.txt` bằng công thức 4 trục để mỗi ảnh là một lát cắt độc lập trong cùng một thế giới lớn; chỉ tạo `character.md` khi cần lưu mẫu tham chiếu riêng.
 
 ```markdown
 # CHARACTERS: [TÊN TRACK]
@@ -48,6 +48,6 @@
 - **Phôi rối cách điệu & Công thức 4 trục cho Cảnh Trung / Cận (`Khối 2 & 3`):**
   - Chỉ áp dụng cụm phôi rối (`matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown`) và công thức nhận diện 4 trục cho **1–2 nhân vật ở cảnh Trung và Cận (`Medium-wide / Waist-up / Medium close-up`)**.
   - Ở **Đại cảnh (`Extreme wide / Wide panoramic`)**, chỉ mô tả kiến trúc siêu thực đồ sộ (`monumental architectural scale`) kèm `completely without people` hoặc `with tiny distant figures in simple warm attire strolling far below` để bảo toàn tỷ lệ công trình cao lớn gấp nhiều lần con người.
-  - **4 trục nhận diện ở cảnh Trung & Cận:** (1) Dáng vóc (`tall slender`, `medium-height slender`, `waist-high child`), (2) Phụ kiện vùng đầu, (3) Tóc sợi bông, (4) Trang phục vải dệt phẳng tự nhiên kèm điểm nhấn sắc độ riêng (đủ bộ đến giày chạm mặt phẳng khi lấy `Medium-wide full-body`, hoặc chỉ thân trên và đôi tay khi lấy `Medium close-up / Waist-up`). Đổi mới trang phục và nhân vật qua từng Đại Cảnh để tạo sự đa dạng phong phú.
+  - **4 trục nhận diện ở cảnh Trung & Cận:** (1) Dáng vóc (`tall slender`, `medium-height slender`, `waist-high child`), (2) Phụ kiện vùng đầu, (3) Tóc sợi bông, (4) Trang phục vải dệt phẳng tự nhiên kèm điểm nhấn sắc độ riêng (đủ bộ đến giày chạm mặt phẳng khi lấy `Medium-wide full-body`, hoặc chỉ thân trên và đôi tay khi lấy `Medium close-up / Waist-up`). Đổi mới nhân vật và trang phục ở từng cảnh để mỗi khung hình là một lát cắt độc lập giàu sức sống trong cùng một thị trấn.
 - **Cự ly ấm áp, Trạng thái cảm xúc & Ý nghĩa khoảnh khắc:** Đặt nhân vật ở cự ly gần gũi tự nhiên (`warm conversational proximity with clean silhouette clarity`), làm nổi bật trạng thái cảm xúc chân thật (niềm vui sẻ chia, sự biết ơn, nỗi bâng khuâng, sự bình yên tĩnh tại) qua ánh mắt, nét mặt và ngôn ngữ cơ thể có hồn trong từng khung hình.
 - **Một nguồn sáng chính duy nhất (`Khối 4`):** Khóa ở cuối mỗi câu lệnh một nguồn sáng tự nhiên duy nhất chiếu theo một hướng bóng đổ thống nhất (`Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9`).
