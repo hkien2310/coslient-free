@@ -43,11 +43,12 @@
 
 ---
 
-## 3. Luật Hình Ảnh, Kiến Trúc Siêu Thực & Tỷ Lệ Con Người Theo Cỡ Cảnh
+## 3. Luật Thiên Nhiên Chân Thực & "Điểm Sai Kiến Trúc Siêu Thực"
 
-- **Luật Xoay vòng Kiến trúc Siêu thực & Đường cong Đa chiều (Ngang & Đứng):** Thế giới thị trấn/thung lũng tự thân mang nét kỳ lạ, mỗi Đại Cảnh xoay sang một điểm nhấn địa hình hoặc công trình siêu thực kỳ vĩ với những tòa nhà nhiều tầng uốn cong mềm mại cả theo phương ngang lẫn vươn cong theo phương thẳng đứng từ chân lên mái (`sculptural multi-story buildings curving both horizontally and vertically in graceful upward arcs and S-curves from base to roof`), nơi con người sinh hoạt tự nhiên bên trong đó.
-- **Luật Bố cục Bất đối xứng & Tối giản:** Mọi khung hình đặt theo bố cục lệch tâm phần ba (`asymmetric rule-of-thirds composition`) cùng sự phân bổ ngẫu nhiên phi hình học (`organic unplanned layout`), tập trung vào 1 ý tưởng hình ảnh và 1 điểm nhấn siêu thực rõ ràng trong không gian thoáng rộng lệch một bên.
-- **Luật Mô tả Con người & Kiến trúc theo Cỡ cảnh (Bảo toàn Tỷ lệ Vật lý Chuẩn):**
-  - **Ở Đại cảnh & Toàn cảnh (`Extreme wide` / `Wide`):** Dùng khi phô diễn toàn bộ chiều cao của các tòa nhà nhiều tầng uốn cong từ chân lên mái và địa hình kỳ vĩ; con người chỉ gọi bằng cụm từ quy mô nhỏ (`tiny distant miniature townspeople in varied warm clothing` hoàn toàn nhỏ bé so với cửa tầng trệt) để giữ chuẩn tỷ lệ công trình khổng lồ.
-  - **Ở Cảnh Trung và Cận (`Medium-wide` / `Medium close-up` — 1 đến 2 người):** Khung hình thu hẹp vào nhân vật nên bối cảnh kiến trúc chỉ lấy **một phần tầng trệt, hiên nhà, ban công hoặc khung cửa chính cao vượt quá đầu người (`a towering full-scale doorway rising high above the character's head`)**, giữ đúng tỷ lệ cửa và tường lớn gấp nhiều lần con người.
+- **Luật Thiên nhiên Chân thực & Bám đất (`True Nature & Grounded Rule`):** Toàn bộ các yếu tố thiên nhiên giữ nguyên bản chất vật lý chân thực và mọi vật thể, công trình đều có chân đế bám vững trên mặt đất, vách đá hoặc mặt nước.
+- **Luật "Điểm Sai Siêu Thực" trong Kiến trúc & Kết cấu (`Surreal Architectural Paradox`):** Mỗi khung hình bắt buộc phải có ít nhất 1 "điểm sai" phi logic nằm ở hình khối kiến trúc uốn cong đa chiều (ngang và đứng), tỷ lệ bất thường hoặc vị trí xây dựng kỳ vĩ vượt ngoài quy chuẩn thông thường, nơi con người vẫn sinh hoạt tự nhiên bên trong đó.
+- **Luật Bố cục Bất đối xứng & Ngẫu nhiên:** Mọi khung hình đặt theo bố cục lệch tâm (`asymmetric unplanned organic layout`), dành một bên khung hình cho khoảng thở thiên nhiên thoáng rộng.
+- **Luật Mô tả Con người theo Cỡ cảnh:**
+  - **Ở Đại cảnh & Toàn cảnh (`Extreme wide` / `Wide`):** Tập trung phô diễn kỳ quan kiến trúc siêu thực giữa thiên nhiên chân thực; con người chỉ gọi bằng cụm từ quy mô nhỏ ở xa (`tiny distant miniature townspeople in varied warm clothing`).
+  - **Ở Cảnh Trung và Cận (`Medium-wide` / `Medium close-up` — 1 đến 2 người):** Mô tả rõ gương mặt, biểu cảm ánh mắt và trang phục 4 trục của 1–2 nhân vật trung tâm đang tương tác tự nhiên bên trong bối cảnh siêu thực đó.
 - **Luật Ánh sáng:** Mỗi cảnh có 1 nguồn sáng chính chiếu theo 1 hướng; ánh sáng chuyển dịch mượt theo thời gian câu chuyện.
