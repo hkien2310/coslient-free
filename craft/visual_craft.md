@@ -22,17 +22,16 @@
 
 ---
 
-## 2. Luật Kịch Bản & Kỹ Thuật Giữ Chân Người Xem (`storyboard.md`)
+## 2. Luật Kịch Bản & Kỹ Thuật Giữ Chân (`storyboard.md`)
 
-- **1. Hook 15 giây đầu (`0:00–0:15` / Cảnh 1–3) — Chọn 1 trong 2 cách (hoặc kết hợp):**
+- **1. Hook mở màn (Cảnh 1–3) — Chọn 1 trong 2 cách (hoặc kết hợp):**
   - **Cách 1 — Bắt mắt / Choáng ngợp:** Mở ngay bằng khung cảnh thị trấn siêu thực kỳ lạ, ấn tượng nhất (khớp lời hứa ở Tiêu đề/Thumbnail).
-  - **Cách 2 — Gây tò mò / Khó hiểu:** Mở ngay bằng một hành động hoặc tình huống kỳ lạ đang diễn ra lưng chừng khiến người xem phải tự hỏi *"Ủa họ đang làm cái gì thế? Chuyện gì đang xảy ra ở đây?"*.
-  - Cảnh 2–3 đổi ngay cỡ cảnh và góc nhìn để đi sâu vào hành động đó, giữ người xem ở lại tìm câu trả lời.
-- **2. Mạch nối tiếp `[Cảnh N + Câu hát N] -> [Cảnh N+1 + Câu hát N+1]`:** Thiết kế bảng phân cảnh theo đúng trải nghiệm người xem tuần tự: đang nhìn Cảnh $N$ và nghe Câu hát $N$ $\to$ chuyển sang Cảnh $N+1$ và nghe Câu hát $N+1$ phải có bước tiến tình huống (**Khởi phát $\to$ Tương tác $\to$ Kết quả**) và khớp cảm xúc câu hát để giữ người xem ở lại xem cảnh tiếp theo.
-- **3. Làm mới thị giác mỗi khi chuyển đoạn nhạc (`Pattern Interrupt` mỗi 20–30 giây):** Mỗi khi sang đoạn nhạc mới (`Intro`, `Verse`, `Chorus`, `Solo`, `Bridge`), mở khóa một góc không gian/nét kỳ diệu mới của thị trấn hoặc đổi quy mô khung hình (từ góc hẹp ấm cúng mở bừng ra đại cảnh thoáng rộng, hoặc ngược lại) để giữ sự chú ý giữa bài.
-- **4. Đảo nhịp liên cảnh ($N \to N+1$):** Hai cảnh sát nhau khác nhau rõ rệt về bối cảnh, cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; đan xen hợp lý giữa cảnh có người tương tác và cảnh tĩnh vật/không gian (`B-roll`) theo nhịp nhạc.
-- **5. Gieo và Gặt chi tiết (`Setup & Payoff`):** Cài một chi tiết, đồ vật hoặc nhân vật ở đầu/giữa bài để gặp lại hoặc hoàn thành ý nghĩa ở cuối bài; đồng thời chuyển ý nghĩa câu hát thành tình huống cụ thể và đặt đúng các chi tiết đắt giá của `1-idea.md` vào mốc giờ tương ứng.
-- **6. Đỉnh cảm xúc & Dư âm kết bài (`Peak-End Rule`):** Đặt khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất ở cao trào cuối bài (`Bridge / Chorus cuối`), sau đó hạ nhịp êm ái ở `Outro` để khép lại trọn vẹn hành trình từ Cảnh 1.
+  - **Cách 2 — Gây tò mò / Khó hiểu:** Mở ngay bằng một hành động hoặc tình huống kỳ lạ đang diễn ra lưng chừng khiến người xem tự hỏi *"Ủa họ đang làm cái gì thế? Chuyện gì đang xảy ra ở đây?"*.
+- **2. Mạch nối tiếp mượt mà từng cảnh (`[Cảnh N + Câu hát N] -> [Cảnh N+1 + Câu hát N+1]`):**
+  - Người xem chỉ trải nghiệm cảnh hiện tại nối với cảnh ngay trước đó: từ Cảnh $N$ sang Cảnh $N+1$ phải nối tiếp mượt mà về mặt không gian, cảm xúc câu hát và tiến triển hành động (**Khởi phát $\to$ Tương tác $\to$ Kết quả**) để giữ người xem ở lại xem cảnh kế tiếp.
+  - Chuyển ý nghĩa và cảm xúc của câu hát đang vang lên thành tình huống cụ thể (đặt đúng các chi tiết đắt giá của `1-idea.md` vào mốc giờ tương ứng).
+- **3. Đảo nhịp liên cảnh ($N \to N+1$) & Mở khóa không gian:** Cảnh $N+1$ phải khác Cảnh $N$ về cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; liên tục mở ra các góc nhìn/nét kỳ diệu mới của thị trấn và đan xen hợp lý giữa cảnh có người với cảnh tĩnh vật/không gian (`B-roll`).
+- **4. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
 
 ---
 

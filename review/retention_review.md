@@ -11,17 +11,13 @@
 
 ## 1. Góc Nhìn Khán Giả 45–85+ Xem Lần Lượt Từng Cảnh + Câu Hát (`audience-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem và nghe MV từ giây `0:00` đến hết bài.
-- **Cách duyệt bắt buộc — Đi lần lượt từng cặp `[Cảnh N + Câu hát/Nhạc N] -> [Cảnh N+1 + Câu hát/Nhạc N+1]` từ đầu đến cuối:**
-  - Với mỗi bước chuyển cảnh nối tiếp nhau, đặt mình vào đúng trạng thái mắt đang nhìn hình ảnh đó và tai đang nghe câu hát đó để trả lời trực diện: **Liệu tôi còn ở lại xem tiếp sang cảnh sau không, hay bấm thoát? Và vì sao?**
-  - **1. Tại Cảnh 1 $\to$ Cảnh 2 $\to$ Cảnh 3 (15 giây mở đầu):**
-    - *Đang nhìn Cảnh 1 (kèm nhạc dạo/câu mở đầu) $\to$ sang Cảnh 2 $\to$ sang Cảnh 3:* Cảnh 1 có bắt mắt hoặc gây tò mò/khó hiểu (*"Ủa chuyện gì đang xảy ra thế?"*) không? Sang Cảnh 2 và 3, hình ảnh và âm nhạc có dẫn tôi đi sâu vào giải đáp sự tò mò đó không, hay đứng yên một chỗ làm tôi bấm thoát ngay?
-  - **2. Tại từng chuỗi chuyển tiếp `[Cảnh N + Câu hát N] -> [Cảnh N+1 + Câu hát N+1]` xuyên suốt bài:**
-    - Hình ảnh ở Cảnh $N$ có ăn khớp với cảm xúc/ý nghĩa của Câu hát $N$ đang vang lên không?
-    - Khi cắt sang Cảnh $N+1$ và nghe Câu hát $N+1$, câu chuyện/hành động có tiến thêm một bước mới (Khởi phát $\to$ Tương tác $\to$ Kết quả) hoặc mở ra góc nhìn mới làm tôi muốn xem tiếp không?
-    - **Chỉ đích danh mọi điểm gãy (`Drop-off`):** Bất kỳ đoạn nào mà từ Cảnh $N$ sang Cảnh $N+1, N+2$ lặp lại cùng một tư thế/hành động, hoặc hình ảnh trật nhịp với câu hát đang vang lên khiến người xem tụt cảm xúc và muốn bấm thoát.
-  - **3. Tại đoạn chuyển sang Cao trào & Kết thúc (`Bridge -> Chorus cuối -> Outro`):**
-    - Khi câu hát và âm nhạc đẩy lên đỉnh cảm xúc ở nửa cuối bài, hình ảnh chuyển sang cảnh đó có thực sự đắt giá, giải đáp trọn vẹn hành trình từ đầu bài và làm tôi xúc động muốn bấm Like trước khi lắng lại ở `Outro` không?
+- **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem và nghe MV. Bạn hoàn toàn không quan tâm bài hát đang ở đoạn `Verse` hay `Chorus`; bạn **chỉ quan tâm cảnh đang xem nối với cảnh ngay trước đó có mượt mà không và có giữ được bạn ở lại xem cảnh tiếp theo không**.
+- **Cách duyệt bắt buộc — Đi lần lượt từng cặp `[Cảnh N + Câu hát/Nhạc N] -> [Cảnh N+1 + Câu hát/Nhạc N+1]` từ Cảnh 1 đến Cảnh cuối:**
+  - **1. Cảnh mở đầu (Cảnh 1 $\to$ 2 $\to$ 3):** Cảnh 1 có lập tức **bắt mắt/choáng ngợp** HOẶC **gây tò mò/khó hiểu** (*"Ủa chuyện gì đang xảy ra thế?"*) không? Chuyển sang Cảnh 2 và 3 có nối tiếp mượt mà để dẫn người xem vào câu chuyện không?
+  - **2. Xuyên suốt từng cặp `Cảnh N -> Cảnh N+1`:** Với mỗi bước chuyển, trả lời trực diện 3 câu hỏi:
+    - **Có mượt mà không?** (Cắt từ Cảnh $N$ sang Cảnh $N+1$ có tự nhiên, liền mạch theo câu chuyện và khớp với cảm xúc câu hát đang vang lên không, hay bị giật cục, rời rạc vô lý?).
+    - **Còn giữ được tôi xem tiếp không? Vì sao?** (Cảnh $N+1$ có đẩy hành động tiến thêm một bước mới `Khởi phát -> Tương tác -> Kết quả` hoặc mở ra góc nhìn mới thú vị không, hay lặp lại đúng kiểu đứng/vẫy tay của cảnh trước làm tôi chán bấm thoát?).
+    - **Đến cuối bài có đọng lại cảm xúc không?** (Các cảnh cuối có gặt lại trọn vẹn câu chuyện từ đầu bài và chạm đến đỉnh cảm xúc làm tôi muốn bấm Like không?).
 
 ---
 
