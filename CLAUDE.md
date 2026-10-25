@@ -21,10 +21,10 @@
 ## 2. WORKFLOW LÀM VIỆC (QUY TRÌNH 6 BƯỚC - PONYTAIL)
 Mỗi project = 1 hoặc 2 video hoàn chỉnh:
 
-1. **Idea (`1-idea.md`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/idea_craft.md`](./craft/idea_craft.md) và `1-idea.md` của 3 dự án liền kề. Viết đúng 4 gạch đầu dòng: Cảm xúc cốt lõi (chốt rõ nhãn sắc thái chủ đạo thuộc 4 nhóm + đường cong cảm xúc) + Trục câu chuyện & Lát cắt (chốt rõ **Chế độ 1: Kể chuyện Cá nhân** hoặc **Chế độ 2: Ý niệm / Đa diện**) + Móc neo giác quan đời thực + Câu chốt (1 câu tiếng Việt gói trọn idea, kim chỉ nam cho mọi bước sau), sau đó kiểm toán độc lập đầu ra bằng [`review/idea_review.md`](./review/idea_review.md).
+1. **Idea (`1-idea.md`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/idea_craft.md`](./craft/idea_craft.md) và `1-idea.md` của 3 dự án liền kề. Viết đúng 4 gạch đầu dòng (`Cảm xúc & Tâm tình`, `Câu chuyện & Thị trấn siêu thực`, `Chi tiết đắt giá`, `Câu chốt`) cùng mục `Định hướng bài hát` theo mẫu tại [`craft/idea_craft.md`](./craft/idea_craft.md), sau đó kiểm toán độc lập đầu ra bằng [`review/idea_review.md`](./review/idea_review.md).
    * *Nghiên cứu ký ức thực tế (Tùy chọn `last30days`):* Khi làm chủ đề theo mùa/dịp lễ hoặc cần chất liệu mới, dùng `last30days` quét các cộng đồng người lớn tuổi để lấy kỷ niệm và chi tiết xúc giác đời thực.
    * *Giải phẫu Nhạc & Video Đối thủ (Tùy chọn `ref/doi-thu/`):* Khi cần phân tích bài hát hoặc MV viral của đối thủ trước khi lên Idea/Nhạc, chạy `tools/analyze_audio.py` và `tools/analyze_motion.py` để bóc tách 4 tầng dữ liệu vào `ref/doi-thu/<ten-kenh>/<ten-video>/phan-tich.md` theo quy chuẩn tại [`craft/competitor_analysis.md`](./craft/competitor_analysis.md).
-2. **Music (`2-music.md` & `3-lyrics.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/music_craft.md`](./craft/music_craft.md), [`ref/lyrics-index.md`](./ref/lyrics-index.md) và [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md) (tùy chọn tham khảo thêm kho nhạc Folk kinh điển tại [`ref-real-music/index.md`](./ref-real-music/index.md)). Ánh xạ sắc thái cảm xúc của `1-idea.md` sang điệu thức và màu âm, sáng tác lời bài hát kể chuyện đời thường gần gũi đọng chất thơ ở câu chốt theo đúng Chế độ Kể chuyện đã chọn, xuất lời sạch DistroKid và kiểm toán độc lập đầu ra bằng [`review/music_review.md`](./review/music_review.md).
+2. **Music (`2-music.md` & `3-lyrics.txt`):** **BẮT BUỘC ĐỌC TRƯỚC** [`craft/music_craft.md`](./craft/music_craft.md), [`ref/lyrics-index.md`](./ref/lyrics-index.md) và [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md) (tùy chọn tham khảo thêm kho nhạc Folk kinh điển tại [`ref-real-music/index.md`](./ref-real-music/index.md)). Thiết kế `Style prompt` 4 khối `;` kèm `Signature Sound` gắn với bối cảnh, sáng tác lời bài hát tự nhiên giàu sức gợi, xuất lời sạch DistroKid và kiểm toán độc lập đầu ra bằng [`review/music_review.md`](./review/music_review.md).
    * *Nguyên tắc Phân vai Nhạc & Hình:* Đặt tâm tình, chi tiết đời thường gần gũi và chiêm nghiệm có độ mở cao vào lời bài hát theo quy định tại [`craft/music_craft.md`](./craft/music_craft.md); giao phần diễn giải trực diện hoạt cảnh và thao tác cụ thể cho bảng phân cảnh hình ảnh (`storyboard.md`).
    * *Trích xuất mốc thời gian & Nhịp Beat (Hybrid Vocal + Palmier Beat-Snap):* Sau khi có file audio `.wav` và `3-lyrics.txt`, gọi `import_media` + `detect_beats` qua MCP của **Palmier Pro** để lấy mảng `beats`/`downbeats`, sau đó chạy:
      `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav> --beats <beats.json>`
@@ -46,13 +46,13 @@ Chỉ chứa các file thực tế được tool và phòng dựng sử dụng:
 
 ```text
 projects/XXX/
-├── 1-idea.md              (4 dòng: cảm xúc, trục câu chuyện/lát cắt [Chế độ 1 hoặc 2], móc neo & câu chốt)
+├── 1-idea.md              (4 dòng: Cảm xúc & Tâm tình, Câu chuyện & Thị trấn siêu thực, Chi tiết đắt giá, Câu chốt)
 ├── 2-music.md             (Ý tưởng phối âm & Suno prompt)
 ├── 3-lyrics.txt           (Lời sạch DistroKid)
 ├── <audio>.wav            (File âm thanh master)
 ├── timestamps.json, timestamps.txt, lyrics.srt (Bộ mốc thời gian)
-├── character.md           (Hồ sơ @Tên_nhân_vật cố định [Chế độ 1] hoặc Ghi chú 100% lát cắt độc lập [Chế độ 2])
-├── storyboard.md          (Bảng phân cảnh tối giản 1 dòng/shot ~5s để duyệt trước)
+├── character.md           (Hồ sơ @Tên_nhân_vật cố định nếu có)
+├── storyboard.md          (Bảng phân cảnh 4 cột khớp 1:1 với timestamps.txt)
 ├── image.txt              (Kho prompts ảnh phẳng khớp 1:1 với storyboard.md)
 ├── prompt-animate.txt     (Kho prompts chuyển động khớp 1:1 với image.txt)
 ├── 6-seo.md               (Tiêu đề, 3 prompts Thumbnail, mô tả & từ khóa YouTube)
@@ -71,7 +71,7 @@ Khi một Project phát triển từ **2 bài hát trở lên**:
   │   ├── <audio>.wav
   │   ├── timestamps.json, timestamps.txt, lyrics.srt
   │   ├── 3-lyrics.txt
-  │   ├── character.md       (Hồ sơ nhân vật riêng của track theo Chế độ 1 hoặc Chế độ 2)
+  │   ├── character.md       (Hồ sơ nhân vật riêng của track)
   │   ├── storyboard.md      (bảng phân cảnh tối giản riêng của track)
   │   ├── image.txt          (prompts ảnh phẳng riêng theo storyboard.md)
   │   ├── prompt-animate.txt (prompts chuyển động riêng)

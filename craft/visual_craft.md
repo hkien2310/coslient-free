@@ -22,12 +22,13 @@
 
 ---
 
-## 2. Luật Kịch Bản Phân Cảnh
+## 2. Luật Kịch Bản & Giữ Chân (`storyboard.md`)
 
-- **Diễn dịch câu hát thành tình huống:** Chuyển ý nghĩa và cảm xúc của câu hát thành tình huống, hành động cụ thể để kể tiếp câu chuyện theo `1-idea.md`, đặt đúng các móc neo giác quan vào mốc giờ tương ứng.
-- **Biến thiên liên cảnh ($N \to N+1$):** Cảnh sau là một lát cắt hoặc bước tiến mới, khác cảnh trước về bối cảnh, cỡ cảnh, góc máy và hành động.
-- **Chọn cảnh hợp lý theo nhạc:** Đặt cảnh hành động, tương tác hay cảnh tĩnh vật tùy theo nhịp điệu và cảm xúc của từng đoạn nhạc.
-- **Mở đầu và Kết thúc:** 30 giây đầu mở ra ngay không gian và tình huống gây tò mò; đoạn kết khép lại câu chuyện trọn vẹn.
+- **Hook mở đầu (15 giây đầu / Cảnh 1–3):** Mở ngay bằng hình ảnh thị trấn kỳ lạ bắt mắt nhất kèm một hành động đang khởi phát có mục đích để tạo câu hỏi tò mò giữ chân người xem.
+- **Giữ chân giữa bài (Mở khóa không gian & Tình huống nhân-quả):** Mỗi đoạn nhạc mới dẫn sang một góc không gian/nét kỳ diệu mới của thị trấn và triển khai các cụm tình huống có diễn biến (bắt đầu $\to$ tương tác $\to$ kết quả).
+- **Đỉnh cảm xúc & Kết bài (`Payoff`):** Đặt khoảnh khắc thị giác và tình người đắt giá nhất ở nửa cuối bài (`Bridge / Chorus cuối`) để giải đáp hành trình từ đầu bài, rồi khép lại trọn vẹn ở `Outro`.
+- **Diễn dịch câu hát thành tình huống:** Chuyển ý nghĩa và cảm xúc của câu hát thành tình huống, hành động cụ thể để kể tiếp câu chuyện theo `1-idea.md`, đặt đúng các chi tiết đắt giá vào mốc giờ tương ứng.
+- **Biến thiên liên cảnh ($N \to N+1$):** Cảnh sau là một lát cắt hoặc bước tiến mới, khác cảnh trước về bối cảnh, cỡ cảnh, góc máy và hành động; chọn cảnh động hay tĩnh khớp nhịp nhạc.
 
 ---
 
