@@ -30,7 +30,7 @@
 - **2. Mạch nối tiếp mượt mà từng cảnh (`[Cảnh N + Câu hát N] -> [Cảnh N+1 + Câu hát N+1]`):**
   - Người xem chỉ trải nghiệm cảnh hiện tại nối với cảnh ngay trước đó: từ Cảnh $N$ sang Cảnh $N+1$ phải nối tiếp mượt mà về mặt không gian, cảm xúc câu hát và tiến triển hành động (**Khởi phát $\to$ Tương tác $\to$ Kết quả**) để giữ người xem ở lại xem cảnh kế tiếp.
   - Chuyển ý nghĩa và cảm xúc của câu hát đang vang lên thành tình huống cụ thể (đặt đúng các chi tiết đắt giá của `1-idea.md` vào mốc giờ tương ứng).
-- **3. Đảo nhịp liên cảnh ($N \to N+1$) & Mở khóa không gian:** Cảnh $N+1$ phải khác Cảnh $N$ về cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; liên tục mở ra các góc nhìn/nét kỳ diệu mới của thị trấn và đan xen hợp lý giữa cảnh có người với cảnh tĩnh vật/không gian (`B-roll`).
+- **3. Đảo nhịp liên cảnh ($N \to N+1$) & Mở khóa không gian:** Cảnh $N+1$ phải khác Cảnh $N$ về cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; liên tục mở ra các góc nhìn/nét kỳ diệu mới của thị trấn, ưu tiên tối đa các cảnh động có nhân vật tương tác hoặc phương tiện đang di chuyển và chỉ điểm xuyết tối thiểu cảnh tĩnh vật (`B-roll`) tại điểm nghỉ chuyển đoạn.
 - **4. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
 
 ---
@@ -40,7 +40,7 @@
 - **Luật Siêu thực:** Nét kỳ lạ, siêu thực của thị trấn mọc ra từ câu chuyện của bài hát; nhân vật sống và sinh hoạt bên trong không gian đó.
 - **Luật Tối giản:** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, có thể xóa phông hậu cảnh khi cần làm nổi bật chủ thể.
 - **Luật Đa dạng:** Đa dạng góc máy, bố cục, bối cảnh và cỡ cảnh (từ cận cảnh đến siêu rộng — mang tính tham khảo, tự do sáng tạo hoặc thay đổi thêm theo cảnh); mỗi nhân vật có ngoại hình và màu trang phục riêng.
-- **Luật Tự nhiên:** Biểu cảm, dáng điệu, hành động và sự tương tác tâm tình giữa các nhân vật tự nhiên, đa dạng như đời sống hằng ngày; ở giây 0 mỗi nhân vật thực hiện 1 hành động rõ ràng làm đà cho chuyển động một chiều.
+- **Luật Tự nhiên & Sống động:** Biểu cảm, dáng điệu, hành động và sự tương tác tâm tình giữa các nhân vật tự nhiên, đa dạng như đời sống hằng ngày; mỗi khung hình ưu tiên sự chuyển động sống động của con người, phương tiện và máy quay, ở giây 0 mỗi chủ thể thực hiện 1 hành động rõ ràng làm đà cho chuyển động một chiều.
 - **Luật Cỡ cảnh & Tỷ lệ vật lý:**
   - Dùng cỡ bán thân hoặc trung cận khi nhân vật ở trong không gian có vách che phần dưới hoặc khi lấy cận biểu cảm.
   - Dùng cỡ toàn thân thấy đủ trang phục đến giày chạm sàn/đất khi nhân vật ở không gian mở hoặc phòng rộng.
