@@ -5,16 +5,12 @@
 
 ---
 
-## 🛑 NGUYÊN TẮC THẨM ĐỊNH IDEA (THEO IDEA CRAFT v4.0 PONYTAIL)
+## 🛑 NGUYÊN TẮC THẨM ĐỊNH IDEA (THEO `craft/idea_craft.md` & `review/idea_review.md`)
 
-Trước khi chốt idea mới (`1-idea.md`), kiểm tra nhanh 3 điều:
-1. **Thuộc 1 trong 4 Cổ Mẫu:**
-   - *The Sanctuary* (Thị trấn / Bờ biển bình yên, không ai là nhân vật chính)
-   - *The Faithful Companion* (Người bạn đời tri kỷ / Chú chó trung thành)
-   - *The Sentient Home* (Ngôi nhà cũ / Chiếc ghế chờ / Đồ vật có linh hồn)
-   - *The Pastoral Ritual* (Đàn cừu về làng / Chuyến tàu đêm / Bếp ấm chiều mưa)
-2. **0% Drama gượng ép:** Không cần mâu thuẫn đối kháng, không biến bài hát thành phim truyền hình.
-3. **Móc neo giác quan vật lý (Sensory Anchors):** Có ít nhất 2 chi tiết xúc giác/âm thanh có thật (tiếng móng vuốt trên sàn, vết bút chì đo chiều cao, tiếng chuông cừu...).
+Trước khi chốt idea mới (`1-idea.md`), kiểm tra nhanh 3 trụ cột cốt lõi:
+1. **Công thức Hạt nhân:** `1 Sự kiện thực tế` (khoảnh khắc đời sống/tự nhiên có thật) + `1 Nỗi niềm nhỏ bé` (tâm sự gần gũi của con người) $\rightarrow$ đặt vào `Thế giới siêu thực giàu chất thơ` (`Warm Poetic Surreal World`).
+2. **Sắc thái & Chế độ Kể chuyện:** Xác lập rõ 1 trong 4 nhóm sắc thái cảm xúc (**Lưu luyến hoài niệm**, **Bình yên chở che**, **Tươi sáng yêu đời**, **Chiêm nghiệm từng trải**) và chọn đúng **Chế độ 1 (Kể chuyện Cá nhân)** hoặc **Chế độ 2 (Ý niệm / Đa diện 100% Lát cắt)**.
+3. **Móc neo Giác quan & Câu chốt:** Chi tiết xúc giác/thanh âm cô đọng giao thoa giữa đời thực và không gian siêu thực, kèm 1 câu chốt tiếng Việt ngắn gọn đọng chất thơ.
 
 ---
 
@@ -47,6 +43,8 @@ Trước khi chốt idea mới (`1-idea.md`), kiểm tra nhanh 3 điều:
 | 023 | Hội Chợ Mùa Thu Ven Sông | Vẻ đẹp & niềm vui tuổi già tự tại | Sống trọn vẹn, không e dè phán xét tuổi tác | Hân hoan, rực rỡ, yêu đời | Bến thuyền gỗ chở táo và cúc vạn thọ, bàn gốm xoay đất sét mịn, dăm gỗ thông thơm nức, sàn khiêu vũ hoàng hôn dưới tán sồi, tiếng banjo rộn rã | Tuổi già đẹp nhất không phải lúc ngồi yên thu mình trong góc khuất, mà là khi đem trọn vẹn sự từng trải, nụ cười nở bung và màu áo rực rỡ nhất ra thắp sáng cả một góc phố ven sông |
 | 024 | Hiệp Sĩ Bìa Các-tông & Những Hiên Nhà Thắp Sáng | Ông bà làm đồ hóa trang cho cháu & phố thu | Sống lại mùa thu cũ với nhịp bước thong thả, giữ đèn hiên sáng cho khu phố | Ấm áp, dịu dàng, biết ơn | Muỗng sắt cạo bí ngô, khiên bìa bọc giấy bạc, kim băng cài áo choàng, bàn tay nhỏ nắm ngón tay nhăn nheo | Hồi trẻ vội vã khâu áo cho con giữa bộn bề, khi tóc bạc mới đủ thong thả bước chậm theo đôi chân nhỏ dưới ánh đèn hiên cuối tháng Mười |
 | 025 | Những Chỗ Ngồi Để Dành Bên Bờ Vịnh | Chế độ 2 (100% Lát cắt) — Những chỗ ngồi và phần quà để dành bên bờ vịnh biển | Sự hào sảng thầm lặng của cộng đồng người già ven biển để dành chỗ tốt cho người đến sau | Bình yên, khoáng đạt, ấm lòng | Vệt khăn lau khô sương trên ghế băng gỗ vách đá biển, bình giữ nhiệt cùng hai cốc sứ úp ngược đầu cầu tàu, giỏ chanh vàng trên bờ tường đá, hai chiếc ghế xoay sẵn về phía hoàng hôn trên vịnh | Biển rộng thổi gió bốn mùa, nhưng bờ vịnh luôn ấm áp vì góc nào cũng có một chỗ ngồi đã được lau khô và một tấm lòng để dành sẵn cho người đến sau |
+| 026 | Chuyến Xe Buýt Thung Lũng Chờ Nhau | Chế độ 2 (100% Lát cắt): Chuyến xe buýt tuyến đồi thung lũng chạy theo nhịp bước chân người già | Cộng đồng đùm bọc, sự kiên nhẫn dịu dàng dành cho tuổi già và niềm vui sẻ chia dọc đường đồi | Ấm lòng, thư thái, tươi vui | Cần gạt sắt cửa xếp mòn sơn xanh bật tiếng cạch đón giỏ mận chín, túi đào giấy nâu chuyền qua lối đi giữa hai hàng ghế da bên cửa kính trượt, bàn tay bác tài giữ vô-lăng cùng đèn pha chiều soi lối sỏi chờ khách vào tới hiên nhà | Tấm bảng lịch trình trước kính xe ghi rõ giờ xuất bến, còn nhịp lăn bánh thực sự trên con đèo thung lũng lại đo bằng từng bước chân thong thả và cái ngoái đầu chờ nhau về tới tận hiên nhà |
+| 027 | Thức Dậy Sống Trẻ Lại Một Ngày | Tâm tình `Tôi – Bạn` thức dậy thấy đôi chân êm nhẹ, để lại gậy gỗ bên cửa để sống trọn một ngày như thuở đôi mươi | Niềm vui phơi phới và lòng biết ơn khi một ngày cơ thể nhẹ nhõm, được cùng người tri kỷ dạo bước như thời trẻ | Phơi phới, nhẹ nhõm, biết ơn, ấm áp | Gậy gỗ để lại bên khung cửa hiên nhà, phủi bụi yên chiếc xe đạp cũ, cầu máng đá dẫn dòng kênh trên mây, ngôi nhà chiếc vali da cổ điển, ấm sứ trắng ngà và tòa đình thân đàn Cello gỗ dưới hàng cây nở hoa vàng ánh nắng | Chiếc gậy gỗ hôm nay cứ để yên bên cửa, vì sáng nay thức dậy bên bạn, bầu trời vừa tặng lại cho chúng mình một ngày tuổi đôi mươi |
 
 ---
 
