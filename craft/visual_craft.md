@@ -30,7 +30,7 @@
 - **2. Mạch nối tiếp mượt mà từng cảnh (`[Cảnh N + Câu hát N] -> [Cảnh N+1 + Câu hát N+1]`):**
   - Người xem chỉ trải nghiệm cảnh hiện tại nối với cảnh ngay trước đó: từ Cảnh $N$ sang Cảnh $N+1$ phải nối tiếp mượt mà về mặt không gian, cảm xúc câu hát và tiến triển hành động (**Khởi phát $\to$ Tương tác $\to$ Kết quả**) để giữ người xem ở lại xem cảnh kế tiếp.
   - Chuyển ý nghĩa và cảm xúc của câu hát đang vang lên thành tình huống cụ thể (đặt đúng các chi tiết đắt giá của `1-idea.md` vào mốc giờ tương ứng).
-- **3. Đảo nhịp liên cảnh ($N \to N+1$) & Mở khóa không gian:** Cảnh $N+1$ phải khác Cảnh $N$ về cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; liên tục mở ra các góc nhìn/nét kỳ diệu mới của thị trấn, ưu tiên tối đa các cảnh động có nhân vật tương tác hoặc phương tiện đang di chuyển và chỉ điểm xuyết tối thiểu cảnh tĩnh vật (`B-roll`) tại điểm nghỉ chuyển đoạn.
+- **3. Đảo nhịp liên cảnh ($N \to N+1$) & Mở khóa không gian:** Cảnh $N+1$ phải khác Cảnh $N$ về cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; liên tục mở ra các góc nhìn/nét kỳ diệu mới của thị trấn, kết hợp hài hòa giữa các cảnh động giàu tương tác sống động với những cảnh lắng đọng có bố cục tuyệt đẹp nơi nhân vật thực hiện hành động mang chiều sâu nội tâm và chiêm nghiệm không gian.
 - **4. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
 
 ---
