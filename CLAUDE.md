@@ -9,6 +9,8 @@
 
 ## 1. QUY TRÌNH 6 BƯỚC (CHỈ ĐIỀU HƯỚNG FILE)
 
+> **Nguyên tắc một chiều bất biến:** Mỗi bước chỉ đọc đầu ra đã duyệt của các bước trước làm dữ liệu đầu vào cố định và chỉ tạo/cập nhật các file thuộc phạm vi của bước hiện tại.
+
 1. **Bước 1 — Idea (`1-idea.md`):** Đọc [`craft/idea_craft.md`](./craft/idea_craft.md) $\to$ Xuất `1-idea.md` $\to$ Kiểm toán qua [`review/idea_review.md`](./review/idea_review.md) $\to$ Cập nhật [`ref/idea-index.md`](./ref/idea-index.md). *(Tùy chọn chạy `tools/analyze_audio.py` & `tools/analyze_motion.py` theo [`craft/competitor_analysis.md`](./craft/competitor_analysis.md)).*
 2. **Bước 2 — Music (`2-music.md` & `3-lyrics.txt`):** Đọc [`craft/music_craft.md`](./craft/music_craft.md), [`ref/lyrics-index.md`](./ref/lyrics-index.md), [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md) $\to$ Xuất `2-music.md` & `3-lyrics.txt` $\to$ Kiểm toán qua [`review/music_review.md`](./review/music_review.md) $\to$ Cập nhật [`ref/lyrics-index.md`](./ref/lyrics-index.md).
    - **Tách mốc thời gian (khi có `.wav`):** Gọi `import_media` + `detect_beats` (Palmier Pro MCP), sau đó chạy `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav> --beats <beats.json>` để sinh `timestamps.json`, `timestamps.txt`, `lyrics.srt`.

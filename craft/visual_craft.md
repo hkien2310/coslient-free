@@ -11,10 +11,9 @@
 
 ## 1. Đầu Vào & Đầu Ra
 
-- **Đầu vào:** `1-idea.md`, `3-lyrics.txt` và `timestamps.txt`.
+- **Đầu vào (Chỉ đọc — giữ nguyên vẹn các file của bước trước):** `1-idea.md`, `3-lyrics.txt` và `timestamps.txt`.
 - **Đầu ra:**
-  - **`character.md` *(Tùy chọn)*:** Mô tả trực tiếp nhân vật mới ngay tại từng cảnh độc lập trong `storyboard.md` và `image.txt` để mỗi bức ảnh là một lát cắt độc bản; chỉ dùng `character.md` khi cần lưu hồ sơ tham khảo riêng.
-  - **`storyboard.md`:** Mở đầu bằng **1 dòng khóa `Địa điểm, Quy luật & Kiến trúc kỳ lạ của thị trấn`**, sau đó triển khai theo **Quy trình 2 Tầng (`Quy hoạch Đại Cảnh` $\to$ `Triển khai Tiểu Cảnh độc lập`)** khớp 1:1 số dòng và mốc giờ với `timestamps.txt` (duyệt xong dịch 1:1 sang `image.txt` theo [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)):
+  - **`storyboard.md`:** Mở đầu bằng **1 mục khóa `Thế giới & Quy luật Siêu thực của Thị trấn`** (chủ động kiến tạo tên gọi, kiến trúc đặc trưng và hệ quy luật siêu thực của thế giới dự án ngay tại đầu file `storyboard.md`), sau đó triển khai theo **Quy trình 2 Tầng (`Quy hoạch Đại Cảnh` $\to$ `Triển khai Tiểu Cảnh độc lập`)** khớp 1:1 số dòng và mốc giờ với `timestamps.txt` (duyệt xong dịch 1:1 sang `image.txt` theo [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)):
     1. **Phần 1 — Quy hoạch Đại Cảnh theo Phân đoạn nhạc (`Macro-Sequence Blueprint`):** Xác lập mục tiêu cảm xúc, cơ chế tạo Điểm sai siêu thực, công trình kiến trúc điểm nhấn, nhân vật mới và điểm `Hook / Mini-Hook` cho từng phân đoạn (`Intro`, `Verse`, `Pre-Chorus`, `Chorus`, `Vocalise / Interlude`, `Bridge`, `Outro`).
     2. **Phần 2 — Bảng Tiểu Cảnh (`Micro-Scenes`):**
 

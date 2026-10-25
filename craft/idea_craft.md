@@ -18,8 +18,8 @@
 # [MÃ PROJECT]: [TÊN Ý TƯỞNG TIẾNG VIỆT]
 
 - Cảm xúc & Tâm tình: [Tâm tình hạt nhân từ góc nhìn Tôi – Bạn (I – You) và mạch cảm xúc tự nhiên của câu chuyện]
-- Câu chuyện: [Hành trình gắn kết giữa Tôi và Bạn diễn ra trong không gian thị trấn/thung lũng siêu thực]
-- Chi tiết đắt giá: [Các tín hiệu hình ảnh, âm thanh, xúc giác ngắn gọn gắn với thói quen hiện tại và ký ức]
+- Câu chuyện: [Hành trình gắn kết đời thường giữa Tôi và Bạn]
+- Chi tiết đắt giá: [Các tín hiệu xúc giác và thanh âm đời thường ngắn gọn gắn với thói quen hiện tại và ký ức]
 - Câu chốt: [1 câu tâm sự ngắn gọn ở ngôi Tôi – Bạn gói trọn ý nghĩa câu chuyện, làm hạt nhân cho câu Hook bài hát]
 ```
 
@@ -28,7 +28,7 @@
 ## 2. Luật Đầu Ra (`1-idea.md`)
 
 - **Trục tâm tình cá nhân (`Tôi – Bạn`):** Khởi nguồn câu chuyện từ trải nghiệm, ký ức và sự gắn bó trực tiếp giữa nhân vật `Tôi` (`I`) và `Bạn` (`You` / `We`) khi đi qua năm tháng, tạo điểm tựa tự sự thống nhất cho bài hát.
-- **Không gian thị trấn siêu thực:** Đặt câu chuyện của `Tôi` và `Bạn` trong một thị trấn kỳ lạ, siêu thực ấm áp mang đặc trưng riêng gắn với chủ đề, làm bối cảnh mở rộng cho các lát cắt nhân vật ở phần hình ảnh (`storyboard.md`).
-- **Chi tiết đắt giá (`Tín hiệu giác quan`):** Chắt lọc các tín hiệu hình ảnh, âm thanh và xúc giác ngắn gọn, giàu sức gợi từ nhịp sống hiện tại để làm mỏ neo cho lời hát và âm thanh định danh (`Signature Sound`).
+- **Câu chuyện đời thường chân thực:** Tập trung thuần túy vào sự kiện và hành trình tâm tình giữa người với người để nuôi dưỡng cảm xúc cho lời ca; toàn bộ phần kiến tạo thế giới và hình ảnh siêu thực được thiết lập riêng tại `storyboard.md` ở Bước 3.
+- **Chi tiết đắt giá (`Tín hiệu giác quan`):** Chắt lọc các tín hiệu xúc giác và thanh âm ngắn gọn, giàu sức gợi từ nhịp sống hiện tại để làm mỏ neo cho lời hát và âm thanh định danh (`Signature Sound`).
 - **Câu chốt:** Đúc kết ý nghĩa câu chuyện bằng một câu tâm tình ngắn gọn ở ngôi `Tôi – Bạn`, sẵn sàng chuyển hóa trực tiếp thành câu `Hook` của điệp khúc.
-- **Tính độc bản:** Đối chiếu `ref/idea-index.md` và 3 dự án gần nhất để chọn kỷ niệm, tâm tình và nét siêu thực hoàn toàn mới mẻ.
+- **Tính độc bản:** Đối chiếu `ref/idea-index.md` và 3 dự án gần nhất để chọn kỷ niệm và tâm tình hoàn toàn mới mẻ.
