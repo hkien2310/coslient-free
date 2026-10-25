@@ -18,7 +18,8 @@
 # [MÃ PROJECT]: [TÊN Ý TƯỞNG TIẾNG VIỆT]
 
 - Cảm xúc & Tâm tình: [Tâm tình hạt nhân từ góc nhìn Tôi – Bạn (I – You) và mạch cảm xúc tự nhiên của câu chuyện]
-- Câu chuyện & Thị trấn siêu thực: [Câu chuyện gắn kết giữa Tôi và Bạn đặt trong không gian thị trấn kỳ lạ/siêu thực]
+- Địa điểm & Nét kỳ lạ của thị trấn: [Tên gọi định danh, địa điểm đặc biệt và 1 quy luật siêu thực xuyên suốt của thị trấn]
+- Câu chuyện: [Hành trình gắn kết giữa Tôi và Bạn diễn ra trong không gian thị trấn đó]
 - Chi tiết đắt giá: [Các tín hiệu hình ảnh, âm thanh, xúc giác ngắn gọn gắn với thói quen hiện tại và ký ức]
 - Câu chốt: [1 câu tâm sự ngắn gọn ở ngôi Tôi – Bạn gói trọn ý nghĩa câu chuyện, làm hạt nhân cho câu Hook bài hát]
 ```
