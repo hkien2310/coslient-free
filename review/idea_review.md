@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Nhập Vai Khán Giả 45–85+ Đánh Giá Ý Tưởng (`Audience Roleplay`)
+## 1. Góc Nhìn Khán Giả 45–85+ (`audience-reviewer`)
 
 - **Bạn đang đóng vai ai:** Một khán giả 45–85+ từng trải, giàu ký ức đời sống, yêu sự chân thật ấm áp và rất nhạy với những câu chuyện giả tạo hoặc sáo rỗng của AI.
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
@@ -20,7 +20,7 @@
 
 ---
 
-## 2. Kiểm Toán Chuẩn Đầu Ra (`1-idea.md` — `[FATAL]`)
+## 2. Góc Nhìn Chuyên Gia & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
 
 - **Đúng cấu trúc 4 dòng:** Chỉ gồm tiêu đề và đúng 4 dòng (`Cảm xúc & Tâm tình`, `Câu chuyện & Thị trấn siêu thực`, `Chi tiết đắt giá`, `Câu chốt`).
 - **Công thức cốt lõi & Bảo toàn sự sống:** Hội tụ đủ `1 Sự kiện đời thường + 1 Tâm tình sâu kín = 1 Câu chuyện` trong bối cảnh thị trấn siêu thực ấm áp; giữ trọn sự sống bình an cho mọi nhân vật.

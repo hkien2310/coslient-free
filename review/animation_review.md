@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Nhập Vai Khán Giả 45–85+ Xem Chuyển Động Video (`Viewer Motion Roleplay`)
+## 1. Góc Nhìn Khán Giả 45–85+ Xem Chuyển Động (`audience-reviewer`)
 
 - **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang xem MV trên màn hình lớn. Mắt người lớn tuổi rất nhạy với chuyển động giật cục, rối mắt, máy quay lắc lư vô hướng hoặc nhân vật làm nhiều động tác phức tạp gây biến dạng hình ảnh.
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Kiểm Toán Chuẩn Đầu Ra (`prompt-animate.txt` — `[FATAL]`)
+## 2. Góc Nhìn Chuyên Gia I2V & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
 
 - **Đồng bộ 1:1 với `image.txt` và `storyboard.md`:** Khớp chính xác tổng số dòng (mỗi câu lệnh 1 dòng); danh từ chỉ người, số lượng nhân vật, tư thế giây 0 (`t = 0s`) và đạo cụ/phương tiện khớp 100% với dòng tương ứng trong `image.txt`.
 - **Chuyển động máy quay 1 trục & Đảo nhịp ($N \to N+1$):** Nêu rõ hướng di chuyển 1 trục của máy quay thuận chiều với bố cục ảnh; hai dòng sát nhau ($N \to N+1$) dùng kỹ thuật chuyển động ống kính khác nhau theo cột đạo diễn của `storyboard.md`.

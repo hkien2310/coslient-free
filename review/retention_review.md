@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Nhập Vai Khán Giả 45–85+ Xem Từng Giây Video (`Viewer Retention Roleplay`)
+## 1. Góc Nhìn Khán Giả 45–85+ Xem Từng Giây Video (`audience-reviewer`)
 
 - **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem MV. Bạn rất dễ bấm thoát (`Back`) ngay khi thấy hình ảnh nhàm chán, khó nhìn, đứng yên một chỗ hoặc lặp đi lặp lại một kiểu hành động xã giao vô nghĩa.
 - **Mô phỏng trải nghiệm xem từ `0:00` đến hết bài (Chỉ rõ cảnh nào làm người xem chán/muốn thoát):**
@@ -26,7 +26,7 @@
 
 ---
 
-## 2. Kiểm Toán Chuẩn Đầu Ra & Kỹ Thuật Hình Ảnh (`character.md`, `storyboard.md` & `image.txt` — `[FATAL]`)
+## 2. Góc Nhìn Chuyên Gia Đạo Diễn & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
 
 - **Đồng bộ 1:1 dòng & mốc giờ:** `storyboard.md` và `image.txt` khớp 1:1 số dòng, mốc giờ và nội dung cảnh với `timestamps.txt`; nhân vật cố định trong `character.md` đồng nhất ngoại hình xuyên suốt, các nhân vật khác nhau phân biệt rõ ngoại hình và màu trang phục.
 - **Đảo nhịp liên cảnh ($N \to N+1$) & Hành động giây 0:** Hai cảnh sát nhau khác nhau về bối cảnh, cỡ cảnh, góc máy và hành động; mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, nhân vật thực hiện 1 hành động rõ ràng ở giây 0 (`t = 0s`).

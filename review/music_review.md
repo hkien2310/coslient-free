@@ -7,7 +7,7 @@
 >   2. Không dùng phủ định.
 >   3. Tuyệt đối không viết Use Case mà phải đúc kết thành Rule.
 
-## 1. Nhập Vai Người Nghe 45–85+ Đánh Giá Bài Hát (`Listener Roleplay`)
+## 1. Góc Nhìn Người Nghe 45–85+ (`audience-reviewer`)
 
 - **Bạn đang đóng vai ai:** Một người nghe nhạc 45–85+ đang bật loa TV/iPad tìm kiếm sự đồng cảm và thư giãn; tai nhạy cảm với âm thanh chói gắt/ồn ào, yêu chất nhạc Folk mộc mạc và lời ca giản dị, chân thật.
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Kiểm Toán Chuẩn Đầu Ra (`2-music.md` & `3-lyrics.txt` — `[FATAL]`)
+## 2. Góc Nhìn Chuyên Gia Nhạc Sĩ & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
 
 - **Đúng định dạng & Đồng bộ 1:1:**
   - `2-music.md` có đủ Tên bài, `Style prompt` (4 khối ngăn cách bằng `;`), `Exclude` và `Lyrics` kèm thẻ `[...]`.

@@ -49,9 +49,11 @@ projects/XXX/
   3. Ưu tiên câu khẳng định trực tiếp hơn câu phủ định.
   4. Luôn đúc kết thành quy tắc chung (`Rule-First`), tránh liệt kê `Use Case` gây thiên kiến lặp lại.
   5. **Review-Before-Commit:** Kiểm tra `git diff` theo 4 quy tắc trên, sau đó tự động `git commit` ngay theo mẫu `docs(<phạm-vi>): [YYYY-MM-DD HH:MM] <Tóm tắt>`.
-- **Cơ chế Đối kháng 2 Cực (`Creator` vs [`adversarial-reviewer`](./.agents/agents/adversarial-reviewer.md)):**
-  - Sau mỗi bước (`1-idea.md`, `2-music.md & 3-lyrics.txt`, `character.md/storyboard.md/image.txt`, `prompt-animate.txt`, `6-seo.md`), Agent chính bắt buộc gọi Subagent `adversarial-reviewer` (giữ cùng 1 `conversationId` qua `send_message` xuyên suốt dự án) để kiểm toán định lượng theo file `review/` tương ứng.
-  - Sửa triệt để mọi lỗi `[FATAL]` có thật trên file trước khi trình kết quả cho User; phản biện bằng dẫn chứng từ `craft/` nếu Subagent bắt bẻ sai quy tắc. (Cửa thoát: khi User ra lệnh *"chỉ làm thôi"* / *"just execute"*).
+- **Cơ chế Kiểm toán Kép 2 Subagent Song Song (`Creator` vs [`audience-reviewer`](./.agents/agents/audience-reviewer.md) + [`adversarial-reviewer`](./.agents/agents/adversarial-reviewer.md)):**
+  - Sau mỗi bước (`1-idea.md`, `2-music.md & 3-lyrics.txt`, `character.md/storyboard.md/image.txt`, `prompt-animate.txt`, `6-seo.md`), Agent chính bắt buộc gọi **song song 2 Subagent** (giữ nguyên cặp `conversationId` qua `send_message` xuyên suốt dự án):
+    1. **[`audience-reviewer`](./.agents/agents/audience-reviewer.md) (Khán giả 45–85+ khó tính):** Đọc Mục 1 của file `review/*.md` để đánh giá độ chạm cảm xúc, sự tò mò 15s đầu, điểm chán giữa bài và quyết định Click/Like.
+    2. **[`adversarial-reviewer`](./.agents/agents/adversarial-reviewer.md) (Chuyên gia & Kỹ thuật):** Đọc Mục 2 của file `review/*.md` và chạy lệnh đếm định lượng để kiểm tra cấu trúc đầu ra, nhịp/vần, góc máy, tỷ lệ vật lý và từ cấm.
+  - Bản nháp chỉ qua cổng khi **cả 2 Subagent cùng `PASS`**; sửa triệt để lỗi trên file trước khi trình kết quả cho User. (Cửa thoát: khi User ra lệnh *"chỉ làm thôi"* / *"just execute"*).
 - **Quy tắc Đa thành viên & Git Branch (`.current_member`):**
   - Đọc `.current_member` ở đầu phiên (nếu chưa có thì hỏi tên và lưu lại).
   - Nếu là `master`/`main`: Làm việc trên nhánh chính và thư mục `projects/`.

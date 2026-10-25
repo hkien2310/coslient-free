@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Nhập Vai Khán Giả 45–85+ Lướt Trang Chủ YouTube (`Click & Engagement Roleplay`)
+## 1. Góc Nhìn Khán Giả 45–85+ Lướt Trang Chủ YouTube (`audience-reviewer`)
 
 - **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang lướt trang chủ YouTube trên TV hoặc iPad giữa hàng chục video gợi ý. Bạn chỉ dừng lại và bấm vào xem (`Click`) khi thấy một bức ảnh Thumbnail và một dòng Tiêu đề đánh trúng cảm xúc hoặc khơi dậy sự tò mò ngay lập tức.
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
@@ -19,7 +19,7 @@
 
 ---
 
-## 2. Kiểm Toán Chuẩn Đầu Ra (`6-seo.md` — `[FATAL]`)
+## 2. Góc Nhìn Chuyên Gia SEO & Chuẩn Đầu Ra (`adversarial-reviewer` — `[FATAL]`)
 
 - **Tiêu đề (`TITLE`) & Tên file (`FILE NAME`):** Dưới 70 ký tự, đặt mệnh đề câu chuyện/tên bài ở phần đầu trước hậu tố (`| A Dream Town (4K)` hoặc `| Short Folk Film (4K)`), trung thực với nội dung bài và đồng bộ với tên file `.mp4` / `.jpg`.
 - **Bộ 3 Prompt Thumbnail (`--ar 16:9`):** Đủ 3 góc tiếp cận Poster khác nhau về quy mô (Không gian & Câu chuyện, Hành trình & Ánh sáng, Khoảnh khắc gắn kết); đúng chuẩn 4 khối tiếng Anh tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa 1 nguồn sáng duy nhất.
