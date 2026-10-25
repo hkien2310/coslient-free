@@ -13,15 +13,15 @@
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
   - **Cảm giác khi nghe lời tâm sự (`I – You`):** *"Lời bài hát này nghe tự nhiên như một người bạn già đang thủ thỉ tâm sự trực tiếp với tôi (`I – You`) ở mức nào? Các tín hiệu giác quan đã điểm xuyết vừa đủ để gợi ký ức và nhường chỗ cho cảm xúc lắng đọng ra sao?"*
   - **Độ bắt tai của Tên bài & Câu Hook:** *"Nghe xong 1 lần, tôi thuộc và nhẩm lại ngay được câu đinh (`Hook`) ở điệp khúc dễ dàng tới đâu?"*
-  - **Nhịp văn nói & Độ dễ hát:** *"Đọc to từng dòng lời lên, câu chữ có độ co giãn tự nhiên như lời trò chuyện đời thường và có những câu chốt ngắn giàu sức nặng cảm xúc ở mức nào?"*
-  - **Trải nghiệm thính giác & Sự tiết chế:** *"Bản phối trong `Style prompt` và các thẻ `[...]` đã tạo ra không gian mộc mạc thoáng đãng, tiếng đàn guitar có độ lơi nhịp tự nhiên (`natural timing variations`), nhạc cụ điểm xuyết tiết chế (`sparse / restrained`) cùng 1 `Signature Motif` đáng nhớ ra sao?"*
+  - **Độ mượt của dòng chảy câu hát (`Flowing Phrasing`):** *"Đọc to từng cặp 2 dòng lời lên, câu chữ có nối liền nhau thành một hơi thở mềm mại với nguyên âm mở êm tai và vần liền kề tự nhiên ở mức nào?"*
+  - **Trải nghiệm thính giác & Lớp đệm mượt:** *"Bản phối trong `Style prompt` và các thẻ `[...]` đã tạo ra không gian mộc mạc trong trẻo, có lớp đệm êm (`light piano, gentle bowed bass or very soft cello used sparingly, airy strings`) nâng đỡ tiếng guitar gảy và giọng hát dịu dàng giàu cảm xúc (`tenderness, gratitude, calm emotional clarity`) cùng 1 `Signature Motif` đáng nhớ ra sao?"*
 
 ---
 
 ## 2. Nhập Vai Nhạc Sĩ / Nhà Sản Xuất Folk & Kỹ Sư Suno (`adversarial-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một Nhạc sĩ kiêm Nhà sản xuất nhạc Acoustic Folk và Kỹ sư âm thanh Suno. Bạn thẩm định bản nhạc bằng con mắt chuyên môn về nhạc lý, nhịp điệu lời nói (`Conversational Phrasing`) và độ liền mạch trên Suno.
+- **Bạn đang đóng vai ai:** Một Nhạc sĩ kiêm Nhà sản xuất nhạc Acoustic Folk và Kỹ sư âm thanh Suno. Bạn thẩm định bản nhạc bằng con mắt chuyên môn về nhạc lý, độ mượt của dòng chảy thanh nhạc (`Smooth Melodic Flow`) và độ liền mạch trên Suno.
 - **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
-  - **Kỹ thuật viết lời & Nhịp văn nói:** *"Lời hát đã giữ vững ngôi tâm sự `I – You` xuyên suốt và thoát khỏi lối đọc thơ đều nhịp bằng cách kết hợp câu co giãn tự nhiên, vần bán âm cùng câu chốt độc lập tới mức nào?"*
-  - **Kỹ thuật phối khí & Suno Prompt:** *"Đoạn văn `Style prompt` đã khóa rõ tiếng guitar gảy tự nhiên (`natural timing variations`), nhịp nền trầm ổn, hòa âm tiết chế (`sparse / remaining restrained`), 1 giọng hát từng trải xuyên suốt và giai điệu dễ ngân nga (`simple, hummable melody`) tới đâu? Các thẻ `[...]` đã đủ tối giản để giữ mạch nhạc liền lạc xuyên suốt bài tới mức nào?"*
+  - **Kỹ thuật viết lời & Độ mượt thanh nhạc:** *"Lời hát đã giữ vững ngôi tâm sự `I – You`, kết nối từng cặp 2 dòng thành một mạch câu liền hơi tự nhiên (`enjambment / flowing couplets`), dùng từ ngữ giàu nguyên âm mở và phụ âm mềm để ca sĩ ngân mượt và lướt chữ êm ái ở mức nào?"*
+  - **Kỹ thuật phối khí & Suno Prompt:** *"Đoạn văn `Style prompt` đã khóa rõ tiếng guitar gảy trong trẻo (`clean, open tone`), lớp đệm dây/piano êm ái tiết chế (`gentle bowed bass or very soft cello used sparingly, airy strings`), 1 giọng hát từng trải giàu sự dịu dàng (`singing with tenderness, gratitude, calm emotional clarity, expressive phrasing`) và giai điệu dễ ngân nga (`simple, hummable, soothing melody`) tới đâu? Các thẻ `[...]` đã đủ tối giản để giữ mạch nhạc liền lạc xuyên suốt bài tới mức nào?"*
   - **Kiểm tra chuẩn đầu ra:** `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát với `2-music.md`; tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md); tuân thủ 100% [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và [`humanizer`](../.agents/skills/humanizer/SKILL.md); kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ chứa tiếng ngân hoặc lời bè phát ra tiếng.
