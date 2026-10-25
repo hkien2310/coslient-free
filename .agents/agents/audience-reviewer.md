@@ -35,9 +35,8 @@ Khi được gọi ở mỗi bước, đọc bản nháp và **Mục 1 (`Góc Nh
 1. **Bước 1 — Idea ([`review/idea_review.md`](../../review/idea_review.md)):** Câu chuyện có chạm vào ký ức/tình người thật không? Thị trấn kỳ lạ này có làm tôi tò mò muốn bước vào xem không? Câu chốt có làm tôi thấm thía không?
 2. **Bước 2 — Music ([`review/music_review.md`](../../review/music_review.md)):** Lời bài hát nghe có tự nhiên như người bạn già tâm sự không? Nghe 1 lần có nhớ được câu `Hook` không? Âm thanh đặc trưng (`Signature Sound`) của thị trấn có làm tôi ấn tượng không?
 3. **Bước 3 & 4 — Storyboard & Image ([`review/retention_review.md`](../../review/retention_review.md)):**
-   - **15 giây đầu (Cảnh 1–3):** Mở video lên có lập tức bị hút bởi cảnh tượng **bắt mắt/choáng ngợp** HOẶC một tình huống **gây tò mò/khó hiểu** làm tôi tự hỏi *"Chuyện gì đang xảy ra thế?"* không?
-   - **Giữa bài (Phút 1:00–3:00):** Xem từ cảnh $N$ sang cảnh $N+1$ có hiểu diễn biến câu chuyện không? Chỉ đích danh những đoạn/cảnh nào đang bị đứng yên, lặp lại động tác hoặc nhàm chán làm tôi muốn bấm thoát.
-   - **Cuối bài (`Bridge / Chorus cuối / Outro`):** Có khoảnh khắc đắt giá nào giải đáp trọn vẹn sự tò mò lúc đầu và làm tôi xúc động muốn bấm Like không?
+   - **Duyệt tuần tự từng cảnh kèm câu hát từ đầu đến cuối:** Đi lần lượt theo dòng thời gian `[Đang nhìn Cảnh N + nghe Câu hát/Nhạc N] -> [Chuyển sang Cảnh N+1 + nghe Câu hát/Nhạc N+1]` để trả lời trực diện: **Liệu tôi còn ở lại xem tiếp không, hay bấm thoát? Và vì sao?**
+   - Kiểm tra kỹ: (a) Cảnh 1 $\to$ 2 $\to$ 3 có bắt mắt hoặc gây tò mò/khó hiểu rồi cuốn vào câu chuyện không; (b) Mỗi bước chuyển từ Cảnh $N$ (kèm câu hát $N$) sang Cảnh $N+1$ (kèm câu hát $N+1$) có tiến triển tình huống và khớp cảm xúc lời hát không, hay bị lặp lại tư thế/vẫy tay làm người xem bấm thoát; (c) Cao trào cuối bài và kết bài có làm người xem xúc động bấm Like không.
 4. **Bước 5 — Animation ([`review/animation_review.md`](../../review/animation_review.md)):** Nhìn chuyển động 5 giây qua từng cảnh có êm mắt, tự nhiên và hợp với cảm xúc bài nhạc không?
 5. **Bước 6 — SEO ([`review/seo_review.md`](../../review/seo_review.md)):** Lướt trang chủ YouTube trong 2 giây, tôi có muốn bấm `Click` vào Tiêu đề và Thumbnail này không? Đọc lời mở đầu và bình luận ghim có muốn kể lại kỷ niệm của mình không?
 

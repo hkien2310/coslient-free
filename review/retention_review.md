@@ -9,20 +9,19 @@
 
 ---
 
-## 1. Góc Nhìn Khán Giả 45–85+ Xem Từng Giây Video (`audience-reviewer`)
+## 1. Góc Nhìn Khán Giả 45–85+ Xem Lần Lượt Từng Cảnh + Câu Hát (`audience-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem MV. Bạn rất dễ bấm thoát (`Back`) ngay khi thấy hình ảnh nhàm chán, khó nhìn, đứng yên một chỗ hoặc lặp đi lặp lại một kiểu hành động xã giao vô nghĩa.
-- **Mô phỏng trải nghiệm xem từ `0:00` đến hết bài (Chỉ rõ cảnh nào làm người xem chán/muốn thoát):**
-  - **1. Phản ứng ở 15 giây đầu (`0:00–0:15` / Cảnh 1–3 — Quyết định ở lại hay thoát):**
-    - *"Khi vừa mở video lên ở Cảnh 1, mắt tôi có lập tức bị hút bởi **một cảnh tượng thị trấn siêu thực bắt mắt** HOẶC **một hành động/tình huống kỳ lạ, khó hiểu** làm tôi phải tự hỏi 'Ủa chuyện gì đang xảy ra thế? Họ đang làm cái gì vậy?' không?"*
-    - *"Sang Cảnh 2–3, góc máy và hành động có tiến triển ngay để giải đáp dần sự tò mò đó không, hay nhân vật cứ đứng yên một chỗ vẫy tay/cười xã giao làm tôi chán và bấm thoát?"*
-  - **2. Phản ứng qua từng cụm 2–3 cảnh (`Chuỗi Nhân-Quả Micro-Arcs`):**
-    - *"Xem cảnh $N$, tôi có thấy một hành động đang diễn ra dở dang khiến tôi muốn xem tiếp cảnh $N+1, N+2$ để biết kết quả của cuộc tương tác đó không, hay các cảnh bị rời rạc, vô hồn?"*
-  - **3. Phản ứng ở giữa video (`Phút 1:00–3:00` — Chống rơi rụng giữa bài):**
-    - *"Mỗi khi bài hát chuyển sang đoạn mới (`Verse`, `Chorus`, `Solo`, `Bridge`), mắt tôi có được thưởng thức một góc không gian/nét siêu thực mới của thị trấn hoặc một cỡ cảnh mở rộng mới mẻ không, hay bị kẹt mãi ở một góc nhìn lặp đi lặp lại?"*
-    - *"Cảnh có đang diễn tả sống động tình huống của lời bài hát lúc đó không, hay chỉ minh họa máy móc từng chữ?"*
-  - **4. Phản ứng ở cao trào & Kết thúc (`Bridge / Chorus cuối / Outro`):**
-    - *"Đến nửa cuối bài, chi tiết gieo từ đầu bài có được gặt lại ấm áp (`Setup & Payoff`) và có một khoảnh khắc hình ảnh + tình người đắt giá nhất làm tôi xúc động muốn bấm Like trước khi video khép lại êm đềm ở `Outro` không?"*
+- **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem và nghe MV từ giây `0:00` đến hết bài.
+- **Cách duyệt bắt buộc — Đi lần lượt từng cặp `[Cảnh N + Câu hát/Nhạc N] -> [Cảnh N+1 + Câu hát/Nhạc N+1]` từ đầu đến cuối:**
+  - Với mỗi bước chuyển cảnh nối tiếp nhau, đặt mình vào đúng trạng thái mắt đang nhìn hình ảnh đó và tai đang nghe câu hát đó để trả lời trực diện: **Liệu tôi còn ở lại xem tiếp sang cảnh sau không, hay bấm thoát? Và vì sao?**
+  - **1. Tại Cảnh 1 $\to$ Cảnh 2 $\to$ Cảnh 3 (15 giây mở đầu):**
+    - *Đang nhìn Cảnh 1 (kèm nhạc dạo/câu mở đầu) $\to$ sang Cảnh 2 $\to$ sang Cảnh 3:* Cảnh 1 có bắt mắt hoặc gây tò mò/khó hiểu (*"Ủa chuyện gì đang xảy ra thế?"*) không? Sang Cảnh 2 và 3, hình ảnh và âm nhạc có dẫn tôi đi sâu vào giải đáp sự tò mò đó không, hay đứng yên một chỗ làm tôi bấm thoát ngay?
+  - **2. Tại từng chuỗi chuyển tiếp `[Cảnh N + Câu hát N] -> [Cảnh N+1 + Câu hát N+1]` xuyên suốt bài:**
+    - Hình ảnh ở Cảnh $N$ có ăn khớp với cảm xúc/ý nghĩa của Câu hát $N$ đang vang lên không?
+    - Khi cắt sang Cảnh $N+1$ và nghe Câu hát $N+1$, câu chuyện/hành động có tiến thêm một bước mới (Khởi phát $\to$ Tương tác $\to$ Kết quả) hoặc mở ra góc nhìn mới làm tôi muốn xem tiếp không?
+    - **Chỉ đích danh mọi điểm gãy (`Drop-off`):** Bất kỳ đoạn nào mà từ Cảnh $N$ sang Cảnh $N+1, N+2$ lặp lại cùng một tư thế/hành động, hoặc hình ảnh trật nhịp với câu hát đang vang lên khiến người xem tụt cảm xúc và muốn bấm thoát.
+  - **3. Tại đoạn chuyển sang Cao trào & Kết thúc (`Bridge -> Chorus cuối -> Outro`):**
+    - Khi câu hát và âm nhạc đẩy lên đỉnh cảm xúc ở nửa cuối bài, hình ảnh chuyển sang cảnh đó có thực sự đắt giá, giải đáp trọn vẹn hành trình từ đầu bài và làm tôi xúc động muốn bấm Like trước khi lắng lại ở `Outro` không?
 
 ---
 
