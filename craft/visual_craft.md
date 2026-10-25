@@ -50,8 +50,10 @@
 - **Luật Công thức Siêu thực (`1 Điểm sai + 1 Hành động thản nhiên = Siêu thực`):**
   - **Nguyên lý cốt lõi:** Mỗi khung hình kết hợp **1 Điểm sai duy nhất** với **1 việc làm đời thường ở nhịp độ chậm**, nơi nhân vật đón nhận điều kỳ lạ bằng thái độ thản nhiên, thân thuộc và ấm áp như nhịp sống tự nhiên hàng ngày.
   - **5 Cơ chế tạo Điểm sai (Luân phiên qua các Đại Cảnh để tạo `Hook / Mini-Hook` và kiến trúc thị trấn):**
-    1. **Lai ghép (`1 thứ lấy ngoại hình + 1 thứ lấy tính chất`):** Kết hợp hai thực thể có cùng trạng thái động học bồng bềnh hoặc gợn sóng.
-    2. **Phóng đại & Đổi công năng (`1 vật quen thuộc + phóng đại kích thước / thay đổi công năng`):** Biến vật thể hoặc thực thể tự nhiên thân thuộc thành công trình kiến trúc, không gian sinh hoạt hoặc phương tiện kỳ vĩ.
+    1. **Lai ghép (`Ngoại hình bên Nhỏ/Mềm + Tính chất bên Lớn/Vững`):** Ghép hai thực thể bằng cách lấy ngoại hình của thực thể nhỏ hoặc mềm đắp vào thực thể lớn hoặc vững chãi, đồng thời giữ nguyên tính chất vật lý của bên lớn hơn (giữ tính tĩnh tại để ở của công trình kiến trúc hoặc tính gợn sóng bồng bềnh của mặt biển/cảnh quan).
+    2. **Phóng đại (`Phóng to vượt bậc 1 thực thể duy nhất theo 2 nhánh`):**
+       - *Nhánh Đồ vật quen thuộc:* Phóng đại kích thước và đổi công năng thành công trình kiến trúc, nơi trú ẩn hoặc phương tiện.
+       - *Nhánh Sinh vật nhỏ bé hiền lành:* Phóng đại kích thước với đường nét thủ công bo tròn mềm mại và giữ nguyên tính chất là người bạn sinh vật hiền hòa để con người tựa vào hoặc bầu bạn.
     3. **Vật thể hóa tự nhiên (`1 hiện tượng tự nhiên + đối xử như vật cầm nắm được`):** Chuyển hóa hiện tượng tự nhiên nhẹ nhàng thành chất liệu thủ công hữu hình để nhân vật nâng niu và bầu bạn.
     4. **Lạc quẻ không gian (`1 vật dụng riêng tư + đặt giữa thiên nhiên bao la`):** Đặt một góc nội thất đơn lẻ, tối giản và mang tính an ủi giữa cảnh quan thiên nhiên rộng lớn.
     5. **Tọa độ siêu thực (`Tự nhiên nguyên bản + đặt ở tọa độ đặc biệt`):** Đặt cấu trúc tự nhiên hoặc công trình giữ nguyên tính chất vật lý ở cao độ lơ lửng với trọng lực tĩnh lặng.
