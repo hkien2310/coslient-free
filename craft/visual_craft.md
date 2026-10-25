@@ -47,7 +47,7 @@
 ## 3. Luật Hình Ảnh & Thế Giới
 
 - **Luật Công thức Siêu thực (`1 Điểm sai + 1 Hành động thản nhiên = Siêu thực`):**
-  - **Nguyên lý cốt lõi:** Đặt trên nền kiến trúc đời thực cổ điển trầm ấm và chất liệu ký ức của người trưởng thành, mỗi khung hình kết hợp **1 Điểm sai duy nhất** với **1 việc làm đời thường ở nhịp độ chậm**, nơi nhân vật đón nhận điều kỳ lạ bằng thái độ thản nhiên, thân thuộc và ấm áp như nhịp sống tự nhiên hàng ngày.
+  - **Nguyên lý cốt lõi (Ẩn dụ trực tiếp cho Nhạc & Truyện):** Đặt trên nền kiến trúc đời thực cổ điển trầm ấm của người trưởng thành, mỗi Điểm sai siêu thực phải là **ẩn dụ thị giác trực tiếp cho tâm tình câu chuyện, thông điệp và hình ảnh trong lời bài hát**; mỗi khung hình kết hợp **1 Điểm sai giàu tính ẩn dụ** với **1 việc làm đời thường ở nhịp độ chậm**, nơi nhân vật đón nhận điều kỳ lạ bằng thái độ thản nhiên, thân thuộc và ấm áp.
   - **5 Cơ chế tạo Điểm sai (Luân phiên qua các Đại Cảnh để tạo `Hook / Mini-Hook` và kiến trúc thị trấn):**
     1. **Lai ghép (`Ngoại hình bên Nhỏ/Mềm + Tính chất bên Lớn/Vững`):** Ghép hai thực thể bằng cách lấy ngoại hình của thực thể nhỏ hoặc mềm đắp vào thực thể lớn hoặc vững chãi, đồng thời giữ nguyên tính chất vật lý của bên lớn hơn (giữ tính tĩnh tại để ở của công trình kiến trúc hoặc tính gợn sóng bồng bềnh của mặt biển/cảnh quan).
     2. **Phóng đại (`Phóng to vượt bậc 1 thực thể duy nhất theo 2 nhánh`):**
