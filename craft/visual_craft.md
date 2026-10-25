@@ -45,7 +45,7 @@
 
 ## 3. Luật Hình Ảnh, Kiến Trúc Siêu Thực & Tỷ Lệ Con Người Theo Cỡ Cảnh
 
-- **Luật Xoay vòng Kiến trúc Siêu thực & Ngẫu nhiên Hữu cơ:** Thế giới thị trấn/thung lũng tự thân mang nét kỳ lạ, mỗi Đại Cảnh xoay sang một điểm nhấn công trình hoặc địa hình siêu thực kỳ vĩ riêng kết hợp với quần thể nhà cửa nhiều tầng cao thấp ngẫu nhiên, dáng nghiêng xiêu vẹo thủ công (`haphazardly stacked crooked multi-story houses leaning at whimsical organic angles`), nơi con người sinh hoạt tự nhiên bên trong đó.
+- **Luật Xoay vòng Kiến trúc Siêu thực & Đường cong Hữu cơ:** Thế giới thị trấn/thung lũng tự thân mang nét kỳ lạ, mỗi Đại Cảnh xoay sang một điểm nhấn địa hình hoặc công trình siêu thực kỳ vĩ với những tòa nhà nhiều tầng mang đường cong điêu khắc mềm mại (`sculptural curved multi-story surreal architecture with flowing organic walls and sweeping rooflines`), nơi con người sinh hoạt tự nhiên bên trong đó.
 - **Luật Bố cục Bất đối xứng & Tối giản:** Mọi khung hình đặt theo bố cục lệch tâm phần ba (`asymmetric rule-of-thirds composition`) cùng sự phân bổ ngẫu nhiên phi hình học (`organic unplanned layout`), tập trung vào 1 ý tưởng hình ảnh và 1 điểm nhấn siêu thực rõ ràng trong không gian thoáng rộng lệch một bên.
 - **Luật Mô tả Con người theo Cỡ cảnh (Bảo toàn Tỷ lệ & Sự đa dạng đám đông):**
   - **Ở Đại cảnh, Toàn cảnh rộng hoặc Cảnh đông người (`Extreme wide` / `Wide`):** Tập trung mô tả sự kỳ vĩ của công trình siêu thực và cảnh quan; con người chỉ gọi bằng cụm từ quy mô nhỏ (`tiny distant figures` / `small miniature townspeople in varied warm attire`), giúp giữ chuẩn tỷ lệ con người nhỏ bé trước kiến trúc đồ sộ và tạo sự đa dạng tự nhiên cho đám đông.
