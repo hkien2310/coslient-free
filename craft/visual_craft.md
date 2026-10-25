@@ -22,13 +22,16 @@
 
 ---
 
-## 2. Luật Kịch Bản & Giữ Chân (`storyboard.md`)
+## 2. Luật Kịch Bản & Kỹ Thuật Giữ Chân Người Xem (`storyboard.md`)
 
-- **Hook mở đầu (15 giây đầu / Cảnh 1–3):** Mở ngay bằng hình ảnh thị trấn kỳ lạ bắt mắt nhất kèm một hành động đang khởi phát có mục đích để tạo câu hỏi tò mò giữ chân người xem.
-- **Giữ chân giữa bài (Mở khóa không gian & Tình huống nhân-quả):** Mỗi đoạn nhạc mới dẫn sang một góc không gian/nét kỳ diệu mới của thị trấn và triển khai các cụm tình huống có diễn biến (bắt đầu $\to$ tương tác $\to$ kết quả).
-- **Đỉnh cảm xúc & Kết bài (`Payoff`):** Đặt khoảnh khắc thị giác và tình người đắt giá nhất ở nửa cuối bài (`Bridge / Chorus cuối`) để giải đáp hành trình từ đầu bài, rồi khép lại trọn vẹn ở `Outro`.
-- **Diễn dịch câu hát thành tình huống:** Chuyển ý nghĩa và cảm xúc của câu hát thành tình huống, hành động cụ thể để kể tiếp câu chuyện theo `1-idea.md`, đặt đúng các chi tiết đắt giá vào mốc giờ tương ứng.
-- **Biến thiên liên cảnh ($N \to N+1$):** Cảnh sau là một lát cắt hoặc bước tiến mới, khác cảnh trước về bối cảnh, cỡ cảnh, góc máy và hành động; chọn cảnh động hay tĩnh khớp nhịp nhạc.
+- **1. Hook 15 giây đầu (`0:00–0:15` / Cảnh 1–3 — Tạo câu hỏi tò mò):**
+  - Cảnh 1 mở ngay bằng hình ảnh thị trấn siêu thực bắt mắt nhất (khớp lời hứa ở Tiêu đề/Thumbnail) kèm một hành động đang khởi phát có mục đích để người xem tự hỏi *"Chuyện gì sắp xảy ra?"*.
+  - Cảnh 2–3 đổi ngay cỡ cảnh và góc nhìn để đi sâu vào hành động đó, tạo đà cuốn người xem vào câu chuyện.
+- **2. Chuỗi tình huống Nhân-Quả 2–3 cảnh (`Micro-Arcs`):** Gom các cảnh liên tiếp thành từng cụm tình huống nhỏ có diễn biến: **Khởi phát hành động $\to$ Gặp gỡ / Tương tác $\to$ Phản ứng cảm xúc / Kết quả** để người xem luôn muốn xem cảnh tiếp theo.
+- **3. Làm mới thị giác mỗi khi chuyển đoạn nhạc (`Pattern Interrupt` mỗi 20–30 giây):** Mỗi khi sang đoạn nhạc mới (`Intro`, `Verse`, `Chorus`, `Solo`, `Bridge`), mở khóa một góc không gian/nét kỳ diệu mới của thị trấn hoặc đổi quy mô khung hình (từ góc hẹp ấm cúng mở bừng ra đại cảnh thoáng rộng, hoặc ngược lại) để giữ sự chú ý giữa bài.
+- **4. Đảo nhịp liên cảnh ($N \to N+1$):** Hai cảnh sát nhau khác nhau rõ rệt về bối cảnh, cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; đan xen hợp lý giữa cảnh có người tương tác và cảnh tĩnh vật/không gian (`B-roll`) theo nhịp nhạc.
+- **5. Gieo và Gặt chi tiết (`Setup & Payoff`):** Cài một chi tiết, đồ vật hoặc nhân vật ở đầu/giữa bài để gặp lại hoặc hoàn thành ý nghĩa ở cuối bài; đồng thời chuyển ý nghĩa câu hát thành tình huống cụ thể và đặt đúng các chi tiết đắt giá của `1-idea.md` vào mốc giờ tương ứng.
+- **6. Đỉnh cảm xúc & Dư âm kết bài (`Peak-End Rule`):** Đặt khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất ở cao trào cuối bài (`Bridge / Chorus cuối`), sau đó hạ nhịp êm ái ở `Outro` để khép lại trọn vẹn hành trình từ Cảnh 1.
 
 ---
 

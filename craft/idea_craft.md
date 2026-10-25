@@ -17,15 +17,10 @@
 ```markdown
 # [MÃ PROJECT]: [TÊN Ý TƯỞNG TIẾNG VIỆT]
 
-- Cảm xúc & Tâm tình: [Tâm tình hạt nhân và mạch cảm xúc tự nhiên của bài hát]
+- Cảm xúc & Tâm tình: [Tâm tình hạt nhân và mạch cảm xúc tự nhiên của câu chuyện]
 - Câu chuyện & Thị trấn siêu thực: [1 Sự kiện thực tế + 1 Tâm tình đặt trong bối cảnh thị trấn kỳ lạ/siêu thực]
 - Chi tiết đắt giá: [Các chi tiết hình ảnh, âm thanh, xúc giác làm chất liệu cho nhạc và hình]
 - Câu chốt: [1 câu tiếng Việt ngắn gọn gói trọn ý nghĩa câu chuyện, làm hạt nhân cho câu Hook bài hát]
-
----
-
-### Định hướng bài hát
-* **Bài hát:** *[English Track Title]*: [Màu sắc âm nhạc, điệu thức Major/Minor, tempo và mạch phát triển].
 ```
 
 ---
@@ -33,7 +28,7 @@
 ## 2. Luật Đầu Ra (`1-idea.md`)
 
 - **Công thức cốt lõi:** `1 Sự kiện đời thường + 1 Tâm tình sâu kín = 1 Câu chuyện`.
-- **Bối cảnh thị trấn siêu thực:** Đặt toàn bộ câu chuyện vào một thị trấn kỳ lạ, siêu thực ấm áp mang đặc trưng riêng gắn với chủ đề bài hát (đặt tên hoặc gọi rõ nét đặc trưng của thị trấn đó nếu phù hợp).
+- **Bối cảnh thị trấn siêu thực:** Đặt toàn bộ câu chuyện vào một thị trấn kỳ lạ, siêu thực ấm áp mang đặc trưng riêng gắn với chủ đề (đặt tên hoặc gọi rõ nét đặc trưng của thị trấn đó nếu phù hợp).
 - **Chi tiết đắt giá:** Chắt lọc các chi tiết hình ảnh, âm thanh, xúc giác cụ thể kết nối giữa đời thực và không gian siêu thực để làm chất liệu cho lời hát và phân cảnh.
-- **Câu chốt & Tên bài (`Track Title`):** Câu chốt ngắn gọn, đúc kết ý nghĩa câu chuyện làm hạt nhân cho câu `Hook`; tên bài tiếng Anh dùng từ ngữ giản dị, giàu sức gợi.
+- **Câu chốt:** Ngắn gọn, đúc kết ý nghĩa câu chuyện làm hạt nhân cho câu `Hook` của bài hát.
 - **Tránh trùng lặp:** Đối chiếu `ref/idea-index.md` và 3 dự án gần nhất để chọn sự kiện, tâm tình và nét siêu thực mới mẻ.
