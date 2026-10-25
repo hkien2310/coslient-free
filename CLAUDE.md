@@ -12,7 +12,7 @@
 1. **Bước 1 — Idea (`1-idea.md`):** Đọc [`craft/idea_craft.md`](./craft/idea_craft.md) $\to$ Xuất `1-idea.md` $\to$ Kiểm toán qua [`review/idea_review.md`](./review/idea_review.md) $\to$ Cập nhật [`ref/idea-index.md`](./ref/idea-index.md). *(Tùy chọn chạy `tools/analyze_audio.py` & `tools/analyze_motion.py` theo [`craft/competitor_analysis.md`](./craft/competitor_analysis.md)).*
 2. **Bước 2 — Music (`2-music.md` & `3-lyrics.txt`):** Đọc [`craft/music_craft.md`](./craft/music_craft.md), [`ref/lyrics-index.md`](./ref/lyrics-index.md), [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md) $\to$ Xuất `2-music.md` & `3-lyrics.txt` $\to$ Kiểm toán qua [`review/music_review.md`](./review/music_review.md) $\to$ Cập nhật [`ref/lyrics-index.md`](./ref/lyrics-index.md).
    - **Tách mốc thời gian (khi có `.wav`):** Gọi `import_media` + `detect_beats` (Palmier Pro MCP), sau đó chạy `uv run --with "faster-whisper" --with "av<14" python3 tools/extract_timestamps.py <audio.wav> --beats <beats.json>` để sinh `timestamps.json`, `timestamps.txt`, `lyrics.srt`.
-3. **Bước 3 — Storyboard (`character.md` & `storyboard.md`):** Đọc [`craft/visual_craft.md`](./craft/visual_craft.md), [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md), [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md) $\to$ Xuất `character.md` & `storyboard.md` $\to$ Kiểm toán qua [`review/retention_review.md`](./review/retention_review.md).
+3. **Bước 3 — Storyboard (`storyboard.md`):** Đọc [`craft/visual_craft.md`](./craft/visual_craft.md), [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md), [`ref/banned_lyrics_motifs.md`](./ref/banned_lyrics_motifs.md) $\to$ Xuất `storyboard.md` $\to$ Kiểm toán qua [`review/retention_review.md`](./review/retention_review.md).
 4. **Bước 4 — Image Prompts (`image.txt`):** Đọc [`style/STYLE_mixed_media_tabletop_diorama.md`](./style/STYLE_mixed_media_tabletop_diorama.md) $\to$ Dịch 1:1 từ `storyboard.md` sang `image.txt` $\to$ Kiểm toán qua [`review/retention_review.md`](./review/retention_review.md) $\to$ Tải ảnh về `dola-auto-download/` hoặc `images/`.
 5. **Bước 5 — Animation Prompts (`prompt-animate.txt`):** Đọc [`craft/animation_craft.md`](./craft/animation_craft.md) $\to$ Xuất `prompt-animate.txt` khớp 1:1 với `image.txt` $\to$ Kiểm toán qua [`review/animation_review.md`](./review/animation_review.md).
 6. **Bước 6 — Dựng Video & SEO (`6-seo.md`):** Đọc [`craft/editing_craft.md`](./craft/editing_craft.md) và [`craft/coslient_seo.md`](./craft/coslient_seo.md) $\to$ Dựng timeline qua Palmier Pro MCP & xuất `6-seo.md` $\to$ Kiểm toán qua [`review/seo_review.md`](./review/seo_review.md) $\to$ Cập nhật [`ref/distrokid.md`](./ref/distrokid.md) và [`ref/bandcamp.md`](./ref/bandcamp.md).
@@ -28,7 +28,6 @@ projects/XXX/
 ├── 3-lyrics.txt
 ├── <audio>.wav
 ├── timestamps.json, timestamps.txt, lyrics.srt
-├── character.md
 ├── storyboard.md
 ├── image.txt
 ├── prompt-animate.txt
