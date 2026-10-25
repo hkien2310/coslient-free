@@ -9,16 +9,19 @@
 
 ---
 
-## 1. Luật Kiểm Toán Đầu Ra `1-idea.md`
+## 1. Nhập Vai Khán Giả 45–85+ Đánh Giá Ý Tưởng (`Audience Roleplay`)
 
-### 1.1. Tiêu chuẩn bắt buộc (`[FATAL]`)
-- **Đúng cấu trúc `1-idea.md`:** Chỉ gồm tiêu đề và đúng 4 dòng (`Cảm xúc & Tâm tình`, `Câu chuyện & Thị trấn siêu thực`, `Chi tiết đắt giá`, `Câu chốt`).
-- **Công thức & Bối cảnh:** Kết hợp rõ `1 Sự kiện đời thường + 1 Tâm tình sâu kín` đặt trong một thị trấn kỳ lạ, siêu thực ấm áp mang đặc trưng riêng gắn với chủ đề; giữ trọn sự sống bình an cho mọi nhân vật.
-- **Chi tiết đắt giá:** Có các chi tiết hình ảnh, âm thanh, xúc giác cụ thể kết nối giữa đời thực và không gian siêu thực để làm chất liệu cho lời hát và bảng phân cảnh.
-- **Câu chốt:** Ngắn gọn bằng tiếng Việt, đúc kết ý nghĩa câu chuyện để làm hạt nhân cho câu `Hook` của bài hát.
-- **Độc bản so với kho dự án:** Đối chiếu `ref/idea-index.md` và `1-idea.md` của 3 dự án gần nhất để xác nhận sự kiện, tâm tình và nét siêu thực mới mẻ; cập nhật dự án mới vào `ref/idea-index.md` sau khi duyệt.
+- **Bạn đang đóng vai ai:** Một khán giả 45–85+ từng trải, giàu ký ức đời sống, yêu sự chân thật ấm áp và rất nhạy với những câu chuyện giả tạo hoặc sáo rỗng của AI.
+- **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
+  - **Độ chạm cảm xúc thật:** *"Khi nghe kể ý tưởng này, tôi có thấy bóng dáng cuộc đời, người thân hay nỗi niềm thật của mình trong đó không, hay chỉ là một câu chuyện bịa đặt sáo rỗng?"*
+  - **Sức hút của thị trấn siêu thực:** *"Nét kỳ lạ của thị trấn trong bài này có mọc ra tự nhiên từ câu chuyện và làm tôi tò mò muốn bước vào ngắm nhìn không?"*
+  - **Chất liệu giác quan:** *"Các chi tiết hình ảnh, âm thanh, xúc giác trong bài có đủ cụ thể, đời thường và gợi cảm giác ấm áp không?"*
+  - **Câu chốt đọng lại:** *"Câu chốt có làm tôi gật gù thấm thía và nhớ ngay được thông điệp của bài không?"*
 
-### 1.2. Đòn bẩy nâng cấp (`[HIGH RISK]` — Chọn lọc theo bài)
-- **Độ mở đồng cảm:** Tâm tình câu chuyện chạm được cả người đang có người thân bên cạnh lẫn người đang tận hưởng khoảng lặng hoặc hoài niệm ký ức.
-- **Chất liệu Âm thanh & Hình ảnh:** Trong `Chi tiết đắt giá` có âm thanh đặc trưng của bối cảnh để bước sau chuyển hóa thành `Signature Sound` trong nhạc và hình ảnh trên khung hình.
-- **Chuyển dịch không gian & ánh sáng:** Không gian thị trấn và ánh sáng vận động đồng điệu với mạch cảm xúc của nhân vật từ đầu đến cuối câu chuyện.
+---
+
+## 2. Kiểm Toán Chuẩn Đầu Ra (`1-idea.md` — `[FATAL]`)
+
+- **Đúng cấu trúc 4 dòng:** Chỉ gồm tiêu đề và đúng 4 dòng (`Cảm xúc & Tâm tình`, `Câu chuyện & Thị trấn siêu thực`, `Chi tiết đắt giá`, `Câu chốt`).
+- **Công thức cốt lõi & Bảo toàn sự sống:** Hội tụ đủ `1 Sự kiện đời thường + 1 Tâm tình sâu kín = 1 Câu chuyện` trong bối cảnh thị trấn siêu thực ấm áp; giữ trọn sự sống bình an cho mọi nhân vật.
+- **Độc bản so với kho dự án:** Đối chiếu `ref/idea-index.md` và `1-idea.md` của 3 dự án gần nhất để xác nhận sự kiện, tâm tình và nét siêu thực hoàn toàn mới; cập nhật dự án mới vào `ref/idea-index.md` sau khi duyệt.

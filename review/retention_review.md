@@ -9,32 +9,26 @@
 
 ---
 
-## 1. Kiểm Toán Kỹ Thuật Giữ Chân Người Xem (`Retention Audit` trên `storyboard.md`)
+## 1. Nhập Vai Khán Giả 45–85+ Xem Từng Giây Video (`Viewer Retention Roleplay`)
 
-### 1.1. Sáu kỹ thuật giữ chân bắt buộc kiểm tra (`[FATAL]` & `[HIGH RISK]`)
-- **1. Kiểm toán Hook 15 giây đầu (`0:00–0:15` / Cảnh 1–3 — `[FATAL]`):**
-  - Cảnh 1 mở ngay bằng hình ảnh thị trấn kỳ lạ bắt mắt nhất kèm 1 hành động đang bắt đầu có mục đích để tạo câu hỏi tò mò (*"Họ đang đi đâu / chuẩn bị làm gì?"*).
-  - Cảnh 2–3 thay đổi ngay cỡ cảnh, góc nhìn và bước tiến hành động (loại bỏ tình trạng đứng yên một chỗ hoặc lặp lại cùng một động tác chào hỏi ở các cảnh mở đầu).
-- **2. Kiểm toán Chuỗi tình huống Nhân-Quả 2–3 cảnh (`Micro-Arcs` — `[FATAL]`):**
-  - Các cảnh liên tiếp kết nối thành tình huống có đầu có đuôi (**Khởi phát hành động $\to$ Gặp gỡ / Tương tác $\to$ Phản ứng cảm xúc / Kết quả**), giữ người xem theo dõi từ cảnh này sang cảnh kế tiếp.
-  - Ý nghĩa câu hát và các chi tiết đắt giá từ `1-idea.md` được chuyển thành tình huống cụ thể khớp đúng mốc giờ câu hát vang lên.
-- **3. Kiểm toán Làm mới thị giác mỗi đoạn nhạc (`Pattern Interrupt` mỗi 20–30 giây — `[FATAL]`):**
-  - Mỗi khi bước sang đoạn nhạc mới (`Verse`, `Chorus`, `Solo`, `Bridge`), kịch bản mở khóa một góc không gian/nét siêu thực mới của thị trấn hoặc thay đổi mạnh quy mô khung hình (từ góc hẹp trong nhà/xe mở rộng ra toàn cảnh thị trấn, hoặc ngược lại) để chống rơi rụng người xem ở giữa bài.
-- **4. Kiểm toán Đảo nhịp liên cảnh ($N \to N+1$ — `[FATAL]`):**
-  - Mọi cặp cảnh liền kề ($N \to N+1$) khác nhau rõ rệt về bối cảnh, cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; có nhịp thở đan xen hợp lý giữa cảnh có người tương tác và cảnh tĩnh vật/không gian (`B-roll`).
-- **5. Kiểm toán Gieo – Gặt chi tiết (`Setup & Payoff` — `[HIGH RISK]`):**
-  - Đạo cụ, chi tiết hoặc nhân vật được gieo ở đầu/giữa bài có sự kết nối và hoàn thành ý nghĩa ấm áp ở nửa cuối bài.
-- **6. Kiểm toán Đỉnh cảm xúc & Dư âm kết bài (`Peak-End Rule` — `[FATAL]`):**
-  - Đặt khung hình thị trấn siêu thực đắt giá nhất và khoảnh khắc tình người xúc động nhất tại `Bridge / Chorus cuối` (70–85% thời lượng video), sau đó lắng dịu và khép vòng trọn vẹn với mở đầu tại `Outro`.
+- **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem MV. Bạn rất dễ bấm thoát (`Back`) ngay khi thấy hình ảnh nhàm chán, khó nhìn, đứng yên một chỗ hoặc lặp đi lặp lại một kiểu hành động xã giao vô nghĩa.
+- **Mô phỏng trải nghiệm xem từ `0:00` đến hết bài (Chỉ rõ cảnh nào làm người xem chán/muốn thoát):**
+  - **1. Phản ứng ở 15 giây đầu (`0:00–0:15` / Cảnh 1–3 — Quyết định ở lại hay thoát):**
+    - *"Khi vừa mở video lên ở Cảnh 1, mắt tôi có lập tức bị hút bởi **một cảnh tượng thị trấn siêu thực bắt mắt** HOẶC **một hành động/tình huống kỳ lạ, khó hiểu** làm tôi phải tự hỏi 'Ủa chuyện gì đang xảy ra thế? Họ đang làm cái gì vậy?' không?"*
+    - *"Sang Cảnh 2–3, góc máy và hành động có tiến triển ngay để giải đáp dần sự tò mò đó không, hay nhân vật cứ đứng yên một chỗ vẫy tay/cười xã giao làm tôi chán và bấm thoát?"*
+  - **2. Phản ứng qua từng cụm 2–3 cảnh (`Chuỗi Nhân-Quả Micro-Arcs`):**
+    - *"Xem cảnh $N$, tôi có thấy một hành động đang diễn ra dở dang khiến tôi muốn xem tiếp cảnh $N+1, N+2$ để biết kết quả của cuộc tương tác đó không, hay các cảnh bị rời rạc, vô hồn?"*
+  - **3. Phản ứng ở giữa video (`Phút 1:00–3:00` — Chống rơi rụng giữa bài):**
+    - *"Mỗi khi bài hát chuyển sang đoạn mới (`Verse`, `Chorus`, `Solo`, `Bridge`), mắt tôi có được thưởng thức một góc không gian/nét siêu thực mới của thị trấn hoặc một cỡ cảnh mở rộng mới mẻ không, hay bị kẹt mãi ở một góc nhìn lặp đi lặp lại?"*
+    - *"Cảnh có đang diễn tả sống động tình huống của lời bài hát lúc đó không, hay chỉ minh họa máy móc từng chữ?"*
+  - **4. Phản ứng ở cao trào & Kết thúc (`Bridge / Chorus cuối / Outro`):**
+    - *"Đến nửa cuối bài, chi tiết gieo từ đầu bài có được gặt lại ấm áp (`Setup & Payoff`) và có một khoảnh khắc hình ảnh + tình người đắt giá nhất làm tôi xúc động muốn bấm Like trước khi video khép lại êm đềm ở `Outro` không?"*
 
 ---
 
-## 2. Kiểm Toán Đầu Ra Kỹ Thuật Hình Ảnh (`character.md`, `storyboard.md` & `image.txt` — `[FATAL]`)
+## 2. Kiểm Toán Chuẩn Đầu Ra & Kỹ Thuật Hình Ảnh (`character.md`, `storyboard.md` & `image.txt` — `[FATAL]`)
 
-- **Đồng bộ 1:1 dòng & mốc giờ:** `storyboard.md` và `image.txt` khớp 1:1 số dòng, mốc giờ và nội dung cảnh với `timestamps.txt`; nhân vật cố định trong `character.md` đồng nhất ngoại hình xuyên suốt các cảnh, các nhân vật khác nhau có ngoại hình và màu trang phục phân biệt rõ.
-- **Tối giản & Hành động ở giây 0 (`t = 0s`):** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng; mỗi nhân vật thực hiện 1 hành động rõ ràng ở giây 0 làm đà cho chuyển động một chiều.
-- **Cỡ cảnh & Tỷ lệ vật lý:**
-  - Dùng cỡ bán thân hoặc trung cận khi nhân vật ở trong không gian có vách che phần dưới hoặc khi lấy cận biểu cảm.
-  - Dùng cỡ toàn thân thấy đủ trang phục đến giày chạm sàn/đất khi nhân vật ở không gian mở hoặc phòng rộng.
-  - Nhà cửa và phương tiện có kích thước thật cao lớn hơn đầu người.
-- **Khung câu lệnh 4 khối & Ánh sáng (`image.txt`):** Khớp chuẩn 4 khối tiếng Anh tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa cuối dòng bằng 1 nguồn sáng duy nhất chiếu 1 hướng bóng đổ (`--ar 16:9`).
+- **Đồng bộ 1:1 dòng & mốc giờ:** `storyboard.md` và `image.txt` khớp 1:1 số dòng, mốc giờ và nội dung cảnh với `timestamps.txt`; nhân vật cố định trong `character.md` đồng nhất ngoại hình xuyên suốt, các nhân vật khác nhau phân biệt rõ ngoại hình và màu trang phục.
+- **Đảo nhịp liên cảnh ($N \to N+1$) & Hành động giây 0:** Hai cảnh sát nhau khác nhau về bối cảnh, cỡ cảnh, góc máy và hành động; mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, nhân vật thực hiện 1 hành động rõ ràng ở giây 0 (`t = 0s`).
+- **Cỡ cảnh & Tỷ lệ vật lý:** Dùng cỡ bán thân/trung cận khi có vách che phần dưới hoặc lấy cận biểu cảm; dùng cỡ toàn thân thấy đủ trang phục đến giày chạm sàn/đất khi ở không gian mở hoặc phòng rộng; nhà cửa và phương tiện cao lớn hơn đầu người.
+- **Chuẩn câu lệnh 4 khối & Ánh sáng (`image.txt`):** Khớp chuẩn 4 khối tiếng Anh tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa cuối dòng bằng 1 nguồn sáng duy nhất chiếu 1 hướng bóng đổ (`--ar 16:9`).

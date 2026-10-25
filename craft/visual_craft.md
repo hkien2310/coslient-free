@@ -24,9 +24,10 @@
 
 ## 2. Luật Kịch Bản & Kỹ Thuật Giữ Chân Người Xem (`storyboard.md`)
 
-- **1. Hook 15 giây đầu (`0:00–0:15` / Cảnh 1–3 — Tạo câu hỏi tò mò):**
-  - Cảnh 1 mở ngay bằng hình ảnh thị trấn siêu thực bắt mắt nhất (khớp lời hứa ở Tiêu đề/Thumbnail) kèm một hành động đang khởi phát có mục đích để người xem tự hỏi *"Chuyện gì sắp xảy ra?"*.
-  - Cảnh 2–3 đổi ngay cỡ cảnh và góc nhìn để đi sâu vào hành động đó, tạo đà cuốn người xem vào câu chuyện.
+- **1. Hook 15 giây đầu (`0:00–0:15` / Cảnh 1–3) — Chọn 1 trong 2 cách (hoặc kết hợp):**
+  - **Cách 1 — Bắt mắt / Choáng ngợp:** Mở ngay bằng khung cảnh thị trấn siêu thực kỳ lạ, ấn tượng nhất (khớp lời hứa ở Tiêu đề/Thumbnail).
+  - **Cách 2 — Gây tò mò / Khó hiểu:** Mở ngay bằng một hành động hoặc tình huống kỳ lạ đang diễn ra lưng chừng khiến người xem phải tự hỏi *"Ủa họ đang làm cái gì thế? Chuyện gì đang xảy ra ở đây?"*.
+  - Cảnh 2–3 đổi ngay cỡ cảnh và góc nhìn để đi sâu vào hành động đó, giữ người xem ở lại tìm câu trả lời.
 - **2. Chuỗi tình huống Nhân-Quả 2–3 cảnh (`Micro-Arcs`):** Gom các cảnh liên tiếp thành từng cụm tình huống nhỏ có diễn biến: **Khởi phát hành động $\to$ Gặp gỡ / Tương tác $\to$ Phản ứng cảm xúc / Kết quả** để người xem luôn muốn xem cảnh tiếp theo.
 - **3. Làm mới thị giác mỗi khi chuyển đoạn nhạc (`Pattern Interrupt` mỗi 20–30 giây):** Mỗi khi sang đoạn nhạc mới (`Intro`, `Verse`, `Chorus`, `Solo`, `Bridge`), mở khóa một góc không gian/nét kỳ diệu mới của thị trấn hoặc đổi quy mô khung hình (từ góc hẹp ấm cúng mở bừng ra đại cảnh thoáng rộng, hoặc ngược lại) để giữ sự chú ý giữa bài.
 - **4. Đảo nhịp liên cảnh ($N \to N+1$):** Hai cảnh sát nhau khác nhau rõ rệt về bối cảnh, cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), góc máy và hành động; đan xen hợp lý giữa cảnh có người tương tác và cảnh tĩnh vật/không gian (`B-roll`) theo nhịp nhạc.

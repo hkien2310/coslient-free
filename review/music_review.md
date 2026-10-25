@@ -7,21 +7,22 @@
 >   2. Không dùng phủ định.
 >   3. Tuyệt đối không viết Use Case mà phải đúc kết thành Rule.
 
-## 1. Luật Kiểm Toán Đầu Ra `2-music.md` & `3-lyrics.txt`
+## 1. Nhập Vai Người Nghe 45–85+ Đánh Giá Bài Hát (`Listener Roleplay`)
 
-### 1.1. Tiêu chuẩn bắt buộc (`[FATAL]`)
-- **Định dạng đầu ra:**
-  - **`2-music.md`:** Có đủ Tên bài, `Style prompt` (4 khối ngăn cách bằng `;`), `Exclude` và `Lyrics` kèm thẻ điều phối `[...]`.
-  - **`3-lyrics.txt` (Chuẩn DistroKid):** Khớp 1:1 lời hát thực tế với `2-music.md`; chỉ giữ lời hát, viết hoa đầu dòng, mỗi dòng 1 câu đơn, bỏ thẻ `[...]`, bỏ dấu câu cuối dòng, ghi đủ các khổ lặp lại, cách khổ 1 dòng trống.
-  - **Đồng bộ tên bài & Câu Hook:** Tên bài và câu `Hook` đồng bộ 1:1 giữa `1-idea.md`, `2-music.md`, `3-lyrics.txt` và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md).
-- **Kiểm toán Phần Lời (`Lyrics`):**
-  - **Ý niệm & Kể chuyện:** Kể chuyện tự nhiên qua các chi tiết đời sống từ `1-idea.md`, để cảm xúc tự thấm qua mạch truyện.
-  - **Dùng từ & Hình ảnh:** Dùng từ vựng tiếng Anh đời thường giản dị, gắn cảm xúc với sự vật cụ thể; tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md), [`humanizer`](../.agents/skills/humanizer/SKILL.md), [`stop-slop`](../.agents/skills/stop-slop/SKILL.md) và [`avoid-ai-writing`](../.agents/skills/avoid-ai-writing/SKILL.md).
-  - **Nhịp câu & Gieo vần:** Mỗi dòng hát gọn vừa một hơi thở tự nhiên, dễ hát liền hơi; gieo vần tự nhiên hợp mạch tự sự và làm mới cặp từ vần so với các bài gần nhất.
-- **Kiểm toán Phần Nhạc & Kỹ thuật Suno (`Style prompt` & Thẻ `[...]`):**
-  - **`Style prompt` 4 khối `;`:** Khớp cảm xúc với `1-idea.md`, lấy `Acoustic Folk` làm gốc, ghi rõ BPM/nhịp/điệu thức, lớp nhạc cụ nền + giai điệu ngân dài + nhạc cụ định danh (`Signature Sound` gắn với bối cảnh `1-idea.md`), không gian thu mộc và màu giọng thu gần mic.
-  - **Thẻ điều phối `[...]`:** Sắp xếp linh hoạt các phân đoạn hợp mạch bài (cân đối giữa lời hát và nhạc dạo), đầu mỗi đoạn có thẻ `[Tên đoạn: Nhạc cụ / Signature Sound, Giọng hát, Sắc thái]`, kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ dùng cho tiếng ngân/bè phát ra tiếng.
+- **Bạn đang đóng vai ai:** Một người nghe nhạc 45–85+ đang bật loa TV/iPad tìm kiếm sự đồng cảm và thư giãn; tai nhạy cảm với âm thanh chói gắt/ồn ào, yêu chất nhạc Folk mộc mạc và lời ca giản dị, chân thật.
+- **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
+  - **Cảm giác khi nghe lời hát:** *"Lời bài hát này nghe có tự nhiên như một người bạn già đang thủ thỉ kể chuyện đời thường không, hay nghe sượng trân, hoa mỹ sáo rỗng kiểu văn mẫu AI?"*
+  - **Độ bắt tai của Tên bài & Câu Hook:** *"Nghe xong 1 lần, tôi có thuộc và nhẩm lại được câu đinh (`Hook`) ở điệp khúc không?"*
+  - **Độ dễ hát & Nhịp thở:** *"Đọc to từng dòng lời lên, câu chữ có ngắn gọn, êm tai và vừa một hơi thở tự nhiên không, hay bị dài dòng làm ca sĩ hát líu lưỡi?"*
+  - **Trải nghiệm thính giác & `Signature Sound`:** *"Bản phối thiết kế trong `Style prompt` và các thẻ `[...]` có tạo ra không gian mộc mạc ấm áp, có khoảng nghỉ nhạc dạo để thở và có 1 âm thanh đặc trưng (`Signature Sound`) của thị trấn làm tôi nhớ mãi không?"*
 
-### 1.2. Đòn bẩy nâng cấp (`[HIGH RISK]` — Chọn lọc theo bài)
-- **Phối giọng linh hoạt:** Đối đáp Nam – Nữ hoặc giọng thứ hai bước vào ở nửa sau bài hợp với câu chuyện.
-- **Điểm nhấn `Signature Sound` & Cao trào:** Nhạc cụ định danh hoặc tiếng ngân con người xuất hiện đúng điểm nhấn ở `Intro`, đoạn dạo và `Outro`; nâng cảm xúc ở điệp khúc cuối rồi lắng mộc ở câu kết.
+---
+
+## 2. Kiểm Toán Chuẩn Đầu Ra (`2-music.md` & `3-lyrics.txt` — `[FATAL]`)
+
+- **Đúng định dạng & Đồng bộ 1:1:**
+  - `2-music.md` có đủ Tên bài, `Style prompt` (4 khối ngăn cách bằng `;`), `Exclude` và `Lyrics` kèm thẻ `[...]`.
+  - `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát với `2-music.md` (chỉ giữ lời hát, viết hoa đầu dòng, mỗi dòng 1 câu đơn, bỏ thẻ `[...]`, bỏ dấu câu cuối dòng, ghi đủ các khổ lặp lại, cách khổ 1 dòng trống).
+  - Tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md).
+- **Sạch từ cấm & Văn phong AI:** Tuân thủ tuyệt đối [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md), [`humanizer`](../.agents/skills/humanizer/SKILL.md), [`stop-slop`](../.agents/skills/stop-slop/SKILL.md) và [`avoid-ai-writing`](../.agents/skills/avoid-ai-writing/SKILL.md); làm mới cặp từ vần so với các bài gần nhất.
+- **Chuẩn Kỹ thuật Suno:** Đầu mỗi đoạn có thẻ `[Tên đoạn: Nhạc cụ / Signature Sound, Giọng hát, Sắc thái]`, kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ chứa tiếng ngân/bè phát ra tiếng.
