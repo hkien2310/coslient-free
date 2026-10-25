@@ -19,9 +19,9 @@
    - Định danh file gốc (`[story-clause-slug].mp4` và `[story-clause-slug]-thumbnail.jpg`) đồng bộ trực tiếp với mệnh đề tiêu đề chính.
 
 2. **Bộ 3 Prompt Poster Thumbnail đối lập quy mô và chuẩn Khung 4 khối Stop-Motion (`Three-Angle Iconic Poster Prompts & Stylized Mold Integrity`):**
-   - Xuất đầy đủ **3 câu lệnh tiếng Anh 4 khối trực quan hoàn chỉnh** (`--ar 16:9`) đại diện cho 3 góc tiếp cận Poster điện ảnh rõ nét:
-     1. **Prompt 1 (`Poster Điểm Nhìn Chân Trời`):** Khung hình rộng trên điểm tựa địa hình cao thoáng với khoảng trời mở rộng (`expansive scenic focus with generous open negative space`).
-     2. **Prompt 2 (`Poster Ánh Sáng & Hành Trình Đồng Hành`):** Khung hình toàn cảnh khai thác khoảnh khắc đồng hành dưới ánh sáng vàng ấm hoặc chạng vạng giữa không gian mô hình rộng lớn.
+   - Xuất đầy đủ **3 câu lệnh tiếng Anh 4 khối trực quan hoàn chỉnh** (`--ar 16:9`) đại diện cho 3 góc tiếp cận Poster điện ảnh rõ nét mọc ra từ câu chuyện bài hát:
+     1. **Prompt 1 (`Poster Không Gian Thơ Mộng & Câu Chuyện`):** Khung hình rộng hoặc trung-rộng đặt các nhân vật sống và tương tác tự nhiên bên trong không gian đặc trưng nhất của bài hát với khoảng thở thoáng rộng (`expansive scenic focus with generous open negative space`).
+     2. **Prompt 2 (`Poster Ánh Sáng & Hành Trình Đồng Hành`):** Khung hình toàn cảnh hoặc rộng khai thác khoảnh khắc đồng hành, làm việc hoặc sẻ chia dưới ánh sáng vàng ấm hoặc chạng vạng giữa không gian mô hình.
      3. **Prompt 3 (`Poster Khoảnh Khắc Gắn Kết Đắt Giá`):** Khung hình bán thân hoặc trung-rộng đặt trước hậu cảnh mờ dịu (`softly blurred warm background`), bắt trọn cử chỉ trao-nhận tình cảm sâu sắc nhất giữa các nhân vật.
    - Cả 3 câu lệnh Thumbnail đều tuân thủ trọn vẹn chuẩn thế giới Stop-Motion tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md) và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5): mở đầu bằng `Handcrafted stop-motion animation film still set in a warm poetic surreal town... harmonious character-to-object scale`, khóa phôi tạo hình thanh mảnh liền khối (`matte paper-pulp skin, soft rounded noses, slender elongated proportions`), tóc sợi bông phủ kín đỉnh đầu, mô tả nhân vật 4 trục tinh gọn phù hợp cỡ cảnh và khóa cuối bằng một nguồn sáng duy nhất.
 
@@ -62,7 +62,7 @@ Trước khi tạo ảnh Thumbnail và xuất bản dự án, thực hiện ki�
 
 ### Bước 2: Thẩm định từng phần theo 5 Cổng `[FATAL]` (`Empirical SEO Stress Test`)
 - **Cổng 1 (`FILE NAME` & `TITLE`):** Đếm số ký tự Title (`<70 ký tự`), kiểm tra mệnh đề câu chuyện nằm ở phần đầu tiêu đề, vận dụng khuôn mẫu đồng cảm và khớp trung thực với nội dung bài hát.
-- **Cổng 2 (`3 PROMPTS THUMBNAIL`):** Kiểm tra đủ 3 góc độ Poster (`Horizon`, `Journey`, `Soulful Connection`), đúng cú pháp 4 khối Stop-Motion, phôi tạo hình liền khối thanh mảnh, khoảng thở không gian thoáng rộng và tuân thủ danh mục vật liệu tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
+- **Cổng 2 (`3 PROMPTS THUMBNAIL`):** Kiểm tra đủ 3 góc độ Poster (`Poetic World & Story`, `Journey`, `Soulful Connection`), đúng cú pháp 4 khối Stop-Motion, phôi tạo hình liền khối thanh mảnh, khoảng thở không gian thoáng rộng và tuân thủ danh mục vật liệu tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
 - **Cổng 3 (`DESCRIPTION`):** Kiểm tra đủ 4 trụ cột, giọng văn thư tay tự nhiên chuẩn [`humanizer`](../.agents/skills/humanizer/SKILL.md), đủ 3 liên kết nền tảng (`Spotify`, `Apple Music`, `Bandcamp`), lời bài hát khớp 100% và đủ 6 hashtags.
 - **Cổng 4 (`TAGS`):** Kiểm tra các cụm từ khóa riêng chia đều vào 3 tầng (Tâm lý 55-85+, Nhạc cụ Folk thực tế, Không gian/Mỹ học).
 - **Cổng 5 (`PINNED COMMENT`, `SHORTS` & `PLAYLISTS/DISTROKID/BANDCAMP`):** Kiểm tra câu hỏi mở ký ức, mốc thời gian Shorts (<30s) và việc đồng bộ thông tin phân phối chính xác vào cả `ref/distrokid.md` lẫn `ref/bandcamp.md`.
@@ -70,7 +70,7 @@ Trước khi tạo ảnh Thumbnail và xuất bản dự án, thực hiện ki�
 ### Bước 3: Bảng đối soát 5 tiêu chuẩn và Phán quyết (`Pre-Publish SEO Sign-Off`)
 Xác nhận `6-seo.md` đạt trọn vẹn 5 tiêu chuẩn trước khi xuất bản:
 - **Chỉ số 1 (Chuẩn `Title <70 ký tự` đặt câu chuyện lên đầu & File Name đồng bộ):** Ngắn gọn, hiển thị trọn vẹn, trung thực nội dung và đúng khuôn mẫu tâm lý 45-85+.
-- **Chỉ số 2 (Bộ 3 Prompt Poster Thumbnail đối lập quy mô & Chuẩn 4 khối Stop-Motion):** Đủ 3 góc Poster điện ảnh, bảo toàn toàn thân nhân vật 3 tầng trang phục và 1 nguồn sáng duy nhất.
+- **Chỉ số 2 (Bộ 3 Prompt Poster Thumbnail đối lập quy mô & Chuẩn 4 khối Stop-Motion):** Đủ 3 góc Poster điện ảnh mọc ra từ câu chuyện, phôi tạo hình liền khối tương thích cỡ cảnh và 1 nguồn sáng duy nhất.
 - **Chỉ số 3 (Description đủ 4 trụ cột, văn phong thư tay con người & Lyrics khớp 1:1):** Tự nhiên, ấm áp, đúng mốc thời gian, đủ link 3 nền tảng và chuẩn văn phong con người.
 - **Chỉ số 4 (Ma trận Tags phủ đủ 3 tầng ngữ nghĩa):** Đủ cả từ khóa tâm lý tuổi già, nhạc cụ mộc và không gian bài hát.
 - **Chỉ số 5 (Hoàn chỉnh Pinned Comment, Shorts & Phân phối Playlist/DistroKid/Bandcamp):** Khớp 1:1 và đã cập nhật vào danh mục hệ thống.
