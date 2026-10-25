@@ -16,7 +16,7 @@
   - **1. Cảnh mở đầu (Cảnh 1 $\to$ 2 $\to$ 3):** Cảnh 1 có lập tức **bắt mắt/choáng ngợp** HOẶC **gây tò mò/khó hiểu** (*"Ủa chuyện gì đang xảy ra thế?"*) không? Chuyển sang Cảnh 2 và 3 có nối tiếp mượt mà để dẫn người xem vào câu chuyện không?
   - **2. Xuyên suốt từng cặp `Cảnh N -> Cảnh N+1`:** Với mỗi bước chuyển, trả lời trực diện 3 câu hỏi:
     - **Có mượt mà không?** (Cắt từ Cảnh $N$ sang Cảnh $N+1$ có tự nhiên, liền mạch theo câu chuyện và khớp với cảm xúc câu hát đang vang lên không, hay bị giật cục, rời rạc vô lý?).
-    - **Còn giữ được tôi xem tiếp không? Vì sao?** (Cảnh $N+1$ có đẩy hành động tiến thêm một bước mới `Khởi phát -> Tương tác -> Kết quả` hoặc mở ra góc nhìn mới thú vị không, hay lặp lại đúng kiểu đứng/vẫy tay của cảnh trước làm tôi chán bấm thoát?).
+    - **Còn giữ được tôi xem tiếp không? Vì sao?** (Mỗi bức ảnh có nói lên được trạng thái cảm xúc và ý nghĩa câu chuyện của nhân vật không, và khi sang Cảnh $N+1$ có mở ra một góc nhìn/không gian cảm xúc mới mẻ thay vì lặp lại các bước hành động vặt vãnh tại cùng một chỗ làm tôi chán bấm thoát?).
     - **Đến cuối bài có đọng lại cảm xúc không?** (Các cảnh cuối có gặt lại trọn vẹn câu chuyện từ đầu bài và chạm đến đỉnh cảm xúc làm tôi muốn bấm Like không?).
 
 ---

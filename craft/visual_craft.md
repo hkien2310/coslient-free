@@ -27,10 +27,10 @@
 - **1. Hook mở màn (Cảnh 1–3) — Chọn 1 trong 2 cách (hoặc kết hợp):**
   - **Cách 1 — Bắt mắt / Choáng ngợp:** Mở ngay bằng khung cảnh thị trấn siêu thực kỳ lạ, ấn tượng nhất (khớp lời hứa ở Tiêu đề/Thumbnail).
   - **Cách 2 — Gây tò mò / Khó hiểu:** Mở ngay bằng một hành động hoặc tình huống kỳ lạ đang diễn ra lưng chừng khiến người xem tự hỏi *"Ủa họ đang làm cái gì thế? Chuyện gì đang xảy ra ở đây?"*.
-- **2. Mạch nối tiếp mượt mà từng cảnh (`[Cảnh N + Câu hát N] -> [Cảnh N+1 + Câu hát N+1]`):**
-  - Người xem chỉ trải nghiệm cảnh hiện tại nối với cảnh ngay trước đó: từ Cảnh $N$ sang Cảnh $N+1$ phải nối tiếp mượt mà về mặt không gian, cảm xúc câu hát và tiến triển hành động (**Khởi phát $\to$ Tương tác $\to$ Kết quả**) để giữ người xem ở lại xem cảnh kế tiếp.
-  - Chuyển ý nghĩa và cảm xúc của câu hát đang vang lên thành tình huống cụ thể (đặt đúng các chi tiết đắt giá của `1-idea.md` vào mốc giờ tương ứng).
-- **3. Đảo nhịp liên cảnh ($N \to N+1$) & Mở khóa không gian:** Cảnh $N+1$ phải khác Cảnh $N$ về cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận), độ cao góc máy (Góc thấp hất lên $\leftrightarrow$ Góc cao nhìn xuống $\leftrightarrow$ Góc qua vai POV $\leftrightarrow$ Góc xuyên khung tiền cảnh) và hành động; liên tục mở ra các góc nhìn/nét kỳ diệu mới của thị trấn, kết hợp hài hòa giữa các cảnh động giàu tương tác sống động với những cảnh lắng đọng có bố cục tuyệt đẹp nơi nhân vật thực hiện hành động mang chiều sâu nội tâm và chiêm nghiệm không gian.
+- **2. Trọng tâm Cảm xúc & Ý nghĩa trong từng Khung hình (`[Cảnh N + Câu hát N]`):**
+  - Mỗi bức ảnh phải tự nói lên được **trạng thái cảm xúc và ý nghĩa câu chuyện** của nhân vật ở khoảnh khắc đó (niềm vui háo hức khi mang quà đi sẻ chia, sự nhẹ nhõm biết ơn khi được kiên nhẫn đợi chờ, sự ấm áp khi tâm tình cùng bạn già, vẻ tĩnh tại khi ngắm nhìn thiên nhiên), truyền tải trực tiếp cái hồn của câu hát đang vang lên.
+- **3. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
+  - Mỗi cảnh là một lát cắt cảm xúc trọn vẹn; khi chuyển từ Cảnh $N$ sang Cảnh $N+1$ phải chuyển sang vị trí không gian/điểm nhìn mới, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và đổi độ cao góc máy (Góc thấp hất lên $\leftrightarrow$ Góc cao nhìn xuống $\leftrightarrow$ Góc qua vai POV $\leftrightarrow$ Góc xuyên khung tiền cảnh), liên tục mở ra các khung cảnh kỳ diệu mới của thị trấn.
 - **4. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
 
 ---
@@ -40,7 +40,7 @@
 - **Luật Siêu thực:** Nét kỳ lạ, siêu thực của thị trấn mọc ra từ câu chuyện của bài hát; nhân vật sống và sinh hoạt bên trong không gian đó.
 - **Luật Tối giản:** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, có thể xóa phông hậu cảnh khi cần làm nổi bật chủ thể.
 - **Luật Đa dạng & Chiều sâu Điện ảnh:** Luân phiên đa dạng góc độ cao-thấp của máy quay (góc thấp hất lên, góc cao nhìn xuống, góc nhìn qua vai, góc chéo dọc chiều sâu, góc nhìn xuyên qua tiền cảnh) cùng bố cục nhiều lớp tiền-trung-hậu cảnh và cỡ cảnh; mỗi nhân vật có ngoại hình và màu trang phục riêng.
-- **Luật Lát cắt Sống động:** Mỗi khung hình là một lát cắt cuộc sống tự nhiên bắt trọn khoảnh khắc con người và phương tiện đang vận động hoặc tương tác tâm tình giữa dòng chảy đời thường.
+- **Luật Cảm xúc & Ý nghĩa:** Mỗi khung hình đặt trạng thái nội tâm, ánh mắt, nụ cười và ý nghĩa của sự gắn kết giữa người với người làm trung tâm, nơi hành động là sự bộc lộ cảm xúc tự nhiên giữa đời sống.
 - **Luật Cỡ cảnh & Tỷ lệ vật lý:**
   - Dùng cỡ bán thân hoặc trung cận khi nhân vật ở trong không gian có vách che phần dưới hoặc khi lấy cận biểu cảm.
   - Dùng cỡ toàn thân thấy đủ trang phục đến giày chạm sàn/đất khi nhân vật ở không gian mở hoặc phòng rộng.
