@@ -14,26 +14,34 @@
 - **Đầu vào:** `1-idea.md`, `3-lyrics.txt` và `timestamps.txt`.
 - **Đầu ra:**
   - **`character.md`:** Danh sách nhân vật cố định viết bằng `@Tên` kèm mô tả ngoại hình (nếu có). Nhân vật xuất hiện lẻ ở cảnh nào thì tả trực tiếp ở cảnh đó.
-  - **`storyboard.md`:** Bảng mạch chuyện bằng chữ khớp 1:1 số dòng và mốc giờ với `timestamps.txt` theo 4 cột (duyệt xong dịch 1:1 sang `image.txt` theo [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)):
+  - **`storyboard.md`:** Triển khai theo **Quy trình 2 Tầng (`Quy hoạch Đại Cảnh` $\to$ `Triển khai Tiểu Cảnh`)** khớp 1:1 số dòng và mốc giờ với `timestamps.txt` (duyệt xong dịch 1:1 sang `image.txt` theo [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md)):
+    1. **Phần 1 — Quy hoạch Đại Cảnh theo Phân đoạn nhạc (`Macro-Sequence Blueprint`):** Xác lập mục tiêu cảm xúc, cách tổ chức không gian/nhân vật và điểm `Hook / Mini-Hook` cho từng phân đoạn (`Intro`, `Verse`, `Pre-Chorus`, `Chorus`, `Vocalise / Interlude`, `Bridge`, `Outro`).
+    2. **Phần 2 — Bảng Tiểu Cảnh (`Micro-Scenes`):**
 
-| Cảnh & Giờ | Đoạn nhạc & Lời hát | Thông số đạo diễn (Cỡ, Góc, Bối cảnh, Chuyển động) | Nhân vật, Khoảnh khắc hành động & Ánh sáng |
+| Cảnh & Giờ | Đoạn nhạc & Lời hát | Vai trò Giữ chân, Lý do nối cảnh & Thông số (Cỡ, Góc, Bối cảnh, Chuyển động) | Nhân vật, Khoảnh khắc hành động & Ánh sáng |
 | :--- | :--- | :--- | :--- |
-| 01 (00:00-00:04) | [Lời hát / Nhạc] | Cỡ: [...]<br>Góc: [...]<br>Bối cảnh: [...]<br>Chuyển động: [Hướng máy + Diễn biến hành động + Cảm xúc cảnh] | [Mô tả nhân vật + Biểu cảm, dáng điệu & khoảnh khắc hành động đang diễn ra + Ánh sáng] |
+| 01 (00:00-00:04) | [Lời hát / Nhạc] | Vai trò & Nối cảnh: [Hook / Mini-Hook / Bồi tiếp Cảnh trước như thế nào & Tại sao]<br>Cỡ: [...] \| Góc: [...]<br>Bối cảnh: [...]<br>Chuyển động: [Hướng máy + Diễn biến hành động + Cảm xúc cảnh] | [Mô tả nhân vật + Biểu cảm, dáng điệu & khoảnh khắc hành động đang diễn ra + Ánh sáng] |
 
 ---
 
-## 2. Luật Kịch Bản & Kỹ Thuật Giữ Chân (`storyboard.md`)
+## 2. Quy Trình Thực Chiến 2 Tầng & Kỹ Thuật Giữ Chân (`storyboard.md`)
 
-- **1. Chuyển hóa Lời tâm sự (`I – You`) thành Thế giới Hình ảnh đa chiều:**
-  - Từ lời hát tâm tình một ngôi kể (`I – You`) trong `3-lyrics.txt` và bối cảnh thị trấn siêu thực trong `1-idea.md`, bảng phân cảnh `storyboard.md` linh hoạt triển khai thành một tuyến nhân vật xuyên suốt hoặc mở rộng thành chuỗi lát cắt đa nhân vật (mỗi cảnh một con người, một góc đời sống riêng trong thị trấn) cùng soi chiếu và làm sống dậy cảm xúc của câu hát đang vang lên.
-- **2. Hook mở màn (Cảnh 1–3) — Chọn 1 trong 2 cách (hoặc kết hợp):**
-  - **Cách 1 — Bắt mắt / Choáng ngợp:** Mở ngay bằng khung cảnh thị trấn siêu thực kỳ lạ, ấn tượng nhất (khớp lời hứa ở Tiêu đề/Thumbnail).
-  - **Cách 2 — Gây tò mò / Khó hiểu:** Mở ngay bằng một hành động hoặc tình huống kỳ lạ đang diễn ra lưng chừng khiến người xem tự hỏi *"Ủa họ đang làm cái gì thế? Chuyện gì đang xảy ra ở đây?"*.
-- **3. Trọng tâm Cảm xúc & Ý nghĩa trong từng Khung hình (`[Cảnh N + Câu hát N]`):**
-  - Mỗi bức ảnh phải tự nói lên được **trạng thái cảm xúc và ý nghĩa câu chuyện** của nhân vật ở khoảnh khắc đó, truyền tải trực tiếp cái hồn của câu hát đang vang lên.
-- **4. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
-  - Mỗi cảnh là một lát cắt cảm xúc trọn vẹn; khi chuyển từ Cảnh $N$ sang Cảnh $N+1$ phải chuyển sang vị trí không gian/điểm nhìn mới, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và luân phiên đổi độ cao góc máy (Góc ngang tầm mắt `Eye-level` $\leftrightarrow$ Góc thấp hất lên `Low-angle` $\leftrightarrow$ Góc cao nhìn xuống `High-angle` $\leftrightarrow$ Góc qua vai `Over-the-shoulder POV` $\leftrightarrow$ Góc xuyên khung tiền cảnh `Framed-through`), liên tục mở ra các khung cảnh kỳ diệu mới của thị trấn.
-- **5. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
+- **1. Tầng 1 — Chia Đại Cảnh theo Phân đoạn Nhạc (`Macro-Blocks`):**
+  - Mỗi phân đoạn bài hát là một Đại Cảnh mang một nhiệm vụ giải quyết vấn đề giữ chân rõ ràng:
+    - **`Intro` (Hook tổng lực):** Gây ấn tượng thị giác mạnh mẽ và đánh thức trí tò mò ngay giây đầu tiên để giữ người nghe và người xem ở lại.
+    - **`Verse 1` (Khởi phát câu chuyện):** Mở lời bằng hình ảnh trả lời sự tò mò của `Intro` và dẫn dắt người xem vào tâm tình chủ đạo.
+    - **`Pre-Chorus` (Đà nâng năng lượng):** Chuyển dịch không gian và nhịp điệu để tích lũy sự háo hức trước điểm bùng nổ.
+    - **`Chorus` (Bung mở thế giới & Thông điệp):** Mở rộng biên độ thị giác của thị trấn siêu thực, lan tỏa cảm xúc của câu `Hook` qua nhiều góc nhìn và con người.
+    - **`Verse 2` (Đổi mới không gian & Giữ nhịp giữa bài):** Mở ra bối cảnh mới và hoạt động tương tác mới để làm tươi mới trải nghiệm thị giác.
+    - **`Vocalise / Interlude` (Đỉnh cao chất thơ thị giác):** Dành những khung hình siêu thực kỳ diệu và giàu cảm xúc nhất cho đoạn nhạc ngân giai điệu.
+    - **`Bridge` & `Final Chorus` (Điểm lắng nội tâm $\to$ Cao trào trọn vẹn):** Thu cận vào chiều sâu gắn kết giữa người với người ở `Bridge` rồi bung ra đại cảnh ấm áp nhất ở `Final Chorus`.
+    - **`Outro` (Gặt lại chi tiết & Dư âm):** Khép vòng câu chuyện bằng hình ảnh đọng lại sự bình yên sâu lắng.
+  - **Sự linh hoạt của Đại Cảnh:** Một Đại Cảnh là một khối chủ đề thống nhất, bên trong được tự do triển khai thành: *(a) Toàn cảnh thị trấn cắt vào những con người khác nhau*, *(b) Nhiều góc không gian cùng chủ đề qua các ngôi nhà/khu vườn khác nhau*, hoặc *(c) Chuỗi hành động nối tiếp nhau của nhân vật*.
+- **2. Tầng 2 — Triển khai Tiểu Cảnh theo Nhịp sóng `Hook -> Bồi tiếp Nhân-Quả -> Mini-Hook` (`Micro-Scenes`):**
+  - **Mở đầu mỗi Đại Cảnh bằng `Hook` hoặc `Mini-Hook`:** Cảnh đầu tiên của mỗi phân đoạn luôn tung ra một khung hình đẹp mắt choáng ngợp hoặc một tình huống gây hiếu kỳ để neo chặt ánh nhìn.
+  - **Các Tiểu Cảnh tiếp theo nối mạch Nhân – Quả (`Cảnh N -> Cảnh N+1`):** Mỗi cảnh kế tiếp phải xác định rõ lý do xuất hiện và cách nó bồi tiếp, giải thích hoặc mở rộng cảm xúc từ cảnh ngay trước đó để duy trì sự cuốn hút liên tục cho tới `Mini-Hook` tiếp theo.
+- **3. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
+  - Khi chuyển từ Cảnh $N$ sang Cảnh $N+1$, chủ động chuyển đổi vị trí không gian/điểm nhìn, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và luân phiên đổi độ cao góc máy (Góc ngang tầm mắt `Eye-level` $\leftrightarrow$ Góc thấp hất lên `Low-angle` $\leftrightarrow$ Góc cao nhìn xuống `High-angle` $\leftrightarrow$ Góc qua vai `Over-the-shoulder POV` $\leftrightarrow$ Góc xuyên khung tiền cảnh `Framed-through`) sau khi đã khóa chắc lý do nối cảnh.
 
 ---
 

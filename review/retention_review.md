@@ -9,22 +9,22 @@
 
 ---
 
-## 1. Góc Nhìn Khán Giả 45–85+ Xem Lần Lượt Từng Cảnh + Câu Hát (`audience-reviewer`)
+## 1. Góc Nhìn Khán Giả 45–85+ Xem Lần Lượt Từng Đại Cảnh & Tiểu Cảnh (`audience-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem và nghe MV. Bạn hoàn toàn không quan tâm bài hát đang ở đoạn `Verse` hay `Chorus`; bạn **chỉ quan tâm cảnh đang xem nối với cảnh ngay trước đó có mượt mà không và có giữ được bạn ở lại xem cảnh tiếp theo không**.
-- **Cách duyệt bắt buộc — Đi lần lượt từng cặp `[Cảnh N + Câu hát/Nhạc N] -> [Cảnh N+1 + Câu hát/Nhạc N+1]` từ Cảnh 1 đến Cảnh cuối:**
-  - **1. Cảnh mở đầu (Cảnh 1 $\to$ 2 $\to$ 3):** Cảnh 1 có lập tức **bắt mắt/choáng ngợp** HOẶC **gây tò mò/khó hiểu** (*"Ủa chuyện gì đang xảy ra thế?"*) không? Chuyển sang Cảnh 2 và 3 có nối tiếp mượt mà để dẫn người xem vào câu chuyện không?
-  - **2. Xuyên suốt từng cặp `Cảnh N -> Cảnh N+1`:** Với mỗi bước chuyển, trả lời trực diện 3 câu hỏi:
-    - **Có mượt mà không?** (Cắt từ Cảnh $N$ sang Cảnh $N+1$ có tự nhiên, liền mạch theo câu chuyện và khớp với cảm xúc câu hát đang vang lên không, hay bị giật cục, rời rạc vô lý?).
-    - **Còn giữ được tôi xem tiếp không? Vì sao?** (Mỗi bức ảnh có nói lên được trạng thái cảm xúc và ý nghĩa câu chuyện của nhân vật không, và khi sang Cảnh $N+1$ có mở ra một góc nhìn/không gian cảm xúc mới mẻ thay vì lặp lại các bước hành động vặt vãnh tại cùng một chỗ làm tôi chán bấm thoát?).
-    - **Đến cuối bài có đọng lại cảm xúc không?** (Các cảnh cuối có gặt lại trọn vẹn câu chuyện từ đầu bài và chạm đến đỉnh cảm xúc làm tôi muốn bấm Like không?).
+- **Bạn đang đóng vai ai:** Một khán giả 45–85+ đang cầm điều khiển TV hoặc iPad xem và nghe MV. Bạn chỉ ở lại xem hết video khi mỗi phân đoạn đều có điểm hút mắt (`Hook` / `Mini-Hook`) và từng cảnh kế tiếp luôn nối mạch hợp lý, bồi đắp thêm cảm xúc từ cảnh trước đó.
+- **Cách duyệt bắt buộc — Kiểm tra Khung Đại Cảnh và đi lần lượt từng cặp Tiểu Cảnh `[Cảnh N] -> [Cảnh N+1]`:**
+  - **1. Kiểm tra Khung Đại Cảnh (`Macro-Blocks`):** Mỗi phân đoạn nhạc (`Intro`, `Verse 1`, `Pre-Chorus`, `Chorus`, `Verse 2`, `Vocalise`, `Bridge`, `Outro`) đã xác định rõ mục tiêu cảm xúc cần giải quyết, cách tổ chức không gian/nhân vật (đa lát cắt hoặc nối chuỗi hành động) và điểm `Hook / Mini-Hook` riêng của đoạn đó tới mức nào?
+  - **2. Kiểm tra sóng giữ chân Tiểu Cảnh (`Hook -> Bồi tiếp Nhân-Quả -> Mini-Hook`):** Với mỗi bước chuyển `Cảnh N -> Cảnh N+1`, trả lời trực diện 3 câu hỏi:
+    - **Tại sao có Cảnh $N+1$ & Nối tiếp Cảnh $N$ mượt mà ra sao?** (Cảnh $N+1$ đã giải thích sự tò mò, mở rộng sang góc nhìn/nhân vật khác trong thị trấn hoặc đẩy tiếp hành động của Cảnh $N$ một cách tự nhiên và ăn khớp với câu hát tới đâu?).
+    - **Đà giữ chân giữa các `Mini-Hook` mạnh cỡ nào?** (Sau cảnh `Hook / Mini-Hook` đầu mỗi đoạn, các tiểu cảnh tiếp theo đã bồi đắp cảm xúc và mở ra những góc thị trấn mới mẻ để giữ mắt người xem chờ đón `Mini-Hook` kế tiếp ra sao?).
+    - **Dư âm cuối bài đọng lại sâu sắc thế nào?** (Đại cảnh cuối đã gặt lại trọn vẹn chi tiết gieo từ đầu bài và chạm đến đỉnh cảm xúc khiến người xem muốn bấm Like và bình luận ở mức nào?).
 
 ---
 
 ## 2. Nhập Vai Đạo Diễn Hình Ảnh, Dựng Phim & Kỹ Sư Prompt (`adversarial-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một Đạo diễn hình ảnh, Dựng phim kiêm Kỹ sư Prompt Stop-Motion. Bạn soi kịch bản và câu lệnh bằng con mắt nghề để bắt mọi lỗi trùng góc máy, đứt mạch dựng hoặc câu mô tả làm AI vẽ sai giải phẫu/tỷ lệ.
+- **Bạn đang đóng vai ai:** Một Đạo diễn hình ảnh, Dựng phim kiêm Kỹ sư Prompt Stop-Motion. Bạn kiểm toán cấu trúc Đại Cảnh $\to$ Tiểu Cảnh, tính liên kết nhân-quả giữa các cảnh và độ an toàn giải phẫu/tỷ lệ khi sinh ảnh.
 - **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
-  - **Kỹ thuật đạo diễn & Nhịp dựng ($N \to N+1$):** *"Hai cảnh cắt nối sát nhau ($N \to N+1$) có tạo được độ tương phản rõ về cỡ cảnh, độ cao góc máy (luân phiên giữa Góc ngang tầm mắt `Eye-level` $\leftrightarrow$ Góc thấp hất lên `Low-angle` $\leftrightarrow$ Góc cao nhìn xuống `High-angle` $\leftrightarrow$ Góc qua vai `Over-the-shoulder POV` $\leftrightarrow$ Góc xuyên tiền cảnh `Framed-through`) và bối cảnh không? Mỗi khung hình đã là một lát cắt cuộc sống tự nhiên giàu cảm xúc đang diễn ra chưa?"*
-  - **Chặn bẫy lỗi AI (Giải phẫu, Tỷ lệ & Cấu trúc):** *"Cỡ cảnh đã khớp với không gian chưa (bán thân/trung cận khi có vách che phần dưới; toàn thân thấy đủ đến giày chạm sàn khi ở không gian mở)? Có câu mô tả nào dễ làm AI vẽ cụt chân, cắt xẻ xe cộ/nhà cửa hoặc làm phương tiện/nhà cửa bé như đồ chơi không?"*
-  - **Kiểm tra chuẩn đầu ra:** `storyboard.md` và `image.txt` khớp 1:1 số dòng và mốc giờ với `timestamps.txt`; nhân vật trong `character.md` đồng nhất ngoại hình xuyên suốt; `image.txt` đúng chuẩn 4 khối tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), sạch từ cấm tại [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa cuối dòng bằng 1 nguồn sáng duy nhất (`--ar 16:9`).
+  - **Kiến trúc Đại Cảnh $\to$ Tiểu Cảnh & Nhịp dựng ($N \to N+1$):** *"`storyboard.md` đã có đủ Phần 1 (Quy hoạch Đại Cảnh cho từng phân đoạn nhạc) và Phần 2 (Bảng Tiểu Cảnh ghi rõ vai trò `Hook / Mini-Hook / Bồi tiếp` cùng lý do nối cảnh $N \to N+1$) tới đâu? Hai cảnh sát nhau ($N \to N+1$) đã tạo được độ tương phản rõ về cỡ cảnh, độ cao góc máy và không gian như thế nào?"*
+  - **Độ chuẩn Giải phẫu, Tỷ lệ & Cấu trúc Stop-Motion:** *"Cỡ cảnh đã khớp với không gian ở mức nào (bán thân/trung cận khi có vách che phần dưới; toàn thân thấy đủ đến giày chạm sàn khi ở không gian mở)? Nhà cửa và phương tiện đã giữ đúng kích thước thật cao lớn hơn đầu người trong mọi khung hình ra sao?"*
+  - **Kiểm tra chuẩn đầu ra:** `storyboard.md` và `image.txt` khớp 1:1 số dòng và mốc giờ với `timestamps.txt`; nhân vật trong `character.md` đồng nhất ngoại hình xuyên suốt; `image.txt` đúng chuẩn 4 khối tại [`style/STYLE_mixed_media_tabletop_diorama.md`](../style/STYLE_mixed_media_tabletop_diorama.md), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5) và khóa cuối dòng bằng 1 nguồn sáng duy nhất (`--ar 16:9`).
