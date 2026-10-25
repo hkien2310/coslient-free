@@ -24,14 +24,16 @@
 
 ## 2. Luật Kịch Bản & Kỹ Thuật Giữ Chân (`storyboard.md`)
 
-- **1. Hook mở màn (Cảnh 1–3) — Chọn 1 trong 2 cách (hoặc kết hợp):**
+- **1. Chuyển hóa Lời tâm sự (`I – You`) thành Thế giới Hình ảnh đa chiều:**
+  - Từ lời hát tâm tình một ngôi kể (`I – You`) trong `3-lyrics.txt` và bối cảnh thị trấn siêu thực trong `1-idea.md`, bảng phân cảnh `storyboard.md` linh hoạt triển khai thành một tuyến nhân vật xuyên suốt hoặc mở rộng thành chuỗi lát cắt đa nhân vật (mỗi cảnh một con người, một góc đời sống riêng trong thị trấn) cùng soi chiếu và làm sống dậy cảm xúc của câu hát đang vang lên.
+- **2. Hook mở màn (Cảnh 1–3) — Chọn 1 trong 2 cách (hoặc kết hợp):**
   - **Cách 1 — Bắt mắt / Choáng ngợp:** Mở ngay bằng khung cảnh thị trấn siêu thực kỳ lạ, ấn tượng nhất (khớp lời hứa ở Tiêu đề/Thumbnail).
   - **Cách 2 — Gây tò mò / Khó hiểu:** Mở ngay bằng một hành động hoặc tình huống kỳ lạ đang diễn ra lưng chừng khiến người xem tự hỏi *"Ủa họ đang làm cái gì thế? Chuyện gì đang xảy ra ở đây?"*.
-- **2. Trọng tâm Cảm xúc & Ý nghĩa trong từng Khung hình (`[Cảnh N + Câu hát N]`):**
-  - Mỗi bức ảnh phải tự nói lên được **trạng thái cảm xúc và ý nghĩa câu chuyện** của nhân vật ở khoảnh khắc đó (niềm vui háo hức khi mang quà đi sẻ chia, sự nhẹ nhõm biết ơn khi được kiên nhẫn đợi chờ, sự ấm áp khi tâm tình cùng bạn già, vẻ tĩnh tại khi ngắm nhìn thiên nhiên), truyền tải trực tiếp cái hồn của câu hát đang vang lên.
-- **3. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
+- **3. Trọng tâm Cảm xúc & Ý nghĩa trong từng Khung hình (`[Cảnh N + Câu hát N]`):**
+  - Mỗi bức ảnh phải tự nói lên được **trạng thái cảm xúc và ý nghĩa câu chuyện** của nhân vật ở khoảnh khắc đó, truyền tải trực tiếp cái hồn của câu hát đang vang lên.
+- **4. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
   - Mỗi cảnh là một lát cắt cảm xúc trọn vẹn; khi chuyển từ Cảnh $N$ sang Cảnh $N+1$ phải chuyển sang vị trí không gian/điểm nhìn mới, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và luân phiên đổi độ cao góc máy (Góc ngang tầm mắt `Eye-level` $\leftrightarrow$ Góc thấp hất lên `Low-angle` $\leftrightarrow$ Góc cao nhìn xuống `High-angle` $\leftrightarrow$ Góc qua vai `Over-the-shoulder POV` $\leftrightarrow$ Góc xuyên khung tiền cảnh `Framed-through`), liên tục mở ra các khung cảnh kỳ diệu mới của thị trấn.
-- **4. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
+- **5. Gieo – Gặt chi tiết & Điểm nổ cảm xúc cuối bài:** Chi tiết/nhân vật gieo ở đầu bài được gặt lại ấm áp ở cuối bài; dành khung hình siêu thực đẹp nhất và cử chỉ tình người xúc động nhất cho cao trào cuối bài trước khi khép lại êm đềm.
 
 ---
 

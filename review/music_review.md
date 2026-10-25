@@ -9,19 +9,19 @@
 
 ## 1. Góc Nhìn Người Nghe 45–85+ (`audience-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một người nghe nhạc 45–85+ đang bật loa TV/iPad tìm kiếm sự đồng cảm và thư giãn; tai nhạy cảm với âm thanh chói gắt/ồn ào, yêu chất nhạc Folk mộc mạc và lời ca giản dị, chân thật.
+- **Bạn đang đóng vai ai:** Một người nghe nhạc 45–85+ đang bật loa TV/iPad tìm kiếm sự đồng cảm và thư giãn; tai yêu thích chất nhạc Folk mộc mạc, giai điệu giản dị dễ ngân nga và lời tâm sự chân thật giữa người với người.
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
-  - **Cảm giác khi nghe lời hát:** *"Lời bài hát này nghe có tự nhiên như một người bạn già đang thủ thỉ kể chuyện đời thường không, hay nghe sượng trân, hoa mỹ sáo rỗng kiểu văn mẫu AI?"*
-  - **Độ bắt tai của Tên bài & Câu Hook:** *"Nghe xong 1 lần, tôi có thuộc và nhẩm lại được câu đinh (`Hook`) ở điệp khúc không?"*
-  - **Độ dễ hát & Nhịp thở:** *"Đọc to từng dòng lời lên, câu chữ có ngắn gọn, êm tai và vừa một hơi thở tự nhiên không, hay bị dài dòng làm ca sĩ hát líu lưỡi?"*
-  - **Trải nghiệm thính giác & `Signature Sound`:** *"Bản phối thiết kế trong `Style prompt` và các thẻ `[...]` có tạo ra không gian mộc mạc ấm áp, có khoảng nghỉ nhạc dạo để thở và có 1 âm thanh đặc trưng (`Signature Sound`) của thị trấn làm tôi nhớ mãi không?"*
+  - **Cảm giác khi nghe lời tâm sự (`I – You`):** *"Lời bài hát này nghe tự nhiên như một người bạn già đang thủ thỉ tâm sự trực tiếp với tôi (`I – You`) ở mức nào? Các tín hiệu giác quan đã điểm xuyết vừa đủ để gợi ký ức và nhường chỗ cho cảm xúc lắng đọng ra sao?"*
+  - **Độ bắt tai của Tên bài & Câu Hook:** *"Nghe xong 1 lần, tôi thuộc và nhẩm lại ngay được câu đinh (`Hook`) ở điệp khúc dễ dàng tới đâu?"*
+  - **Nhịp văn nói & Độ dễ hát:** *"Đọc to từng dòng lời lên, câu chữ có độ co giãn tự nhiên như lời trò chuyện đời thường và có những câu chốt ngắn giàu sức nặng cảm xúc ở mức nào?"*
+  - **Trải nghiệm thính giác & Sự tiết chế:** *"Bản phối trong `Style prompt` và các thẻ `[...]` đã tạo ra không gian mộc mạc thoáng đãng, tiếng đàn guitar có độ lơi nhịp tự nhiên (`natural timing variations`), nhạc cụ điểm xuyết tiết chế (`sparse / restrained`) cùng 1 `Signature Motif` đáng nhớ ra sao?"*
 
 ---
 
 ## 2. Nhập Vai Nhạc Sĩ / Nhà Sản Xuất Folk & Kỹ Sư Suno (`adversarial-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một Nhạc sĩ kiêm Nhà sản xuất nhạc Acoustic Folk và Kỹ sư âm thanh Suno. Bạn soi bản nhạc bằng con mắt chuyên môn về nhạc lý, kỹ thuật thanh nhạc (độ dễ hát) và cấu trúc điều phối AI.
+- **Bạn đang đóng vai ai:** Một Nhạc sĩ kiêm Nhà sản xuất nhạc Acoustic Folk và Kỹ sư âm thanh Suno. Bạn thẩm định bản nhạc bằng con mắt chuyên môn về nhạc lý, nhịp điệu lời nói (`Conversational Phrasing`) và độ liền mạch trên Suno.
 - **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
-  - **Kỹ thuật viết lời & Thanh nhạc:** *"Khi ca sĩ hát thật, từng câu có ngắt nhịp đúng chỗ lấy hơi, mở âm cuối câu để ngân mượt và gieo vần tự nhiên không? Có câu nào bị nhồi chữ gây gấp gáp hoặc lặp lại cặp vần cũ của các bài trước không?"*
-  - **Kỹ thuật phối khí & Suno Prompt:** *"Cấu trúc 4 khối `;` trong `Style prompt` đã phân tách rõ tốc độ lớp nền, nhạc cụ giai điệu ngân dài và âm thanh định danh (`Signature Sound`) chưa? Các thẻ `[...]` đầu mỗi đoạn có dẫn dắt độ dày mỏng (`Dynamics`) của bản phối hợp lý không?"*
-  - **Kiểm tra chuẩn đầu ra:** `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát với `2-music.md`; tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md); sạch 100% từ cấm trong [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và văn phong AI ([`humanizer`](../.agents/skills/humanizer/SKILL.md)); kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ chứa tiếng ngân/bè phát ra tiếng.
+  - **Kỹ thuật viết lời & Nhịp văn nói:** *"Lời hát đã giữ vững ngôi tâm sự `I – You` xuyên suốt và thoát khỏi lối đọc thơ đều nhịp bằng cách kết hợp câu co giãn tự nhiên, vần bán âm cùng câu chốt độc lập tới mức nào?"*
+  - **Kỹ thuật phối khí & Suno Prompt:** *"Đoạn văn `Style prompt` đã khóa rõ tiếng guitar gảy tự nhiên (`natural timing variations`), nhịp nền trầm ổn, hòa âm tiết chế (`sparse / remaining restrained`), 1 giọng hát từng trải xuyên suốt và giai điệu dễ ngân nga (`simple, hummable melody`) tới đâu? Các thẻ `[...]` đã đủ tối giản để giữ mạch nhạc liền lạc xuyên suốt bài tới mức nào?"*
+  - **Kiểm tra chuẩn đầu ra:** `3-lyrics.txt` chuẩn DistroKid khớp 1:1 lời hát với `2-music.md`; tên bài và câu `Hook` đồng bộ 1:1 và độc bản trong [`ref/lyrics-index.md`](../ref/lyrics-index.md); tuân thủ 100% [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và [`humanizer`](../.agents/skills/humanizer/SKILL.md); kết bài bằng `[Outro: ..., gentle fade out]`, ngoặc đơn `(...)` chỉ chứa tiếng ngân hoặc lời bè phát ra tiếng.

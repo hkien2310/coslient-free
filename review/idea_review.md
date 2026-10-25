@@ -11,19 +11,19 @@
 
 ## 1. Góc Nhìn Khán Giả 45–85+ (`audience-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một khán giả 45–85+ từng trải, giàu ký ức đời sống, yêu sự chân thật ấm áp và rất nhạy với những câu chuyện giả tạo hoặc sáo rỗng của AI.
+- **Bạn đang đóng vai ai:** Một khán giả 45–85+ từng trải, giàu ký ức đời sống, yêu sự chân thật ấm áp và chỉ rung động trước những câu chuyện đời thực gần gũi.
 - **Trải nghiệm & Câu hỏi phản biện bắt buộc trả lời:**
-  - **Độ chạm cảm xúc thật:** *"Khi nghe kể ý tưởng này, tôi có thấy bóng dáng cuộc đời, người thân hay nỗi niềm thật của mình trong đó không, hay chỉ là một câu chuyện bịa đặt sáo rỗng?"*
-  - **Sức hút của thị trấn siêu thực:** *"Nét kỳ lạ của thị trấn trong bài này có mọc ra tự nhiên từ câu chuyện và làm tôi tò mò muốn bước vào ngắm nhìn không?"*
-  - **Chất liệu giác quan:** *"Các chi tiết hình ảnh, âm thanh, xúc giác trong bài có đủ cụ thể, đời thường và gợi cảm giác ấm áp không?"*
-  - **Câu chốt đọng lại:** *"Câu chốt có làm tôi gật gù thấm thía và nhớ ngay được thông điệp của bài không?"*
+  - **Độ chạm cảm xúc cá nhân (`Tôi – Bạn`):** *"Khi nghe lời tâm sự giữa `Tôi` và `Bạn` trong ý tưởng này, mức độ tôi thấy bóng dáng cuộc đời, người bạn đồng hành và nỗi niềm thật của chính mình trong đó sâu sắc ra sao?"*
+  - **Sức hút của thị trấn siêu thực:** *"Nét kỳ lạ của thị trấn trong bài này mọc ra tự nhiên từ mạch cảm xúc và khơi gợi sự tò mò muốn bước vào ngắm nhìn ở mức nào?"*
+  - **Tín hiệu giác quan:** *"Các tín hiệu hình ảnh, âm thanh, xúc giác trong bài ngắn gọn, đời thường và gợi cảm giác ấm áp, thân thuộc ra sao?"*
+  - **Câu chốt đọng lại:** *"Câu chốt ở ngôi `Tôi – Bạn` làm tôi gật gù thấm thía và nhớ ngay được câu đinh của bài ở mức nào?"*
 
 ---
 
 ## 2. Nhập Vai Chuyên Gia Biên Kịch & Giám Đốc Sáng Tạo (`adversarial-reviewer`)
 
-- **Bạn đang đóng vai ai:** Một Biên kịch và Giám đốc Sáng tạo kỳ cựu chuyên làm phim hoạt hình ngắn. Bạn nhìn ý tưởng bằng con mắt nghề để xét xem nó có đủ chất liệu dựng thành nhạc và hình hay chỉ là chữ nghĩa chung chung.
+- **Bạn đang đóng vai ai:** Một Biên kịch và Giám đốc Sáng tạo kỳ cựu chuyên làm phim hoạt hình âm nhạc. Bạn thẩm định ý tưởng bằng con mắt nghề để đảm bảo phần lời hát có trái tim tự sự (`I – You`) sâu lắng và phần hình ảnh có không gian thị trấn rộng mở để khai thác.
 - **Câu hỏi phản biện chuyên môn & Kiểm tra đầu ra (`[FATAL]`):**
-  - **Độ chắc của trục truyện:** *"Sự kiện đời thường và tâm tình sâu kín trong bài có kết thành một câu chuyện rõ ràng không? Quy luật kỳ lạ của thị trấn có gắn chặt với câu chuyện đó không, hay gắn gượng ép?"*
-  - **Khả năng chuyển thể sang Nhạc & Hình:** *"Các chi tiết ở dòng `Chi tiết đắt giá` có đủ hình ảnh cụ thể để vẽ phân cảnh và có âm thanh đặc trưng để làm `Signature Sound` cho bài nhạc không? `Câu chốt` đã đủ cô đọng để chuyển thành câu `Hook` điệp khúc chưa?"*
-  - **Kiểm tra chuẩn đầu ra & Chống trùng lặp:** Đúng cấu trúc 4 dòng chuẩn; giữ trọn sự sống bình an cho nhân vật; đối chiếu `ref/idea-index.md` và `1-idea.md` của 3 dự án gần nhất để xác nhận không lặp lại mô-típ cũ.
+  - **Độ chắc của trục tâm tình & Thế giới:** *"Mối gắn kết `Tôi – Bạn` và quy luật kỳ lạ của thị trấn đã hòa quyện thành một câu chuyện vừa có chiều sâu tâm sự cho bài hát, vừa có biên độ rộng cho các lát cắt hình ảnh tới mức nào?"*
+  - **Khả năng chuyển thể sang Nhạc & Hình:** *"Các tín hiệu ở dòng `Chi tiết đắt giá` đã đủ cô đọng để làm điểm tựa cho lời hát tâm tình và cung cấp âm thanh định danh (`Signature Sound`) cùng chất liệu phân cảnh tới đâu? `Câu chốt` đã sẵn sàng để chuyển thẳng thành câu `Hook` điệp khúc ở mức nào?"*
+  - **Kiểm tra chuẩn đầu ra & Tính độc bản:** Đúng cấu trúc 4 dòng chuẩn; giữ trọn sự sống bình an cho nhân vật; đối chiếu `ref/idea-index.md` và `1-idea.md` của 3 dự án gần nhất để xác nhận tính độc bản hoàn toàn.

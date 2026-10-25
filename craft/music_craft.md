@@ -14,7 +14,7 @@
 - **Đầu vào:** `1-idea.md`, `ref/lyrics-index.md`, `ref/banned_lyrics_motifs.md`.
 - **Đầu ra:**
   - **`2-music.md`:** Tên bài, `Style prompt`, `Exclude` và `Lyrics` kèm thẻ `[...]`.
-  - **`3-lyrics.txt`:** Lời sạch chuẩn DistroKid (chỉ giữ lời hát, viết hoa đầu dòng, mỗi dòng 1 câu đơn, bỏ thẻ `[...]`, bỏ dấu câu cuối dòng, ghi đủ các khổ lặp lại, cách khổ 1 dòng trống).
+  - **`3-lyrics.txt`:** Lời sạch chuẩn DistroKid (chỉ giữ thuần lời hát, viết hoa đầu dòng, mỗi dòng 1 câu đơn, để trống dấu câu cuối dòng, ghi đủ các khổ lặp lại, cách khổ 1 dòng trống).
   - **`ref/lyrics-index.md`:** Cập nhật bài hát mới.
 
 ---
@@ -22,31 +22,26 @@
 ## 2. Luật Bài Nhạc (`Universal Song Rules`)
 
 ### 2.1. Phần Lời & Ca Khúc
-- **Ý niệm & Kể chuyện:** Kể chuyện tự nhiên qua những chi tiết và khoảnh khắc đời sống từ `1-idea.md`, để cảm xúc tự thấm qua mạch truyện.
-- **Tên bài & Câu Hook:** Đặt tên bài và câu `Hook` ngắn gọn bằng từ ngữ đời thường giàu sức gợi, đặt tại điểm nhấn của điệp khúc để neo vào trí nhớ người nghe và đồng bộ 1:1 trên mọi file.
-- **Cấu trúc bài hát:** Sắp xếp linh hoạt các phân đoạn (`Intro`, `Verse`, `Pre-Chorus`, `Chorus`, `Refrain / Post-Chorus`, `Interlude / Instrumental Solo`, `Bridge`, `Outro` — tùy chọn theo từng bài) khớp với mạch cảm xúc câu chuyện, cân đối hài hòa giữa phần lời hát và khoảng thở nhạc dạo.
-- **Dùng từ & Hình ảnh:** Dùng từ vựng tiếng Anh đời thường giản dị như lời trò chuyện thật, gắn cảm xúc với sự vật và không gian cụ thể (tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và [`humanizer`](../.agents/skills/humanizer/SKILL.md)).
-- **Nhịp câu & Độ dễ hát:** Giữ mỗi dòng hát gọn vừa một hơi thở tự nhiên, ngắt nhịp rõ ràng, kết hợp khẩu ngữ và âm mở/âm vang mềm để ca sĩ nhả chữ mượt mà, liền hơi.
-- **Gieo vần:** Linh hoạt chọn kiểu vần (vần cách, vần cặp, vần bán âm) hợp với mạch tự sự, ưu tiên sự tự nhiên của câu chữ và làm mới cặp từ vần qua từng bài.
+- **Ngôi kể & Tâm tình (`I – You` Storytelling):** Hát từ góc nhìn ngôi thứ nhất thủ thỉ trực tiếp với ngôi thứ hai (`I – You` / `We`) như lời tâm sự của một người tri kỷ; mỗi khổ điểm xuyết 1–2 tín hiệu giác quan quen thuộc từ `1-idea.md` làm điểm tựa rồi mở rộng sang chiêm nghiệm, ký ức và lòng biết ơn êm đềm (nhường phần triển khai hoạt cảnh đa nhân vật cho `storyboard.md`).
+- **Tên bài & Câu Hook:** Đặt tên bài và câu `Hook` ngắn gọn bằng từ ngữ đời thường giàu sức gợi, đặt tại điểm nhấn mở hoặc khép của điệp khúc để neo vào trí nhớ người nghe và đồng bộ 1:1 trên mọi file.
+- **Cấu trúc bài hát:** Sắp xếp linh hoạt các phân đoạn (`Intro`, `Verse`, `Pre-Chorus`, `Chorus`, `Interlude / Instrumental Solo`, `Bridge`, `Outro`) khớp với mạch cảm xúc câu chuyện, cân đối hài hòa giữa phần lời hát và khoảng thở nhạc dạo.
+- **Dùng từ & Độ mở liên tưởng:** Dùng từ vựng tiếng Anh đời thường giản dị như lời trò chuyện thật, giữ độ mở cao để người nghe dễ đồng cảm và đạo diễn hình ảnh dễ lồng ghép nhiều lát cắt cuộc sống (tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) và [`humanizer`](../.agents/skills/humanizer/SKILL.md)).
+- **Nhịp câu văn nói (`Conversational Phrasing`) & Gieo vần:** Viết câu hát theo nhịp lời nói tự nhiên với độ dài dòng co giãn linh hoạt theo hơi thở, kết hợp khẩu ngữ, vần chính, vần bán âm và những câu chốt ngắn đứng độc lập để ca sĩ nhả chữ lơi nhịp, truyền cảm.
 
 ### 2.2. Phần Âm Nhạc & Bản Phối
-- **Thể loại & Không khí:** Lấy `Acoustic Folk` mộc mạc làm gốc, linh hoạt pha trộn màu sắc âm nhạc (thính phòng, đồng quê, ballad...) trong không gian âm thanh ấm cúng hợp với câu chuyện.
-- **Tốc độ, Nhịp phách & Điệu thức:** Chọn tốc độ (`BPM`), nhịp phách (`4/4`, `3/4`, `6/8`...) và điệu thức (`Major / Minor`) khớp với nhịp thở và sắc thái cảm xúc riêng của bài hát.
-- **Nhạc cụ & Âm thanh định danh (`Signature Sound`):** Phối hợp lớp nhạc cụ mộc giữ nhịp nền với lớp nhạc cụ giai điệu ngân dài; chọn 1 âm sắc nhạc cụ hoặc câu ngân giai điệu độc bản chuyển hóa trực tiếp từ âm thanh/nhịp điệu đặc trưng của bối cảnh trong `1-idea.md` làm dấu ấn riêng xuyên suốt bài hát.
-- **Giọng hát:** Chọn giọng Nam, Nữ hoặc Song ca ấm áp, thu gần mic giàu hơi thở và nhả chữ thong thả như đang tâm sự.
-- **Cao trào & Độ lắng:** Điều phối độ dày mỏng của nhạc cụ lên xuống tự nhiên theo mạch bài: mở đầu mộc mạc, mở rộng hòa âm ở cao trào và rút gọn nhạc cụ ở các điểm lắng hoặc đoạn kết để tôn giọng hát.
+- **Thể loại & Nhịp đàn tự nhiên:** Lấy `Warm Cinematic / Acoustic Folk` kết hợp hơi thở đồng quê ấm áp (`Americana / pastoral countryside atmosphere`) ở tốc độ thư thả (`74–82 BPM`), dẫn dắt bởi đàn guitar gảy có độ co giãn nhịp tự nhiên của người thật (`fingerpicked acoustic guitar with natural timing variations`) cùng lớp quạt nhẹ tạo đà tiến êm (`soft strummed layers creating a gentle forward motion`).
+- **Nhịp nền, Hòa âm tiết chế & `Signature Sound`:** Giữ nhịp nền trầm ổn bằng bass gỗ ấm đi hơi trễ sau phách (`upright bass sitting slightly behind the beat`) cùng trống kick mềm và chổi quét giữ dòng chảy (`light kick and brushed snare maintaining a steady grounded flow`); điểm xuyết thật thưa thoáng (`sparse / used sparingly`) các nhạc cụ mộc gợi không gian hoài niệm cùng 1 câu ngân hoặc âm sắc định danh (`Signature Motif`) nhẹ nhàng xuyên suốt bài.
+- **Giọng hát & Giai điệu dễ nhớ:** Ưu tiên 1 giọng hát đơn ca từng trải, ấm áp, điềm tĩnh xuyên suốt bài (`mature, warm, slightly weathered vocal, calm and content, expressive phrasing`), kết hợp giai điệu giản dị dễ ngân nga (`simple, hummable, soothing melody`).
+- **Độ mở tiết chế (`Restrained Dynamics`):** Xây dựng bản phối dày dần một cách tinh tế với điệp khúc sáng rõ hơn để tạo độ nhớ trong khi tổng thể luôn giữ sự chừng mực, êm dịu (`arrangement builds gradually with slightly stronger choruses for memorability while remaining restrained`).
 
 ---
 
 ## 3. Kỹ Thuật Suno (`Suno Technique`)
 
 ### 3.1. `Style prompt` & `Exclude`
-- **Mô hình cấu trúc 4 khối ngăn cách bằng dấu chấm phẩy `;`:**
-  `[Cảm xúc + Thể loại Folk + Nhịp đàn chính, BPM & Điệu thức] ; [Lớp nhạc cụ nền & Tốc độ lớp nền + Nhạc cụ giai điệu ngân dài + Nhạc cụ định danh Signature Sound] ; [Không gian thu mộc + Điểm nhấn đoạn dạo/cao trào] ; [Màu giọng + Tốc độ/Lối nhả chữ liền hơi]`
-- **`Exclude`:** Ghi các yếu tố điện tử, trống mạnh, kỹ xảo giọng hát và âm tần chói cần lọc bỏ, cách nhau bằng dấu phẩy.
+- **Mô hình `Style prompt` văn xuôi tự nhiên:** Viết thành đoạn văn tiếng Anh liền mạch mô tả cảm giác âm nhạc và sự tiết chế của người chơi đàn theo trình tự: `[Thể loại Warm Cinematic/Acoustic Folk + Không khí đồng quê + 74–82 BPM]` $\to$ `[Đàn guitar gảy có độ lơi nhịp tự nhiên (fingerpicked acoustic guitar with natural timing variations) + Lớp quạt nhẹ tạo đà tiến]` $\to$ `[Nhịp bass gỗ trễ sau phách + Kick mềm & brushed snare giữ dòng chảy êm + Nhạc cụ điểm xuyết thưa thoáng (sparse/used sparingly) + Signature Motif]` $\to$ `[Độ mở điệp khúc tiết chế (builds gradually while remaining restrained) + 1 giọng hát từng trải ấm áp + Giai điệu giản dị dễ ngân nga (simple, hummable, soothing melody)]`.
+- **`Exclude`:** Tách riêng các yếu tố điện tử, trống mạnh, kỹ xảo giọng hát và âm tần chói gắt vào trường `Exclude`, cách nhau bằng dấu phẩy.
 
 ### 3.2. Thẻ Điều Phối & `Lyrics`
-- **Các thẻ cấu trúc (tùy chọn linh hoạt theo bài):** `[Intro]`, `[Verse]`, `[Pre-Chorus]`, `[Chorus]`, `[Refrain]` / `[Post-Chorus]`, `[Interlude]` / `[Instrumental Solo]`, `[Bridge]`, `[Outro]`.
-- **Cách viết thẻ `[...]` đầu mỗi đoạn:** Ghi ngắn gọn bằng tiếng Anh theo mẫu `[Tên đoạn: Nhạc cụ dẫn dắt / Signature Sound, Giọng hát, Sắc thái]`.
-- **Thẻ kết bài:** Dùng `[Outro: ..., gentle fade out]` để nhạc hạ dần êm ái.
-- **Lời bè / Tiếng ngân `(...)`:** Chỉ đặt trong ngoặc đơn `(...)` những âm ngân hoặc câu hát bè thực sự phát ra tiếng.
+- **Thẻ phân đoạn tối giản:** Giữ các thẻ phân đoạn chính gọn sạch (`[Verse 1]`, `[Pre-Chorus]`, `[Chorus]`, `[Bridge]`) để duy trì dòng chảy giọng hát liền mạch từ đầu đến cuối; chỉ ghi chú chỉ dẫn nhạc cụ và sắc thái ngắn gọn bằng tiếng Anh tại các điểm chuyển lớn (`[Intro: ...]`, `[Interlude: ...]`, `[Final Chorus: ...]`, `[Outro: ..., gentle fade out]`).
+- **Lời bè / Tiếng ngân `(...)`:** Dành riêng ngoặc đơn `(...)` cho những âm ngân hoặc câu hát bè thực sự phát ra tiếng của ca sĩ.
