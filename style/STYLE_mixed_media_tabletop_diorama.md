@@ -19,20 +19,20 @@
 
 ```text
 # 1. Cảnh Có Nhân vật (Trung-rộng toàn thân, Trung cận bán thân, Bóng lưng, Nhìn xuyên khung):
-2.5D handcrafted stop-motion animation film still, stylized papier-mâché puppets with sculpted creased paper-pulp faces, prominent rounded noses, spindly limbs, and fluffy curled cotton-fiber hair inside a photorealistic miniature diorama. [Full-body medium-wide | Waist-up medium close-up + Góc máy + Không gian sa bàn giàu kết cấu vật lý, Bảng màu & Tương phản ánh sáng], where [Nhân vật đa dạng vóc dáng/vai trò với mái tóc bông xốp dày biến hóa theo cảnh + điểm nhấn phụ kiện cá tính, trang phục khớp cỡ cảnh (đủ áo-quần/váy và giày chạm sàn ở cảnh toàn thân hoặc đặt sau mặt phẳng tiền cảnh ở cảnh bán thân) + Khoảnh khắc hành động phóng khoáng tự tại & tư thế có trọng tâm thả lỏng + Điểm xuyết chất thơ siêu thực tinh tế nếu ở cảnh Hook]. Macro 85mm, shallow depth of field, no text --ar 16:9
+2.5D handcrafted stop-motion animation film still, tactile wood, stone, and folded-paper miniature diorama, stylized figures with matte paper-pulp skin and thick cotton-fiber hair. [Full-body medium-wide | Waist-up medium close-up + Góc máy + Không gian có chiều sâu, Bảng màu & Tương phản ánh sáng], where [Nhân vật tự do biến hóa vóc dáng/đường nét với mái tóc dày đổi kiểu + phụ kiện cá tính, trang phục khớp cỡ cảnh (đủ áo-quần/váy chạm sàn ở cảnh toàn thân hoặc đặt sau mặt phẳng tiền cảnh ở cảnh bán thân) + Khoảnh khắc hành động phóng khoáng tự tại & tư thế thoải mái + Điểm xuyết chất thơ siêu thực tinh tế nếu ở cảnh Hook], no text --ar 16:9
 
 # 2. Cảnh Đặc tả Chi tiết / Tĩnh vật / Đại cảnh Vắng người (Close-up / Detail / Wide):
-2.5D handcrafted stop-motion animation film still, tactile wood, stone, and paper-pulp inside a photorealistic miniature diorama. [Cỡ cảnh + Góc máy + Không gian/Chi tiết giàu kết cấu vật lý, Bảng màu & Ánh sáng], where [Diễn biến tinh tế của chi tiết/tự nhiên hoặc bóng dáng nhỏ bé của con rối ở xa đối với Đại cảnh]. Macro 85mm, shallow depth of field, no text --ar 16:9
+2.5D handcrafted stop-motion animation film still, tactile wood, stone, and folded-paper miniature diorama. [Cỡ cảnh + Góc máy + Không gian/Chi tiết giàu sức gợi, Bảng màu & Ánh sáng], where [Diễn biến tinh tế của chi tiết/tự nhiên hoặc bóng người nhỏ bé ở xa đối với Đại cảnh], no text --ar 16:9
 ```
 
 ---
 
 ## 2. Luật Đầu Ra (`character.md` & `image.txt`)
 
-- **Khóa Chất liệu Rối Giấy Bồi – Sợi Bông & Sa bàn Tả thực (`Papier-Mâché Puppet & Photorealistic Diorama Lock`):**
-  - Đặt cụm khóa chất liệu nhân vật rối giấy bồi điêu khắc có nếp gấp thủ công, mũi tròn nổi bật, tứ chi mảnh khảnh và tóc sợi bông xoăn xốp bên trong thế giới sa bàn thu nhỏ tả thực (`2.5D handcrafted stop-motion animation film still, stylized papier-mâché puppets with sculpted creased paper-pulp faces, prominent rounded noses, spindly limbs, and fluffy curled cotton-fiber hair inside a photorealistic miniature diorama.`) ngay câu đầu tiên để tạo sự tương phản thị giác giữa nhân vật cách điệu thủ công và môi trường vật lý chân thực.
-  - Với cảnh tĩnh vật hoặc đại cảnh vắng người, mở đầu bằng cụm khóa thế giới sa bàn (`2.5D handcrafted stop-motion animation film still, tactile wood, stone, and paper-pulp inside a photorealistic miniature diorama.`).
-  - Khóa hậu tố ống kính và khung hình `. Macro 85mm, shallow depth of field, no text --ar 16:9` ở cuối mỗi dòng câu lệnh trong `image.txt`.
+- **Khóa Chất liệu Tối giản ở Đầu Câu (`Material Prefix Lock`) & Giải phóng Tạo hình Nhân vật (`Unconstrained Character Variety`):**
+  - Chỉ khóa chất liệu thế giới sa bàn gỗ, đá, giấy gấp và chất liệu da bột giấy cùng tóc sợi bông dày ở câu đầu tiên (`2.5D handcrafted stop-motion animation film still, tactile wood, stone, and folded-paper miniature diorama, stylized figures with matte paper-pulp skin and thick cotton-fiber hair.`), dành toàn bộ đường nét gương mặt, tỷ lệ hình thể và thần thái cho mô hình tự do biến hóa đa dạng theo ngữ cảnh từng nhân vật.
+  - Với cảnh tĩnh vật hoặc đại cảnh vắng người, mở đầu bằng cụm khóa chất liệu thế giới (`2.5D handcrafted stop-motion animation film still, tactile wood, stone, and folded-paper miniature diorama.`).
+  - Khóa hậu tố `, no text --ar 16:9` ở cuối mỗi dòng câu lệnh trong `image.txt`.
 - **Đa dạng Nhân vật, Mái tóc Dày Đổi kiểu & Đồng bộ Tỷ lệ Cơ thể theo Cỡ cảnh:**
   - Mỗi cảnh có người đều định danh nhân vật bằng vóc dáng, vai trò sinh hoạt mới và **một kiểu tóc dày phủ kín đầu được biến hóa đa dạng về phom dáng và sắc độ** (`a full head of [kiểu dáng + màu sắc] hair` hoặc kiểu tóc tết/búi dày kết hợp phụ kiện đầu/râu/kính khác biệt) để mỗi khung hình mang diện mạo độc bản.
   - **Đồng bộ cỡ cảnh, liên kết giải phẫu và điểm tựa vật lý:** Ở cảnh trung-rộng thấy mặt sàn hoặc mặt đất (`Full-body medium-wide shot`), mô tả trang phục tinh gọn đủ cả phần thân trên và thân dưới tiếp xúc trực tiếp với mặt phẳng đứng; ở cảnh trung cận lấy nửa người (`Waist-up medium close-up`), đóng khung từ thắt lưng trở lên gắn với mặt phẳng nội thất hoặc kiến trúc tiền cảnh hợp lý; ở cảnh đặc tả cục bộ hoặc cận cảnh (`Close-up / Detail shot`), mô tả rõ sự tiếp nối giải phẫu với phần cơ thể liền kề, đường nét gương mặt hài hòa mềm mại và điểm tiếp xúc vật lý vững chắc của sự vật trên mặt phẳng tựa để ưu tiên dung lượng câu lệnh cho **bố cục, tương phản ánh sáng và khoảnh khắc cảm xúc**.
