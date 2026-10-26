@@ -54,9 +54,11 @@
     2. **Phóng đại (`Phóng to vượt bậc 1 thực thể duy nhất theo 2 nhánh`):**
        - *Nhánh Đồ vật quen thuộc:* Phóng đại kích thước và đổi công năng thành công trình kiến trúc, nơi trú ẩn hoặc phương tiện.
        - *Nhánh Sinh vật nhỏ bé hiền lành:* Phóng đại kích thước với đường nét thủ công bo tròn mềm mại và giữ nguyên tính chất là người bạn sinh vật hiền hòa để con người tựa vào hoặc bầu bạn.
-    3. **Vật thể hóa tự nhiên (`1 hiện tượng tự nhiên + đối xử như vật cầm nắm được`):** Chuyển hóa hiện tượng tự nhiên nhẹ nhàng thành chất liệu thủ công hữu hình để nhân vật nâng niu và bầu bạn.
+    3. **Tương tác trực tiếp với hiện tượng tự nhiên (`1 yếu tố môi trường thật + có thể chạm nắm hoặc tựa lên`):** Giữ nguyên vẹn bản chất và hình thái tự nhiên của yếu tố môi trường (mây trời, mặt nước, sương, gió, hoa cỏ, sinh vật tự nhiên) nhưng cho phép con người tương tác vật lý trực tiếp như chạm tay, cầm nắm, ngồi hoặc nằm nghỉ lên chính yếu tố môi trường đó.
     4. **Lạc quẻ không gian (`1 vật dụng/hoạt động riêng tư + đặt giữa thiên nhiên bao la`):** Đặt một vật dụng nội thất, nhạc cụ hoặc sinh hoạt riêng tư ra giữa cảnh quan thiên nhiên rộng lớn.
-- **Luật Lát cắt Độc lập & Đa dạng Không gian, Bảng màu:** Mỗi Tiểu Cảnh mở ra một không gian nội-ngoại cảnh mới cùng bảng màu và độ tương phản sáng-tối riêng biệt, đồng thời kết nối hài hòa trong cùng một thế giới hoài cổ vượt thời gian.
+- **Luật Tôn Trọng Yếu Tố Môi Trường & Ánh Sáng Tự Nhiên Thuần Khiết (`Authentic Environment & Pure Natural Lighting`):**
+  - Bảo toàn tính chân thực nguyên bản của toàn bộ thiên nhiên, bầu trời, mây, mặt nước, cây cỏ, loài vật và ánh sáng môi trường (nắng mai, bóng râm, nắng chiều, hoàng hôn, chạng vạng) ngay cả trong các khung hình có điểm xuyết siêu thực.
+  - Mỗi Tiểu Cảnh mở ra một không gian nội-ngoại cảnh mới cùng bảng màu và độ tương phản sáng-tối tự nhiên riêng biệt, kết nối hài hòa trong cùng một thế giới hoài cổ vượt thời gian.
 - **Luật Tối giản & Khoảng thở (`Negative Space`):** Mỗi cảnh tập trung vào 1 khoảnh khắc cảm xúc và 1 ý tưởng thị giác duy nhất với mô tả trang phục tinh gọn, dành tối đa khoảng thở cho ánh sáng và không khí điện ảnh.
 - **Luật Giải phóng Điểm nhìn & Cỡ cảnh Điện ảnh ($N \to N+1$):**
   - Luân phiên đa dạng cách đặt máy và sự hiện diện của con người giữa các cảnh kế tiếp: góc nhìn xuyên qua lớp vật liệu hoặc khung tiền cảnh (`framed-through / silhouette`), góc nhìn từ phía sau bóng lưng, góc nhìn thẳng từ đỉnh đầu xuống (`top-down`), cảnh đặc tả cử chỉ cục bộ, trung cảnh sinh hoạt ấm cúng và đại cảnh thiên nhiên thoáng rộng (`70% open sky/landscape`).
