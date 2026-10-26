@@ -13,41 +13,27 @@
 
 - **Đầu vào:** `1-idea.md`, `storyboard.md` và [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
 - **Đầu ra 1 — Cấu trúc file `character.md` *(Tùy chọn)*:**
-  - Mô tả trực tiếp nhân vật và trang phục mới ngay tại từng dòng trong `storyboard.md` và `image.txt` bằng công thức 4 trục để mỗi ảnh là một lát cắt độc lập trong cùng một thế giới lớn; chỉ tạo `character.md` khi cần lưu mẫu tham chiếu riêng.
+  - Khóa trực tiếp chất liệu thế giới và chất liệu nhân vật ngay ở cụm mở đầu của từng dòng trong `image.txt` kèm mô tả trang phục tinh gọn để mỗi ảnh là một lát cắt độc lập thoáng đãng; chỉ tạo `character.md` khi cần lưu mẫu tham chiếu riêng.
 
-```markdown
-# CHARACTERS: [TÊN TRACK]
-
-1. **@[Tên_1]** ([Vai trò & độ tuổi bằng tiếng Việt]):
-   - **4-Axis & Accent Phrase (Dùng trong `image.txt`):** `a [tall slender / medium-height slender] [character role/age] with [Trục 2: Eyewear / Facial Hair / Headwear] and [style + color] cotton-fiber hair in [Trục 4: Trang phục vải dệt + điểm nhấn màu sắc, kèm quần dài/váy dài và giày khi lấy cảnh toàn thân]`
-   - **Character Prompt:** `2.5D handcrafted stop-motion animation film still set in a warm poetic surreal town where [đặc điểm kỳ lạ định danh của thị trấn], clean natural daylight, harmonious character-to-object scale, shallow depth of field with a softly blurred warm studio backdrop. Wide full-body character reference portrait of a stylized stop-motion figure with matte paper-pulp skin, a soft rounded nose, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [4-Axis & Accent Phrase with footwear resting on a wooden base], standing in a relaxed natural posture with calm gentle warmth. Single directional warm afternoon light casting a single coherent shadow direction --ar 16:9`
-```
-
-- **Đầu ra 2 — Khung câu lệnh 4 khối tiếng Anh cho `image.txt` (1 dòng/cảnh khớp 1:1 với `storyboard.md`):**
+- **Đầu ra 2 — Khung câu lệnh tiếng Anh tinh gọn cho `image.txt` (1 dòng/cảnh khớp 1:1 với `storyboard.md`):**
 
 ```text
-# 1. Cảnh Trung & Cận có Nhân vật (Medium-wide / Waist-up / Medium close-up):
-2.5D handcrafted stop-motion animation film still set in a warm poetic town where [bản chất kỳ diệu cốt lõi của câu chuyện thị trấn], [time-of-day] light, harmonious character-to-object scale, shallow depth of field with a softly blurred warm background. [Medium-wide full-body / Medium close-up waist-up + Góc máy điện ảnh luân phiên] shot [không gian sống đời thường ấm áp hoặc điểm nhấn siêu thực giàu chất thơ] with stylized stop-motion figure(s) with matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown: [Mô tả 1-2 nhân vật theo 4 trục phù hợp cỡ cảnh + trạng thái cảm xúc sâu sắc trên gương mặt, ánh mắt, dáng điệu + hành động tương tác có ý nghĩa]. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
+# 1. Cảnh Có Nhân vật (Trung cảnh, Trung cận, Bóng lưng, Nhìn xuyên khung):
+2.5D handcrafted stop-motion miniature film still, matte-painted tactile world, slender figures with matte paper-pulp skin, soft rounded noses, and fluffy cotton-fiber hair. [Cỡ cảnh + Góc máy + Không gian có chiều sâu, Bảng màu & Tương phản ánh sáng], where [Khoảnh khắc hành động & cảm xúc tự nhiên của nhân vật với trang phục tối giản + Điểm xuyết chất thơ siêu thực tinh tế nếu ở cảnh Hook] --ar 16:9
 
-# 2. Đại cảnh Kiến trúc & Không gian Rộng (Extreme wide / Wide panoramic):
-2.5D handcrafted stop-motion animation film still set in a warm poetic town where [bản chất kỳ diệu cốt lõi của câu chuyện thị trấn], [time-of-day] light, monumental architectural scale, expansive scenic focus with generous open negative space and gentle atmospheric depth. [Extreme wide panoramic / Wide + Góc máy] shot of [toàn cảnh kiến trúc thị trấn ấm áp hoặc điểm nhấn siêu thực và cảnh quan thiên nhiên kỳ vĩ], [completely without people | with tiny distant figures in simple warm attire strolling far below the towering structures]. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
-
-# 3. Cảnh Tĩnh vật B-Roll (Close-up):
-2.5D handcrafted stop-motion animation film still set in a warm poetic town where [bản chất kỳ diệu cốt lõi của câu chuyện thị trấn], [time-of-day] light, shallow depth of field with a softly blurred warm background. [Close-up + Góc máy] shot of [1 chi tiết vật dụng đời thường ấm áp hoặc yếu tố siêu thực bo tròn sơn mờ giàu sức gợi], completely without people. Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9
+# 2. Cảnh Đặc tả Chi tiết / Tĩnh vật / Đại cảnh Vắng người (Close-up / Detail / Wide):
+2.5D handcrafted stop-motion miniature film still, matte-painted tactile wood, stone, and paper-pulp world. [Cỡ cảnh + Góc máy + Không gian/Chi tiết giàu sức gợi, Bảng màu & Ánh sáng], where [Diễn biến tinh tế của chi tiết/tự nhiên hoặc bóng người nhỏ bé ở xa đối với Đại cảnh] --ar 16:9
 ```
 
 ---
 
 ## 2. Luật Đầu Ra (`character.md` & `image.txt`)
 
-- **Thế giới, Khoảng thở & Độ sâu trường ảnh (`Khối 1`):**
-  - Mở đầu bằng `2.5D handcrafted stop-motion animation film still set in a warm poetic town where [bản chất kỳ diệu cốt lõi của câu chuyện thị trấn], [time-of-day] light, harmonious character-to-object scale` (gọi tên rõ bản chất kỳ diệu xuyên suốt của câu chuyện thị trấn đó).
-  - Chọn `shallow depth of field with a softly blurred warm background` khi tập trung vào cảm xúc con người, tương tác gần hoặc tĩnh vật chi tiết (`Close-up / Medium close-up / Waist-up / Medium-wide`).
-  - Chọn `expansive scenic focus with generous open negative space and gentle atmospheric depth` khi mở rộng không gian sinh hoạt hoặc đại cảnh hành trình (`Wide / Extreme wide panoramic`).
-  - Các công trình kiến trúc siêu thực, phương tiện và vật dụng đời thường được bo tròn sơn mờ thủ công (`softly rounded matte-painted tactile everyday objects and vehicles`), tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).
-- **Phôi rối cách điệu & Công thức 4 trục cho Cảnh Trung / Cận (`Khối 2 & 3`):**
-  - Chỉ áp dụng cụm phôi rối (`matte paper-pulp skin, soft rounded noses, slender elongated proportions, and thick full fluffy cotton-fiber hair covering the crown`) và công thức nhận diện 4 trục cho **1–2 nhân vật ở cảnh Trung và Cận (`Medium-wide / Waist-up / Medium close-up`)**.
-  - Ở **Đại cảnh (`Extreme wide / Wide panoramic`)**, chỉ mô tả kiến trúc siêu thực đồ sộ (`monumental architectural scale`) kèm `completely without people` hoặc `with tiny distant figures in simple warm attire strolling far below` để bảo toàn tỷ lệ công trình cao lớn gấp nhiều lần con người.
-  - **4 trục nhận diện ở cảnh Trung & Cận:** (1) Dáng vóc (`tall slender`, `medium-height slender`, `waist-high child`), (2) Phụ kiện vùng đầu, (3) Tóc sợi bông, (4) Trang phục vải dệt phẳng tự nhiên kèm điểm nhấn sắc độ riêng (đủ bộ đến giày chạm mặt phẳng khi lấy `Medium-wide full-body`, hoặc chỉ thân trên và đôi tay khi lấy `Medium close-up / Waist-up`). Đổi mới nhân vật và trang phục ở từng cảnh để mỗi khung hình là một lát cắt độc lập giàu sức sống trong cùng một thị trấn.
-- **Cự ly ấm áp, Trạng thái cảm xúc & Ý nghĩa khoảnh khắc:** Đặt nhân vật ở cự ly gần gũi tự nhiên (`warm conversational proximity with clean silhouette clarity`), làm nổi bật trạng thái cảm xúc chân thật (niềm vui sẻ chia, sự biết ơn, nỗi bâng khuâng, sự bình yên tĩnh tại) qua ánh mắt, nét mặt và ngôn ngữ cơ thể có hồn trong từng khung hình.
-- **Một nguồn sáng chính duy nhất (`Khối 4`):** Khóa ở cuối mỗi câu lệnh một nguồn sáng tự nhiên duy nhất chiếu theo một hướng bóng đổ thống nhất (`Single directional [time-of-day] light casting a single coherent shadow direction --ar 16:9`).
+- **Khóa Chất liệu Cố định ở Đầu Câu (`Material Prefix Lock`):**
+  - Đặt toàn bộ cụm khóa chất liệu thế giới và chất liệu phôi rối nhân vật (`2.5D handcrafted stop-motion miniature film still, matte-painted tactile world, slender figures with matte paper-pulp skin, soft rounded noses, and fluffy cotton-fiber hair.`) ngay câu đầu tiên để giữ đồng nhất chất liệu tuyệt đối và dành trọn phần thân câu cho mô tả nghệ thuật.
+  - Với cảnh tĩnh vật hoặc đặc tả chi tiết, mở đầu bằng cụm khóa chất liệu thế giới (`2.5D handcrafted stop-motion miniature film still, matte-painted tactile wood, stone, and paper-pulp world.`).
+- **Tối giản Nhân vật & Giải phóng Điểm nhìn Điện ảnh:**
+  - Mô tả nhân vật và trang phục ngắn gọn trong vài từ gợi chất liệu tự nhiên để ưu tiên dung lượng câu lệnh cho **bố cục, tương phản ánh sáng và khoảnh khắc cảm xúc**.
+  - Đa dạng hóa cách xuất hiện của con người qua các cảnh: trực diện ấm áp, bóng lưng lặng yên, bóng in qua lớp vật liệu xuyên sáng, nhìn qua khung tiền cảnh, đặc tả cử chỉ cục bộ, hoặc bóng người nhỏ bé giữa thiên nhiên rộng lớn (`70% open negative space`).
+- **Đa dạng Không gian, Bảng màu & Ánh sáng Cảm xúc:**
+  - Mỗi cảnh mở ra một không gian nội-ngoại cảnh, bảng màu thời gian/thời tiết và độ tương phản sáng-tối riêng biệt gắn chặt với cảm xúc của câu hát tại thời điểm đó, tuân thủ [`ref/banned_lyrics_motifs.md`](../ref/banned_lyrics_motifs.md) (Mục 5).

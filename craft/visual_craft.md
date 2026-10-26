@@ -55,12 +55,8 @@
        - *Nhánh Sinh vật nhỏ bé hiền lành:* Phóng đại kích thước với đường nét thủ công bo tròn mềm mại và giữ nguyên tính chất là người bạn sinh vật hiền hòa để con người tựa vào hoặc bầu bạn.
     3. **Vật thể hóa tự nhiên (`1 hiện tượng tự nhiên + đối xử như vật cầm nắm được`):** Chuyển hóa hiện tượng tự nhiên nhẹ nhàng thành chất liệu thủ công hữu hình để nhân vật nâng niu và bầu bạn.
     4. **Lạc quẻ không gian (`1 vật dụng riêng tư + đặt giữa thiên nhiên bao la`):** Đặt một góc nội thất đơn lẻ, tối giản và mang tính an ủi giữa cảnh quan thiên nhiên rộng lớn.
-- **Luật Lát cắt Độc lập trong Cùng một Thế giới Lớn:** Mỗi bức ảnh (mỗi Tiểu Cảnh) là một lát cắt độc lập với nhân vật, trang phục, công trình và góc không gian riêng biệt để tối đa hóa sự đa dạng thị giác; đồng thời tất cả các lát cắt đều gắn kết chặt chẽ trong cùng một thế giới thị trấn thống nhất qua quy luật siêu thực định danh, tiến trình ánh sáng và mạch cảm xúc của bài hát.
-- **Luật Tối giản:** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, có thể xóa phông hậu cảnh khi cần làm nổi bật chủ thể.
-- **Luật Đa dạng & Chiều sâu Điện ảnh:** Luân phiên đa dạng góc độ cao-thấp của máy quay (góc ngang tầm mắt kết nối cảm xúc, góc thấp hất lên, góc cao nhìn xuống, góc nhìn qua vai, góc nhìn xuyên qua tiền cảnh) cùng bố cục nhiều lớp tiền-trung-hậu cảnh và cỡ cảnh.
-- **Luật Cảm xúc & Ý nghĩa:** Mỗi khung hình đặt trạng thái nội tâm, ánh mắt, nụ cười và ý nghĩa của sự gắn kết giữa người với người làm trung tâm, nơi hành động là sự bộc lộ cảm xúc tự nhiên giữa đời sống.
-- **Luật Cỡ cảnh & Tỷ lệ vật lý:**
-  - **Ở Đại cảnh / Toàn cảnh rộng (`Extreme wide / Wide panoramic`):** Đặt trọng tâm vào quy mô đồ sộ của công trình kiến trúc siêu thực và thiên nhiên; giữ vắng người hoặc chỉ điểm xuyết bóng người nhỏ bé ở xa (`tiny distant silhouette`) để bảo toàn tỷ lệ kiến trúc khổng lồ.
-  - **Ở Trung cảnh (`Medium-wide full-body`):** Đặt 1–2 nhân vật ở cự ly vừa phải thấy đủ trang phục đến giày chạm mặt phẳng trong không gian mở.
-  - **Ở Trung cận / Bán thân (`Medium close-up / Waist-up`):** Dùng khi nhân vật đứng sau vách che phần dưới hoặc khi tập trung vào biểu cảm gương mặt và đôi tay.
-- **Luật Ánh sáng:** Mỗi cảnh có 1 nguồn sáng chính chiếu theo 1 hướng; ánh sáng chuyển dịch mượt theo thời gian câu chuyện.
+- **Luật Lát cắt Độc lập & Đa dạng Không gian, Bảng màu:** Mỗi Tiểu Cảnh mở ra một không gian nội-ngoại cảnh mới cùng bảng màu và độ tương phản sáng-tối riêng biệt, đồng thời kết nối hài hòa trong cùng một thế giới thị trấn bình dị.
+- **Luật Tối giản & Khoảng thở (`Negative Space`):** Mỗi cảnh tập trung vào 1 khoảnh khắc cảm xúc và 1 ý tưởng thị giác duy nhất với mô tả trang phục tinh gọn, dành tối đa khoảng thở cho ánh sáng và không khí điện ảnh.
+- **Luật Giải phóng Điểm nhìn & Cỡ cảnh Điện ảnh ($N \to N+1$):**
+  - Luân phiên đa dạng cách đặt máy và sự hiện diện của con người giữa các cảnh kế tiếp: góc nhìn xuyên qua lớp vật liệu hoặc khung tiền cảnh (`framed-through / silhouette`), góc nhìn từ phía sau bóng lưng, góc nhìn thẳng từ đỉnh đầu xuống (`top-down`), cảnh đặc tả cử chỉ cục bộ, trung cảnh sinh hoạt ấm cúng và đại cảnh thiên nhiên thoáng rộng (`70% open sky/landscape`).
+- **Luật Cảm xúc & Chất thơ Vi mô (`Micro-Poetry`):** Đặt sự gắn kết chân thật giữa người với người làm trung tâm; khi điểm xuyết yếu tố siêu thực, ưu tiên những nét chấm phá tinh tế, nhỏ nhắn hòa quyện tự nhiên vào khung cảnh đời thường.
