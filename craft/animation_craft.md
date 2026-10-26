@@ -28,6 +28,7 @@
 
 - **Đồng bộ 1:1 với `image.txt`:** Khớp chính xác số lượng người, danh từ chủ thể, khoảnh khắc tư thế trong `image.txt` và đạo cụ/phương tiện của từng dòng.
 - **Chuyển động máy quay 1 trục & Đảo nhịp ($N \to N+1$):** Mở đầu bằng hướng di chuyển 1 trục rõ ràng của máy quay (`holds steady`, `pans slowly left/right`, `tilts gently up/down`, `moves slowly closer`, `pulls slowly back`, `glides laterally`, `rises gently`, `follows alongside`); hai cảnh sát nhau ($N \to N+1$) dùng chuyển động máy khác nhau theo `storyboard.md`.
-- **Một hành động cơ thể 1 chiều:** Mỗi nhân vật hoặc phương tiện chỉ thực hiện 1 hành động tay/chân chính tiếp diễn theo 1 hướng duy nhất từ khoảnh khắc trong ảnh để cơ thể vận động mượt mà.
+- **Chủ thể Neo trụ Hành động 1 Chiều & Môi trường Mang Chuyển động Chính (`Anchored Subject & Environmental Motion`):**
+  - Giữ nhân vật hoặc phương tiện ở vị trí neo trụ ổn định trong không gian và chỉ thực hiện 1 cử chỉ tay/chân/đầu tiếp diễn theo 1 hướng duy nhất từ tư thế gốc trong ảnh, đồng thời trao biên độ chuyển động liên tục cho các yếu tố môi trường xung quanh (làn gió lay động mái tóc bông và tà trang phục, mặt nước gợn sóng, làn hơi ấm bay lên, ánh sáng và tán cây đung đưa) để khung hình sống động và mượt mà về mặt vật lý.
 - **Biểu cảm chuyển biến 2 nhịp (`Trạng thái A -> then -> Trạng thái B`):**
-  - Để gương mặt nhân vật sống động suốt 5–7 giây (không bị đơ cứng và cũng không giữ lì một nụ cười giả tạo từ đầu đến cuối), luôn mô tả **sự thay đổi nét mặt và ánh mắt qua 2 nhịp nối tiếp** gắn với hành động (ví dụ: *đang chăm chú nhìn xuống tay làm $\to$ ngước lên và nét mặt giãn ra ấm áp*; *đang lắng nghe trầm ngâm $\to$ khẽ chớp mắt và gật đầu thấu hiểu*; *đang nhìn xa xăm $\to$ thở nhẹ một hơi bình yên*).
+  - Luôn mô tả **sự thay đổi nét mặt và ánh mắt qua 2 nhịp nối tiếp tự nhiên** gắn liền với cử chỉ cơ thể của nhân vật suốt thời lượng cảnh.
