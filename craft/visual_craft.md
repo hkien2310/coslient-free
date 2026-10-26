@@ -38,10 +38,9 @@
   - **Sự linh hoạt của Đại Cảnh:** Một Đại Cảnh là một khối chủ đề và cảm xúc thống nhất, bên trong gồm các Tiểu Cảnh là những lát cắt độc lập qua những con người, ngôi nhà, khu vườn và công trình khác nhau cùng cộng hưởng chung một nhịp sống của thị trấn.
 - **2. Tầng 2 — Triển khai Tiểu Cảnh Độc lập theo Nhịp sóng `Hook -> Bồi tiếp Cảm xúc -> Mini-Hook` (`Micro-Scenes`):**
   - **Mở đầu mỗi Đại Cảnh bằng Điểm xuyết Siêu thực (`Hook / Mini-Hook`):** Cảnh mở đầu của mỗi phân đoạn điểm xuyết một hình ảnh siêu thực giàu chất thơ gắn với bản chất kỳ diệu của thị trấn và câu hát chủ đạo để nâng tầm cảm xúc và kích hoạt sự hiếu kỳ.
-  - **Các Tiểu Cảnh tiếp theo (`Bồi tiếp`) giữ trọn đời sống bình dị ấm áp (`Cảnh N -> Cảnh N+1`):** Các cảnh đi sau trong Đại Cảnh trở về nhịp sống đời thường mộc mạc, gần gũi và chữa lành qua những góc không gian mới và nhân vật mới độc lập, luân phiên bồi đắp giữa **niềm vui tinh nghịch hồn nhiên của tuổi già (`Playful Whimsy`)** và **cử chỉ thân mật vi mô (`Micro-Intimacy`)** từ cảnh ngay trước đó.
-- **3. Bước nhảy Không gian, Đảo nhịp Góc máy ($N \to N+1$) & Vòng cung Ánh sáng (`Day-to-Twilight Arc`):**
+  - **Các Tiểu Cảnh tiếp theo (`Bồi tiếp`) giữ trọn đời sống bình dị ấm áp (`Cảnh N -> Cảnh N+1`):** Các cảnh đi sau trong Đại Cảnh trở về nhịp sống đời thường mộc mạc, gần gũi và chữa lành qua những góc không gian mới và nhân vật mới độc lập, bồi đắp chiều sâu tình cảm con người từ cảnh ngay trước đó.
+- **3. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
   - Khi chuyển từ Cảnh $N$ sang Cảnh $N+1$, chủ động chuyển đổi vị trí không gian/điểm nhìn, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và luân phiên đổi độ cao góc máy (Góc ngang tầm mắt `Eye-level` $\leftrightarrow$ Góc thấp hất lên `Low-angle` $\leftrightarrow$ Góc cao nhìn xuống `High-angle` $\leftrightarrow$ Góc qua vai `Over-the-shoulder POV` $\leftrightarrow$ Góc xuyên khung tiền cảnh `Framed-through`) sau khi đã khóa chắc lý do nối cảnh.
-  - Tổ chức tiến trình ánh sáng toàn bài theo vòng cung thời gian tự nhiên từ ban ngày đến hoàng hôn và khép lại bằng ánh đèn ấm áp lúc chạng vạng ở phân đoạn kết (`Outro`) để vỗ về cảm giác bình yên, an toàn của người xem.
 
 ---
 
@@ -60,7 +59,4 @@
 - **Luật Tối giản & Khoảng thở (`Negative Space`):** Mỗi cảnh tập trung vào 1 khoảnh khắc cảm xúc và 1 ý tưởng thị giác duy nhất với mô tả trang phục tinh gọn, dành tối đa khoảng thở cho ánh sáng và không khí điện ảnh.
 - **Luật Giải phóng Điểm nhìn & Cỡ cảnh Điện ảnh ($N \to N+1$):**
   - Luân phiên đa dạng cách đặt máy và sự hiện diện của con người giữa các cảnh kế tiếp: góc nhìn xuyên qua lớp vật liệu hoặc khung tiền cảnh (`framed-through / silhouette`), góc nhìn từ phía sau bóng lưng, góc nhìn thẳng từ đỉnh đầu xuống (`top-down`), cảnh đặc tả cử chỉ cục bộ, trung cảnh sinh hoạt ấm cúng và đại cảnh thiên nhiên thoáng rộng (`70% open sky/landscape`).
-- **Luật Cảm xúc, Tư thế Tự nhiên & Chất thơ Vi mô (`Micro-Intimacy, Playful Whimsy & Candid Posture`):**
-  - Đặt hình ảnh các cặp đôi và con người trưởng thành/lớn tuổi làm trung tâm cảm xúc xuyên suốt đến cảnh cuối cùng, kết hợp hài hòa giữa **cử chỉ thân mật vi mô (`Micro-Intimacy` — điểm chạm cơ thể nhỏ nhắn, riêng tư và ánh mắt khép nhẹ tận hưởng khoảnh khắc)** và **niềm vui tinh nghịch hồn nhiên (`Playful Whimsy` — cử động biên độ vui tươi, phóng khoáng giàu năng lượng trẻ thơ)**.
-  - Thiết lập **ngôn ngữ cơ thể bắt giữa khoảnh khắc (`Candid Asymmetric Posture`)**: đặt nhân vật ở tư thế bất đối xứng có trọng tâm lệch tự nhiên, hướng sự chú ý vào bạn đồng hành hoặc hành động trong cảnh, và luôn gắn kết đôi tay trực tiếp với một vật dụng hoặc điểm tựa hữu hình.
-  - Khi điểm xuyết yếu tố siêu thực, ưu tiên những nét chấm phá tinh tế, nhỏ nhắn hòa quyện tự nhiên vào khung cảnh đời thường.
+- **Luật Cảm xúc, Tư thế Tự nhiên & Chất thơ Vi mô (`Micro-Poetry & Candid Posture`):** Đặt sự gắn kết chân thật của con người trưởng thành làm trung tâm thông qua sự hòa quyện giữa các cử chỉ thân mật tinh tế và những khoảnh khắc vui tươi hồn nhiên; đặt nhân vật ở tư thế tự nhiên có trọng tâm thoải mái, hướng sự chú ý vào bạn đồng hành hoặc hoạt động trong cảnh và gắn kết đôi tay với điểm tựa hoặc vật dụng hữu hình; khi điểm xuyết yếu tố siêu thực, ưu tiên những nét chấm phá nhỏ nhắn hòa quyện vào khung cảnh đời thường.
