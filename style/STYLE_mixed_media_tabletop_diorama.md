@@ -19,10 +19,10 @@
 
 ```text
 # 1. Cảnh Có Nhân vật (Trung-rộng toàn thân, Trung cận bán thân, Bóng lưng, Nhìn xuyên khung):
-2.5D handcrafted stop-motion animation film still, photorealistic miniature wood and stone diorama, stylized figures with matte paper-pulp skin and thick cotton-fiber hair. [Full-body medium-wide | Waist-up medium close-up + Góc máy + Không gian sa bàn giàu kết cấu vật lý, Bảng màu & Tương phản ánh sáng], where [Nhân vật tự do biến hóa vóc dáng/đường nét với mái tóc dày đổi kiểu + phụ kiện cá tính, trang phục khớp cỡ cảnh (đủ áo-quần/váy chạm sàn ở cảnh toàn thân hoặc đặt sau mặt phẳng tiền cảnh ở cảnh bán thân) + Khoảnh khắc hành động phóng khoáng tự tại & tư thế thoải mái + Điểm xuyết chất thơ siêu thực tinh tế nếu ở cảnh Hook]. Macro 85mm, shallow depth of field, no text --ar 16:9
+2.5D handcrafted stop-motion animation film still, photorealistic miniature diorama, stylized figures with matte paper-pulp skin and thick cotton-fiber hair. [Full-body medium-wide | Waist-up medium close-up + Góc máy + Không gian sa bàn giàu kết cấu vật lý, Bảng màu & Tương phản ánh sáng], where [Nhân vật tự do biến hóa vóc dáng/đường nét với mái tóc dày đổi kiểu + phụ kiện cá tính, trang phục khớp cỡ cảnh (đủ áo-quần/váy chạm sàn ở cảnh toàn thân hoặc đặt sau mặt phẳng tiền cảnh ở cảnh bán thân) + Khoảnh khắc hành động phóng khoáng tự tại & tư thế thoải mái + Điểm xuyết chất thơ siêu thực tinh tế nếu ở cảnh Hook]. Macro 85mm, shallow depth of field, no text --ar 16:9
 
 # 2. Cảnh Đặc tả Chi tiết / Tĩnh vật / Đại cảnh Vắng người (Close-up / Detail / Wide):
-2.5D handcrafted stop-motion animation film still, photorealistic miniature wood and stone diorama. [Cỡ cảnh + Góc máy + Không gian/Chi tiết giàu kết cấu vật lý, Bảng màu & Ánh sáng], where [Diễn biến tinh tế của chi tiết/tự nhiên hoặc bóng người nhỏ bé ở xa đối với Đại cảnh]. Macro 85mm, shallow depth of field, no text --ar 16:9
+2.5D handcrafted stop-motion animation film still, photorealistic miniature diorama. [Cỡ cảnh + Góc máy + Không gian/Chi tiết giàu kết cấu vật lý, Bảng màu & Ánh sáng], where [Diễn biến tinh tế của chi tiết/tự nhiên hoặc bóng người nhỏ bé ở xa đối với Đại cảnh]. Macro 85mm, shallow depth of field, no text --ar 16:9
 ```
 
 ---
@@ -30,8 +30,8 @@
 ## 2. Luật Đầu Ra (`character.md` & `image.txt`)
 
 - **Khóa Chất liệu Sa bàn Tả thực ở Đầu Câu (`Material Prefix Lock`) & Giải phóng Tạo hình Nhân vật (`Unconstrained Character Variety`):**
-  - Chỉ khóa chất liệu thế giới sa bàn gỗ, đá tả thực và chất liệu da bột giấy cùng tóc sợi bông dày ở câu đầu tiên (`2.5D handcrafted stop-motion animation film still, photorealistic miniature wood and stone diorama, stylized figures with matte paper-pulp skin and thick cotton-fiber hair.`), dành toàn bộ đường nét gương mặt, tỷ lệ hình thể và thần thái cho mô hình tự do biến hóa đa dạng theo ngữ cảnh từng nhân vật.
-  - Với cảnh tĩnh vật hoặc đại cảnh vắng người, mở đầu bằng cụm khóa chất liệu thế giới (`2.5D handcrafted stop-motion animation film still, photorealistic miniature wood and stone diorama.`).
+  - Chỉ khóa chất liệu thế giới sa bàn thu nhỏ tả thực và chất liệu da bột giấy cùng tóc sợi bông dày ở câu đầu tiên (`2.5D handcrafted stop-motion animation film still, photorealistic miniature diorama, stylized figures with matte paper-pulp skin and thick cotton-fiber hair.`), dành toàn bộ đường nét gương mặt, tỷ lệ hình thể, thời đại bối cảnh và thần thái cho mô hình tự do biến hóa đa dạng theo ngữ cảnh từng nhân vật.
+  - Với cảnh tĩnh vật hoặc đại cảnh vắng người, mở đầu bằng cụm khóa chất liệu thế giới (`2.5D handcrafted stop-motion animation film still, photorealistic miniature diorama.`).
   - Khóa hậu tố ống kính `. Macro 85mm, shallow depth of field, no text --ar 16:9` ở cuối mỗi dòng câu lệnh trong `image.txt`.
 - **Đa dạng Nhân vật, Mái tóc Dày Đổi kiểu & Đồng bộ Tỷ lệ Cơ thể theo Cỡ cảnh:**
   - Mỗi cảnh có người đều định danh nhân vật bằng vóc dáng, vai trò sinh hoạt mới và **một kiểu tóc dày phủ kín đầu được biến hóa đa dạng về phom dáng và sắc độ** (`a full head of [kiểu dáng + màu sắc] hair` hoặc kiểu tóc tết/búi dày kết hợp phụ kiện đầu/râu/kính khác biệt) để mỗi khung hình mang diện mạo độc bản.
