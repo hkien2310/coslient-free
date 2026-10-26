@@ -37,8 +37,8 @@
     - **`Outro` (Gặt lại chi tiết & Dư âm):** Khép vòng câu chuyện bằng hình ảnh đọng lại sự bình yên sâu lắng.
   - **Sự linh hoạt của Đại Cảnh:** Một Đại Cảnh là một khối chủ đề và cảm xúc thống nhất, bên trong gồm các Tiểu Cảnh là những lát cắt độc lập qua những con người, ngôi nhà, khu vườn và công trình khác nhau cùng cộng hưởng chung một nhịp sống của thị trấn.
 - **2. Tầng 2 — Triển khai Tiểu Cảnh Độc lập theo Nhịp sóng `Hook -> Bồi tiếp Cảm xúc -> Mini-Hook` (`Micro-Scenes`):**
-  - **Mở đầu mỗi Đại Cảnh bằng `Hook` hoặc `Mini-Hook`:** Cảnh đầu tiên của mỗi phân đoạn luôn tung ra một khung hình đẹp mắt choáng ngợp hoặc một tình huống gây hiếu kỳ để neo chặt ánh nhìn.
-  - **Mỗi Tiểu Cảnh tiếp theo là 1 Lát cắt Độc lập nối mạch Cảm xúc (`Cảnh N -> Cảnh N+1`):** Mỗi cảnh kế tiếp mở ra một góc không gian mới và nhân vật mới độc lập, đồng thời xác định rõ lý do xuất hiện và cách nó bồi tiếp, giải thích hoặc mở rộng cảm xúc từ cảnh ngay trước đó trong cùng một thế giới lớn.
+  - **Mở đầu mỗi Đại Cảnh bằng Điểm xuyết Siêu thực (`Hook / Mini-Hook`):** Cảnh mở đầu của mỗi phân đoạn điểm xuyết một hình ảnh siêu thực giàu chất thơ gắn với bản chất kỳ diệu của thị trấn và câu hát chủ đạo để nâng tầm cảm xúc và kích hoạt sự hiếu kỳ.
+  - **Các Tiểu Cảnh tiếp theo (`Bồi tiếp`) giữ trọn đời sống bình dị ấm áp (`Cảnh N -> Cảnh N+1`):** Các cảnh đi sau trong Đại Cảnh trở về nhịp sống đời thường mộc mạc, gần gũi và chữa lành qua những góc không gian mới và nhân vật mới độc lập, bồi đắp chiều sâu tình cảm con người từ cảnh ngay trước đó.
 - **3. Bước nhảy Không gian & Đảo nhịp Góc máy ($N \to N+1$):**
   - Khi chuyển từ Cảnh $N$ sang Cảnh $N+1$, chủ động chuyển đổi vị trí không gian/điểm nhìn, đổi cỡ cảnh (Toàn $\leftrightarrow$ Trung/Cận) và luân phiên đổi độ cao góc máy (Góc ngang tầm mắt `Eye-level` $\leftrightarrow$ Góc thấp hất lên `Low-angle` $\leftrightarrow$ Góc cao nhìn xuống `High-angle` $\leftrightarrow$ Góc qua vai `Over-the-shoulder POV` $\leftrightarrow$ Góc xuyên khung tiền cảnh `Framed-through`) sau khi đã khóa chắc lý do nối cảnh.
 
@@ -46,16 +46,15 @@
 
 ## 3. Luật Hình Ảnh & Thế Giới
 
-- **Luật Công thức Siêu thực (`1 Điểm sai + 1 Hành động thản nhiên = Siêu thực`):**
-  - **Nguyên lý cốt lõi (Ẩn dụ trực tiếp cho Nhạc & Truyện):** Đặt trên nền kiến trúc đời thực cổ điển trầm ấm của người trưởng thành, mỗi Điểm sai siêu thực phải là **ẩn dụ thị giác trực tiếp cho tâm tình câu chuyện, thông điệp và hình ảnh trong lời bài hát**; mỗi khung hình kết hợp **1 Điểm sai giàu tính ẩn dụ** với **1 việc làm đời thường ở nhịp độ chậm**, nơi nhân vật đón nhận điều kỳ lạ bằng thái độ thản nhiên, thân thuộc và ấm áp.
-  - **5 Cơ chế tạo Điểm sai (Luân phiên qua các Đại Cảnh để tạo `Hook / Mini-Hook` và kiến trúc thị trấn):**
+- **Luật Công thức Siêu thực Điểm xuyết (`Nền đời thường ấm áp + Điểm xuyết Siêu thực ở Hook Đại Cảnh`):**
+  - **Nguyên lý cốt lõi (Thị trấn Bình dị mang 1 Bản chất Câu chuyện Kỳ diệu):** Toàn bộ thị trấn giữ nguyên kiến trúc và sinh hoạt đời thường bình dị, ấm áp, gần gũi của người trưởng thành, chỉ mang **1 quy luật kỳ diệu cốt lõi về mặt bản chất câu chuyện**. Yếu tố siêu thực được **điểm xuyết có chọn lọc tại điểm `Hook / Mini-Hook` của mỗi Đại Cảnh** để làm ẩn dụ thị giác trực tiếp nâng tầm lời bài hát (kết hợp **1 Điểm sai giàu tính ẩn dụ** với **1 việc làm đời thường ở nhịp độ chậm**), trong khi phần lớn các Tiểu Cảnh bồi tiếp giữ trọn vẻ đẹp đời thường mộc mạc và chữa lành.
+  - **4 Cơ chế tạo Điểm sai bám quy luật vật lý (Chọn lọc điểm xuyết cho `Hook / Mini-Hook` Đại Cảnh):**
     1. **Lai ghép (`Ngoại hình bên Nhỏ/Mềm + Tính chất bên Lớn/Vững`):** Ghép hai thực thể bằng cách lấy ngoại hình của thực thể nhỏ hoặc mềm đắp vào thực thể lớn hoặc vững chãi, đồng thời giữ nguyên tính chất vật lý của bên lớn hơn (giữ tính tĩnh tại để ở của công trình kiến trúc hoặc tính gợn sóng bồng bềnh của mặt biển/cảnh quan).
     2. **Phóng đại (`Phóng to vượt bậc 1 thực thể duy nhất theo 2 nhánh`):**
        - *Nhánh Đồ vật quen thuộc:* Phóng đại kích thước và đổi công năng thành công trình kiến trúc, nơi trú ẩn hoặc phương tiện.
        - *Nhánh Sinh vật nhỏ bé hiền lành:* Phóng đại kích thước với đường nét thủ công bo tròn mềm mại và giữ nguyên tính chất là người bạn sinh vật hiền hòa để con người tựa vào hoặc bầu bạn.
     3. **Vật thể hóa tự nhiên (`1 hiện tượng tự nhiên + đối xử như vật cầm nắm được`):** Chuyển hóa hiện tượng tự nhiên nhẹ nhàng thành chất liệu thủ công hữu hình để nhân vật nâng niu và bầu bạn.
     4. **Lạc quẻ không gian (`1 vật dụng riêng tư + đặt giữa thiên nhiên bao la`):** Đặt một góc nội thất đơn lẻ, tối giản và mang tính an ủi giữa cảnh quan thiên nhiên rộng lớn.
-    5. **Tọa độ siêu thực (`Thực thể độc lập + đặt ở tọa độ dứt khoát`):** Chỉ áp dụng cho thực thể có đường biên khép kín tự đủ công năng tại chỗ hoặc kết cấu mở hướng thẳng lên bầu trời theo hai biên độ dứt khoát: (a) nâng nhẹ khỏi mặt đất trong tầm bước tự nhiên của con người, hoặc (b) tách hẳn lên tầng không gian cao để lấy bầu trời làm môi trường nâng đỡ mới (khi ở dưới thấp thì tiếp xúc trực tiếp với mặt nền gốc); giữ mọi kết cấu nối ngang giữa các điểm trên mặt đất liên kết liền mạch với điểm tựa.
 - **Luật Lát cắt Độc lập trong Cùng một Thế giới Lớn:** Mỗi bức ảnh (mỗi Tiểu Cảnh) là một lát cắt độc lập với nhân vật, trang phục, công trình và góc không gian riêng biệt để tối đa hóa sự đa dạng thị giác; đồng thời tất cả các lát cắt đều gắn kết chặt chẽ trong cùng một thế giới thị trấn thống nhất qua quy luật siêu thực định danh, tiến trình ánh sáng và mạch cảm xúc của bài hát.
 - **Luật Tối giản:** Mỗi cảnh tập trung vào 1 ý tưởng hình ảnh rõ ràng trong không gian thoáng rộng, có thể xóa phông hậu cảnh khi cần làm nổi bật chủ thể.
 - **Luật Đa dạng & Chiều sâu Điện ảnh:** Luân phiên đa dạng góc độ cao-thấp của máy quay (góc ngang tầm mắt kết nối cảm xúc, góc thấp hất lên, góc cao nhìn xuống, góc nhìn qua vai, góc nhìn xuyên qua tiền cảnh) cùng bố cục nhiều lớp tiền-trung-hậu cảnh và cỡ cảnh.
